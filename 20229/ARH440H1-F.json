@@ -1,6 +1,6 @@
 {
 "code": "ARH440H1-F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "enrollmentCap": 12,
@@ -213,9 +213,15 @@
 12,
 12,
 12,
+12,
 12
 ],
-"instructors": [],
+"instructors": [
+[
+"Philip",
+"Sapirstein"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -424,7 +430,8 @@
 1662566803,
 1662568210,
 1662569032,
-1662572715
+1662572715,
+1662575835
 ],
 "title": "Photogrammetry and 3D Analysis of Material Culture"
 }
