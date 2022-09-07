@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 115,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662581947,
+105
+]
+],
 "initialCap": 115
 },
 "enrollmentLogs": [
@@ -80,6 +85,7 @@
 91,
 91,
 91,
+93,
 93
 ],
 "instructors": [
@@ -163,7 +169,8 @@
 1662569032,
 1662572715,
 1662574688,
-1662575835
+1662575835,
+1662581947
 ],
 "title": "The Ancient Mediterranean World"
 }

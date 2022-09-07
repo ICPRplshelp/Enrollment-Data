@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 20,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662581947,
+24
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -214,6 +219,7 @@
 24,
 24,
 25,
+24,
 24,
 24
 ],
@@ -433,7 +439,8 @@
 1662569032,
 1662572715,
 1662574688,
-1662575835
+1662575835,
+1662581947
 ],
 "title": "Modern Atheism and the Critique of Religion: Hobbes to Kant"
 }

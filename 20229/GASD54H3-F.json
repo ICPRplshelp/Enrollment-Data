@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 8,
+"enrollmentCap": 6,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662581947,
+6
+]
+],
 "initialCap": 8
 },
 "enrollmentLogs": [
@@ -77,6 +82,7 @@
 5,
 4,
 4,
+5,
 5,
 5,
 5,
@@ -163,7 +169,8 @@
 1662569032,
 1662572715,
 1662574688,
-1662575835
+1662575835,
+1662581947
 ],
 "title": "Aqueous History: Water-Stories for a Future"
 }

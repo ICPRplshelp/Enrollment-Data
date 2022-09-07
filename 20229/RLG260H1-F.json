@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 40,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662581947,
+45
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -210,6 +215,7 @@
 42,
 42,
 43,
+42,
 42,
 42,
 42,
@@ -433,7 +439,8 @@
 1662569032,
 1662572715,
 1662574688,
-1662575835
+1662575835,
+1662581947
 ],
 "title": "Introduction to Sanskrit I"
 }

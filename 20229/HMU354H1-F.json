@@ -3,9 +3,14 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 31,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662581947,
+32
+]
+],
 "initialCap": 31
 },
 "enrollmentLogs": [
@@ -80,7 +85,8 @@
 31,
 31,
 31,
-31
+31,
+32
 ],
 "instructors": [
 [
@@ -163,7 +169,8 @@
 1662569032,
 1662572715,
 1662574688,
-1662575835
+1662575835,
+1662581947
 ],
 "title": "Beethoven"
 }
