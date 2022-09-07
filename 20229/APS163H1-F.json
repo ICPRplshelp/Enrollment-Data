@@ -3,9 +3,14 @@
 "faculty": "APSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662585026,
+80
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -81,7 +86,8 @@
 32,
 32,
 32,
-39
+39,
+80
 ],
 "instructors": [
 [
@@ -165,7 +171,8 @@
 1662572715,
 1662574688,
 1662575835,
-1662581946
+1662581946,
+1662585026
 ],
 "title": "Calculus for Engineers II"
 }
