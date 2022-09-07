@@ -3,9 +3,14 @@
 "faculty": "APSC",
 "meetings": [
 {
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662574688,
+150
+]
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -78,6 +83,7 @@
 140,
 140,
 140,
+141,
 141
 ],
 "instructors": [
@@ -159,7 +165,8 @@
 1662566803,
 1662568210,
 1662569032,
-1662572715
+1662572715,
+1662574688
 ],
 "title": "Systems Software"
 }

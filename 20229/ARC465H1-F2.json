@@ -5,16 +5,12 @@
 {
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [
-[
-1662572715,
-40
-]
-],
-"initialCap": 3500
+"capChanges": [],
+"initialCap": 40
 },
 "enrollmentLogs": [
 0,
+45,
 45
 ],
 "instructors": [
@@ -28,7 +24,8 @@
 ],
 "timeIntervals": [
 1662572714,
-1662572715
+1662572715,
+1662574688
 ],
 "title": "Advanced Topics in Architecture"
 }

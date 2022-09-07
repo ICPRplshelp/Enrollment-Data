@@ -5,16 +5,12 @@
 {
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [
-[
-1662572715,
-9999
-]
-],
-"initialCap": 3500
+"capChanges": [],
+"initialCap": 9999
 },
 "enrollmentLogs": [
 0,
+7,
 7
 ],
 "instructors": [],
@@ -23,7 +19,8 @@
 ],
 "timeIntervals": [
 1662572714,
-1662572715
+1662572715,
+1662574688
 ],
 "title": "Combined Degree Program Graduate Course 1"
 }
