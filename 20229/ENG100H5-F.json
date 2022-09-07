@@ -77,15 +77,21 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662572715,
+105
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -157,7 +163,8 @@
 102,
 102,
 102,
-102
+102,
+101
 ],
 "instructors": [
 [
@@ -168,9 +175,14 @@
 "meetingNumber": "LEC0102"
 },
 {
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662572715,
+105
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -242,7 +254,8 @@
 109,
 108,
 108,
-108
+108,
+107
 ],
 "instructors": [
 [
@@ -322,7 +335,8 @@
 1662497031,
 1662566803,
 1662568210,
-1662569032
+1662569032,
+1662572715
 ],
 "title": "Effective Writing"
 }
