@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 56,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 65,
 65,
 65,
+63,
 63,
 63,
 63,
@@ -451,7 +457,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Organization Theory and Its Applications"
 }

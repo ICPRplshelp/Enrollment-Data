@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+50
+]
+],
 "initialCap": 48
 },
 "enrollmentLogs": [
@@ -224,7 +229,8 @@
 51,
 51,
 51,
-50
+50,
+52
 ],
 "instructors": [
 [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -456,7 +467,8 @@
 55,
 55,
 55,
-55
+55,
+56
 ],
 "instructors": [
 [
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC5101"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -688,7 +705,8 @@
 57,
 56,
 56,
-56
+56,
+57
 ],
 "instructors": [
 [
@@ -915,7 +933,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Marketing Management"
 }

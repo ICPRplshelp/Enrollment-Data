@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 57
 },
 "enrollmentLogs": [
@@ -224,7 +229,8 @@
 66,
 66,
 66,
-66
+66,
+64
 ],
 "instructors": [
 [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 57
 },
 "enrollmentLogs": [
@@ -456,7 +467,8 @@
 63,
 63,
 63,
-63
+63,
+62
 ],
 "instructors": [
 [
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -688,7 +705,8 @@
 63,
 63,
 63,
-62
+62,
+60
 ],
 "instructors": [
 [
@@ -699,9 +717,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -920,6 +943,7 @@
 59,
 59,
 59,
+58,
 58
 ],
 "instructors": [
@@ -931,9 +955,14 @@
 "meetingNumber": "LEC0401"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+57
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1152,7 +1181,8 @@
 48,
 48,
 48,
-49
+49,
+51
 ],
 "instructors": [
 [
@@ -1379,7 +1409,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Corporate Finance"
 }

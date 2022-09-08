@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+70
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -79,6 +84,7 @@
 71,
 71,
 71,
+69,
 69,
 69,
 69,
@@ -181,7 +187,8 @@
 1662650733,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Mafia Movies: Unraveling the Mob in Italian and North American Cinema"
 }

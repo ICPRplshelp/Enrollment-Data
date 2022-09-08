@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 1050,
+"enrollmentCap": 950,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+950
+]
+],
 "initialCap": 1050
 },
 "enrollmentLogs": [
@@ -224,7 +229,8 @@
 942,
 941,
 941,
-941
+941,
+940
 ],
 "instructors": [
 [
@@ -451,7 +457,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "The Real World of Politics: An Introduction"
 }

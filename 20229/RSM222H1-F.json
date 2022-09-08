@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 51,
 51,
 51,
+53,
 53,
 53,
 53,
@@ -456,7 +462,8 @@
 69,
 69,
 69,
-69
+69,
+66
 ],
 "instructors": [
 [
@@ -467,9 +474,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -688,7 +700,8 @@
 54,
 54,
 54,
-54
+54,
+52
 ],
 "instructors": [
 [
@@ -920,7 +933,8 @@
 70,
 72,
 72,
-72
+72,
+68
 ],
 "instructors": [
 [
@@ -1152,6 +1166,7 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructors": [
@@ -1163,9 +1178,14 @@
 "meetingNumber": "LEC0401"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+59
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1381,6 +1401,7 @@
 60,
 60,
 60,
+61,
 61,
 61,
 61,
@@ -1616,7 +1637,8 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructors": [
 [
@@ -1848,7 +1870,8 @@
 60,
 60,
 60,
-60
+60,
+57
 ],
 "instructors": [
 [
@@ -2080,6 +2103,7 @@
 65,
 65,
 65,
+64,
 64
 ],
 "instructors": [
@@ -2312,7 +2336,8 @@
 30,
 30,
 30,
-32
+32,
+34
 ],
 "instructors": [
 [
@@ -2541,6 +2566,7 @@
 36,
 36,
 36,
+41,
 41,
 41,
 41,
@@ -2776,6 +2802,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructors": [
@@ -3003,7 +3030,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Management Accounting I"
 }

@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -224,6 +229,7 @@
 63,
 63,
 63,
+63,
 63
 ],
 "instructors": [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -453,6 +464,7 @@
 61,
 61,
 61,
+59,
 59,
 59,
 59,
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -670,6 +687,7 @@
 61,
 61,
 61,
+59,
 59,
 59,
 59,
@@ -915,7 +933,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Investments"
 }

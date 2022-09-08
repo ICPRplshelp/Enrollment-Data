@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 57
 },
 "enrollmentLogs": [
@@ -224,6 +229,7 @@
 76,
 76,
 76,
+76,
 76
 ],
 "instructors": [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -456,6 +467,7 @@
 82,
 82,
 82,
+82,
 82
 ],
 "instructors": [
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -688,7 +705,8 @@
 70,
 70,
 70,
-70
+70,
+69
 ],
 "instructors": [
 [
@@ -699,9 +717,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -920,7 +943,8 @@
 71,
 71,
 71,
-71
+71,
+70
 ],
 "instructors": [
 [
@@ -931,9 +955,14 @@
 "meetingNumber": "LEC0401"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -1152,7 +1181,8 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructors": [
 [
@@ -1163,9 +1193,14 @@
 "meetingNumber": "LEC0501"
 },
 {
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+50
+]
+],
 "initialCap": 48
 },
 "enrollmentLogs": [
@@ -1384,6 +1419,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructors": [
@@ -1395,9 +1431,14 @@
 "meetingNumber": "LEC0601"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -1616,7 +1657,8 @@
 68,
 68,
 68,
-68
+68,
+66
 ],
 "instructors": [
 [
@@ -1843,7 +1885,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Strategic Management"
 }

@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -224,7 +229,8 @@
 57,
 56,
 56,
-56
+56,
+55
 ],
 "instructors": [
 [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -456,6 +467,7 @@
 58,
 58,
 58,
+57,
 57
 ],
 "instructors": [
@@ -688,12 +700,17 @@
 48,
 49,
 49,
+50,
 50
 ],
 "instructors": [
 [
 "Warren",
 "Goldblum"
+],
+[
+"Nicholas",
+"Moritsugu"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -915,7 +932,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Private Equity and Entrepreneurial Finance"
 }

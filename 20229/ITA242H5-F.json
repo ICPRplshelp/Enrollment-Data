@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -75,6 +80,7 @@
 55,
 55,
 55,
+56,
 56,
 56,
 56,
@@ -181,7 +187,8 @@
 1662650733,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Classics of Italian Cinema"
 }

@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -224,6 +229,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructors": [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC5101"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -456,7 +467,8 @@
 57,
 57,
 57,
-57
+57,
+56
 ],
 "instructors": [
 [
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC5201"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -688,7 +705,8 @@
 53,
 53,
 53,
-53
+53,
+52
 ],
 "instructors": [
 [
@@ -915,7 +933,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Marketing Research"
 }

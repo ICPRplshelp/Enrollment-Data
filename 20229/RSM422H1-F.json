@@ -224,6 +224,7 @@
 38,
 38,
 38,
+37,
 37
 ],
 "instructors": [
@@ -456,7 +457,8 @@
 30,
 30,
 30,
-31
+31,
+32
 ],
 "instructors": [
 [
@@ -467,9 +469,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 54,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 54
 },
 "enrollmentLogs": [
@@ -688,7 +695,8 @@
 55,
 55,
 55,
-55
+55,
+54
 ],
 "instructors": [
 [
@@ -915,7 +923,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Management Control"
 }

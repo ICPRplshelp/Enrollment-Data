@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 58,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+59
+]
+],
 "initialCap": 58
 },
 "enrollmentLogs": [
@@ -93,6 +98,7 @@
 65,
 65,
 65,
+64,
 64,
 64,
 64,
@@ -451,7 +457,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Intermediate Financial Accounting III"
 }

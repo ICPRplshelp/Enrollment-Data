@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 50,
 50,
 50,
+52,
 52,
 52,
 52,
@@ -456,6 +462,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructors": [
@@ -688,6 +695,7 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructors": [
@@ -915,7 +923,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Legal Environment of Business I"
 }

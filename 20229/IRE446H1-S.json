@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 30,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+25
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -166,6 +171,7 @@
 0,
 0,
 0,
+24,
 24,
 24,
 24,
@@ -451,7 +457,8 @@
 1662650733,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Working as an Internal Organizational Consultant"
 }

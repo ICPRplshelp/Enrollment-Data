@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 75,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+110
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -89,7 +94,8 @@
 104,
 104,
 104,
-104
+104,
+103
 ],
 "instructors": [
 [
@@ -181,7 +187,8 @@
 1662650733,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Cucina Italiana: Italian History and Culture Through Food"
 }

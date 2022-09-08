@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 58,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+59
+]
+],
 "initialCap": 58
 },
 "enrollmentLogs": [
@@ -224,6 +229,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructors": [
@@ -235,9 +241,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 60,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+61
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -456,6 +467,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructors": [
@@ -467,9 +479,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 57
 },
 "enrollmentLogs": [
@@ -688,7 +705,8 @@
 69,
 69,
 69,
-69
+69,
+68
 ],
 "instructors": [
 [
@@ -699,9 +717,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+58
+]
+],
 "initialCap": 57
 },
 "enrollmentLogs": [
@@ -920,7 +943,8 @@
 72,
 72,
 72,
-72
+72,
+70
 ],
 "instructors": [
 [
@@ -931,9 +955,14 @@
 "meetingNumber": "LEC0401"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1152,6 +1181,7 @@
 49,
 50,
 50,
+50,
 50
 ],
 "instructors": [
@@ -1163,9 +1193,14 @@
 "meetingNumber": "LEC0501"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -1384,7 +1419,8 @@
 63,
 63,
 63,
-63
+63,
+62
 ],
 "instructors": [
 [
@@ -1395,9 +1431,14 @@
 "meetingNumber": "LEC0601"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1616,6 +1657,7 @@
 32,
 32,
 32,
+33,
 33
 ],
 "instructors": [
@@ -1627,9 +1669,14 @@
 "meetingNumber": "LEC0701"
 },
 {
-"enrollmentCap": 60,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+64
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -1848,7 +1895,8 @@
 64,
 64,
 64,
-64
+64,
+63
 ],
 "instructors": [
 [
@@ -1859,9 +1907,14 @@
 "meetingNumber": "LEC5101"
 },
 {
-"enrollmentCap": 55,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+56
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -2080,7 +2133,8 @@
 58,
 57,
 57,
-57
+57,
+56
 ],
 "instructors": [
 [
@@ -2307,7 +2361,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Capital Market Theory"
 }

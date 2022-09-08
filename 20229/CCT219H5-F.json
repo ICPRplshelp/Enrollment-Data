@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 75,
+"enrollmentCap": 102,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+102
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -89,6 +94,7 @@
 102,
 100,
 100,
+94,
 94
 ],
 "instructors": [
@@ -181,7 +187,8 @@
 1662650733,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Media Economics I (DEM)"
 }

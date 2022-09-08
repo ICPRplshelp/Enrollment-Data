@@ -3,9 +3,14 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 18,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+19
+]
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -89,7 +94,8 @@
 18,
 18,
 18,
-18
+18,
+19
 ],
 "instructors": [
 [
@@ -181,7 +187,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Songwriting"
 }

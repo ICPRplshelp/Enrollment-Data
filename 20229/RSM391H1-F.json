@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 75,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662664205,
+80
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -217,6 +222,7 @@
 79,
 79,
 79,
+80,
 80,
 80,
 80,
@@ -451,7 +457,8 @@
 1662650734,
 1662653584,
 1662654675,
-1662656011
+1662656011,
+1662664205
 ],
 "title": "Creative Destruction Lab \u2013 Introductory Course"
 }
