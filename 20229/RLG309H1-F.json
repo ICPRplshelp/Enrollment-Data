@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 185,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662666379,
+200
+]
+],
 "initialCap": 185
 },
 "enrollmentLogs": [
@@ -225,6 +230,7 @@
 199,
 199,
 199,
+198,
 198
 ],
 "instructors": [
@@ -453,7 +459,8 @@
 1662653584,
 1662654675,
 1662656011,
-1662664205
+1662664205,
+1662666379
 ],
 "title": "Religion and Human Rights"
 }

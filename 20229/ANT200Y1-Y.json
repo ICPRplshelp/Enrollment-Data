@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 150,
+"enrollmentCap": 154,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662666379,
+154
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -225,6 +230,7 @@
 160,
 160,
 160,
+159,
 159
 ],
 "instructors": [
@@ -457,7 +463,8 @@
 1662653584,
 1662654675,
 1662656011,
-1662664205
+1662664205,
+1662666379
 ],
 "title": "Introduction to Archaeology"
 }
