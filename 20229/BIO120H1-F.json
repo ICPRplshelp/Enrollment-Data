@@ -229,7 +229,8 @@
 1654,
 1654,
 1653,
-1653
+1653,
+1652
 ],
 "instructors": [
 [
@@ -244,9 +245,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 611,
+"enrollmentCap": 612,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662676073,
+612
+]
+],
 "initialCap": 611
 },
 "enrollmentLogs": [
@@ -470,7 +476,8 @@
 695,
 695,
 695,
-695
+695,
+693
 ],
 "instructors": [
 [
@@ -669,6 +676,7 @@
 11,
 11,
 11,
+10,
 10,
 10,
 10,
@@ -952,6 +960,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructors": [
@@ -1188,7 +1197,8 @@
 1662666379,
 1662667722,
 1662670288,
-1662670928
+1662670928,
+1662676073
 ],
 "title": "Adaptation and Biodiversity"
 }
