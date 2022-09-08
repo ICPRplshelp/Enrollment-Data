@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662670288,
+250
+]
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 337,
 337,
 337,
+334,
 334,
 334,
 334,
@@ -457,7 +463,8 @@
 1662656011,
 1662664205,
 1662666379,
-1662667722
+1662667722,
+1662670288
 ],
 "title": "Introduction to Cognitive Science"
 }
