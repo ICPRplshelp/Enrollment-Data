@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662667722,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -90,6 +95,7 @@
 55,
 55,
 55,
+56,
 56,
 56
 ],
@@ -185,7 +191,8 @@
 1662654675,
 1662656011,
 1662664205,
-1662666379
+1662666379,
+1662667722
 ],
 "title": "Primate Behaviour"
 }
