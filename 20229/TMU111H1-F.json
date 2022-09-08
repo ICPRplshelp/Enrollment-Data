@@ -3,9 +3,14 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 37,
+"enrollmentCap": 38,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662650734,
+38
+]
+],
 "initialCap": 37
 },
 "enrollmentLogs": [
@@ -85,7 +90,8 @@
 37,
 37,
 37,
-37
+37,
+38
 ],
 "instructors": [
 [
@@ -173,7 +179,8 @@
 1662585027,
 1662596733,
 1662612757,
-1662617178
+1662617178,
+1662650734
 ],
 "title": "Intro Computer Applications in Music"
 }

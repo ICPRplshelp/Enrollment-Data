@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 5,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662650734,
+7
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -80,6 +85,7 @@
 2,
 3,
 3,
+5,
 5,
 5,
 5,
@@ -168,7 +174,8 @@
 1662585026,
 1662596733,
 1662612757,
-1662617178
+1662617178,
+1662650734
 ],
 "title": "Further Studies in Mathematics"
 }
