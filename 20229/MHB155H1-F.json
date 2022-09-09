@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+30
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 25,
 25,
 25,
+26,
 26,
 26
 ],
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Elementary Modern Hebrew I"
 }

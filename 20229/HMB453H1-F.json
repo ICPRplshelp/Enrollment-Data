@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 90,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+95
+]
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 100,
 100,
 100,
-100
+100,
+93
 ],
 "instructors": [
 [
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "AIDS: A Global Perspective"
 }

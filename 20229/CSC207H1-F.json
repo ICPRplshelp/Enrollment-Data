@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 174,
 174,
 174,
-174
+174,
+167
 ],
 "instructors": [
 [
@@ -242,9 +248,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -470,7 +481,8 @@
 164,
 164,
 165,
-165
+165,
+158
 ],
 "instructors": [
 [
@@ -481,9 +493,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -709,7 +726,8 @@
 163,
 163,
 163,
-163
+163,
+159
 ],
 "instructors": [
 [
@@ -720,9 +738,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -948,7 +971,8 @@
 166,
 166,
 166,
-166
+166,
+161
 ],
 "instructors": [
 [
@@ -1187,7 +1211,8 @@
 158,
 158,
 159,
-159
+159,
+153
 ],
 "instructors": [
 [
@@ -1198,9 +1223,14 @@
 "meetingNumber": "LEC5101"
 },
 {
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -1425,6 +1455,7 @@
 153,
 153,
 153,
+154,
 154,
 154
 ],
@@ -1660,7 +1691,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Software Design"
 }

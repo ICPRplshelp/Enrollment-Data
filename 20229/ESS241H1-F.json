@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 44,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+56
+]
+],
 "initialCap": 44
 },
 "enrollmentLogs": [
@@ -231,6 +236,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructors": [
@@ -353,6 +359,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -704,7 +711,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Geologic Structures and Maps"
 }

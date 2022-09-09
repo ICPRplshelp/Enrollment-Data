@@ -3,13 +3,19 @@
 "faculty": "ARCLA",
 "meetings": [
 {
-"enrollmentCap": 25,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+15
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
 0,
+14,
 14,
 14,
 14,
@@ -107,9 +113,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 25,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+15
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -178,6 +189,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -299,7 +311,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Visual Strategies"
 }

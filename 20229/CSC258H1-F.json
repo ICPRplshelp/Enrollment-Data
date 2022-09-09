@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 146,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+150
+]
+],
 "initialCap": 146
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 186,
 186,
 186,
-186
+186,
+183
 ],
 "instructors": [
 [
@@ -242,9 +248,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 146,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+150
+]
+],
 "initialCap": 146
 },
 "enrollmentLogs": [
@@ -470,7 +481,8 @@
 184,
 184,
 184,
-184
+184,
+183
 ],
 "instructors": [
 [
@@ -704,7 +716,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Computer Organization"
 }

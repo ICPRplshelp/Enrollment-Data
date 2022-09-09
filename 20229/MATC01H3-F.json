@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 100,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+60
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -96,7 +101,8 @@
 48,
 48,
 48,
-48
+48,
+47
 ],
 "instructors": [
 [
@@ -195,7 +201,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Groups and Symmetry"
 }

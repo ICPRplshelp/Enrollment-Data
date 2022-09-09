@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 325,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+350
+]
+],
 "initialCap": 325
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 365,
 364,
 364,
+366,
 366,
 366
 ],
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Premodern East Asia"
 }

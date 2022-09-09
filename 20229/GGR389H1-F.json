@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 60,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+30
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 15,
 15,
 15,
-15
+15,
+14
 ],
 "instructors": [
 [
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Special Topics in Human Geography"
 }

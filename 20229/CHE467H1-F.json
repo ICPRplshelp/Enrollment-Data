@@ -3,9 +3,14 @@
 "faculty": "APSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 52,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+52
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -96,7 +101,8 @@
 50,
 49,
 49,
-49
+49,
+51
 ],
 "instructors": [
 [
@@ -195,7 +201,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Environmental Engineering"
 }

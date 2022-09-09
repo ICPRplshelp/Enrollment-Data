@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 249,
+"enrollmentCap": 269,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+269
+]
+],
 "initialCap": 249
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 293,
 293,
 293,
-294
+294,
+293
 ],
 "instructors": [
 [
@@ -427,6 +433,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -704,7 +711,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }

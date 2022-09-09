@@ -3,9 +3,14 @@
 "faculty": "ARCLA",
 "meetings": [
 {
-"enrollmentCap": 260,
+"enrollmentCap": 282,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+282
+]
+],
 "initialCap": 260
 },
 "enrollmentLogs": [
@@ -96,7 +101,8 @@
 288,
 288,
 287,
-287
+287,
+290
 ],
 "instructors": [
 [
@@ -195,7 +201,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Structures, Building Systems, and Environments I"
 }

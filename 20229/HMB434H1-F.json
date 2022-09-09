@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+58
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 59,
 59,
 59,
-59
+59,
+58
 ],
 "instructors": [
 [
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Complementary & Integrative Medicine"
 }

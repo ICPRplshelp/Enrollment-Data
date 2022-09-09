@@ -101,6 +101,7 @@
 141,
 141,
 141,
+141,
 141
 ],
 "instructors": [
@@ -112,9 +113,14 @@
 "meetingNumber": "LEC01"
 },
 {
-"enrollmentCap": 125,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+140
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -205,7 +211,8 @@
 132,
 132,
 133,
-133
+133,
+130
 ],
 "instructors": [
 [
@@ -304,7 +311,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Syntax I"
 }

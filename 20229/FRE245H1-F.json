@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 90,
+"enrollmentCap": 96,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+96
+]
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 94,
 92,
 92,
+94,
 94,
 94
 ],
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Introduction to French Cultural and Literary Studies"
 }

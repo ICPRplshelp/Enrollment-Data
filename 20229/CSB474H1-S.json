@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1662765624,
+22
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 20,
 20,
 20,
-20
+20,
+22
 ],
 "instructors": [
 [
@@ -465,7 +471,8 @@
 1662670288,
 1662670928,
 1662676073,
-1662684828
+1662684828,
+1662765624
 ],
 "title": "Methods in Genomics and Proteomics"
 }
