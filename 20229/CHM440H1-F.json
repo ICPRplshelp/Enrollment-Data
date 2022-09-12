@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 40,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+35
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -210,6 +215,7 @@
 7,
 7,
 7,
+6,
 6,
 6,
 6,
@@ -479,7 +485,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "The Synthesis of Modern Pharmaceutical Agents"
 }

@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+40
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -238,7 +243,8 @@
 34,
 34,
 34,
-34
+34,
+37
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
@@ -474,7 +480,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Open Topics in Book & Media Studies"
 }

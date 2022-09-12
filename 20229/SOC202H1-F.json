@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 106,
+"enrollmentCap": 113,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+113
+]
+],
 "initialCap": 106
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 112,
 112,
 112,
+113,
 113,
 113,
 113,
@@ -484,7 +490,8 @@
 57,
 57,
 57,
-57
+57,
+53
 ],
 "instructors": [
 [
@@ -725,7 +732,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Introduction to Quantitative Methods in Sociology"
 }

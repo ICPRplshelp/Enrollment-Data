@@ -238,7 +238,8 @@
 25,
 25,
 25,
-25
+25,
+23
 ],
 "instructors": [
 [
@@ -249,9 +250,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 32,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+37
+]
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -484,7 +490,8 @@
 37,
 37,
 37,
-37
+37,
+36
 ],
 "instructors": [
 [
@@ -725,7 +732,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Elements of Analysis"
 }

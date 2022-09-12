@@ -238,15 +238,21 @@
 49,
 49,
 49,
-49
+49,
+50
 ],
 "instructors": [],
 "meetingNumber": "LEC2501"
 },
 {
-"enrollmentCap": 150,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+175
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -479,7 +485,8 @@
 174,
 174,
 174,
-174
+174,
+171
 ],
 "instructors": [
 [
@@ -720,7 +727,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Cities and Urban Life"
 }

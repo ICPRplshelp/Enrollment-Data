@@ -238,7 +238,8 @@
 54,
 54,
 54,
-54
+54,
+52
 ],
 "instructors": [
 [
@@ -484,6 +485,7 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructors": [
@@ -495,9 +497,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+56
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -730,7 +737,8 @@
 53,
 53,
 53,
-53
+53,
+54
 ],
 "instructors": [
 [
@@ -971,7 +979,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Data Analytics with Financial Accounting Information"
 }

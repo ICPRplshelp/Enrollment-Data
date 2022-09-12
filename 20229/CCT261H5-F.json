@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 110,
+"enrollmentCap": 142,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+142
+]
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -103,7 +108,8 @@
 142,
 142,
 142,
-142
+142,
+144
 ],
 "instructors": [
 [
@@ -209,7 +215,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Speculative Design I (DEM)"
 }

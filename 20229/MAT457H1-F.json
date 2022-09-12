@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 30,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+40
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -238,7 +243,8 @@
 40,
 40,
 40,
-40
+40,
+41
 ],
 "instructors": [
 [
@@ -479,7 +485,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Advanced Real Analysis I"
 }

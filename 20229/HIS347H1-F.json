@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 85,
+"enrollmentCap": 94,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+94
+]
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -238,7 +243,8 @@
 92,
 92,
 92,
-92
+92,
+94
 ],
 "instructors": [
 [
@@ -479,7 +485,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "The Country House in England 1837-1939"
 }

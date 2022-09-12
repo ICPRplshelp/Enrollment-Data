@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 62,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+65
+]
+],
 "initialCap": 62
 },
 "enrollmentLogs": [
@@ -238,7 +243,8 @@
 63,
 63,
 63,
-63
+63,
+65
 ],
 "instructors": [
 [
@@ -479,7 +485,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Contemporary Sociological Theory"
 }

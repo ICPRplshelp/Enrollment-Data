@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 25,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663023881,
+27
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -226,6 +231,7 @@
 29,
 29,
 29,
+28,
 28,
 28,
 28,
@@ -479,7 +485,8 @@
 1662847942,
 1662871461,
 1662913655,
-1662942881
+1662942881,
+1663023881
 ],
 "title": "Computational Biology Foundations"
 }
