@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 60,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+64
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -104,7 +109,8 @@
 60,
 60,
 60,
-64
+64,
+63
 ],
 "instructors": [
 [
@@ -211,7 +217,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Anthropology and the Indigenous Peoples of Turtle Island (in Canada)"
 }

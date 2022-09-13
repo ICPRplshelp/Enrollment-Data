@@ -104,7 +104,8 @@
 340,
 340,
 340,
-339
+339,
+334
 ],
 "instructors": [
 [
@@ -115,9 +116,14 @@
 "meetingNumber": "LEC01"
 },
 {
-"enrollmentCap": 86,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+120
+]
+],
 "initialCap": 86
 },
 "enrollmentLogs": [
@@ -216,6 +222,7 @@
 110,
 110,
 110,
+113,
 113
 ],
 "instructors": [
@@ -323,7 +330,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Calculus II for Physical Sciences"
 }

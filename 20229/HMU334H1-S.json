@@ -3,9 +3,14 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 32,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+33
+]
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -104,7 +109,8 @@
 32,
 32,
 32,
-32
+32,
+33
 ],
 "instructors": [
 [
@@ -211,7 +217,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Music and Disability"
 }

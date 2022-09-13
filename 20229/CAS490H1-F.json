@@ -3,12 +3,16 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 9,
+"enrollmentCap": 6,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662650733,
 9
+],
+[
+1663094064,
+6
 ]
 ],
 "initialCap": 10
@@ -244,7 +248,8 @@
 9,
 9,
 9,
-10
+10,
+7
 ],
 "instructors": [
 [
@@ -486,7 +491,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Special Topics in Contemporary Asian Studies"
 }

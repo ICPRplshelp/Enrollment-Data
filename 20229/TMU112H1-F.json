@@ -3,12 +3,16 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 31,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1663023881,
 31
+],
+[
+1663094064,
+32
 ]
 ],
 "initialCap": 30
@@ -109,7 +113,8 @@
 30,
 30,
 30,
-31
+31,
+32
 ],
 "instructors": [
 [
@@ -216,7 +221,8 @@
 1662871461,
 1662913655,
 1662942882,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Intro to Composition I"
 }

@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 30,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+24
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -187,6 +192,7 @@
 19,
 19,
 19,
+18,
 18,
 18,
 18,
@@ -481,7 +487,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Geography Professional Experience"
 }

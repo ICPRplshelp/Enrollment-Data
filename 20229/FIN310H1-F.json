@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+36
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -239,6 +244,7 @@
 19,
 19,
 19,
+20,
 20
 ],
 "instructors": [
@@ -481,7 +487,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Finnish Folklore: The Kalevala"
 }

@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 330,
+"enrollmentCap": 332,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+332
+]
+],
 "initialCap": 330
 },
 "enrollmentLogs": [
@@ -104,7 +109,8 @@
 334,
 334,
 334,
-331
+331,
+332
 ],
 "instructors": [
 [
@@ -216,7 +222,8 @@
 237,
 237,
 237,
-234
+234,
+233
 ],
 "instructors": [
 [
@@ -323,7 +330,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Statistics I"
 }

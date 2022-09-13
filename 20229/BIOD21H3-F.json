@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 26,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663094064,
+25
+]
+],
 "initialCap": 26
 },
 "enrollmentLogs": [
@@ -104,7 +109,8 @@
 26,
 26,
 26,
-26
+26,
+25
 ],
 "instructors": [
 [
@@ -211,7 +217,8 @@
 1662871461,
 1662913655,
 1662942881,
-1663023881
+1663023881,
+1663094064
 ],
 "title": "Advanced Molecular Biology Laboratory"
 }
