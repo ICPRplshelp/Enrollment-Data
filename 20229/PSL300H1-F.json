@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 1224,
+"enrollmentCap": 1254,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663112919,
+1254
+]
+],
 "initialCap": 1224
 },
 "enrollmentLogs": [
@@ -240,7 +245,8 @@
 1254,
 1254,
 1254,
-1251
+1251,
+1246
 ],
 "instructors": [
 [
@@ -491,7 +497,8 @@
 1662913655,
 1662942881,
 1663023881,
-1663094064
+1663094064,
+1663112919
 ],
 "title": "Human Physiology I"
 }

@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 400,
+"enrollmentCap": 407,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663112919,
+407
+]
+],
 "initialCap": 400
 },
 "enrollmentLogs": [
@@ -105,6 +110,7 @@
 487,
 487,
 484,
+482,
 482
 ],
 "instructors": [
@@ -213,7 +219,8 @@
 1662913655,
 1662942881,
 1663023881,
-1663094064
+1663094064,
+1663112919
 ],
 "title": "Foundations in Health Studies I"
 }
