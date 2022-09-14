@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+50
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -240,6 +245,7 @@
 48,
 48,
 48,
+49,
 49,
 49
 ],
@@ -485,7 +491,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Research and Data Analytics"
 }

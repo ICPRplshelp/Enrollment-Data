@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+150
+]
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 142,
 150,
 151,
-149
+149,
+152
 ],
 "instructors": [
 [
@@ -485,7 +491,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Religion and Popular Culture"
 }

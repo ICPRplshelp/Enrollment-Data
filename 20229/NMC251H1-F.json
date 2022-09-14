@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 45,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+42
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 23,
 21,
 22,
-21
+21,
+22
 ],
 "instructors": [
 [
@@ -485,7 +491,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Voices from Ancient Egypt"
 }

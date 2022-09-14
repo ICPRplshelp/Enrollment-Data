@@ -3,12 +3,16 @@
 "faculty": "MUSIC",
 "meetings": [
 {
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662765625,
 25
+],
+[
+1663197515,
+26
 ]
 ],
 "initialCap": 24
@@ -111,7 +115,8 @@
 25,
 25,
 25,
-25
+25,
+26
 ],
 "instructors": [
 [
@@ -220,7 +225,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Healthy Prac-Healthy Musicians"
 }

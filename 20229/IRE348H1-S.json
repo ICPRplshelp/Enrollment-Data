@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 65,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+70
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 97,
 97,
 97,
+96,
 96,
 96,
 96,
@@ -485,7 +491,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Recruitment & Selection"
 }

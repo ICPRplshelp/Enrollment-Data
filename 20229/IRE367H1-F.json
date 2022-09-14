@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 65,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+70
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 75,
 72,
 71,
-70
+70,
+71
 ],
 "instructors": [
 [
@@ -485,7 +491,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Compensation"
 }

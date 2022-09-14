@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 60,
+"enrollmentCap": 66,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+66
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 66,
 66,
 66,
-65
+65,
+66
 ],
 "instructors": [
 [
@@ -485,7 +491,8 @@
 1662942882,
 1663023881,
 1663094065,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Special Topic in Women and Gender Studies"
 }

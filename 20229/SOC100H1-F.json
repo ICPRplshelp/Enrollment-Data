@@ -3,12 +3,16 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 1200,
+"enrollmentCap": 1210,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662765625,
 1200
+],
+[
+1663197515,
+1210
 ]
 ],
 "initialCap": 1180
@@ -246,7 +250,8 @@
 1182,
 1196,
 1201,
-1201
+1201,
+1205
 ],
 "instructors": [
 [
@@ -499,7 +504,8 @@
 20,
 20,
 20,
-20
+20,
+19
 ],
 "instructors": [
 [
@@ -752,7 +758,8 @@
 8,
 8,
 8,
-8
+8,
+9
 ],
 "instructors": [
 [
@@ -767,12 +774,16 @@
 "meetingNumber": "LEC2001"
 },
 {
-"enrollmentCap": 730,
+"enrollmentCap": 740,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662765625,
 730
+],
+[
+1663197515,
+740
 ]
 ],
 "initialCap": 710
@@ -1010,7 +1021,8 @@
 715,
 730,
 732,
-732
+732,
+737
 ],
 "instructors": [
 [
@@ -1263,7 +1275,8 @@
 17,
 17,
 17,
-17
+17,
+16
 ],
 "instructors": [
 [
@@ -1511,7 +1524,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

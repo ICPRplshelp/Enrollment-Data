@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+60
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -106,7 +111,8 @@
 56,
 58,
 57,
-56
+56,
+59
 ],
 "instructors": [
 [
@@ -215,7 +221,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Shakespeare in Context I"
 }

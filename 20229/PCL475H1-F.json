@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 60,
+"enrollmentCap": 66,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663197515,
+66
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -241,6 +246,7 @@
 77,
 76,
 78,
+77,
 77
 ],
 "instructors": [
@@ -489,7 +495,8 @@
 1662942881,
 1663023881,
 1663094064,
-1663112919
+1663112919,
+1663197515
 ],
 "title": "Neuropsychopharmacology 1"
 }
