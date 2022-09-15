@@ -244,7 +244,8 @@
 72,
 68,
 68,
-68
+68,
+66
 ],
 "instructors": [
 [
@@ -255,9 +256,14 @@
 "meetingNumber": "LEC5101"
 },
 {
-"enrollmentCap": 65,
+"enrollmentCap": 66,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+66
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -494,6 +500,7 @@
 55,
 58,
 58,
+66,
 66,
 66,
 66
@@ -743,7 +750,8 @@
 1663112919,
 1663197515,
 1663211313,
-1663216981
+1663216981,
+1663253415
 ],
 "title": "Labour Relations"
 }

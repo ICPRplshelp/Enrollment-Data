@@ -253,7 +253,8 @@
 1201,
 1205,
 1205,
-1205
+1205,
+1203
 ],
 "instructors": [
 [
@@ -509,6 +510,7 @@
 20,
 19,
 19,
+19,
 19
 ],
 "instructors": [
@@ -524,9 +526,14 @@
 "meetingNumber": "LEC2000"
 },
 {
-"enrollmentCap": 8,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+9
+]
+],
 "initialCap": 8
 },
 "enrollmentLogs": [
@@ -763,6 +770,7 @@
 8,
 8,
 8,
+9,
 9,
 9,
 9
@@ -1030,7 +1038,8 @@
 732,
 737,
 737,
-737
+737,
+742
 ],
 "instructors": [
 [
@@ -1286,7 +1295,8 @@
 17,
 16,
 16,
-16
+16,
+17
 ],
 "instructors": [
 [
@@ -1537,7 +1547,8 @@
 1663112919,
 1663197515,
 1663211313,
-1663216982
+1663216982,
+1663253415
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

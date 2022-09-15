@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -240,6 +245,7 @@
 65,
 65,
 64,
+63,
 63,
 63,
 63,
@@ -491,7 +497,8 @@
 1663112919,
 1663197515,
 1663211313,
-1663216981
+1663216981,
+1663253415
 ],
 "title": "Performance Enhancement"
 }

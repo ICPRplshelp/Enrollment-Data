@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -244,7 +249,8 @@
 53,
 53,
 53,
-53
+53,
+52
 ],
 "instructors": [
 [
@@ -491,7 +497,8 @@
 1663112919,
 1663197515,
 1663211313,
-1663216982
+1663216982,
+1663253415
 ],
 "title": "Museums and Material Religion"
 }

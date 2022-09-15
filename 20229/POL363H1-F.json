@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 70,
+"enrollmentCap": 78,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+78
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -242,6 +247,7 @@
 78,
 79,
 79,
+78,
 78,
 78,
 78
@@ -491,7 +497,8 @@
 1663112919,
 1663197515,
 1663211313,
-1663216982
+1663216982,
+1663253415
 ],
 "title": "Canadian Political Development"
 }

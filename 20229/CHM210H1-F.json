@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663253415,
+130
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -244,7 +249,8 @@
 129,
 129,
 129,
-129
+129,
+128
 ],
 "instructors": [
 [
@@ -491,7 +497,8 @@
 1663112919,
 1663197515,
 1663211312,
-1663216981
+1663216981,
+1663253415
 ],
 "title": "Chemistry of Environmental Change"
 }
