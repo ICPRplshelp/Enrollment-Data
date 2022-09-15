@@ -245,6 +245,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [
@@ -270,6 +271,7 @@
 "initialCap": 48
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -767,13 +769,10 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [
-[
-"Jessica",
-"Wurster"
-],
 [
 "Carrie",
 "Proctor"
@@ -781,6 +780,10 @@
 [
 "Leneque",
 "Wilson"
+],
+[
+"Jessica",
+"Wurster"
 ]
 ],
 "meetingNumber": "LEC0301"
@@ -1028,7 +1031,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructors": [
 [
@@ -1284,7 +1288,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Arts & Science Internship Program - Maximizing Your Experience"
 }

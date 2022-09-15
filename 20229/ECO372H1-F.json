@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 96,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+110
+]
+],
 "initialCap": 96
 },
 "enrollmentLogs": [
@@ -245,6 +250,7 @@
 111,
 111,
 111,
+110,
 110
 ],
 "instructors": [
@@ -498,7 +504,8 @@
 104,
 104,
 104,
-103
+103,
+97
 ],
 "instructors": [
 [
@@ -746,7 +753,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

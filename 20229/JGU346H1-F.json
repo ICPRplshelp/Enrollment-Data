@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 70,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+80
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 77,
 77,
 77,
-76
+76,
+74
 ],
 "instructors": [
 [
@@ -493,7 +499,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "The Urban Planning Process"
 }

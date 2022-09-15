@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 300,
+"enrollmentCap": 308,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+308
+]
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 322,
 322,
 322,
-321
+321,
+318
 ],
 "instructors": [
 [
@@ -497,7 +503,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "The Science of Human Nature"
 }

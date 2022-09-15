@@ -3,7 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 160,
+"enrollmentCap": 163,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -17,6 +17,10 @@
 [
 1663197515,
 160
+],
+[
+1663279550,
+163
 ]
 ],
 "initialCap": 120
@@ -258,7 +262,8 @@
 174,
 174,
 174,
-172
+172,
+175
 ],
 "instructors": [
 [
@@ -506,7 +511,8 @@
 1663197515,
 1663211313,
 1663216982,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Biohacking Breath"
 }

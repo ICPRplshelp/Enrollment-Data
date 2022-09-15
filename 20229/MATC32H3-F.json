@@ -3,9 +3,14 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 70,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+30
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 20,
 20,
 20,
+19,
 19
 ],
 "instructors": [
@@ -223,7 +229,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Graph Theory and Algorithms for its Applications"
 }

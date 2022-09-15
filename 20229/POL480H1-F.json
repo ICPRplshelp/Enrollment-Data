@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 15,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+18
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -242,6 +247,7 @@
 20,
 19,
 19,
+18,
 18,
 18,
 18,
@@ -493,7 +499,8 @@
 1663197515,
 1663211313,
 1663216982,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Studies in Comparative Political Theory"
 }

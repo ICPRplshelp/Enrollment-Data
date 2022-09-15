@@ -3,9 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
-"enrollmentCap": 95,
+"enrollmentCap": 99,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+99
+]
+],
 "initialCap": 95
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 98,
 98,
 98,
+99,
 99
 ],
 "instructors": [
@@ -223,7 +229,8 @@
 1663197515,
 1663211312,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Advanced Genetics"
 }

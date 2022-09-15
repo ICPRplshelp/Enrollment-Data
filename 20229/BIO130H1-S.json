@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 1314,
+"enrollmentCap": 1383,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+1383
+]
+],
 "initialCap": 1314
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 1560,
 1560,
 1560,
-1558
+1558,
+1551
 ],
 "instructors": [
 [
@@ -453,6 +459,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -759,7 +766,8 @@
 49,
 49,
 49,
-49
+49,
+50
 ],
 "instructors": [
 [
@@ -774,9 +782,14 @@
 "meetingNumber": "LEC2002"
 },
 {
-"enrollmentCap": 400,
+"enrollmentCap": 446,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+446
+]
+],
 "initialCap": 400
 },
 "enrollmentLogs": [
@@ -1016,7 +1029,8 @@
 614,
 614,
 614,
-615
+615,
+593
 ],
 "instructors": [
 [
@@ -1264,7 +1278,8 @@
 1663197515,
 1663211312,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Molecular and Cell Biology"
 }

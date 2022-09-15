@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 65,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+70
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -242,6 +247,7 @@
 71,
 70,
 68,
+69,
 69,
 69,
 69,
@@ -493,7 +499,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Topics in the History of Science"
 }

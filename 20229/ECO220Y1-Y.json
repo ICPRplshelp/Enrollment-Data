@@ -245,7 +245,8 @@
 191,
 191,
 191,
-190
+190,
+189
 ],
 "instructors": [
 [
@@ -498,7 +499,8 @@
 195,
 195,
 195,
-194
+194,
+193
 ],
 "instructors": [
 [
@@ -509,9 +511,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 194,
+"enrollmentCap": 198,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+198
+]
+],
 "initialCap": 194
 },
 "enrollmentLogs": [
@@ -751,7 +758,8 @@
 195,
 195,
 195,
-194
+194,
+197
 ],
 "instructors": [
 [
@@ -762,9 +770,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 194,
+"enrollmentCap": 198,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+198
+]
+],
 "initialCap": 194
 },
 "enrollmentLogs": [
@@ -1004,7 +1017,8 @@
 195,
 195,
 195,
-195
+195,
+200
 ],
 "instructors": [
 [
@@ -1257,7 +1271,8 @@
 189,
 189,
 189,
-190
+190,
+189
 ],
 "instructors": [
 [
@@ -1510,7 +1525,8 @@
 186,
 186,
 186,
-187
+187,
+183
 ],
 "instructors": [
 [
@@ -1758,7 +1774,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

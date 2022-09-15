@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 390,
+"enrollmentCap": 393,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+393
+]
+],
 "initialCap": 390
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 393,
 393,
 393,
-395
+395,
+397
 ],
 "instructors": [
 [
@@ -256,9 +262,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 390,
+"enrollmentCap": 393,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+393
+]
+],
 "initialCap": 390
 },
 "enrollmentLogs": [
@@ -498,7 +509,8 @@
 392,
 392,
 392,
-392
+392,
+396
 ],
 "instructors": [
 [
@@ -746,7 +758,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Principles of Economics for Non-Specialists"
 }

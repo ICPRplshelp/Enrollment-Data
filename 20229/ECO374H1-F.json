@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 90,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+97
+]
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 108,
 108,
 108,
-107
+107,
+99
 ],
 "instructors": [
 [
@@ -493,7 +499,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Forecasting and Time Series Econometrics"
 }

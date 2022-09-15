@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 98,
+"enrollmentCap": 112,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+112
+]
+],
 "initialCap": 98
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 138,
 138,
 138,
-138
+138,
+139
 ],
 "instructors": [
 [
@@ -493,7 +499,8 @@
 1663197515,
 1663211312,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Organic Chemistry"
 }

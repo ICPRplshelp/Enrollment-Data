@@ -245,7 +245,8 @@
 473,
 473,
 473,
-473
+473,
+470
 ],
 "instructors": [
 [
@@ -256,9 +257,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 468,
+"enrollmentCap": 470,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+470
+]
+],
 "initialCap": 468
 },
 "enrollmentLogs": [
@@ -498,7 +504,8 @@
 471,
 471,
 471,
-471
+471,
+470
 ],
 "instructors": [
 [
@@ -509,9 +516,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 468,
+"enrollmentCap": 472,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+472
+]
+],
 "initialCap": 468
 },
 "enrollmentLogs": [
@@ -751,7 +763,8 @@
 471,
 471,
 471,
-474
+474,
+471
 ],
 "instructors": [
 [
@@ -762,9 +775,14 @@
 "meetingNumber": "LEC0301"
 },
 {
-"enrollmentCap": 468,
+"enrollmentCap": 474,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+474
+]
+],
 "initialCap": 468
 },
 "enrollmentLogs": [
@@ -1004,7 +1022,8 @@
 485,
 485,
 485,
-481
+481,
+479
 ],
 "instructors": [
 [
@@ -1257,6 +1276,7 @@
 417,
 417,
 417,
+417,
 417
 ],
 "instructors": [
@@ -1268,9 +1288,14 @@
 "meetingNumber": "LEC0501"
 },
 {
-"enrollmentCap": 42,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+40
+]
+],
 "initialCap": 42
 },
 "enrollmentLogs": [
@@ -1510,6 +1535,7 @@
 41,
 41,
 41,
+40,
 40
 ],
 "instructors": [
@@ -1521,9 +1547,14 @@
 "meetingNumber": "LEC2501"
 },
 {
-"enrollmentCap": 426,
+"enrollmentCap": 428,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+428
+]
+],
 "initialCap": 426
 },
 "enrollmentLogs": [
@@ -1763,7 +1794,8 @@
 440,
 440,
 440,
-436
+436,
+435
 ],
 "instructors": [
 [
@@ -2011,7 +2043,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Principles of Microeconomics"
 }

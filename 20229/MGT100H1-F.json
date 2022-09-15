@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 420,
+"enrollmentCap": 445,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663279550,
+445
+]
+],
 "initialCap": 420
 },
 "enrollmentLogs": [
@@ -245,7 +250,8 @@
 444,
 444,
 444,
-442
+442,
+443
 ],
 "instructors": [
 [
@@ -493,7 +499,8 @@
 1663197515,
 1663211313,
 1663216981,
-1663253415
+1663253415,
+1663279550
 ],
 "title": "Fundamentals of Management"
 }
