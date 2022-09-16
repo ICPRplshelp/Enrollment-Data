@@ -247,6 +247,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructors": [
@@ -258,12 +259,16 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662581947,
 20
+],
+[
+1663368872,
+21
 ]
 ],
 "initialCap": 15
@@ -507,7 +512,8 @@
 21,
 21,
 21,
-21
+21,
+22
 ],
 "instructors": [
 [
@@ -757,7 +763,8 @@
 1663216982,
 1663253415,
 1663279550,
-1663300227
+1663300227,
+1663368872
 ],
 "title": "Introduction to Tibetan I"
 }

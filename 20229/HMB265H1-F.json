@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 1185,
+"enrollmentCap": 1247,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663368872,
+1247
+]
+],
 "initialCap": 1185
 },
 "enrollmentLogs": [
@@ -247,7 +252,8 @@
 1272,
 1272,
 1272,
-1272
+1272,
+1265
 ],
 "instructors": [
 [
@@ -501,7 +507,8 @@
 1663216981,
 1663253415,
 1663279550,
-1663300227
+1663300227,
+1663368872
 ],
 "title": "General & Human Genetics"
 }

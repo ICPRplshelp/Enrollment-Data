@@ -247,7 +247,8 @@
 244,
 247,
 246,
-246
+246,
+245
 ],
 "instructors": [
 [
@@ -258,9 +259,14 @@
 "meetingNumber": "LEC0101"
 },
 {
-"enrollmentCap": 174,
+"enrollmentCap": 171,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663368872,
+171
+]
+],
 "initialCap": 174
 },
 "enrollmentLogs": [
@@ -502,7 +508,8 @@
 98,
 98,
 100,
-100
+100,
+104
 ],
 "instructors": [
 [
@@ -757,7 +764,8 @@
 103,
 103,
 102,
-102
+102,
+103
 ],
 "instructors": [
 [
@@ -768,9 +776,14 @@
 "meetingNumber": "LEC0201"
 },
 {
-"enrollmentCap": 48,
+"enrollmentCap": 51,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663368872,
+51
+]
+],
 "initialCap": 48
 },
 "enrollmentLogs": [
@@ -1012,7 +1025,8 @@
 52,
 52,
 51,
-51
+51,
+53
 ],
 "instructors": [
 [
@@ -1267,7 +1281,8 @@
 26,
 26,
 25,
-25
+25,
+24
 ],
 "instructors": [
 [
@@ -1517,7 +1532,8 @@
 1663216981,
 1663253415,
 1663279550,
-1663300227
+1663300227,
+1663368872
 ],
 "title": "Introduction to Databases"
 }

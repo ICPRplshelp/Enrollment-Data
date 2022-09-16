@@ -3,9 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663368872,
+85
+]
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -247,7 +252,8 @@
 89,
 89,
 88,
-88
+88,
+86
 ],
 "instructors": [
 [
@@ -497,7 +503,8 @@
 1663216981,
 1663253415,
 1663279550,
-1663300227
+1663300227,
+1663368872
 ],
 "title": "Human Dimensions of Global Forests"
 }
