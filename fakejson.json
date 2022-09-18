@@ -1,0 +1,212 @@
+[
+  {
+    "schedule": {
+      "WE-346929": {
+        "meetingDay": "WE",
+        "meetingStartTime": "12:00",
+        "meetingEndTime": "14:00",
+        "meetingScheduleId": "346929",
+        "assignedRoom1": "MC 254",
+        "assignedRoom2": null
+      },
+      "FR-346930": {
+        "meetingDay": "FR",
+        "meetingStartTime": "12:00",
+        "meetingEndTime": "13:00",
+        "meetingScheduleId": "346930",
+        "assignedRoom1": "MC 254",
+        "assignedRoom2": null
+      }
+    },
+    "instructors": {
+      "9023620": {
+        "instructorId": "9023620",
+        "firstName": "R",
+        "lastName": "Gopalkrishnan"
+      }
+    },
+    "meetingId": "219945",
+    "teachingMethod": "LEC",
+    "sectionNumber": "0101",
+    "subtitle": "",
+    "cancel": "",
+    "waitlist": "Y",
+    "deliveryMode": "INPER",
+    "online": "In Person",
+    "enrollmentCapacity": "117",
+    "actualEnrolment": "117",
+    "actualWaitlist": "0",
+    "enrollmentIndicator": "P",
+    "meetingStatusNotes": "",
+    "enrollmentControls": [
+      {
+        "postId": null,
+        "postCode": null,
+        "postName": null,
+        "subjectId": "1",
+        "subjectCode": "*",
+        "subjectName": "",
+        "designationId": "1",
+        "designationCode": "*",
+        "designationName": "",
+        "yearOfStudy": "*",
+        "typeOfProgramId": null,
+        "typeOfProgramCode": null,
+        "typeOfProgramName": null,
+        "primaryOrgId": "6",
+        "primaryOrgCode": "ARTSC",
+        "primaryOrgName": "Faculty of Arts and Science",
+        "secondaryOrgId": "1",
+        "secondaryOrgCode": "*",
+        "secondaryOrgName": "",
+        "assocOrgId": "1",
+        "assocOrgCode": "*",
+        "assocOrgName": "",
+        "adminOrgId": "23",
+        "adminOrgCode": "CSC",
+        "adminOrgName": "Department of Computer Science"
+      }
+    ],
+    "lectureCodeDashed": "LEC-0101"
+  },
+  {
+    "schedule": {
+      "TU-338601": {
+        "meetingDay": "TU",
+        "meetingStartTime": "15:00",
+        "meetingEndTime": "17:00",
+        "meetingScheduleId": "338601",
+        "assignedRoom1": "NL 6",
+        "assignedRoom2": null
+      },
+      "TH-338602": {
+        "meetingDay": "TH",
+        "meetingStartTime": "15:00",
+        "meetingEndTime": "16:00",
+        "meetingScheduleId": "338602",
+        "assignedRoom1": "AH 400",
+        "assignedRoom2": null
+      }
+    },
+    "instructors": {
+      "9023621": {
+        "instructorId": "9023621",
+        "firstName": "X",
+        "lastName": "Gao"
+      }
+    },
+    "meetingId": "219946",
+    "teachingMethod": "LEC",
+    "sectionNumber": "0201",
+    "subtitle": "",
+    "cancel": "",
+    "waitlist": "Y",
+    "deliveryMode": "INPER",
+    "online": "In Person",
+    "enrollmentCapacity": "125",
+    "actualEnrolment": "125",
+    "actualWaitlist": "0",
+    "enrollmentIndicator": "P",
+    "meetingStatusNotes": "",
+    "enrollmentControls": [
+      {
+        "postId": null,
+        "postCode": null,
+        "postName": null,
+        "subjectId": "1",
+        "subjectCode": "*",
+        "subjectName": "",
+        "designationId": "1",
+        "designationCode": "*",
+        "designationName": "",
+        "yearOfStudy": "*",
+        "typeOfProgramId": null,
+        "typeOfProgramCode": null,
+        "typeOfProgramName": null,
+        "primaryOrgId": "6",
+        "primaryOrgCode": "ARTSC",
+        "primaryOrgName": "Faculty of Arts and Science",
+        "secondaryOrgId": "1",
+        "secondaryOrgCode": "*",
+        "secondaryOrgName": "",
+        "assocOrgId": "1",
+        "assocOrgCode": "*",
+        "assocOrgName": "",
+        "adminOrgId": "23",
+        "adminOrgCode": "CSC",
+        "adminOrgName": "Department of Computer Science"
+      }
+    ],
+    "lectureCodeDashed": "LEC-0201"
+  },
+  {
+    "schedule": {
+      "WE-346931": {
+        "meetingDay": "WE",
+        "meetingStartTime": "12:00",
+        "meetingEndTime": "14:00",
+        "meetingScheduleId": "346931",
+        "assignedRoom1": "MC 254",
+        "assignedRoom2": null
+      },
+      "FR-346932": {
+        "meetingDay": "FR",
+        "meetingStartTime": "12:00",
+        "meetingEndTime": "13:00",
+        "meetingScheduleId": "346932",
+        "assignedRoom1": "MC 254",
+        "assignedRoom2": null
+      }
+    },
+    "instructors": {
+      "9023622": {
+        "instructorId": "9023622",
+        "firstName": "R",
+        "lastName": "Gopalkrishnan"
+      }
+    },
+    "meetingId": "219948",
+    "teachingMethod": "LEC",
+    "sectionNumber": "2001",
+    "subtitle": "",
+    "cancel": "",
+    "waitlist": "Y",
+    "deliveryMode": "INPER",
+    "online": "In Person",
+    "enrollmentCapacity": "8",
+    "actualEnrolment": "8",
+    "actualWaitlist": "0",
+    "enrollmentIndicator": "R1",
+    "meetingStatusNotes": "",
+    "enrollmentControls": [
+      {
+        "postId": null,
+        "postCode": null,
+        "postName": null,
+        "subjectId": "1",
+        "subjectCode": "*",
+        "subjectName": "",
+        "designationId": "1",
+        "designationCode": "*",
+        "designationName": "",
+        "yearOfStudy": "*",
+        "typeOfProgramId": null,
+        "typeOfProgramCode": null,
+        "typeOfProgramName": null,
+        "primaryOrgId": "4",
+        "primaryOrgCode": "APSC",
+        "primaryOrgName": "Faculty of Applied Science & Engineering",
+        "secondaryOrgId": "1",
+        "secondaryOrgCode": "*",
+        "secondaryOrgName": "",
+        "assocOrgId": "1",
+        "assocOrgCode": "*",
+        "assocOrgName": "",
+        "adminOrgId": "1",
+        "adminOrgCode": "*",
+        "adminOrgName": ""
+      }
+    ],
+    "lectureCodeDashed": "LEC-2001"
+  }
+]
