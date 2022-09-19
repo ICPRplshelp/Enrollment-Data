@@ -3,13 +3,19 @@
 "faculty": "SCAR",
 "meetings": [
 {
-"enrollmentCap": 7,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663628628,
+5
+]
+],
 "initialCap": 7
 },
 "enrollmentLogs": [
 0,
+3,
 3,
 3,
 3,
@@ -243,7 +249,8 @@
 1663458840,
 1663539307,
 1663558788,
-1663592670
+1663592670,
+1663628628
 ],
 "title": "Transnational Asian Thought"
 }

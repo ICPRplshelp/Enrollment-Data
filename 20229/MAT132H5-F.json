@@ -120,7 +120,8 @@
 63,
 63,
 63,
-63
+63,
+61
 ],
 "instructors": [
 [
@@ -248,7 +249,8 @@
 159,
 159,
 159,
-156
+156,
+154
 ],
 "instructors": [
 [
@@ -259,9 +261,14 @@
 "meetingNumber": "LEC0102"
 },
 {
-"enrollmentCap": 160,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663628628,
+165
+]
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -376,6 +383,7 @@
 160,
 160,
 160,
+161,
 161
 ],
 "instructors": [
@@ -504,6 +512,7 @@
 152,
 152,
 152,
+150,
 150
 ],
 "instructors": [
@@ -521,6 +530,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -755,6 +765,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
@@ -873,7 +884,8 @@
 1663458840,
 1663539308,
 1663558789,
-1663592670
+1663592670,
+1663628628
 ],
 "title": "Differential Calculus for Life Sciences"
 }

@@ -255,6 +255,7 @@
 1578,
 1578,
 1578,
+1480,
 1480
 ],
 "instructors": [
@@ -527,6 +528,7 @@
 656,
 656,
 656,
+612,
 612
 ],
 "instructors": [
@@ -794,6 +796,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructors": [
@@ -809,9 +812,14 @@
 "meetingNumber": "LEC2000"
 },
 {
-"enrollmentCap": 10,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1663628628,
+9
+]
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -1061,7 +1069,8 @@
 9,
 9,
 9,
-9
+9,
+8
 ],
 "instructors": [
 [
@@ -1323,7 +1332,8 @@
 1663458840,
 1663539307,
 1663558788,
-1663592670
+1663592670,
+1663628628
 ],
 "title": "Adaptation and Biodiversity"
 }
