@@ -1,12 +1,12 @@
 {
 "code": "MHB356H1-S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
-"enrollmentCap": -1,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
-"initialCap": -1
+"initialCap": 10
 },
 "enrollmentLogs": [
 0,
@@ -144,7 +144,8 @@
 -2,
 -2,
 -2,
--2
+-2,
+0
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
@@ -286,7 +287,8 @@
 1660783727,
 1660785906,
 1660809521,
-1660844142
+1660844142,
+1663975679
 ],
 "title": "Advanced Modern Hebrew II"
 }
