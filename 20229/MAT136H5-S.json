@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 198,
 198,
 198,
+198,
 198
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 166,
 167,
 167,
+169,
 169,
 169,
 169,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -419,6 +424,7 @@
 158,
 158,
 158,
+156,
 156,
 156,
 156,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -567,6 +574,7 @@
 152,
 152,
 152,
+151,
 151,
 151,
 151,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -717,6 +726,7 @@
 158,
 158,
 158,
+158,
 158
 ],
 "instructors": [
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -854,6 +865,7 @@
 161,
 161,
 163,
+164,
 164,
 164,
 164,
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1007,6 +1020,7 @@
 173,
 173,
 173,
+173,
 173
 ],
 "instructors": [
@@ -1018,12 +1032,14 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1158,12 +1174,14 @@
 "meetingNumber": "LEC0108"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1298,6 +1316,7 @@
 "meetingNumber": "LEC0109"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1432,18 +1451,21 @@
 167,
 167,
 167,
+167,
 167
 ],
 "instructors": [],
 "meetingNumber": "LEC0110"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1578,6 +1600,7 @@
 "meetingNumber": "LEC0111"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1704,6 +1727,7 @@
 154,
 154,
 153,
+152,
 152,
 152,
 152,
@@ -1852,7 +1876,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Integral Calculus"
 }

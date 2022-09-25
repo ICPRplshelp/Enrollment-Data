@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -823,6 +828,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -1111,7 +1117,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Intermediate Italian"
 }

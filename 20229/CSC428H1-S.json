@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC2501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -543,6 +546,7 @@
 123,
 124,
 124,
+123,
 123,
 123,
 123,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Human-Computer Interaction"
 }

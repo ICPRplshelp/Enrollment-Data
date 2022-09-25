@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 21,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -550,6 +553,7 @@
 21,
 20,
 20,
+21,
 21,
 21,
 21,
@@ -836,7 +840,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Tibetan I"
 }

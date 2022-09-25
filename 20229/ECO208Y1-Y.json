@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 135,
 135,
 135,
+135,
 135
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -543,6 +546,7 @@
 90,
 90,
 90,
+89,
 89,
 89,
 89,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Macroeconomic Theory"
 }

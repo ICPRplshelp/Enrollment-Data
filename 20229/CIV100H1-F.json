@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 151,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 130,
 130,
 130,
+130,
 130
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 146,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 123,
 123,
 123,
+123,
 123
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 119,
 119,
 119,
+119,
 119
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 148,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -572,6 +579,7 @@
 117,
 117,
 117,
+117,
 117
 ],
 "instructors": [
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -717,6 +726,7 @@
 133,
 133,
 133,
+133,
 133
 ],
 "instructors": [
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -862,6 +873,7 @@
 128,
 128,
 128,
+128,
 128
 ],
 "instructors": [
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 129,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -996,6 +1009,7 @@
 101,
 101,
 101,
+102,
 102,
 102,
 102,
@@ -1018,6 +1032,7 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 129,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1121,6 +1136,7 @@
 114,
 115,
 116,
+114,
 114,
 114,
 114,
@@ -1292,7 +1308,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Mechanics"
 }

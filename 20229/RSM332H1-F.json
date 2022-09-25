@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 59,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 61,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -562,6 +565,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructors": [
@@ -573,6 +577,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -830,6 +835,7 @@
 70,
 70,
 70,
+58,
 58,
 58,
 58,
@@ -858,6 +864,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1132,6 +1139,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructors": [
@@ -1143,6 +1151,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1417,6 +1426,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructors": [
@@ -1428,6 +1438,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1702,6 +1713,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructors": [
@@ -1713,6 +1725,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1987,6 +2000,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructors": [
@@ -1998,6 +2012,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 64,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -2272,6 +2287,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructors": [
@@ -2283,6 +2299,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -2540,6 +2557,7 @@
 57,
 57,
 57,
+56,
 56,
 56,
 56,
@@ -2832,7 +2850,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Capital Market Theory"
 }

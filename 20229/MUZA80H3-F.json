@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -110,6 +111,7 @@
 28,
 28,
 28,
+25,
 25,
 25,
 25,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -171,6 +174,7 @@
 25,
 25,
 25,
+0,
 0,
 0,
 0,
@@ -288,6 +292,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -395,6 +400,7 @@
 31,
 31,
 31,
+25,
 25,
 25,
 25,
@@ -433,6 +439,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -551,6 +558,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -707,7 +715,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Foundations in Musicianship"
 }

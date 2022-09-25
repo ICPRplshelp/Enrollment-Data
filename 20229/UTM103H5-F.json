@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -126,6 +127,7 @@
 16,
 16,
 16,
+17,
 17,
 17,
 17,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -555,6 +562,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -706,6 +715,7 @@
 15,
 15,
 15,
+14,
 14,
 14,
 14,
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -853,6 +864,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -1002,7 +1014,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "LAUNCH: Humanities and Social Sciences"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -255,6 +256,7 @@
 52,
 52,
 52,
+50,
 50,
 50,
 50,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -820,6 +825,7 @@
 58,
 58,
 58,
+56,
 56,
 56,
 56,
@@ -1112,7 +1118,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Data Analytics with Financial Accounting Information"
 }

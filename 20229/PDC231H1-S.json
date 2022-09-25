@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -242,6 +243,7 @@
 0,
 0,
 1,
+2,
 2,
 2,
 2,
@@ -291,6 +293,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -560,6 +563,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructors": [
@@ -579,6 +583,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -848,6 +853,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructors": [
@@ -867,6 +873,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1131,6 +1138,7 @@
 11,
 11,
 11,
+12,
 12,
 12,
 12,
@@ -1419,7 +1427,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }

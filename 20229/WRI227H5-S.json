@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +275,7 @@
 4,
 4,
 4,
+5,
 5,
 5,
 5,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Social Media and Content Creation"
 }

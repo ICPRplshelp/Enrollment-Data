@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -126,6 +127,7 @@
 150,
 150,
 150,
+149,
 149,
 149,
 149,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 150,
 150,
 150,
+149,
 149,
 149,
 149,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 149,
 149,
 149,
+149,
 149
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -561,6 +568,7 @@
 148,
 147,
 147,
+142,
 142,
 142,
 142,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -717,6 +726,7 @@
 128,
 128,
 128,
+128,
 128
 ],
 "instructors": [
@@ -728,12 +738,14 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -868,12 +880,14 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1008,6 +1022,7 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1142,12 +1157,14 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0108"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1273,6 +1290,7 @@
 149,
 143,
 143,
+141,
 141,
 141,
 141,
@@ -1422,7 +1440,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Mathematical Proofs"
 }

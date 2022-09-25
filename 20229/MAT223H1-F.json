@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 187,
 187,
 187,
+187,
 187
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 187,
 187,
 187,
+187,
 187
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 187,
 187,
 187,
+187,
 187
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1672,6 +1683,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1952,6 +1965,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -1963,6 +1977,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2221,6 +2236,7 @@
 188,
 187,
 187,
+188,
 188,
 188,
 188,
@@ -2507,7 +2523,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Linear Algebra I"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -258,6 +259,7 @@
 39,
 38,
 38,
+40,
 40,
 40,
 40,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -825,6 +830,7 @@
 31,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -1107,7 +1113,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Intermediate French I"
 }

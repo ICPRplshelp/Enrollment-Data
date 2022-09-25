@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,12 +285,14 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructors": [],
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -422,18 +427,21 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructors": [],
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -697,7 +705,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Language Practice II"
 }

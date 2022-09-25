@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 242,
 242,
 242,
+242,
 242
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -544,6 +547,7 @@
 244,
 244,
 245,
+244,
 244,
 244,
 244,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Linguistics: Sound Structure"
 }

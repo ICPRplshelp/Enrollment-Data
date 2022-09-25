@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 348,
 348,
 348,
+348,
 348
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 307,
 307,
 307,
+307,
 307
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,12 +837,14 @@
 300,
 300,
 300,
+300,
 300
 ],
 "instructors": [],
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1107,6 +1114,7 @@
 300,
 300,
 300,
+300,
 300
 ],
 "instructors": [
@@ -1118,6 +1126,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1387,6 +1396,7 @@
 349,
 349,
 349,
+349,
 349
 ],
 "instructors": [
@@ -1398,6 +1408,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1667,6 +1678,7 @@
 341,
 341,
 341,
+341,
 341
 ],
 "instructors": [
@@ -1678,6 +1690,7 @@
 "meetingNumber": "LEC0402"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1942,6 +1955,7 @@
 303,
 302,
 302,
+301,
 301,
 301,
 301,
@@ -2217,7 +2231,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Computer Science"
 }

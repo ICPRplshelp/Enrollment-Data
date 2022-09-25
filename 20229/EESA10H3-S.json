@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 574,
 574,
 574,
+574,
 574
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -277,6 +280,7 @@
 250,
 249,
 249,
+250,
 250,
 250,
 250,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Human Health and the Environment"
 }

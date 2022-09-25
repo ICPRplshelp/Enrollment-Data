@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -267,6 +268,7 @@
 52,
 52,
 52,
+53,
 53,
 53,
 53,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -547,6 +550,7 @@
 39,
 39,
 39,
+38,
 38,
 38,
 38,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Managing People in the Context of Globalization"
 }

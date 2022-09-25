@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -124,6 +125,7 @@
 123,
 123,
 122,
+123,
 123,
 123,
 123,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -269,6 +272,7 @@
 132,
 132,
 133,
+132,
 132,
 132,
 132,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Digital and Computer Systems"
 }

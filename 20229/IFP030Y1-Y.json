@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -232,6 +233,7 @@
 1,
 1,
 1,
+16,
 16,
 16,
 16,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -538,6 +541,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -808,6 +813,7 @@
 17,
 17,
 17,
+15,
 15,
 15,
 15,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1072,6 +1079,7 @@
 0,
 0,
 0,
+16,
 16,
 16,
 16,
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1378,6 +1387,7 @@
 16,
 16,
 16,
+15,
 15,
 15,
 15,
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0202"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1661,6 +1672,7 @@
 15,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1928,6 +1941,7 @@
 17,
 17,
 17,
+15,
 15,
 15,
 15,
@@ -1963,6 +1977,7 @@
 "meetingNumber": "LEC0302"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2192,6 +2207,7 @@
 0,
 0,
 0,
+17,
 17,
 17,
 17,
@@ -2243,6 +2259,7 @@
 "meetingNumber": "LEC0303"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2472,6 +2489,7 @@
 1,
 1,
 1,
+17,
 17,
 17,
 17,
@@ -2523,6 +2541,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2768,6 +2787,7 @@
 17,
 17,
 17,
+15,
 15,
 15,
 15,
@@ -2803,6 +2823,7 @@
 "meetingNumber": "LEC0402"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3048,6 +3069,7 @@
 17,
 17,
 17,
+15,
 15,
 15,
 15,
@@ -3083,6 +3105,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3328,6 +3351,7 @@
 17,
 17,
 17,
+15,
 15,
 15,
 15,
@@ -3363,6 +3387,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3592,6 +3617,7 @@
 0,
 0,
 0,
+17,
 17,
 17,
 17,
@@ -3643,6 +3669,7 @@
 "meetingNumber": "LEC0602"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3888,6 +3915,7 @@
 16,
 16,
 16,
+15,
 15,
 15,
 15,
@@ -3923,6 +3951,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4178,6 +4207,7 @@
 15,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -4467,7 +4497,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Academic Literacies & Identities"
 }

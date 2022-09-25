@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 46,
 46,
 46,
+46,
 46
 ],
 "instructors": [],
 "meetingNumber": "LEC30"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -263,6 +266,7 @@
 23,
 23,
 23,
+24,
 24,
 24,
 24,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Financial Technologies and Applications (FinTech)"
 }

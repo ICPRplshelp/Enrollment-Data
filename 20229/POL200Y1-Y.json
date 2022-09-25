@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 497,
 497,
 497,
+497,
 497
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 275,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -543,6 +546,7 @@
 178,
 174,
 174,
+169,
 169,
 169,
 169,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Political Theory: Visions of the Just/Good Society"
 }

@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -110,6 +111,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -271,6 +274,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -400,6 +405,7 @@
 57,
 57,
 57,
+60,
 60,
 60,
 60,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -545,6 +552,7 @@
 65,
 65,
 65,
+60,
 60,
 60,
 60,
@@ -712,7 +720,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Intermediate Finance"
 }

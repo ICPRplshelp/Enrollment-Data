@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 86,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 82,
 82,
 82,
+82,
 82
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -436,6 +439,7 @@
 6,
 6,
 6,
+5,
 5,
 5,
 5,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "History of Medicine II"
 }

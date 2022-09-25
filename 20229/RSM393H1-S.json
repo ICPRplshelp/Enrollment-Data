@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -264,6 +265,7 @@
 40,
 40,
 40,
+39,
 39,
 39,
 39,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -538,6 +541,7 @@
 45,
 44,
 44,
+43,
 43,
 43,
 43,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Strategic Case Analysis"
 }

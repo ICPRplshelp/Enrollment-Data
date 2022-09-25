@@ -3,12 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1663714074,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -44,7 +46,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Gender in Global Contexts"
 }

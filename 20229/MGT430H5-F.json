@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -128,6 +129,7 @@
 49,
 47,
 47,
+35,
 35,
 35,
 35,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -403,6 +408,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -433,6 +439,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -551,6 +558,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -702,7 +710,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Behavioural Finance"
 }

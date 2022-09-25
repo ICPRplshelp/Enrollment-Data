@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -110,6 +111,7 @@
 84,
 84,
 84,
+80,
 80,
 80,
 80,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -271,6 +274,7 @@
 80,
 80,
 80,
+79,
 79,
 79,
 79,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -420,6 +425,7 @@
 80,
 80,
 80,
+79,
 79,
 79,
 79,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Macroeconomic Theory and Policy: A Mathematical Approach"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 156,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 156,
 156,
 156,
+156,
 156
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 156,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 156,
 156,
 156,
+156,
 156
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 154,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -815,6 +820,7 @@
 172,
 172,
 172,
+154,
 154,
 154,
 154,
@@ -1107,7 +1113,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Urban Economics"
 }

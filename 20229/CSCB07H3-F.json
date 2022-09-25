@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 126,
 126,
 126,
+126,
 126
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -268,6 +271,7 @@
 40,
 38,
 38,
+37,
 37,
 37,
 37,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Software Design"
 }

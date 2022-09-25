@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 94,
 94,
 94,
+94,
 94
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 140,
 140,
 140,
+140,
 140
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -416,6 +421,7 @@
 141,
 140,
 140,
+141,
 141,
 141,
 141,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -563,6 +570,7 @@
 138,
 138,
 138,
+139,
 139,
 139,
 139,
@@ -712,7 +720,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Software Tools and Systems Programming"
 }

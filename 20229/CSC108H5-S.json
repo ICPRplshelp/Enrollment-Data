@@ -3,12 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -143,12 +145,14 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -283,12 +287,14 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -552,7 +558,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Computer Programming"
 }

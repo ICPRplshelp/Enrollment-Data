@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC2501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -552,6 +555,7 @@
 174,
 174,
 173,
+172,
 172,
 172,
 172,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Cities and Urban Life"
 }

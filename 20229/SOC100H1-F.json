@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 1210,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -281,6 +282,7 @@
 1205,
 1205,
 1205,
+1205,
 1205
 ],
 "instructors": [
@@ -296,6 +298,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -565,6 +568,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructors": [
@@ -580,6 +584,7 @@
 "meetingNumber": "LEC2000"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 9,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -854,6 +859,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructors": [
@@ -869,6 +875,7 @@
 "meetingNumber": "LEC2001"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 740,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1147,6 +1154,7 @@
 726,
 726,
 726,
+726,
 726
 ],
 "instructors": [
@@ -1162,6 +1170,7 @@
 "meetingNumber": "LEC2101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1422,6 +1431,7 @@
 13,
 13,
 13,
+15,
 15,
 15,
 15,
@@ -1710,7 +1720,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

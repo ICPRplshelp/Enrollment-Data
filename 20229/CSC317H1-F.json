@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -264,6 +265,7 @@
 86,
 86,
 84,
+85,
 85,
 85,
 85,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 76,
 76,
 76,
+76,
 76
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -815,6 +820,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC2001"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1103,6 +1110,7 @@
 29,
 29,
 29,
+28,
 28,
 28,
 28,
@@ -1387,7 +1395,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Computer Graphics"
 }

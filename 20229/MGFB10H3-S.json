@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -132,6 +133,7 @@
 54,
 54,
 54,
+55,
 55,
 55,
 55,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -268,6 +271,7 @@
 65,
 65,
 65,
+62,
 62,
 62,
 62,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -420,6 +425,7 @@
 60,
 60,
 60,
+61,
 61,
 61,
 61,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -572,6 +579,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructors": [
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC04"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -703,6 +712,7 @@
 35,
 36,
 36,
+35,
 35,
 35,
 35,
@@ -857,7 +867,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Principles of Finance"
 }

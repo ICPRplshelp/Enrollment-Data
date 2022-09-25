@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 122,
 122,
 122,
+122,
 122
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -287,6 +290,7 @@
 70,
 70,
 70,
+70,
 70
 ],
 "instructors": [
@@ -298,6 +302,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -432,6 +437,7 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructors": [
@@ -443,6 +449,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -577,6 +584,7 @@
 299,
 299,
 299,
+299,
 299
 ],
 "instructors": [
@@ -588,6 +596,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -722,6 +731,7 @@
 300,
 300,
 300,
+300,
 300
 ],
 "instructors": [
@@ -733,6 +743,7 @@
 "meetingNumber": "LEC0202"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -856,6 +867,7 @@
 295,
 296,
 296,
+300,
 300,
 300,
 300,
@@ -1007,7 +1019,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Principles of Microeconomics"
 }

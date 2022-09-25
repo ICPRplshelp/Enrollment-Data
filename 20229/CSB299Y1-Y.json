@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -24,6 +25,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -304,6 +307,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -584,6 +589,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -1107,7 +1113,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Research Opportunity Program"
 }

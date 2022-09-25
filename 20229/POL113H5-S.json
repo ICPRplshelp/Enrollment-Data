@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -132,6 +133,7 @@
 59,
 59,
 59,
+60,
 60,
 60,
 60,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -277,6 +280,7 @@
 74,
 74,
 74,
+72,
 72,
 72,
 72,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Ideas and Ideologies"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 52,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -557,6 +560,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructors": [
@@ -568,6 +572,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -837,6 +842,7 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructors": [
@@ -852,6 +858,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1104,6 +1111,7 @@
 94,
 94,
 94,
+50,
 50,
 50,
 50,
@@ -1396,7 +1404,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Modern Standard Korean I"
 }

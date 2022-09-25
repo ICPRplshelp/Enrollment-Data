@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -255,6 +256,7 @@
 74,
 74,
 74,
+70,
 70,
 70,
 70,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -535,6 +538,7 @@
 79,
 79,
 79,
+70,
 70,
 70,
 70,
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -815,6 +820,7 @@
 85,
 85,
 85,
+70,
 70,
 70,
 70,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1095,6 +1102,7 @@
 71,
 71,
 71,
+70,
 70,
 70,
 70,
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 69,
 69,
 69,
+69,
 69
 ],
 "instructors": [
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1663,6 +1674,7 @@
 70,
 70,
 70,
+67,
 67,
 67,
 67,
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1943,6 +1956,7 @@
 70,
 70,
 70,
+69,
 69,
 69,
 69,
@@ -2227,7 +2241,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Financial Accounting"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 102,
 102,
 102,
+102,
 102
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 96,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -548,6 +551,7 @@
 96,
 86,
 86,
+87,
 87,
 87,
 87,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

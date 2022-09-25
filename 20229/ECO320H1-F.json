@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 125,
 125,
 125,
+125,
 125
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -545,6 +548,7 @@
 125,
 125,
 125,
+124,
 124,
 124,
 124,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Economic Analysis of Law"
 }

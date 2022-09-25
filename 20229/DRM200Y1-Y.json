@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 18,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructors": [
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 18,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 14,
 14,
 16,
+18,
 18,
 18,
 18,
@@ -835,7 +839,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Performance I"
 }

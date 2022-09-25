@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 710,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 721,
 721,
 721,
+721,
 721
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 265,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 289,
 289,
 289,
+289,
 289
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -819,6 +824,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -1107,7 +1113,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Sociology II: Sociological Inquiries"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 246,
 246,
 246,
+246,
 246
 ],
 "instructors": [
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 262,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -550,6 +553,7 @@
 261,
 261,
 261,
+260,
 260,
 260,
 260,
@@ -835,7 +839,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introductory Organic Chemistry II"
 }

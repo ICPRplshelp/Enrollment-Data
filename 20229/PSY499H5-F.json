@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -10,6 +11,7 @@
 },
 "enrollmentLogs": [
 0,
+7,
 7,
 7,
 7,
@@ -148,12 +150,14 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 3
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -300,6 +305,7 @@
 },
 "enrollmentLogs": [
 0,
+5,
 5,
 5,
 5,
@@ -438,12 +444,14 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -590,6 +599,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0402"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -735,6 +746,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -880,6 +893,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -1018,12 +1032,14 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1163,6 +1179,7 @@
 "meetingNumber": "LEC0602"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1170,6 +1187,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -1308,6 +1326,7 @@
 "meetingNumber": "LEC0603"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1315,6 +1334,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -1453,6 +1473,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 13,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1561,6 +1582,7 @@
 12,
 12,
 12,
+13,
 13,
 13,
 13,
@@ -1727,7 +1749,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Research Opportunity Program"
 }

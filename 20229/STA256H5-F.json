@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 160,
 160,
 160,
+160,
 160
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 180,
 180,
 180,
+180,
 180
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -418,6 +423,7 @@
 176,
 179,
 179,
+180,
 180,
 180,
 180,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Probability and Statistics I"
 }

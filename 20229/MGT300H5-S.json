@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +275,7 @@
 22,
 22,
 22,
+23,
 23,
 23,
 23,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Presentation Skills for Management"
 }

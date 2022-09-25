@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 517,
 517,
 517,
+517,
 517
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -542,6 +545,7 @@
 366,
 368,
 368,
+370,
 370,
 370,
 370,
@@ -817,7 +821,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Modern Symbolic Logic"
 }

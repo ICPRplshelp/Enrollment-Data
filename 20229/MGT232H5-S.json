@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 69,
 69,
 69,
+69,
 69
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -277,6 +280,7 @@
 96,
 96,
 96,
+96,
 96
 ],
 "instructors": [
@@ -288,6 +292,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -422,12 +427,14 @@
 69,
 69,
 69,
+69,
 69
 ],
 "instructors": [],
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -562,6 +569,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructors": [
@@ -573,6 +581,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -707,6 +716,7 @@
 74,
 74,
 74,
+74,
 74
 ],
 "instructors": [
@@ -718,6 +728,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -841,6 +852,7 @@
 43,
 44,
 44,
+46,
 46,
 46,
 46,
@@ -992,7 +1004,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Business Finance II"
 }

@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -123,6 +124,7 @@
 60,
 60,
 60,
+58,
 58,
 58,
 58,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -256,6 +259,7 @@
 57,
 57,
 59,
+60,
 60,
 60,
 60,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -414,6 +419,7 @@
 60,
 60,
 60,
+59,
 59,
 59,
 59,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -542,6 +549,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC04"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -709,6 +718,7 @@
 58,
 58,
 58,
+59,
 59,
 59,
 59,
@@ -857,7 +867,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Principles of Marketing"
 }

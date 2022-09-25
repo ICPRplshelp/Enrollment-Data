@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,18 +138,21 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Integrating Your Work Term Experience Part I"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 173,
 173,
 173,
+173,
 173
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -539,6 +542,7 @@
 175,
 175,
 174,
+175,
 175,
 175,
 175,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "International Trade Theory"
 }

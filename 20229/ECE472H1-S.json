@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -132,6 +133,7 @@
 110,
 110,
 110,
+109,
 109,
 109,
 109,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -277,6 +280,7 @@
 106,
 106,
 106,
+107,
 107,
 107,
 107,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Engineering Economic Analysis & Entrepreneurship"
 }

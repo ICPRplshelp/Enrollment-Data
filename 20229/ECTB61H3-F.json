@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -129,6 +130,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -255,6 +258,7 @@
 46,
 46,
 46,
+30,
 30,
 30,
 30,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "English and Chinese Translation: Theory and Practice"
 }

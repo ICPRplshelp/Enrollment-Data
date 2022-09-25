@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -241,6 +242,7 @@
 0,
 0,
 1,
+2,
 2,
 2,
 2,
@@ -291,6 +293,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -544,6 +547,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -579,6 +583,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -831,6 +836,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -867,6 +873,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1125,6 +1132,7 @@
 16,
 16,
 16,
+18,
 18,
 18,
 18,
@@ -1419,7 +1427,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Arts & Science Internship Program - Professional Skill Development I"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 1480,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 1479,
 1479,
 1479,
+1479,
 1479
 ],
 "instructors": [
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 612,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -561,6 +564,7 @@
 608,
 608,
 608,
+608,
 608
 ],
 "instructors": [
@@ -576,6 +580,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -845,6 +850,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructors": [
@@ -860,6 +866,7 @@
 "meetingNumber": "LEC2000"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1127,6 +1134,7 @@
 8,
 8,
 8,
+10,
 10,
 10,
 10,
@@ -1417,7 +1425,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Adaptation and Biodiversity"
 }

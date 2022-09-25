@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -142,6 +143,7 @@
 228,
 228,
 228,
+228,
 228
 ],
 "instructors": [
@@ -153,6 +155,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -276,6 +279,7 @@
 234,
 234,
 232,
+231,
 231,
 231,
 231,
@@ -432,7 +436,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Anthropology: Becoming Human"
 }

@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 320,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 326,
 326,
 326,
+326,
 326
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -273,6 +276,7 @@
 127,
 123,
 123,
+121,
 121,
 121,
 121,
@@ -427,7 +431,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus II for Physical Sciences"
 }

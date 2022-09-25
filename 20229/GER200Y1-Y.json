@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -261,6 +262,7 @@
 25,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -547,6 +550,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -823,6 +828,7 @@
 18,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -1111,7 +1117,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Intermediate German 1"
 }

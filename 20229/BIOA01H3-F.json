@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 342,
 342,
 342,
+342,
 342
 ],
 "instructors": [
@@ -160,6 +162,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -294,6 +297,7 @@
 491,
 491,
 491,
+491,
 491
 ],
 "instructors": [
@@ -317,6 +321,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 248,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -446,6 +451,7 @@
 217,
 217,
 217,
+216,
 216,
 216,
 216,
@@ -603,7 +609,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Life on Earth: Unifying Principles"
 }

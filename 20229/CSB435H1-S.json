@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -312,6 +315,7 @@
 2,
 2,
 2,
+1,
 1,
 1,
 1,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Regulatory Networks and Systems in Molecular Biology"
 }

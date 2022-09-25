@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 210,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 160,
 160,
 160,
+160,
 160
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -547,12 +550,14 @@
 182,
 182,
 182,
+182,
 182
 ],
 "instructors": [],
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -806,6 +811,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -1092,7 +1098,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Time Series Analysis"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -124,6 +125,7 @@
 33,
 33,
 33,
+31,
 31,
 31,
 31,
@@ -143,6 +145,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -264,6 +267,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "First-Year Learning Community"
 }

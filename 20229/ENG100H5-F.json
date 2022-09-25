@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -282,6 +285,7 @@
 105,
 105,
 105,
+105,
 105
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -423,6 +428,7 @@
 103,
 102,
 102,
+104,
 104,
 104,
 104,
@@ -572,7 +578,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Effective Writing"
 }

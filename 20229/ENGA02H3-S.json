@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -124,6 +125,7 @@
 31,
 31,
 31,
+32,
 32,
 32,
 32,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -271,6 +274,7 @@
 35,
 35,
 35,
+34,
 34,
 34,
 34,
@@ -288,6 +292,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -405,6 +410,7 @@
 30,
 30,
 30,
+31,
 31,
 31,
 31,
@@ -428,6 +434,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -536,6 +543,7 @@
 20,
 20,
 20,
+18,
 18,
 18,
 18,
@@ -568,6 +576,7 @@
 "meetingNumber": "LEC04"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -691,6 +700,7 @@
 32,
 32,
 32,
+33,
 33,
 33,
 33,
@@ -708,6 +718,7 @@
 "meetingNumber": "LEC05"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -831,6 +842,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -848,6 +860,7 @@
 "meetingNumber": "LEC06"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -966,6 +979,7 @@
 29,
 29,
 30,
+29,
 29,
 29,
 29,
@@ -1117,7 +1131,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Critical Writing About Literature"
 }

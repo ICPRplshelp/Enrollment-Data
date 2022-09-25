@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 507,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 507,
 507,
 507,
+507,
 507
 ],
 "instructors": [
@@ -291,6 +293,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 507,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -560,6 +563,7 @@
 506,
 506,
 506,
+506,
 506
 ],
 "instructors": [
@@ -579,6 +583,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 507,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -848,6 +853,7 @@
 504,
 504,
 504,
+504,
 504
 ],
 "instructors": [
@@ -867,6 +873,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 407,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1131,6 +1138,7 @@
 388,
 387,
 387,
+385,
 385,
 385,
 385,
@@ -1419,7 +1427,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Chemistry: Physical Principles"
 }

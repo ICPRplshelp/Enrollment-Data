@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 124,
 124,
 124,
+124,
 124
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -538,6 +541,7 @@
 130,
 130,
 130,
+125,
 125,
 125,
 125,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus II"
 }

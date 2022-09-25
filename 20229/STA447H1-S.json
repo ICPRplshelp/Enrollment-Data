@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -542,6 +545,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -817,7 +821,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Stochastic Processes"
 }

@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -130,6 +131,7 @@
 139,
 139,
 139,
+138,
 138,
 138,
 138,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -271,6 +274,7 @@
 141,
 141,
 141,
+142,
 142,
 142,
 142,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -411,6 +416,7 @@
 121,
 121,
 121,
+122,
 122,
 122,
 122,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introductory Electronics"
 }

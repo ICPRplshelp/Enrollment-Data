@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 390,
 390,
 390,
+390,
 390
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 357,
 357,
 357,
+357,
 357
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 364,
 364,
 364,
+364,
 364
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 343,
 343,
 343,
+343,
 343
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 382,
 382,
 382,
+382,
 382
 ],
 "instructors": [
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1672,6 +1683,7 @@
 310,
 310,
 310,
+310,
 310
 ],
 "instructors": [
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC0502"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1952,6 +1965,7 @@
 363,
 363,
 363,
+363,
 363
 ],
 "instructors": [
@@ -1963,6 +1977,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2232,6 +2247,7 @@
 324,
 324,
 324,
+324,
 324
 ],
 "instructors": [
@@ -2243,6 +2259,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2504,6 +2521,7 @@
 352,
 352,
 351,
+350,
 350,
 350,
 350,
@@ -2787,7 +2805,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus II"
 }

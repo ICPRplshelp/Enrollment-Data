@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 147,
 147,
 147,
+147,
 147
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 93,
 93,
 93,
+93,
 93
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 129,
 129,
 129,
+129,
 129
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC5201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1385,6 +1394,7 @@
 133,
 133,
 133,
+134,
 134,
 134,
 134,
@@ -1667,7 +1677,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Macroeconomic Theory and Policy"
 }

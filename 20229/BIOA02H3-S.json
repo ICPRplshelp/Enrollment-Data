@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 353,
 353,
 353,
+353,
 353
 ],
 "instructors": [
@@ -152,6 +154,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -286,6 +289,7 @@
 502,
 502,
 502,
+502,
 502
 ],
 "instructors": [
@@ -301,6 +305,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -430,6 +435,7 @@
 182,
 182,
 182,
+181,
 181,
 181,
 181,
@@ -570,7 +576,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

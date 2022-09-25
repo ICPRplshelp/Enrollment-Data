@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 88,
 88,
 88,
+88,
 88
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 94,
 100,
 100,
+103,
 103,
 103,
 103,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Vector Calculus"
 }

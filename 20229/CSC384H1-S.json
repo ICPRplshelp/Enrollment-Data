@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -259,6 +260,7 @@
 96,
 96,
 96,
+97,
 97,
 97,
 97,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 95,
 95,
 95,
+95,
 95
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 68,
 68,
 68,
+68,
 68
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC2001"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructors": [
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC2101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1672,6 +1683,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructors": [
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC2201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 61,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1952,12 +1965,14 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructors": [],
 "meetingNumber": "LEC2501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 64,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2214,6 +2229,7 @@
 59,
 59,
 59,
+61,
 61,
 61,
 61,
@@ -2497,7 +2513,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Artificial Intelligence"
 }

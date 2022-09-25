@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 189,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -123,6 +124,7 @@
 165,
 164,
 164,
+161,
 161,
 161,
 161,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 189,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -268,6 +271,7 @@
 168,
 167,
 167,
+164,
 164,
 164,
 164,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Engineering Mathematics and Computation"
 }

@@ -3,12 +3,14 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -143,12 +145,14 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -283,6 +287,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -408,6 +413,7 @@
 69,
 69,
 69,
+68,
 68,
 68,
 68,
@@ -552,7 +558,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Software Engineering"
 }

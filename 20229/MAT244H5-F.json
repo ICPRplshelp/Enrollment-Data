@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,12 +138,14 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -268,6 +271,7 @@
 126,
 123,
 123,
+120,
 120,
 120,
 120,
@@ -417,7 +421,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Differential Equations I"
 }

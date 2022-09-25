@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -107,6 +108,7 @@
 30,
 30,
 31,
+30,
 30,
 30,
 30,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 32,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -422,6 +427,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -433,6 +439,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -562,6 +569,7 @@
 32,
 32,
 32,
+33,
 33,
 33,
 33,
@@ -578,6 +586,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -701,6 +710,7 @@
 35,
 36,
 36,
+38,
 38,
 38,
 38,
@@ -723,6 +733,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -831,6 +842,7 @@
 30,
 30,
 31,
+32,
 32,
 32,
 32,
@@ -868,12 +880,14 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1008,6 +1022,7 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1133,6 +1148,7 @@
 34,
 38,
 38,
+37,
 37,
 37,
 37,
@@ -1153,6 +1169,7 @@
 "meetingNumber": "LEC0108"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1282,6 +1299,7 @@
 30,
 30,
 30,
+31,
 31,
 31,
 31,
@@ -1298,6 +1316,7 @@
 "meetingNumber": "LEC0109"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1423,6 +1442,7 @@
 31,
 32,
 32,
+31,
 31,
 31,
 31,
@@ -1443,12 +1463,14 @@
 "meetingNumber": "LEC0110"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1583,6 +1605,7 @@
 "meetingNumber": "LEC0111"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1708,6 +1731,7 @@
 32,
 31,
 31,
+32,
 32,
 32,
 32,
@@ -1728,6 +1752,7 @@
 "meetingNumber": "LEC0112"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1851,6 +1876,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -1873,6 +1899,7 @@
 "meetingNumber": "LEC0113"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1974,6 +2001,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -2018,12 +2046,14 @@
 "meetingNumber": "LEC0114"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2158,12 +2188,14 @@
 "meetingNumber": "LEC0115"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2298,6 +2330,7 @@
 "meetingNumber": "LEC0116"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2432,12 +2465,14 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructors": [],
 "meetingNumber": "LEC0117"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2572,6 +2607,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructors": [
@@ -2583,6 +2619,7 @@
 "meetingNumber": "LEC0118"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2701,6 +2738,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -2728,6 +2766,7 @@
 "meetingNumber": "LEC0119"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2851,6 +2890,7 @@
 7,
 8,
 8,
+11,
 11,
 11,
 11,
@@ -2868,6 +2908,7 @@
 "meetingNumber": "LEC0120"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2991,6 +3032,7 @@
 14,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -3013,6 +3055,7 @@
 "meetingNumber": "LEC0121"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3142,6 +3185,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -3158,6 +3202,7 @@
 "meetingNumber": "LEC0122"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3278,6 +3323,7 @@
 30,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -3303,6 +3349,7 @@
 "meetingNumber": "LEC0123"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3437,6 +3484,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructors": [
@@ -3448,12 +3496,14 @@
 "meetingNumber": "LEC0124"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3588,6 +3638,7 @@
 "meetingNumber": "LEC0125"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3705,6 +3756,7 @@
 31,
 31,
 31,
+32,
 32,
 32,
 32,
@@ -3733,6 +3785,7 @@
 "meetingNumber": "LEC0126"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3860,6 +3913,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -3878,6 +3932,7 @@
 "meetingNumber": "LEC0127"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4003,6 +4058,7 @@
 14,
 17,
 17,
+21,
 21,
 21,
 21,
@@ -4023,6 +4079,7 @@
 "meetingNumber": "LEC0128"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4157,6 +4214,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructors": [
@@ -4168,6 +4226,7 @@
 "meetingNumber": "LEC0129"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4302,6 +4361,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructors": [
@@ -4313,6 +4373,7 @@
 "meetingNumber": "LEC0130"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4447,6 +4508,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructors": [
@@ -4458,6 +4520,7 @@
 "meetingNumber": "LEC0131"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -4585,6 +4648,7 @@
 6,
 6,
 7,
+8,
 8,
 8,
 8,
@@ -4727,7 +4791,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Writing for University and Beyond: Writing About Writing"
 }

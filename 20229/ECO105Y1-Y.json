@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 393,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 392,
 392,
 392,
+392,
 392
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 393,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -557,6 +560,7 @@
 392,
 392,
 392,
+391,
 391,
 391,
 391,
@@ -837,7 +841,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Principles of Economics for Non-Specialists"
 }

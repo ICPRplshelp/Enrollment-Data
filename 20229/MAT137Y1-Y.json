@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 195,
 195,
 195,
+195,
 195
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 194,
 194,
 194,
+194,
 194
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 220,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 215,
 215,
 215,
+215,
 215
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 205,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 205,
 205,
 205,
+205,
 205
 ],
 "instructors": [
@@ -1127,6 +1135,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 222,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1396,6 +1405,7 @@
 218,
 218,
 218,
+218,
 218
 ],
 "instructors": [
@@ -1411,6 +1421,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1680,6 +1691,7 @@
 190,
 190,
 190,
+190,
 190
 ],
 "instructors": [
@@ -1691,6 +1703,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 222,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1960,6 +1973,7 @@
 222,
 222,
 222,
+222,
 222
 ],
 "instructors": [
@@ -1971,6 +1985,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2240,12 +2255,14 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 220,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2507,6 +2524,7 @@
 214,
 214,
 213,
+214,
 214,
 214,
 214,
@@ -2790,7 +2808,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus with Proofs"
 }

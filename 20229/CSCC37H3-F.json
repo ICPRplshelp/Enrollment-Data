@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 170,
 170,
 170,
+170,
 170
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -274,6 +277,7 @@
 102,
 102,
 102,
+103,
 103,
 103,
 103,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Numerical Algorithms for Computational Mathematics"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -240,6 +241,7 @@
 21,
 21,
 20,
+19,
 19,
 19,
 19,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -535,6 +538,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -822,7 +826,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Topics in Comparative Politics III"
 }

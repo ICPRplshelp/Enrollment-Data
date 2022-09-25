@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -562,6 +565,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructors": [
@@ -573,6 +577,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -847,6 +852,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructors": [
@@ -858,6 +864,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1132,6 +1139,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructors": [
@@ -1143,6 +1151,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1406,6 +1415,7 @@
 57,
 57,
 57,
+55,
 55,
 55,
 55,
@@ -1692,7 +1702,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Corporate Finance"
 }

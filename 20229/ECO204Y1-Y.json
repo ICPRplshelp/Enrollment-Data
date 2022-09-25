@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 165,
 165,
 165,
+165,
 165
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 120,
 120,
 120,
+120,
 120
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 165,
 165,
 165,
+165,
 165
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 114,
 114,
 114,
+114,
 114
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 165,
 165,
 165,
+165,
 165
 ],
 "instructors": [
@@ -1407,6 +1417,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1659,6 +1670,7 @@
 193,
 193,
 193,
+165,
 165,
 165,
 165,
@@ -1955,7 +1967,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Microeconomic Theory and Applications (for Commerce)"
 }

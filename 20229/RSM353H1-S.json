@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 71,
 71,
 71,
+71,
 71
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 54,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -536,6 +539,7 @@
 66,
 66,
 66,
+65,
 65,
 65,
 65,
@@ -817,7 +821,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Consumer Behaviour"
 }

@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 100,
 100,
 100,
+100,
 100
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 150,
 150,
 150,
+150,
 150
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -572,6 +579,7 @@
 114,
 114,
 114,
+114,
 114
 ],
 "instructors": [
@@ -583,12 +591,14 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -723,6 +733,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -852,6 +863,7 @@
 90,
 90,
 90,
+91,
 91,
 91,
 91,
@@ -992,7 +1004,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Financial Accounting"
 }

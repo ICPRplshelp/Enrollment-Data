@@ -3,6 +3,7 @@
 "faculty": "ARCLA",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -126,6 +127,7 @@
 25,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -252,6 +255,7 @@
 25,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -418,6 +423,7 @@
 28,
 28,
 28,
+27,
 27,
 27,
 27,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -563,6 +570,7 @@
 25,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -693,6 +702,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -857,6 +868,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1002,6 +1015,7 @@
 23,
 23,
 23,
+24,
 24,
 24,
 24,
@@ -1018,6 +1032,7 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1135,6 +1150,7 @@
 22,
 22,
 22,
+23,
 23,
 23,
 23,
@@ -1163,6 +1179,7 @@
 "meetingNumber": "LEC0108"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1286,6 +1303,7 @@
 25,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -1308,6 +1326,7 @@
 "meetingNumber": "LEC0109"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1431,6 +1450,7 @@
 25,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -1453,6 +1473,7 @@
 "meetingNumber": "LEC0110"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1576,6 +1597,7 @@
 25,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -1598,6 +1620,7 @@
 "meetingNumber": "LEC0111"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1721,6 +1744,7 @@
 22,
 22,
 22,
+25,
 25,
 25,
 25,
@@ -1738,6 +1762,7 @@
 "meetingNumber": "LEC0112"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1867,6 +1892,7 @@
 21,
 21,
 21,
+22,
 22,
 22,
 22,
@@ -1878,6 +1904,7 @@
 "meetingNumber": "LEC0113"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2012,12 +2039,14 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructors": [],
 "meetingNumber": "LEC0114"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2128,6 +2157,7 @@
 18,
 17,
 17,
+11,
 11,
 11,
 11,
@@ -2287,7 +2317,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Visual Strategies"
 }

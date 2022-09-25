@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 190,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 163,
 163,
 163,
+163,
 163
 ],
 "instructors": [
@@ -152,6 +154,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +275,7 @@
 165,
 164,
 164,
+161,
 161,
 161,
 161,
@@ -430,7 +434,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus I"
 }

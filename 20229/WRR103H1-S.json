@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -261,6 +262,7 @@
 33,
 33,
 33,
+32,
 32,
 32,
 32,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -808,6 +813,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC2000"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1088,6 +1095,7 @@
 14,
 14,
 14,
+12,
 12,
 12,
 12,
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC2100"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1368,6 +1377,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -1398,6 +1408,7 @@
 "meetingNumber": "LEC2200"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1591,6 +1602,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -1942,7 +1954,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Writing Essays"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -818,6 +823,7 @@
 20,
 20,
 20,
+21,
 21,
 21,
 21,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1107,6 +1114,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1381,6 +1390,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -1667,7 +1677,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introductory Latin I"
 }

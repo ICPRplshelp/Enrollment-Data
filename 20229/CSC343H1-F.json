@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 246,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 245,
 245,
 245,
+245,
 245
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 171,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -557,6 +560,7 @@
 116,
 116,
 116,
+116,
 116
 ],
 "instructors": [
@@ -568,6 +572,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 103,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -837,6 +842,7 @@
 103,
 103,
 103,
+103,
 103
 ],
 "instructors": [
@@ -848,6 +854,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 51,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1122,6 +1129,7 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructors": [
@@ -1133,6 +1141,7 @@
 "meetingNumber": "LEC2001"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1385,6 +1394,7 @@
 24,
 24,
 24,
+23,
 23,
 23,
 23,
@@ -1677,7 +1687,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Databases"
 }

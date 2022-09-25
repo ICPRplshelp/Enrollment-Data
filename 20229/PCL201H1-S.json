@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 269,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 288,
 288,
 288,
+288,
 288
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -473,6 +476,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }

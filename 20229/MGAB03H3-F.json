@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -115,6 +116,7 @@
 65,
 65,
 65,
+63,
 63,
 63,
 63,
@@ -153,6 +155,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -265,6 +268,7 @@
 66,
 66,
 66,
+63,
 63,
 63,
 63,
@@ -303,6 +307,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -442,6 +447,7 @@
 63,
 63,
 63,
+63,
 63
 ],
 "instructors": [
@@ -453,6 +459,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -579,6 +586,7 @@
 63,
 63,
 63,
+62,
 62,
 62,
 62,
@@ -732,7 +740,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introductory Management Accounting"
 }

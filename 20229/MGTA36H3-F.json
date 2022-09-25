@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 41,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 38,
 38,
 38,
+38,
 38
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -413,6 +418,7 @@
 31,
 32,
 32,
+30,
 30,
 30,
 30,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -567,6 +574,7 @@
 35,
 35,
 35,
+34,
 34,
 34,
 34,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC04"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -708,6 +717,7 @@
 34,
 34,
 34,
+33,
 33,
 33,
 33,
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC05"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -838,6 +849,7 @@
 43,
 42,
 42,
+43,
 43,
 43,
 43,
@@ -1002,7 +1014,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Management Communications for Co-op"
 }

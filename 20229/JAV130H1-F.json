@@ -3,6 +3,7 @@
 "faculty": "ARCLA",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -129,6 +130,7 @@
 10,
 10,
 10,
+9,
 9,
 9,
 9,
@@ -153,6 +155,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -279,6 +282,7 @@
 10,
 10,
 10,
+11,
 11,
 11,
 11,
@@ -432,7 +436,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Visual Strategies"
 }

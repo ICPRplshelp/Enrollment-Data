@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC2501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -547,6 +550,7 @@
 120,
 119,
 119,
+116,
 116,
 116,
 116,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "The Design of Interactive Computational Media"
 }

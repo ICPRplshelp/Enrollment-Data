@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -255,6 +256,7 @@
 11,
 11,
 11,
+10,
 10,
 10,
 10,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -710,6 +715,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -979,6 +985,7 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructors": [
@@ -990,6 +997,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1248,6 +1256,7 @@
 25,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -1534,7 +1543,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Topics in History"
 }

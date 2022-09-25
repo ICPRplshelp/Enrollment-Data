@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 128,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -123,6 +124,7 @@
 102,
 102,
 102,
+104,
 104,
 104,
 104,
@@ -143,6 +145,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 128,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -261,6 +264,7 @@
 108,
 108,
 108,
+109,
 109,
 109,
 109,
@@ -288,6 +292,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 149,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -422,6 +427,7 @@
 136,
 136,
 136,
+136,
 136
 ],
 "instructors": [
@@ -433,6 +439,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 123,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -543,6 +550,7 @@
 96,
 96,
 96,
+95,
 95,
 95,
 95,
@@ -702,7 +710,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Computer Fundamentals"
 }

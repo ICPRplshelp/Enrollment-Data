@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -132,6 +133,7 @@
 53,
 54,
 54,
+53,
 53,
 53,
 53,
@@ -143,6 +145,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -277,12 +280,14 @@
 57,
 57,
 57,
+57,
 57
 ],
 "instructors": [],
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -417,12 +422,14 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructors": [],
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +559,7 @@
 26,
 26,
 26,
+27,
 27,
 27,
 27,
@@ -692,7 +700,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Financial Planning for Individuals"
 }

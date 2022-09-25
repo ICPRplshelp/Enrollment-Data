@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 146,
 146,
 146,
+146,
 146
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -542,6 +545,7 @@
 143,
 143,
 143,
+144,
 144,
 144,
 144,
@@ -822,7 +826,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Principles of Programming Languages"
 }

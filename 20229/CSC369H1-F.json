@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 134,
 134,
 134,
+134,
 134
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -430,6 +433,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -682,6 +686,7 @@
 173,
 173,
 173,
+160,
 160,
 160,
 160,
@@ -974,7 +979,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Operating Systems"
 }

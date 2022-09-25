@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 63,
 63,
 63,
+63,
 63
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 140,
 140,
 140,
+140,
 140
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -827,6 +832,7 @@
 139,
 139,
 139,
+138,
 138,
 138,
 138,
@@ -1107,7 +1113,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Money, Banking and Financial Markets"
 }

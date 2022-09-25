@@ -3,12 +3,14 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -542,7 +544,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Independent Study in Celtic Studies"
 }

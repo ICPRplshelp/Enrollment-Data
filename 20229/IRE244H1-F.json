@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 65,
 65,
 65,
+65,
 65
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 66,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -548,6 +551,7 @@
 66,
 65,
 65,
+66,
 66,
 66,
 66,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Labour Relations"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 240,
 240,
 240,
+240,
 240
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 247,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -557,6 +560,7 @@
 247,
 247,
 247,
+247,
 247
 ],
 "instructors": [
@@ -568,6 +572,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 247,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -831,6 +836,7 @@
 240,
 240,
 240,
+247,
 247,
 247,
 247,
@@ -1117,7 +1123,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Probability, Statistics and Data Analysis I"
 }

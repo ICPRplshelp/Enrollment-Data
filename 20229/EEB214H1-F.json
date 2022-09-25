@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 92,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 81,
 81,
 81,
+81,
 81
 ],
 "instructors": [
@@ -283,12 +285,14 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 8,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 8
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Evolution and Adaptation"
 }

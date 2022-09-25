@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -125,6 +126,7 @@
 19,
 19,
 19,
+20,
 20,
 20,
 20,
@@ -282,7 +284,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Graph Theory and Algorithms for its Applications"
 }

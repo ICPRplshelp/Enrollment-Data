@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 83,
 83,
 83,
+83,
 83
 ],
 "instructors": [
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -556,6 +559,7 @@
 95,
 95,
 95,
+95,
 95
 ],
 "instructors": [
@@ -571,6 +575,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -840,6 +845,7 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructors": [
@@ -855,6 +861,7 @@
 "meetingNumber": "LEC2001"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1107,6 +1114,7 @@
 33,
 33,
 33,
+30,
 30,
 30,
 30,
@@ -1403,7 +1411,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Artificial Intelligence"
 }

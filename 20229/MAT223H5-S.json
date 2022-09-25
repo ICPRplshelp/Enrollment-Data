@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 127,
 127,
 127,
+127,
 127
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 99,
 98,
 98,
+100,
 100,
 100,
 100,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 91,
 91,
 91,
+91,
 91
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -572,6 +579,7 @@
 118,
 118,
 118,
+118,
 118
 ],
 "instructors": [
@@ -583,12 +591,14 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -852,7 +862,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Linear Algebra I"
 }

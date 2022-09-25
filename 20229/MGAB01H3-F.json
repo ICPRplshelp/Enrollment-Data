@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -123,6 +124,7 @@
 60,
 60,
 60,
+59,
 59,
 59,
 59,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -249,6 +252,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -411,6 +416,7 @@
 53,
 53,
 50,
+49,
 49,
 49,
 49,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -558,6 +565,7 @@
 58,
 57,
 57,
+55,
 55,
 55,
 55,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC04"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -717,6 +726,7 @@
 51,
 51,
 51,
+51,
 51
 ],
 "instructors": [
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC05"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -845,6 +856,7 @@
 52,
 52,
 52,
+55,
 55,
 55,
 55,
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC06"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -994,6 +1007,7 @@
 54,
 54,
 53,
+52,
 52,
 52,
 52,
@@ -1018,6 +1032,7 @@
 "meetingNumber": "LEC07"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1136,6 +1151,7 @@
 59,
 59,
 58,
+60,
 60,
 60,
 60,
@@ -1163,6 +1179,7 @@
 "meetingNumber": "LEC08"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1297,6 +1314,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructors": [
@@ -1308,6 +1326,7 @@
 "meetingNumber": "LEC11"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1442,6 +1461,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructors": [
@@ -1453,6 +1473,7 @@
 "meetingNumber": "LEC30"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1574,6 +1595,7 @@
 44,
 44,
 46,
+45,
 45,
 45,
 45,
@@ -1727,7 +1749,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introductory Financial Accounting I"
 }

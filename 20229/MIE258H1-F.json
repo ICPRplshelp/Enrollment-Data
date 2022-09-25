@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 222,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 222,
 222,
 222,
+222,
 222
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 170,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -275,6 +278,7 @@
 124,
 124,
 124,
+125,
 125,
 125,
 125,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Engineering Economics and Accounting"
 }

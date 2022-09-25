@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -10,6 +11,7 @@
 },
 "enrollmentLogs": [
 0,
+2,
 2,
 2,
 2,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -155,6 +158,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -293,12 +297,14 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -433,6 +439,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -567,18 +574,21 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -847,7 +857,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Research Opportunity Program"
 }

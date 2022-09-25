@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 121,
 121,
 121,
+121,
 121
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -539,6 +542,7 @@
 109,
 109,
 110,
+109,
 109,
 109,
 109,
@@ -817,7 +821,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Statistics and Scientific Inquiry in the Life Sciences"
 }

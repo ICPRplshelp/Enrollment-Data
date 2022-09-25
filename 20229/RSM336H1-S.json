@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 68,
 68,
 68,
+68,
 68
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 72,
 72,
 72,
+72,
 72
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -792,6 +797,7 @@
 62,
 61,
 61,
+63,
 63,
 63,
 63,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1096,6 +1103,7 @@
 63,
 63,
 63,
+64,
 64,
 64,
 64,
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1387,6 +1396,7 @@
 63,
 63,
 63,
+64,
 64,
 64,
 64,
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1667,6 +1678,7 @@
 64,
 64,
 64,
+65,
 65,
 65,
 65,
@@ -1947,7 +1959,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Investments"
 }

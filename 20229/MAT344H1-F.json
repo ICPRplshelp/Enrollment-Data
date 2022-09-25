@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -535,6 +538,7 @@
 113,
 113,
 113,
+100,
 100,
 100,
 100,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Combinatorics"
 }

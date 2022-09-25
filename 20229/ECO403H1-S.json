@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -544,6 +547,7 @@
 69,
 69,
 70,
+71,
 71,
 71,
 71,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Topics in Development Economics and Policy"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -538,6 +541,7 @@
 22,
 21,
 21,
+22,
 22,
 22,
 22,
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -816,6 +821,7 @@
 19,
 19,
 21,
+20,
 20,
 20,
 20,
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1105,6 +1112,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -1127,6 +1135,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1382,6 +1391,7 @@
 11,
 11,
 11,
+10,
 10,
 10,
 10,
@@ -1407,6 +1417,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1660,6 +1671,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -1687,6 +1699,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1956,6 +1969,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructors": [
@@ -1967,6 +1981,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2225,6 +2240,7 @@
 29,
 27,
 27,
+28,
 28,
 28,
 28,
@@ -2247,6 +2263,7 @@
 "meetingNumber": "LEC5201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2505,6 +2522,7 @@
 26,
 26,
 26,
+29,
 29,
 29,
 29,
@@ -2527,6 +2545,7 @@
 "meetingNumber": "LEC5301"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2787,6 +2806,7 @@
 30,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -3071,7 +3091,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Italian Language for Beginners"
 }

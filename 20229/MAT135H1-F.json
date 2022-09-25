@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 438,
 438,
 438,
+438,
 438
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 428,
 428,
 428,
+428,
 428
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 199,
 199,
 199,
+199,
 199
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1119,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -1123,6 +1131,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1392,6 +1401,7 @@
 186,
 186,
 186,
+186,
 186
 ],
 "instructors": [
@@ -1403,6 +1413,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1672,6 +1683,7 @@
 191,
 191,
 191,
+191,
 191
 ],
 "instructors": [
@@ -1683,6 +1695,7 @@
 "meetingNumber": "LEC0502"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1952,6 +1965,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructors": [
@@ -1963,6 +1977,7 @@
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2232,6 +2247,7 @@
 169,
 169,
 169,
+169,
 169
 ],
 "instructors": [
@@ -2243,6 +2259,7 @@
 "meetingNumber": "LEC0602"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2512,6 +2529,7 @@
 227,
 227,
 227,
+227,
 227
 ],
 "instructors": [
@@ -2523,6 +2541,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2792,6 +2811,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructors": [
@@ -2803,6 +2823,7 @@
 "meetingNumber": "LEC0801"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3072,6 +3093,7 @@
 145,
 145,
 145,
+145,
 145
 ],
 "instructors": [
@@ -3083,6 +3105,7 @@
 "meetingNumber": "LEC0901"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3352,6 +3375,7 @@
 166,
 166,
 166,
+166,
 166
 ],
 "instructors": [
@@ -3363,6 +3387,7 @@
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3627,6 +3652,7 @@
 245,
 245,
 245,
+244,
 244,
 244,
 244,
@@ -3907,7 +3933,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Calculus I"
 }

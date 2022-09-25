@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -265,6 +266,7 @@
 22,
 22,
 22,
+21,
 21,
 21,
 21,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -545,6 +548,7 @@
 22,
 22,
 22,
+21,
 21,
 21,
 21,
@@ -822,7 +826,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Social Psychology Laboratory"
 }

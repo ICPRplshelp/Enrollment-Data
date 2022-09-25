@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 147,
 147,
 147,
+147,
 147
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 85,
 85,
 85,
+85,
 85
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -411,6 +416,7 @@
 111,
 111,
 111,
+109,
 109,
 109,
 109,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Probability"
 }

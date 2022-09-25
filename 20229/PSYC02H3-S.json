@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 92,
 92,
 92,
+92,
 92
 ],
 "instructors": [
@@ -148,12 +150,14 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 6,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 6
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Scientific Communication in Psychology"
 }

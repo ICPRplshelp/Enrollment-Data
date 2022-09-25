@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructors": [],
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -530,6 +533,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -817,7 +821,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Big Data and Marketing Analytics"
 }

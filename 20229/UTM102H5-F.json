@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -120,6 +121,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -271,6 +274,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -416,6 +421,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0103"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -563,6 +570,7 @@
 14,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0104"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -712,6 +721,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0105"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -851,6 +862,7 @@
 9,
 9,
 9,
+7,
 7,
 7,
 7,
@@ -873,6 +885,7 @@
 "meetingNumber": "LEC0106"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -983,6 +996,7 @@
 6,
 6,
 6,
+7,
 7,
 7,
 7,
@@ -1018,6 +1032,7 @@
 "meetingNumber": "LEC0107"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1152,6 +1167,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructors": [
@@ -1163,6 +1179,7 @@
 "meetingNumber": "LEC0108"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1297,6 +1314,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructors": [
@@ -1308,6 +1326,7 @@
 "meetingNumber": "LEC0109"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1428,6 +1447,7 @@
 20,
 19,
 19,
+17,
 17,
 17,
 17,
@@ -1582,7 +1602,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "LAUNCH: Science, Mathematics and Psychology"
 }

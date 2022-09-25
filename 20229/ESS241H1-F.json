@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -277,6 +278,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructors": [
@@ -288,6 +290,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -399,6 +402,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -832,7 +836,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Geologic Structures and Maps"
 }

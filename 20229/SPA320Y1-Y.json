@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647691,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -256,6 +257,7 @@
 29,
 29,
 29,
+27,
 27,
 27,
 27,
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -551,6 +554,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -567,6 +571,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647691,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -825,6 +830,7 @@
 25,
 24,
 24,
+23,
 23,
 23,
 23,
@@ -1111,7 +1117,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Advanced Spanish"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 59,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -552,6 +555,7 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructors": [
@@ -563,6 +567,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -832,6 +837,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructors": [
@@ -843,6 +849,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,12 +1119,14 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructors": [],
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1387,12 +1396,14 @@
 38,
 38,
 38,
+38,
 38
 ],
 "instructors": [],
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1662,12 +1673,14 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructors": [],
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1937,12 +1950,14 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructors": [],
 "meetingNumber": "LEC5101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2354,7 +2369,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Organizational Behaviour"
 }

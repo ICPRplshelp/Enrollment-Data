@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647689,
 "enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructors": [
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647689,
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -536,6 +539,7 @@
 94,
 94,
 93,
+91,
 91,
 91,
 91,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Classical Sociological Theory"
 }

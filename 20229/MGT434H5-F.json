@@ -3,6 +3,7 @@
 "faculty": "ERIN",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructors": [
@@ -152,6 +154,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -286,6 +289,7 @@
 47,
 47,
 47,
+47,
 47
 ],
 "instructors": [
@@ -301,6 +305,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -426,6 +431,7 @@
 56,
 56,
 56,
+55,
 55,
 55,
 55,
@@ -575,7 +581,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Mergers and Acquisitions"
 }

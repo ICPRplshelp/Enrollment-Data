@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -97,6 +98,7 @@
 4,
 4,
 4,
+3,
 3,
 3,
 3,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC30"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -219,6 +222,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -422,7 +426,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Small Ensembles IIb"
 }

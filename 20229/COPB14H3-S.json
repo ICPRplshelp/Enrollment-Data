@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -110,6 +111,7 @@
 41,
 41,
 41,
+40,
 40,
 40,
 40,
@@ -143,6 +145,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -250,6 +253,7 @@
 46,
 46,
 46,
+47,
 47,
 47,
 47,
@@ -412,7 +416,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Advancing Your Career Exploration Management International Business Part II"
 }

@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -400,6 +405,7 @@
 19,
 19,
 19,
+10,
 10,
 10,
 10,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Discrete Mathematics"
 }

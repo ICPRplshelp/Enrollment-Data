@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -242,6 +243,7 @@
 16,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -522,6 +525,7 @@
 26,
 27,
 27,
+28,
 28,
 28,
 28,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Special Topics"
 }

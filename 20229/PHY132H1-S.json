@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 617,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,6 +273,7 @@
 586,
 586,
 586,
+586,
 586
 ],
 "instructors": [
@@ -287,6 +289,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -551,6 +554,7 @@
 204,
 204,
 204,
+206,
 206,
 206,
 206,
@@ -835,7 +839,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Physics II"
 }

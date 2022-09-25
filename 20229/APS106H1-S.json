@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 357,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 281,
 281,
 281,
+281,
 281
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 179,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 159,
 159,
 159,
+159,
 159
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 164,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -413,6 +418,7 @@
 136,
 135,
 135,
+136,
 136,
 136,
 136,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Fundamentals of Computer Programming"
 }

@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -263,6 +264,7 @@
 34,
 34,
 34,
+35,
 35,
 35,
 35,
@@ -283,6 +285,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -543,6 +546,7 @@
 28,
 28,
 28,
+29,
 29,
 29,
 29,
@@ -827,7 +831,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Seminar in Cognition"
 }

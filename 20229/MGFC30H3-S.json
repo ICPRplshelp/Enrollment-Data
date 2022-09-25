@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -110,6 +111,7 @@
 57,
 57,
 57,
+56,
 56,
 56,
 56,
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructors": [
@@ -293,12 +297,14 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Introduction to Derivatives Markets"
 }

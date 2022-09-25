@@ -3,6 +3,7 @@
 "faculty": "MUSIC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,6 +432,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructors": [
@@ -438,6 +444,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -572,6 +579,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructors": [
@@ -583,6 +591,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 32,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -717,6 +726,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructors": [
@@ -728,6 +738,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -735,6 +746,7 @@
 },
 "enrollmentLogs": [
 0,
+9,
 9,
 9,
 9,
@@ -1002,7 +1014,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Music Theory I"
 }

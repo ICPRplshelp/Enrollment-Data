@@ -3,6 +3,7 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 151,
 151,
 151,
+151,
 151
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC01"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 158,
 158,
 158,
+158,
 158
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC02"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -427,12 +432,14 @@
 133,
 133,
 133,
+133,
 133
 ],
 "instructors": [],
 "meetingNumber": "LEC03"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -560,6 +567,7 @@
 108,
 108,
 108,
+107,
 107,
 107,
 107,
@@ -702,7 +710,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Introduction to Computer Science II"
 }

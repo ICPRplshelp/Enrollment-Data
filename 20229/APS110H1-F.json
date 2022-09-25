@@ -3,6 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
+"createdAt": 1660867317,
 "enrollmentCap": 478,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -137,6 +138,7 @@
 430,
 430,
 430,
+430,
 430
 ],
 "instructors": [
@@ -148,6 +150,7 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 298,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -282,6 +285,7 @@
 245,
 245,
 245,
+245,
 245
 ],
 "instructors": [
@@ -293,6 +297,7 @@
 "meetingNumber": "LEC0102"
 },
 {
+"createdAt": 1660867317,
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -422,6 +427,7 @@
 295,
 294,
 294,
+293,
 293,
 293,
 293,
@@ -567,7 +573,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132376
 ],
 "title": "Eng. Chemistry & Material Science"
 }

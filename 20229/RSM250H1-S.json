@@ -3,6 +3,7 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -272,12 +273,14 @@
 70,
 70,
 70,
+70,
 70
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -530,6 +533,7 @@
 69,
 69,
 69,
+70,
 70,
 70,
 70,
@@ -558,6 +562,7 @@
 "meetingNumber": "LEC0201"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -822,6 +827,7 @@
 69,
 69,
 69,
+68,
 68,
 68,
 68,
@@ -838,6 +844,7 @@
 "meetingNumber": "LEC0301"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1107,6 +1114,7 @@
 69,
 69,
 69,
+69,
 69
 ],
 "instructors": [
@@ -1118,6 +1126,7 @@
 "meetingNumber": "LEC0401"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1373,6 +1382,7 @@
 51,
 51,
 51,
+52,
 52,
 52,
 52,
@@ -1393,6 +1403,7 @@
 "meetingNumber": "LEC0501"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1662,12 +1673,14 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructors": [],
 "meetingNumber": "LEC0601"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1928,6 +1941,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -1948,6 +1962,7 @@
 "meetingNumber": "LEC0701"
 },
 {
+"createdAt": 1656647697,
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2208,6 +2223,7 @@
 59,
 59,
 59,
+60,
 60,
 60,
 60,
@@ -2492,7 +2508,8 @@
 1664039175,
 1664060370,
 1664070456,
-1664121247
+1664121247,
+1664132377
 ],
 "title": "Principles of Marketing"
 }
