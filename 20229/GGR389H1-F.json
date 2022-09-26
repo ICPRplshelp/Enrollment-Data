@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1656647689,
-"enrollmentCap": 30,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662765624,
 30
+],
+[
+1664233184,
+15
 ]
 ],
 "initialCap": 60
@@ -267,6 +271,7 @@
 12,
 10,
 10,
+11,
 11,
 11,
 11,
@@ -557,7 +562,8 @@
 1664070456,
 1664121247,
 1664132376,
-1664167664
+1664167664,
+1664233184
 ],
 "title": "Special Topics in Human Geography"
 }

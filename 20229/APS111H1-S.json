@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 37,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664233184,
+90
+]
+],
 "initialCap": 37
 },
 "enrollmentLogs": [
@@ -140,7 +145,8 @@
 2,
 2,
 2,
-2
+2,
+48
 ],
 "instructors": [],
 "meetingNumber": "LEC0101"
@@ -277,7 +283,8 @@
 1664070456,
 1664121247,
 1664132376,
-1664167664
+1664167664,
+1664233184
 ],
 "title": "Engineering Strategies & Practice I"
 }

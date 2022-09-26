@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647691,
-"enrollmentCap": 500,
+"enrollmentCap": 456,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664233184,
+456
+]
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -275,7 +280,8 @@
 343,
 343,
 343,
-343
+343,
+341
 ],
 "instructors": [
 [
@@ -552,7 +558,8 @@
 1664070456,
 1664121247,
 1664132377,
-1664167664
+1664167664,
+1664233184
 ],
 "title": "Introduction to Philosophy (Historical)"
 }
