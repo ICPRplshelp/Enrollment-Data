@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664470448,
+35
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -146,7 +151,8 @@
 30,
 30,
 30,
-30
+30,
+34
 ],
 "instructors": [
 [
@@ -284,6 +290,7 @@
 31,
 31,
 30,
+28,
 28,
 28,
 28,
@@ -448,7 +455,8 @@
 1664291017,
 1664314188,
 1664340091,
-1664419305
+1664419305,
+1664470448
 ],
 "title": "Chinese for Academic Purposes I"
 }
