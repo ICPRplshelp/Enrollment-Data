@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 280,
+"enrollmentCap": 312,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664586466,
+312
+]
+],
 "initialCap": 280
 },
 "enrollmentLogs": [
@@ -283,7 +288,8 @@
 311,
 311,
 311,
-311
+311,
+312
 ],
 "instructors": [
 [
@@ -568,7 +574,8 @@
 1664340091,
 1664419305,
 1664470448,
-1664511040
+1664511040,
+1664586466
 ],
 "title": "Social Cultural Anthropology and Global Issues"
 }
