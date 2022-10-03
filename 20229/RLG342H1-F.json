@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647689,
-"enrollmentCap": 30,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664837814,
+10
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -266,6 +271,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -582,7 +588,8 @@
 1664670035,
 1664727883,
 1664752005,
-1664766853
+1664766853,
+1664837814
 ],
 "title": "Judaism in the Early Modern Era"
 }
