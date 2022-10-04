@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 35,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664908674,
+28
+]
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -156,6 +161,7 @@
 32,
 32,
 32,
+27,
 27,
 27,
 27
@@ -318,7 +324,8 @@
 1664766853,
 1664837814,
 1664838503,
-1664838811
+1664838811,
+1664908674
 ],
 "title": "Behavioural Neuroscience Laboratory"
 }

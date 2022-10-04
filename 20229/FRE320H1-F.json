@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647689,
-"enrollmentCap": 30,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1664908674,
+25
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -276,6 +281,7 @@
 10,
 10,
 10,
+9,
 9,
 9,
 9,
@@ -588,7 +594,8 @@
 1664766853,
 1664837813,
 1664838503,
-1664838811
+1664838811,
+1664908674
 ],
 "title": "French Literature of Classicism and Enlightenment"
 }
