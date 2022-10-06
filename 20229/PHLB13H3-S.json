@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665024106,
+70
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -159,6 +164,7 @@
 71,
 71,
 71,
+70,
 70,
 70
 ],
@@ -322,7 +328,8 @@
 1664838503,
 1664838811,
 1664908674,
-1664944101
+1664944101,
+1665024106
 ],
 "title": "Philosophy and Feminism"
 }

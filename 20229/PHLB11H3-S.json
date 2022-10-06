@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 50,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665024106,
+86
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -159,6 +164,7 @@
 87,
 87,
 87,
+88,
 88,
 88
 ],
@@ -322,7 +328,8 @@
 1664838503,
 1664838811,
 1664908674,
-1664944101
+1664944101,
+1665024106
 ],
 "title": "Philosophy of Law"
 }
