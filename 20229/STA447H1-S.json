@@ -297,6 +297,7 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructors": [],
@@ -304,9 +305,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 2,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665187945,
+3
+]
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -568,6 +574,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -891,7 +898,8 @@
 1664908674,
 1664944101,
 1665024106,
-1665069307
+1665069307,
+1665187945
 ],
 "title": "Stochastic Processes"
 }

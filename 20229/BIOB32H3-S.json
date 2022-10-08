@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 194,
+"enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1664419305,
 194
+],
+[
+1665187945,
+192
 ]
 ],
 "initialCap": 195
@@ -167,7 +171,8 @@
 232,
 231,
 231,
-231
+231,
+229
 ],
 "instructors": [],
 "meetingNumber": "LEC01"
@@ -326,7 +331,8 @@
 1664908674,
 1664944101,
 1665024105,
-1665069307
+1665069307,
+1665187945
 ],
 "title": "Animal Physiology Laboratory"
 }

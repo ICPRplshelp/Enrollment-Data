@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662664205,
 25
+],
+[
+1665187945,
+26
 ]
 ],
 "initialCap": 30
@@ -302,7 +306,8 @@
 24,
 24,
 24,
-24
+24,
+26
 ],
 "instructors": [
 [
@@ -601,7 +606,8 @@
 1664908674,
 1664944101,
 1665024105,
-1665069307
+1665069307,
+1665187945
 ],
 "title": "Working as an Internal Organizational Consultant"
 }
