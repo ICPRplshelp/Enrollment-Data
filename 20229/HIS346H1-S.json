@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 150,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665550884,
+170
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -170,7 +175,8 @@
 169,
 169,
 169,
-169
+169,
+170
 ],
 "instructors": [
 [
@@ -342,7 +348,8 @@
 1665427987,
 1665439304,
 1665461897,
-1665500208
+1665500208,
+1665550884
 ],
 "title": "Rice, Sugar, and Spice in Southeast Asia:  a History of Food in the Region"
 }

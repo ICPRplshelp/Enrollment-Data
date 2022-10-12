@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 100,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665550884,
+120
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -305,7 +310,8 @@
 117,
 117,
 117,
-117
+117,
+116
 ],
 "instructors": [
 [
@@ -612,7 +618,8 @@
 1665427987,
 1665439304,
 1665461897,
-1665500208
+1665500208,
+1665550884
 ],
 "title": "History of Britain: Struggle for Power"
 }
