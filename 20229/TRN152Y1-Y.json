@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647691,
-"enrollmentCap": 26,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1665679728,
+25
+]
+],
 "initialCap": 26
 },
 "enrollmentLogs": [
@@ -298,6 +303,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -616,7 +622,8 @@
 1665461898,
 1665500209,
 1665550884,
-1665625654
+1665625654,
+1665679728
 ],
 "title": "Justice & Global Conflict"
 }
