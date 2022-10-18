@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647689,
-"enrollmentCap": 50,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666060856,
+53
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -312,7 +317,8 @@
 50,
 50,
 50,
-50
+50,
+53
 ],
 "instructors": [
 [
@@ -586,6 +592,7 @@
 70,
 70,
 70,
+69,
 69,
 69,
 69,
@@ -946,7 +953,8 @@
 1665788229,
 1665848496,
 1665909819,
-1665960284
+1665960284,
+1666060856
 ],
 "title": "Organizational Behaviour"
 }
