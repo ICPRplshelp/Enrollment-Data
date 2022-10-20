@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666229765,
+55
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -313,7 +318,8 @@
 50,
 50,
 50,
-50
+50,
+51
 ],
 "instructors": [
 [
@@ -628,7 +634,8 @@
 1665848496,
 1665909819,
 1665960284,
-1666060856
+1666060856,
+1666229765
 ],
 "title": "Equity and Diversity in Education"
 }

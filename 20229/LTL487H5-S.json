@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 15,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666229765,
+12
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -178,6 +183,7 @@
 13,
 13,
 13,
+12,
 12
 ],
 "instructors": [
@@ -358,7 +364,8 @@
 1665848496,
 1665909819,
 1665960285,
-1666060856
+1666060856,
+1666229765
 ],
 "title": "Second Language Pedagogy"
 }

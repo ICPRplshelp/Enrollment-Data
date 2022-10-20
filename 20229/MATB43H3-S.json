@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 120,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666229766,
+63
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -178,6 +183,7 @@
 45,
 45,
 45,
+46,
 46
 ],
 "instructors": [],
@@ -353,7 +359,8 @@
 1665848496,
 1665909819,
 1665960285,
-1666060856
+1666060856,
+1666229766
 ],
 "title": "Introduction to Analysis"
 }

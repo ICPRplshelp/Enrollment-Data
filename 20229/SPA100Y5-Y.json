@@ -178,7 +178,8 @@
 46,
 46,
 46,
-46
+46,
+45
 ],
 "instructors": [
 [
@@ -190,9 +191,14 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 70,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666229766,
+35
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -364,6 +370,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructors": [
@@ -376,9 +383,14 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666229766,
+30
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -515,6 +527,7 @@
 27,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -730,7 +743,8 @@
 1665848497,
 1665909819,
 1665960285,
-1666060856
+1666060856,
+1666229766
 ],
 "title": "Spanish for Beginners"
 }
