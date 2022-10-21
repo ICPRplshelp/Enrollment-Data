@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 30,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666395230,
+27
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -174,6 +179,7 @@
 18,
 18,
 18,
+17,
 17,
 17,
 17,
@@ -356,6 +362,7 @@
 19,
 19,
 19,
+18,
 18,
 18,
 18,
@@ -559,6 +566,7 @@
 18,
 17,
 17,
+17,
 17
 ],
 "instructors": [],
@@ -572,6 +580,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -921,7 +930,8 @@
 1666060856,
 1666229765,
 1666283682,
-1666329869
+1666329869,
+1666395230
 ],
 "title": "Language Practice II"
 }

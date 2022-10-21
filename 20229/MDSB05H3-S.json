@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 150,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666395231,
+165
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -181,7 +186,8 @@
 165,
 164,
 164,
-164
+164,
+163
 ],
 "instructors": [],
 "meetingNumber": "LEC01"
@@ -359,7 +365,8 @@
 1666060856,
 1666229766,
 1666283682,
-1666329870
+1666329870,
+1666395231
 ],
 "title": "Media and Globalization"
 }

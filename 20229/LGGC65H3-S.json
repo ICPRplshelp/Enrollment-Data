@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1663023880,
-"enrollmentCap": 30,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666395231,
+27
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -87,7 +92,8 @@
 12,
 14,
 16,
-16
+16,
+17
 ],
 "instructors": [
 [
@@ -176,7 +182,8 @@
 1666060856,
 1666229765,
 1666283682,
-1666329870
+1666329870,
+1666395231
 ],
 "title": "Reading Chinese and English: Global Perspectives"
 }
