@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 65,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666652709,
+85
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -320,7 +325,8 @@
 77,
 77,
 77,
-77
+77,
+78
 ],
 "instructors": [
 [
@@ -642,7 +648,8 @@
 1666395231,
 1666468940,
 1666490927,
-1666556837
+1666556837,
+1666652709
 ],
 "title": "The Quran: An Introduction"
 }

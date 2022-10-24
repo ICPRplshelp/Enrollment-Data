@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 10,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666652709,
+5
+]
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -98,6 +103,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -367,7 +373,8 @@
 1666395231,
 1666468940,
 1666490927,
-1666556837
+1666556837,
+1666652709
 ],
 "title": "Concert Choir IIIa"
 }

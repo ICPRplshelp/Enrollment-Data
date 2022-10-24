@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 180,
+"enrollmentCap": 188,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666652709,
+188
+]
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -317,6 +322,7 @@
 199,
 199,
 200,
+201,
 201,
 201,
 201,
@@ -642,7 +648,8 @@
 1666395231,
 1666468940,
 1666490927,
-1666556837
+1666556837,
+1666652709
 ],
 "title": "World Religions"
 }
