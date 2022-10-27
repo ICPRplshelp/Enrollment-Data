@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 40,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666890947,
+50
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -325,7 +330,8 @@
 44,
 44,
 44,
-44
+44,
+43
 ],
 "instructors": [
 [
@@ -652,7 +658,8 @@
 1666666112,
 1666680564,
 1666725166,
-1666840288
+1666840288,
+1666890947
 ],
 "title": "Rites of Passage"
 }
