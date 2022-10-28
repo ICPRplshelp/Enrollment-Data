@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 250,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1666925303,
+300
+]
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -191,7 +196,8 @@
 425,
 425,
 426,
-426
+426,
+375
 ],
 "instructors": [
 [
@@ -384,7 +390,8 @@
 1666680564,
 1666725166,
 1666840288,
-1666890947
+1666890947,
+1666925303
 ],
 "title": "History of Media"
 }
