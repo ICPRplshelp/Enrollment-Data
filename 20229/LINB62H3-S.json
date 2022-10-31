@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 45,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667257133,
+25
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -195,7 +200,8 @@
 84,
 83,
 83,
-83
+83,
+61
 ],
 "instructors": [],
 "meetingNumber": "LEC01"
@@ -393,7 +399,8 @@
 0,
 0,
 0,
-0
+0,
+21
 ],
 "instructors": [],
 "meetingNumber": "LEC02"
@@ -585,7 +592,8 @@
 1666925303,
 1666999470,
 1667060777,
-1667147451
+1667147451,
+1667257133
 ],
 "title": "Structure of American Sign Language"
 }

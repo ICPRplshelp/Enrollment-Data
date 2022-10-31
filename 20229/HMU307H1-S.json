@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667257133,
+31
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -195,7 +200,8 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructors": [
 [
@@ -392,7 +398,8 @@
 1666925303,
 1666999470,
 1667060777,
-1667147451
+1667147451,
+1667257133
 ],
 "title": "Music, Sounds and the Erotic"
 }

@@ -195,6 +195,7 @@
 142,
 142,
 142,
+142,
 142
 ],
 "instructors": [
@@ -398,6 +399,7 @@
 146,
 146,
 146,
+146,
 146
 ],
 "instructors": [
@@ -410,9 +412,14 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 133,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667257133,
+140
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -586,6 +593,7 @@
 133,
 133,
 133,
+132,
 132,
 132,
 132,
@@ -798,7 +806,8 @@
 1666925303,
 1666999470,
 1667060777,
-1667147451
+1667147451,
+1667257133
 ],
 "title": "Electric and Magnetic Fields"
 }
