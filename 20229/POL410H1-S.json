@@ -331,6 +331,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructors": [
@@ -343,9 +344,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 15,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667437983,
+25
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -595,6 +601,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -998,7 +1005,8 @@
 1666999471,
 1667060777,
 1667147451,
-1667257133
+1667257133,
+1667437983
 ],
 "title": "Topics in Comparative Politics III"
 }

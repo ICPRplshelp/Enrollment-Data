@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 40,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667437983,
+30
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -196,7 +201,8 @@
 29,
 29,
 29,
-29
+29,
+30
 ],
 "instructors": [
 [
@@ -398,7 +404,8 @@
 1666999471,
 1667060777,
 1667147451,
-1667257133
+1667257133,
+1667437983
 ],
 "title": "ENGINEERING AND SOCIAL JUSTICE"
 }

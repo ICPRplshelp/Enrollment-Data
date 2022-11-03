@@ -331,6 +331,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructors": [
@@ -678,6 +679,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructors": [
@@ -698,9 +700,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 2,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667437983,
+3
+]
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -1025,7 +1032,8 @@
 2,
 2,
 2,
-2
+2,
+3
 ],
 "instructors": [
 [
@@ -1366,6 +1374,7 @@
 19,
 19,
 19,
+18,
 18,
 18,
 18,
@@ -1713,7 +1722,8 @@
 1666999471,
 1667060777,
 1667147451,
-1667257133
+1667257133,
+1667437983
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }
