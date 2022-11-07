@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 210,
+"enrollmentCap": 275,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667849841,
+275
+]
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -335,6 +340,7 @@
 303,
 303,
 303,
+302,
 302,
 302,
 302
@@ -676,7 +682,8 @@
 1667510495,
 1667610461,
 1667671873,
-1667763743
+1667763743,
+1667849841
 ],
 "title": "Persons, Minds and Bodies"
 }

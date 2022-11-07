@@ -337,6 +337,7 @@
 67,
 67,
 67,
+67,
 67
 ],
 "instructors": [
@@ -682,6 +683,7 @@
 70,
 70,
 70,
+70,
 70
 ],
 "instructors": [
@@ -694,9 +696,14 @@
 },
 {
 "createdAt": 1666890947,
-"enrollmentCap": 50,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1667849841,
+40
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1027,9 +1034,15 @@
 17,
 18,
 18,
+18,
 18
 ],
-"instructors": [],
+"instructors": [
+[
+"Fotini",
+"Tolias"
+]
+],
 "meetingNumber": "LEC0301"
 }
 ],
@@ -1361,7 +1374,8 @@
 1667510495,
 1667610461,
 1667671873,
-1667763743
+1667763743,
+1667849841
 ],
 "title": "Fixed Income Securities"
 }
