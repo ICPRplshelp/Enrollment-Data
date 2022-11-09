@@ -3,7 +3,7 @@
 "faculty": "APSC",
 "meetings": [
 {
-"createdAt": 1667894988,
+"createdAt": 1668031867,
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -205,19 +205,11 @@
 0,
 0,
 0,
-1
+0,
+0
 ],
-"instructors": [
-[
-"John Paul",
-"Harrison"
-],
-[
-"Evan",
-"Bentz"
-]
-],
-"meetingNumber": "TUT0101"
+"instructors": [],
+"meetingNumber": "PRA0101"
 }
 ],
 "timeIntervals": [
@@ -416,7 +408,8 @@
 1667763743,
 1667849841,
 1667872850,
-1667894988
+1667894988,
+1668031867
 ],
 "title": "Individual Project"
 }

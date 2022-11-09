@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 125,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668031867,
+80
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -205,7 +210,8 @@
 48,
 48,
 48,
-48
+48,
+47
 ],
 "instructors": [
 [
@@ -416,7 +422,8 @@
 1667763743,
 1667849841,
 1667872850,
-1667894989
+1667894989,
+1668031867
 ],
 "title": "Theories in Women, Gender, and Sexuality Studies"
 }

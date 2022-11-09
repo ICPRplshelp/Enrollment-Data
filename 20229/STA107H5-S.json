@@ -205,6 +205,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructors": [],
@@ -413,9 +414,15 @@
 158,
 159,
 160,
-160
+160,
+159
 ],
-"instructors": [],
+"instructors": [
+[
+"Samir",
+"Hamdi"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -621,7 +628,8 @@
 96,
 94,
 94,
-94
+94,
+92
 ],
 "instructors": [
 [
@@ -834,9 +842,15 @@
 158,
 159,
 159,
-159
+159,
+160
 ],
-"instructors": [],
+"instructors": [
+[
+"Samir",
+"Hamdi"
+]
+],
 "meetingNumber": "LEC0104"
 }
 ],
@@ -1036,7 +1050,8 @@
 1667763743,
 1667849841,
 1667872850,
-1667894989
+1667894989,
+1668031867
 ],
 "title": "An Introduction to Probability and Modelling"
 }
