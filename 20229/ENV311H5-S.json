@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 121,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668031867,
 121
+],
+[
+1668107964,
+200
 ]
 ],
 "initialCap": 120
@@ -211,7 +215,8 @@
 193,
 193,
 193,
-194
+194,
+193
 ],
 "instructors": [],
 "meetingNumber": "LEC9999"
@@ -414,7 +419,8 @@
 1667849841,
 1667872850,
 1667894988,
-1668031867
+1668031867,
+1668107964
 ],
 "title": "Environmental Issues in the Developing World"
 }

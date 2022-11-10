@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 81,
+"enrollmentCap": 79,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668107964,
+79
+]
+],
 "initialCap": 81
 },
 "enrollmentLogs": [
@@ -341,6 +346,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructors": [
@@ -353,9 +359,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 6,
+"enrollmentCap": 8,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668107964,
+8
+]
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
@@ -680,6 +691,7 @@
 8,
 8,
 8,
+7,
 7,
 7,
 7,
@@ -1033,7 +1045,8 @@
 1667849841,
 1667872850,
 1667894988,
-1668031867
+1668031867,
+1668107964
 ],
 "title": "Relativistic Electrodynamics"
 }

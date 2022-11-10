@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 200,
+"enrollmentCap": 260,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668107964,
+260
+]
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -206,7 +211,8 @@
 258,
 258,
 258,
-261
+261,
+263
 ],
 "instructors": [],
 "meetingNumber": "LEC9999"
@@ -409,7 +415,8 @@
 1667849841,
 1667872850,
 1667894988,
-1668031867
+1668031867,
+1668107964
 ],
 "title": "Natural Hazards"
 }

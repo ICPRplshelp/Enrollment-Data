@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 28,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668107964,
+26
+]
+],
 "initialCap": 28
 },
 "enrollmentLogs": [
@@ -341,6 +346,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructors": [
@@ -353,9 +359,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 2,
+"enrollmentCap": 4,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668107964,
+4
+]
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -658,6 +669,7 @@
 2,
 2,
 3,
+4,
 4,
 4,
 4,
@@ -1033,7 +1045,8 @@
 1667849841,
 1667872850,
 1667894988,
-1668031867
+1668031867,
+1668107964
 ],
 "title": "Relativity Theory II"
 }
