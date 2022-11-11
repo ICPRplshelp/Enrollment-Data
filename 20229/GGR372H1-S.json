@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 45,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668191117,
+60
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -335,6 +340,7 @@
 59,
 59,
 59,
+60,
 60,
 60,
 60,
@@ -688,7 +694,8 @@
 1667894988,
 1668031867,
 1668107964,
-1668147635
+1668147635,
+1668191117
 ],
 "title": "GIS for Public Health"
 }

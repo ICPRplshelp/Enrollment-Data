@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 12,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668191117,
+22
+]
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -196,6 +201,7 @@
 15,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -418,7 +424,8 @@
 1667894988,
 1668031867,
 1668107964,
-1668147635
+1668147635,
+1668191117
 ],
 "title": "Experiencing Development in Africa"
 }
