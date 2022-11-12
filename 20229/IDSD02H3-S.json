@@ -209,8 +209,20 @@
 17,
 17,
 17,
+17,
 17
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed, Ilmi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ahmed",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Research Seminar in Critical Development Studies"
 }

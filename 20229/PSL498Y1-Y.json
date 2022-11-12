@@ -344,8 +344,20 @@
 18,
 18,
 18,
+18,
 18
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Gramolini"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Anthony",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Project in Physiology"
 }

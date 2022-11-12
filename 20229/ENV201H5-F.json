@@ -209,8 +209,20 @@
 157,
 157,
 157,
+157,
 157
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Janina, Kowalski"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Janina",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Environmental Management"
 }

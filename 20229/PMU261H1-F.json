@@ -209,8 +209,20 @@
 21,
 21,
 21,
+21,
 21
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Midori, Koga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Midori",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Teaching Meth I - Piano"
 }

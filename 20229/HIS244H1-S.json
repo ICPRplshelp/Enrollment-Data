@@ -344,8 +344,20 @@
 107,
 109,
 109,
+109,
 109
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jennifer, Mori"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jennifer",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Early Modern Europe, 1648-1815"
 }

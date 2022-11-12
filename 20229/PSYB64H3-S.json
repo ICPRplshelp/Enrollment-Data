@@ -209,8 +209,20 @@
 264,
 264,
 264,
-264
+264,
+263
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefano I., Di Domenico"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Stefano I.",
@@ -426,8 +438,20 @@
 159,
 159,
 159,
+160,
 160
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefano I., Di Domenico"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Stefano I.",
@@ -637,7 +661,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Behavioural Neuroscience"
 }

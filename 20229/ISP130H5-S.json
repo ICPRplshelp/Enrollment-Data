@@ -209,8 +209,20 @@
 9,
 9,
 9,
+9,
 9
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrijana, Burazin"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Andrijana",
@@ -426,8 +438,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0102"
 },
@@ -638,8 +655,20 @@
 13,
 13,
 13,
+13,
 13
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Margaret, Karrass"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Margaret",
@@ -855,8 +884,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
@@ -1067,8 +1101,20 @@
 14,
 14,
 14,
+14,
 14
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Margaret, Karrass"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Margaret",
@@ -1278,7 +1324,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Numeracy for University and Beyond"
 }

@@ -344,8 +344,21 @@
 29,
 29,
 29,
+28,
 28
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeffrey, Lee",
+"Douglas, Templeton"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jeffrey",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Pathobiology of the Cell"
 }

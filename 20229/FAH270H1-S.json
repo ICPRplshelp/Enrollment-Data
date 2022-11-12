@@ -344,8 +344,20 @@
 132,
 132,
 132,
+136,
 136
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Philip, Sapirstein"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Philip",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Architecture: Rituals and Monuments"
 }

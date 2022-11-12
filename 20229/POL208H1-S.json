@@ -344,8 +344,20 @@
 363,
 363,
 364,
-362
+362,
+364
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Madison, Schramm"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Madison",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to International Relations"
 }

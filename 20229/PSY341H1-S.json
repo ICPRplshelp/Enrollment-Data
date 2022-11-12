@@ -344,8 +344,20 @@
 78,
 78,
 78,
+79,
 79
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mireille, Babineau"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mireille",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Psychopathologies of Childhood"
 }

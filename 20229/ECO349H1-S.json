@@ -344,8 +344,20 @@
 45,
 45,
 45,
+50,
 50
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Angelo, Melino"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Angelo",
@@ -696,8 +708,20 @@
 135,
 134,
 134,
+134,
 134
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"George, Georgopoulos"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "George",
@@ -1048,8 +1072,20 @@
 131,
 131,
 131,
+131,
 131
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"George, Georgopoulos"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "George",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Money, Banking and Financial Markets"
 }

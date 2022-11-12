@@ -344,8 +344,25 @@
 38,
 38,
 38,
+38,
 38
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rebecca, Laposa",
+"Rima, Al-awar",
+"Guy, Higgins",
+"John, Oldenhof",
+"Beatrice, Setnik",
+"Megan, Shram"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rebecca",
@@ -710,7 +727,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Pharmacology and Toxicology in Drug Development"
 }

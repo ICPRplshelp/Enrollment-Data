@@ -344,8 +344,24 @@
 22,
 22,
 22,
+22,
 22
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tameshwar, Ganesh",
+"Tigran, Chalikian",
+"Heiko, Heerklotz",
+"Shirley X.Y., Wu",
+"Isadore, Kanfer"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Tameshwar",
@@ -706,7 +722,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Pharmaceutics 2"
 }

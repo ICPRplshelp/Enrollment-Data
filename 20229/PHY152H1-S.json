@@ -344,8 +344,21 @@
 331,
 332,
 332,
+332,
 332
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Paul, Kushner",
+"Jason, Harlow"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Paul",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Foundations of Physics II"
 }

@@ -344,8 +344,20 @@
 146,
 147,
 147,
+148,
 148
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steve, Engels"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Steve",
@@ -696,8 +708,20 @@
 144,
 147,
 147,
+147,
 147
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steve, Engels"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Steve",
@@ -1048,8 +1072,20 @@
 89,
 88,
 87,
+87,
 87
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ava, Danialy"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ava",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Computer Organization"
 }

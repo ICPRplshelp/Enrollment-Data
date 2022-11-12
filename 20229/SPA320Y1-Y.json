@@ -344,8 +344,21 @@
 24,
 24,
 24,
+24,
 24
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivan, Fernandez Pelaez",
+"Petre Marian, Ene"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ivan",
@@ -700,8 +713,20 @@
 10,
 10,
 10,
+10,
 10
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivan, Fernandez Pelaez"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ivan",
@@ -1052,8 +1077,20 @@
 19,
 19,
 19,
+19,
 19
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniela Marcela, Maldonado Castaneda"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Daniela Marcela",
@@ -1398,7 +1435,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Spanish"
 }

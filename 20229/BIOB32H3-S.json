@@ -218,8 +218,20 @@
 229,
 229,
 229,
+230,
 230
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Brown"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jason",
@@ -429,7 +441,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Animal Physiology Laboratory"
 }

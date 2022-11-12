@@ -209,8 +209,20 @@
 96,
 93,
 93,
+92,
 92
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eamon, Darnell"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Eamon",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Symbolic Logic I"
 }

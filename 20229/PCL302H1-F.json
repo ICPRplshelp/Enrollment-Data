@@ -344,8 +344,24 @@
 138,
 138,
 138,
+138,
 138
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ali, Salahpour",
+"Michelle, Arnot",
+"Anita, Hamadanizadeh",
+"Leonardo, Salmena",
+"Basil, Hubbard"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ali",
@@ -706,7 +722,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Pharmacodynamic Principles"
 }

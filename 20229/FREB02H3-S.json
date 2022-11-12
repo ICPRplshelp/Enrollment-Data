@@ -209,8 +209,20 @@
 30,
 30,
 30,
+30,
 30
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Corinne, Beauquis"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Corinne",
@@ -426,8 +438,13 @@
 29,
 28,
 27,
+27,
 27
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC02"
 },
@@ -638,8 +655,13 @@
 16,
 16,
 16,
+16,
 16
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC03"
 }
@@ -844,7 +866,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Language Practice IV"
 }

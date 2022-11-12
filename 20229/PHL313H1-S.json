@@ -344,8 +344,20 @@
 38,
 37,
 37,
+36,
 36
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nicholas, Stang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nicholas",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Topics in 17th and 18th Century Philosophy"
 }

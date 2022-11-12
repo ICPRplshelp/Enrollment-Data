@@ -344,8 +344,20 @@
 182,
 182,
 182,
+182,
 182
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mehdi, Molkaraie"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mehdi",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Methods for Multivariate Data"
 }

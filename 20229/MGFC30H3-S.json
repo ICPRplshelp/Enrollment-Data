@@ -209,8 +209,20 @@
 56,
 56,
 56,
+55,
 55
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ataollah, Mazaheri"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ataollah",
@@ -426,8 +438,20 @@
 59,
 59,
 59,
+59,
 59
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ataollah, Mazaheri"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ataollah",
@@ -609,6 +633,10 @@
 0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC03"
 }
@@ -813,7 +841,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Derivatives Markets"
 }

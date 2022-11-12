@@ -209,8 +209,21 @@
 43,
 43,
 43,
+43,
 43
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mihkel, Tombak",
+"Otto, Yung"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mihkel",
@@ -430,8 +443,21 @@
 46,
 46,
 46,
+46,
 46
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mihkel, Tombak",
+"Otto, Yung"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mihkel",
@@ -651,8 +677,20 @@
 42,
 42,
 42,
+42,
 42
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Tome"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jason",
@@ -862,7 +900,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Mergers and Acquisitions"
 }

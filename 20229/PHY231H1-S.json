@@ -344,8 +344,20 @@
 55,
 55,
 55,
+57,
 57
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anton, Zilman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Anton",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Physics of Living Systems"
 }

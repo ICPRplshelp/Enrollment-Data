@@ -209,8 +209,21 @@
 52,
 52,
 52,
+52,
 52
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ruby May, Sullan",
+"Sanghyun, Kim"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ruby May",
@@ -424,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Techniques in Analytical Chemistry"
 }

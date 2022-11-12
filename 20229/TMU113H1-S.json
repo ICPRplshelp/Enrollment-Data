@@ -218,8 +218,20 @@
 26,
 26,
 26,
+26,
 26
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Larysa, Kuzmenko"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Larysa",
@@ -429,7 +441,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Intro to Composition II"
 }

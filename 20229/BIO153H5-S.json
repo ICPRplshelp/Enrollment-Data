@@ -209,8 +209,20 @@
 430,
 431,
 431,
-432
+432,
+431
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christoph, Richter"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Christoph",
@@ -426,8 +438,20 @@
 417,
 418,
 417,
-415
+415,
+416
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christoph, Richter"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Christoph",
@@ -637,7 +661,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Diversity of Organisms"
 }

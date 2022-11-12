@@ -209,8 +209,21 @@
 44,
 43,
 43,
+43,
 43
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marco, Zimmer-De Iuliis",
+"Svetlana, Mikhaylichenko"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Marco",
@@ -424,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced General Chemistry"
 }

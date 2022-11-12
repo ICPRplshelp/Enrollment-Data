@@ -344,8 +344,21 @@
 248,
 248,
 248,
+248,
 248
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Radu, Craioveanu",
+"Jessica, Yeung"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Radu",
@@ -700,8 +713,21 @@
 29,
 29,
 29,
+29,
 29
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Radu, Craioveanu",
+"Jessica, Yeung"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Radu",
@@ -1050,7 +1076,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Language"
 }

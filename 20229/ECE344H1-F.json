@@ -209,8 +209,20 @@
 86,
 86,
 86,
+86,
 86
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ashvin, Goel"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ashvin",
@@ -426,8 +438,20 @@
 82,
 82,
 82,
+81,
 81
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Eyolfson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jonathan",
@@ -643,8 +667,20 @@
 77,
 77,
 77,
-76
+76,
+75
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Eyolfson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jonathan",
@@ -854,7 +890,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Operating Systems"
 }

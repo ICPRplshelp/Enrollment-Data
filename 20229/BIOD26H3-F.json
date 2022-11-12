@@ -209,8 +209,20 @@
 48,
 48,
 48,
+48,
 48
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shelley, Brunt"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shelley",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Fungal Biology and Pathogenesis"
 }

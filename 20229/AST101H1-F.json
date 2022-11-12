@@ -344,8 +344,23 @@
 1348,
 1348,
 1347,
+1345,
 1345
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Renee, Hlozek",
+"Adam, Hincks",
+"Ilana, MacDonald",
+"Michael, Williams"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Renee",
@@ -702,7 +717,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "The Sun and Its Neighbours"
 }

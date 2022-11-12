@@ -344,8 +344,20 @@
 24,
 24,
 24,
+24,
 24
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tatiana, Smolyarova"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Tatiana",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Literature and Painting in Russia and the West"
 }

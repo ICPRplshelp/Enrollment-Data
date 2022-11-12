@@ -209,8 +209,20 @@
 86,
 86,
 86,
+86,
 86
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Nacson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "David",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "* Product Design"
 }

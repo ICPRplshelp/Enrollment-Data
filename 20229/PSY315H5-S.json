@@ -209,8 +209,20 @@
 72,
 72,
 72,
-73
+73,
+74
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christina M Vanden Bosc, der Nederlanden"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Christina M Vanden Bosc",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Language Development"
 }

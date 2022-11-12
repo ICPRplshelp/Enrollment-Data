@@ -209,8 +209,20 @@
 27,
 27,
 27,
+27,
 27
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sandra, Daga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sandra",
@@ -426,8 +438,20 @@
 30,
 30,
 30,
+30,
 30
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sandra, Daga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sandra",
@@ -643,8 +667,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC03"
 },
@@ -855,8 +884,20 @@
 19,
 19,
 19,
+19,
 19
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sandra, Daga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sandra",
@@ -1066,7 +1107,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Management Communications for non Co-op"
 }

@@ -344,8 +344,20 @@
 5,
 5,
 5,
+5,
 5
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ilona, Posner"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ilona",
@@ -696,8 +708,20 @@
 114,
 114,
 114,
+114,
 114
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ilona, Posner"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ilona",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "The Design of Interactive Computational Media"
 }

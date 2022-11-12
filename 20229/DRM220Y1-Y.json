@@ -344,8 +344,21 @@
 69,
 69,
 69,
+69,
 69
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jill, Carter",
+"Sebastian, Samur"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jill",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Comparative Theatre Histories"
 }

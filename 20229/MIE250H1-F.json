@@ -209,8 +209,20 @@
 128,
 128,
 128,
+127,
 127
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dionne, Aleman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Dionne",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Fundamentals of Object Oriented Programming"
 }

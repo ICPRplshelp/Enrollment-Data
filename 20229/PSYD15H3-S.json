@@ -209,8 +209,20 @@
 28,
 28,
 28,
+28,
 28
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rimma, Teper"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rimma",
@@ -426,8 +438,13 @@
 25,
 26,
 26,
+26,
 26
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC02"
 },
@@ -638,8 +655,13 @@
 26,
 27,
 27,
+27,
 27
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC30"
 }
@@ -844,7 +866,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Current Topics in Social Psychology"
 }

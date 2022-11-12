@@ -344,8 +344,24 @@
 6,
 6,
 6,
+6,
 6
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bethany, White",
+"Katherine Suzanne, Daignault",
+"Rohan Peter, Alexander",
+"Elena, Tuzhilina",
+"Clement, Ma"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bethany",
@@ -706,7 +722,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Readings in Statistics"
 }

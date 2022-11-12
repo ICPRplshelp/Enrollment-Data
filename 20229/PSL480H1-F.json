@@ -344,8 +344,21 @@
 13,
 13,
 13,
+13,
 13
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carin, Wittnich",
+"Michael, Belanger"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Carin",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Diving Physiology of Marine Mammals"
 }

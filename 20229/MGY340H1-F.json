@@ -344,8 +344,21 @@
 55,
 55,
 55,
+55,
 55
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrew, Spence",
+"Brigitte, Lavoie"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Andrew",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Molecular Genetics"
 }

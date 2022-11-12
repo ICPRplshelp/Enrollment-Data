@@ -344,8 +344,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Julie, LeBlanc"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Julie",
@@ -696,8 +708,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Atsuko, Sakaki"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Atsuko",
@@ -1048,8 +1072,20 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Haytham, Bahoora"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Haytham",
@@ -1400,8 +1436,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Pia, Kleber"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Pia",
@@ -1752,8 +1800,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eva-Lynn, Jagoe"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Eva-Lynn",
@@ -2104,8 +2164,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Conrad, James"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Conrad",
@@ -2259,6 +2331,10 @@
 -2,
 -2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0701"
 },
@@ -2407,6 +2483,10 @@
 -2,
 -2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0801"
 },
@@ -2555,6 +2635,10 @@
 -2,
 -2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0901"
 }
@@ -2894,7 +2978,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Seminar in Comparative Literature"
 }

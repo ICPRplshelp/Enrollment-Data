@@ -209,8 +209,21 @@
 375,
 377,
 377,
+379,
 379
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rachel, Sturge",
+"Stephen, Reid"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rachel",
@@ -430,8 +443,21 @@
 526,
 528,
 528,
+529,
 529
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rachel, Sturge",
+"Stephen, Reid"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rachel",
@@ -651,8 +677,13 @@
 203,
 204,
 204,
+204,
 204
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC03"
 }
@@ -857,7 +888,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

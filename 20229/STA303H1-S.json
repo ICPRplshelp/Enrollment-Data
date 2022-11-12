@@ -344,8 +344,13 @@
 293,
 293,
 293,
-295
+295,
+296
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -691,8 +696,13 @@
 294,
 293,
 293,
-293
+293,
+295
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0201"
 }
@@ -1032,7 +1042,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Methods of Data Analysis II"
 }

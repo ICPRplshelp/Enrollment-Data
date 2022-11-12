@@ -209,8 +209,13 @@
 222,
 222,
 222,
-222
+222,
+220
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC01"
 },
@@ -421,8 +426,20 @@
 315,
 317,
 317,
-317
+317,
+318
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Parker, Glynn-Adey"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Parker",
@@ -638,8 +655,20 @@
 207,
 206,
 206,
+206,
 206
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Parker, Glynn-Adey"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Parker",
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Linear Algebra I for Mathematical Sciences"
 }

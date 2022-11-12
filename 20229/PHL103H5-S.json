@@ -209,8 +209,20 @@
 342,
 342,
 343,
-345
+345,
+347
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joshua Chaim, Brandt"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Joshua Chaim",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Philosophy: Knowledge and Reality"
 }

@@ -344,8 +344,21 @@
 26,
 26,
 26,
+26,
 26
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A.W., Peet",
+"Antonella, Kis"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "A.W.",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Modern Physics for the Curious"
 }

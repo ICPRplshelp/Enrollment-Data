@@ -344,8 +344,20 @@
 29,
 29,
 29,
+29,
 29
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alan, Moses"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alan",
@@ -696,8 +708,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alan, Moses"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alan",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Regulatory Networks and Systems in Molecular Biology"
 }

@@ -344,8 +344,21 @@
 19,
 19,
 19,
+19,
 19
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dinesh, Christendat",
+"Melody, Neumann"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Dinesh",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Team-Based Learning: Current Topics in Cell and Molecular Biology"
 }

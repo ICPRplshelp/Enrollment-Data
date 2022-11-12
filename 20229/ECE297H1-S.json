@@ -209,8 +209,21 @@
 281,
 281,
 281,
+281,
 281
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vaughn, Betz",
+"Alan, Chong"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Vaughn",
@@ -424,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Software Communication and Design"
 }

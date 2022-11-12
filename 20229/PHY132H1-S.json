@@ -344,8 +344,21 @@
 563,
 564,
 563,
+561,
 561
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ania, Harlick",
+"Roya, Ghahreman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ania",
@@ -700,8 +713,21 @@
 192,
 191,
 191,
+191,
 191
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ania, Harlick",
+"Roya, Ghahreman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ania",
@@ -1050,7 +1076,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Physics II"
 }

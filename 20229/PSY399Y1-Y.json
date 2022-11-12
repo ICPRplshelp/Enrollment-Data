@@ -344,8 +344,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -691,8 +696,20 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alison, Chasteen"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alison",
@@ -1043,8 +1060,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amy, Finn"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Amy",
@@ -1395,8 +1424,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0401"
 },
@@ -1742,8 +1776,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0501"
 },
@@ -2089,8 +2128,13 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0601"
 },
@@ -2436,8 +2480,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0701"
 },
@@ -2783,8 +2832,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Sommerville"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jessica",
@@ -3135,8 +3196,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0901"
 },
@@ -3482,8 +3548,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1001"
 },
@@ -3829,8 +3900,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Meg Schlichting, Mack"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Meg Schlichting",
@@ -4181,8 +4264,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1201"
 },
@@ -4528,8 +4616,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1301"
 },
@@ -4875,8 +4968,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Spike, Lee"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Spike",
@@ -5227,8 +5332,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1501"
 },
@@ -5574,8 +5684,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1601"
 },
@@ -5921,8 +6036,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1701"
 },
@@ -6268,8 +6388,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC1801"
 }
@@ -6609,7 +6734,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Research Opportunity Program"
 }

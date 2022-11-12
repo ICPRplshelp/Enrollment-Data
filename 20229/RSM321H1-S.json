@@ -344,8 +344,20 @@
 20,
 20,
 20,
+21,
 21
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gordon, Richardson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Gordon",
@@ -696,8 +708,20 @@
 63,
 63,
 63,
+62,
 62
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Douglas"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Scott",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Financial Accounting Topics"
 }

@@ -344,8 +344,21 @@
 40,
 40,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adriana, Krizova",
+"Jessie, Wu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Adriana",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Principles of Pathobiology"
 }

@@ -209,8 +209,20 @@
 39,
 38,
 38,
+38,
 38
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ai, Taniguchi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ai",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Semantics"
 }

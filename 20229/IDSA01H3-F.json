@@ -209,8 +209,20 @@
 257,
 256,
 256,
+256,
 256
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chevy, Eugene"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Chevy",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to International Development Studies"
 }

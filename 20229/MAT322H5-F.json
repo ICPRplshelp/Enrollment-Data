@@ -209,8 +209,20 @@
 45,
 45,
 44,
+44,
 44
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Yampolsky"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Michael",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Mathematical Modelling in Biology"
 }

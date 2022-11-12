@@ -344,8 +344,21 @@
 70,
 70,
 69,
+69,
 69
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xi (Alice), Gao",
+"Steve, Engels"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Xi (Alice)",
@@ -700,8 +713,21 @@
 81,
 81,
 81,
+81,
 81
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steve, Engels",
+"Xi (Alice), Gao"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Steve",
@@ -1056,8 +1082,21 @@
 33,
 32,
 32,
+32,
 32
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xi (Alice), Gao",
+"Steve, Engels"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Xi (Alice)",
@@ -1412,8 +1451,21 @@
 24,
 24,
 24,
-24
+24,
+23
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steve, Engels",
+"Xi (Alice), Gao"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Steve",
@@ -1762,7 +1814,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Artificial Intelligence"
 }

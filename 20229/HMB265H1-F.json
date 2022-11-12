@@ -349,8 +349,21 @@
 1122,
 1114,
 1113,
-1109
+1109,
+1104
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Naomi, Levy-Strumpf",
+"Belinda, Chang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Naomi",
@@ -699,7 +712,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "General & Human Genetics"
 }

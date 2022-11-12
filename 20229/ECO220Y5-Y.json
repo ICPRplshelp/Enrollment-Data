@@ -209,8 +209,21 @@
 118,
 118,
 118,
+118,
 118
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ceren, Baysan",
+"Victor, Yu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ceren",
@@ -430,8 +443,21 @@
 104,
 104,
 104,
+104,
 104
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Quinlan, Lee",
+"Nicholas, Zammit"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Quinlan",
@@ -651,8 +677,21 @@
 118,
 118,
 118,
+118,
 118
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ceren, Baysan",
+"Victor, Yu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ceren",
@@ -872,8 +911,21 @@
 118,
 118,
 118,
+118,
 118
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Victor, Yu",
+"Nicholas, Zammit"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Victor",
@@ -1087,7 +1139,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

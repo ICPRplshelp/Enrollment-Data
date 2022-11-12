@@ -344,8 +344,21 @@
 651,
 651,
 651,
+650,
 650
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liliana, Clemenza",
+"Jastaran, Singh"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Liliana",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "The Immune System and Infectious Disease"
 }

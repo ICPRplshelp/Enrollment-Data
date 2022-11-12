@@ -145,8 +145,20 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mihaela, Pirvulescu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mihaela",
@@ -292,7 +304,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Independent Study"
 }

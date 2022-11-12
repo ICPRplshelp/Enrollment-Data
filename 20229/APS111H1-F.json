@@ -209,8 +209,22 @@
 307,
 307,
 307,
+307,
 307
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Benjamin, Kinsella",
+"Ted, Nolan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Patricia",
@@ -434,8 +448,22 @@
 350,
 350,
 349,
+349,
 349
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Susan, McCahan",
+"Patricia, Sheridan",
+"Ted, Nolan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Susan",
@@ -659,8 +687,22 @@
 299,
 299,
 299,
+299,
 299
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Chirag, Variawa",
+"Ted, Nolan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Patricia",
@@ -878,7 +920,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Engineering Strategies & Practice I"
 }

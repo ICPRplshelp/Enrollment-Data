@@ -344,8 +344,20 @@
 216,
 216,
 216,
-217
+217,
+218
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeremy, Quastel"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jeremy",
@@ -696,8 +708,20 @@
 209,
 208,
 208,
-208
+208,
+209
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kasra, Rafi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Kasra",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Combinatorics"
 }

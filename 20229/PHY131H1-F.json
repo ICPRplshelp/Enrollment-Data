@@ -344,8 +344,21 @@
 657,
 657,
 657,
-655
+655,
+654
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Harlow",
+"Roya, Ghahreman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jason",
@@ -700,8 +713,21 @@
 177,
 176,
 176,
+176,
 176
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Harlow",
+"Roya, Ghahreman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jason",
@@ -1050,7 +1076,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Physics I"
 }

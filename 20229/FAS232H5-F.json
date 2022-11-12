@@ -209,8 +209,20 @@
 20,
 20,
 20,
+20,
 20
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"R, RAHBAR"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "R",
@@ -426,8 +438,21 @@
 19,
 19,
 19,
+19,
 19
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"R, RAHBAR",
+"P, TODD-PARRISH"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "R",
@@ -641,7 +666,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Print Media I"
 }

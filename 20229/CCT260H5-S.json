@@ -209,8 +209,13 @@
 44,
 44,
 44,
+44,
 44
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "PRA0101"
 },
@@ -421,8 +426,13 @@
 46,
 46,
 46,
+46,
 46
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "PRA0102"
 },
@@ -633,8 +643,20 @@
 41,
 41,
 41,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ramtin, Lotfabadi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ramtin",
@@ -850,8 +872,20 @@
 37,
 36,
 36,
+37,
 37
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ramtin, Lotfabadi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ramtin",
@@ -1061,7 +1095,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Web Culture and Design"
 }

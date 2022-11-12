@@ -209,8 +209,20 @@
 147,
 147,
 147,
+147,
 147
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ehsaan, Hossain"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ehsaan",
@@ -426,8 +438,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0102"
 },
@@ -638,8 +655,20 @@
 77,
 76,
 76,
+76,
 76
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Margaret, Karrass"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Margaret",
@@ -855,8 +884,20 @@
 147,
 147,
 147,
+147,
 147
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Timothy, Yusun"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Timothy",
@@ -1066,7 +1107,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

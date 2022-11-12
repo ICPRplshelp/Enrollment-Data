@@ -209,8 +209,13 @@
 100,
 100,
 100,
+100,
 100
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC01"
 },
@@ -421,8 +426,13 @@
 86,
 87,
 86,
+85,
 85
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC30"
 }
@@ -627,7 +637,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Engineering Large Software Systems"
 }

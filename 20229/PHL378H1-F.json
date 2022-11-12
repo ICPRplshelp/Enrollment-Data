@@ -344,8 +344,20 @@
 48,
 48,
 48,
+48,
 48
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Arthur S, Ripstein"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Arthur S",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "War and Morality"
 }

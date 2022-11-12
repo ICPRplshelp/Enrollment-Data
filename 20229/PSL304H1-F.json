@@ -344,8 +344,23 @@
 19,
 19,
 19,
+19,
 19
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Richard, Horner",
+"Douglas, Tweed",
+"Steffen-Sebastian, Bolz",
+"Amish, Jain"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Richard",
@@ -702,7 +717,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Topics in Cellular, Molecular and Organismic Physiology I"
 }

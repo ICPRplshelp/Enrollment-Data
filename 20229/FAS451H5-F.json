@@ -209,8 +209,21 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"JOHN, ARMSTRONG",
+"DAVID, POOLMAN"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "JOHN",
@@ -424,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Project"
 }

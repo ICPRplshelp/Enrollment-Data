@@ -344,8 +344,21 @@
 156,
 154,
 153,
+154,
 154
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter John, Roy",
+"Mikko, Taipale"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Peter John",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "An Introduction to Molecular Genetics and Microbiology"
 }

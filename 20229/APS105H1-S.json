@@ -209,8 +209,20 @@
 100,
 100,
 100,
+100,
 100
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Eyolfson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jonathan",
@@ -426,8 +438,20 @@
 105,
 105,
 104,
+104,
 104
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cristiana, Amza"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Cristiana",
@@ -643,8 +667,20 @@
 136,
 136,
 136,
+136,
 136
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bruno, Korst-Fagundes"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bruno",
@@ -860,8 +896,13 @@
 93,
 93,
 93,
+93,
 93
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 }
@@ -1066,7 +1107,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Computer Fundamentals"
 }

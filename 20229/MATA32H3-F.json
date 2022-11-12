@@ -209,8 +209,20 @@
 272,
 269,
 268,
-263
+263,
+262
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Immanuel T, Kielstra"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Immanuel T",
@@ -426,8 +438,20 @@
 285,
 283,
 283,
+281,
 281
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Raymond, Grinnell"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Raymond",
@@ -643,8 +667,20 @@
 139,
 138,
 138,
+137,
 137
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Raymond, Grinnell"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Raymond",
@@ -854,7 +890,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Calculus for Management I"
 }

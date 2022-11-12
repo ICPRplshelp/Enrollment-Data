@@ -344,8 +344,20 @@
 481,
 481,
 481,
+481,
 481
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lilach, Gilady"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Lilach",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly"
 }

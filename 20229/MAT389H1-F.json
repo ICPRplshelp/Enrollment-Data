@@ -209,8 +209,20 @@
 47,
 47,
 47,
+45,
 45
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Israel Michael, Sigal"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Israel Michael",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Complex Analysis"
 }

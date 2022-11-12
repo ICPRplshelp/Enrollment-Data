@@ -209,8 +209,20 @@
 79,
 80,
 81,
+81,
 81
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tenley, Conway"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Tenley",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Biogeography"
 }

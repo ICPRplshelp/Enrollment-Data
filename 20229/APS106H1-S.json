@@ -209,8 +209,20 @@
 277,
 276,
 276,
+276,
 276
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sebastian, Goodfellow"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sebastian",
@@ -426,8 +438,20 @@
 154,
 154,
 154,
+154,
 154
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chris, Beck"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Chris",
@@ -643,8 +667,20 @@
 131,
 131,
 131,
+131,
 131
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniela, Rosu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Daniela",
@@ -854,7 +890,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Fundamentals of Computer Programming"
 }

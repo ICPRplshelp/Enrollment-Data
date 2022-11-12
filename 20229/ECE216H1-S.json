@@ -209,8 +209,20 @@
 135,
 134,
 134,
+134,
 134
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Simpson-Porco"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "John",
@@ -426,8 +438,20 @@
 140,
 140,
 140,
+140,
 140
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sunila, Akbar"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sunila",
@@ -643,8 +667,20 @@
 127,
 127,
 127,
+127,
 127
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ravi, Adve"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ravi",
@@ -854,7 +890,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Signals and Systems"
 }

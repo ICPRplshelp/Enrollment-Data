@@ -344,9 +344,27 @@
 40,
 40,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carrie, Proctor",
+"Leneque, Wilson",
+"Jessica, Wurster"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
+[
+"Carrie",
+"Proctor"
+],
 [
 "Leneque",
 "Wilson"
@@ -354,10 +372,6 @@
 [
 "Jessica",
 "Wurster"
-],
-[
-"Carrie",
-"Proctor"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -704,8 +718,22 @@
 48,
 48,
 48,
+48,
 48
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carrie, Proctor",
+"Leneque, Wilson",
+"Jessica, Wurster"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Carrie",
@@ -1064,9 +1092,27 @@
 31,
 31,
 31,
+31,
 31
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Wurster",
+"Carrie, Proctor",
+"Leneque, Wilson"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
+[
+"Jessica",
+"Wurster"
+],
 [
 "Carrie",
 "Proctor"
@@ -1074,10 +1120,6 @@
 [
 "Leneque",
 "Wilson"
-],
-[
-"Jessica",
-"Wurster"
 ]
 ],
 "meetingNumber": "LEC0301"
@@ -1424,8 +1466,22 @@
 167,
 167,
 167,
+167,
 167
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carrie, Proctor",
+"Leneque, Wilson",
+"Jessica, Wurster"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Carrie",
@@ -1778,7 +1834,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Arts & Science Internship Program - Professional Skill Development II"
 }

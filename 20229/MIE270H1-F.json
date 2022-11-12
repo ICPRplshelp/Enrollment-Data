@@ -209,8 +209,21 @@
 116,
 116,
 116,
+116,
 116
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Olivera, Kesler",
+"Abbas, Ali"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Olivera",
@@ -430,8 +443,21 @@
 93,
 93,
 93,
+93,
 93
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Olivera, Kesler",
+"Abbas, Ali"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Olivera",
@@ -645,7 +671,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Materials Science"
 }

@@ -209,8 +209,20 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Josh, Milstein"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Josh",
@@ -426,8 +438,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Josh, Milstein"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Josh",
@@ -643,8 +667,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0103"
 },
@@ -855,8 +884,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
@@ -1067,8 +1101,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, Rauscher"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sarah",
@@ -1278,7 +1324,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Research Opportunity Program"
 }

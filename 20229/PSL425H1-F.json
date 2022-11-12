@@ -344,17 +344,25 @@
 30,
 30,
 30,
+30,
 30
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adria, Giacca",
+"Khosrow, Adeli",
+"Tony, Lam",
+"Helen, Miliotis",
+"Sandra, Pereira"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
-[
-"Helen",
-"Miliotis"
-],
-[
-"Sandra",
-"Pereira"
-],
 [
 "Adria",
 "Giacca"
@@ -366,6 +374,14 @@
 [
 "Tony",
 "Lam"
+],
+[
+"Helen",
+"Miliotis"
+],
+[
+"Sandra",
+"Pereira"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -706,7 +722,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Integrative Metabolism and its Endocrine Regulation"
 }

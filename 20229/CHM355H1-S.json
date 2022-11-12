@@ -344,8 +344,13 @@
 3,
 3,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC2501"
 },
@@ -691,8 +696,13 @@
 41,
 41,
 41,
+42,
 42
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC5101"
 }
@@ -1032,7 +1042,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Inorganic and Polymer Materials Chemistry"
 }

@@ -209,8 +209,21 @@
 50,
 50,
 50,
+50,
 50
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher John, Flores",
+"Mimi Abdoun, Abdoun Mohamed"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Christopher John",
@@ -430,8 +443,20 @@
 97,
 97,
 97,
+97,
 97
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kate, Epp"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Kate",
@@ -641,7 +666,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

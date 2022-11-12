@@ -344,8 +344,20 @@
 63,
 63,
 63,
+63,
 63
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Courtney, Ward"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Courtney",
@@ -696,8 +708,20 @@
 63,
 59,
 59,
-58
+58,
+57
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Courtney, Ward"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Courtney",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Applied Econometrics I"
 }

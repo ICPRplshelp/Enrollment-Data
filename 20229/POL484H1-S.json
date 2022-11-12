@@ -344,8 +344,20 @@
 16,
 16,
 16,
+16,
 16
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Neil Douglas, Roberts"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Neil Douglas",
@@ -666,6 +678,10 @@
 7,
 7
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0201"
 }
@@ -1005,7 +1021,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Topics in Political Thought I"
 }

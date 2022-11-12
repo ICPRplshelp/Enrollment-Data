@@ -349,8 +349,20 @@
 32,
 32,
 32,
+32,
 32
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ke, Zhang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ke",
@@ -695,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Real Analysis I"
 }

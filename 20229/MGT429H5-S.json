@@ -209,8 +209,20 @@
 20,
 20,
 20,
+21,
 21
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abraham, Iqbal"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Abraham",
@@ -426,8 +438,20 @@
 40,
 40,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abraham, Iqbal"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Abraham",
@@ -643,8 +667,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0103"
 }
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Canadian Income Taxation II"
 }

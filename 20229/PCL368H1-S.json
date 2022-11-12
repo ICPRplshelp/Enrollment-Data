@@ -315,6 +315,10 @@
 0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -660,8 +664,20 @@
 49,
 49,
 49,
+49,
 49
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anita, Hamadanizadeh"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Anita",
@@ -1006,7 +1022,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Drug Development Pipeline II: In vivo"
 }

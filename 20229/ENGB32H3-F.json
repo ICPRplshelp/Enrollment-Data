@@ -214,8 +214,20 @@
 56,
 56,
 56,
+56,
 56
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jude, Welburn"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jude",
@@ -425,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Shakespeare in Context I"
 }

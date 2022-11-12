@@ -344,8 +344,13 @@
 56,
 56,
 57,
+56,
 56
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -691,8 +696,20 @@
 55,
 55,
 55,
+56,
 56
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Saville"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Adrian",
@@ -1043,8 +1060,20 @@
 62,
 62,
 62,
+61,
 61
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rayomand",
@@ -1395,8 +1424,20 @@
 55,
 56,
 56,
+56,
 56
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Saville"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Adrian",
@@ -1747,8 +1788,20 @@
 69,
 70,
 71,
+71,
 71
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wayne, Adlam"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Wayne",
@@ -2099,8 +2152,20 @@
 69,
 69,
 69,
+69,
 69
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wayne, Adlam"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Wayne",
@@ -2451,8 +2516,20 @@
 57,
 57,
 57,
+57,
 57
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rayomand",
@@ -2803,8 +2880,20 @@
 59,
 59,
 59,
+59,
 59
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rayomand",
@@ -3155,8 +3244,20 @@
 56,
 56,
 56,
+56,
 56
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rayomand",
@@ -3507,8 +3608,13 @@
 11,
 10,
 10,
+11,
 11
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC5301"
 }
@@ -3848,7 +3954,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Corporate Finance"
 }

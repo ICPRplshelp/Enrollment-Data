@@ -209,8 +209,13 @@
 229,
 228,
 228,
+227,
 227
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC01"
 },
@@ -421,8 +426,20 @@
 310,
 309,
 310,
+310,
 310
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael Scott, Cavers"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Michael Scott",
@@ -638,8 +655,20 @@
 290,
 287,
 286,
+285,
 285
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael Scott, Cavers"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Michael Scott",
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Calculus for Management II"
 }

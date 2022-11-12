@@ -209,8 +209,29 @@
 82,
 82,
 82,
+82,
 82
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ning, Yan",
+"Timothy, Bender",
+"Cathy Ya Huei, Chin",
+"Nikolai, DeMartini",
+"Elizabeth, Edwards",
+"Donald, Kirk",
+"Mark, Kortschot",
+"Yuri, Lawryshyn",
+"Marko, Saban",
+"Bradley, Saville"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ning",
@@ -456,7 +477,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Chemical Plant Design"
 }

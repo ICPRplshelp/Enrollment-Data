@@ -209,8 +209,20 @@
 33,
 33,
 33,
+33,
 33
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yue, Yu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Yue",
@@ -426,8 +438,20 @@
 35,
 35,
 35,
+35,
 35
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yue, Yu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Yue",
@@ -637,7 +661,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Regression Analysis"
 }

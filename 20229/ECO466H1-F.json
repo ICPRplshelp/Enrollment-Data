@@ -344,8 +344,21 @@
 5,
 5,
 5,
+5,
 5
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Angelo, Melino",
+"Martin, Burda"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Angelo",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Empirical Macroeconomics and Policy"
 }

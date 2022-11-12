@@ -344,8 +344,20 @@
 86,
 86,
 86,
-86
+86,
+87
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jimmy, Ba"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jimmy",
@@ -696,8 +708,20 @@
 86,
 83,
 82,
+82,
 82
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bo, Wang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bo",
@@ -1048,8 +1072,20 @@
 36,
 35,
 35,
+35,
 35
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jimmy, Ba"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jimmy",
@@ -1400,8 +1436,20 @@
 30,
 30,
 30,
+30,
 30
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bo, Wang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bo",
@@ -1752,8 +1800,20 @@
 40,
 39,
 39,
+39,
 39
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jimmy, Ba"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jimmy",
@@ -2104,8 +2164,20 @@
 39,
 39,
 39,
+39,
 39
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bo, Wang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bo",
@@ -2456,8 +2528,20 @@
 85,
 82,
 83,
+84,
 84
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jimmy, Ba"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jimmy",
@@ -2808,8 +2892,20 @@
 70,
 68,
 68,
+69,
 69
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bo, Wang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Bo",
@@ -3154,7 +3250,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Neural Networks and Deep Learning"
 }

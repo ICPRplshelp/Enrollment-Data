@@ -209,8 +209,21 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Hodge",
+"Anita, McAlister"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Megan",
@@ -430,8 +443,20 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Miles, Jaques"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Miles",
@@ -641,7 +666,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Orch Stud - Winds"
 }

@@ -344,8 +344,23 @@
 8,
 8,
 8,
+8,
 8
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Massieh, Moayedi",
+"William Duncan, Hutchison",
+"John, Griffiths",
+"Jeremy, Sivak"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Massieh",
@@ -702,7 +717,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Neuroscience: Systems and Behaviour"
 }

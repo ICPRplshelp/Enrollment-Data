@@ -344,8 +344,20 @@
 4,
 4,
 4,
+4,
 4
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stephen, Scharper"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Stephen",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Special Topics in the Environment"
 }

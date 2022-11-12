@@ -344,8 +344,22 @@
 615,
 614,
 614,
-614
+614,
+613
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kristine, Quinlan",
+"Mark, Nitz",
+"Dwight, Seferos"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Kristine",
@@ -704,13 +718,23 @@
 599,
 597,
 597,
-597
+597,
+596
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kristine, Quinlan",
+"Mark, Nitz",
+"Dwight, Seferos"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
-[
-"Dwight",
-"Seferos"
-],
 [
 "Kristine",
 "Quinlan"
@@ -718,6 +742,10 @@
 [
 "Mark",
 "Nitz"
+],
+[
+"Dwight",
+"Seferos"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1064,8 +1092,22 @@
 621,
 621,
 621,
+621,
 621
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Barbora, Morra",
+"Scott, Browning",
+"Haissi, Cui"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Barbora",
@@ -1424,8 +1466,22 @@
 417,
 417,
 417,
+416,
 416
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Barbora, Morra",
+"Scott, Browning",
+"Haissi, Cui"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Barbora",
@@ -1778,7 +1834,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introductory Organic Chemistry I"
 }

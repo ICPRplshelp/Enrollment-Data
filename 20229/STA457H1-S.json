@@ -344,8 +344,13 @@
 152,
 152,
 152,
-153
+153,
+154
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -691,8 +696,13 @@
 194,
 194,
 194,
-194
+194,
+193
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0201"
 },
@@ -1038,8 +1048,13 @@
 3,
 3,
 3,
-3
+3,
+2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC2001"
 }
@@ -1379,7 +1394,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Time Series Analysis"
 }

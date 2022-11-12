@@ -344,8 +344,21 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adria, Giacca",
+"Evelyn, Lambe"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Adria",
@@ -700,8 +713,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Haibo, Zhang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Haibo",
@@ -1052,8 +1077,20 @@
 3,
 3,
 3,
+3,
 3
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shuzo, Sugita"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shuzo",
@@ -1404,8 +1441,20 @@
 1,
 1,
 1,
+1,
 1
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"William Duncan, Hutchison"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "William Duncan",
@@ -1756,8 +1805,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0501"
 }
@@ -2097,7 +2151,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Research Opportunity Program"
 }

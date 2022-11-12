@@ -209,8 +209,20 @@
 78,
 79,
 79,
-79
+79,
+80
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Douglas"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Scott",
@@ -426,8 +438,20 @@
 83,
 84,
 84,
+84,
 84
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Douglas"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Scott",
@@ -643,8 +667,13 @@
 82,
 81,
 81,
-81
+81,
+82
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0103"
 }
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

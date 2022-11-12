@@ -344,8 +344,20 @@
 34,
 35,
 35,
+35,
 35
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zoe, Sharpe"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Zoe",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "The Literature of Heroes and Horrors"
 }

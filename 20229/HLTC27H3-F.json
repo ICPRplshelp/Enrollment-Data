@@ -209,8 +209,20 @@
 40,
 40,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hilary Kathryn, Brown"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Hilary Kathryn",
@@ -426,8 +438,20 @@
 57,
 57,
 57,
+57,
 57
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Attia, Khan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Attia",
@@ -533,6 +557,10 @@
 0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC03"
 }
@@ -737,7 +765,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Community Health and Epidemiology"
 }

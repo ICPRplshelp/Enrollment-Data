@@ -344,8 +344,20 @@
 34,
 34,
 34,
+34,
 34
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yoram, Halevy"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Yoram",
@@ -696,8 +708,20 @@
 40,
 40,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nadia, Soboleva"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nadia",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Special Topics in Economics"
 }

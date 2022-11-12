@@ -344,8 +344,13 @@
 57,
 57,
 57,
+57,
 57
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -696,8 +701,13 @@
 3,
 3,
 3,
+3,
 3
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC2001"
 }
@@ -1037,7 +1047,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Stochastic Processes"
 }

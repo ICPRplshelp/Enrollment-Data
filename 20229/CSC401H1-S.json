@@ -344,8 +344,21 @@
 149,
 149,
 149,
+149,
 149
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Annie, Lee",
+"Zining, Zhu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Annie",
@@ -700,8 +713,21 @@
 150,
 149,
 149,
-149
+149,
+148
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Raeid, Saqur",
+"Annie, Lee"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Raeid",
@@ -1056,8 +1082,21 @@
 50,
 50,
 50,
+50,
 50
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Annie, Lee",
+"Zining, Zhu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Annie",
@@ -1412,8 +1451,21 @@
 55,
 55,
 55,
+55,
 55
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Raeid, Saqur",
+"Annie, Lee"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Raeid",
@@ -1762,7 +1814,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Natural Language Computing"
 }

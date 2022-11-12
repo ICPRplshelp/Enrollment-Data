@@ -344,8 +344,20 @@
 51,
 51,
 51,
-54
+54,
+53
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Green"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jessica",
@@ -696,8 +708,20 @@
 50,
 50,
 51,
+53,
 53
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lilach, Gilady"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Lilach",
@@ -1048,8 +1072,20 @@
 31,
 31,
 31,
+35,
 35
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dani, Nedal"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Dani",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Topics in International Politics"
 }

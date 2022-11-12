@@ -247,8 +247,20 @@
 62,
 62,
 62,
+62,
 62
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Meg Schlichting, Mack"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Meg Schlichting",
@@ -502,8 +514,20 @@
 63,
 63,
 63,
-63
+63,
+62
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Taryn Elizabeth, Grieder"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Taryn Elizabeth",
@@ -751,7 +775,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Cognitive Neuroscience"
 }

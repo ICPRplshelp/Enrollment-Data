@@ -344,8 +344,20 @@
 60,
 60,
 60,
+61,
 61
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Junchul, Kim"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Junchul",
@@ -696,8 +708,20 @@
 71,
 71,
 71,
+72,
 72
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Paul, Whissell"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Paul",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Behavioural Genetics"
 }

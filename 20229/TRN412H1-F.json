@@ -344,8 +344,20 @@
 15,
 15,
 15,
+15,
 15
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nathalie, Des Rosiers"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nathalie",
@@ -696,8 +708,20 @@
 11,
 11,
 11,
+11,
 11
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Duncan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "John",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

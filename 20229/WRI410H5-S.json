@@ -209,8 +209,21 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steve, Szigeti",
+"Seeret, Samra"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Steve",
@@ -424,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Professional Writing and Communication Internship 1"
 }

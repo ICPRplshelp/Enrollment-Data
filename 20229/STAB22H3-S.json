@@ -214,8 +214,20 @@
 318,
 319,
 322,
+322,
 322
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mahinda, Samarakoon"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Mahinda",
@@ -436,8 +448,20 @@
 313,
 318,
 318,
-319
+319,
+320
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shahriar, Shams"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shahriar",
@@ -647,7 +671,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Statistics I"
 }

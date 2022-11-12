@@ -344,8 +344,20 @@
 400,
 400,
 400,
-401
+401,
+400
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Deborah, Cowen"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Deborah",
@@ -696,8 +708,20 @@
 341,
 342,
 342,
-346
+346,
+350
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Deborah, Cowen"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Deborah",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Cities and Urban Life"
 }

@@ -344,8 +344,20 @@
 41,
 41,
 40,
+40,
 40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sunil, Johal"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sunil",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Creativity and Collaboration in Social Enterprise"
 }

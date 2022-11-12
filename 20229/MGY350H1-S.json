@@ -344,8 +344,20 @@
 55,
 55,
 54,
+53,
 53
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brent, Derry"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Brent",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Model Organisms to Disease"
 }

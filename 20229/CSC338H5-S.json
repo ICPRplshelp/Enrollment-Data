@@ -209,8 +209,20 @@
 81,
 81,
 81,
-81
+81,
+82
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ray, Wu"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ray",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Numerical Methods"
 }

@@ -209,8 +209,13 @@
 25,
 25,
 25,
+25,
 25
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "PRA0101"
 },
@@ -421,8 +426,20 @@
 25,
 25,
 25,
+25,
 25
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melanie, Gilligan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Melanie",
@@ -638,8 +655,20 @@
 25,
 25,
 25,
+25,
 25
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melanie, Gilligan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Melanie",
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Installation Art"
 }

@@ -209,8 +209,20 @@
 136,
 136,
 136,
+136,
 136
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Micheal, Pawliuk"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Micheal",
@@ -426,8 +438,20 @@
 80,
 80,
 80,
+79,
 79
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marc, De Benedetti"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Marc",
@@ -637,7 +661,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Integral Calculus"
 }

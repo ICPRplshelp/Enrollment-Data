@@ -344,8 +344,20 @@
 88,
 88,
 88,
-88
+88,
+86
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexander, Braverman"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alexander",
@@ -696,8 +708,20 @@
 175,
 174,
 174,
+172,
 172
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Soheil, Memariansorkhabi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Soheil",
@@ -1048,8 +1072,20 @@
 93,
 93,
 93,
+93,
 93
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Benjamin Christopher, Landon"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Benjamin Christopher",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Complex Variables"
 }

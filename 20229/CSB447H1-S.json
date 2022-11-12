@@ -344,8 +344,20 @@
 37,
 37,
 37,
+37,
 37
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Leslie, Buck"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Leslie",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Living Without Oxygen: Microbes to Mammals"
 }

@@ -146,8 +146,20 @@
 23,
 23,
 23,
+23,
 23
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maria, Yablonina"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Maria",
@@ -289,7 +301,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Topics in the Technology of Architecture"
 }

@@ -344,8 +344,20 @@
 80,
 80,
 80,
+80,
 80
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Lombardo"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Anthony",
@@ -696,8 +708,20 @@
 2,
 2,
 2,
+2,
 2
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Lombardo"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Anthony",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Health: Determinants of Health & Health Care"
 }

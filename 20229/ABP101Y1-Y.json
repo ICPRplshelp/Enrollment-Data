@@ -344,8 +344,20 @@
 30,
 30,
 30,
+30,
 30
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Avik, Ghoshdastidar"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Avik",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Academic Studies in the Sciences"
 }

@@ -209,8 +209,20 @@
 40,
 40,
 40,
-41
+41,
+40
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Donna, Schatz"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Donna",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Women, Migration and Diaspora"
 }

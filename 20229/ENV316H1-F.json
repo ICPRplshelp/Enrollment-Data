@@ -344,8 +344,21 @@
 24,
 24,
 24,
+24,
 24
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Njal, Rollinson",
+"Hui, Peng"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Njal",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Laboratory and Field Methods in Environmental Science"
 }

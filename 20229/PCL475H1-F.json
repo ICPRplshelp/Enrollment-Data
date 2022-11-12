@@ -349,8 +349,21 @@
 63,
 63,
 63,
+63,
 63
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Martin, Zack",
+"Willets, Burnham"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Martin",
@@ -699,7 +712,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Neuropsychopharmacology 1"
 }

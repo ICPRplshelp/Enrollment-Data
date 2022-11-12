@@ -344,8 +344,20 @@
 105,
 105,
 105,
+105,
 105
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rahul, Gopalkrishnan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rahul",
@@ -696,8 +708,20 @@
 116,
 116,
 116,
+116,
 116
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xi (Alice), Gao"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Xi (Alice)",
@@ -1048,8 +1072,20 @@
 3,
 3,
 3,
+3,
 3
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rahul, Gopalkrishnan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rahul",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Machine Learning"
 }

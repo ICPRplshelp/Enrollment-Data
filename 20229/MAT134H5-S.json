@@ -209,8 +209,13 @@
 149,
 149,
 149,
-149
+149,
+148
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -421,8 +426,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0102"
 },
@@ -633,8 +643,20 @@
 213,
 214,
 214,
+214,
 214
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shay, Fuchs"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shay",
@@ -850,8 +872,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
@@ -1062,8 +1089,20 @@
 152,
 153,
 153,
+152,
 152
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nadya, Askaripour"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nadya",
@@ -1273,7 +1312,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Integral Calculus for Life Sciences"
 }

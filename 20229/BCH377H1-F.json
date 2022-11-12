@@ -344,8 +344,20 @@
 35,
 35,
 35,
+34,
 34
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cordula, Enenkel"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Cordula",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Biochemistry Laboratory I"
 }

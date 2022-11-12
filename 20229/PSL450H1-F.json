@@ -344,8 +344,23 @@
 6,
 6,
 6,
+6,
 6
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shuzo, Sugita",
+"Zhong-Ping, Feng",
+"Amira, Klip",
+"Lu-Yang, Wang"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shuzo",
@@ -702,7 +717,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Mechanisms of Neural and Endocrinal Secretion"
 }

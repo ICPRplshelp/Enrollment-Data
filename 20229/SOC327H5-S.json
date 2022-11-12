@@ -209,12 +209,24 @@
 64,
 64,
 64,
+64,
 64
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maykal, Bailey"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
-"Luisa",
-"Farah Schwartzman"
+"Maykal",
+"Bailey"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Drugs and the Modern World"
 }

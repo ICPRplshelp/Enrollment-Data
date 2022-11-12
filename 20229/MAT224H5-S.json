@@ -209,8 +209,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -421,8 +426,20 @@
 84,
 84,
 84,
+84,
 84
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tyler, Holden"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Tyler",
@@ -638,8 +655,20 @@
 65,
 66,
 66,
+66,
 66
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shahriar, Aslani"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Shahriar",
@@ -849,7 +878,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Linear Algebra II"
 }

@@ -214,8 +214,20 @@
 93,
 93,
 93,
+94,
 94
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rowan, Mellor"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rowan",
@@ -425,7 +437,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Philosophy of Law"
 }

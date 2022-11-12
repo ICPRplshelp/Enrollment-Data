@@ -344,8 +344,20 @@
 162,
 163,
 163,
-163
+163,
+164
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sebastian, Olano Espinosa"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sebastian",
@@ -696,8 +708,13 @@
 159,
 162,
 162,
+162,
 162
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0201"
 },
@@ -1043,8 +1060,20 @@
 168,
 167,
 167,
+167,
 167
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lindsey, Shorser"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Lindsey",
@@ -1395,8 +1424,20 @@
 158,
 159,
 159,
+159,
 159
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Caleb, Jonker"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Caleb",
@@ -1747,8 +1788,20 @@
 160,
 160,
 160,
+160,
 160
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alessandro, Malusa"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alessandro",
@@ -2099,8 +2152,20 @@
 157,
 158,
 158,
+158,
 158
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Denis, Gorodkov"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Denis",
@@ -2445,7 +2510,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Linear Algebra II"
 }

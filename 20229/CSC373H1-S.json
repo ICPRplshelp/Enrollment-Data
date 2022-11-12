@@ -344,8 +344,20 @@
 125,
 125,
 125,
+126,
 126
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nathan, Wiebe"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nathan",
@@ -696,8 +708,20 @@
 114,
 112,
 113,
+112,
 112
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nathan, Wiebe"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nathan",
@@ -1048,8 +1072,20 @@
 99,
 99,
 98,
+97,
 97
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ziyang, Jin"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ziyang",
@@ -1394,7 +1430,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Algorithm Design, Analysis & Complexity"
 }

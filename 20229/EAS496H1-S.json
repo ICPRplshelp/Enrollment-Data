@@ -247,8 +247,20 @@
 13,
 13,
 13,
+13,
 13
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Thomas, Keirstead"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Thomas",
@@ -502,8 +514,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0201"
 }
@@ -746,7 +763,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Advanced Topics in East Asian Studies"
 }

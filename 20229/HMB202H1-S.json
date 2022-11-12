@@ -344,8 +344,20 @@
 321,
 322,
 321,
+319,
 319
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sandy, Lee"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sandy",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Health and Disease"
 }

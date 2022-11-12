@@ -209,8 +209,20 @@
 159,
 158,
 158,
+158,
 158
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Zingaro"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Daniel",
@@ -426,8 +438,20 @@
 158,
 158,
 158,
+158,
 158
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Louisa, Harutyunyan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Louisa",
@@ -643,8 +667,20 @@
 152,
 152,
 152,
+152,
 152
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Louisa, Harutyunyan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Louisa",
@@ -860,8 +896,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
@@ -1072,8 +1113,20 @@
 160,
 160,
 160,
+160,
 160
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Zingaro"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Daniel",
@@ -1289,8 +1342,20 @@
 145,
 145,
 145,
-144
+144,
+143
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rutwa, Engineer"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Rutwa",
@@ -1506,8 +1571,20 @@
 145,
 145,
 145,
+145,
 145
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Angela M., Zavaleta Bernuy"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Angela M.",
@@ -1717,7 +1794,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Computer Programming"
 }

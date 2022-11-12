@@ -209,8 +209,22 @@
 109,
 109,
 108,
+108,
 108
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andreas, Bendlin",
+"Boris, Chrubasik",
+"Martin, Revermann"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Andreas",
@@ -428,7 +442,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Classical Civilization"
 }

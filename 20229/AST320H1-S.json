@@ -344,8 +344,20 @@
 79,
 79,
 79,
+79,
 79
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marten, van Kerkwijk"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Marten",
@@ -696,8 +708,20 @@
 4,
 4,
 4,
+4,
 4
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marten, van Kerkwijk"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Marten",
@@ -1042,7 +1066,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Astrophysics"
 }

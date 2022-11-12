@@ -209,8 +209,20 @@
 98,
 98,
 98,
+98,
 98
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sidi Mohamed, Beillahi"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sidi Mohamed",
@@ -426,8 +438,20 @@
 99,
 99,
 99,
+99,
 99
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Malik, Khan"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Malik",
@@ -643,8 +667,20 @@
 99,
 99,
 99,
+99,
 99
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zisis, Poulos"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Zisis",
@@ -854,7 +890,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Algorithms and Data Structures"
 }

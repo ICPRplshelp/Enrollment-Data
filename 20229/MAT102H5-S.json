@@ -209,8 +209,13 @@
 84,
 83,
 83,
+83,
 83
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -421,8 +426,20 @@
 138,
 138,
 139,
+140,
 140
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ehsaan, Hossain"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ehsaan",
@@ -638,8 +655,20 @@
 100,
 99,
 99,
+100,
 100
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jamie, de Jong"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Jamie",
@@ -855,8 +884,13 @@
 0,
 0,
 0,
+0,
 0
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0104"
 },
@@ -1067,8 +1101,20 @@
 69,
 71,
 71,
+72,
 72
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nadya, Askaripour"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Nadya",
@@ -1278,7 +1324,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Mathematical Proofs"
 }

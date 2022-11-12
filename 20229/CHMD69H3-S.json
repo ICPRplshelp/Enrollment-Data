@@ -209,8 +209,20 @@
 16,
 16,
 16,
+16,
 16
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alen, Hadzovic"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Alen",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Chemical Elements in Living Systems"
 }

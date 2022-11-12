@@ -209,8 +209,20 @@
 64,
 64,
 64,
+63,
 63
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ping-Chun, Hsiung"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Ping-Chun",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Sociology of Family"
 }

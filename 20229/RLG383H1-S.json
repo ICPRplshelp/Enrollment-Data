@@ -344,8 +344,20 @@
 6,
 6,
 6,
+8,
 8
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sol, Goldberg"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Sol",
@@ -690,7 +702,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Interpretation and Dialogue"
 }

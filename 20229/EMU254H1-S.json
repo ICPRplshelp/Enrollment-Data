@@ -209,8 +209,20 @@
 8,
 8,
 8,
+8,
 8
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cathy, Stone"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Cathy",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Inst Class: Trombone"
 }

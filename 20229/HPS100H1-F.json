@@ -344,8 +344,21 @@
 239,
 238,
 238,
+238,
 238
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elise K., Burton",
+"Karina, Vold"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Elise K.",
@@ -694,7 +707,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to History and Philosophy of Science and Technology"
 }

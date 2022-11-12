@@ -344,8 +344,13 @@
 195,
 196,
 196,
+196,
 196
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
 "instructors": [],
 "meetingNumber": "LEC0101"
 },
@@ -691,8 +696,20 @@
 162,
 160,
 160,
-160
+160,
+161
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Boris, Lishak"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Boris",
@@ -1043,8 +1060,20 @@
 54,
 55,
 57,
+59,
 59
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maximilian, Klambauer"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Maximilian",
@@ -1389,7 +1418,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

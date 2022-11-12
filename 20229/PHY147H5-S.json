@@ -209,8 +209,20 @@
 59,
 59,
 59,
-59
+59,
+58
 ],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andreas, Hilfinger"
+],
+"timing": 1668212862
+}
+]
+},
 "instructors": [
 [
 "Andreas",
@@ -420,7 +432,8 @@
 1668031867,
 1668107964,
 1668147635,
-1668191117
+1668191117,
+1668212862
 ],
 "title": "Principles of Physics II"
 }
