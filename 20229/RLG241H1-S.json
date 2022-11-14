@@ -352,7 +352,8 @@
 23,
 23,
 23,
-23
+23,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -363,6 +364,12 @@
 "Martin, Arno"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"John, Kloppenborg"
+],
+"timing": 1668468113
 }
 ]
 },
@@ -370,10 +377,6 @@
 [
 "John",
 "Kloppenborg"
-],
-[
-"Martin",
-"Arno"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -722,7 +725,8 @@
 1668228580,
 1668241259,
 1668268056,
-1668372766
+1668372766,
+1668468113
 ],
 "title": "The Earliest Christians"
 }

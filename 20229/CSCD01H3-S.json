@@ -217,13 +217,26 @@
 100,
 100,
 100,
+100,
 100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rawad, Abou Assi"
+],
+"timing": 1668468113
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rawad",
+"Abou Assi"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -441,13 +454,26 @@
 85,
 85,
 85,
-85
+85,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rawad, Abou Assi"
+],
+"timing": 1668468113
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rawad",
+"Abou Assi"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -659,7 +685,8 @@
 1668228580,
 1668241259,
 1668268056,
-1668372766
+1668372766,
+1668468113
 ],
 "title": "Engineering Large Software Systems"
 }

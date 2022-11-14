@@ -352,13 +352,26 @@
 196,
 196,
 196,
-196
+196,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wenyu, Pan"
+],
+"timing": 1668468113
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Wenyu",
+"Pan"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -711,7 +724,8 @@
 161,
 161,
 161,
-161
+161,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1074,6 +1088,7 @@
 54,
 55,
 57,
+59,
 59,
 59,
 59,
@@ -1447,7 +1462,8 @@
 1668228580,
 1668241259,
 1668268056,
-1668372766
+1668372766,
+1668468113
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }
