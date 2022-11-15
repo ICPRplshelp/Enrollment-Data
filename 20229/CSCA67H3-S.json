@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 117,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668545484,
+105
+]
+],
 "initialCap": 117
 },
 "enrollmentLogs": [
@@ -218,7 +223,8 @@
 76,
 76,
 76,
-76
+76,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,7 +455,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Discrete Mathematics"
 }

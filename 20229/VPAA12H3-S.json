@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 188,
+"enrollmentCap": 207,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668545484,
+207
+]
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -218,6 +223,7 @@
 289,
 289,
 289,
+288,
 288
 ],
 "instructorLog": {
@@ -449,7 +455,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Developing Audience, Resources, and  Community"
 }

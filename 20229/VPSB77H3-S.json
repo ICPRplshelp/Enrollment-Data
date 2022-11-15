@@ -218,13 +218,26 @@
 26,
 26,
 26,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Julian, Pivato"
+],
+"timing": 1668545484
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Julian",
+"Pivato"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -437,7 +450,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Performance Art"
 }

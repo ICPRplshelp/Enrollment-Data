@@ -218,13 +218,26 @@
 95,
 95,
 95,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aidan Marie, Moir"
+],
+"timing": 1668545484
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Aidan Marie",
+"Moir"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -437,7 +450,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Human, Animal, Machine"
 }

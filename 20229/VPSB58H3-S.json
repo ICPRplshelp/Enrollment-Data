@@ -218,13 +218,26 @@
 48,
 48,
 48,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Midi, Onodera"
+],
+"timing": 1668545484
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Midi",
+"Onodera"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -437,7 +450,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Video I"
 }

@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 310,
+"enrollmentCap": 315,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668031867,
 310
+],
+[
+1668545484,
+315
 ]
 ],
 "initialCap": 300
@@ -223,7 +227,8 @@
 322,
 322,
 322,
-321
+321,
+322
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -246,12 +251,16 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 310,
+"enrollmentCap": 315,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668031867,
 310
+],
+[
+1668545484,
+315
 ]
 ],
 "initialCap": 300
@@ -465,6 +474,7 @@
 320,
 320,
 320,
+322,
 322
 ],
 "instructorLog": {
@@ -696,7 +706,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Statistics I"
 }

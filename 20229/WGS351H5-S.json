@@ -218,6 +218,7 @@
 16,
 16,
 16,
+15,
 15
 ],
 "instructorLog": {
@@ -228,13 +229,19 @@
 "P., SAEEDI"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Penny, Saeedi"
+],
+"timing": 1668545484
 }
 ]
 },
 "instructors": [
 [
-"P.",
-"SAEEDI"
+"Penny",
+"Saeedi"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -449,7 +456,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Gender, Race, and Surveillance"
 }

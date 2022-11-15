@@ -218,13 +218,26 @@
 126,
 126,
 126,
+123,
 123
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam David, Brown"
+],
+"timing": 1668545484
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adam David",
+"Brown"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -437,7 +450,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "But Why Is It Art?"
 }

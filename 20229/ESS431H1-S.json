@@ -353,13 +353,26 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Pinar, Gunes"
+],
+"timing": 1668545484
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Pinar",
+"Gunes"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -707,7 +720,8 @@
 1668241259,
 1668268056,
 1668372766,
-1668468113
+1668468113,
+1668545484
 ],
 "title": "Basin Analysis"
 }
