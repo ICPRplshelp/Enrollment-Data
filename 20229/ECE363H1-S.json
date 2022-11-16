@@ -219,13 +219,26 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Reza, Rafie Borujeny"
+],
+"timing": 1668562700
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Reza",
+"Rafie Borujeny"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -439,7 +452,8 @@
 1668268056,
 1668372766,
 1668468113,
-1668545484
+1668545484,
+1668562700
 ],
 "title": "Communication Systems"
 }

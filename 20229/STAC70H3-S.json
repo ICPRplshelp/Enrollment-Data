@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668562700,
+60
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -219,6 +224,7 @@
 54,
 54,
 54,
+53,
 53
 ],
 "instructorLog": {
@@ -451,7 +457,8 @@
 1668268056,
 1668372766,
 1668468113,
-1668545484
+1668545484,
+1668562700
 ],
 "title": "Statistics and Finance I"
 }
