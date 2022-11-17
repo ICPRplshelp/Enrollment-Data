@@ -222,13 +222,26 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Raul, Salas Reyes"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Raul",
+"Salas Reyes"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Technical Methods for Climate Change Mitigation"
 }

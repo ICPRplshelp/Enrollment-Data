@@ -222,13 +222,26 @@
 51,
 51,
 52,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Roberto, Verdecchia"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Roberto",
+"Verdecchia"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Communicating Science: Film, Media, Journalism, and Society"
 }

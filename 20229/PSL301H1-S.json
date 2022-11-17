@@ -357,7 +357,8 @@
 1110,
 1108,
 1107,
-1107
+1107,
+1110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -367,13 +368,19 @@
 "Michelle, French"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Scott, Heximer"
+],
+"timing": 1668718474
 }
 ]
 },
 "instructors": [
 [
-"Michelle",
-"French"
+"Scott",
+"Heximer"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -727,7 +734,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Human Physiology II"
 }

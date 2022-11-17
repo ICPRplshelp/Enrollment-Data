@@ -222,13 +222,26 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Quentin, Chiotti"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Quentin",
+"Chiotti"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Risk"
 }

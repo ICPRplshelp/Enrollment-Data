@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 65,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668718474,
+55
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -207,6 +212,7 @@
 34,
 34,
 34,
+32,
 32,
 32,
 32,
@@ -457,7 +463,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Bioinorganic Chemistry"
 }

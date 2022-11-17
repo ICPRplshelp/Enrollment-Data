@@ -222,13 +222,26 @@
 112,
 112,
 112,
+112,
 112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Muhammad Faizan, Qureshi"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Muhammad Faizan",
+"Qureshi"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Reinforced Concrete I"
 }

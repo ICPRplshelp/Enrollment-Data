@@ -222,13 +222,26 @@
 6,
 6,
 6,
-6
+6,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ashantha, Jayalath"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ashantha",
+"Jayalath"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Professional Development Seminars in Geoscience"
 }

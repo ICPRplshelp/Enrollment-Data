@@ -222,13 +222,26 @@
 50,
 49,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Micah Joel, Hewer"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Micah Joel",
+"Hewer"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Environmental Science and Technology in Society"
 }

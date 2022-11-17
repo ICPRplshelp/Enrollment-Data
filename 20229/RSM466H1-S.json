@@ -357,13 +357,26 @@
 57,
 57,
 57,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ann, Armstrong"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ann",
+"Armstrong"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -715,7 +728,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Environmental and Social Responsibility"
 }

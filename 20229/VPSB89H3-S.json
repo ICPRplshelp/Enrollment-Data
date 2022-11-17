@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 12,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668718474,
+20
+]
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -218,6 +223,7 @@
 25,
 25,
 25,
+22,
 22,
 22,
 22,
@@ -445,7 +451,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Digital Animation I"
 }

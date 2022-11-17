@@ -222,13 +222,26 @@
 91,
 91,
 89,
-89
+89,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Edwin, Safari"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Edwin",
+"Safari"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Environmental Impact Assessment and Auditing"
 }

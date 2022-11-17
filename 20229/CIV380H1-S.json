@@ -222,13 +222,26 @@
 102,
 102,
 102,
+102,
 102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Reza, Daneshazarian"
+],
+"timing": 1668718474
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Reza",
+"Daneshazarian"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -445,7 +458,8 @@
 1668545484,
 1668562700,
 1668658773,
-1668661049
+1668661049,
+1668718474
 ],
 "title": "Sustainable Energy Systems"
 }
