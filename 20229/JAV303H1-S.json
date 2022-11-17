@@ -159,13 +159,26 @@
 9,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeannie, Kim"
+],
+"timing": 1668726847
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jeannie",
+"Kim"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -319,7 +332,8 @@
 1668562700,
 1668658773,
 1668661049,
-1668718474
+1668718474,
+1668726847
 ],
 "title": "Cities, Society, Environment"
 }

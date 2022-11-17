@@ -223,13 +223,26 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Esopenko"
+],
+"timing": 1668726847
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megan",
+"Esopenko"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -447,7 +460,8 @@
 1668562700,
 1668658773,
 1668661049,
-1668718474
+1668718474,
+1668726847
 ],
 "title": "Landscape Topography and Hydrology"
 }
