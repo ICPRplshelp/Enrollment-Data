@@ -220,6 +220,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -230,13 +231,19 @@
 "KATHLEEN, HEARN"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"SIBEL, GUVENC"
+],
+"timing": 1668658773
 }
 ]
 },
 "instructors": [
 [
-"KATHLEEN",
-"HEARN"
+"SIBEL",
+"GUVENC"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -453,7 +460,8 @@
 1668372766,
 1668468113,
 1668545484,
-1668562700
+1668562700,
+1668658773
 ],
 "title": "Digital Media: Photography (SH)"
 }

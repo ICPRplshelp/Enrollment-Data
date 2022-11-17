@@ -220,13 +220,26 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Homayoun, Hosseini Abrishami"
+],
+"timing": 1668658773
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Homayoun",
+"Hosseini Abrishami"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -441,7 +454,8 @@
 1668372766,
 1668468113,
 1668545484,
-1668562700
+1668562700,
+1668658773
 ],
 "title": "Solid Mechanics II"
 }

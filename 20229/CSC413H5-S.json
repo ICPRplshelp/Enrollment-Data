@@ -220,6 +220,7 @@
 56,
 56,
 57,
+57,
 57
 ],
 "instructorLog": {
@@ -230,13 +231,19 @@
 "Lisa Chenxue, Zhang"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Robert, Wu"
+],
+"timing": 1668658773
 }
 ]
 },
 "instructors": [
 [
-"Lisa Chenxue",
-"Zhang"
+"Robert",
+"Wu"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -457,6 +464,7 @@
 39,
 39,
 39,
+38,
 38,
 38,
 38
@@ -692,7 +700,8 @@
 1668372766,
 1668468113,
 1668545484,
-1668562700
+1668562700,
+1668658773
 ],
 "title": "Neural Networks and Deep Learning"
 }

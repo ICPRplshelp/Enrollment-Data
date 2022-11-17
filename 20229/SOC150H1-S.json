@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 710,
+"enrollmentCap": 750,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668658773,
+750
+]
+],
 "initialCap": 710
 },
 "enrollmentLogs": [
@@ -355,7 +360,8 @@
 742,
 740,
 742,
-744
+744,
+731
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -365,6 +371,13 @@
 "Scott, Schieman"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Scott, Schieman",
+"Mitchell, McIvor"
+],
+"timing": 1668658773
 }
 ]
 },
@@ -372,15 +385,24 @@
 [
 "Scott",
 "Schieman"
+],
+[
+"Mitchell",
+"McIvor"
 ]
 ],
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 265,
+"enrollmentCap": 310,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668658773,
+310
+]
+],
 "initialCap": 265
 },
 "enrollmentLogs": [
@@ -729,7 +751,8 @@
 298,
 300,
 301,
-300
+300,
+299
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -739,6 +762,13 @@
 "Mitchell, McIvor"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Mitchell, McIvor",
+"Scott, Schieman"
+],
+"timing": 1668658773
 }
 ]
 },
@@ -746,6 +776,10 @@
 [
 "Mitchell",
 "McIvor"
+],
+[
+"Scott",
+"Schieman"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1103,6 +1137,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -1113,6 +1148,13 @@
 "Scott, Schieman"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Scott, Schieman",
+"Mitchell, McIvor"
+],
+"timing": 1668658773
 }
 ]
 },
@@ -1120,6 +1162,10 @@
 [
 "Scott",
 "Schieman"
+],
+[
+"Mitchell",
+"McIvor"
 ]
 ],
 "meetingNumber": "LEC2001"
@@ -1471,7 +1517,8 @@
 1668372766,
 1668468113,
 1668545484,
-1668562700
+1668562700,
+1668658773
 ],
 "title": "Introduction to Sociology II: Sociological Inquiries"
 }

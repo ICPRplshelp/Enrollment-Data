@@ -1,6 +1,6 @@
 {
 "code": "DTS401H1-S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1665679728,
@@ -10,6 +10,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -70,7 +71,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Kamel",
+"Riahi"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -122,7 +128,8 @@
 1668268056,
 1668372766,
 1668468113,
-1668545484
+1668545484,
+1668658773
 ],
 "title": "Advanced Topics in Diaspora and Transnationalism"
 }

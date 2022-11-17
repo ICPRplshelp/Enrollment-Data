@@ -220,13 +220,26 @@
 83,
 83,
 83,
-83
+83,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"RAFAEL, GROHMANN (NOUTORID)"
+],
+"timing": 1668658773
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"RAFAEL",
+"GROHMANN (NOUTORID)"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -441,7 +454,8 @@
 1668372766,
 1668468113,
 1668545484,
-1668562700
+1668562700,
+1668658773
 ],
 "title": "Social Media, Platform Politics and Digital Cultures"
 }

@@ -1,6 +1,6 @@
 {
 "code": "CHM237H1-S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1656647697,
@@ -354,6 +354,7 @@
 120,
 120,
 120,
+120,
 120
 ],
 "instructorLog": {
@@ -367,7 +368,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Datong",
+"Song"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -716,7 +722,8 @@
 1668268056,
 1668372766,
 1668468113,
-1668545484
+1668545484,
+1668658773
 ],
 "title": "Introductory Inorganic Chemistry II"
 }
