@@ -224,6 +224,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -464,6 +465,7 @@
 39,
 39,
 39,
+40,
 40,
 40,
 40,
@@ -710,13 +712,26 @@
 15,
 15,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Divya, Maharajh"
+],
+"timing": 1668814166
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Divya",
+"Maharajh"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -940,6 +955,7 @@
 20,
 19,
 19,
+20,
 20,
 20
 ],
@@ -1184,6 +1200,7 @@
 21,
 21,
 22,
+21,
 21
 ],
 "instructorLog": {
@@ -1421,7 +1438,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Creative Non-Fiction"
 }

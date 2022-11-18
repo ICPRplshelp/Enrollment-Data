@@ -359,6 +359,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -704,6 +705,7 @@
 10,
 10,
 9,
+8,
 8,
 8,
 8,
@@ -1115,13 +1117,26 @@
 46,
 46,
 47,
-47
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Heidi, Bohaker"
+],
+"timing": 1668814166
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Heidi",
+"Bohaker"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -1481,7 +1496,8 @@
 24,
 24,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1859,6 +1875,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -2125,6 +2142,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -2615,6 +2633,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -2975,7 +2994,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Topics in History"
 }

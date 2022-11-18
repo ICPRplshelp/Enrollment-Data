@@ -224,13 +224,26 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Divya, Maharajh"
+],
+"timing": 1668814166
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Divya",
+"Maharajh"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -449,7 +462,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Oral Rhetoric"
 }

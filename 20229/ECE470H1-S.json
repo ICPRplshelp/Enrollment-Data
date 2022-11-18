@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 108,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668814166,
+72
+]
+],
 "initialCap": 108
 },
 "enrollmentLogs": [
@@ -221,6 +226,7 @@
 67,
 67,
 68,
+69,
 69,
 69,
 69,
@@ -461,7 +467,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Robot Modeling and Control"
 }

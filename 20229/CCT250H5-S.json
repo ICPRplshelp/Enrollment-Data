@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668814166,
+48
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -198,6 +203,7 @@
 24,
 24,
 24,
+23,
 23,
 23,
 23,
@@ -235,9 +241,14 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668814166,
+48
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -452,6 +463,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -680,7 +692,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Technology and Creative Expresssion"
 }

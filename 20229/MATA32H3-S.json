@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 120,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1668814166,
+200
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -224,7 +229,8 @@
 171,
 171,
 176,
-177
+177,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -461,7 +467,8 @@
 1668658773,
 1668661049,
 1668718474,
-1668726847
+1668726847,
+1668814166
 ],
 "title": "Calculus for Management I"
 }
