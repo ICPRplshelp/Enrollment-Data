@@ -227,7 +227,8 @@
 144,
 144,
 144,
-144
+144,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -237,15 +238,14 @@
 "Michael, Goldstein"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1669073490
 }
 ]
 },
-"instructors": [
-[
-"Michael",
-"Goldstein"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC01"
 }
 ],
@@ -467,7 +467,8 @@
 1668726847,
 1668814166,
 1668878127,
-1668974295
+1668974295,
+1669073490
 ],
 "title": "Differential Equations II"
 }

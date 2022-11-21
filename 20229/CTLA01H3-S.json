@@ -227,13 +227,26 @@
 18,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elaine, Khoo"
+],
+"timing": 1669073490
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elaine",
+"Khoo"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -455,7 +468,8 @@
 1668726847,
 1668814166,
 1668878127,
-1668974295
+1668974295,
+1669073490
 ],
 "title": "Foundations in Effective Academic Communication"
 }

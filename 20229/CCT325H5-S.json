@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 135,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669073490,
+135
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -227,7 +232,8 @@
 127,
 126,
 126,
-126
+126,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -467,7 +473,8 @@
 1668726847,
 1668814166,
 1668878127,
-1668974295
+1668974295,
+1669073490
 ],
 "title": "Media Economics II"
 }

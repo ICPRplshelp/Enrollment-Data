@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 30,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669073490,
+36
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -358,6 +363,7 @@
 37,
 37,
 37,
+36,
 36,
 36,
 36,
@@ -737,7 +743,8 @@
 1668726847,
 1668814166,
 1668878127,
-1668974295
+1668974295,
+1669073490
 ],
 "title": "Complex Analysis II"
 }

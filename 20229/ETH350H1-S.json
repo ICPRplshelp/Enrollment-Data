@@ -1,0 +1,41 @@
+{
+"code": "ETH350H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1669073490,
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Federica, Berdini"
+],
+"timing": 1669073490
+}
+]
+},
+"instructors": [
+[
+"Federica",
+"Berdini"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1669073489,
+1669073490
+],
+"title": "Topics in Value Theory"
+}
