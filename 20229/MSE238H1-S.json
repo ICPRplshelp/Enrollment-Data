@@ -228,6 +228,7 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
@@ -238,13 +239,19 @@
 "Kinnor, Chattopadhyay"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Chandra Veer, Singh"
+],
+"timing": 1669175259
 }
 ]
 },
 "instructors": [
 [
-"Kinnor",
-"Chattopadhyay"
+"Chandra Veer",
+"Singh"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -469,7 +476,8 @@
 1668814166,
 1668878127,
 1668974295,
-1669073490
+1669073490,
+1669175259
 ],
 "title": "Engineering Statistics and Numerical Methods"
 }

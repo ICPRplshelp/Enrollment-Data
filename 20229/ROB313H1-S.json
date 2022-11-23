@@ -228,6 +228,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -238,15 +239,14 @@
 "Prasanth, Nair"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1669175259
 }
 ]
 },
-"instructors": [
-[
-"Prasanth",
-"Nair"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -469,7 +469,8 @@
 1668814166,
 1668878127,
 1668974295,
-1669073490
+1669073490,
+1669175259
 ],
 "title": "INTRO TO LEARNING FROM DATA"
 }

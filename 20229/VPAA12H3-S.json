@@ -233,7 +233,8 @@
 271,
 271,
 271,
-269
+269,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,9 +257,14 @@
 },
 {
 "createdAt": 1668658773,
-"enrollmentCap": 100,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669175259,
+80
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -480,7 +486,8 @@
 3,
 3,
 3,
-3
+3,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -721,7 +728,8 @@
 1668814166,
 1668878127,
 1668974295,
-1669073490
+1669073490,
+1669175259
 ],
 "title": "Developing Audience, Resources, and  Community"
 }

@@ -363,6 +363,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -745,6 +746,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -1105,6 +1107,7 @@
 65,
 65,
 65,
+64,
 64,
 64,
 64,
@@ -1509,6 +1512,7 @@
 51,
 51,
 51,
+51,
 51
 ],
 "instructorLog": {
@@ -1891,7 +1895,8 @@
 56,
 56,
 56,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2273,7 +2278,8 @@
 50,
 50,
 50,
-49
+49,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2655,7 +2661,8 @@
 20,
 20,
 20,
-21
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3037,13 +3044,26 @@
 26,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Martin, Hetu"
+],
+"timing": 1669175259
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Martin",
+"Hetu"
+]
+],
 "meetingNumber": "LEC0801"
 }
 ],
@@ -3401,7 +3421,8 @@
 1668814166,
 1668878127,
 1668974295,
-1669073490
+1669073490,
+1669175259
 ],
 "title": "Strategic Management"
 }
