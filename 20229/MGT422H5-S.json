@@ -229,13 +229,26 @@
 28,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Khan"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Khan"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -246,6 +259,7 @@
 "initialCap": 55
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -695,7 +709,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Advanced IT Audit and Data Analytics"
 }

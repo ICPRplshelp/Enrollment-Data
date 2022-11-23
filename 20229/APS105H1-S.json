@@ -229,7 +229,8 @@
 102,
 102,
 102,
-102
+102,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,13 +240,19 @@
 "Jonathan, Eyolfson"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Kia, Shakiba"
+],
+"timing": 1669247684
 }
 ]
 },
 "instructors": [
 [
-"Jonathan",
-"Eyolfson"
+"Kia",
+"Shakiba"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -477,6 +484,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -487,13 +495,19 @@
 "Cristiana, Amza"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Philip, Anderson"
+],
+"timing": 1669247684
 }
 ]
 },
 "instructors": [
 [
-"Cristiana",
-"Amza"
+"Philip",
+"Anderson"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -725,7 +739,8 @@
 137,
 137,
 137,
-138
+138,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -973,13 +988,26 @@
 93,
 93,
 93,
+92,
 92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Salma, Emara"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Salma",
+"Emara"
+]
+],
 "meetingNumber": "LEC0104"
 }
 ],
@@ -1203,7 +1231,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Computer Fundamentals"
 }

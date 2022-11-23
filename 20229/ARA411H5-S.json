@@ -229,13 +229,26 @@
 10,
 10,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abdelhalim, Elamroussy"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Abdelhalim",
+"Elamroussy"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -459,7 +472,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Advanced Arabic Reading II: Literary Journeys into the Past"
 }

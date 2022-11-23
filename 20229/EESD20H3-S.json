@@ -229,13 +229,26 @@
 17,
 17,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Veronica, DiCecco"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Veronica",
+"DiCecco"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -459,7 +472,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Geological Evolution and Environmental History of North America"
 }

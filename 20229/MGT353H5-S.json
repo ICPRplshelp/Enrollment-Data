@@ -229,13 +229,26 @@
 58,
 58,
 58,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jasvir, Parhar"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jasvir",
+"Parhar"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -465,13 +478,26 @@
 39,
 39,
 40,
-40
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jasvir, Parhar"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jasvir",
+"Parhar"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -695,7 +721,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Introduction to Marketing Management"
 }

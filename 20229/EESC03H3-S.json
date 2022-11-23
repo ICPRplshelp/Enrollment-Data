@@ -229,13 +229,26 @@
 80,
 80,
 80,
-80
+80,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mike, Doughty"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mike",
+"Doughty"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -459,7 +472,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Geographic Information Systems and Remote Sensing"
 }

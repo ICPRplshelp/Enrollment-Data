@@ -229,13 +229,26 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Thanuja, Thananayagam"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Thanuja",
+"Thananayagam"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -459,7 +472,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Occupational Health & Safety"
 }

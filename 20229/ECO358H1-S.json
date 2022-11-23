@@ -364,13 +364,26 @@
 91,
 91,
 89,
+89,
 89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Louis-Etienne, Salmon-Belisle"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Louis-Etienne",
+"Salmon-Belisle"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -729,7 +742,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Financial Economics I"
 }

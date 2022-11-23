@@ -229,13 +229,26 @@
 19,
 19,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ana, Zaknic-Catovic"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ana",
+"Zaknic-Catovic"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -459,7 +472,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Climate Change Impact Assessment"
 }

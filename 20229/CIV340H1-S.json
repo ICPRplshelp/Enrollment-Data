@@ -229,6 +229,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -239,13 +240,19 @@
 "David, Taylor"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"David, Meyer"
+],
+"timing": 1669247684
 }
 ]
 },
 "instructors": [
 [
 "David",
-"Taylor"
+"Meyer"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -471,7 +478,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Municipal Engineering"
 }

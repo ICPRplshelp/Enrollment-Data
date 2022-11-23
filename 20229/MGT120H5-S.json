@@ -229,7 +229,8 @@
 100,
 100,
 103,
-103
+103,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,6 +478,7 @@
 151,
 151,
 150,
+151,
 151
 ],
 "instructorLog": {
@@ -724,6 +726,7 @@
 41,
 41,
 41,
+40,
 40,
 40
 ],
@@ -973,7 +976,8 @@
 123,
 123,
 121,
-122
+122,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1002,6 +1006,7 @@
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1457,13 +1462,26 @@
 103,
 103,
 106,
-105
+105,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kathy, Falk"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kathy",
+"Falk"
+]
+],
 "meetingNumber": "LEC0106"
 }
 ],
@@ -1687,7 +1705,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Introduction to Financial Accounting"
 }

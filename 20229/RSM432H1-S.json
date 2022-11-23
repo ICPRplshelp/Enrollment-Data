@@ -364,6 +364,7 @@
 63,
 63,
 62,
+52,
 52
 ],
 "instructorLog": {
@@ -747,7 +748,8 @@
 65,
 65,
 65,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1130,13 +1132,26 @@
 0,
 0,
 0,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chay, Ornthanalai"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chay",
+"Ornthanalai"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -1482,6 +1497,7 @@
 5,
 5,
 5,
+6,
 6,
 6,
 6,
@@ -1878,7 +1894,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Risk Management for Financial Managers"
 }

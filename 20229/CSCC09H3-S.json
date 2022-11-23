@@ -229,13 +229,26 @@
 74,
 74,
 72,
-71
+71,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cho Yin, Yong"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cho Yin",
+"Yong"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -465,13 +478,26 @@
 50,
 50,
 50,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cho Yin, Yong"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cho Yin",
+"Yong"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -695,7 +721,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Programming on the Web"
 }

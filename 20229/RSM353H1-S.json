@@ -364,7 +364,8 @@
 69,
 69,
 68,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -743,6 +744,7 @@
 63,
 63,
 63,
+62,
 62,
 62,
 62,
@@ -1130,13 +1132,26 @@
 13,
 13,
 13,
-13
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Inez T., Blackburn"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Inez T.",
+"Blackburn"
+]
+],
 "meetingNumber": "LEC0301"
 }
 ],
@@ -1495,7 +1510,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Consumer Behaviour"
 }

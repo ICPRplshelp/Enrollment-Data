@@ -229,13 +229,26 @@
 42,
 42,
 42,
-42
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Claire, Carver-Dias"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Claire",
+"Carver-Dias"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -465,13 +478,26 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Claire, Carver-Dias"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Claire",
+"Carver-Dias"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -695,7 +721,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Presentation Skills for Management"
 }

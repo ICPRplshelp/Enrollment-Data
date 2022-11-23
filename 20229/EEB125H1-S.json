@@ -364,7 +364,8 @@
 71,
 71,
 70,
-70
+70,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,17 +376,29 @@
 "Paul, Gries"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Tomomi, Parins-Fukuchi",
+"David, Liu",
+"Samantha-Jo, Caetano"
+],
+"timing": 1669247684
 }
 ]
 },
 "instructors": [
 [
-"Caroline",
+"Tomomi",
 "Parins-Fukuchi"
 ],
 [
-"Paul",
-"Gries"
+"David",
+"Liu"
+],
+[
+"Samantha-Jo",
+"Caetano"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -746,7 +759,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Introductory Computation and Data Science for the Life and Physical Sciences"
 }

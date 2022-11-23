@@ -229,7 +229,8 @@
 50,
 50,
 50,
-51
+51,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,7 +478,8 @@
 55,
 55,
 54,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -725,13 +727,26 @@
 51,
 51,
 52,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Thomas"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Peter",
+"Thomas"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -961,13 +976,26 @@
 39,
 39,
 39,
+39,
 39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Thomas"
+],
+"timing": 1669247684
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Peter",
+"Thomas"
+]
+],
 "meetingNumber": "LEC0104"
 }
 ],
@@ -1191,7 +1219,8 @@
 1668878127,
 1668974295,
 1669073490,
-1669175259
+1669175259,
+1669247684
 ],
 "title": "Financial Planning for Individuals"
 }
