@@ -230,13 +230,26 @@
 137,
 134,
 134,
-134
+134,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marc, De Benedetti"
+],
+"timing": 1669310721
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marc",
+"De Benedetti"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -247,6 +260,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -704,7 +718,8 @@
 196,
 193,
 192,
-191
+191,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -733,6 +748,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1190,7 +1206,8 @@
 143,
 141,
 142,
-140
+140,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1433,7 +1450,8 @@
 1668974295,
 1669073490,
 1669175259,
-1669247684
+1669247684,
+1669310721
 ],
 "title": "Integral Calculus for Life Sciences"
 }

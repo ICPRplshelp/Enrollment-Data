@@ -365,6 +365,7 @@
 15,
 15,
 15,
+17,
 17
 ],
 "instructorLog": {
@@ -376,6 +377,14 @@
 "Evelyn, Lambe"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Patricia, Brubaker",
+"Evelyn, Lambe",
+"Steffen-Sebastian, Bolz"
+],
+"timing": 1669310721
 }
 ]
 },
@@ -387,6 +396,10 @@
 [
 "Evelyn",
 "Lambe"
+],
+[
+"Steffen-Sebastian",
+"Bolz"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -748,7 +761,8 @@
 1668974295,
 1669073490,
 1669175259,
-1669247684
+1669247684,
+1669310721
 ],
 "title": "Topics in Cellular, Molecular and Organismic Physiology II"
 }

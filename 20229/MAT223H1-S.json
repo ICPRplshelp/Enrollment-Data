@@ -365,6 +365,7 @@
 195,
 196,
 193,
+197,
 197
 ],
 "instructorLog": {
@@ -749,6 +750,7 @@
 223,
 223,
 223,
+225,
 225
 ],
 "instructorLog": {
@@ -1133,6 +1135,7 @@
 190,
 189,
 192,
+193,
 193
 ],
 "instructorLog": {
@@ -1510,6 +1513,7 @@
 195,
 193,
 193,
+195,
 195,
 195,
 195,
@@ -1901,13 +1905,26 @@
 1,
 6,
 8,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Piper, Harron"
+],
+"timing": 1669310721
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Piper",
+"Harron"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -2273,6 +2290,7 @@
 164,
 164,
 165,
+166,
 166
 ],
 "instructorLog": {
@@ -2651,7 +2669,8 @@
 1668974295,
 1669073490,
 1669175259,
-1669247684
+1669247684,
+1669310721
 ],
 "title": "Linear Algebra I"
 }
