@@ -371,7 +371,8 @@
 721,
 722,
 730,
-729
+729,
+727
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -405,12 +406,16 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 310,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668658773,
 310
+],
+[
+1669351662,
+325
 ]
 ],
 "initialCap": 265
@@ -772,6 +777,7 @@
 310,
 313,
 316,
+316,
 316
 ],
 "instructorLog": {
@@ -1062,6 +1068,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -1558,7 +1565,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Introduction to Sociology II: Sociological Inquiries"
 }

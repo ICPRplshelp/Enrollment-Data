@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+85
+]
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -365,6 +370,7 @@
 86,
 86,
 85,
+84,
 84,
 84
 ],
@@ -745,7 +751,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Intermediate Quantitative Methods in Sociology"
 }

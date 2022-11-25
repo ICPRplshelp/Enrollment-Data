@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 45,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+23
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 55,
 53,
 53,
-52
+52,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -254,9 +260,14 @@
 },
 {
 "createdAt": 1660867317,
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+30
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -481,7 +492,8 @@
 0,
 0,
 0,
-0
+0,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -725,7 +737,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Creative Writing: Prose"
 }

@@ -231,6 +231,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -481,13 +482,26 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shahrzad, Mirzaei"
+],
+"timing": 1669351662
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shahrzad",
+"Mirzaei"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
@@ -719,13 +733,26 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Caroline, Mekhaeil"
+],
+"timing": 1669351662
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Caroline",
+"Mekhaeil"
+]
+],
 "meetingNumber": "LEC03"
 }
 ],
@@ -951,7 +978,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Language Practice IV"
 }

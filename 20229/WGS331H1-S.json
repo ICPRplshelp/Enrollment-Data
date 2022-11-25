@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+65
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -366,6 +371,7 @@
 63,
 64,
 64,
+63,
 63
 ],
 "instructorLog": {
@@ -745,7 +751,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Special Topic in Women and Gender Studies"
 }

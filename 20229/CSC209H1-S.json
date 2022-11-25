@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -366,7 +371,8 @@
 193,
 193,
 193,
-192
+192,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -389,9 +395,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 230,
+"enrollmentCap": 234,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+234
+]
+],
 "initialCap": 230
 },
 "enrollmentLogs": [
@@ -751,7 +762,8 @@
 282,
 282,
 282,
-281
+281,
+276
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -774,9 +786,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 230,
+"enrollmentCap": 234,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+234
+]
+],
 "initialCap": 230
 },
 "enrollmentLogs": [
@@ -1136,7 +1153,8 @@
 280,
 280,
 280,
-279
+279,
+278
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1159,9 +1177,14 @@
 },
 {
 "createdAt": 1656647697,
-"enrollmentCap": 136,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+140
+]
+],
 "initialCap": 136
 },
 "enrollmentLogs": [
@@ -1521,7 +1544,8 @@
 199,
 198,
 198,
-198
+198,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1900,7 +1924,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Software Tools and Systems Programming"
 }

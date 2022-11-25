@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+150
+]
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -365,6 +370,7 @@
 146,
 145,
 145,
+146,
 146,
 146
 ],
@@ -745,7 +751,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Contemporary Sociological Theory"
 }

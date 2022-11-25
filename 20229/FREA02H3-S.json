@@ -236,6 +236,7 @@
 24,
 24,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -485,6 +486,7 @@
 20,
 20,
 20,
+21,
 21,
 21
 ],
@@ -736,13 +738,26 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Omar, Gamboa Gonzalez"
+],
+"timing": 1669351662
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Omar",
+"Gamboa Gonzalez"
+]
+],
 "meetingNumber": "LEC03"
 },
 {
@@ -753,6 +768,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1206,7 +1222,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Language Practice II"
 }

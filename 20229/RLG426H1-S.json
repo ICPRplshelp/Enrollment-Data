@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": 15,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669351662,
+18
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -366,6 +371,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -745,7 +751,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669351662
 ],
 "title": "Religion in the Public Sphere: Community-Engaged Learning"
 }
