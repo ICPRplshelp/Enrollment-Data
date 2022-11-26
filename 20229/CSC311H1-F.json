@@ -1,6 +1,6 @@
 {
 "code": "CSC311H1-F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1656647689,
@@ -366,6 +366,7 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructorLog": {
@@ -379,7 +380,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Rahul",
+"Gopalkrishnan"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -746,6 +752,7 @@
 109,
 108,
 108,
+108,
 108
 ],
 "instructorLog": {
@@ -759,7 +766,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Xi (Alice)",
+"Gao"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -1126,6 +1138,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -1139,7 +1152,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Rahul",
+"Gopalkrishnan"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -1500,7 +1518,8 @@
 1669073490,
 1669175259,
 1669247684,
-1669310721
+1669310721,
+1669423876
 ],
 "title": "Introduction to Machine Learning"
 }

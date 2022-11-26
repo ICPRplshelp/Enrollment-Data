@@ -367,13 +367,26 @@
 19,
 19,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Samar, Abdelgalil"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Samar",
+"Abdelgalil"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -735,7 +748,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Modern Arab History"
 }

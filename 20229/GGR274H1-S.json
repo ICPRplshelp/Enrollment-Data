@@ -367,6 +367,7 @@
 85,
 86,
 85,
+85,
 85
 ],
 "instructorLog": {
@@ -378,6 +379,14 @@
 "Nathan, Taback"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Michael, Widener",
+"Nathan, Taback",
+"David, Liu"
+],
+"timing": 1669423876
 }
 ]
 },
@@ -389,6 +398,10 @@
 [
 "Nathan",
 "Taback"
+],
+[
+"David",
+"Liu"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -752,7 +765,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Introductory Computation and Data Science for the Social Sciences"
 }

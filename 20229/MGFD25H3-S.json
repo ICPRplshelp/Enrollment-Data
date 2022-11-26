@@ -232,13 +232,26 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bill, Chau"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bill",
+"Chau"
+]
+],
 "meetingNumber": "LEC30"
 },
 {
@@ -471,13 +484,26 @@
 37,
 36,
 36,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bill, Chau"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bill",
+"Chau"
+]
+],
 "meetingNumber": "LEC31"
 }
 ],
@@ -704,7 +730,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Financial Technologies and Applications (FinTech)"
 }

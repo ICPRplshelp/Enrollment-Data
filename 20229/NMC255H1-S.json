@@ -367,13 +367,26 @@
 14,
 14,
 14,
-13
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ghassan, Osmat"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ghassan",
+"Osmat"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -735,7 +748,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Love, Battle, and Wit: Classics of Premodern Arabic Literature"
 }

@@ -232,13 +232,26 @@
 20,
 20,
 20,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maanit, Zemel"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maanit",
+"Zemel"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -465,7 +478,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Introduction to International Business Law"
 }

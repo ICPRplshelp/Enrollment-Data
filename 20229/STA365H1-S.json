@@ -367,13 +367,26 @@
 142,
 141,
 141,
+142,
 142
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Boris, Babic"
+],
+"timing": 1669423876
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Boris",
+"Babic"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -735,7 +748,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Applied Bayesian Statistics"
 }

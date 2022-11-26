@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669423876,
+40
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 37,
 37,
 37,
-37
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,7 +483,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Current Issues in Health II: Synergies Among Science, Policy, and Action"
 }

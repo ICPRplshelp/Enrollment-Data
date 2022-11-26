@@ -1,13 +1,13 @@
 {
 "code": "ANT486H1-S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1656647697,
-"enrollmentCap": -1,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
 "capChanges": [],
-"initialCap": -1
+"initialCap": 12
 },
 "enrollmentLogs": [
 0,
@@ -145,7 +145,8 @@
 9,
 9,
 9,
--2
+-2,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -291,7 +292,8 @@
 1660783727,
 1660785906,
 1660809521,
-1660844142
+1660844142,
+1669423876
 ],
 "title": "Special Topics: Socio-Cultural Research Seminar"
 }

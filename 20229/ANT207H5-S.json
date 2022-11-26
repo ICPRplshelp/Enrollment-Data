@@ -232,6 +232,7 @@
 121,
 121,
 121,
+122,
 122
 ],
 "instructorLog": {
@@ -242,13 +243,19 @@
 "V, Sheldon"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Victor, Barac"
+],
+"timing": 1669423876
 }
 ]
 },
 "instructors": [
 [
-"V",
-"Sheldon"
+"Victor",
+"Barac"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -477,7 +484,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Being Human: Classic Thought on Self and Society"
 }

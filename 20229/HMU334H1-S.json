@@ -4,12 +4,16 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 33,
+"enrollmentCap": 34,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1663094064,
 33
+],
+[
+1669423876,
+34
 ]
 ],
 "initialCap": 32
@@ -237,7 +241,8 @@
 33,
 33,
 33,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -482,7 +487,8 @@
 1669175259,
 1669247684,
 1669310721,
-1669351662
+1669351662,
+1669423876
 ],
 "title": "Music and Disability"
 }
