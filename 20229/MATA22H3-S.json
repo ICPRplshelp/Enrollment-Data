@@ -236,13 +236,26 @@
 207,
 207,
 207,
-207
+207,
+206
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Calderon Wilches"
+],
+"timing": 1669687221
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daniel",
+"Calderon Wilches"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -479,7 +492,8 @@
 321,
 321,
 321,
-321
+321,
+324
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -728,6 +742,7 @@
 206,
 206,
 208,
+207,
 207,
 207,
 207,
@@ -983,7 +998,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Linear Algebra I for Mathematical Sciences"
 }

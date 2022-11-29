@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669687221,
+80
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 71,
 72,
 71,
+70,
 70,
 70,
 70,
@@ -485,7 +491,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Issues in Political Philosophy"
 }

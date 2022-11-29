@@ -4,9 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647691,
-"enrollmentCap": 15,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669687221,
+12
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -115,6 +120,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -755,7 +761,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Intermediate Akkadian"
 }

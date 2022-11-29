@@ -236,6 +236,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -250,10 +251,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669175259
+},
+{
+"instructorsAfter": [
+"Andrew, Ilersich"
+],
+"timing": 1669687221
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Andrew",
+"Ilersich"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -484,7 +496,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "INTRO TO LEARNING FROM DATA"
 }

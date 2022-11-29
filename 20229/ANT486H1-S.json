@@ -149,13 +149,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Edward, Sammons"
+],
+"timing": 1669687220
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Edward",
+"Sammons"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -299,7 +312,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687220
 ],
 "title": "Special Topics: Socio-Cultural Research Seminar"
 }

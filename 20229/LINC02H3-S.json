@@ -236,13 +236,26 @@
 46,
 46,
 46,
-46
+46,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joanna, Chociej"
+],
+"timing": 1669687221
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joanna",
+"Chociej"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -473,7 +486,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Phonology II"
 }

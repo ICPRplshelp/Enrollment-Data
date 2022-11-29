@@ -236,13 +236,26 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Seyed Masih, Alavy Ghahfarrokhy"
+],
+"timing": 1669687221
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Seyed Masih",
+"Alavy Ghahfarrokhy"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -473,7 +486,8 @@
 1669423876,
 1669483270,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Sustainable Buildings"
 }

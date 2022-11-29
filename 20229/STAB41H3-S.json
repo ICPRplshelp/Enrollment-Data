@@ -236,13 +236,26 @@
 42,
 42,
 42,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jenny, Gao"
+],
+"timing": 1669687221
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jenny",
+"Gao"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -473,7 +486,8 @@
 1669423876,
 1669483271,
 1669524954,
-1669568275
+1669568275,
+1669687221
 ],
 "title": "Financial Derivatives"
 }
