@@ -240,13 +240,26 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ponniah, Vivekanandan"
+],
+"timing": 1669739034
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ponniah",
+"Vivekanandan"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -480,7 +493,8 @@
 1669568275,
 1669687221,
 1669690962,
-1669705737
+1669705737,
+1669739034
 ],
 "title": "Introductory Tamil II"
 }

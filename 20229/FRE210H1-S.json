@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669739034,
+72
+]
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -375,7 +380,8 @@
 57,
 58,
 58,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -762,7 +768,8 @@
 1669568275,
 1669687221,
 1669690962,
-1669705737
+1669705737,
+1669739034
 ],
 "title": "Introduction to Qu\u00e9bec Literature and Culture"
 }

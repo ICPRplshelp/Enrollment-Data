@@ -375,13 +375,26 @@
 17,
 17,
 17,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shane, Lynn"
+],
+"timing": 1669739034
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shane",
+"Lynn"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -750,7 +763,8 @@
 1669568275,
 1669687221,
 1669690962,
-1669705737
+1669705737,
+1669739034
 ],
 "title": "Ireland Since the Famine"
 }

@@ -240,13 +240,26 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carley, Chavara"
+],
+"timing": 1669739034
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Carley",
+"Chavara"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -480,7 +493,8 @@
 1669568275,
 1669687221,
 1669690962,
-1669705737
+1669705737,
+1669739034
 ],
 "title": "Global Environmental and Sustainability Politics"
 }

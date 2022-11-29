@@ -375,13 +375,26 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Gibbard"
+],
+"timing": 1669739034
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mark",
+"Gibbard"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -750,7 +763,8 @@
 1669568275,
 1669687221,
 1669690962,
-1669705737
+1669705737,
+1669739034
 ],
 "title": "The Celtic Nations in the Later Middle Ages 1000-1550"
 }
