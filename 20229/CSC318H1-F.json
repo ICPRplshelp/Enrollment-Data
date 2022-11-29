@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -745,6 +748,7 @@
 114,
 114,
 114,
+112,
 112,
 112,
 112,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "The Design of Interactive Computational Media"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -366,6 +367,7 @@
 54,
 54,
 54,
+53,
 53,
 53,
 53,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 41,
 41,
 41,
+40,
 40,
 40
 ],
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in International Politics"
 }

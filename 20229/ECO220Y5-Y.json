@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 115,
 115,
 113,
+113,
 113
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -500,6 +503,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -528,6 +532,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -762,6 +767,7 @@
 115,
 115,
 114,
+114,
 114
 ],
 "instructorLog": {
@@ -790,6 +796,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -932,6 +939,7 @@
 119,
 119,
 119,
+118,
 118,
 118,
 118,
@@ -1280,7 +1288,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

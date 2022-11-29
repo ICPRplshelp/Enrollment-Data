@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -237,6 +238,7 @@
 98,
 98,
 98,
+102,
 102,
 102
 ],
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 100,
 100,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -518,12 +522,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 85
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -991,7 +997,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Effective Writing"
 }

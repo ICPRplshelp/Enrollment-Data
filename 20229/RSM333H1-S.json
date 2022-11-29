@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -776,6 +780,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1145,6 +1150,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -1168,6 +1174,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 54,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1537,6 +1544,7 @@
 56,
 56,
 57,
+57,
 57
 ],
 "instructorLog": {
@@ -1560,6 +1568,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1929,6 +1938,7 @@
 66,
 66,
 66,
+66,
 66
 ],
 "instructorLog": {
@@ -1952,6 +1962,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2321,6 +2332,7 @@
 62,
 62,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -2344,6 +2356,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2668,6 +2681,7 @@
 58,
 58,
 58,
+57,
 57,
 57,
 57,
@@ -2736,6 +2750,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3105,6 +3120,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -3128,6 +3144,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3497,6 +3514,7 @@
 57,
 57,
 56,
+56,
 56
 ],
 "instructorLog": {
@@ -3520,6 +3538,7 @@
 },
 {
 "createdAt": 1666890947,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3879,6 +3898,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -4263,7 +4283,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Corporate Finance"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 132,
 132,
 132,
+132,
 132
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "SYNIF",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -495,6 +498,7 @@
 120,
 120,
 120,
+119,
 119,
 119,
 119,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Syntax I"
 }

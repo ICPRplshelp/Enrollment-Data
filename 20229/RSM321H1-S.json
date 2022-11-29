@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 20,
 20,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +767,7 @@
 61,
 61,
 61,
+60,
 60,
 60
 ],
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Financial Accounting Topics"
 }

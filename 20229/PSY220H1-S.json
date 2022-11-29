@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "SYNC",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 252,
 252,
 252,
+252,
 252
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +767,7 @@
 220,
 220,
 220,
+222,
 222,
 222
 ],
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Social Psychology"
 }

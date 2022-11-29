@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "SYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -332,6 +333,7 @@
 22,
 22,
 22,
+21,
 21,
 21,
 21,
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -770,6 +773,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1122,6 +1127,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -1190,6 +1196,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1559,6 +1566,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -1587,6 +1595,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1956,6 +1965,7 @@
 20,
 20,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -1984,6 +1994,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2262,6 +2273,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -2381,6 +2393,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2750,6 +2763,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -2773,6 +2787,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "SYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3101,6 +3116,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -3533,7 +3549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to German"
 }

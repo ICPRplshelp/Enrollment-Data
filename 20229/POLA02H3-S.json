@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 207,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 181,
 181,
 180,
+180,
 180
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 207,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 135,
 135,
 135,
+136,
 136,
 136
 ],
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Critical Issues in Politics II"
 }

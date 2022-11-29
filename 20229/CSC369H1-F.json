@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 107,
 107,
 107,
+107,
 107
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -548,6 +551,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -900,6 +904,7 @@
 123,
 123,
 123,
+120,
 120,
 120,
 120,
@@ -1303,7 +1308,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Operating Systems"
 }

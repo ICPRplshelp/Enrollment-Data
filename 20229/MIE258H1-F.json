@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 222,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 220,
 220,
 220,
+220,
 220
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 170,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 125,
 125,
 125,
+124,
 124,
 124,
 124,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Engineering Economics and Accounting"
 }

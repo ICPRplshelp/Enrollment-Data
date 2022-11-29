@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 54,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 64,
 64,
 65,
+65,
 65
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1666890947,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1157,6 +1162,7 @@
 28,
 28,
 28,
+29,
 29,
 29,
 29,
@@ -1548,7 +1554,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Fixed Income Securities"
 }

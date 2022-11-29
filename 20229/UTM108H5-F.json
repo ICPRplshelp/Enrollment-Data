@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -338,6 +341,7 @@
 21,
 21,
 21,
+22,
 22,
 22,
 22,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "utmONE: Special Topics at the Intersection of Science and Social Science"
 }

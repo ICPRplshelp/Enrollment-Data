@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 19,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -225,6 +226,7 @@
 20,
 20,
 20,
+21,
 21,
 21,
 21,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 19,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -462,6 +465,7 @@
 0,
 0,
 0,
+21,
 21,
 21,
 21,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 19,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -719,6 +724,7 @@
 0,
 0,
 0,
+20,
 20,
 20,
 20,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Architecture Studio IV"
 }

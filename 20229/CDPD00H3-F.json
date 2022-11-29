@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "ASYNC",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -127,6 +128,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -477,7 +479,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Combined Degree Program Graduate Crs 1"
 }

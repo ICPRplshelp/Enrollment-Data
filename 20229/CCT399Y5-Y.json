@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+5,
 5,
 5,
 5,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -268,6 +271,7 @@
 },
 "enrollmentLogs": [
 0,
+5,
 5,
 5,
 5,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "ASYNC",
 "enrollmentCap": 6,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -525,6 +530,7 @@
 },
 "enrollmentLogs": [
 0,
+6,
 6,
 6,
 6,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Research Opportunity Program (ROP)"
 }

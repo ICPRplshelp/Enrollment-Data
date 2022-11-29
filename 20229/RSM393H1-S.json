@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -366,6 +367,7 @@
 38,
 37,
 37,
+38,
 38,
 38,
 38,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -757,6 +760,7 @@
 41,
 41,
 42,
+41,
 41,
 41,
 41,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Strategic Case Analysis"
 }

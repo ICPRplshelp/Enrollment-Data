@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 92,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructorLog": {
@@ -396,12 +398,14 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 8,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 8
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Evolution and Adaptation"
 }

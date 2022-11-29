@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 149,
 149,
 148,
+148,
 148
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 155,
 155,
 154,
+154,
 154
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 143,
 143,
 143,
+143,
 143
 ],
 "instructorLog": {
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -999,6 +1006,7 @@
 147,
 147,
 147,
+146,
 146,
 146,
 146,
@@ -1032,6 +1040,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1266,6 +1275,7 @@
 141,
 141,
 142,
+142,
 142
 ],
 "instructorLog": {
@@ -1289,6 +1299,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1523,6 +1534,7 @@
 142,
 142,
 141,
+141,
 141
 ],
 "instructorLog": {
@@ -1546,6 +1558,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1780,6 +1793,7 @@
 142,
 142,
 142,
+142,
 142
 ],
 "instructorLog": {
@@ -1803,12 +1817,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2048,12 +2064,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2293,6 +2311,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2527,6 +2546,7 @@
 147,
 147,
 147,
+147,
 147
 ],
 "instructorLog": {
@@ -2538,12 +2558,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2783,6 +2805,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3016,6 +3039,7 @@
 139,
 139,
 139,
+138,
 138,
 138
 ],
@@ -3268,7 +3292,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Integral Calculus"
 }

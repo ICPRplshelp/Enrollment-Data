@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 291,
 291,
 291,
+291,
 291
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 298,
 298,
 298,
+298,
 298
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1138,6 +1143,7 @@
 254,
 254,
 253,
+252,
 252,
 252,
 252,
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Management"
 }

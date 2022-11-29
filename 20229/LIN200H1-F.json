@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "SYNIF",
 "enrollmentCap": 285,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 233,
 233,
 233,
+233,
 233
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "SYNIF",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 29,
 29,
 29,
+28,
 28,
 28,
 28,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Language"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 88,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 87,
 87,
 88,
+88,
 88
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 84,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -770,6 +773,7 @@
 77,
 77,
 77,
+77,
 77
 ],
 "instructorLog": {
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 12,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1162,6 +1167,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -1185,6 +1191,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 13,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1554,6 +1561,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -1577,6 +1585,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 12,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1946,6 +1955,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -1969,6 +1979,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 13,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2338,6 +2349,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -2361,6 +2373,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -2735,6 +2748,7 @@
 76,
 76,
 77,
+77,
 77
 ],
 "instructorLog": {
@@ -2758,6 +2772,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 62,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -3131,6 +3146,7 @@
 58,
 58,
 58,
+57,
 57,
 57
 ],
@@ -3518,7 +3534,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Neural Networks and Deep Learning"
 }

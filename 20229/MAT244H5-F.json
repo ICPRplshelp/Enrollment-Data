@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -249,6 +251,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -466,6 +469,7 @@
 115,
 115,
 115,
+112,
 112,
 112,
 112,
@@ -734,7 +738,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Differential Equations I"
 }

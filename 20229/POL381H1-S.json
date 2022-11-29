@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -162,6 +163,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -521,6 +523,7 @@
 38,
 38,
 38,
+39,
 39,
 39,
 39,
@@ -554,6 +557,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -922,6 +926,7 @@
 28,
 28,
 28,
+27,
 27,
 27
 ],
@@ -1309,7 +1314,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in Political Theory"
 }

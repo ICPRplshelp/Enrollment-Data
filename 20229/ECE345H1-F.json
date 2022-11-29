@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -223,6 +224,7 @@
 97,
 96,
 96,
+95,
 95,
 95,
 95,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 99,
 98,
 98,
+97,
 97,
 97,
 97,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -732,6 +737,7 @@
 99,
 99,
 99,
+97,
 97,
 97,
 97,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Algorithms and Data Structures"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 337,
 337,
 337,
+337,
 337
 ],
 "instructorLog": {
@@ -276,6 +278,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -510,6 +513,7 @@
 480,
 480,
 480,
+480,
 480
 ],
 "instructorLog": {
@@ -548,6 +552,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "ASYIF",
 "enrollmentCap": 248,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -772,6 +777,7 @@
 203,
 203,
 203,
+201,
 201,
 201,
 201,
@@ -1048,7 +1054,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Life on Earth: Unifying Principles"
 }

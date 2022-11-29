@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "ASYNC",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 333,
 333,
 333,
+333,
 333
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "ASYNC",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -480,6 +483,7 @@
 336,
 336,
 336,
+335,
 335,
 335,
 335,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "English Grammar I"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 83,
 83,
 84,
+84,
 84
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -489,6 +492,7 @@
 78,
 79,
 79,
+78,
 78,
 78,
 78,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Price Theory: A Mathematical Approach"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 180,
 180,
 180,
+180,
 180
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 183,
 183,
 183,
+183,
 183
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 179,
 179,
 179,
+179,
 179
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 179,
 179,
 179,
+179,
 179
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1941,6 +1950,7 @@
 184,
 184,
 184,
+184,
 184
 ],
 "instructorLog": {
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2333,6 +2344,7 @@
 179,
 179,
 179,
+179,
 179
 ],
 "instructorLog": {
@@ -2356,6 +2368,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2725,6 +2738,7 @@
 177,
 177,
 177,
+177,
 177
 ],
 "instructorLog": {
@@ -2748,6 +2762,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3104,6 +3119,7 @@
 172,
 172,
 172,
+171,
 171,
 171,
 171,
@@ -3503,7 +3519,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Linear Algebra I"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 128,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -233,6 +234,7 @@
 103,
 103,
 103,
+102,
 102,
 102,
 102,
@@ -267,6 +269,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 128,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -501,6 +504,7 @@
 103,
 103,
 103,
+103,
 103
 ],
 "instructorLog": {
@@ -530,6 +534,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 149,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +769,7 @@
 137,
 137,
 136,
+136,
 136
 ],
 "instructorLog": {
@@ -787,6 +793,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 123,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1012,6 +1019,7 @@
 93,
 93,
 93,
+92,
 92,
 92,
 92,
@@ -1272,7 +1280,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Computer Fundamentals"
 }

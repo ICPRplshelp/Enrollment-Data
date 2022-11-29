@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "SYNIF",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 21,
 21,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -665,6 +668,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1114,6 +1119,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -1548,7 +1554,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Spanish"
 }

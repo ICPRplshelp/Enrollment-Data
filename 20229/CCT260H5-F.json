@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -205,6 +206,7 @@
 0,
 0,
 0,
+34,
 34,
 34,
 34,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -476,6 +479,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -719,6 +724,7 @@
 0,
 0,
 0,
+36,
 36,
 36,
 36,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Web Culture and Design"
 }

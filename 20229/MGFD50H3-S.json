@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 44,
 44,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -667,7 +670,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Mergers and Acquisitions: Theory and Practice"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -228,6 +229,7 @@
 27,
 27,
 27,
+28,
 28,
 28,
 28,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -460,6 +463,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -518,12 +522,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -763,6 +769,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -996,6 +1003,7 @@
 19,
 19,
 19,
+20,
 20,
 20
 ],
@@ -1248,7 +1256,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Management Communications for non Co-op"
 }

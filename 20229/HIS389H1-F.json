@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -332,6 +333,7 @@
 10,
 10,
 10,
+9,
 9,
 9,
 9,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -694,6 +697,7 @@
 16,
 16,
 16,
+15,
 15,
 15,
 15,
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -940,6 +945,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1309,6 +1315,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -1332,6 +1339,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1612,6 +1620,7 @@
 24,
 24,
 24,
+22,
 22,
 22,
 22,
@@ -2087,7 +2096,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in History"
 }

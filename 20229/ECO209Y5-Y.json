@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 126,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 124,
 124,
 124,
+124,
 124
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -480,6 +483,7 @@
 62,
 62,
 62,
+61,
 61,
 61,
 61,
@@ -751,7 +755,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Macroeconomic Theory and Policy (for Commerce)"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -15,6 +16,7 @@
 "initialCap": 35
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -752,7 +754,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Vocal and Instrumental Ensembles II"
 }

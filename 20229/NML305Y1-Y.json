@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1662676072,
+"delivery": "SYNC",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -42,6 +43,7 @@
 3,
 3,
 3,
+4,
 4,
 4,
 4,
@@ -319,7 +321,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Akkadian"
 }

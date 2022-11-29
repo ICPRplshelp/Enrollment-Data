@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -363,6 +364,7 @@
 300,
 300,
 300,
+299,
 299,
 299,
 299,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 303,
 303,
 304,
+304,
 304
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1152,6 +1157,7 @@
 252,
 252,
 252,
+253,
 253,
 253,
 253,
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Financial Markets"
 }

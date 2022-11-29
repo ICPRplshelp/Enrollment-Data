@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -242,6 +243,7 @@
 98,
 98,
 98,
+102,
 102,
 102
 ],
@@ -494,7 +496,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Discrete Mathematics"
 }

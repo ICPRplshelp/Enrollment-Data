@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 29,
 29,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -504,6 +507,7 @@
 24,
 24,
 24,
+26,
 26,
 26
 ],
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Creative Writing: Prose"
 }

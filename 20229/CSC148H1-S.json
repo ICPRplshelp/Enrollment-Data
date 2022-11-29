@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 294,
 294,
 295,
+295,
 295
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNIF",
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 284,
 284,
 282,
+282,
 282
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 276,
 276,
 277,
+277,
 277
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 268,
 268,
 267,
+267,
 267
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1941,6 +1950,7 @@
 320,
 320,
 319,
+319,
 319
 ],
 "instructorLog": {
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2333,6 +2344,7 @@
 308,
 308,
 310,
+310,
 310
 ],
 "instructorLog": {
@@ -2356,6 +2368,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 193,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2724,6 +2737,7 @@
 267,
 267,
 267,
+266,
 266,
 266
 ],
@@ -3111,7 +3125,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Computer Science"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -748,6 +751,7 @@
 40,
 40,
 40,
+39,
 39,
 39,
 39,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Special Topics in Economics"
 }

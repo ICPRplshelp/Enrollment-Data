@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -275,6 +276,7 @@
 65,
 65,
 65,
+63,
 63,
 63
 ],
@@ -299,6 +301,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -570,6 +573,7 @@
 65,
 65,
 65,
+64,
 64,
 64
 ],
@@ -860,7 +864,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Cognitive Neuroscience"
 }

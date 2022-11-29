@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "ASYNC",
 "enrollmentCap": 163,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -373,6 +374,7 @@
 148,
 147,
 147,
+146,
 146,
 146,
 146,
@@ -776,7 +778,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Biohacking Breath"
 }

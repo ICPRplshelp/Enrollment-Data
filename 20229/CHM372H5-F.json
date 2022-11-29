@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -462,6 +465,7 @@
 0,
 0,
 0,
+29,
 29,
 29,
 29,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -719,6 +724,7 @@
 0,
 0,
 0,
+14,
 14,
 14,
 14,
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -976,6 +983,7 @@
 0,
 0,
 0,
+15,
 15,
 15,
 15,
@@ -1032,6 +1040,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1256,6 +1265,7 @@
 28,
 28,
 28,
+27,
 27,
 27,
 27,
@@ -1517,7 +1527,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Techniques in Biological Chemistry I"
 }

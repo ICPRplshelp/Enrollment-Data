@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 152,
 152,
 152,
+152,
 152
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 113,
 113,
 112,
+112,
 112
 ],
 "instructorLog": {
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1000,6 +1007,7 @@
 80,
 80,
 74,
+72,
 72,
 72,
 72,
@@ -1260,7 +1268,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus I for Mathematical Sciences"
 }

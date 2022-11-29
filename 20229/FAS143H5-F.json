@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Drawing I"
 }

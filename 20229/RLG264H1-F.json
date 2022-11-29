@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -240,6 +241,7 @@
 2,
 2,
 2,
+1,
 1,
 1,
 1,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -730,6 +733,7 @@
 7,
 7,
 7,
+6,
 6,
 6,
 6,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Pali I"
 }

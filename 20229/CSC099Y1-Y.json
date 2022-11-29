@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -197,6 +198,7 @@
 28,
 28,
 28,
+29,
 29,
 29,
 29,
@@ -249,6 +251,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -307,6 +310,7 @@
 39,
 39,
 39,
+37,
 37,
 37,
 37,
@@ -722,7 +726,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "First-Year Learning Community"
 }

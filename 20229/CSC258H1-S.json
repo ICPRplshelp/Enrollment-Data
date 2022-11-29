@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 149,
 149,
 150,
+150,
 150
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -775,6 +778,7 @@
 148,
 148,
 145,
+145,
 145
 ],
 "instructorLog": {
@@ -798,6 +802,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1171,6 +1176,7 @@
 86,
 86,
 86,
+87,
 87,
 87
 ],
@@ -1558,7 +1564,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Computer Organization"
 }

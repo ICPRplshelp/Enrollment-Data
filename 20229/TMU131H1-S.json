@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 32,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 33,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 13,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 33,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1009,6 +1016,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -1032,6 +1040,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 34,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1266,6 +1275,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -1289,12 +1299,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 13,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 13
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1774,7 +1786,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Music Theory II"
 }

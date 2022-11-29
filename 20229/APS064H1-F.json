@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1669687220,
+"delivery": "SYNC",
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+27,
 27,
 27
 ],
@@ -25,7 +27,8 @@
 "timeIntervals": [
 1669687219,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Chemistry from a Materials Perspective (APS164 Transfer)"
 }

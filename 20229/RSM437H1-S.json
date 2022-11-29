@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 62,
 62,
 63,
+63,
 63
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +767,7 @@
 57,
 57,
 57,
+60,
 60,
 60
 ],
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 57,
 57,
 57,
+58,
 58,
 58
 ],
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1548,6 +1555,7 @@
 57,
 57,
 57,
+56,
 56,
 56
 ],
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1940,6 +1949,7 @@
 59,
 59,
 59,
+60,
 60,
 60
 ],
@@ -2327,7 +2337,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "International Finance"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 202,
 202,
 195,
+195,
 195
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 273,
 273,
 270,
+270,
 270
 ],
 "instructorLog": {
@@ -518,12 +522,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 300
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -763,6 +769,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -997,6 +1004,7 @@
 334,
 334,
 338,
+338,
 338
 ],
 "instructorLog": {
@@ -1020,6 +1028,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1253,6 +1262,7 @@
 330,
 330,
 330,
+332,
 332,
 332
 ],
@@ -1505,7 +1515,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Principles of Macroeconomics"
 }

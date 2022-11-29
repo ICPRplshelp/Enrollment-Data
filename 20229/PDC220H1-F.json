@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -406,6 +408,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -775,6 +778,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -808,6 +812,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1177,6 +1182,7 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -1210,6 +1216,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1533,6 +1540,7 @@
 210,
 210,
 210,
+211,
 211,
 211,
 211,
@@ -1975,7 +1983,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Arts & Science Internship Program - Maximizing Your Experience"
 }

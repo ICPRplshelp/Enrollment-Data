@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 65,
 65,
 65,
+65,
 65
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 66,
 66,
 66,
+65,
 65,
 65
 ],
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1539,6 +1546,7 @@
 67,
 67,
 67,
+66,
 66,
 66,
 66,
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1936,6 +1945,7 @@
 68,
 68,
 68,
+67,
 67,
 67,
 67,
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 57,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2326,6 +2337,7 @@
 64,
 64,
 64,
+65,
 65,
 65,
 65,
@@ -2719,7 +2731,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Investments"
 }

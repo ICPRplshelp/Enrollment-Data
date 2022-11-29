@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -406,6 +408,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 68,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -780,6 +783,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -813,6 +817,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 82,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1187,6 +1192,7 @@
 51,
 51,
 51,
+51,
 51
 ],
 "instructorLog": {
@@ -1220,6 +1226,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNC",
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1588,6 +1595,7 @@
 191,
 191,
 191,
+190,
 190,
 190
 ],
@@ -1985,7 +1993,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -205,6 +206,7 @@
 0,
 0,
 0,
+20,
 20,
 20,
 20,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -462,6 +465,7 @@
 0,
 0,
 0,
+20,
 20,
 20,
 20,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1009,6 +1016,7 @@
 8,
 8,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -1032,6 +1040,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1253,6 +1262,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -1289,6 +1299,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1522,6 +1533,7 @@
 19,
 19,
 19,
+20,
 20,
 20
 ],
@@ -1774,7 +1786,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Musical Skills III"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 42,
 42,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -487,6 +490,7 @@
 22,
 23,
 23,
+24,
 24,
 24,
 24,
@@ -734,7 +738,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Social Media and Content Creation"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "ASYNC",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -256,6 +257,7 @@
 71,
 71,
 71,
+50,
 50,
 50,
 50,
@@ -759,7 +761,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Special Topics in Book & Media Cultures"
 }

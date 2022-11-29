@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -240,6 +241,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +755,7 @@
 10,
 10,
 10,
+9,
 9,
 9,
 9,
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1144,6 +1149,7 @@
 12,
 12,
 12,
+13,
 13,
 13,
 13,
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

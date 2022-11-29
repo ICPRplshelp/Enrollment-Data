@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 315,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 269,
 269,
 269,
+269,
 269
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -654,6 +657,7 @@
 8,
 8,
 8,
+7,
 7,
 7,
 7,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Multidisciplinary Perspectives on Environment"
 }

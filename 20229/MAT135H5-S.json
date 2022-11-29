@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 59,
 59,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 74,
 74,
 76,
+76,
 76
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 54,
 54,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -763,12 +769,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1236,7 +1244,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Differential Calculus"
 }

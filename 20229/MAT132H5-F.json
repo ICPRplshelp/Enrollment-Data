@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 129,
 129,
 128,
+128,
 128
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -757,6 +762,7 @@
 118,
 118,
 118,
+118,
 118
 ],
 "instructorLog": {
@@ -780,6 +786,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1014,6 +1021,7 @@
 126,
 126,
 126,
+126,
 126
 ],
 "instructorLog": {
@@ -1037,12 +1045,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1282,12 +1292,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1755,7 +1767,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Differential Calculus for Life Sciences"
 }

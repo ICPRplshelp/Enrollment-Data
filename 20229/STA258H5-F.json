@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 74,
 74,
 74,
+74,
 74
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -443,6 +446,7 @@
 61,
 61,
 61,
+59,
 59,
 59,
 59,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Statistics with Applied Probability"
 }

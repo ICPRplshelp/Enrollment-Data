@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -219,6 +220,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -481,6 +484,7 @@
 44,
 44,
 44,
+46,
 46,
 46,
 46,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Critical Thinking, Analysis and Decision Making I"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -237,6 +238,7 @@
 24,
 24,
 24,
+26,
 26,
 26
 ],
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 26,
 26,
 26,
+27,
 27,
 27
 ],
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -751,6 +756,7 @@
 25,
 25,
 25,
+27,
 27,
 27
 ],
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Current Topics in Human Brain and Behaviour"
 }

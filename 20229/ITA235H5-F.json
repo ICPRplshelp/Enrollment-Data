@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -186,6 +187,7 @@
 109,
 109,
 109,
+108,
 108,
 108,
 108,
@@ -494,7 +496,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Cucina Italiana: Italian History and Culture Through Food"
 }

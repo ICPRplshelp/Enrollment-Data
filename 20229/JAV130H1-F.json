@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -130,6 +131,7 @@
 10,
 10,
 10,
+9,
 9,
 9,
 9,
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -414,6 +417,7 @@
 11,
 11,
 11,
+10,
 10,
 10,
 10,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Visual Strategies"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -713,6 +716,7 @@
 6,
 6,
 6,
+7,
 7,
 7,
 7,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Bioenergy from Sustainable Forest Management"
 }

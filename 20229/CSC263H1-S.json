@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 174,
 174,
 173,
+173,
 173
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 183,
 183,
 183,
+183,
 183
 ],
 "instructorLog": {
@@ -776,6 +780,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1145,6 +1150,7 @@
 179,
 179,
 179,
+179,
 179
 ],
 "instructorLog": {
@@ -1168,6 +1174,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1536,6 +1543,7 @@
 174,
 174,
 174,
+173,
 173,
 173
 ],
@@ -1923,7 +1931,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Data Structures and Analysis"
 }

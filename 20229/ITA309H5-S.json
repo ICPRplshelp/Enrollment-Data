@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -237,6 +238,7 @@
 95,
 93,
 93,
+94,
 94,
 94,
 94,
@@ -494,7 +496,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Mafia Movies: Unraveling the Mob in Italian and North American Cinema"
 }

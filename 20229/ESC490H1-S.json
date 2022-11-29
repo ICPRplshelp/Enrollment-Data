@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 6,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -490,6 +493,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Engineering Science Independent Study"
 }

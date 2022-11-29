@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -406,6 +408,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -755,6 +758,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -808,6 +812,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1085,6 +1090,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -1210,6 +1216,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNC",
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1564,6 +1571,7 @@
 19,
 19,
 19,
+18,
 18,
 18,
 18,
@@ -1975,7 +1983,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Arts & Science Internship Program - Professional Skill Development II"
 }

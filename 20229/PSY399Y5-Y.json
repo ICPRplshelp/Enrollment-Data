@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+3,
 3,
 3,
 3,
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,6 +276,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -523,6 +527,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -530,6 +535,7 @@
 },
 "enrollmentLogs": [
 0,
+2,
 2,
 2,
 2,
@@ -780,6 +786,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -920,6 +927,7 @@
 3,
 3,
 3,
+4,
 4,
 4,
 4,
@@ -1037,6 +1045,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1044,6 +1053,7 @@
 },
 "enrollmentLogs": [
 0,
+3,
 3,
 3,
 3,
@@ -1294,6 +1304,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1301,6 +1312,7 @@
 },
 "enrollmentLogs": [
 0,
+11,
 11,
 11,
 11,
@@ -1556,6 +1568,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1563,6 +1576,7 @@
 },
 "enrollmentLogs": [
 0,
+5,
 5,
 5,
 5,
@@ -1813,6 +1827,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1820,6 +1835,7 @@
 },
 "enrollmentLogs": [
 0,
+3,
 3,
 3,
 3,
@@ -2070,6 +2086,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2077,6 +2094,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -2327,12 +2345,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2584,12 +2604,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2829,12 +2851,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3086,6 +3110,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3311,6 +3336,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -3343,12 +3369,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3600,6 +3628,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3607,6 +3636,7 @@
 },
 "enrollmentLogs": [
 0,
+2,
 2,
 2,
 2,
@@ -4073,7 +4103,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Research Opportunity Program"
 }

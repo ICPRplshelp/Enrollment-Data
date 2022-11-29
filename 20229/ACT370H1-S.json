@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 67,
 67,
 67,
+67,
 67
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -724,6 +727,7 @@
 27,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -1127,7 +1131,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Financial Principles for Actuarial Science II"
 }

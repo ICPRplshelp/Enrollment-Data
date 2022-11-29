@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -221,6 +222,7 @@
 16,
 16,
 16,
+15,
 15,
 15,
 15,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -486,6 +489,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Critical Writing and Research for Historians"
 }

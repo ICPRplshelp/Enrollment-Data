@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 18,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -406,6 +408,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 18,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -597,6 +600,7 @@
 14,
 14,
 16,
+18,
 18,
 18,
 18,
@@ -1171,7 +1175,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Performance I"
 }

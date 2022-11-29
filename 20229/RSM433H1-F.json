@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 54,
 54,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -770,6 +773,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1167,6 +1172,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -1190,6 +1196,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1533,6 +1540,7 @@
 54,
 54,
 54,
+53,
 53,
 53,
 53,
@@ -1950,7 +1958,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Corporate Finance"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -232,6 +233,7 @@
 114,
 113,
 115,
+116,
 116,
 116,
 116,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 114,
 114,
 114,
+112,
 112,
 112
 ],
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "International Trade Theory"
 }

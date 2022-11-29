@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 66,
 66,
 66,
+66,
 66
 ],
 "instructorLog": {
@@ -518,12 +522,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -763,6 +769,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -982,6 +989,7 @@
 63,
 63,
 63,
+62,
 62,
 62,
 62,
@@ -1248,7 +1256,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Machine Learning"
 }

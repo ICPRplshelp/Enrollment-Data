@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -494,7 +496,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Independent Study in Linguistics"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 30,
 30,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 30,
 30,
 30,
+31,
 31,
 31
 ],
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -674,6 +679,7 @@
 18,
 18,
 18,
+19,
 19,
 19,
 19,
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -999,6 +1006,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -1260,7 +1268,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Music Theory IV"
 }

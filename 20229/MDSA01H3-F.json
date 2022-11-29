@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 730,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -228,6 +229,7 @@
 701,
 701,
 701,
+699,
 699,
 699,
 699,
@@ -489,7 +491,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Media Studies"
 }

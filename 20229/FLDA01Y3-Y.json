@@ -4,12 +4,15 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 28,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 28
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -931,7 +934,9 @@
 1669687221,
 1669687221,
 1669690962,
-1669690962
+1669690962,
+1669705737,
+1669705737
 ],
 "title": "Placement Fee Arts Management"
 }

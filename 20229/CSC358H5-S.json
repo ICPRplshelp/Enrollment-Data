@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -249,6 +251,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -483,6 +486,7 @@
 80,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -506,6 +510,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -739,6 +744,7 @@
 75,
 75,
 75,
+73,
 73,
 73
 ],
@@ -991,7 +997,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Principles of Computer Networks"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -221,6 +222,7 @@
 48,
 48,
 48,
+47,
 47,
 47,
 47,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -480,6 +483,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -745,6 +750,7 @@
 59,
 59,
 59,
+58,
 58,
 58,
 58,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Investments"
 }

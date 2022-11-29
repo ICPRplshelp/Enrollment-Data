@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -467,6 +470,7 @@
 0,
 0,
 0,
+5,
 5,
 5,
 5,
@@ -751,7 +755,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Orchestral Studies - Winds"
 }

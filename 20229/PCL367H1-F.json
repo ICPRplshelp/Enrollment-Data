@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -342,6 +343,7 @@
 34,
 34,
 34,
+33,
 33,
 33,
 33,
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -741,6 +744,7 @@
 32,
 32,
 32,
+31,
 31,
 31,
 31,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Drug Development Pipeline I: In vitro"
 }

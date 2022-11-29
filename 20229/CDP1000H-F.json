@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1662572714,
+"delivery": "INPER",
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+7,
 7,
 7,
 7,
@@ -341,7 +343,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Combined Degree Program Graduate Course 1"
 }

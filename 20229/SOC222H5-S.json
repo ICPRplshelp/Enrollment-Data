@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -233,6 +234,7 @@
 82,
 82,
 82,
+83,
 83,
 83,
 83,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -485,6 +488,7 @@
 65,
 65,
 65,
+66,
 66,
 66,
 66,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Measuring the Social World"
 }

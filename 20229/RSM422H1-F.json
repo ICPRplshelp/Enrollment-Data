@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -291,6 +292,7 @@
 35,
 35,
 35,
+33,
 33,
 33,
 33,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1142,6 +1147,7 @@
 54,
 54,
 54,
+53,
 53,
 53,
 53,
@@ -1548,7 +1554,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Management Control"
 }

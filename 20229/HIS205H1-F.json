@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -358,6 +359,7 @@
 115,
 112,
 112,
+108,
 108,
 108,
 108,
@@ -759,7 +761,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "From Women's History to Gender History"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 196,
 196,
 196,
+196,
 196
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNIF",
 "enrollmentCap": 64,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -760,6 +763,7 @@
 53,
 54,
 54,
+55,
 55,
 55,
 55,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Electricity and Magnetism"
 }

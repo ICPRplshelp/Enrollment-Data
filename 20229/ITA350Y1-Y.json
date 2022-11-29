@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "SYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -309,6 +310,7 @@
 15,
 15,
 15,
+13,
 13,
 13,
 13,
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -679,6 +682,7 @@
 18,
 18,
 18,
+17,
 17,
 17,
 17,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Language Practice"
 }

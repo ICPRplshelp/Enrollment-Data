@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 190,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 159,
 159,
 158,
+158,
 158
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -448,6 +451,7 @@
 160,
 160,
 160,
+159,
 159,
 159,
 159,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Classical Mechanics"
 }

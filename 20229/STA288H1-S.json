@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 121,
 121,
 120,
+120,
 120
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +755,7 @@
 118,
 118,
 118,
+117,
 117,
 117
 ],
@@ -1127,7 +1131,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Statistics and Scientific Inquiry in the Life Sciences"
 }

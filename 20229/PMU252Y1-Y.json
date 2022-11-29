@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 5,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -462,6 +465,7 @@
 0,
 0,
 0,
+4,
 4,
 4,
 4,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Piano-Vocal Masterclass"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -197,6 +198,7 @@
 35,
 35,
 35,
+34,
 34,
 34,
 34,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 34,
 34,
 34,
+33,
 33,
 33,
 33,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Design and Implementation of Multimedia Documents (SH)"
 }

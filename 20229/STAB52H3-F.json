@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 124,
 124,
 124,
+124,
 124
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 69,
 69,
 69,
+69,
 69
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -743,6 +748,7 @@
 95,
 95,
 91,
+89,
 89,
 89,
 89,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Probability"
 }

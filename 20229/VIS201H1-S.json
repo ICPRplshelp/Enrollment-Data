@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -228,6 +229,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -272,6 +274,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -496,6 +499,7 @@
 29,
 29,
 29,
+30,
 30,
 30,
 30,
@@ -529,6 +533,7 @@
 },
 {
 "createdAt": 1667894989,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -756,6 +761,7 @@
 27,
 28,
 27,
+28,
 28,
 28,
 28,
@@ -1014,7 +1020,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Painting: Methods and Materials"
 }

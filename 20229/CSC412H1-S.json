@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 51,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 88,
 88,
 87,
+87,
 87
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 105,
 105,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -764,6 +768,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 14,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1132,6 +1137,7 @@
 19,
 19,
 19,
+18,
 18,
 18
 ],
@@ -1507,7 +1513,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Probabilistic Learning and Reasoning"
 }

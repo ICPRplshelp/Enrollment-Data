@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 138,
 138,
 138,
+138,
 138
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -757,6 +762,7 @@
 108,
 108,
 108,
+108,
 108
 ],
 "instructorLog": {
@@ -780,6 +786,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1019,6 +1026,7 @@
 141,
 141,
 141,
+141,
 141
 ],
 "instructorLog": {
@@ -1042,6 +1050,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1276,6 +1285,7 @@
 138,
 138,
 137,
+137,
 137
 ],
 "instructorLog": {
@@ -1299,12 +1309,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1544,6 +1556,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1778,6 +1791,7 @@
 109,
 109,
 109,
+109,
 109
 ],
 "instructorLog": {
@@ -1801,6 +1815,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2035,6 +2050,7 @@
 137,
 137,
 137,
+137,
 137
 ],
 "instructorLog": {
@@ -2058,12 +2074,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2303,12 +2321,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2548,12 +2568,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2793,6 +2815,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3027,6 +3050,7 @@
 139,
 139,
 137,
+137,
 137
 ],
 "instructorLog": {
@@ -3050,12 +3074,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3295,6 +3321,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3521,6 +3548,7 @@
 133,
 133,
 133,
+132,
 132,
 132,
 132,
@@ -3780,7 +3808,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Differential Calculus"
 }

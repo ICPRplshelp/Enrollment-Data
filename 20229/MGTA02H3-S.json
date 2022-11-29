@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 280,
 280,
 279,
+279,
 279
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -490,6 +493,7 @@
 302,
 302,
 301,
+302,
 302,
 302,
 302,
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Managing the Business Organization"
 }

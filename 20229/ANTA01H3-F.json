@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 202,
 202,
 202,
+202,
 202
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -496,6 +499,7 @@
 208,
 208,
 200,
+199,
 199,
 199,
 199,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Anthropology: Becoming Human"
 }

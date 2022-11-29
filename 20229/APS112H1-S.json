@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 478,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 257,
 257,
 257,
+257,
 257
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 478,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -500,6 +503,7 @@
 267,
 267,
 268,
+268,
 268
 ],
 "instructorLog": {
@@ -528,6 +532,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 494,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -757,6 +762,7 @@
 408,
 408,
 408,
+406,
 406,
 406,
 406,
@@ -1018,7 +1024,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Engineering Strategies & Practice II"
 }

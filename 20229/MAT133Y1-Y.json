@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 400,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 390,
 390,
 390,
+390,
 390
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -770,6 +773,7 @@
 145,
 145,
 145,
+145,
 145
 ],
 "instructorLog": {
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1162,6 +1167,7 @@
 91,
 91,
 91,
+91,
 91
 ],
 "instructorLog": {
@@ -1185,6 +1191,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 400,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1554,6 +1561,7 @@
 385,
 385,
 385,
+385,
 385
 ],
 "instructorLog": {
@@ -1582,6 +1590,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1909,6 +1918,7 @@
 118,
 118,
 118,
+117,
 117,
 117,
 117,
@@ -2337,7 +2347,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 474,
 474,
 474,
+474,
 474
 ],
 "instructorLog": {
@@ -271,6 +273,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -505,6 +508,7 @@
 471,
 471,
 471,
+471,
 471
 ],
 "instructorLog": {
@@ -538,6 +542,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "ASYIF",
 "enrollmentCap": 280,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -767,6 +772,7 @@
 173,
 173,
 172,
+171,
 171,
 171,
 171,
@@ -1033,7 +1039,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Chemistry I: Structure and Bonding"
 }

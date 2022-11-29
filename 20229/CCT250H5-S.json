@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 23,
 23,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -254,6 +256,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -483,6 +486,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -732,7 +736,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Technology and Creative Expresssion"
 }

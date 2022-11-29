@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 8,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 27,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -705,6 +708,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Polymer Chemistry"
 }

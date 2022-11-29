@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 187,
 187,
 184,
+184,
 184
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -775,6 +778,7 @@
 275,
 275,
 273,
+273,
 273
 ],
 "instructorLog": {
@@ -798,6 +802,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1172,6 +1177,7 @@
 277,
 277,
 275,
+275,
 275
 ],
 "instructorLog": {
@@ -1195,6 +1201,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1568,6 +1575,7 @@
 194,
 194,
 194,
+190,
 190,
 190
 ],
@@ -1955,7 +1963,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Software Tools and Systems Programming"
 }

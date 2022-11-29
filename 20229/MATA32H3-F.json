@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 212,
 212,
 211,
+211,
 211
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 335,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 238,
 238,
 238,
+238,
 238
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -743,6 +748,7 @@
 122,
 122,
 118,
+115,
 115,
 115,
 115,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus for Management I"
 }

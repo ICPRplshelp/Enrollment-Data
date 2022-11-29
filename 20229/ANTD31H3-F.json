@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1663368871,
+"delivery": "INPER",
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -19,6 +20,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -283,7 +285,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Research in Anthropology"
 }

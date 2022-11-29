@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 207,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 211,
 211,
 212,
+212,
 212
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1668658773,
+"delivery": "SYNC",
 "enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -500,6 +503,7 @@
 65,
 64,
 64,
+63,
 63,
 63,
 63,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Developing Audience, Resources, and  Community"
 }

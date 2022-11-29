@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -743,6 +748,7 @@
 46,
 46,
 46,
+45,
 45,
 45,
 45,
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -999,6 +1006,7 @@
 54,
 54,
 54,
+53,
 53,
 53,
 53,
@@ -1260,7 +1268,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Analytics for Decision Making"
 }

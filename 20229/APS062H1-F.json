@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1669687220,
+"delivery": "SYNC",
 "enrollmentCap": 9999,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -11,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+81,
 81,
 81
 ],
@@ -25,7 +27,8 @@
 "timeIntervals": [
 1669687219,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus I (APS162 transfer)"
 }

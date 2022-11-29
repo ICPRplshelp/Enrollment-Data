@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -363,6 +364,7 @@
 138,
 137,
 137,
+136,
 136,
 136,
 136,
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -775,6 +778,7 @@
 135,
 135,
 135,
+135,
 135
 ],
 "instructorLog": {
@@ -798,6 +802,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1172,6 +1177,7 @@
 137,
 137,
 137,
+137,
 137
 ],
 "instructorLog": {
@@ -1195,6 +1201,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1569,6 +1576,7 @@
 131,
 131,
 131,
+131,
 131
 ],
 "instructorLog": {
@@ -1592,6 +1600,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1961,6 +1970,7 @@
 123,
 123,
 123,
+121,
 121,
 121,
 121,
@@ -2352,7 +2362,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to the Theory of Computation"
 }

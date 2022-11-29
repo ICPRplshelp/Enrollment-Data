@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 57,
 57,
 56,
+56,
 56
 ],
 "instructorLog": {
@@ -254,6 +256,7 @@
 },
 {
 "createdAt": 1666283682,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -487,6 +490,7 @@
 36,
 36,
 36,
+37,
 37,
 37
 ],
@@ -727,7 +731,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Structure of American Sign Language"
 }

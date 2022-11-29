@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -261,12 +263,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 45
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -734,7 +738,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Audit & Assurance"
 }

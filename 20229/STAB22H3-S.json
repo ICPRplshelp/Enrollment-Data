@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 315,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -247,6 +248,7 @@
 331,
 331,
 338,
+338,
 338
 ],
 "instructorLog": {
@@ -270,6 +272,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 315,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -512,6 +515,7 @@
 330,
 330,
 330,
+333,
 333,
 333
 ],
@@ -764,7 +768,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Statistics I"
 }

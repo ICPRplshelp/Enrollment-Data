@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 1210,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -382,6 +383,7 @@
 1156,
 1156,
 1156,
+1156,
 1156
 ],
 "instructorLog": {
@@ -410,6 +412,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -779,6 +782,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -807,6 +811,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 9,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1181,6 +1186,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -1209,6 +1215,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "ASYNC",
 "enrollmentCap": 740,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1587,6 +1594,7 @@
 642,
 642,
 642,
+642,
 642
 ],
 "instructorLog": {
@@ -1615,6 +1623,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "ASYNC",
 "enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1952,6 +1961,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -2375,7 +2385,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

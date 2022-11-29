@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 135,
 135,
 135,
+135,
 135
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -421,6 +424,7 @@
 165,
 165,
 165,
+164,
 164,
 164,
 164,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Communications Research Methods"
 }

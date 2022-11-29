@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 478,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 407,
 407,
 408,
+408,
 408
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 298,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 240,
 240,
 240,
+240,
 240
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -744,6 +749,7 @@
 276,
 275,
 276,
+277,
 277,
 277,
 277,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Eng. Chemistry & Material Science"
 }

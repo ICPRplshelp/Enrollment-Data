@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 617,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 531,
 531,
 528,
+528,
 528
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "ASYIF",
 "enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -763,6 +766,7 @@
 184,
 184,
 185,
+184,
 184,
 184,
 184,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Physics II"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -363,6 +364,7 @@
 45,
 45,
 45,
+44,
 44,
 44,
 44,
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -762,6 +765,7 @@
 60,
 59,
 59,
+58,
 58,
 58,
 58,
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1152,6 +1157,7 @@
 46,
 46,
 46,
+45,
 45,
 45,
 45,
@@ -1185,6 +1191,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1544,6 +1551,7 @@
 32,
 32,
 32,
+30,
 30,
 30,
 30,
@@ -1577,6 +1585,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1946,6 +1955,7 @@
 50,
 50,
 49,
+49,
 49
 ],
 "instructorLog": {
@@ -1974,6 +1984,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "SYNIF",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2343,6 +2354,7 @@
 45,
 45,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -2366,6 +2378,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2726,6 +2739,7 @@
 53,
 53,
 52,
+50,
 50,
 50,
 50,
@@ -2763,6 +2777,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "SYNIF",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3123,6 +3138,7 @@
 45,
 45,
 44,
+43,
 43,
 43,
 43,
@@ -3518,7 +3534,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Spanish for Beginners"
 }

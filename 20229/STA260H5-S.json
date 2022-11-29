@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 149,
 149,
 149,
+149,
 149
 ],
 "instructorLog": {
@@ -261,12 +263,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -506,6 +510,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -739,6 +744,7 @@
 133,
 133,
 133,
+132,
 132,
 132
 ],
@@ -991,7 +997,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Probability and Statistics II"
 }

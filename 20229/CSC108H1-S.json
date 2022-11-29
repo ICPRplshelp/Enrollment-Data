@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 275,
 275,
 275,
+275,
 275
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 269,
 269,
 273,
+273,
 273
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 295,
 295,
 298,
+298,
 298
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 294,
 294,
 296,
+296,
 296
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1668031867,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1941,6 +1950,7 @@
 229,
 229,
 233,
+233,
 233
 ],
 "instructorLog": {
@@ -1952,6 +1962,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNIF",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2320,6 +2331,7 @@
 313,
 313,
 313,
+310,
 310,
 310
 ],
@@ -2707,7 +2719,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Computer Programming"
 }

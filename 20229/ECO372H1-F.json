@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 96,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -755,6 +758,7 @@
 58,
 56,
 56,
+55,
 55,
 55,
 55,
@@ -1156,7 +1160,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

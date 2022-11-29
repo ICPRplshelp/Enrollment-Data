@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 86,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -430,6 +433,7 @@
 2,
 2,
 2,
+4,
 4,
 4,
 4,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Continuum Mechanics"
 }

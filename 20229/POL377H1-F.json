@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1112,6 +1117,7 @@
 60,
 60,
 60,
+59,
 59,
 59,
 59,
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in Comparative Politics I"
 }

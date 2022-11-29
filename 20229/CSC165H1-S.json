@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 306,
 306,
 307,
+307,
 307
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 305,
 305,
 301,
+301,
 301
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 312,
 312,
 310,
+310,
 310
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1548,6 +1555,7 @@
 324,
 324,
 324,
+323,
 323,
 323
 ],
@@ -1935,7 +1943,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Mathematical Expression and Reasoning for Computer Science"
 }

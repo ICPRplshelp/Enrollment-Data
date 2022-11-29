@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 500,
 500,
 500,
+500,
 500
 ],
 "instructorLog": {
@@ -271,6 +273,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -505,6 +508,7 @@
 492,
 492,
 494,
+494,
 494
 ],
 "instructorLog": {
@@ -538,6 +542,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "ASYIF",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -771,6 +776,7 @@
 189,
 189,
 189,
+190,
 190,
 190
 ],
@@ -1033,7 +1039,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Chemistry II: Reactions and Mechanisms"
 }

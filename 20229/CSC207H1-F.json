@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 140,
 140,
 140,
+140,
 140
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -775,6 +778,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -798,6 +802,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1172,6 +1177,7 @@
 137,
 137,
 137,
+137,
 137
 ],
 "instructorLog": {
@@ -1195,6 +1201,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1569,6 +1576,7 @@
 138,
 138,
 138,
+138,
 138
 ],
 "instructorLog": {
@@ -1592,6 +1600,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1961,6 +1970,7 @@
 132,
 132,
 132,
+132,
 132
 ],
 "instructorLog": {
@@ -1984,6 +1994,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -2343,6 +2354,7 @@
 129,
 128,
 128,
+125,
 125,
 125,
 125,
@@ -2744,7 +2756,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Software Design"
 }

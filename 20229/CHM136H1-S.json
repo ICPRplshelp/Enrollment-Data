@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 604,
 604,
 604,
+604,
 604
 ],
 "instructorLog": {
@@ -406,6 +408,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -775,6 +778,7 @@
 585,
 585,
 584,
+584,
 584
 ],
 "instructorLog": {
@@ -808,6 +812,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1177,6 +1182,7 @@
 612,
 612,
 613,
+613,
 613
 ],
 "instructorLog": {
@@ -1210,6 +1216,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNIF",
 "enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1578,6 +1585,7 @@
 411,
 411,
 411,
+412,
 412,
 412
 ],
@@ -1975,7 +1983,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Organic Chemistry I"
 }

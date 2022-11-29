@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 200,
 200,
 201,
+201,
 201
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 193,
 193,
 196,
+196,
 196
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 63,
 63,
 63,
+66,
 66,
 66
 ],
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -205,6 +206,7 @@
 0,
 0,
 0,
+5,
 5,
 5,
 5,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -462,6 +465,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -744,6 +749,7 @@
 11,
 11,
 11,
+12,
 12,
 12,
 12,
@@ -775,12 +781,14 @@
 },
 {
 "createdAt": 1667894988,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 35
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1260,7 +1268,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Chamber Music"
 }

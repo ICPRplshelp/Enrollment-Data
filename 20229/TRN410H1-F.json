@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -306,6 +307,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -649,6 +652,7 @@
 15,
 15,
 15,
+14,
 14,
 14,
 14,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Researching Critical Cases in Contemporary International Relations"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 1057,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 1030,
 1030,
 1030,
+1030,
 1030
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 400,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -755,6 +758,7 @@
 387,
 385,
 385,
+382,
 382,
 382,
 382,
@@ -1156,7 +1160,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "From Genes to Organisms"
 }

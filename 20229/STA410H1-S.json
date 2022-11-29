@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": -1,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -156,6 +157,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 9,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -525,6 +527,7 @@
 8,
 8,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -536,6 +539,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -900,6 +904,7 @@
 103,
 103,
 103,
+101,
 101,
 101,
 101,
@@ -1279,7 +1284,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Statistical Computation"
 }

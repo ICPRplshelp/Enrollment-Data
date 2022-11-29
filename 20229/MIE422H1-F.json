@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -146,6 +147,7 @@
 38,
 38,
 38,
+37,
 37,
 37,
 37,
@@ -489,7 +491,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Automated Manufacturing"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 155,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 134,
 134,
 133,
+133,
 133
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 155,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 129,
 129,
 129,
+129,
 129
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 155,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -742,6 +747,7 @@
 142,
 142,
 142,
+136,
 136,
 136,
 136,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Discrete Mathematics"
 }

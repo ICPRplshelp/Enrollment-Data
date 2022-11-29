@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -366,6 +367,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -755,6 +758,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1140,6 +1145,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -1185,6 +1191,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "SYNIF",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1513,6 +1520,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -1945,7 +1953,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Intermediate Spanish"
 }

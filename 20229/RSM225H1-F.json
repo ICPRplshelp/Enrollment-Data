@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -730,6 +733,7 @@
 35,
 34,
 34,
+33,
 33,
 33,
 33,
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1147,6 +1152,7 @@
 45,
 45,
 45,
+43,
 43,
 43,
 43,
@@ -1548,7 +1554,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Legal Environment of Business I"
 }

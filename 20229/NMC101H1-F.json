@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "SYNC",
 "enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -360,6 +361,7 @@
 178,
 177,
 177,
+176,
 176,
 176,
 176,
@@ -759,7 +761,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Land of the Pharaohs"
 }

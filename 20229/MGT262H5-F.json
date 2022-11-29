@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -243,6 +244,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -266,6 +268,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -396,6 +399,7 @@
 66,
 66,
 66,
+65,
 65,
 65,
 65,
@@ -756,7 +760,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Psychology at Work"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 171,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 167,
 167,
 166,
+166,
 166
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 141,
 141,
 141,
+141,
 141
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 96,
 96,
 96,
+96,
 96
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647691,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1539,6 +1546,7 @@
 77,
 77,
 77,
+76,
 76,
 76,
 76,
@@ -1935,7 +1943,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Multivariable Calculus with Proofs"
 }

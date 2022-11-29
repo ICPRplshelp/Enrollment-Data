@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -372,6 +373,7 @@
 18,
 18,
 18,
+19,
 19,
 19
 ],
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -759,6 +762,7 @@
 18,
 18,
 18,
+19,
 19,
 19,
 19,
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in International Politics III"
 }

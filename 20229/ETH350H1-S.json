@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1669073490,
+"delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -55,7 +57,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in Value Theory"
 }

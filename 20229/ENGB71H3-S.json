@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -237,6 +238,7 @@
 36,
 36,
 36,
+35,
 35,
 35
 ],
@@ -249,6 +251,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "SYNC",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -478,6 +481,7 @@
 32,
 32,
 32,
+33,
 33,
 33,
 33,
@@ -494,6 +498,7 @@
 },
 {
 "createdAt": 1666329869,
+"delivery": "SYNC",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -727,6 +732,7 @@
 30,
 30,
 30,
+32,
 32,
 32
 ],
@@ -967,7 +973,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Writing About Movies"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -372,6 +373,7 @@
 26,
 26,
 26,
+27,
 27,
 27
 ],
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -746,6 +749,7 @@
 28,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -764,6 +768,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1133,6 +1138,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -1144,6 +1150,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1456,6 +1463,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25,
@@ -1899,7 +1907,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Order and Disorder II: Problems and Solutions"
 }

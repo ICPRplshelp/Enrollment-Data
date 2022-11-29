@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -196,6 +197,7 @@
 65,
 65,
 65,
+64,
 64,
 64,
 64,
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -464,6 +467,7 @@
 64,
 64,
 64,
+63,
 63,
 63,
 63,
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -711,6 +716,7 @@
 65,
 65,
 65,
+64,
 64,
 64,
 64,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Managing People and Groups in Organizations"
 }

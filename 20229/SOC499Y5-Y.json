@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 8,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -261,12 +263,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -506,6 +510,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -513,6 +518,7 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1,
 1,
 1,
@@ -763,6 +769,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 2,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -997,6 +1004,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -1020,6 +1028,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 6,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1027,6 +1036,7 @@
 },
 "enrollmentLogs": [
 0,
+6,
 6,
 6,
 6,
@@ -1505,7 +1515,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Research Opportunity Program"
 }

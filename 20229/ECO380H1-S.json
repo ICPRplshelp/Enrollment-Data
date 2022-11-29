@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -372,6 +373,7 @@
 168,
 168,
 168,
+164,
 164,
 164
 ],
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +767,7 @@
 166,
 166,
 166,
+164,
 164,
 164
 ],
@@ -1151,7 +1155,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Markets, Competition, and Strategy"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -661,6 +664,7 @@
 19,
 19,
 19,
+17,
 17,
 17,
 17,
@@ -1156,7 +1160,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Auditing I"
 }

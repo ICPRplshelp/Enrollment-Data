@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 108,
 108,
 106,
+106,
 106
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 151,
 151,
 151,
+150,
 150,
 150
 ],
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 39,
 39,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -775,6 +781,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1009,6 +1016,7 @@
 122,
 122,
 120,
+120,
 120
 ],
 "instructorLog": {
@@ -1032,12 +1040,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1277,6 +1287,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1510,6 +1521,7 @@
 106,
 106,
 106,
+108,
 108,
 108
 ],
@@ -1762,7 +1774,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Financial Accounting"
 }

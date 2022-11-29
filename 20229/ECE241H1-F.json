@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 134,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 128,
 128,
 128,
+128,
 128
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 142,
 142,
 142,
+142,
 142
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -732,6 +737,7 @@
 130,
 130,
 130,
+129,
 129,
 129,
 129,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Digital Systems"
 }

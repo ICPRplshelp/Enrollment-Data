@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -256,6 +257,7 @@
 13,
 13,
 13,
+14,
 14,
 14,
 14,
@@ -299,6 +301,7 @@
 },
 {
 "createdAt": 1664511040,
+"delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -563,6 +566,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -848,7 +852,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Advanced Topics in East Asian Studies"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 167,
 167,
 167,
+167,
 167
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 259,
 259,
 259,
+259,
 259
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -743,6 +748,7 @@
 225,
 225,
 225,
+224,
 224,
 224,
 224,
@@ -1003,7 +1009,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Management Functions"
 }

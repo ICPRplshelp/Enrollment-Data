@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -259,6 +260,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -718,6 +721,7 @@
 10,
 10,
 9,
+8,
 8,
 8,
 8,
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNC",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1147,6 +1152,7 @@
 48,
 48,
 48,
+49,
 49,
 49,
 49,
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 27,
 27,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1931,6 +1940,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2207,6 +2218,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -2356,6 +2368,7 @@
 },
 {
 "createdAt": 1666840288,
+"delivery": "INPER",
 "enrollmentCap": 22,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2708,6 +2721,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -3099,7 +3113,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Topics in History"
 }

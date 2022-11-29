@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 246,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 211,
 211,
 211,
+211,
 211
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 171,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -770,6 +773,7 @@
 102,
 102,
 102,
+102,
 102
 ],
 "instructorLog": {
@@ -793,6 +797,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 103,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1162,6 +1167,7 @@
 91,
 91,
 91,
+91,
 91
 ],
 "instructorLog": {
@@ -1185,6 +1191,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 51,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -1559,6 +1566,7 @@
 44,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -1582,6 +1590,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1913,6 +1922,7 @@
 21,
 21,
 21,
+20,
 20,
 20,
 20,
@@ -2337,7 +2347,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Databases"
 }

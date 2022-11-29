@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 220,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 284,
 284,
 282,
+282,
 282
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "SYNC",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -764,6 +767,7 @@
 158,
 158,
 158,
+156,
 156,
 156
 ],
@@ -1139,7 +1143,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Art and Ideas"
 }

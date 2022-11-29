@@ -4,12 +4,14 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -396,12 +398,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -788,12 +792,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1180,12 +1186,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1572,12 +1580,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1964,12 +1974,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2356,12 +2368,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2748,12 +2762,14 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3140,6 +3156,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3205,6 +3222,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -3895,7 +3913,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Seminar in Comparative Literature"
 }

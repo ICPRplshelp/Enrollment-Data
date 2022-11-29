@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 314,
 314,
 315,
+315,
 315
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 282,
 282,
 283,
+283,
 283
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 319,
 319,
 317,
+317,
 317
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 284,
 284,
 281,
+281,
 281
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1941,6 +1950,7 @@
 297,
 297,
 296,
+296,
 296
 ],
 "instructorLog": {
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 195,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2333,6 +2344,7 @@
 238,
 238,
 239,
+239,
 239
 ],
 "instructorLog": {
@@ -2356,6 +2368,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 235,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2725,6 +2738,7 @@
 315,
 315,
 316,
+316,
 316
 ],
 "instructorLog": {
@@ -2748,6 +2762,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 245,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3117,6 +3132,7 @@
 283,
 283,
 283,
+283,
 283
 ],
 "instructorLog": {
@@ -3140,6 +3156,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3508,6 +3525,7 @@
 308,
 308,
 308,
+309,
 309,
 309
 ],
@@ -3895,7 +3913,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus II"
 }

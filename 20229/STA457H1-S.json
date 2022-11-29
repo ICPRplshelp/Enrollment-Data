@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 210,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 156,
 156,
 156,
+156,
 156
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 192,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 194,
 194,
 194,
+194,
 194
 ],
 "instructorLog": {
@@ -764,6 +768,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1113,6 +1118,7 @@
 2,
 2,
 2,
+1,
 1,
 1,
 1,
@@ -1507,7 +1513,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Time Series Analysis"
 }

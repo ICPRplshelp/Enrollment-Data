@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 263,
 263,
 262,
+262,
 262
 ],
 "instructorLog": {
@@ -384,6 +386,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -753,6 +756,7 @@
 278,
 278,
 278,
+278,
 278
 ],
 "instructorLog": {
@@ -764,6 +768,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1133,6 +1138,7 @@
 267,
 267,
 265,
+265,
 265
 ],
 "instructorLog": {
@@ -1144,6 +1150,7 @@
 },
 {
 "createdAt": 1666652709,
+"delivery": "INPER",
 "enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1512,6 +1519,7 @@
 86,
 86,
 86,
+88,
 88,
 88
 ],
@@ -1887,7 +1895,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

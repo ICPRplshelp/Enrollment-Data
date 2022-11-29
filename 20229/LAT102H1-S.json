@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -372,6 +373,7 @@
 21,
 21,
 21,
+22,
 22,
 22
 ],
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 28,
 28,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 16,
 16,
 16,
+17,
 17,
 17
 ],
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introductory Latin II"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 77,
 77,
 79,
+79,
 79
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 73,
 73,
 73,
+72,
 72,
 72
 ],
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Money and Banking"
 }

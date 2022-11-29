@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 77,
 77,
 78,
+78,
 78
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 86,
 86,
 86,
+86,
 86
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -745,6 +750,7 @@
 83,
 83,
 84,
+83,
 83,
 83,
 83,
@@ -991,7 +997,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

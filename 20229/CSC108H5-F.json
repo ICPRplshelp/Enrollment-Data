@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 151,
 151,
 151,
+151,
 151
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -495,6 +498,7 @@
 157,
 157,
 156,
+156,
 156
 ],
 "instructorLog": {
@@ -518,6 +522,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -752,6 +757,7 @@
 145,
 145,
 145,
+145,
 145
 ],
 "instructorLog": {
@@ -775,12 +781,14 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1020,6 +1028,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1254,6 +1263,7 @@
 157,
 157,
 157,
+157,
 157
 ],
 "instructorLog": {
@@ -1277,6 +1287,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1511,6 +1522,7 @@
 127,
 127,
 127,
+127,
 127
 ],
 "instructorLog": {
@@ -1534,6 +1546,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1760,6 +1773,7 @@
 134,
 134,
 134,
+133,
 133,
 133,
 133,
@@ -2019,7 +2033,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Computer Programming"
 }

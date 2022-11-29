@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "ASYNC",
 "enrollmentCap": 113,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -378,6 +379,7 @@
 93,
 93,
 93,
+93,
 93
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -756,6 +759,7 @@
 49,
 49,
 49,
+48,
 48,
 48,
 48,
@@ -1161,7 +1165,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Quantitative Methods in Sociology"
 }

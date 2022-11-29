@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 72,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 102,
 102,
 103,
+103,
 103
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 62,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 95,
 95,
 95,
+95,
 95
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 72,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1157,6 +1162,7 @@
 104,
 104,
 102,
+102,
 102
 ],
 "instructorLog": {
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 53,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1549,6 +1556,7 @@
 70,
 70,
 70,
+70,
 70
 ],
 "instructorLog": {
@@ -1572,6 +1580,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1941,6 +1950,7 @@
 79,
 79,
 79,
+79,
 79
 ],
 "instructorLog": {
@@ -1964,6 +1974,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 53,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2333,6 +2344,7 @@
 67,
 67,
 67,
+67,
 67
 ],
 "instructorLog": {
@@ -2356,6 +2368,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 64,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -2725,6 +2738,7 @@
 78,
 78,
 78,
+78,
 78
 ],
 "instructorLog": {
@@ -2748,6 +2762,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 61,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -3116,6 +3131,7 @@
 92,
 92,
 92,
+91,
 91,
 91
 ],
@@ -3503,7 +3519,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Databases"
 }

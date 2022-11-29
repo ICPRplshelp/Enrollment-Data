@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -238,6 +239,7 @@
 217,
 217,
 217,
+217,
 217
 ],
 "instructorLog": {
@@ -261,6 +263,7 @@
 },
 {
 "createdAt": 1660867317,
+"delivery": "INPER",
 "enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -494,6 +497,7 @@
 169,
 169,
 169,
+168,
 168,
 168
 ],
@@ -746,7 +750,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to General Linguistics: Words, Sentences, their Structure and Meaning"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 50,
 50,
 49,
+49,
 49
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -765,6 +768,7 @@
 137,
 137,
 138,
+138,
 138
 ],
 "instructorLog": {
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1156,6 +1161,7 @@
 136,
 136,
 136,
+137,
 137,
 137
 ],
@@ -1543,7 +1549,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Money, Banking and Financial Markets"
 }

@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -401,6 +403,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -770,6 +773,7 @@
 77,
 77,
 77,
+77,
 77
 ],
 "instructorLog": {
@@ -798,6 +802,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1167,6 +1172,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -1195,6 +1201,7 @@
 },
 {
 "createdAt": 1656647689,
+"delivery": "INPER",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1547,6 +1554,7 @@
 21,
 21,
 21,
+19,
 19,
 19,
 19,
@@ -1955,7 +1963,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Introduction to Artificial Intelligence"
 }

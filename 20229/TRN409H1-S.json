@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 12,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -373,6 +374,7 @@
 11,
 11,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -396,6 +398,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -713,6 +716,7 @@
 11,
 11,
 11,
+10,
 10,
 10,
 10,
@@ -788,6 +792,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1009,6 +1014,7 @@
 15,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -1180,6 +1186,7 @@
 },
 {
 "createdAt": 1656647697,
+"delivery": "INPER",
 "enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1489,6 +1496,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -1935,7 +1943,8 @@
 1669524954,
 1669568275,
 1669687221,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Selected Topics in International Studies"
 }

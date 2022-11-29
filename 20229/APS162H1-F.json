@@ -4,6 +4,7 @@
 "meetings": [
 {
 "createdAt": 1669247684,
+"delivery": "SYNC",
 "enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -18,6 +19,7 @@
 81,
 81,
 81,
+0,
 0,
 0
 ],
@@ -39,7 +41,8 @@
 1669524954,
 1669568275,
 1669687220,
-1669690962
+1669690962,
+1669705737
 ],
 "title": "Calculus for Engineers I"
 }
