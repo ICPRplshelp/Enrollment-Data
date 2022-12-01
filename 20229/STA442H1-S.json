@@ -376,13 +376,26 @@
 24,
 24,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad Kaviul, Khan"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammad Kaviul",
+"Khan"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -759,13 +772,26 @@
 42,
 42,
 42,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad Kaviul, Khan"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammad Kaviul",
+"Khan"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -1135,7 +1161,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Methods of Applied Statistics"
 }

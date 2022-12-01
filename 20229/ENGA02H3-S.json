@@ -241,7 +241,8 @@
 34,
 34,
 34,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,10 +256,21 @@
 {
 "instructorsAfter": [],
 "timing": 1668718474
+},
+{
+"instructorsAfter": [
+"Kathryn, Franklin"
+],
+"timing": 1669866935
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Kathryn",
+"Franklin"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -500,13 +512,26 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Elkaim"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jessica",
+"Elkaim"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
@@ -748,13 +773,26 @@
 29,
 29,
 29,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Niyosha, Keyzad"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Niyosha",
+"Keyzad"
+]
+],
 "meetingNumber": "LEC03"
 },
 {
@@ -996,13 +1034,26 @@
 14,
 14,
 14,
-14
+14,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, King"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sarah",
+"King"
+]
+],
 "meetingNumber": "LEC04"
 },
 {
@@ -1244,13 +1295,26 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mitchell, Johnston"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mitchell",
+"Johnston"
+]
+],
 "meetingNumber": "LEC05"
 },
 {
@@ -1492,13 +1556,26 @@
 34,
 34,
 34,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Bergman"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daniel",
+"Bergman"
+]
+],
 "meetingNumber": "LEC06"
 },
 {
@@ -1740,13 +1817,26 @@
 29,
 29,
 29,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Niyosha, Keyzad"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Niyosha",
+"Keyzad"
+]
+],
 "meetingNumber": "LEC07"
 },
 {
@@ -1988,13 +2078,26 @@
 29,
 29,
 29,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ryan, Stafford"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ryan",
+"Stafford"
+]
+],
 "meetingNumber": "LEC08"
 }
 ],
@@ -2229,7 +2332,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Critical Writing About Literature"
 }

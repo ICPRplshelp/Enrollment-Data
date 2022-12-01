@@ -241,6 +241,7 @@
 107,
 107,
 107,
+106,
 106
 ],
 "instructorLog": {
@@ -251,13 +252,19 @@
 "Mahinda, Samarakoon"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Shahriar, Shams"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"Mahinda",
-"Samarakoon"
+"Shahriar",
+"Shams"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -501,7 +508,8 @@
 94,
 94,
 94,
-95
+95,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -754,7 +762,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "An Introduction to Statistics"
 }

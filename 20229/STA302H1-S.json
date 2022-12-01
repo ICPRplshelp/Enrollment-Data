@@ -376,13 +376,26 @@
 332,
 332,
 332,
-331
+331,
+333
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad Kaviul, Khan"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammad Kaviul",
+"Khan"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Methods of Data Analysis I"
 }

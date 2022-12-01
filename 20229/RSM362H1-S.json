@@ -376,13 +376,26 @@
 46,
 46,
 46,
+45,
 45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ana Sofia, Barrows"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ana Sofia",
+"Barrows"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Leading Across Differences"
 }

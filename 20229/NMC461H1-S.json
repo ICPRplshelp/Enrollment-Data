@@ -241,13 +241,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Habtamu Mekonnen, Taddesse"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Habtamu Mekonnen",
+"Taddesse"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -482,7 +495,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "The History and Archaeology of the Horn of Africa and South Arabia"
 }

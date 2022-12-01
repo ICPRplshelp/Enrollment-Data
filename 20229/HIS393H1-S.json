@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 45,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669866935,
+65
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -376,13 +381,26 @@
 58,
 58,
 58,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Noa, Yaari"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Noa",
+"Yaari"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +770,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Digital History"
 }

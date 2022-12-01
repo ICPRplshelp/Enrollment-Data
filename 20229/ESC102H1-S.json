@@ -241,6 +241,7 @@
 320,
 320,
 320,
+320,
 320
 ],
 "instructorLog": {
@@ -252,6 +253,15 @@
 "Robert, Irish"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Penny, Kinnear",
+"Robert, Irish",
+"Roger, Carrick",
+"Jennifer, Lofgreen"
+],
+"timing": 1669866935
 }
 ]
 },
@@ -263,6 +273,14 @@
 [
 "Robert",
 "Irish"
+],
+[
+"Roger",
+"Carrick"
+],
+[
+"Jennifer",
+"Lofgreen"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -499,7 +517,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Praxis II"
 }

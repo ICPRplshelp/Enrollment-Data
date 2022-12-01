@@ -376,7 +376,8 @@
 275,
 275,
 275,
-274
+274,
+275
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -771,7 +772,8 @@
 273,
 273,
 273,
-273
+273,
+272
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1166,7 +1168,8 @@
 298,
 298,
 298,
-300
+300,
+298
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1561,7 +1564,8 @@
 296,
 296,
 296,
-298
+298,
+297
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1956,13 +1960,26 @@
 233,
 233,
 233,
-237
+237,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Fernando, Yanez"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Fernando",
+"Yanez"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -2339,7 +2356,8 @@
 310,
 310,
 310,
-313
+313,
+308
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2727,7 +2745,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Introduction to Computer Programming"
 }

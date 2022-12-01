@@ -241,13 +241,26 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Emilie, Jacob"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Emilie",
+"Jacob"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -489,13 +502,26 @@
 33,
 33,
 33,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Sooriyakumaran"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Sooriyakumaran"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
@@ -737,13 +763,26 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Emilie, Jacob"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Emilie",
+"Jacob"
+]
+],
 "meetingNumber": "LEC03"
 }
 ],
@@ -978,7 +1017,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Writing About Movies"
 }

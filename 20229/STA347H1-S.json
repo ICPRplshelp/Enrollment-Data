@@ -376,13 +376,26 @@
 177,
 177,
 177,
-176
+176,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Brenner"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Brenner"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Probability"
 }

@@ -250,7 +250,8 @@
 338,
 338,
 338,
-339
+339,
+340
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -519,7 +520,8 @@
 333,
 333,
 333,
-333
+333,
+332
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -529,13 +531,19 @@
 "Shahriar, Shams"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Mahinda, Samarakoon"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"Shahriar",
-"Shams"
+"Mahinda",
+"Samarakoon"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -772,7 +780,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Statistics I"
 }

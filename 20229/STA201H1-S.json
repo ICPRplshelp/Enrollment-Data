@@ -376,13 +376,26 @@
 26,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Murari, Singh"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Murari",
+"Singh"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Why Numbers Matter"
 }

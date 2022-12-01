@@ -241,13 +241,26 @@
 61,
 61,
 61,
-61
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Otto, Yung"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Otto",
+"Yung"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -482,7 +495,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Business Technology Management"
 }

@@ -376,6 +376,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -387,6 +388,14 @@
 "Eric, Friesen"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Claire, Battershill",
+"Eric, Friesen",
+"Ray, Robertson"
+],
+"timing": 1669866935
 }
 ]
 },
@@ -398,6 +407,10 @@
 [
 "Eric",
 "Friesen"
+],
+[
+"Ray",
+"Robertson"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -769,7 +782,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Artistic Creation and Public Issues"
 }

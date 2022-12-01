@@ -376,13 +376,26 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ari, Schriber"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ari",
+"Schriber"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Modern Islamic Thought"
 }

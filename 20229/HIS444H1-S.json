@@ -138,13 +138,26 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Connor, Sebestyen"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Connor",
+"Sebestyen"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -276,7 +289,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Topics in Jewish History"
 }

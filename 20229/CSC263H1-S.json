@@ -376,13 +376,26 @@
 173,
 173,
 173,
-174
+174,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Francois, Pitt"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Francois",
+"Pitt"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -759,7 +772,8 @@
 183,
 183,
 183,
-183
+183,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1154,7 +1168,8 @@
 179,
 179,
 179,
-179
+179,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1164,13 +1179,19 @@
 "Francois, Pitt"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Angela M., Zavaleta Bernuy"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"Francois",
-"Pitt"
+"Angela M.",
+"Zavaleta Bernuy"
 ]
 ],
 "meetingNumber": "LEC0301"
@@ -1546,6 +1567,7 @@
 174,
 174,
 174,
+173,
 173,
 173,
 173,
@@ -1937,7 +1959,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Data Structures and Analysis"
 }

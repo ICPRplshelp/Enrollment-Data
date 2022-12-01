@@ -246,13 +246,26 @@
 56,
 56,
 56,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mario, Pizzacalla"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mario",
+"Pizzacalla"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -494,13 +507,26 @@
 37,
 37,
 37,
-37
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mario, Pizzacalla"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mario",
+"Pizzacalla"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -735,7 +761,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Structure of American Sign Language"
 }

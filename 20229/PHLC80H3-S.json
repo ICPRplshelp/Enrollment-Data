@@ -241,13 +241,26 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eliran, Haziza"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eliran",
+"Haziza"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -482,7 +495,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Philosophy of Language"
 }

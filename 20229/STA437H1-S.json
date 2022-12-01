@@ -376,13 +376,26 @@
 62,
 62,
 62,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Keith, Knight"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Keith",
+"Knight"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -759,13 +772,26 @@
 171,
 171,
 171,
-171
+171,
+174
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Keith, Knight"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Keith",
+"Knight"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -1135,7 +1161,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Methods for Multivariate Data"
 }

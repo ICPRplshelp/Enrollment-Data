@@ -376,13 +376,26 @@
 215,
 215,
 215,
-215
+215,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carolyn, Guertin"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Carolyn",
+"Guertin"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "The Digital Text"
 }

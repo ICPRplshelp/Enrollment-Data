@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 330,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669866935,
+330
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 327,
 327,
 327,
-327
+327,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Calculus II for Biological Sciences"
 }

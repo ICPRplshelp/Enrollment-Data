@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669866935,
+100
+]
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 95,
 95,
 95,
-94
+94,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Social Media, Platform Politics and Digital Cultures"
 }

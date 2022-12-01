@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647691,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 68,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1669866935,
+68
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -357,6 +362,7 @@
 63,
 63,
 63,
+62,
 62,
 62,
 62,
@@ -922,7 +928,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Introduction to Diaspora and Transnational Studies I"
 }

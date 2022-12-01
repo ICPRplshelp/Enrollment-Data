@@ -376,7 +376,8 @@
 102,
 102,
 102,
-101
+101,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -759,13 +760,26 @@
 58,
 58,
 58,
-58
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Murat Anil, Erdogdu"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Murat Anil",
+"Erdogdu"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1135,7 +1149,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Statistical Methods for Machine Learning II"
 }

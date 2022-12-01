@@ -376,13 +376,26 @@
 57,
 57,
 57,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joseph Damiani, Shaw"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joseph Damiani",
+"Shaw"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Real Estate Finance and Investment"
 }

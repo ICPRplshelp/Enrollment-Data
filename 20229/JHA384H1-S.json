@@ -376,13 +376,26 @@
 55,
 55,
 55,
-55
+55,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yehji, Jeong"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yehji",
+"Jeong"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -752,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Japan in the World, Mid-16th to Mid-20th century"
 }

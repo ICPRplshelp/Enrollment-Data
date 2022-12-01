@@ -241,6 +241,7 @@
 42,
 42,
 42,
+42,
 42
 ],
 "instructorLog": {
@@ -251,13 +252,19 @@
 "S., DHARIA (NOUTORID)"
 ],
 "timing": 1669423876
+},
+{
+"instructorsAfter": [
+"Shweta, Dharia"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"S.",
-"DHARIA (NOUTORID)"
+"Shweta",
+"Dharia"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -498,6 +505,7 @@
 39,
 39,
 39,
+40,
 40,
 40,
 40,
@@ -761,7 +769,8 @@
 33,
 33,
 33,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1011,6 +1020,7 @@
 35,
 34,
 34,
+33,
 33,
 33,
 33,
@@ -1281,7 +1291,8 @@
 40,
 40,
 40,
-40
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1541,6 +1552,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -1551,13 +1563,19 @@
 "S., DHARIA (NOUTORID)"
 ],
 "timing": 1669423876
+},
+{
+"instructorsAfter": [
+"Shweta, Dharia"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"S.",
-"DHARIA (NOUTORID)"
+"Shweta",
+"Dharia"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -1794,7 +1812,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Management Communications for Co-op"
 }

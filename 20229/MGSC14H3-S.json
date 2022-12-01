@@ -241,13 +241,26 @@
 72,
 72,
 72,
-72
+72,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Constantinou"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Peter",
+"Constantinou"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -482,7 +495,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Management Ethics"
 }

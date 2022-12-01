@@ -376,13 +376,26 @@
 288,
 288,
 288,
-288
+288,
+289
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Esam, Mahdi"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Esam",
+"Mahdi"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -759,13 +772,26 @@
 287,
 287,
 287,
-286
+286,
+285
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Esam, Mahdi"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Esam",
+"Mahdi"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -1135,7 +1161,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Methods of Data Analysis II"
 }

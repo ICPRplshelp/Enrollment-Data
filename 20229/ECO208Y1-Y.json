@@ -376,6 +376,7 @@
 123,
 123,
 123,
+123,
 123
 ],
 "instructorLog": {
@@ -771,6 +772,7 @@
 85,
 85,
 85,
+85,
 85
 ],
 "instructorLog": {
@@ -781,6 +783,13 @@
 "Michelle, Alexopoulos"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Michelle, Alexopoulos",
+"Terry, Yip"
+],
+"timing": 1669866935
 }
 ]
 },
@@ -788,6 +797,10 @@
 [
 "Michelle",
 "Alexopoulos"
+],
+[
+"Terry",
+"Yip"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1159,7 +1172,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Macroeconomic Theory"
 }

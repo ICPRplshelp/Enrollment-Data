@@ -241,6 +241,7 @@
 136,
 136,
 136,
+135,
 135
 ],
 "instructorLog": {
@@ -251,13 +252,19 @@
 ", TBD"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"GUNJAN, SYAL (NOUTORID)"
+],
+"timing": 1669866935
 }
 ]
 },
 "instructors": [
 [
-"",
-"TBD"
+"GUNJAN",
+"SYAL (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -494,7 +501,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Introduction to Databases and Web Applications"
 }

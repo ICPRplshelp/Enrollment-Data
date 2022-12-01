@@ -376,13 +376,26 @@
 182,
 182,
 182,
-182
+182,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Zhang"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Zhang"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -759,13 +772,26 @@
 180,
 180,
 180,
-180
+180,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chandra, Gummaluru"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chandra",
+"Gummaluru"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -1135,7 +1161,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Introduction to Machine Learning"
 }

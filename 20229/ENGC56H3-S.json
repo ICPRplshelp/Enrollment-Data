@@ -241,13 +241,26 @@
 49,
 49,
 49,
-47
+47,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Justin, Morris"
+],
+"timing": 1669866935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Justin",
+"Morris"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -482,7 +495,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1669866935
 ],
 "title": "Literature and Media: From Page to Screen"
 }
