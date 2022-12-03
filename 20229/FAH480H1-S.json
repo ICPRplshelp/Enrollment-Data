@@ -92,13 +92,26 @@
 3,
 3,
 3,
-3
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Moss"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Moss"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -184,7 +197,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Special Topics in the History of Art and Architecture"
 }

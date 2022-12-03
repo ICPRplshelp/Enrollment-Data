@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 260,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670027340,
+300
+]
+],
 "initialCap": 260
 },
 "enrollmentLogs": [
@@ -242,7 +247,8 @@
 303,
 303,
 303,
-303
+303,
+301
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -496,7 +502,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Modeling and Fabrication in Design"
 }

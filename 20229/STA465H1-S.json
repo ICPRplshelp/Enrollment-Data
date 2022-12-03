@@ -377,13 +377,26 @@
 15,
 15,
 15,
-16
+16,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vianey, Leos Barajas"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Vianey",
+"Leos Barajas"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -754,7 +767,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Theory and Methods for Complex Spatial Data"
 }

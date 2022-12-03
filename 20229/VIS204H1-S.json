@@ -242,13 +242,26 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Karen, Kraven"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Karen",
+"Kraven"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -482,6 +495,7 @@
 25,
 25,
 26,
+25,
 25,
 25,
 25,
@@ -752,6 +766,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -1006,7 +1021,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Installation Art"
 }

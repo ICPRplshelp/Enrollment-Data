@@ -242,7 +242,8 @@
 20,
 20,
 20,
-20
+20,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,12 +253,18 @@
 "Ping-Hsuan, Hsieh"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Ping Hsuan, Hsieh"
+],
+"timing": 1670027340
 }
 ]
 },
 "instructors": [
 [
-"Ping-Hsuan",
+"Ping Hsuan",
 "Hsieh"
 ]
 ],
@@ -496,7 +503,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "ANALOG SIGNAL PROCESSING CIRC."
 }

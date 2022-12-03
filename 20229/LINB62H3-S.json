@@ -247,6 +247,7 @@
 56,
 56,
 55,
+54,
 54
 ],
 "instructorLog": {
@@ -257,13 +258,19 @@
 "Mario, Pizzacalla"
 ],
 "timing": 1669866935
+},
+{
+"instructorsAfter": [
+"MARIO, PIZZACALLA (NOUTORID)"
+],
+"timing": 1670027340
 }
 ]
 },
 "instructors": [
 [
-"Mario",
-"Pizzacalla"
+"MARIO",
+"PIZZACALLA (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -508,6 +515,7 @@
 37,
 37,
 37,
+38,
 38
 ],
 "instructorLog": {
@@ -518,13 +526,19 @@
 "Mario, Pizzacalla"
 ],
 "timing": 1669866935
+},
+{
+"instructorsAfter": [
+"MARIO, PIZZACALLA (NOUTORID)"
+],
+"timing": 1670027340
 }
 ]
 },
 "instructors": [
 [
-"Mario",
-"Pizzacalla"
+"MARIO",
+"PIZZACALLA (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -762,7 +776,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Structure of American Sign Language"
 }

@@ -242,13 +242,26 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Samuel, Cardwell"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Samuel",
+"Cardwell"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -484,7 +497,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Introductory Latin II"
 }

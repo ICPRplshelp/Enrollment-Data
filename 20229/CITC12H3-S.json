@@ -242,13 +242,26 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivanka, Knezevic"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ivanka",
+"Knezevic"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -484,7 +497,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "City Structures and City Choices: Local Government, Management, and Policymaking"
 }

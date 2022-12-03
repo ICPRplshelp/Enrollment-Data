@@ -242,6 +242,7 @@
 51,
 51,
 51,
+51,
 51
 ],
 "instructorLog": {
@@ -252,13 +253,19 @@
 "Quentin, Chiotti"
 ],
 "timing": 1668718474
+},
+{
+"instructorsAfter": [
+"QUENTIN, CHIOTTI (NOUTORID)"
+],
+"timing": 1670027340
 }
 ]
 },
 "instructors": [
 [
-"Quentin",
-"Chiotti"
+"QUENTIN",
+"CHIOTTI (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -496,7 +503,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Risk"
 }

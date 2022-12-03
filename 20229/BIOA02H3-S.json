@@ -242,7 +242,8 @@
 379,
 379,
 379,
-380
+380,
+376
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -253,6 +254,15 @@
 "Stephen, Reid"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Rachel, Sturge",
+"Stephen, Reid",
+"Karolyn, Keir",
+"Terrence Tin, Chang"
+],
+"timing": 1670027340
 }
 ]
 },
@@ -264,6 +274,14 @@
 [
 "Stephen",
 "Reid"
+],
+[
+"Karolyn",
+"Keir"
+],
+[
+"Terrence Tin",
+"Chang"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -508,7 +526,8 @@
 532,
 532,
 532,
-533
+533,
+530
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -519,6 +538,15 @@
 "Stephen, Reid"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Rachel, Sturge",
+"Stephen, Reid",
+"Karolyn, Keir",
+"Terrence Tin, Chang"
+],
+"timing": 1670027340
 }
 ]
 },
@@ -530,6 +558,14 @@
 [
 "Stephen",
 "Reid"
+],
+[
+"Karolyn",
+"Keir"
+],
+[
+"Terrence Tin",
+"Chang"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -774,13 +810,41 @@
 213,
 213,
 213,
-211
+211,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rachel, Sturge",
+"Stephen, Reid",
+"Karolyn, Keir",
+"Terrence Tin, Chang"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rachel",
+"Sturge"
+],
+[
+"Stephen",
+"Reid"
+],
+[
+"Karolyn",
+"Keir"
+],
+[
+"Terrence Tin",
+"Chang"
+]
+],
 "meetingNumber": "LEC03"
 }
 ],
@@ -1016,7 +1080,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

@@ -377,13 +377,26 @@
 262,
 262,
 262,
-261
+261,
+259
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -761,13 +774,26 @@
 278,
 278,
 278,
-278
+278,
+271
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -1145,13 +1171,26 @@
 265,
 265,
 265,
-265
+265,
+262
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -1529,7 +1568,8 @@
 88,
 88,
 88,
-91
+91,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1906,7 +1946,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

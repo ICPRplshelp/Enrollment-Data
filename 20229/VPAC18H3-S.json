@@ -242,13 +242,26 @@
 77,
 77,
 77,
+76,
 76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Felice, Gorica"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Felice",
+"Gorica"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -484,7 +497,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Raising Funds in the Arts and Media"
 }

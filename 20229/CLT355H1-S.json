@@ -377,13 +377,26 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Katrin, Urschel"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Katrin",
+"Urschel"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -754,7 +767,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Contemporary Celtic Cinema"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1660867317,
 "delivery": "SYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -15,6 +15,10 @@
 [
 1669175259,
 200
+],
+[
+1670027340,
+250
 ]
 ],
 "initialCap": 150
@@ -251,7 +255,8 @@
 202,
 202,
 202,
-209
+209,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,7 +510,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Rice, Sugar, and Spice in Southeast Asia:  a History of Food in the Region"
 }

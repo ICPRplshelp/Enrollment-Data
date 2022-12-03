@@ -1,6 +1,6 @@
 {
 "code": "DRM368H1-F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1656647689,
@@ -376,6 +376,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -389,7 +390,12 @@
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Antje",
+"Budde"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -759,7 +765,8 @@
 1669687221,
 1669690962,
 1669705737,
-1669739034
+1669739034,
+1670027340
 ],
 "title": "Devised Theatre"
 }

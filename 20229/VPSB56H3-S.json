@@ -242,6 +242,7 @@
 40,
 40,
 40,
+41,
 41
 ],
 "instructorLog": {
@@ -266,9 +267,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670027340,
+16
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -503,6 +509,7 @@
 15,
 15,
 15,
+16,
 16
 ],
 "instructorLog": {
@@ -745,7 +752,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Digital Studio I"
 }

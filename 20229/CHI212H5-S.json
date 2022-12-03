@@ -242,13 +242,26 @@
 23,
 23,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jing, Li"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jing",
+"Li"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -491,13 +504,26 @@
 27,
 27,
 26,
-26
+26,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jing, Li"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jing",
+"Li"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -733,7 +759,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Chinese for Academic Purposes II"
 }

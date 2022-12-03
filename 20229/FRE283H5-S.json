@@ -242,13 +242,26 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Catherine, Phillips"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Catherine",
+"Phillips"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -484,7 +497,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Intermediate Language Practice: Spoken French"
 }

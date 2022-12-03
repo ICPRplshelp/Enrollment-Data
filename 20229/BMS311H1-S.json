@@ -382,13 +382,26 @@
 54,
 54,
 54,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michel, Mersereau"
+],
+"timing": 1670027340
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michel",
+"Mersereau"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -759,7 +772,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Open Topics in Book & Media Studies"
 }

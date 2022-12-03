@@ -242,6 +242,7 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -252,13 +253,19 @@
 "Carla, Taban"
 ],
 "timing": 1669739034
+},
+{
+"instructorsAfter": [
+"CARLA, TABAN (NOUTORID)"
+],
+"timing": 1670027340
 }
 ]
 },
 "instructors": [
 [
-"Carla",
-"Taban"
+"CARLA",
+"TABAN (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -496,7 +503,8 @@
 1669690962,
 1669705737,
 1669739034,
-1669866935
+1669866935,
+1670027340
 ],
 "title": "Contemporary Quebec Drama"
 }
