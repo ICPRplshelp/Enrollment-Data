@@ -381,13 +381,26 @@
 63,
 63,
 63,
-63
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lazar, Konforti"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lazar",
+"Konforti"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -762,7 +775,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "The Changing Geography of Latin America"
 }

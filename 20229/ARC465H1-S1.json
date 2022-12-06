@@ -178,13 +178,26 @@
 45,
 45,
 45,
-45
+45,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Angela, Cho"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Angela",
+"Cho"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -356,7 +369,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Advanced Topics in Architecture"
 }

@@ -381,6 +381,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -786,6 +787,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -796,6 +798,13 @@
 "A.W., Peet"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"A.W., Peet",
+"Dylan, Jow"
+],
+"timing": 1670288891
 }
 ]
 },
@@ -803,6 +812,10 @@
 [
 "A.W.",
 "Peet"
+],
+[
+"Dylan",
+"Jow"
 ]
 ],
 "meetingNumber": "LEC2001"
@@ -1179,7 +1192,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Relativity Theory I"
 }

@@ -246,6 +246,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -256,13 +257,19 @@
 ", FACULTY"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Jeneni, Thiagavel"
+],
+"timing": 1670288891
 }
 ]
 },
 "instructors": [
 [
-"",
-"FACULTY"
+"Jeneni",
+"Thiagavel"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -504,7 +511,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Supervised Study in Biology"
 }

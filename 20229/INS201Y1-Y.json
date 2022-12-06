@@ -381,6 +381,7 @@
 57,
 57,
 57,
+57,
 57
 ],
 "instructorLog": {
@@ -391,6 +392,13 @@
 "Kevin, White"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Kevin, White",
+"Meagan, Hamilton"
+],
+"timing": 1670288891
 }
 ]
 },
@@ -398,6 +406,10 @@
 [
 "Kevin",
 "White"
+],
+[
+"Meagan",
+"Hamilton"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -781,6 +793,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -791,6 +804,13 @@
 "Kevin, White"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Kevin, White",
+"Meagan, Hamilton"
+],
+"timing": 1670288891
 }
 ]
 },
@@ -798,6 +818,10 @@
 [
 "Kevin",
 "White"
+],
+[
+"Meagan",
+"Hamilton"
 ]
 ],
 "meetingNumber": "LEC2000"
@@ -1174,7 +1198,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Introduction to Indigenous Studies: Foundations, History and Politics"
 }

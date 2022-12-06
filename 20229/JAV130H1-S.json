@@ -246,6 +246,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -511,7 +512,8 @@
 20,
 20,
 20,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -776,7 +778,8 @@
 27,
 27,
 27,
-27
+27,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1041,7 +1044,8 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1279,6 +1283,7 @@
 23,
 23,
 23,
+25,
 25,
 25,
 25,
@@ -1571,7 +1576,8 @@
 26,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1836,7 +1842,8 @@
 24,
 24,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2101,6 +2108,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -2344,6 +2352,7 @@
 25,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -2631,6 +2640,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -2870,6 +2880,7 @@
 24,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -3161,13 +3172,26 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Durga, Rajah"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Durga",
+"Rajah"
+]
+],
 "meetingNumber": "LEC0112"
 },
 {
@@ -3414,13 +3438,26 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, Zanchetta"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sarah",
+"Zanchetta"
+]
+],
 "meetingNumber": "LEC0113"
 },
 {
@@ -3664,6 +3701,7 @@
 15,
 15,
 15,
+17,
 17,
 17,
 17,
@@ -3920,13 +3958,26 @@
 10,
 10,
 10,
-10
+10,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nimisha, Bhanot"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nimisha",
+"Bhanot"
+]
+],
 "meetingNumber": "LEC0115"
 }
 ],
@@ -4166,7 +4217,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Visual Strategies"
 }

@@ -381,13 +381,26 @@
 131,
 131,
 131,
-131
+131,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joshua David, Pilzer"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joshua David",
+"Pilzer"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -762,7 +775,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Performing Arts of East Asia"
 }

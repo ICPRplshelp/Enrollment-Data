@@ -1,0 +1,42 @@
+{
+"code": "RLG462H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1670288891,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christoph, Emmrich"
+],
+"timing": 1670288891
+}
+]
+},
+"instructors": [
+[
+"Christoph",
+"Emmrich"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1670288890,
+1670288891
+],
+"title": "Newar Religion"
+}

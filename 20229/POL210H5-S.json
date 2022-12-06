@@ -246,7 +246,8 @@
 131,
 131,
 131,
-131
+131,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -511,13 +512,26 @@
 88,
 88,
 88,
-88
+88,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Yaniszewski"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mark",
+"Yaniszewski"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -757,7 +771,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Contemporary Challenges in International Relations"
 }

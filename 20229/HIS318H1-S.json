@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670288891,
+60
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -381,7 +386,8 @@
 59,
 59,
 59,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -774,7 +780,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "The \"Wild\" West in Canada"
 }

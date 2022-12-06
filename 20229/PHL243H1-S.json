@@ -381,13 +381,26 @@
 215,
 215,
 215,
-215
+215,
+213
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zoe, Anthony"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Zoe",
+"Anthony"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -762,7 +775,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Philosophy of Human Sexuality"
 }

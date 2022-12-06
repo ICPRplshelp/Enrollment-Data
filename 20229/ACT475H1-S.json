@@ -381,13 +381,26 @@
 22,
 22,
 22,
-22
+22,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vicki, Zhang"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Vicki",
+"Zhang"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -762,7 +775,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Insurance Products and Regulation with AXIS"
 }

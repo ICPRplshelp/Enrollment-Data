@@ -381,6 +381,7 @@
 133,
 133,
 133,
+133,
 133
 ],
 "instructorLog": {
@@ -781,6 +782,7 @@
 167,
 167,
 167,
+167,
 167
 ],
 "instructorLog": {
@@ -791,15 +793,14 @@
 "Alexander, Braverman"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1670288891
 }
 ]
 },
-"instructors": [
-[
-"Alexander",
-"Braverman"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1174,7 +1175,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Complex Variables"
 }

@@ -381,7 +381,8 @@
 115,
 115,
 115,
-115
+115,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,6 +392,13 @@
 "Katherine Suzanne, Daignault"
 ],
 "timing": 1669866935
+},
+{
+"instructorsAfter": [
+"Katherine Suzanne, Daignault",
+"Jastaran, Singh"
+],
+"timing": 1670288891
 }
 ]
 },
@@ -398,6 +406,10 @@
 [
 "Katherine Suzanne",
 "Daignault"
+],
+[
+"Jastaran",
+"Singh"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -781,6 +793,7 @@
 120,
 120,
 120,
+120,
 120
 ],
 "instructorLog": {
@@ -791,6 +804,13 @@
 "Jastaran, Singh"
 ],
 "timing": 1669866935
+},
+{
+"instructorsAfter": [
+"Jastaran, Singh",
+"Katherine Suzanne, Daignault"
+],
+"timing": 1670288891
 }
 ]
 },
@@ -798,6 +818,10 @@
 [
 "Jastaran",
 "Singh"
+],
+[
+"Katherine Suzanne",
+"Daignault"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -1174,7 +1198,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Statistics and Scientific Inquiry in the Life Sciences"
 }

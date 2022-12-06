@@ -246,6 +246,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -499,13 +500,26 @@
 103,
 103,
 103,
+103,
 103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kaveh, Hassani"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kaveh",
+"Hassani"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -749,6 +763,7 @@
 82,
 82,
 82,
+81,
 81,
 81,
 81,
@@ -998,7 +1013,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

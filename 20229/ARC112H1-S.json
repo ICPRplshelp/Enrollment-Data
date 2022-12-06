@@ -5,9 +5,14 @@
 {
 "createdAt": 1667495223,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670288891,
+30
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -59,7 +64,8 @@
 0,
 0,
 0,
-0
+0,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,7 +136,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Design + Engineering I"
 }

@@ -246,13 +246,26 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xiao, Jie"
+],
+"timing": 1670288891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Xiao",
+"Jie"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -492,7 +505,8 @@
 1670027340,
 1670034307,
 1670093439,
-1670198706
+1670198706,
+1670288891
 ],
 "title": "Groups and Symmetry"
 }
