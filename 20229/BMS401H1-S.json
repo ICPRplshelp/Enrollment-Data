@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670375421,
+36
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -373,6 +378,7 @@
 37,
 37,
 37,
+36,
 36,
 36,
 36,
@@ -783,7 +789,8 @@
 35,
 35,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1177,7 +1184,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Advanced Topics in Book & Media Cultures"
 }

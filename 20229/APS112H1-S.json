@@ -247,7 +247,8 @@
 257,
 257,
 257,
-257
+257,
+256
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,6 +259,14 @@
 "Ted, Nolan"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Ted, Nolan",
+"Konstantinos, Plataniotis"
+],
+"timing": 1670375421
 }
 ]
 },
@@ -269,6 +278,10 @@
 [
 "Ted",
 "Nolan"
+],
+[
+"Konstantinos",
+"Plataniotis"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -518,6 +531,7 @@
 267,
 267,
 267,
+267,
 267
 ],
 "instructorLog": {
@@ -529,6 +543,14 @@
 "Ted, Nolan"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Ted, Nolan",
+"Konstantinos, Plataniotis"
+],
+"timing": 1670375421
 }
 ]
 },
@@ -540,6 +562,10 @@
 [
 "Ted",
 "Nolan"
+],
+[
+"Konstantinos",
+"Plataniotis"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -789,6 +815,7 @@
 406,
 406,
 406,
+406,
 406
 ],
 "instructorLog": {
@@ -800,6 +827,14 @@
 "Ted, Nolan"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Ted, Nolan",
+"Konstantinos, Plataniotis"
+],
+"timing": 1670375421
 }
 ]
 },
@@ -811,6 +846,10 @@
 [
 "Ted",
 "Nolan"
+],
+[
+"Konstantinos",
+"Plataniotis"
 ]
 ],
 "meetingNumber": "LEC0103"
@@ -1053,7 +1092,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Engineering Strategies & Practice II"
 }

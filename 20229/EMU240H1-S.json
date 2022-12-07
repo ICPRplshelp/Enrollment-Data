@@ -247,6 +247,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -261,10 +262,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670288891
+},
+{
+"instructorsAfter": [
+"Matias, Recharte"
+],
+"timing": 1670375421
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Matias",
+"Recharte"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -505,7 +517,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Theoretical Inquiry in Mus Ed"
 }

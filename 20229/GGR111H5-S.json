@@ -252,7 +252,8 @@
 501,
 501,
 501,
-504
+504,
+510
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,13 +263,19 @@
 "Nicole, Laliberte"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Killian, McCormack"
+],
+"timing": 1670375421
 }
 ]
 },
 "instructors": [
 [
-"Nicole",
-"Laliberte"
+"Killian",
+"McCormack"
 ]
 ],
 "meetingNumber": "LEC9999"
@@ -511,7 +518,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Human Geography"
 }

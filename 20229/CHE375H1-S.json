@@ -247,6 +247,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -261,10 +262,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669175259
+},
+{
+"instructorsAfter": [
+"Yuri, Lawryshyn"
+],
+"timing": 1670375421
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Yuri",
+"Lawryshyn"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -505,7 +517,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Engineering Finance and Economics"
 }

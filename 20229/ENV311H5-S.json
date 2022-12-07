@@ -256,13 +256,26 @@
 190,
 190,
 190,
-195
+195,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carlos, Avendano"
+],
+"timing": 1670375421
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Carlos",
+"Avendano"
+]
+],
 "meetingNumber": "LEC9999"
 }
 ],
@@ -503,7 +516,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Environmental Issues in the Developing World"
 }

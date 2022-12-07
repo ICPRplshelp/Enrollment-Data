@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670375421,
+20
+]
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -247,7 +252,8 @@
 12,
 12,
 12,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -506,7 +512,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Supervised Study in Biology"
 }

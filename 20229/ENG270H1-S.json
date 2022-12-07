@@ -382,13 +382,26 @@
 54,
 54,
 54,
-55
+55,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Barbara Ines, Ribeiro Simoes Daibert"
+],
+"timing": 1670375421
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Barbara Ines",
+"Ribeiro Simoes Daibert"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -764,7 +777,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Introduction to Colonial and Postcolonial Writing"
 }

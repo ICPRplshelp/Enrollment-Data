@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670375421,
+160
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -247,7 +252,8 @@
 171,
 171,
 171,
-172
+172,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -506,7 +512,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Organic Chemistry I"
 }

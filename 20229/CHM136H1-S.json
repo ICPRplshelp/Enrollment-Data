@@ -382,7 +382,8 @@
 598,
 598,
 598,
-594
+594,
+592
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -793,6 +794,7 @@
 582,
 582,
 582,
+581,
 581
 ],
 "instructorLog": {
@@ -805,6 +807,14 @@
 "Dwight, Seferos"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Kristine, Quinlan",
+"Dwight, Seferos",
+"Scott, Browning"
+],
+"timing": 1670375421
 }
 ]
 },
@@ -814,12 +824,12 @@
 "Quinlan"
 ],
 [
-"Mark",
-"Nitz"
-],
-[
 "Dwight",
 "Seferos"
+],
+[
+"Scott",
+"Browning"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1204,7 +1214,8 @@
 607,
 607,
 607,
-603
+603,
+600
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1615,7 +1626,8 @@
 400,
 400,
 400,
-394
+394,
+391
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1627,6 +1639,14 @@
 "Haissi, Cui"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Barbora, Morra",
+"Haissi, Cui",
+"Mark, Nitz"
+],
+"timing": 1670375421
 }
 ]
 },
@@ -1636,12 +1656,12 @@
 "Morra"
 ],
 [
-"Scott",
-"Browning"
-],
-[
 "Haissi",
 "Cui"
+],
+[
+"Mark",
+"Nitz"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -2019,7 +2039,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Introductory Organic Chemistry I"
 }

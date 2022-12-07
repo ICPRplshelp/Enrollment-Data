@@ -247,13 +247,26 @@
 44,
 44,
 44,
+42,
 42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mahua, Sarkar"
+],
+"timing": 1670375421
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mahua",
+"Sarkar"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -494,7 +507,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Special Topics in Social Inequality"
 }

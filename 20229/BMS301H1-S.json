@@ -382,7 +382,8 @@
 60,
 60,
 60,
-60
+60,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -406,9 +407,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670375421,
+50
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -783,7 +789,8 @@
 51,
 51,
 51,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1177,7 +1184,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Special Topics in Book & Media Cultures"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670375421,
+60
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -382,6 +387,7 @@
 61,
 61,
 61,
+59,
 59
 ],
 "instructorLog": {
@@ -776,7 +782,8 @@
 1670034307,
 1670093439,
 1670198706,
-1670288891
+1670288891,
+1670375421
 ],
 "title": "Modern China"
 }
