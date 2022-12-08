@@ -248,13 +248,26 @@
 33,
 33,
 34,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rebekah, Carson"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rebekah",
+"Carson"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Topics in Early Modern Art and Architecture"
 }

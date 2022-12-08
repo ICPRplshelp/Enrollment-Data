@@ -248,13 +248,26 @@
 160,
 160,
 159,
-158
+158,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steven, Coyne"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Steven",
+"Coyne"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Business Ethics"
 }

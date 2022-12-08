@@ -248,13 +248,26 @@
 86,
 86,
 87,
+86,
 86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jamie, de Jong"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jamie",
+"de Jong"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -503,7 +516,8 @@
 142,
 142,
 140,
-138
+138,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -770,7 +784,8 @@
 112,
 112,
 117,
-120
+120,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -800,6 +815,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1292,7 +1308,8 @@
 90,
 90,
 87,
-87
+87,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1552,7 +1569,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Introduction to Mathematical Proofs"
 }

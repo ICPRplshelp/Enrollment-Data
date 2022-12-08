@@ -248,7 +248,8 @@
 376,
 376,
 376,
-376
+376,
+361
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -537,7 +538,8 @@
 530,
 530,
 529,
-530
+530,
+515
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -583,9 +585,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "ASYIF",
-"enrollmentCap": 180,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+250
+]
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -826,7 +833,8 @@
 208,
 208,
 209,
-209
+209,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1101,7 +1109,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

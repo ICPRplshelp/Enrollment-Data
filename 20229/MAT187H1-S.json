@@ -248,7 +248,8 @@
 264,
 264,
 264,
-263
+263,
+260
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,6 +259,13 @@
 "Camelia, Karimian Pour"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Camelia, Karimian Pour",
+"Sadiyya, Parnell-Hendrickson"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -265,6 +273,10 @@
 [
 "Camelia",
 "Karimian Pour"
+],
+[
+"Sadiyya",
+"Parnell-Hendrickson"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -515,7 +527,8 @@
 274,
 274,
 274,
-273
+273,
+271
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -525,6 +538,13 @@
 "Camelia, Karimian Pour"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Camelia, Karimian Pour",
+"Jose, Palacios Armesto"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -532,6 +552,10 @@
 [
 "Camelia",
 "Karimian Pour"
+],
+[
+"Jose",
+"Palacios Armesto"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -782,6 +806,7 @@
 422,
 422,
 421,
+420,
 420
 ],
 "instructorLog": {
@@ -792,6 +817,13 @@
 "Geoffrey, McGregor"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Geoffrey, McGregor",
+"Sadiyya, Parnell-Hendrickson"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -799,6 +831,10 @@
 [
 "Geoffrey",
 "McGregor"
+],
+[
+"Sadiyya",
+"Parnell-Hendrickson"
 ]
 ],
 "meetingNumber": "LEC0103"
@@ -1042,7 +1078,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Calculus II"
 }

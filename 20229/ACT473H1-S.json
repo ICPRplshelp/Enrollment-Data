@@ -383,6 +383,7 @@
 13,
 13,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -393,6 +394,13 @@
 "Charles Ian, Genno"
 ],
 "timing": 1670288891
+},
+{
+"instructorsAfter": [
+"Charles Ian, Genno",
+"Howard, Lyons"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -400,6 +408,10 @@
 [
 "Charles Ian",
 "Genno"
+],
+[
+"Howard",
+"Lyons"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -778,7 +790,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Issues In Actuarial Practice"
 }

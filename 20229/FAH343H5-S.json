@@ -248,13 +248,26 @@
 15,
 15,
 15,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zina, Uzdenskaya"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Zina",
+"Uzdenskaya"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Pilgrimage"
 }

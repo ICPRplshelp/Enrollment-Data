@@ -248,7 +248,8 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,15 +259,14 @@
 "Jan, Matejovic"
 ],
 "timing": 1668468113
+},
+{
+"instructorsAfter": [],
+"timing": 1670520098
 }
 ]
 },
-"instructors": [
-[
-"Jan",
-"Matejovic"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -508,7 +508,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "An Introduction to Medicinal Chemistry and Molecular Recognition"
 }

@@ -383,13 +383,26 @@
 43,
 43,
 44,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jamie, Shaw"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jamie",
+"Shaw"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -766,7 +779,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Philosophy of Physics"
 }

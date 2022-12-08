@@ -248,13 +248,26 @@
 154,
 154,
 154,
+151,
 151
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jill, Caskey"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jill",
+"Caskey"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Early Medieval Art and Architecture"
 }

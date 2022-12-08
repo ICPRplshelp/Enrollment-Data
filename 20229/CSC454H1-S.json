@@ -383,6 +383,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -393,6 +394,13 @@
 "Mario, Grech"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Mario, Grech",
+"Sayyed Hossein, Nezhadi"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -400,6 +408,10 @@
 [
 "Mario",
 "Grech"
+],
+[
+"Sayyed Hossein",
+"Nezhadi"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -778,7 +790,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "The Business of Software"
 }

@@ -383,13 +383,26 @@
 142,
 142,
 144,
+146,
 146
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cory, Lewis"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cory",
+"Lewis"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -766,7 +779,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Philosophy of the Internet"
 }

@@ -248,13 +248,26 @@
 29,
 29,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Francesco, Morriello"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Francesco",
+"Morriello"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Urban Sites and Sounds"
 }

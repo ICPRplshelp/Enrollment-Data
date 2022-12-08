@@ -248,7 +248,8 @@
 68,
 68,
 69,
-69
+69,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -515,7 +516,8 @@
 77,
 77,
 78,
-80
+80,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -782,13 +784,26 @@
 63,
 63,
 69,
-70
+70,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Asma, Khalid"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Asma",
+"Khalid"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -800,6 +815,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1285,7 +1301,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Differential Calculus"
 }

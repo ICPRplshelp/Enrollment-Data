@@ -383,13 +383,26 @@
 587,
 587,
 586,
+590,
 590
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eamon, Darnell"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eamon",
+"Darnell"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -773,13 +786,26 @@
 397,
 397,
 394,
-390
+390,
+393
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eamon, Darnell"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eamon",
+"Darnell"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -1156,7 +1182,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Modern Symbolic Logic"
 }

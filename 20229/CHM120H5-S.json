@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 400,
+"enrollmentCap": 380,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+380
+]
+],
 "initialCap": 400
 },
 "enrollmentLogs": [
@@ -248,7 +253,8 @@
 379,
 379,
 377,
-377
+377,
+356
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,9 +278,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 400,
+"enrollmentCap": 420,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+420
+]
+],
 "initialCap": 400
 },
 "enrollmentLogs": [
@@ -515,7 +526,8 @@
 406,
 406,
 408,
-408
+408,
+424
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -775,7 +787,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Chemical Principles 2"
 }

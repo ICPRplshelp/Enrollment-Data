@@ -248,6 +248,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -515,7 +516,8 @@
 54,
 54,
 54,
-54
+54,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -539,9 +541,14 @@
 {
 "createdAt": 1667894988,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+73
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -782,7 +789,8 @@
 64,
 64,
 64,
-64
+64,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1042,7 +1050,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Chem Eng & Applied Chem IV"
 }

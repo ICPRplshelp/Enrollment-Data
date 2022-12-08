@@ -248,13 +248,26 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hadiya, Roderique"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hadiya",
+"Roderique"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Senior Seminar in Journalism"
 }

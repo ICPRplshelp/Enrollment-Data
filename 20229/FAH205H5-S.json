@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 141,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+141
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -248,13 +253,26 @@
 144,
 144,
 143,
-141
+141,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liat, Naeh"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liat",
+"Naeh"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +514,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Art in Antiquity"
 }

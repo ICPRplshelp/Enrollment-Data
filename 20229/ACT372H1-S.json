@@ -383,6 +383,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -393,6 +394,13 @@
 "Evgueni, Venkov"
 ],
 "timing": 1670288891
+},
+{
+"instructorsAfter": [
+"Evgueni, Venkov",
+"Sajjad, Ahmad"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -400,6 +408,10 @@
 [
 "Evgueni",
 "Venkov"
+],
+[
+"Sajjad",
+"Ahmad"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -778,7 +790,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Basic Ratemaking Methods For P&C Insurance"
 }

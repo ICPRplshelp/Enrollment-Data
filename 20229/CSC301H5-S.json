@@ -248,6 +248,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -266,6 +267,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -758,7 +760,8 @@
 77,
 77,
 76,
-78
+78,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -768,12 +771,18 @@
 "Wen Xuan, Wang"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Jason, Wang"
+],
+"timing": 1670520098
 }
 ]
 },
 "instructors": [
 [
-"Wen Xuan",
+"Jason",
 "Wang"
 ]
 ],
@@ -1018,7 +1027,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Introduction to Software Engineering"
 }

@@ -286,7 +286,8 @@
 14,
 14,
 14,
-14
+14,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -591,13 +592,26 @@
 1,
 1,
 1,
-1
+1,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ji Eun, Sung"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ji Eun",
+"Sung"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -877,7 +891,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Advanced Topics in East Asian Studies"
 }

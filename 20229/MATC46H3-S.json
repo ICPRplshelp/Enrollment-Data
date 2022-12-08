@@ -248,7 +248,8 @@
 143,
 143,
 143,
-142
+142,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,10 +263,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669073490
+},
+{
+"instructorsAfter": [
+"Kai, Ye"
+],
+"timing": 1670520098
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Kai",
+"Ye"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -507,7 +519,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Differential Equations II"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 54,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+54
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -248,13 +253,26 @@
 53,
 53,
 53,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Erin Shizue, Nunoda"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Erin Shizue",
+"Nunoda"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +514,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Topics in Visual Culture and Communication"
 }

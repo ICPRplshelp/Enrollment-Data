@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+41
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -248,7 +253,8 @@
 30,
 30,
 30,
-30
+30,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,9 +278,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+42
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -515,7 +526,8 @@
 39,
 39,
 39,
-39
+39,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -782,7 +794,8 @@
 13,
 13,
 13,
-13
+13,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1042,7 +1055,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Principles of International Marketing"
 }

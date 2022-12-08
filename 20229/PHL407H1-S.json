@@ -383,6 +383,7 @@
 32,
 32,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -785,13 +786,26 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matthew, Scarfone"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matthew",
+"Scarfone"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1168,7 +1182,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Seminar in Ethics"
 }

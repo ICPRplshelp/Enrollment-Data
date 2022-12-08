@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+56
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -248,13 +253,26 @@
 55,
 55,
 56,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bruno Rafael, Veras de Morais e Silva"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bruno Rafael",
+"Veras de Morais e Silva"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -496,7 +514,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Topics in Visual Culture and Communication"
 }

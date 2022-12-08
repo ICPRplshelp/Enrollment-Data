@@ -253,13 +253,26 @@
 70,
 70,
 71,
+71,
 71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Karly-Lynne, Scott"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Karly-Lynne",
+"Scott"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -501,7 +514,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "The Comedic Image"
 }

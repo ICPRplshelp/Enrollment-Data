@@ -253,13 +253,26 @@
 26,
 26,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Weijie, Lai"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Weijie",
+"Lai"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -501,7 +514,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Topics in Cinema Studies"
 }

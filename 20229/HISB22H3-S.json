@@ -5,9 +5,14 @@
 {
 "createdAt": 1666840288,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670520098,
+20
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -69,7 +74,8 @@
 6,
 6,
 8,
-8
+8,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +156,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Histories of Black Feminism Canada: From Runaway Slaves to #BlackLivesMatter"
 }

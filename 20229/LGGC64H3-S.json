@@ -248,6 +248,7 @@
 40,
 40,
 39,
+38,
 38
 ],
 "instructorLog": {
@@ -258,13 +259,19 @@
 "Ting, Guo"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Rui, Wang"
+],
+"timing": 1670520098
 }
 ]
 },
 "instructors": [
 [
-"Ting",
-"Guo"
+"Rui",
+"Wang"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -515,6 +522,7 @@
 42,
 42,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -525,13 +533,19 @@
 "Ting, Guo"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Jingsong, Ma"
+],
+"timing": 1670520098
 }
 ]
 },
 "instructors": [
 [
-"Ting",
-"Guo"
+"Jingsong",
+"Ma"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -775,7 +789,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Reading Chinese and English: China from the Inside Out"
 }

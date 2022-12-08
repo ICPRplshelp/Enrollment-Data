@@ -248,7 +248,8 @@
 265,
 265,
 264,
-263
+263,
+262
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,6 +259,13 @@
 "Sebastian, Goodfellow"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Sebastian, Goodfellow",
+"Benjamin, Kinsella"
+],
+"timing": 1670520098
 }
 ]
 },
@@ -265,6 +273,10 @@
 [
 "Sebastian",
 "Goodfellow"
+],
+[
+"Benjamin",
+"Kinsella"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -515,7 +527,8 @@
 149,
 149,
 149,
-150
+150,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -782,7 +795,8 @@
 131,
 131,
 130,
-129
+129,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1042,7 +1056,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Fundamentals of Computer Programming"
 }

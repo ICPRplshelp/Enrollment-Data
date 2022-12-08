@@ -248,7 +248,8 @@
 146,
 146,
 142,
-142
+142,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -515,7 +516,8 @@
 156,
 156,
 154,
-151
+151,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -525,13 +527,19 @@
 ", TBD"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Francisco, Estrada"
+],
+"timing": 1670520098
 }
 ]
 },
 "instructors": [
 [
-"",
-"TBD"
+"Francisco",
+"Estrada"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -782,7 +790,8 @@
 123,
 123,
 121,
-120
+120,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1049,7 +1058,8 @@
 77,
 77,
 77,
-78
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1309,7 +1319,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Introduction to Computer Science II"
 }

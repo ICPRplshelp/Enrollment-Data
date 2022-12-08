@@ -248,13 +248,26 @@
 101,
 101,
 101,
-99
+99,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joanna, Zigouris"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joanna",
+"Zigouris"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -496,7 +509,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Vertebrate Histology: Cells and Tissues"
 }

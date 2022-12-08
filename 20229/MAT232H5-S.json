@@ -248,7 +248,8 @@
 153,
 153,
 144,
-136
+136,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -515,13 +516,26 @@
 0,
 0,
 15,
-24
+24,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nasim, Muhammad"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nasim",
+"Muhammad"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -770,7 +784,8 @@
 142,
 142,
 130,
-128
+128,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1018,7 +1033,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Calculus of Several Variables"
 }

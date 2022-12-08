@@ -383,6 +383,7 @@
 64,
 64,
 65,
+65,
 65
 ],
 "instructorLog": {
@@ -790,13 +791,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yuchong, Zhang"
+],
+"timing": 1670520098
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yuchong",
+"Zhang"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -1173,7 +1187,8 @@
 1670093439,
 1670198706,
 1670288891,
-1670375421
+1670375421,
+1670520098
 ],
 "title": "Stochastic Processes"
 }
