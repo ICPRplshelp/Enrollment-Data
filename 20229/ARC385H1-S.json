@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 51,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670605095,
+51
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -248,6 +253,7 @@
 50,
 50,
 50,
+51,
 51,
 51
 ],
@@ -510,7 +516,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Physical Computing"
 }

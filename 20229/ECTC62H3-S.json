@@ -249,7 +249,8 @@
 38,
 38,
 38,
-39
+39,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,13 +266,19 @@
 "CHRIS, SONG (NOUTORID)"
 ],
 "timing": 1670375421
+},
+{
+"instructorsAfter": [
+"Zijiang, Song"
+],
+"timing": 1670605095
 }
 ]
 },
 "instructors": [
 [
-"CHRIS",
-"SONG (NOUTORID)"
+"Zijiang",
+"Song"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -516,7 +523,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Translation in Media"
 }

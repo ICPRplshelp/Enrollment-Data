@@ -384,13 +384,26 @@
 91,
 91,
 90,
-89
+89,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexandra, Bolintineanu"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexandra",
+"Bolintineanu"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -768,7 +781,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Getting Medieval: Place and Space"
 }

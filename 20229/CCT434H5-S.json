@@ -249,7 +249,8 @@
 14,
 15,
 16,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,6 +261,12 @@
 "PAM, SHAW"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"SHEERAZ, WANIA"
+],
+"timing": 1670605095
 }
 ]
 },
@@ -267,10 +274,6 @@
 [
 "SHEERAZ",
 "WANIA"
-],
-[
-"PAM",
-"SHAW"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -520,6 +523,7 @@
 33,
 33,
 33,
+32,
 32,
 32,
 32
@@ -790,7 +794,8 @@
 39,
 38,
 38,
-38
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -801,6 +806,12 @@
 "PAM, SHAW"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"SHEERAZ, WANIA"
+],
+"timing": 1670605095
 }
 ]
 },
@@ -808,10 +819,6 @@
 [
 "SHEERAZ",
 "WANIA"
-],
-[
-"PAM",
-"SHAW"
 ]
 ],
 "meetingNumber": "LEC0103"
@@ -1063,6 +1070,7 @@
 46,
 45,
 44,
+45,
 45
 ],
 "instructorLog": {
@@ -1331,7 +1339,8 @@
 43,
 43,
 43,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1592,7 +1601,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Design Thinking II (SH)"
 }

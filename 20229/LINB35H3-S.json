@@ -70,7 +70,8 @@
 8,
 8,
 8,
-8
+8,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +81,19 @@
 "SHOHINI, BHATTASALI (NOUTORID)"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"SHOHINI, BHATTASALI"
+],
+"timing": 1670605095
 }
 ]
 },
 "instructors": [
 [
 "SHOHINI",
-"BHATTASALI (NOUTORID)"
+"BHATTASALI"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -152,7 +159,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Introduction to Computational Linguistics"
 }

@@ -249,6 +249,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -259,15 +260,14 @@
 "James, Mills"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1670605095
 }
 ]
 },
-"instructors": [
-[
-"James",
-"Mills"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -510,7 +510,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Vibrations"
 }

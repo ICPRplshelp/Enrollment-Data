@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670605095,
+86
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -249,6 +254,7 @@
 84,
 85,
 86,
+85,
 85
 ],
 "instructorLog": {
@@ -510,7 +516,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "History of Architectural Knowledge"
 }

@@ -384,7 +384,8 @@
 259,
 259,
 258,
-260
+260,
+259
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -787,7 +788,8 @@
 271,
 268,
 268,
-269
+269,
+268
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1188,6 +1190,7 @@
 262,
 262,
 262,
+261,
 261,
 261,
 261
@@ -1593,13 +1596,26 @@
 94,
 95,
 96,
-94
+94,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1977,7 +1993,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

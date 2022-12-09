@@ -249,6 +249,7 @@
 257,
 257,
 256,
+256,
 256
 ],
 "instructorLog": {
@@ -527,6 +528,7 @@
 268,
 268,
 268,
+267,
 267,
 267,
 267,
@@ -819,7 +821,8 @@
 406,
 406,
 406,
-405
+405,
+404
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -838,6 +841,15 @@
 "Konstantinos, Plataniotis"
 ],
 "timing": 1670375421
+},
+{
+"instructorsAfter": [
+"Patricia, Sheridan",
+"Ted, Nolan",
+"Konstantinos, Plataniotis",
+"Tome, Kosteski"
+],
+"timing": 1670605095
 }
 ]
 },
@@ -853,6 +865,10 @@
 [
 "Konstantinos",
 "Plataniotis"
+],
+[
+"Tome",
+"Kosteski"
 ]
 ],
 "meetingNumber": "LEC0103"
@@ -1097,7 +1113,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Engineering Strategies & Practice II"
 }

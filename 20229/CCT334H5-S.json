@@ -249,7 +249,8 @@
 41,
 42,
 44,
-44
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,6 +518,7 @@
 46,
 47,
 46,
+47,
 47
 ],
 "instructorLog": {
@@ -785,13 +787,26 @@
 45,
 46,
 47,
-47
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"JASON, MACISAAC"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"JASON",
+"MACISAAC"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -1034,7 +1049,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "History and Theory of Game Production (SH)"
 }

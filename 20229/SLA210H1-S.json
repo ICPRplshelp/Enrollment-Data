@@ -384,6 +384,7 @@
 15,
 15,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -394,6 +395,13 @@
 "Elena, Vasileva"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Elena, Vasileva",
+"Julia, Mikhailova"
+],
+"timing": 1670605095
 }
 ]
 },
@@ -401,6 +409,10 @@
 [
 "Elena",
 "Vasileva"
+],
+[
+"Julia",
+"Mikhailova"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -780,7 +792,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Russian for Heritage Speakers"
 }

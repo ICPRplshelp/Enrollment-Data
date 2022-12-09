@@ -384,13 +384,26 @@
 58,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarath, Chandrasekere"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sarath",
+"Chandrasekere"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -768,7 +781,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Sociology of Aging"
 }

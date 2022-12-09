@@ -249,13 +249,26 @@
 105,
 102,
 102,
+101,
 101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steven, Logan"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Steven",
+"Logan"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -498,7 +511,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Hacker Culture"
 }

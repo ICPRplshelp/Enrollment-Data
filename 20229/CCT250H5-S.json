@@ -254,13 +254,26 @@
 21,
 21,
 20,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Luke, Russell"
+],
+"timing": 1670605095
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Luke",
+"Russell"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -515,6 +528,7 @@
 16,
 16,
 17,
+18,
 18
 ],
 "instructorLog": {
@@ -764,7 +778,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Technology and Creative Expresssion"
 }

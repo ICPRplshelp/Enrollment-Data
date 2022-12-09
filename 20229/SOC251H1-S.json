@@ -389,6 +389,7 @@
 144,
 144,
 143,
+141,
 141
 ],
 "instructorLog": {
@@ -403,10 +404,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Sarath, Chandrasekere"
+],
+"timing": 1670605095
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Sarath",
+"Chandrasekere"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -784,7 +796,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Contemporary Sociological Theory"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670605095,
+90
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -384,7 +389,8 @@
 89,
 88,
 88,
-88
+88,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -780,7 +786,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Qualitative and Quantitative Reasoning"
 }

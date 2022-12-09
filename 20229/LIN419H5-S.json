@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1660867317,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -247,6 +247,7 @@
 9,
 9,
 9,
+8,
 8,
 8,
 8
@@ -510,7 +511,8 @@
 1670198706,
 1670288891,
 1670375421,
-1670520098
+1670520098,
+1670605095
 ],
 "title": "Field Methods: A Language Unlocked"
 }
