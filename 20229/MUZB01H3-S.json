@@ -250,13 +250,26 @@
 49,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Derek, Gray"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Derek",
+"Gray"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -500,7 +513,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Introduction to Community Music"
 }

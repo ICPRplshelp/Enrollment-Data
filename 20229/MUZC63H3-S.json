@@ -255,13 +255,26 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Patrick, Murray"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Patrick",
+"Murray"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -505,7 +518,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Concert Choir IIIb"
 }

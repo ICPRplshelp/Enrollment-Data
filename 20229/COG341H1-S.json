@@ -385,13 +385,26 @@
 63,
 63,
 63,
+63,
 63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Djedovic"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Djedovic"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -770,7 +783,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Issues in Cognitive Science I: Attention, Perception, and Consciousness"
 }

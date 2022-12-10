@@ -250,13 +250,26 @@
 77,
 77,
 77,
+77,
 77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mary-Anne, Sillamaa"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mary-Anne",
+"Sillamaa"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -500,7 +513,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Economics of Organization and Management"
 }

@@ -250,13 +250,26 @@
 64,
 64,
 64,
+65,
 65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"RAFAEL, GROHMANN (NOUTORID)"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"RAFAEL",
+"GROHMANN (NOUTORID)"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -500,7 +513,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Media and Technology"
 }

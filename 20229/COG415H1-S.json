@@ -385,13 +385,26 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Naimi"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anthony",
+"Naimi"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -770,7 +783,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Cognitive Science in Practice"
 }

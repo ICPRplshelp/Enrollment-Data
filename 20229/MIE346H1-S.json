@@ -250,6 +250,7 @@
 163,
 164,
 164,
+164,
 164
 ],
 "instructorLog": {
@@ -260,6 +261,13 @@
 "Matthew, Mackay"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Matthew, Mackay",
+"Alireza, Akbarpour Bazargani"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -267,6 +275,10 @@
 [
 "Matthew",
 "Mackay"
+],
+[
+"Alireza",
+"Akbarpour Bazargani"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -512,7 +524,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Analog and Digital Electronics for Mechatronics"
 }

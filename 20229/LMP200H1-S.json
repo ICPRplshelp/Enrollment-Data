@@ -385,6 +385,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -396,6 +397,14 @@
 "Douglas, Templeton"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Jeffrey, Lee",
+"Douglas, Templeton",
+"Louella, D'Cunha"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -407,6 +416,10 @@
 [
 "Douglas",
 "Templeton"
+],
+[
+"Louella",
+"D'Cunha"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -787,7 +800,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Pathobiology of the Cell"
 }

@@ -250,13 +250,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher John, Flores"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christopher John",
+"Flores"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -507,13 +520,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mimi, Abdoun Mohamed",
+"Chantal Helene, Symes"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mimi",
+"Abdoun Mohamed"
+],
+[
+"Chantal Helene",
+"Symes"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -757,7 +788,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Integrating Your Work Term Experience Part I"
 }

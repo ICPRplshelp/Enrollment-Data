@@ -385,6 +385,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -397,6 +398,15 @@
 "Scott, Yuzwa"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Sunit, Das",
+"Amy, Wong",
+"Scott, Yuzwa",
+"Louella, D'Cunha"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -412,6 +422,10 @@
 [
 "Scott",
 "Yuzwa"
+],
+[
+"Louella",
+"D'Cunha"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -792,7 +806,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Pathobiology of Stem Cells"
 }

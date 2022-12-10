@@ -385,6 +385,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -395,6 +396,13 @@
 "Michelle, Bendeck"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Michelle, Bendeck",
+"Louella, D'Cunha"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -402,6 +410,10 @@
 [
 "Michelle",
 "Bendeck"
+],
+[
+"Louella",
+"D'Cunha"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -782,7 +794,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Pathobiology of the Cardiovascular System"
 }

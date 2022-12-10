@@ -385,6 +385,7 @@
 35,
 34,
 35,
+37,
 37
 ],
 "instructorLog": {
@@ -399,6 +400,17 @@
 "Benjamin, Jung"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Liana, Kyriakopoulou",
+"Lusia, Sepiashvili",
+"Lei, Fu",
+"Rajeevan, Selvaratnam",
+"Benjamin, Jung",
+"Louella, D'Cunha"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -422,6 +434,10 @@
 [
 "Benjamin",
 "Jung"
+],
+[
+"Louella",
+"D'Cunha"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -802,7 +818,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Introduction to the Biochemistry of Human Disease"
 }

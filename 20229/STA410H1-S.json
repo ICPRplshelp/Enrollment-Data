@@ -538,13 +538,26 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Schwartz"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Scott",
+"Schwartz"
+]
+],
 "meetingNumber": "LEC2501"
 },
 {
@@ -929,6 +942,7 @@
 98,
 98,
 98,
+97,
 97,
 97
 ],
@@ -1327,7 +1341,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Statistical Computation"
 }

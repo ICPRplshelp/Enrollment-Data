@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 40,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670695064,
+50
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -384,6 +389,7 @@
 55,
 54,
 54,
+55,
 55,
 55
 ],
@@ -782,7 +788,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Writing the Body"
 }

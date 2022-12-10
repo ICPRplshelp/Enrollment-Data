@@ -250,6 +250,7 @@
 41,
 41,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -519,13 +520,26 @@
 28,
 28,
 29,
+29,
 29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Chalk"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Chalk"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -769,7 +783,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Social Media and Content Creation"
 }

@@ -250,13 +250,31 @@
 43,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Armin, Toroghi",
+"Jihwan, Jeong"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Armin",
+"Toroghi"
+],
+[
+"Jihwan",
+"Jeong"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -500,7 +518,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Introduction to Artificial Intelligence"
 }

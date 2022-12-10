@@ -390,6 +390,7 @@
 62,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -400,6 +401,13 @@
 "S., Trimble"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"S., Trimble",
+"Ali, Greey"
+],
+"timing": 1670695064
 }
 ]
 },
@@ -407,6 +415,10 @@
 [
 "S.",
 "Trimble"
+],
+[
+"Ali",
+"Greey"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -787,7 +799,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Special Topic in Women and Gender Studies"
 }

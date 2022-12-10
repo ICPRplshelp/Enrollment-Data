@@ -250,6 +250,7 @@
 62,
 61,
 59,
+59,
 59
 ],
 "instructorLog": {
@@ -260,13 +261,19 @@
 "Kenzie, Burchell"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"CHRISTINE, BALT (NOUTORID)"
+],
+"timing": 1670695063
 }
 ]
 },
 "instructors": [
 [
-"Kenzie",
-"Burchell"
+"CHRISTINE",
+"BALT (NOUTORID)"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -512,7 +519,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695063
 ],
 "title": "Methods of Inquiry and Investigation for ACM Programs"
 }

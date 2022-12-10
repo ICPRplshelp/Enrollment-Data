@@ -156,13 +156,26 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark Daniel, Miller"
+],
+"timing": 1670695064
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mark Daniel",
+"Miller"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -312,7 +325,8 @@
 1670288891,
 1670375421,
 1670520098,
-1670605095
+1670605095,
+1670695064
 ],
 "title": "Seminar in Cognitive Science"
 }
