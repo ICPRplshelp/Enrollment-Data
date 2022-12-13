@@ -255,7 +255,8 @@
 7,
 7,
 7,
-8
+8,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,15 +266,14 @@
 "Marie-Pier, Boucher"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1670950360
 }
 ]
 },
-"instructors": [
-[
-"Marie-Pier",
-"Boucher"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -522,7 +522,8 @@
 1670737732,
 1670784972,
 1670829641,
-1670907224
+1670907224,
+1670950360
 ],
 "title": "Topics in Communication, Culture, Information & Technology"
 }

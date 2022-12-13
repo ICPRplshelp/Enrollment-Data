@@ -255,7 +255,8 @@
 129,
 129,
 129,
-129
+129,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -529,7 +530,8 @@
 34,
 34,
 34,
-38
+38,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -803,13 +805,26 @@
 123,
 123,
 123,
-124
+124,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed, Ellithy"
+],
+"timing": 1670950360
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed",
+"Ellithy"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -1058,7 +1073,8 @@
 1670737732,
 1670784972,
 1670829642,
-1670907224
+1670907224,
+1670950360
 ],
 "title": "Calculus of Several Variables"
 }

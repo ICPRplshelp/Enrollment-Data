@@ -255,13 +255,26 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Miguel Angel, Andres Toledo"
+],
+"timing": 1670950360
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Miguel Angel",
+"Andres Toledo"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -510,7 +523,8 @@
 1670737732,
 1670784972,
 1670829642,
-1670907224
+1670907224,
+1670950360
 ],
 "title": "Middle Persian (Pahlavi)"
 }

@@ -260,13 +260,26 @@
 289,
 289,
 289,
-287
+287,
+289
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeremy, Rimando"
+],
+"timing": 1670950360
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jeremy",
+"Rimando"
+]
+],
 "meetingNumber": "LEC9999"
 }
 ],
@@ -515,7 +528,8 @@
 1670737732,
 1670784972,
 1670829642,
-1670907224
+1670907224,
+1670950360
 ],
 "title": "Natural Hazards"
 }

@@ -255,13 +255,26 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kate, Maddalena"
+],
+"timing": 1670950361
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kate",
+"Maddalena"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -510,7 +523,8 @@
 1670737732,
 1670784972,
 1670829642,
-1670907224
+1670907224,
+1670950361
 ],
 "title": "Independent Studies"
 }
