@@ -254,6 +254,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -270,13 +271,19 @@
 "ASHANTHA, JAYALATH (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Ashantha, Jayalath"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
-"ASHANTHA",
-"JAYALATH (NOUTORID)"
+"Ashantha",
+"Jayalath"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -526,7 +533,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Professional Development Seminars in Geoscience"
 }

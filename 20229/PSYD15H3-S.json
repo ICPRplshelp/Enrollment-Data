@@ -254,7 +254,8 @@
 30,
 30,
 30,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -533,13 +534,26 @@
 26,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stephanie Ann, Schwartz"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stephanie Ann",
+"Schwartz"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
@@ -794,13 +808,26 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stephanie Ann, Schwartz"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stephanie Ann",
+"Schwartz"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -1048,7 +1075,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Current Topics in Social Psychology"
 }

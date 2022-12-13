@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 36,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670907224,
+50
+]
+],
 "initialCap": 36
 },
 "enrollmentLogs": [
@@ -389,7 +394,8 @@
 42,
 42,
 42,
-42
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -790,7 +796,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "The Sufi Tradition in Islam"
 }

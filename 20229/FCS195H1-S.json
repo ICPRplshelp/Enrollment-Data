@@ -389,13 +389,26 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carla, Taban"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Carla",
+"Taban"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "French Culture from Napoleon to Asterix"
 }

@@ -254,6 +254,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -270,13 +271,19 @@
 "ROBERTO, VERDECCHIA (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Roberto, Verdecchia"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
-"ROBERTO",
-"VERDECCHIA (NOUTORID)"
+"Roberto",
+"Verdecchia"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -526,7 +533,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Communicating Science: Film, Media, Journalism, and Society"
 }

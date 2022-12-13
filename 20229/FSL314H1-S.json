@@ -389,13 +389,26 @@
 21,
 21,
 21,
-21
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marie-theres, Ballin"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marie-theres",
+"Ballin"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "French for the Arts"
 }

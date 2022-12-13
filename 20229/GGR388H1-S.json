@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670907224,
+23
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -389,7 +394,8 @@
 7,
 7,
 7,
-7
+7,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -790,7 +796,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Special Topics in Physical & Environmental Geography"
 }

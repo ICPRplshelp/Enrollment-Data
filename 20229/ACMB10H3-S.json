@@ -254,13 +254,26 @@
 69,
 69,
 69,
-69
+69,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maral, Aguilera-Moradipour"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maral",
+"Aguilera-Moradipour"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -508,7 +521,8 @@
 1670695063,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Equity and Diversity in Arts Organizations"
 }

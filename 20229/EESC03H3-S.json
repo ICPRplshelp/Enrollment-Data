@@ -254,6 +254,7 @@
 79,
 79,
 79,
+79,
 79
 ],
 "instructorLog": {
@@ -270,13 +271,19 @@
 "MIKE, DOUGHTY (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Mike, Doughty"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
-"MIKE",
-"DOUGHTY (NOUTORID)"
+"Mike",
+"Doughty"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -526,7 +533,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Geographic Information Systems and Remote Sensing"
 }

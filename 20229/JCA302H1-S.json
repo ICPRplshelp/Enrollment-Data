@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670907224,
+25
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -377,6 +382,7 @@
 25,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -790,7 +796,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "The Bible and the Big Bang"
 }

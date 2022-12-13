@@ -254,13 +254,26 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kamran, Esmaeili"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kamran",
+"Esmaeili"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -508,7 +521,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Mineral Project Design II"
 }

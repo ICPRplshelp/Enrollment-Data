@@ -389,6 +389,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -797,6 +798,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -821,9 +823,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670907224,
+50
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -1205,7 +1212,8 @@
 48,
 48,
 48,
-48
+48,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1613,7 +1621,8 @@
 32,
 32,
 32,
-32
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2021,6 +2030,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -2288,6 +2298,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -2837,7 +2848,8 @@
 2,
 2,
 2,
-2
+2,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3238,7 +3250,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Topics in History"
 }

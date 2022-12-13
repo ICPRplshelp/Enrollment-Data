@@ -389,13 +389,26 @@
 8,
 8,
 8,
-8
+8,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bernardo, Garcia-Dominguez"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bernardo",
+"Garcia-Dominguez"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Advanced Topics: The Hispanic Caribbean"
 }

@@ -254,7 +254,8 @@
 27,
 27,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -264,13 +265,19 @@
 "Terrence, BELL (NOUTORID)"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Terrence, Bell"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
 "Terrence",
-"BELL (NOUTORID)"
+"Bell"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -520,7 +527,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Environmental Microbiology"
 }

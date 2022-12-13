@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1670907224,
+40
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -385,6 +390,7 @@
 24,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -790,7 +796,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Women and Women's Themes in Ukrainian Literature"
 }

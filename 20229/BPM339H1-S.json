@@ -389,13 +389,26 @@
 65,
 65,
 65,
+65,
 65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jennifer, Bright"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jennifer",
+"Bright"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695063,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Mind, Consciousness and the Self"
 }

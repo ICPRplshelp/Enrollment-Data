@@ -254,6 +254,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -264,13 +265,19 @@
 "MICHAEL, JONES"
 ],
 "timing": 1670605095
+},
+{
+"instructorsAfter": [
+"MICHAEL, CHAN"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
 "MICHAEL",
-"JONES"
+"CHAN"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -527,6 +534,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -537,13 +545,19 @@
 "MICHAEL, JONES"
 ],
 "timing": 1670605095
+},
+{
+"instructorsAfter": [
+"MICHAEL, CHAN"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
 "MICHAEL",
-"JONES"
+"CHAN"
 ]
 ],
 "meetingNumber": "PRA0102"
@@ -800,6 +814,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -818,6 +833,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1315,7 +1331,8 @@
 1670695063,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Advanced Web Design (SH)"
 }

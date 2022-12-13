@@ -254,7 +254,8 @@
 259,
 259,
 259,
-259
+259,
+257
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,6 +272,13 @@
 "Sadiyya, Parnell-Hendrickson"
 ],
 "timing": 1670520098
+},
+{
+"instructorsAfter": [
+"Camelia, Karimian Pour",
+"Jose, Palacios Armesto"
+],
+"timing": 1670907224
 }
 ]
 },
@@ -280,8 +288,8 @@
 "Karimian Pour"
 ],
 [
-"Sadiyya",
-"Parnell-Hendrickson"
+"Jose",
+"Palacios Armesto"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -538,6 +546,7 @@
 272,
 272,
 272,
+272,
 272
 ],
 "instructorLog": {
@@ -555,17 +564,24 @@
 "Jose, Palacios Armesto"
 ],
 "timing": 1670520098
+},
+{
+"instructorsAfter": [
+"Sadiyya, Parnell-Hendrickson",
+"Camelia, Karimian Pour"
+],
+"timing": 1670907224
 }
 ]
 },
 "instructors": [
 [
-"Camelia",
-"Karimian Pour"
+"Sadiyya",
+"Parnell-Hendrickson"
 ],
 [
-"Jose",
-"Palacios Armesto"
+"Camelia",
+"Karimian Pour"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -819,6 +835,7 @@
 420,
 420,
 420,
+418,
 418,
 418,
 418,
@@ -1099,7 +1116,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Calculus II"
 }

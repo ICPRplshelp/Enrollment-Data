@@ -254,13 +254,31 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kiran, Heer",
+"Andrew, Kowalchuk"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kiran",
+"Heer"
+],
+[
+"Andrew",
+"Kowalchuk"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -515,13 +533,31 @@
 364,
 364,
 364,
-364
+364,
+365
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kiran, Heer",
+"Andrew, Kowalchuk"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kiran",
+"Heer"
+],
+[
+"Andrew",
+"Kowalchuk"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -769,7 +805,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

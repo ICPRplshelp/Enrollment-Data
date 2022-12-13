@@ -389,13 +389,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Geith, Maal-Bared"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Geith",
+"Maal-Bared"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Problem Solving in the Sciences"
 }

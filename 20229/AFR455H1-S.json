@@ -389,13 +389,26 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Sekyere"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Peter",
+"Sekyere"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -778,7 +791,8 @@
 1670695063,
 1670737732,
 1670784972,
-1670829641
+1670829641,
+1670907224
 ],
 "title": "Conflicts, Negotiations and Peacebuilding in Africa"
 }

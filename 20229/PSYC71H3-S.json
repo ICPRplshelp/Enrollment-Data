@@ -254,13 +254,31 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vignash, Tharmaratnam",
+"Trenton Coleman, Johanis"
+],
+"timing": 1670907224
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Vignash",
+"Tharmaratnam"
+],
+[
+"Trenton Coleman",
+"Johanis"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -508,7 +526,8 @@
 1670695064,
 1670737732,
 1670784972,
-1670829642
+1670829642,
+1670907224
 ],
 "title": "Social Psychology Laboratory"
 }
