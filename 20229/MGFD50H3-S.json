@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+41
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 41,
 41,
 41,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -703,7 +709,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Mergers and Acquisitions: Theory and Practice"
 }

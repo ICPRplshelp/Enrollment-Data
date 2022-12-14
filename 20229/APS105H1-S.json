@@ -256,6 +256,7 @@
 102,
 102,
 102,
+102,
 102
 ],
 "instructorLog": {
@@ -537,6 +538,7 @@
 101,
 101,
 101,
+101,
 101
 ],
 "instructorLog": {
@@ -553,13 +555,19 @@
 "Philip, Anderson"
 ],
 "timing": 1669247684
+},
+{
+"instructorsAfter": [
+"Salma, Emara"
+],
+"timing": 1671038899
 }
 ]
 },
 "instructors": [
 [
-"Philip",
-"Anderson"
+"Salma",
+"Emara"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -813,6 +821,7 @@
 136,
 136,
 136,
+135,
 135,
 135,
 135,
@@ -1093,6 +1102,7 @@
 95,
 95,
 94,
+94,
 94
 ],
 "instructorLog": {
@@ -1103,13 +1113,19 @@
 "Salma, Emara"
 ],
 "timing": 1669247684
+},
+{
+"instructorsAfter": [
+"Philip, Anderson"
+],
+"timing": 1671038899
 }
 ]
 },
 "instructors": [
 [
-"Salma",
-"Emara"
+"Philip",
+"Anderson"
 ]
 ],
 "meetingNumber": "LEC0104"
@@ -1361,7 +1377,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Computer Fundamentals"
 }

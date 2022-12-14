@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+33
+]
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -250,6 +255,7 @@
 31,
 31,
 31,
+33,
 33,
 33,
 33,
@@ -524,7 +530,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Applied Marketing Models"
 }

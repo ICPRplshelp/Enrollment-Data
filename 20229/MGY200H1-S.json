@@ -391,7 +391,8 @@
 156,
 156,
 154,
-154
+154,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -402,6 +403,14 @@
 "Mikko, Taipale"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Peter John, Roy",
+"Mikko, Taipale",
+"Jessica, Hill"
+],
+"timing": 1671038899
 }
 ]
 },
@@ -413,6 +422,10 @@
 [
 "Mikko",
 "Taipale"
+],
+[
+"Jessica",
+"Hill"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -799,7 +812,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "An Introduction to Molecular Genetics and Microbiology"
 }

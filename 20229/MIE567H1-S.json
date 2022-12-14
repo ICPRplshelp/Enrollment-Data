@@ -256,13 +256,26 @@
 22,
 22,
 22,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Molina Concha"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Molina Concha"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "DYN & DIST DECISION MAKING"
 }

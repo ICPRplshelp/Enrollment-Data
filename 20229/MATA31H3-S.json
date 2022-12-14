@@ -256,13 +256,26 @@
 99,
 99,
 100,
+103,
 103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"TATIANA, HESSAMI PILEHROOD (NOUTORID)"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"TATIANA",
+"HESSAMI PILEHROOD (NOUTORID)"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Calculus I for Mathematical Sciences"
 }

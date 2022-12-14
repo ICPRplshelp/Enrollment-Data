@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+63
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 65,
 65,
 65,
-65
+65,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,9 +286,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+63
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -531,7 +542,8 @@
 65,
 65,
 64,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -555,9 +567,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+63
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -806,7 +823,8 @@
 66,
 66,
 65,
-65
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1074,7 +1092,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Intermediate Finance"
 }

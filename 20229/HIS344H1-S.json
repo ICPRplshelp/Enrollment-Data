@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+160
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -390,6 +395,7 @@
 159,
 159,
 159,
+160,
 160,
 160
 ],
@@ -794,7 +800,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "The Global Cold War"
 }

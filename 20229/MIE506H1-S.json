@@ -256,13 +256,26 @@
 21,
 21,
 22,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maher, Bakri-Kassem"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maher",
+"Bakri-Kassem"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "* MEMS Design and Microfabrication"
 }

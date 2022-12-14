@@ -159,13 +159,26 @@
 44,
 44,
 45,
-45
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tara, O'Neil"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Tara",
+"O'Neil"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -318,7 +331,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Immersive Environment Design"
 }

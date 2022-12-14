@@ -4,10 +4,15 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"delivery": "INPER",
-"enrollmentCap": 70,
+"delivery": "SYNC",
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+100
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -391,7 +396,8 @@
 84,
 84,
 84,
-84
+84,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -794,7 +800,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Material Culture in Victorian Britain"
 }

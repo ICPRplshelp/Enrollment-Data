@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+45
+]
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 46,
 46,
 44,
-44
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -524,7 +530,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Forensic Biology"
 }

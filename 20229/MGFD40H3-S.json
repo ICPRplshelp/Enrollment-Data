@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+33
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -249,6 +254,7 @@
 43,
 44,
 43,
+42,
 42,
 42,
 42,
@@ -280,9 +286,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+33
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -531,7 +542,8 @@
 44,
 44,
 44,
-44
+44,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -555,9 +567,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+33
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -806,7 +823,8 @@
 46,
 46,
 45,
-45
+45,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1074,7 +1092,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Investor Psychology and Behavioural Finance"
 }

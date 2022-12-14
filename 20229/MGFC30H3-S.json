@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+53
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 53,
 53,
 53,
-53
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,9 +286,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+53
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -531,7 +542,8 @@
 55,
 55,
 55,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -980,7 +992,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Introduction to Derivatives Markets"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+100
+]
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 99,
 99,
 97,
-97
+97,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,9 +286,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+100
+]
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -531,7 +542,8 @@
 96,
 96,
 92,
-93
+93,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -561,6 +573,7 @@
 "initialCap": 85
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1062,7 +1075,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Effective Writing"
 }

@@ -256,13 +256,26 @@
 106,
 106,
 106,
+106,
 106
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Emily, Bell"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Emily",
+"Bell"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Practical Approaches to Biochemistry"
 }

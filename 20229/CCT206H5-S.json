@@ -256,13 +256,26 @@
 216,
 216,
 217,
-217
+217,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Tsai"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daniel",
+"Tsai"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829641,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Law, Technology and Culture"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 316,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+316
+]
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -256,7 +261,8 @@
 374,
 374,
 372,
-373
+373,
+376
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -524,7 +530,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Introduction to Business"
 }

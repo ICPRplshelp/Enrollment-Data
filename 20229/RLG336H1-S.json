@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1656647697,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -391,7 +391,8 @@
 76,
 76,
 77,
-77
+77,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -794,7 +795,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950361
+1670950361,
+1671038899
 ],
 "title": "Religion and its Monsters"
 }

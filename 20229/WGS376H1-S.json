@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 67,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671038899,
+67
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -390,6 +395,7 @@
 68,
 68,
 68,
+67,
 67,
 67
 ],
@@ -794,7 +800,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950361
+1670950361,
+1671038899
 ],
 "title": "Studies in Queer and Trans"
 }

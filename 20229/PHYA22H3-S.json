@@ -256,13 +256,26 @@
 136,
 136,
 136,
+134,
 134
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Saeed, Oghbaey"
+],
+"timing": 1671038899
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Saeed",
+"Oghbaey"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -512,7 +525,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Physics II for the Life Sciences"
 }

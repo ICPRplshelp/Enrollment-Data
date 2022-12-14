@@ -256,6 +256,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -266,6 +267,14 @@
 "Naomi, Matsuura"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Naomi, Matsuura",
+"Sarry, Al-Turk",
+"John, Young"
+],
+"timing": 1671038899
 }
 ]
 },
@@ -273,6 +282,14 @@
 [
 "Naomi",
 "Matsuura"
+],
+[
+"Sarry",
+"Al-Turk"
+],
+[
+"John",
+"Young"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -524,7 +541,8 @@
 1670784972,
 1670829642,
 1670907224,
-1670950360
+1670950360,
+1671038899
 ],
 "title": "Professional Ethics and Practice"
 }
