@@ -258,13 +258,26 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Krista, Hunt"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Krista",
+"Hunt"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -516,7 +529,8 @@
 1670907224,
 1670950361,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Senior Seminar in Gender, Equity and Human Rights"
 }

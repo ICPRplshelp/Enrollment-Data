@@ -393,7 +393,8 @@
 628,
 629,
 630,
-629
+629,
+630
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -417,10 +418,21 @@
 {
 "instructorsAfter": [],
 "timing": 1671038899
+},
+{
+"instructorsAfter": [
+"David, Polansky"
+],
+"timing": 1671124944
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Polansky"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -807,7 +819,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Might and Right: Power and Justice in International Relations"
 }

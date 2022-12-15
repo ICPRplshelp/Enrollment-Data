@@ -258,6 +258,7 @@
 44,
 44,
 44,
+43,
 43
 ],
 "instructorLog": {
@@ -535,7 +536,8 @@
 80,
 80,
 80,
-80
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -812,7 +814,8 @@
 79,
 79,
 79,
-78
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -822,13 +825,19 @@
 "Nicole, Amiri"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Arjuna, Thaskaran"
+],
+"timing": 1671124944
 }
 ]
 },
 "instructors": [
 [
-"Nicole",
-"Amiri"
+"Arjuna",
+"Thaskaran"
 ]
 ],
 "meetingNumber": "LEC03"
@@ -1089,13 +1098,26 @@
 96,
 96,
 98,
+100,
 100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kathleen, McDowell (Simmons)"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kathleen",
+"McDowell (Simmons)"
+]
+],
 "meetingNumber": "LEC04"
 },
 {
@@ -1354,13 +1376,26 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Philip Alexander, Brown"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Philip Alexander",
+"Brown"
+]
+],
 "meetingNumber": "LEC05"
 }
 ],
@@ -1612,7 +1647,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Advancing Your Career Exploration Part II"
 }

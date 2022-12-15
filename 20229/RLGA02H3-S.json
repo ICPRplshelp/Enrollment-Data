@@ -258,13 +258,26 @@
 108,
 109,
 109,
-109
+109,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Perley"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Perley"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -516,7 +529,8 @@
 1670907224,
 1670950361,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "World Religions II"
 }

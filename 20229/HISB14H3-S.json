@@ -258,13 +258,26 @@
 87,
 87,
 87,
+87,
 87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kelsey, Kilgore"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kelsey",
+"Kilgore"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -516,7 +529,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Edible History: History of Global Foodways"
 }

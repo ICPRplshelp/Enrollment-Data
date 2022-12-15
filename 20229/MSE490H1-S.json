@@ -258,6 +258,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -276,14 +277,17 @@
 "John, Young"
 ],
 "timing": 1671038899
+},
+{
+"instructorsAfter": [
+"Sarry, Al-Turk",
+"John, Young"
+],
+"timing": 1671124944
 }
 ]
 },
 "instructors": [
-[
-"Naomi",
-"Matsuura"
-],
 [
 "Sarry",
 "Al-Turk"
@@ -544,7 +548,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Professional Ethics and Practice"
 }

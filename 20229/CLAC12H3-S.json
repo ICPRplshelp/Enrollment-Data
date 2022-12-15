@@ -258,13 +258,26 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Flavia, Vasconcellos Amaral"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Flavia",
+"Vasconcellos Amaral"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -516,7 +529,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Classical Literature II: Prose"
 }

@@ -258,13 +258,26 @@
 278,
 278,
 281,
-282
+282,
+283
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"GIULIO, LEGHISSA (NOUTORID)"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"GIULIO",
+"LEGHISSA (NOUTORID)"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -516,7 +529,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Ancient Mythology II: Greece and Rome"
 }

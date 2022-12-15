@@ -258,6 +258,7 @@
 60,
 59,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -272,10 +273,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669310721
+},
+{
+"instructorsAfter": [
+"Samar, Abdelgalil"
+],
+"timing": 1671124944
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Samar",
+"Abdelgalil"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -527,7 +539,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "The Making of the Modern Middle East: Islamic History 1300-2000"
 }

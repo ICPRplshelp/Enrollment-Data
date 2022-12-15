@@ -393,13 +393,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lindsey, Shorser"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lindsey",
+"Shorser"
+]
+],
 "meetingNumber": "LEC5101"
 },
 {
@@ -793,13 +806,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lindsey, Shorser"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lindsey",
+"Shorser"
+]
+],
 "meetingNumber": "LEC5201"
 }
 ],
@@ -1186,7 +1212,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Reading and Writing in Mathematics"
 }

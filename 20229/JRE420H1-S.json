@@ -258,7 +258,8 @@
 92,
 92,
 93,
-93
+93,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -535,7 +536,8 @@
 94,
 93,
 93,
-93
+93,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -812,13 +814,26 @@
 100,
 98,
 99,
-99
+99,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ana Cristina, Rodrigues de Oliveira"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ana Cristina",
+"Rodrigues de Oliveira"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -1077,13 +1092,26 @@
 101,
 100,
 100,
+100,
 100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Thanuja, Thananayagam"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Thanuja",
+"Thananayagam"
+]
+],
 "meetingNumber": "LEC0104"
 }
 ],
@@ -1335,7 +1363,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "People Management and Organizational Behaviour"
 }

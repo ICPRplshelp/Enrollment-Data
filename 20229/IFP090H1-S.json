@@ -393,13 +393,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Levin"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Levin"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -786,7 +799,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Challenges to Global Equity"
 }

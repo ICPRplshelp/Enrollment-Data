@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 65,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671124944,
+85
+]
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -393,6 +398,7 @@
 77,
 77,
 79,
+82,
 82
 ],
 "instructorLog": {
@@ -798,7 +804,8 @@
 1670907224,
 1670950361,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Religion and its Monsters"
 }

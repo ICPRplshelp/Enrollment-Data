@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 270,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671124944,
+270
+]
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -258,7 +263,8 @@
 255,
 255,
 255,
-254
+254,
+252
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -528,7 +534,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Genes, Environment and Behaviour"
 }

@@ -393,13 +393,26 @@
 31,
 31,
 32,
+32,
 32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Miguel, Esteban"
+],
+"timing": 1671124944
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Miguel",
+"Esteban"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -786,7 +799,8 @@
 1670907224,
 1670950360,
 1671038899,
-1671080159
+1671080159,
+1671124944
 ],
 "title": "Disability Arts and Culture"
 }
