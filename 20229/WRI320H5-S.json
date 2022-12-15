@@ -257,13 +257,26 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Robert, Price"
+],
+"timing": 1671080159
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Robert",
+"Price"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -514,7 +527,8 @@
 1670829642,
 1670907224,
 1670950361,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "History and Writing"
 }

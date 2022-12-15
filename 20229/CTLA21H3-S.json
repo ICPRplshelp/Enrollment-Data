@@ -257,13 +257,26 @@
 13,
 13,
 13,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"SERGIO ATAYAN, GARCIA BALAN (NOUTORID)"
+],
+"timing": 1671080159
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"SERGIO ATAYAN",
+"GARCIA BALAN (NOUTORID)"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -514,7 +527,8 @@
 1670829641,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Math4life: Developing Mathematical Thinking and to Make a Difference in Your Skills in Practical Contexts"
 }

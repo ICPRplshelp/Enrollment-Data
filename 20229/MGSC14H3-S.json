@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671080159,
+65
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -257,7 +262,8 @@
 73,
 72,
 72,
-73
+73,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -526,7 +532,8 @@
 1670829642,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Management Ethics"
 }

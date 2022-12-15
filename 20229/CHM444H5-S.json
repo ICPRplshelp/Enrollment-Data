@@ -257,6 +257,7 @@
 65,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -271,10 +272,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670520098
+},
+{
+"instructorsAfter": [
+"Timothy, Wright"
+],
+"timing": 1671080159
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Timothy",
+"Wright"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -525,7 +537,8 @@
 1670829641,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "An Introduction to Medicinal Chemistry and Molecular Recognition"
 }

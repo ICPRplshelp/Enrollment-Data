@@ -392,13 +392,26 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elisabeth, Lange"
+],
+"timing": 1671080159
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elisabeth",
+"Lange"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -784,7 +797,8 @@
 1670829641,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Deviance - Madness - Outsiders"
 }

@@ -392,6 +392,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -803,6 +804,7 @@
 1,
 1,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -813,13 +815,19 @@
 "Nidhi, Sachdeva"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Andre, Flicker"
+],
+"timing": 1671080159
 }
 ]
 },
 "instructors": [
 [
-"Nidhi",
-"Sachdeva"
+"Andre",
+"Flicker"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1212,6 +1220,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1
@@ -1618,7 +1627,8 @@
 1670829641,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Intermediate German 2b"
 }

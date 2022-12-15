@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 38,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671080159,
+38
+]
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -251,6 +256,7 @@
 49,
 49,
 49,
+50,
 50,
 50,
 50,
@@ -526,7 +532,8 @@
 1670829642,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Consumer Behaviour"
 }

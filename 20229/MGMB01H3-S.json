@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671080159,
+43
+]
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -257,7 +262,8 @@
 42,
 43,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -538,6 +544,7 @@
 42,
 42,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -808,6 +815,7 @@
 42,
 38,
 39,
+40,
 40,
 40,
 40,
@@ -1095,6 +1103,7 @@
 40,
 41,
 40,
+39,
 39
 ],
 "instructorLog": {
@@ -1364,7 +1373,8 @@
 1670829642,
 1670907224,
 1670950360,
-1671038899
+1671038899,
+1671080159
 ],
 "title": "Marketing Management"
 }

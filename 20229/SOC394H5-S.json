@@ -1,0 +1,42 @@
+{
+"code": "SOC394H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1671080159,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jerry, Flores"
+],
+"timing": 1671080159
+}
+]
+},
+"instructors": [
+[
+"Jerry",
+"Flores"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1671080158,
+1671080159
+],
+"title": "Independent Research in Criminology, Law and Society"
+}
