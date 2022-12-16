@@ -259,13 +259,26 @@
 152,
 152,
 153,
-154
+154,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wai Fun, Sun"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Wai Fun",
+"Sun"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -518,7 +531,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Issues in Child Health and Development"
 }

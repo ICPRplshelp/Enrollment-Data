@@ -5,12 +5,16 @@
 {
 "createdAt": 1656647697,
 "delivery": "ASYNC",
-"enrollmentCap": 90,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1663806146,
 90
+],
+[
+1671166651,
+104
 ]
 ],
 "initialCap": 75
@@ -399,7 +403,8 @@
 105,
 104,
 104,
-104
+104,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -805,7 +810,8 @@
 1670950361,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Creative Destruction Lab \u2013 Introductory Course"
 }

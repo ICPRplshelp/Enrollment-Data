@@ -137,13 +137,26 @@
 45,
 46,
 45,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amina, Yousaf"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Amina",
+"Yousaf"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -274,7 +287,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "A Healthy Campus for Students: Prioritizing Mental Health"
 }

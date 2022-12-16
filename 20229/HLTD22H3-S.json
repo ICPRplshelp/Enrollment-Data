@@ -259,13 +259,26 @@
 27,
 27,
 27,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"SHELLENE DENISE, DRAKES (NOUTORID)"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"SHELLENE DENISE",
+"DRAKES (NOUTORID)"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -518,7 +531,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Special Topics in Health"
 }

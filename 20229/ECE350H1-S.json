@@ -259,6 +259,7 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -269,13 +270,19 @@
 "Nazir, Kherani"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Muhammad, Mohiuddin"
+],
+"timing": 1671166651
 }
 ]
 },
 "instructors": [
 [
-"Nazir",
-"Kherani"
+"Muhammad",
+"Mohiuddin"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -530,7 +537,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Semiconductor Electronic Devices"
 }

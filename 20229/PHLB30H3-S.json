@@ -259,6 +259,7 @@
 80,
 80,
 80,
+81,
 81
 ],
 "instructorLog": {
@@ -269,13 +270,19 @@
 "N., HAY (NOUTORID)"
 ],
 "timing": 1668545484
+},
+{
+"instructorsAfter": [
+"Natasha, Hay"
+],
+"timing": 1671166651
 }
 ]
 },
 "instructors": [
 [
-"N.",
-"HAY (NOUTORID)"
+"Natasha",
+"Hay"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -530,7 +537,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Existentialism"
 }

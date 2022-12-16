@@ -259,13 +259,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tony, Leong"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Tony",
+"Leong"
+]
+],
 "meetingNumber": "LEC30"
 }
 ],
@@ -518,7 +531,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "String Orchestra IIb"
 }

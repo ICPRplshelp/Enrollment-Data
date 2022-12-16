@@ -259,7 +259,8 @@
 60,
 60,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,13 +276,19 @@
 "CHRISTINE, BALT (NOUTORID)"
 ],
 "timing": 1670695063
+},
+{
+"instructorsAfter": [
+"Christine, Balt"
+],
+"timing": 1671166650
 }
 ]
 },
 "instructors": [
 [
-"CHRISTINE",
-"BALT (NOUTORID)"
+"Christine",
+"Balt"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -536,7 +543,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166650
 ],
 "title": "Methods of Inquiry and Investigation for ACM Programs"
 }

@@ -259,7 +259,8 @@
 85,
 88,
 90,
-90
+90,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -269,13 +270,19 @@
 "MANI, MAHDINIA (NOUTORID)"
 ],
 "timing": 1670520098
+},
+{
+"instructorsAfter": [
+"Mani, Mahdinia"
+],
+"timing": 1671166651
 }
 ]
 },
 "instructors": [
 [
-"MANI",
-"MAHDINIA (NOUTORID)"
+"Mani",
+"Mahdinia"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -530,7 +537,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Calculus I for Physical Sciences"
 }

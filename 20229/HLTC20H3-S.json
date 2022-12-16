@@ -259,13 +259,26 @@
 75,
 76,
 76,
-76
+76,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vanessa, Maloney"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Vanessa",
+"Maloney"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -518,7 +531,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Global Disability Studies"
 }

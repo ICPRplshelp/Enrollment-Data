@@ -259,13 +259,26 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Phoebe, Edwards"
+],
+"timing": 1671166651
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Phoebe",
+"Edwards"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -518,7 +531,8 @@
 1670950360,
 1671038899,
 1671080159,
-1671124944
+1671124944,
+1671166651
 ],
 "title": "Evolutionary Psychology"
 }
