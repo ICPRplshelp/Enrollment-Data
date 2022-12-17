@@ -260,13 +260,26 @@
 77,
 76,
 76,
+76,
 76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Redab, AL Janaideh"
+],
+"timing": 1671247170
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Redab",
+"AL Janaideh"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -520,7 +533,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Theories of Psychotherapy"
 }

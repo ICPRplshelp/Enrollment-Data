@@ -260,6 +260,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -270,13 +271,19 @@
 "Li, Chen"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Chris, Chung"
+],
+"timing": 1671247170
 }
 ]
 },
 "instructors": [
 [
-"Li",
-"Chen"
+"Chris",
+"Chung"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -532,7 +539,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Modern Chinese History"
 }

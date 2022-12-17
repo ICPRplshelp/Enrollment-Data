@@ -5,9 +5,14 @@
 {
 "createdAt": 1667894988,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671247170,
+15
+]
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -260,7 +265,8 @@
 14,
 14,
 14,
-13
+13,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -284,9 +290,14 @@
 {
 "createdAt": 1667894988,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671247170,
+15
+]
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -500,6 +511,7 @@
 16,
 16,
 16,
+17,
 17,
 17,
 17,
@@ -811,7 +823,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Analytical and Physical Chemistry Instrumentation Laboratory II"
 }

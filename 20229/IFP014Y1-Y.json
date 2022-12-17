@@ -395,6 +395,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -405,6 +406,13 @@
 "Sadiyya, Parnell-Hendrickson"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Sadiyya, Parnell-Hendrickson",
+"Hossein, Yousefi"
+],
+"timing": 1671247170
 }
 ]
 },
@@ -412,6 +420,10 @@
 [
 "Sadiyya",
 "Parnell-Hendrickson"
+],
+[
+"Hossein",
+"Yousefi"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -802,7 +814,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Foundations of Mathematics"
 }

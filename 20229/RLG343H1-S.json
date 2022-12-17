@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671247170,
+26
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -395,7 +400,8 @@
 20,
 20,
 20,
-20
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -802,7 +808,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Kabbala: A History of Mystical Thought in Judaism"
 }

@@ -260,13 +260,26 @@
 76,
 76,
 75,
-76
+76,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Samuel, Ronfard"
+],
+"timing": 1671247170
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Samuel",
+"Ronfard"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -520,7 +533,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Children's Thinking: Cognitive Development in a Social World"
 }

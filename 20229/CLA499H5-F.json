@@ -260,13 +260,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Boris, Chrubasik"
+],
+"timing": 1671247170
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Boris",
+"Chrubasik"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -520,7 +533,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Independent Reading"
 }

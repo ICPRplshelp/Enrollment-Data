@@ -5,9 +5,14 @@
 {
 "createdAt": 1666725166,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671247170,
+100
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -82,7 +87,8 @@
 102,
 103,
 102,
-105
+105,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -176,7 +182,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "The Psychology of Emotion"
 }

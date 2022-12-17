@@ -29,13 +29,26 @@
 39,
 39,
 39,
-40
+40,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bob, Thompson"
+],
+"timing": 1671247170
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bob",
+"Thompson"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -58,7 +71,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166651
+1671166651,
+1671247170
 ],
 "title": "Negotiations"
 }

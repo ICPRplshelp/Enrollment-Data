@@ -4,13 +4,14 @@
 "meetings": [
 {
 "createdAt": 1670605095,
-"delivery": "ASYNC",
+"delivery": "SYNC",
 "enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -42,6 +43,36 @@
 ]
 ],
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1671247170,
+"delivery": "SYNC",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
@@ -56,7 +87,8 @@
 1671038899,
 1671080159,
 1671124944,
-1671166650
+1671166650,
+1671247170
 ],
 "title": "[No course title available]"
 }
