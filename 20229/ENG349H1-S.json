@@ -398,6 +398,7 @@
 57,
 57,
 57,
+57,
 57
 ],
 "instructorLog": {
@@ -412,10 +413,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670907224
+},
+{
+"instructorsAfter": [
+"Alexandra, Basekic"
+],
+"timing": 1671474923
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexandra",
+"Basekic"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -807,7 +819,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Contemporary Poetry"
 }

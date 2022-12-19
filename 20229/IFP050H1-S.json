@@ -5,12 +5,18 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671474923,
+80
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -828,12 +834,7 @@
 }
 ]
 },
-"instructors": [
-[
-"Lindsey",
-"Shorser"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC5201"
 }
 ],
@@ -1225,7 +1226,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Reading and Writing in Mathematics"
 }

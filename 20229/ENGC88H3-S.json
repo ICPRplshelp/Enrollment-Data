@@ -263,6 +263,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -277,10 +278,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669351662
+},
+{
+"instructorsAfter": [
+"Erica, Cardwell"
+],
+"timing": 1671474923
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Erica",
+"Cardwell"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -537,7 +549,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Creative Writing: Creative Nonfiction II"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 180,
+"enrollmentCap": 220,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671474923,
+220
+]
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -393,6 +398,7 @@
 220,
 218,
 218,
+219,
 219,
 219,
 219,
@@ -808,7 +814,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "\"It's the End of the World as We Know It\""
 }

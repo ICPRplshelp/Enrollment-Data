@@ -263,6 +263,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -273,6 +274,13 @@
 "Graeme, Skinner"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Graeme, Skinner",
+"Timilehin Ayo, Olumuyiwa"
+],
+"timing": 1671474923
 }
 ]
 },
@@ -280,6 +288,10 @@
 [
 "Graeme",
 "Skinner"
+],
+[
+"Timilehin Ayo",
+"Olumuyiwa"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -538,7 +550,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386050
+1671386050,
+1671474923
 ],
 "title": "Geotechnical Design"
 }

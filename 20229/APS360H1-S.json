@@ -263,6 +263,7 @@
 100,
 100,
 100,
+100,
 100
 ],
 "instructorLog": {
@@ -545,7 +546,8 @@
 102,
 102,
 102,
-102
+102,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -827,13 +829,26 @@
 87,
 88,
 88,
-88
+88,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Justin, Beland"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Justin",
+"Beland"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -1090,7 +1105,8 @@
 1671166650,
 1671247170,
 1671323163,
-1671386050
+1671386050,
+1671474923
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

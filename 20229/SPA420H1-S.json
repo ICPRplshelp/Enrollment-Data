@@ -398,13 +398,26 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gabrielle, Klassen"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gabrielle",
+"Klassen"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -796,7 +809,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Advanced Grammar"
 }

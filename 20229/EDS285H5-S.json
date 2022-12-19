@@ -263,6 +263,7 @@
 73,
 73,
 73,
+73,
 73
 ],
 "instructorLog": {
@@ -277,10 +278,21 @@
 {
 "instructorsAfter": [],
 "timing": 1669073490
+},
+{
+"instructorsAfter": [
+"Paul, Alexander"
+],
+"timing": 1671474923
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Paul",
+"Alexander"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -537,7 +549,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "The Future of Ed Tech: Active Learning Classrooms and Artificial Intelligence"
 }

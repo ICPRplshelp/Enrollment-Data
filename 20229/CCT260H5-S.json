@@ -263,13 +263,26 @@
 38,
 38,
 38,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ramtin, Lotfabadi"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ramtin",
+"Lotfabadi"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -520,6 +533,7 @@
 46,
 47,
 47,
+46,
 46,
 46,
 46,
@@ -815,7 +829,8 @@
 43,
 43,
 43,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1097,7 +1112,8 @@
 41,
 41,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1372,7 +1388,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386050
+1671386050,
+1671474923
 ],
 "title": "Web Culture and Design"
 }

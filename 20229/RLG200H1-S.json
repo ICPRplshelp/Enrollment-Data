@@ -5,12 +5,16 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668658773,
 120
+],
+[
+1671474923,
+150
 ]
 ],
 "initialCap": 100
@@ -403,7 +407,8 @@
 154,
 152,
 152,
-152
+152,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -818,7 +823,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "The Study of Religion"
 }

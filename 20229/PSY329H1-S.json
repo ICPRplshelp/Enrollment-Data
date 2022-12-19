@@ -398,6 +398,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -815,13 +816,26 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amanda, Sharples"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Amanda",
+"Sharples"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1213,7 +1227,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Social Psychology Laboratory"
 }

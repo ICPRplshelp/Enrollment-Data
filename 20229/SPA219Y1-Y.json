@@ -398,6 +398,7 @@
 22,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -408,6 +409,13 @@
 "Laura, Colantoni"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Laura, Colantoni",
+"Gabrielle, Klassen"
+],
+"timing": 1671474923
 }
 ]
 },
@@ -415,6 +423,10 @@
 [
 "Laura",
 "Colantoni"
+],
+[
+"Gabrielle",
+"Klassen"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -808,7 +820,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Academic Spanish"
 }

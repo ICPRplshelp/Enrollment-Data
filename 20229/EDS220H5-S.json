@@ -263,6 +263,7 @@
 81,
 82,
 82,
+82,
 82
 ],
 "instructorLog": {
@@ -545,13 +546,26 @@
 83,
 83,
 83,
+83,
 83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Peden"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Peden"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -808,7 +822,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Equity and Diversity in Education"
 }

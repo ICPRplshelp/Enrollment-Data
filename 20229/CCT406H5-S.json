@@ -263,6 +263,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -274,14 +275,16 @@
 "PAM, SHAW"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"PAM, SHAW"
+],
+"timing": 1671474923
 }
 ]
 },
 "instructors": [
-[
-"SHEERAZ",
-"WANIA"
-],
 [
 "PAM",
 "SHAW"
@@ -543,7 +546,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386050
+1671386050,
+1671474923
 ],
 "title": "Capstone Design Project (SH)"
 }

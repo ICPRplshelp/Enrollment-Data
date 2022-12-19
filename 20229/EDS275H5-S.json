@@ -263,13 +263,26 @@
 67,
 67,
 67,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carly, Prusky"
+],
+"timing": 1671474923
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Carly",
+"Prusky"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -526,7 +539,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Mass Media and Debunking the Myths of Education"
 }

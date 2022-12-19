@@ -398,6 +398,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -408,6 +409,13 @@
 "Manuel, Ramirez-Salazar"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Manuel, Ramirez-Salazar",
+"Ohanna, Teixeira Barchi Severo"
+],
+"timing": 1671474923
 }
 ]
 },
@@ -415,6 +423,10 @@
 [
 "Manuel",
 "Ramirez-Salazar"
+],
+[
+"Ohanna",
+"Teixeira Barchi Severo"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -815,6 +827,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -825,6 +838,13 @@
 "Manuel, Ramirez-Salazar"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Manuel, Ramirez-Salazar",
+"Alejandro, Soifer"
+],
+"timing": 1671474923
 }
 ]
 },
@@ -832,6 +852,10 @@
 [
 "Manuel",
 "Ramirez-Salazar"
+],
+[
+"Alejandro",
+"Soifer"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1191,6 +1215,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -1654,6 +1679,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -2069,7 +2095,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Intermediate Spanish"
 }

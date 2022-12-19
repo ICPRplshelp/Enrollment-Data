@@ -263,6 +263,7 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -555,6 +556,7 @@
 35,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
@@ -837,6 +839,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -851,10 +854,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Ryan, Stafford"
+],
+"timing": 1671474923
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Ryan",
+"Stafford"
+]
+],
 "meetingNumber": "LEC03"
 },
 {
@@ -1112,6 +1126,7 @@
 13,
 13,
 13,
+12,
 12,
 12,
 12,
@@ -1400,6 +1415,7 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -1680,6 +1696,7 @@
 39,
 38,
 38,
+37,
 37,
 37,
 37
@@ -1964,7 +1981,8 @@
 31,
 29,
 29,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2238,6 +2256,7 @@
 34,
 34,
 34,
+35,
 35,
 35,
 35,
@@ -2521,7 +2540,8 @@
 1671166651,
 1671247170,
 1671323163,
-1671386051
+1671386051,
+1671474923
 ],
 "title": "Critical Writing About Literature"
 }
