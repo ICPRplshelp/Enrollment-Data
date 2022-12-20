@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "SYNC",
-"enrollmentCap": 75,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671564141,
+120
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -264,7 +269,8 @@
 141,
 141,
 141,
-140
+140,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -540,7 +546,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Cucina Italiana: Italian History and Culture Through Food"
 }

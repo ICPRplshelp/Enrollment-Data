@@ -264,6 +264,7 @@
 93,
 93,
 93,
+92,
 92
 ],
 "instructorLog": {
@@ -280,13 +281,19 @@
 "Tim, Barfoot"
 ],
 "timing": 1670695064
+},
+{
+"instructorsAfter": [
+"Steven, Waslander"
+],
+"timing": 1671564141
 }
 ]
 },
 "instructors": [
 [
-"Tim",
-"Barfoot"
+"Steven",
+"Waslander"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -546,7 +553,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "MOBILE ROBOTICS AND PERCEPTION"
 }

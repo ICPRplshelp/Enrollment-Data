@@ -399,13 +399,26 @@
 109,
 109,
 109,
+104,
 104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Nayman"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adam",
+"Nayman"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -798,7 +811,8 @@
 1671247170,
 1671323163,
 1671386050,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "The Business of Film"
 }

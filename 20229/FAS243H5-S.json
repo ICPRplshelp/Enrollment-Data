@@ -264,13 +264,26 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"C, LANE"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"C",
+"LANE"
+]
+],
 "meetingNumber": "PRA0101"
 }
 ],
@@ -528,7 +541,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Drawing II"
 }

@@ -264,7 +264,8 @@
 29,
 29,
 29,
-29
+29,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,6 +275,13 @@
 "Magda, Tigchelaar"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Magda, Tigchelaar",
+"Marie-Louise, Brice"
+],
+"timing": 1671564141
 }
 ]
 },
@@ -281,6 +289,10 @@
 [
 "Magda",
 "Tigchelaar"
+],
+[
+"Marie-Louise",
+"Brice"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -540,7 +552,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Intermediate Language Practice: Written French"
 }

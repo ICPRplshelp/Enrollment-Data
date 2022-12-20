@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671564141,
+11
+]
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -255,6 +260,7 @@
 11,
 11,
 11,
+12,
 12,
 12,
 12,
@@ -540,7 +546,8 @@
 1671247170,
 1671323163,
 1671386050,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Constructing the Other: Orientalism through Time and Place"
 }

@@ -264,13 +264,26 @@
 52,
 52,
 52,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"J, STEWART"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"J",
+"STEWART"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -535,13 +548,26 @@
 45,
 45,
 45,
-45
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A, BOZDAROV"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"A",
+"BOZDAROV"
+]
+],
 "meetingNumber": "PRA0102"
 }
 ],
@@ -799,7 +825,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Design I"
 }

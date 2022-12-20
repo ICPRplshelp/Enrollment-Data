@@ -5,12 +5,16 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1663806146,
 20
+],
+[
+1671564141,
+24
 ]
 ],
 "initialCap": 15
@@ -269,7 +273,8 @@
 20,
 20,
 20,
-20
+20,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -550,7 +555,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Professional Practice in Forensic Science"
 }

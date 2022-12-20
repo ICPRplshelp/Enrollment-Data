@@ -399,7 +399,8 @@
 89,
 89,
 89,
-87
+87,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -822,7 +823,8 @@
 91,
 91,
 91,
-91
+91,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1245,13 +1247,31 @@
 41,
 41,
 41,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Wilson",
+"Ziqing, Hong"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brian",
+"Wilson"
+],
+[
+"Ziqing",
+"Hong"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1644,7 +1664,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Practical Physics II"
 }

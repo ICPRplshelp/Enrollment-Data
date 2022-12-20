@@ -264,13 +264,26 @@
 17,
 17,
 17,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"M, BELL"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"M",
+"BELL"
+]
+],
 "meetingNumber": "PRA0101"
 }
 ],
@@ -528,7 +541,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Painting II"
 }

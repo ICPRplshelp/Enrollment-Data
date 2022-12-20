@@ -264,7 +264,8 @@
 113,
 113,
 113,
-113
+113,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,13 +275,19 @@
 "Ron, Vander Kraats"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Mike, Xue"
+],
+"timing": 1671564141
 }
 ]
 },
 "instructors": [
 [
-"Ron",
-"Vander Kraats"
+"Mike",
+"Xue"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -547,7 +554,8 @@
 112,
 112,
 112,
-111
+111,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -557,13 +565,19 @@
 "Ron, Vander Kraats"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Mike, Xue"
+],
+"timing": 1671564141
 }
 ]
 },
 "instructors": [
 [
-"Ron",
-"Vander Kraats"
+"Mike",
+"Xue"
 ]
 ],
 "meetingNumber": "LEC0102"
@@ -823,7 +837,8 @@
 1671247170,
 1671323163,
 1671386050,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Engineering Economic Analysis & Entrepreneurship"
 }

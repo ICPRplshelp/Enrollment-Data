@@ -264,6 +264,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -274,6 +275,13 @@
 "D, POOLMAN"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"D, POOLMAN",
+"L, BEAUDRY"
+],
+"timing": 1671564141
 }
 ]
 },
@@ -281,6 +289,10 @@
 [
 "D",
 "POOLMAN"
+],
+[
+"L",
+"BEAUDRY"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -540,7 +552,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Video and Sound"
 }

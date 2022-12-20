@@ -264,13 +264,31 @@
 39,
 39,
 39,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"M, ANTKOWIAK",
+"A, LEACH"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"M",
+"ANTKOWIAK"
+],
+[
+"A",
+"LEACH"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -535,13 +553,26 @@
 43,
 43,
 43,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A, LEACH"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"A",
+"LEACH"
+]
+],
 "meetingNumber": "PRA0102"
 }
 ],
@@ -799,7 +830,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Painting I"
 }

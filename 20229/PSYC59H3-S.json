@@ -264,7 +264,8 @@
 50,
 50,
 50,
-48
+48,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,15 +275,14 @@
 "Blair, Armstrong"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [],
+"timing": 1671564141
 }
 ]
 },
-"instructors": [
-[
-"Blair",
-"Armstrong"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC01"
 }
 ],
@@ -540,7 +540,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Cognitive Neuroscience of Language"
 }

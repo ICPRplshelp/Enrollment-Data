@@ -399,7 +399,8 @@
 33,
 33,
 33,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -416,6 +417,12 @@
 "Louella, D'Cunha"
 ],
 "timing": 1670695064
+},
+{
+"instructorsAfter": [
+"Maliha, Khara"
+],
+"timing": 1671564141
 }
 ]
 },
@@ -423,10 +430,6 @@
 [
 "Maliha",
 "Khara"
-],
-[
-"Louella",
-"D'Cunha"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -821,7 +824,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Forensic Pathobiology"
 }

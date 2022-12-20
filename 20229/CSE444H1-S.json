@@ -399,13 +399,26 @@
 27,
 27,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Chin"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Chin"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -798,7 +811,8 @@
 1671247170,
 1671323163,
 1671386050,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Anti-Colonization and the Politics of Violence"
 }

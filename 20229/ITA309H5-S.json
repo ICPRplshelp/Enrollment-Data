@@ -5,12 +5,16 @@
 {
 "createdAt": 1660867317,
 "delivery": "SYNC",
-"enrollmentCap": 70,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1662664205,
 70
+],
+[
+1671564141,
+95
 ]
 ],
 "initialCap": 50
@@ -269,7 +273,8 @@
 95,
 95,
 95,
-96
+96,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -545,7 +550,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Mafia Movies: Unraveling the Mob in Italian and North American Cinema"
 }

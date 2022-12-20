@@ -264,13 +264,26 @@
 36,
 36,
 36,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"P, TODD-PARRISH"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"P",
+"TODD-PARRISH"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -535,13 +548,26 @@
 35,
 35,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"N, RAHBAR"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"N",
+"RAHBAR"
+]
+],
 "meetingNumber": "PRA0102"
 }
 ],
@@ -799,7 +825,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Print Media I"
 }

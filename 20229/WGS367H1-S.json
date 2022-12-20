@@ -399,13 +399,26 @@
 73,
 73,
 73,
-75
+75,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexandra, Maris"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexandra",
+"Maris"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -798,7 +811,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "The Politics of Gender and Health"
 }

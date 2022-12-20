@@ -264,6 +264,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -274,6 +275,13 @@
 "L, BIL"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"L, BIL",
+"L, NOGUCHI"
+],
+"timing": 1671564141
 }
 ]
 },
@@ -281,6 +289,10 @@
 [
 "L",
 "BIL"
+],
+[
+"L",
+"NOGUCHI"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -540,7 +552,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Performance-Based Art"
 }

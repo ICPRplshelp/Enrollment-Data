@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 207,
+"enrollmentCap": 220,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1671564141,
+220
+]
+],
 "initialCap": 207
 },
 "enrollmentLogs": [
@@ -264,6 +269,7 @@
 239,
 239,
 239,
+238,
 238
 ],
 "instructorLog": {
@@ -540,7 +546,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Introduction to Feminist Theories and Thought"
 }

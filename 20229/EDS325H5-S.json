@@ -264,13 +264,26 @@
 36,
 36,
 36,
-36
+36,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adriana, Grimaldi"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adriana",
+"Grimaldi"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -528,7 +541,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Supplemental Instruction in Higher Education: Peer-Facilitated Study Groups"
 }

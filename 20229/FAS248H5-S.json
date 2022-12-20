@@ -264,13 +264,26 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"R, WEPPLER"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"R",
+"WEPPLER"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -535,13 +548,26 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"L, NURSE"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"L",
+"NURSE"
+]
+],
 "meetingNumber": "PRA0102"
 },
 {
@@ -806,13 +832,26 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"T, MAHOVSKY"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"T",
+"MAHOVSKY"
+]
+],
 "meetingNumber": "PRA0103"
 }
 ],
@@ -1070,7 +1109,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Sculpture I"
 }

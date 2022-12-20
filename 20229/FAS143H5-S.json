@@ -264,13 +264,26 @@
 41,
 41,
 41,
+42,
 42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A, Boulos"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"A",
+"Boulos"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -535,7 +548,8 @@
 39,
 39,
 39,
-39
+39,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -806,13 +820,26 @@
 43,
 43,
 43,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"C, Greenshaw"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"C",
+"Greenshaw"
+]
+],
 "meetingNumber": "PRA0103"
 }
 ],
@@ -1070,7 +1097,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Drawing I"
 }

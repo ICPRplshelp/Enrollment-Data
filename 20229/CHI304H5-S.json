@@ -264,13 +264,26 @@
 9,
 9,
 9,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xinliang, Jiang"
+],
+"timing": 1671564141
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Xinliang",
+"Jiang"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -528,7 +541,8 @@
 1671247170,
 1671323163,
 1671386050,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Intermediate High Chinese II"
 }

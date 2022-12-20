@@ -264,6 +264,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -274,6 +275,13 @@
 "A, KOROSHEGYI"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"A, KOROSHEGYI",
+"L, NOGUCHI"
+],
+"timing": 1671564141
 }
 ]
 },
@@ -281,6 +289,10 @@
 [
 "A",
 "KOROSHEGYI"
+],
+[
+"L",
+"NOGUCHI"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -540,7 +552,8 @@
 1671247170,
 1671323163,
 1671386051,
-1671474923
+1671474923,
+1671564141
 ],
 "title": "Individual Investigations in Photography"
 }
