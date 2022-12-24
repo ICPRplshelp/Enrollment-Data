@@ -5,7 +5,7 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -15,6 +15,10 @@
 [
 1669423876,
 34
+],
+[
+1671903633,
+35
 ]
 ],
 "initialCap": 32
@@ -274,7 +278,8 @@
 34,
 34,
 34,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -551,7 +556,8 @@
 1671323163,
 1671386051,
 1671474923,
-1671564141
+1671564141,
+1671903633
 ],
 "title": "Music and Disability"
 }

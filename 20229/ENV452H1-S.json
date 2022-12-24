@@ -400,6 +400,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -410,6 +411,13 @@
 "Njal, Rollinson"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Njal, Rollinson",
+"Kirsten Ching Fong, Yeung"
+],
+"timing": 1671903633
 }
 ]
 },
@@ -417,6 +425,10 @@
 [
 "Njal",
 "Rollinson"
+],
+[
+"Kirsten Ching Fong",
+"Yeung"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -812,7 +824,8 @@
 1671323163,
 1671386051,
 1671474923,
-1671564141
+1671564141,
+1671903633
 ],
 "title": "Environmental Science Seminar"
 }

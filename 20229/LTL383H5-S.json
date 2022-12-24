@@ -265,6 +265,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -275,6 +276,13 @@
 "Magda, Tigchelaar"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Magda, Tigchelaar",
+"Pablo, Robles Garcia"
+],
+"timing": 1671903633
 }
 ]
 },
@@ -282,6 +290,10 @@
 [
 "Magda",
 "Tigchelaar"
+],
+[
+"Pablo",
+"Robles Garcia"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -542,7 +554,8 @@
 1671323163,
 1671386051,
 1671474923,
-1671564141
+1671564141,
+1671903633
 ],
 "title": "Teaching Second Language Reading and Writing"
 }
