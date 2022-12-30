@@ -270,6 +270,7 @@
 68,
 68,
 68,
+65,
 65
 ],
 "instructorLog": {
@@ -290,10 +291,21 @@
 {
 "instructorsAfter": [],
 "timing": 1671080159
+},
+{
+"instructorsAfter": [
+"Michael, Raby"
+],
+"timing": 1672392654
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Raby"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -557,7 +569,8 @@
 1672018103,
 1672087279,
 1672171192,
-1672255823
+1672255823,
+1672392654
 ],
 "title": "Reading for Creative Writing"
 }

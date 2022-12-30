@@ -1,0 +1,42 @@
+{
+"code": "ARC399H1-S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1672392654,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Sealy"
+],
+"timing": 1672392654
+}
+]
+},
+"instructors": [
+[
+"Peter",
+"Sealy"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1672392653,
+1672392654
+],
+"title": "Research Opportunity Program"
+}
