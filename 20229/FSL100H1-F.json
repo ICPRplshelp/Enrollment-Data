@@ -408,6 +408,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -418,6 +419,13 @@
 "Marcin, Janczak"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Marcin, Janczak",
+"Paul, Bessler"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -425,6 +433,10 @@
 [
 "Marcin",
 "Janczak"
+],
+[
+"Paul",
+"Bessler"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -835,6 +847,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -845,6 +858,13 @@
 "Lucile, Mulat"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Lucile, Mulat",
+"Paul, Bessler"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -852,6 +872,10 @@
 [
 "Lucile",
 "Mulat"
+],
+[
+"Paul",
+"Bessler"
 ]
 ],
 "meetingNumber": "LEC0201"
@@ -1238,6 +1262,7 @@
 63,
 63,
 63,
+61,
 61,
 61,
 61,
@@ -1689,6 +1714,7 @@
 63,
 63,
 63,
+63,
 63
 ],
 "instructorLog": {
@@ -1699,6 +1725,13 @@
 "Samantha, Olive"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Samantha, Olive",
+"Paul, Bessler"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -1706,6 +1739,10 @@
 [
 "Samantha",
 "Olive"
+],
+[
+"Paul",
+"Bessler"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -2109,7 +2146,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Elementary French I"
 }

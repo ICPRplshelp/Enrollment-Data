@@ -273,7 +273,8 @@
 39,
 39,
 39,
-39
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -562,6 +563,7 @@
 80,
 80,
 80,
+81,
 81,
 81,
 81,
@@ -857,7 +859,8 @@
 83,
 83,
 83,
-83
+83,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -873,13 +876,19 @@
 "Arjuna, Thaskaran"
 ],
 "timing": 1671124944
+},
+{
+"instructorsAfter": [
+"Silvana, Mello da Silva"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"Arjuna",
-"Thaskaran"
+"Silvana",
+"Mello da Silva"
 ]
 ],
 "meetingNumber": "LEC03"
@@ -1155,7 +1164,8 @@
 97,
 97,
 97,
-97
+97,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1447,6 +1457,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -1457,13 +1468,19 @@
 "Philip Alexander, Brown"
 ],
 "timing": 1671124944
+},
+{
+"instructorsAfter": [
+"Renee Michelle, Janes-Reid"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"Philip Alexander",
-"Brown"
+"Renee Michelle",
+"Janes-Reid"
 ]
 ],
 "meetingNumber": "LEC05"
@@ -1732,7 +1749,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Advancing Your Career Exploration Part II"
 }

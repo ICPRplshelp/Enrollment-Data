@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 116,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672695276,
+116
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -408,7 +413,8 @@
 115,
 119,
 120,
-120
+120,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -828,7 +834,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Introduction to Fundamental Genetics and its Applications"
 }

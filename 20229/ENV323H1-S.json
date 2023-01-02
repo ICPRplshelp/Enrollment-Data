@@ -408,13 +408,26 @@
 52,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"James, Whitestone"
+],
+"timing": 1672695276
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"James",
+"Whitestone"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -816,7 +829,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Ontario Environmental Policy"
 }

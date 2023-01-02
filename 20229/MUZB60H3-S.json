@@ -273,6 +273,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -289,13 +290,19 @@
 "DANIEL, HASZNOS (NOUTORID)"
 ],
 "timing": 1671166651
+},
+{
+"instructorsAfter": [
+"Daniel, Hasznos"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"DANIEL",
-"HASZNOS (NOUTORID)"
+"Daniel",
+"Hasznos"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -564,7 +571,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Concert Band IIa"
 }

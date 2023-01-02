@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672695276,
+175
+]
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -408,7 +413,8 @@
 163,
 163,
 163,
-163
+163,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -828,7 +834,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609489
+1672609489,
+1672695276
 ],
 "title": "International Relations in the Anthropocene"
 }

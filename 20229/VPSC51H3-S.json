@@ -273,6 +273,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -283,13 +284,19 @@
 "CHARLENE, LAU (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Charlene, Lau"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"CHARLENE",
-"LAU (NOUTORID)"
+"Charlene",
+"Lau"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -558,7 +565,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609489
+1672609489,
+1672695276
 ],
 "title": "Curatorial Perspectives II"
 }

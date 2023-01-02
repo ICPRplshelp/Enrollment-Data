@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 270,
+"enrollmentCap": 278,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672695276,
+278
+]
+],
 "initialCap": 270
 },
 "enrollmentLogs": [
@@ -273,7 +278,8 @@
 271,
 271,
 271,
-271
+271,
+272
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -558,7 +564,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Electromagnetism"
 }

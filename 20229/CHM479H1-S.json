@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 34,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672695276,
+34
+]
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -391,6 +396,7 @@
 32,
 32,
 32,
+33,
 33,
 33,
 33,
@@ -828,7 +834,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Biological Chemistry"
 }

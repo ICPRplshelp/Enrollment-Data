@@ -273,6 +273,7 @@
 127,
 127,
 127,
+127,
 127
 ],
 "instructorLog": {
@@ -283,13 +284,19 @@
 "Michael, Gruninger"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Daniela, Rosu"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"Michael",
-"Gruninger"
+"Daniela",
+"Rosu"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -558,7 +565,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Data Modelling"
 }

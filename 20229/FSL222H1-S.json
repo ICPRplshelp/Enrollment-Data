@@ -408,6 +408,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -418,6 +419,13 @@
 "Sebastien, Sacre"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Sebastien, Sacre",
+"Josiane, Loui"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -425,6 +433,10 @@
 [
 "Sebastien",
 "Sacre"
+],
+[
+"Josiane",
+"Loui"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -823,6 +835,7 @@
 51,
 52,
 52,
+53,
 53,
 53,
 53,
@@ -1262,6 +1275,7 @@
 50,
 48,
 51,
+51,
 51
 ],
 "instructorLog": {
@@ -1682,7 +1696,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Intermediate French II"
 }

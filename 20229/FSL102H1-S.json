@@ -408,6 +408,7 @@
 96,
 96,
 97,
+97,
 97
 ],
 "instructorLog": {
@@ -418,6 +419,13 @@
 "Dorothea, Kullmann"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Dorothea, Kullmann",
+"Paul, Bessler"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -425,6 +433,10 @@
 [
 "Dorothea",
 "Kullmann"
+],
+[
+"Paul",
+"Bessler"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -835,7 +847,8 @@
 94,
 94,
 96,
-96
+96,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1255,7 +1268,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Elementary French II"
 }

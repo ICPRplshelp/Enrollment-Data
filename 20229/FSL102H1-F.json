@@ -408,6 +408,7 @@
 39,
 39,
 39,
+39,
 39
 ],
 "instructorLog": {
@@ -418,6 +419,13 @@
 "Katarzyna, Peric"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Katarzyna, Peric",
+"Paul, Bessler"
+],
+"timing": 1672695276
 }
 ]
 },
@@ -425,6 +433,10 @@
 [
 "Katarzyna",
 "Peric"
+],
+[
+"Paul",
+"Bessler"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -828,7 +840,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Elementary French II"
 }

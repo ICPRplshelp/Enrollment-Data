@@ -278,6 +278,7 @@
 74,
 74,
 74,
+74,
 74
 ],
 "instructorLog": {
@@ -288,13 +289,19 @@
 "SUZANNE, EDWORTHY (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Suzanne, Edworthy"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"SUZANNE",
-"EDWORTHY (NOUTORID)"
+"Suzanne",
+"Edworthy"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -563,7 +570,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609489
+1672609489,
+1672695276
 ],
 "title": "Marketing in the Arts and Media"
 }

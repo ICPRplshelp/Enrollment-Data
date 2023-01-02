@@ -273,7 +273,8 @@
 39,
 40,
 40,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -283,13 +284,19 @@
 "IAN, RICHARDS (NOUTORID)"
 ],
 "timing": 1671124944
+},
+{
+"instructorsAfter": [
+"Ian, Richards"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"IAN",
-"RICHARDS (NOUTORID)"
+"Ian",
+"Richards"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -558,7 +565,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609488
+1672609488,
+1672695276
 ],
 "title": "Global Buddhism in Historical and Contemporary Societies"
 }

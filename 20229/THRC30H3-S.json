@@ -273,6 +273,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -283,13 +284,19 @@
 "JACQUELINE, CHAU (NOUTORID)"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Jacqueline, Chau"
+],
+"timing": 1672695276
 }
 ]
 },
 "instructors": [
 [
-"JACQUELINE",
-"CHAU (NOUTORID)"
+"Jacqueline",
+"Chau"
 ]
 ],
 "meetingNumber": "LEC30"
@@ -558,7 +565,8 @@
 1672255823,
 1672392654,
 1672557689,
-1672609489
+1672609489,
+1672695276
 ],
 "title": "Theatrical Design"
 }
