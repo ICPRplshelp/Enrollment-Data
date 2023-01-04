@@ -409,6 +409,7 @@
 95,
 95,
 95,
+95,
 95
 ],
 "instructorLog": {
@@ -419,13 +420,19 @@
 "Yiching, Wu"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Bo Yao, Zhang"
+],
+"timing": 1672792305
 }
 ]
 },
 "instructors": [
 [
-"Yiching",
-"Wu"
+"Bo Yao",
+"Zhang"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -830,7 +837,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Revolutions in Modern China"
 }

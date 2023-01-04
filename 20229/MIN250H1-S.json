@@ -274,6 +274,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -285,6 +286,12 @@
 "Alan, Chong"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Kamran, Esmaeili"
+],
+"timing": 1672792305
 }
 ]
 },
@@ -292,10 +299,6 @@
 [
 "Kamran",
 "Esmaeili"
-],
-[
-"Alan",
-"Chong"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -565,7 +568,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Surface Mining"
 }

@@ -409,13 +409,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Djanet, Sears"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Djanet",
+"Sears"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -818,7 +831,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Independent Studies in Drama, Theatre and Performance Studies"
 }

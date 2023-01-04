@@ -279,13 +279,26 @@
 121,
 120,
 120,
-121
+121,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Ben-Israel"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jonathan",
+"Ben-Israel"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -553,7 +566,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Chinese Literature (Song to Qing)"
 }

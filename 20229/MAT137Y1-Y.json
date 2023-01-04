@@ -409,6 +409,7 @@
 187,
 187,
 187,
+187,
 187
 ],
 "instructorLog": {
@@ -833,6 +834,7 @@
 173,
 173,
 173,
+172,
 172,
 172,
 172,
@@ -1265,6 +1267,7 @@
 180,
 180,
 180,
+179,
 179
 ],
 "instructorLog": {
@@ -1693,7 +1696,8 @@
 192,
 192,
 192,
-192
+192,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2126,7 +2130,8 @@
 195,
 195,
 195,
-194
+194,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2545,6 +2550,7 @@
 182,
 186,
 186,
+185,
 185,
 185,
 185,
@@ -2987,6 +2993,7 @@
 220,
 220,
 220,
+220,
 220
 ],
 "instructorLog": {
@@ -3420,6 +3427,7 @@
 74,
 74,
 74,
+74,
 74
 ],
 "instructorLog": {
@@ -3848,7 +3856,8 @@
 177,
 176,
 176,
-176
+176,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3858,6 +3867,13 @@
 "Omar Daniel, Alvarez Sanchez"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Omar Daniel, Alvarez Sanchez",
+"Clovis, Hamel Ascanio"
+],
+"timing": 1672792305
 }
 ]
 },
@@ -3865,6 +3881,10 @@
 [
 "Omar Daniel",
 "Alvarez Sanchez"
+],
+[
+"Clovis",
+"Hamel Ascanio"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -4269,7 +4289,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Calculus with Proofs"
 }

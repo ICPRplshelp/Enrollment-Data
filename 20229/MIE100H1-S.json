@@ -274,7 +274,8 @@
 158,
 158,
 158,
-159
+159,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -567,13 +568,26 @@
 70,
 70,
 70,
+70,
 70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abbas, Ali"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Abbas",
+"Ali"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -835,6 +849,7 @@
 100,
 101,
 101,
+102,
 102,
 102,
 102,
@@ -1141,7 +1156,8 @@
 102,
 102,
 102,
-102
+102,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1434,7 +1450,8 @@
 125,
 125,
 125,
-125
+125,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1727,7 +1744,8 @@
 88,
 88,
 88,
-88
+88,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2013,7 +2031,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Dynamics"
 }

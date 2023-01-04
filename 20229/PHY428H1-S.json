@@ -409,6 +409,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -421,6 +422,15 @@
 "Robin, Marjoribanks"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Ania, Harlick",
+"Young-June, Kim",
+"Robin, Marjoribanks",
+"John, Ladan"
+],
+"timing": 1672792305
 }
 ]
 },
@@ -436,6 +446,10 @@
 [
 "Robin",
 "Marjoribanks"
+],
+[
+"John",
+"Ladan"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -840,7 +854,8 @@
 1672392654,
 1672557689,
 1672609489,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Advanced Practical Physics II"
 }

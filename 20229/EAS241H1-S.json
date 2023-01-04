@@ -43,13 +43,26 @@
 50,
 51,
 51,
-53
+53,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zhonghu, Yan"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Zhonghu",
+"Yan"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -86,7 +99,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Introduction to Chinese Philosophy"
 }

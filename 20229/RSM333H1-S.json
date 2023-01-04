@@ -409,13 +409,26 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anwar, Husain"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anwar",
+"Husain"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -825,7 +838,8 @@
 56,
 56,
 56,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1253,7 +1267,8 @@
 57,
 57,
 57,
-57
+57,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1681,7 +1696,8 @@
 53,
 53,
 53,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2105,6 +2121,7 @@
 63,
 63,
 63,
+62,
 62,
 62,
 62,
@@ -2537,6 +2554,7 @@
 60,
 60,
 60,
+59,
 59
 ],
 "instructorLog": {
@@ -2965,6 +2983,7 @@
 48,
 48,
 48,
+46,
 46
 ],
 "instructorLog": {
@@ -3393,7 +3412,8 @@
 56,
 57,
 57,
-57
+57,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3821,7 +3841,8 @@
 52,
 51,
 51,
-49
+49,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4249,13 +4270,26 @@
 20,
 20,
 20,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anwar, Husain"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anwar",
+"Husain"
+]
+],
 "meetingNumber": "LEC5301"
 }
 ],
@@ -4658,7 +4692,8 @@
 1672392654,
 1672557689,
 1672609489,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Corporate Finance"
 }

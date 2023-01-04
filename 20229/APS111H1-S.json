@@ -279,13 +279,26 @@
 38,
 38,
 38,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Benjamin, Kinsella"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Benjamin",
+"Kinsella"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -553,7 +566,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Engineering Strategies & Practice I"
 }

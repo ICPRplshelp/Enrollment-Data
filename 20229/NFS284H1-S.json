@@ -409,13 +409,26 @@
 1308,
 1309,
 1309,
-1306
+1306,
+1308
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Schwartz"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Schwartz"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -818,7 +831,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Basic Human Nutrition"
 }

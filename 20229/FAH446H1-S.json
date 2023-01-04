@@ -409,13 +409,26 @@
 6,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Isabelle, Gapp"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Isabelle",
+"Gapp"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -818,7 +831,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Arctic Anthropocene? Image Cultures of Arctic Voyaging"
 }

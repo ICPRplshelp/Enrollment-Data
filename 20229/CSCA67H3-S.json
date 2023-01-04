@@ -5,12 +5,16 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 123,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1668545484,
 105
+],
+[
+1672792305,
+123
 ]
 ],
 "initialCap": 117
@@ -279,6 +283,7 @@
 121,
 122,
 122,
+123,
 123
 ],
 "instructorLog": {
@@ -565,7 +570,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Discrete Mathematics"
 }

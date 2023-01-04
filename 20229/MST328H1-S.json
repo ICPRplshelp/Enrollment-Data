@@ -409,6 +409,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -419,13 +420,19 @@
 "Alexander, Andree"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Tristan, Major"
+],
+"timing": 1672792305
 }
 ]
 },
 "instructors": [
 [
-"Alexander",
-"Andree"
+"Tristan",
+"Major"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -830,7 +837,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Mediaeval Latin Poetry"
 }

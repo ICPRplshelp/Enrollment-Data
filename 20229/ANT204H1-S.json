@@ -5,7 +5,7 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 330,
+"enrollmentCap": 360,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -15,6 +15,10 @@
 [
 1668468113,
 330
+],
+[
+1672792305,
+360
 ]
 ],
 "initialCap": 280
@@ -418,7 +422,8 @@
 370,
 371,
 371,
-369
+369,
+372
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -839,7 +844,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Social Cultural Anthropology and Global Issues"
 }

@@ -137,13 +137,26 @@
 29,
 30,
 30,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xi, Chen"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Xi",
+"Chen"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -274,7 +287,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Culture of Nature in China"
 }

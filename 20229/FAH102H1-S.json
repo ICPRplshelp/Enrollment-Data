@@ -409,7 +409,8 @@
 269,
 267,
 267,
-269
+269,
+272
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -837,13 +838,26 @@
 167,
 167,
 167,
-164
+164,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joseph, Clarke"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joseph",
+"Clarke"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -1246,7 +1260,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Art and Ideas"
 }

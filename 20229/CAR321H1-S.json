@@ -409,13 +409,26 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lee, L'Clerc"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lee",
+"L'Clerc"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -818,7 +831,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Caribbean Visual Arts, Social Media and Performance"
 }

@@ -409,13 +409,26 @@
 67,
 68,
 68,
-70
+70,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Schwartz"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Schwartz"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -818,7 +831,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Vitamin and Mineral Metabolism Throughout the Life Cycle"
 }

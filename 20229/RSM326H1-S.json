@@ -409,6 +409,7 @@
 26,
 26,
 26,
+25,
 25
 ],
 "instructorLog": {
@@ -837,7 +838,8 @@
 45,
 45,
 45,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1265,13 +1267,26 @@
 16,
 16,
 16,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abdul, Khizer"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Abdul",
+"Khizer"
+]
+],
 "meetingNumber": "LEC0301"
 }
 ],
@@ -1674,7 +1689,8 @@
 1672392654,
 1672557689,
 1672609489,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Data Analytics with Financial Accounting Information"
 }

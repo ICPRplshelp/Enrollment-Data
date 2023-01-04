@@ -274,13 +274,26 @@
 10,
 10,
 10,
-11
+11,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matteo, Ugolini"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matteo",
+"Ugolini"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -548,7 +561,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Italian Linguistics"
 }

@@ -274,13 +274,26 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Emilie, Jacob"
+],
+"timing": 1672792305
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Emilie",
+"Jacob"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -548,7 +561,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Cinema and Migration"
 }

@@ -409,7 +409,8 @@
 70,
 70,
 70,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -423,10 +424,21 @@
 {
 "instructorsAfter": [],
 "timing": 1672695276
+},
+{
+"instructorsAfter": [
+"Adriel, Weaver"
+],
+"timing": 1672792305
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Adriel",
+"Weaver"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -829,7 +841,8 @@
 1672392654,
 1672557689,
 1672609488,
-1672695276
+1672695276,
+1672792305
 ],
 "title": "Indigenous Law"
 }
