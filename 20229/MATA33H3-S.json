@@ -276,6 +276,7 @@
 152,
 149,
 146,
+146,
 146
 ],
 "instructorLog": {
@@ -286,13 +287,19 @@
 "SHUCHITA, SHARMA (NOUTORID)"
 ],
 "timing": 1671038899
+},
+{
+"instructorsAfter": [
+"Shuchita, Sharma"
+],
+"timing": 1672866016
 }
 ]
 },
 "instructors": [
 [
-"SHUCHITA",
-"SHARMA (NOUTORID)"
+"Shuchita",
+"Sharma"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -565,6 +572,7 @@
 309,
 309,
 309,
+310,
 310,
 310,
 310,
@@ -866,7 +874,8 @@
 218,
 217,
 219,
-219
+219,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1154,7 +1163,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Calculus for Management II"
 }

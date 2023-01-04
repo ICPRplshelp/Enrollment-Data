@@ -276,6 +276,7 @@
 106,
 106,
 106,
+106,
 106
 ],
 "instructorLog": {
@@ -293,14 +294,16 @@
 "Seyed Mohamad, Moosavi"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Seyed Mohamad, Moosavi"
+],
+"timing": 1672866016
 }
 ]
 },
 "instructors": [
-[
-"William",
-"Cluett"
-],
 [
 "Seyed Mohamad",
 "Moosavi"
@@ -575,7 +578,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Process Control"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672866016,
+48
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -276,7 +281,8 @@
 36,
 36,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -564,7 +570,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Advanced Written Communication for Health Care"
 }

@@ -276,7 +276,8 @@
 127,
 126,
 127,
-127
+127,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -286,13 +287,19 @@
 "SHOHINI, BHATTASALI (NOUTORID)"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Shohini, Bhattasali"
+],
+"timing": 1672866016
 }
 ]
 },
 "instructors": [
 [
-"SHOHINI",
-"BHATTASALI (NOUTORID)"
+"Shohini",
+"Bhattasali"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -564,7 +571,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Morphology"
 }

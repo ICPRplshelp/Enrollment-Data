@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672866016,
+22
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -405,6 +410,7 @@
 20,
 20,
 20,
+21,
 21,
 21,
 21,
@@ -834,7 +840,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Advanced Topics in Earth Sciences"
 }

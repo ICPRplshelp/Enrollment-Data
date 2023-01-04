@@ -411,6 +411,7 @@
 65,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -421,13 +422,19 @@
 "Yuchong, Zhang"
 ],
 "timing": 1670027340
+},
+{
+"instructorsAfter": [
+"Omidali, Aghababaei Jazi"
+],
+"timing": 1672866017
 }
 ]
 },
 "instructors": [
 [
-"Yuchong",
-"Zhang"
+"Omidali",
+"Aghababaei Jazi"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -846,6 +853,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -856,13 +864,19 @@
 "Yuchong, Zhang"
 ],
 "timing": 1670520098
+},
+{
+"instructorsAfter": [
+"Omidali, Aghababaei Jazi"
+],
+"timing": 1672866017
 }
 ]
 },
 "instructors": [
 [
-"Yuchong",
-"Zhang"
+"Omidali",
+"Aghababaei Jazi"
 ]
 ],
 "meetingNumber": "LEC2001"
@@ -1269,7 +1283,8 @@
 1672609489,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866017
 ],
 "title": "Stochastic Processes"
 }

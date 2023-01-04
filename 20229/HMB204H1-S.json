@@ -411,7 +411,8 @@
 377,
 376,
 374,
-374
+374,
+375
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,6 +422,13 @@
 "Maria, Papaconstantinou"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Maria, Papaconstantinou",
+"James, Hong"
+],
+"timing": 1672866016
 }
 ]
 },
@@ -428,6 +436,10 @@
 [
 "Maria",
 "Papaconstantinou"
+],
+[
+"James",
+"Hong"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -834,7 +846,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Introduction to Human Biology"
 }

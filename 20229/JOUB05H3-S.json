@@ -276,6 +276,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -571,13 +572,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+", CENTENNIAL"
+],
+"timing": 1672866016
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"",
+"CENTENNIAL"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -847,7 +861,8 @@
 1672609488,
 1672695276,
 1672792305,
-1672805938
+1672805938,
+1672866016
 ],
 "title": "Advanced Video and Audio Production"
 }
