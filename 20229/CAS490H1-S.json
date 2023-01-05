@@ -412,6 +412,7 @@
 6,
 7,
 7,
+6,
 6
 ],
 "instructorLog": {
@@ -426,10 +427,21 @@
 {
 "instructorsAfter": [],
 "timing": 1668814166
+},
+{
+"instructorsAfter": [
+"Stephen Neil, Smith"
+],
+"timing": 1672931145
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Stephen Neil",
+"Smith"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -835,7 +847,8 @@
 1672695276,
 1672792305,
 1672805938,
-1672866016
+1672866016,
+1672931145
 ],
 "title": "Special Topics in Contemporary Asian Studies"
 }
