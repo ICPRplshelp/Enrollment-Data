@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 86,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+120
+]
+],
 "initialCap": 86
 },
 "enrollmentLogs": [
@@ -275,6 +280,7 @@
 112,
 112,
 111,
+110,
 110,
 110,
 110,
@@ -570,7 +576,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Essentials of Human Physiology"
 }

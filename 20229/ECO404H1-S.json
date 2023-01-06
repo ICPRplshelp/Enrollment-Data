@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+40
+]
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -413,6 +418,7 @@
 41,
 41,
 41,
+38,
 38,
 38
 ],
@@ -840,7 +846,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Topics in Managerial Economics"
 }

@@ -414,13 +414,26 @@
 31,
 31,
 29,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Vassili, Schedrin"
+],
+"timing": 1673043946
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Vassili",
+"Schedrin"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -828,7 +841,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Literature and History in Russia"
 }

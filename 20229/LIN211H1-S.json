@@ -414,13 +414,26 @@
 97,
 96,
 95,
-94
+94,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Wiesblatt"
+],
+"timing": 1673043946
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David",
+"Wiesblatt"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -828,7 +841,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "American Sign Language 1"
 }

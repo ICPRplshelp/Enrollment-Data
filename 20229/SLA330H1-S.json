@@ -414,13 +414,26 @@
 9,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Allan, Smith"
+],
+"timing": 1673043946
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Allan",
+"Smith"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -828,7 +841,8 @@
 1672805938,
 1672866017,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Old Church Slavonic"
 }

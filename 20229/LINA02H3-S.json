@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 315,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+315
+]
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -279,7 +284,8 @@
 353,
 352,
 350,
-346
+346,
+342
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -570,7 +576,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Applications of Linguistics"
 }

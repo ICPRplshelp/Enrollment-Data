@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+150
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -279,6 +284,7 @@
 142,
 144,
 145,
+147,
 147
 ],
 "instructorLog": {
@@ -570,7 +576,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "European Art of the Nineteenth Century"
 }

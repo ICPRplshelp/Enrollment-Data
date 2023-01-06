@@ -414,13 +414,26 @@
 264,
 266,
 268,
+268,
 268
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Regina, Hartwick"
+],
+"timing": 1673043946
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Regina",
+"Hartwick"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -828,7 +841,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Indigenous Politics in Canada"
 }

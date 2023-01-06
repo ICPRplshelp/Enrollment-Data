@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+86
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
@@ -279,6 +284,7 @@
 79,
 79,
 79,
+80,
 80
 ],
 "instructorLog": {
@@ -289,15 +295,14 @@
 "Shreya, Mahajan"
 ],
 "timing": 1671038899
+},
+{
+"instructorsAfter": [],
+"timing": 1673043946
 }
 ]
 },
-"instructors": [
-[
-"Shreya",
-"Mahajan"
-]
-],
+"instructors": [],
 "meetingNumber": "LEC01"
 }
 ],
@@ -570,7 +575,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Linear Programming and Optimization"
 }

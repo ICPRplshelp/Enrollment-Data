@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+125
+]
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -279,7 +284,8 @@
 115,
 117,
 119,
-119
+119,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -576,7 +582,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Calculus I for Mathematical Sciences"
 }

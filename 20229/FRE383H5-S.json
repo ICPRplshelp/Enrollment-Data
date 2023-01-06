@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+40
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -278,6 +283,7 @@
 41,
 41,
 41,
+39,
 39,
 39
 ],
@@ -570,7 +576,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Advanced Language Practice: Spoken French"
 }

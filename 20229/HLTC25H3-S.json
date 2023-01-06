@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+86
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -279,6 +284,7 @@
 44,
 45,
 45,
+46,
 46
 ],
 "instructorLog": {
@@ -570,7 +576,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Infectious Diseases"
 }

@@ -414,6 +414,7 @@
 39,
 40,
 40,
+39,
 39
 ],
 "instructorLog": {
@@ -847,13 +848,26 @@
 29,
 29,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexandra, Bolintineanu"
+],
+"timing": 1673043946
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexandra",
+"Bolintineanu"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -1261,7 +1275,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Virtual Worlds: Introduction to Spatial Digital Humanities"
 }

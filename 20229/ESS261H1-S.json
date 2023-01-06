@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+60
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -414,7 +419,8 @@
 57,
 57,
 57,
-58
+58,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -840,7 +846,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Earth System Evolution"
 }

@@ -414,7 +414,8 @@
 33,
 33,
 34,
-34
+34,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -428,10 +429,21 @@
 {
 "instructorsAfter": [],
 "timing": 1671564141
+},
+{
+"instructorsAfter": [
+"Laine, Halpern Zisman"
+],
+"timing": 1673043946
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Laine",
+"Halpern Zisman"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -839,7 +851,8 @@
 1672805938,
 1672866017,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Sex in the City"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673043946,
+125
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -279,7 +284,8 @@
 133,
 134,
 136,
-137
+137,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -309,6 +315,7 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -856,7 +863,8 @@
 1672805938,
 1672866016,
 1672931145,
-1672983935
+1672983935,
+1673043946
 ],
 "title": "Differential Equations I"
 }
