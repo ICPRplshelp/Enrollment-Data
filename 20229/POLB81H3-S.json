@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+150
+]
+],
 "initialCap": 175
 },
 "enrollmentLogs": [
@@ -278,7 +283,8 @@
 141,
 141,
 142,
-142
+142,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -568,7 +574,8 @@
 1672792305,
 1672805938,
 1672866017,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Introduction to International Relations II"
 }

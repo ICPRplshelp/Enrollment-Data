@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+130
+]
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -278,7 +283,8 @@
 129,
 129,
 129,
-129
+129,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -568,7 +574,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Algorithms & Numerical Methods"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 94,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+94
+]
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -413,7 +418,8 @@
 100,
 100,
 100,
-99
+99,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -838,7 +844,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Forecasting and Time Series Econometrics"
 }

@@ -278,6 +278,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -588,6 +589,7 @@
 25,
 25,
 25,
+26,
 26
 ],
 "instructorLog": {
@@ -885,7 +887,8 @@
 25,
 25,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1182,13 +1185,26 @@
 7,
 7,
 7,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Monteith"
+],
+"timing": 1672983935
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"John",
+"Monteith"
+]
+],
 "meetingNumber": "PRA0104"
 }
 ],
@@ -1460,7 +1476,8 @@
 1672792305,
 1672805938,
 1672866017,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Painting: Methods and Materials"
 }

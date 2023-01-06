@@ -413,6 +413,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -423,13 +424,19 @@
 "Andreas, Motsch"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Rosa, Saverino"
+],
+"timing": 1672983935
 }
 ]
 },
 "instructors": [
 [
-"Andreas",
-"Motsch"
+"Rosa",
+"Saverino"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -838,7 +845,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Advanced French I"
 }

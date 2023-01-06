@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+127
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -277,6 +282,7 @@
 126,
 127,
 127,
+129,
 129,
 129
 ],
@@ -574,7 +580,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "Morphology"
 }

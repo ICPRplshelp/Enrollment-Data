@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+37
+]
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -249,6 +254,7 @@
 38,
 38,
 38,
+37,
 37,
 37,
 37,
@@ -568,7 +574,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "The Performance Text"
 }

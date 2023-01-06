@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "ASYIF",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1672983935,
+350
+]
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -278,7 +283,8 @@
 347,
 347,
 345,
-347
+347,
+344
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -568,7 +574,8 @@
 1672792305,
 1672805938,
 1672866016,
-1672931145
+1672931145,
+1672983935
 ],
 "title": "English Grammar"
 }
