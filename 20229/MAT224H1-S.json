@@ -422,7 +422,8 @@
 162,
 162,
 162,
-162
+162,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -863,13 +864,26 @@
 165,
 168,
 167,
-167
+167,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yu, Li"
+],
+"timing": 1673272170
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yu",
+"Li"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -1292,7 +1306,8 @@
 161,
 163,
 163,
-163
+163,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1733,7 +1748,8 @@
 160,
 158,
 158,
-158
+158,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2174,7 +2190,8 @@
 157,
 156,
 157,
-157
+157,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2184,13 +2201,19 @@
 "Alessandro, Malusa"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Denis, Gorodkov"
+],
+"timing": 1673272170
 }
 ]
 },
 "instructors": [
 [
-"Alessandro",
-"Malusa"
+"Denis",
+"Gorodkov"
 ]
 ],
 "meetingNumber": "LEC0501"
@@ -2615,7 +2638,8 @@
 155,
 155,
 156,
-156
+156,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2625,13 +2649,19 @@
 "Denis, Gorodkov"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Alessandro, Malusa"
+],
+"timing": 1673272170
 }
 ]
 },
 "instructors": [
 [
-"Denis",
-"Gorodkov"
+"Alessandro",
+"Malusa"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -3044,7 +3074,8 @@
 1672983935,
 1673043946,
 1673121544,
-1673204685
+1673204685,
+1673272170
 ],
 "title": "Linear Algebra II"
 }

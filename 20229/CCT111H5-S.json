@@ -282,7 +282,8 @@
 116,
 114,
 114,
-114
+114,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -583,13 +584,26 @@
 75,
 81,
 81,
-81
+81,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yasser, Ebrahim"
+],
+"timing": 1673272169
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yasser",
+"Ebrahim"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -865,7 +879,8 @@
 1672983935,
 1673043946,
 1673121544,
-1673204685
+1673204685,
+1673272169
 ],
 "title": "Critical Coding"
 }

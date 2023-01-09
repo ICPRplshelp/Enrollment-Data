@@ -417,7 +417,8 @@
 143,
 140,
 140,
-140
+140,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -853,7 +854,8 @@
 184,
 184,
 184,
-184
+184,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -867,10 +869,21 @@
 {
 "instructorsAfter": [],
 "timing": 1670288891
+},
+{
+"instructorsAfter": [
+"Yu, Li"
+],
+"timing": 1673272170
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Yu",
+"Li"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -1281,7 +1294,8 @@
 1672983935,
 1673043946,
 1673121544,
-1673204685
+1673204685,
+1673272170
 ],
 "title": "Complex Variables"
 }
