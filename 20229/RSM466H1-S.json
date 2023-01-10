@@ -5,12 +5,16 @@
 {
 "createdAt": 1656647697,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1671124944,
 60
+],
+[
+1673309297,
+75
 ]
 ],
 "initialCap": 53
@@ -423,7 +427,8 @@
 74,
 74,
 74,
-77
+77,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -853,7 +858,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Environmental and Social Responsibility"
 }

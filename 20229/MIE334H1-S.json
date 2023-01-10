@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+104
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -275,6 +280,7 @@
 99,
 99,
 99,
+100,
 100,
 100,
 100,
@@ -585,6 +591,7 @@
 100,
 100,
 100,
+100,
 100
 ],
 "instructorLog": {
@@ -880,7 +887,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Numerical Methods I"
 }

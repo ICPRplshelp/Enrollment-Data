@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+56
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -418,7 +423,8 @@
 57,
 57,
 57,
-57
+57,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -848,7 +854,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Love in the Renaissance"
 }

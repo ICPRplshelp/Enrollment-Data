@@ -5,9 +5,14 @@
 {
 "createdAt": 1663368871,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+36
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -180,7 +185,8 @@
 35,
 35,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -372,7 +378,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Business Research Methods (DEM)"
 }

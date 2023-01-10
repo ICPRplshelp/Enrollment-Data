@@ -283,13 +283,26 @@
 21,
 21,
 21,
-20
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nilanjan, Das"
+],
+"timing": 1673309297
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nilanjan",
+"Das"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -566,7 +579,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Special Topics in Philosophy"
 }

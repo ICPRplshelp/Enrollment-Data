@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+100
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -418,7 +423,8 @@
 84,
 84,
 84,
-86
+86,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -865,7 +871,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Introductory Computation and Data Science for the Life and Physical Sciences"
 }

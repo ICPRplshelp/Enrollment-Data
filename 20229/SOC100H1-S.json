@@ -5,7 +5,7 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 882,
+"enrollmentCap": 892,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -23,6 +23,10 @@
 [
 1673043946,
 882
+],
+[
+1673309297,
+892
 ]
 ],
 "initialCap": 769
@@ -435,7 +439,8 @@
 882,
 881,
 881,
-890
+890,
+895
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -872,7 +877,8 @@
 35,
 34,
 34,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1302,7 +1308,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

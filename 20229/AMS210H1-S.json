@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 14,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+14
+]
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -418,7 +423,8 @@
 10,
 10,
 10,
-11
+11,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -848,7 +854,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Concepts in American Studies"
 }

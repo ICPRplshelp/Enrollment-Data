@@ -5,9 +5,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+17
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -283,7 +288,8 @@
 21,
 21,
 21,
-21
+21,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,9 +313,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+17
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -581,6 +592,7 @@
 19,
 18,
 18,
+17,
 17,
 17,
 17,
@@ -609,9 +621,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+19
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -887,7 +904,8 @@
 21,
 21,
 21,
-21
+21,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -911,9 +929,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+18
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -1189,7 +1212,8 @@
 7,
 7,
 7,
-8
+8,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1213,9 +1237,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+19
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -1488,6 +1517,7 @@
 19,
 19,
 20,
+19,
 19,
 19,
 19,
@@ -1515,9 +1545,14 @@
 {
 "createdAt": 1667894989,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+18
+]
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
@@ -1793,7 +1828,8 @@
 23,
 23,
 23,
-22
+22,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2088,7 +2124,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Musical Skills III"
 }

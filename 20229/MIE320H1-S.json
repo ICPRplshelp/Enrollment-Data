@@ -5,9 +5,14 @@
 {
 "createdAt": 1660867317,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 78,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+78
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -283,6 +288,7 @@
 77,
 77,
 77,
+76,
 76
 ],
 "instructorLog": {
@@ -578,7 +584,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Mechanics of Solids II"
 }

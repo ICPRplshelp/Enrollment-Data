@@ -296,6 +296,7 @@
 19,
 19,
 19,
+16,
 16
 ],
 "instructorLog": {
@@ -608,7 +609,8 @@
 175,
 175,
 175,
-176
+176,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -619,6 +621,12 @@
 "Courtney, Jeremiah"
 ],
 "timing": 1670907224
+},
+{
+"instructorsAfter": [
+"Katie Y.R., Li"
+],
+"timing": 1673309297
 }
 ]
 },
@@ -626,10 +634,6 @@
 [
 "Katie Y.R.",
 "Li"
-],
-[
-"Courtney",
-"Jeremiah"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -920,13 +924,26 @@
 121,
 121,
 121,
+121,
 121
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Courtney, Jeremiah"
+],
+"timing": 1673309297
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Courtney",
+"Jeremiah"
+]
+],
 "meetingNumber": "LEC03"
 }
 ],
@@ -1203,7 +1220,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Preparing to Compete for your Co-op Work Term"
 }

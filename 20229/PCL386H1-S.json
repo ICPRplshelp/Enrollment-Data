@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+130
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -415,6 +420,7 @@
 125,
 125,
 126,
+125,
 125,
 125,
 125,
@@ -848,7 +854,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Pharmacology of Cancer Signaling"
 }

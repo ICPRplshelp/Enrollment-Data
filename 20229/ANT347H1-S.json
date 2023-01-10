@@ -5,9 +5,14 @@
 {
 "createdAt": 1656647697,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1673309297,
+70
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -418,6 +423,7 @@
 61,
 61,
 61,
+63,
 63
 ],
 "instructorLog": {
@@ -848,7 +854,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Metropolis: Global Cities"
 }

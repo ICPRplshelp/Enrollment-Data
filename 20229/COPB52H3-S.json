@@ -283,13 +283,31 @@
 175,
 175,
 175,
-175
+175,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mimi, Abdoun Mohamed",
+"Christopher John, Flores"
+],
+"timing": 1673309297
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mimi",
+"Abdoun Mohamed"
+],
+[
+"Christopher John",
+"Flores"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -573,13 +591,26 @@
 108,
 108,
 108,
-108
+108,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kate, Epp"
+],
+"timing": 1673309297
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kate",
+"Epp"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -856,7 +887,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

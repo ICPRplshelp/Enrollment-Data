@@ -321,7 +321,8 @@
 26,
 26,
 26,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,6 +338,13 @@
 "Tomomi, Parins-Fukuchi"
 ],
 "timing": 1672792305
+},
+{
+"instructorsAfter": [
+"Tomomi, Parins-Fukuchi",
+"Celina, Baines"
+],
+"timing": 1673309297
 }
 ]
 },
@@ -344,6 +352,10 @@
 [
 "Tomomi",
 "Parins-Fukuchi"
+],
+[
+"Celina",
+"Baines"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -660,7 +672,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Seminar in Ecology and Evolutionary Biology"
 }

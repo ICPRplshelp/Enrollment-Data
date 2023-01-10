@@ -288,7 +288,8 @@
 80,
 80,
 80,
-78
+78,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -302,10 +303,21 @@
 {
 "instructorsAfter": [],
 "timing": 1673043946
+},
+{
+"instructorsAfter": [
+"Shreya, Mahajan"
+],
+"timing": 1673309297
 }
 ]
 },
-"instructors": [],
+"instructors": [
+[
+"Shreya",
+"Mahajan"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -582,7 +594,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272170
+1673272170,
+1673309297
 ],
 "title": "Linear Programming and Optimization"
 }

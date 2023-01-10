@@ -283,7 +283,8 @@
 31,
 31,
 31,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -293,13 +294,19 @@
 "Naomi, Matsuura"
 ],
 "timing": 1668212862
+},
+{
+"instructorsAfter": [
+"Anthony, Tavares"
+],
+"timing": 1673309297
 }
 ]
 },
 "instructors": [
 [
-"Naomi",
-"Matsuura"
+"Anthony",
+"Tavares"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -578,7 +585,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Biomedical Engineering Technologies"
 }

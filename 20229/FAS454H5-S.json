@@ -283,6 +283,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -299,13 +300,19 @@
 "K, SCHMIDT"
 ],
 "timing": 1671564141
+},
+{
+"instructorsAfter": [
+"F, FACCIPONTE"
+],
+"timing": 1673309297
 }
 ]
 },
 "instructors": [
 [
-"K",
-"SCHMIDT"
+"F",
+"FACCIPONTE"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -584,7 +591,8 @@
 1673043946,
 1673121544,
 1673204685,
-1673272169
+1673272169,
+1673309297
 ],
 "title": "Professional Practice"
 }
