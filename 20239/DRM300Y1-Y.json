@@ -1,0 +1,88 @@
+{
+"code": "DRM300Y1-Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ken Michael, Gass"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Ken Michael",
+"Gass"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ken Michael, Gass"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Ken Michael",
+"Gass"
+]
+],
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Performance II"
+}

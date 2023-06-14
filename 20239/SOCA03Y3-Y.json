@@ -1,0 +1,88 @@
+{
+"code": "SOCA03Y3-Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 205,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 205
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kathy, Liddle"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Kathy",
+"Liddle"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "ASYNC",
+"enrollmentCap": 430,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 430
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kathy, Liddle"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Kathy",
+"Liddle"
+]
+],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to Sociology"
+}

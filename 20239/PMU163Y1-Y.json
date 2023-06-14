@@ -1,0 +1,88 @@
+{
+"code": "PMU163Y1-Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 8,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 8
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lydia, Wong"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Lydia",
+"Wong"
+]
+],
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 8,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 8
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lydia, Wong"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Lydia",
+"Wong"
+]
+],
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Sight Reading"
+}

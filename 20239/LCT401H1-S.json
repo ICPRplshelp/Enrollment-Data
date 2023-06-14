@@ -1,0 +1,292 @@
+{
+"code": "LCT401H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kate, Holland"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Kate",
+"Holland"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Haytham, Bahoora"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Haytham",
+"Bahoora"
+]
+],
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Cazdyn"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Eric",
+"Cazdyn"
+]
+],
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Willi, Goetschel"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Willi",
+"Goetschel"
+]
+],
+"meetingNumber": "LEC0501"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rebecca, Comay"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Rebecca",
+"Comay"
+]
+],
+"meetingNumber": "LEC0601"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Martin, Revermann"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Martin",
+"Revermann"
+]
+],
+"meetingNumber": "LEC0701"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andreas, Motsch"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Andreas",
+"Motsch"
+]
+],
+"meetingNumber": "LEC0801"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Seminar in Comparative Literature"
+}

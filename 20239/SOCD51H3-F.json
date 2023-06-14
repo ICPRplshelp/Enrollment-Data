@@ -1,0 +1,52 @@
+{
+"code": "SOCD51H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Doherty"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Jason",
+"Doherty"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Capstone Seminar in Culture, Creativity, and Cities"
+}

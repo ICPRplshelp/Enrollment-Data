@@ -1,0 +1,112 @@
+{
+"code": "BIO130H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 1314,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1314
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2000"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2002"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 400,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 400
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Molecular and Cell Biology"
+}

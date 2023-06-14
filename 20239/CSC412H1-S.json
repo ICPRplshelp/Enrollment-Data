@@ -1,0 +1,124 @@
+{
+"code": "CSC412H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Murat Anil, Erdogdu"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Murat Anil",
+"Erdogdu"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 70
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Murat Anil, Erdogdu"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Murat Anil",
+"Erdogdu"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Murat Anil, Erdogdu"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Murat Anil",
+"Erdogdu"
+]
+],
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740321
+],
+"title": "Probabilistic Learning and Reasoning"
+}

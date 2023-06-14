@@ -1,0 +1,52 @@
+{
+"code": "EMU231H1-S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 27,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 27
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zimfira, Poloz"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Zimfira",
+"Poloz"
+]
+],
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Voice Pedagogy for Young Choir"
+}

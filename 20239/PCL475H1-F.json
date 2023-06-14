@@ -1,0 +1,57 @@
+{
+"code": "PCL475H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 65,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Martin, Zack",
+"Willets, Burnham"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Martin",
+"Zack"
+],
+[
+"Willets",
+"Burnham"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Neuropsychopharmacology 1"
+}

@@ -1,0 +1,160 @@
+{
+"code": "SOC100H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 1065,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1065
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 683,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 683
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mitchell, McIvor"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mitchell",
+"McIvor"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2000"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2001"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 17,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 17
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mitchell, McIvor"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mitchell",
+"McIvor"
+]
+],
+"meetingNumber": "LEC2101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to Sociology"
+}

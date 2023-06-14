@@ -1,0 +1,67 @@
+{
+"code": "MCS225Y1-Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Chazan",
+"Catherine, Sutton",
+"Kenneth, Bartlett",
+"Sequoia, Miller"
+],
+"timing": 1686620482
+}
+]
+},
+"instructors": [
+[
+"Michael",
+"Chazan"
+],
+[
+"Catherine",
+"Sutton"
+],
+[
+"Kenneth",
+"Bartlett"
+],
+[
+"Sequoia",
+"Miller"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "A History of the World in Objects and Signs"
+}

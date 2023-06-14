@@ -1,0 +1,64 @@
+{
+"code": "PHY460H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 82,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 82
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Nonlinear Physics"
+}

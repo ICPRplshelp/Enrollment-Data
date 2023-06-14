@@ -1,0 +1,196 @@
+{
+"code": "MAT223H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jaimal, Thind"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Jaimal",
+"Thind"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jaimal, Thind"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Jaimal",
+"Thind"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549020,
+"delivery": "HYBR",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Rennet"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Alex",
+"Rennet"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Rennet"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Alex",
+"Rennet"
+]
+],
+"meetingNumber": "LEC0104"
+},
+{
+"createdAt": 1686549020,
+"delivery": "HYBR",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Rennet"
+],
+"timing": 1686740321
+}
+]
+},
+"instructors": [
+[
+"Alex",
+"Rennet"
+]
+],
+"meetingNumber": "LEC0105"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Linear Algebra I"
+}

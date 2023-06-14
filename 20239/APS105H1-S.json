@@ -1,0 +1,160 @@
+{
+"code": "APS105H1-S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Salma, Emara"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Salma",
+"Emara"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Salma, Emara"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Salma",
+"Emara"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Eyolfson"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Jonathan",
+"Eyolfson"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bruno, Korst-Fagundes"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Bruno",
+"Korst-Fagundes"
+]
+],
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Computer Fundamentals"
+}

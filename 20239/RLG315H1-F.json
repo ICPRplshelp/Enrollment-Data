@@ -1,0 +1,52 @@
+{
+"code": "RLG315H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, Gallant"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Sarah",
+"Gallant"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Rites of Passage"
+}

@@ -1,0 +1,129 @@
+{
+"code": "APS111H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 450,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 450
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ted, Nolan"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Ted",
+"Nolan"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 410,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 410
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Susan, McCahan",
+"Ted, Nolan"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Susan",
+"McCahan"
+],
+[
+"Ted",
+"Nolan"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 435,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 435
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ted, Nolan"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Ted",
+"Nolan"
+]
+],
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Engineering Strategies & Practice I"
+}

@@ -1,0 +1,52 @@
+{
+"code": "FAH245H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivana, Dizdar"
+],
+"timing": 1686620482
+}
+]
+},
+"instructors": [
+[
+"Ivana",
+"Dizdar"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Modernism and anti-Modernism, c. 1750-1900"
+}

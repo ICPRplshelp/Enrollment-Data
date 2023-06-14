@@ -1,0 +1,88 @@
+{
+"code": "GGR124H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Damian, Dupuy"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Damian",
+"Dupuy"
+]
+],
+"meetingNumber": "LEC2501"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Damian, Dupuy"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Damian",
+"Dupuy"
+]
+],
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Cities and Urban Life"
+}

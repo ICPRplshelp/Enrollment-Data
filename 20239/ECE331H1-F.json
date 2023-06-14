@@ -1,0 +1,52 @@
+{
+"code": "ECE331H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 56,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 56
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David Andrew, Johns"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"David Andrew",
+"Johns"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Analog Electronics"
+}

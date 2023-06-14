@@ -1,0 +1,124 @@
+{
+"code": "MGEB11H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Victor, Yu"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Victor",
+"Yu"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "ASYNC",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Victor, Yu"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Victor",
+"Yu"
+]
+],
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Victor, Yu"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Victor",
+"Yu"
+]
+],
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Quantitative Methods in Economics I"
+}

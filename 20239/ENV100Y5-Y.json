@@ -1,0 +1,52 @@
+{
+"code": "ENV100Y5-Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "ASYNC",
+"enrollmentCap": 1200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Monika, Havelka"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Monika",
+"Havelka"
+]
+],
+"meetingNumber": "LEC9999"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "The Environment"
+}

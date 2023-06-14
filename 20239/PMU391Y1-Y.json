@@ -1,0 +1,160 @@
+{
+"code": "PMU391Y1-Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anita, McAlister"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Anita",
+"McAlister"
+]
+],
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Annalee, Patipatanakoon"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Annalee",
+"Patipatanakoon"
+]
+],
+"meetingNumber": "PRA0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Hall"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Eric",
+"Hall"
+]
+],
+"meetingNumber": "PRA0301"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aiyun, Huang"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Aiyun",
+"Huang"
+]
+],
+"meetingNumber": "PRA0501"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Chamber Music"
+}

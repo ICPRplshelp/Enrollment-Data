@@ -1,0 +1,136 @@
+{
+"code": "ECE216H1-S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Simpson-Porco"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"John",
+"Simpson-Porco"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lacra, Pavel"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Lacra",
+"Pavel"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Signals and Systems"
+}

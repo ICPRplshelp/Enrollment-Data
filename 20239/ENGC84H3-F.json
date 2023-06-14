@@ -1,0 +1,52 @@
+{
+"code": "ENGC84H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rakesh, Sengupta"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Rakesh",
+"Sengupta"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Cinema and Migration"
+}

@@ -1,0 +1,57 @@
+{
+"code": "MSE397H1-S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Doug, Perovic",
+"Scott, Ramsay"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Doug",
+"Perovic"
+],
+[
+"Scott",
+"Ramsay"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Materials Manufac. & Design II"
+}

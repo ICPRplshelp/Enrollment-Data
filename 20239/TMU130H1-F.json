@@ -1,0 +1,196 @@
+{
+"code": "TMU130H1-F",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+112,
+112,
+112,
+112,
+112,
+112
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0501"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Music Theory I"
+}

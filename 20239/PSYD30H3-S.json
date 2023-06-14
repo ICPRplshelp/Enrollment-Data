@@ -1,0 +1,52 @@
+{
+"code": "PSYD30H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefano I., Di Domenico"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Stefano I.",
+"Di Domenico"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Current Topics in Personality Psychology"
+}

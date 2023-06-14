@@ -1,0 +1,52 @@
+{
+"code": "CIN369H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Nayman"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Adam",
+"Nayman"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Critical Writing on Film"
+}

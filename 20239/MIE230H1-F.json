@@ -1,0 +1,88 @@
+{
+"code": "MIE230H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Javad, Mostaghimi"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Javad",
+"Mostaghimi"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Javad, Mostaghimi"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Javad",
+"Mostaghimi"
+]
+],
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Engineering Analysis"
+}

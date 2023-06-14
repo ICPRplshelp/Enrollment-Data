@@ -1,0 +1,52 @@
+{
+"code": "ENV210H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "ASYNC",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Damian, Maddalena"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Damian",
+"Maddalena"
+]
+],
+"meetingNumber": "LEC9999"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "The Sustainability Imperative"
+}

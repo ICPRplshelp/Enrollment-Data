@@ -1,0 +1,76 @@
+{
+"code": "MUZA66H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tony, Leong"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Tony",
+"Leong"
+]
+],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Small Ensembles Ia"
+}

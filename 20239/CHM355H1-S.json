@@ -1,0 +1,64 @@
+{
+"code": "CHM355H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "SYNC",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC2501"
+},
+{
+"createdAt": 1686549019,
+"delivery": "SYNC",
+"enrollmentCap": 62,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 62
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Introduction to Inorganic and Polymer Materials Chemistry"
+}

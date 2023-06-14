@@ -1,0 +1,124 @@
+{
+"code": "MGEA06H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Iris, Au"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Iris",
+"Au"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Iris, Au"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Iris",
+"Au"
+]
+],
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1686549020,
+"delivery": "ASYNC",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Iris, Au"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Iris",
+"Au"
+]
+],
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to Macroeconomics: A Mathematical Approach"
+}

@@ -1,0 +1,52 @@
+{
+"code": "HISB65H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Esmat, Elhalaby"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Esmat",
+"Elhalaby"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "West Asia and the Modern World"
+}

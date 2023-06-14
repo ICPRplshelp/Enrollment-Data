@@ -1,0 +1,56 @@
+{
+"code": "RSM401H1-F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1682377163,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wendy, Rotenberg"
+],
+"timing": 1683205736
+}
+]
+},
+"instructors": [
+[
+"Wendy",
+"Rotenberg"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1682377162,
+1682377163,
+1682445976,
+1682485540,
+1682531019,
+1682541322,
+1682614516,
+1683205736,
+1683290933
+],
+"title": "Independent Study Course"
+}

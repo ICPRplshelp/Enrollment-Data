@@ -1,0 +1,88 @@
+{
+"code": "LIN200H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "SYNC",
+"enrollmentCap": 280,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 280
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivan, Bondoc"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Ivan",
+"Bondoc"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "SYNC",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivan, Bondoc"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Ivan",
+"Bondoc"
+]
+],
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to Language"
+}

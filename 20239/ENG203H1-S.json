@@ -1,0 +1,88 @@
+{
+"code": "ENG203H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 144,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 144
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Johnstone"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Michael",
+"Johnstone"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Simon, Dickie"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Simon",
+"Dickie"
+]
+],
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to British Literature II"
+}

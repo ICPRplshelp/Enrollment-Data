@@ -1,0 +1,52 @@
+{
+"code": "FAH313H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "SYNC",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bjoern, Ewald"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Bjoern",
+"Ewald"
+]
+],
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Greek Myth in Ancient Art"
+}

@@ -1,0 +1,57 @@
+{
+"code": "REN346H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 34,
+"enrollmentCapComplex": {
+"capChanges": [
+[
+1686598375,
+34
+]
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ethan Matt, Kavaler"
+],
+"timing": 1686620482
+}
+]
+},
+"instructors": [
+[
+"Ethan Matt",
+"Kavaler"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "The Idea of the Renaissance"
+}

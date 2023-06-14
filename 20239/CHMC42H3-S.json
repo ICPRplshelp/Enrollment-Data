@@ -1,0 +1,57 @@
+{
+"code": "CHMC42H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Svetlana, Mikhaylichenko",
+"Xiaoan, Zhang"
+],
+"timing": 1686685174
+}
+]
+},
+"instructors": [
+[
+"Svetlana",
+"Mikhaylichenko"
+],
+[
+"Xiaoan",
+"Zhang"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Organic Synthesis"
+}

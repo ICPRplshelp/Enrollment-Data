@@ -1,0 +1,52 @@
+{
+"code": "ECE526H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 21,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 21
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ali, Hooshyar"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Ali",
+"Hooshyar"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Power Systems Protection & Automation"
+}

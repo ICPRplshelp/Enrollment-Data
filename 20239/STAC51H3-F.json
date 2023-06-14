@@ -1,0 +1,52 @@
+{
+"code": "STAC51H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 135,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 135
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shahriar, Shams"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Shahriar",
+"Shams"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Categorical Data Analysis"
+}

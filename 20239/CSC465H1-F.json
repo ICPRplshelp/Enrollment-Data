@@ -1,0 +1,52 @@
+{
+"code": "CSC465H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "HYBR",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric Cr, Hehner"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Eric Cr",
+"Hehner"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740321
+],
+"title": "Formal Methods in Software Design"
+}

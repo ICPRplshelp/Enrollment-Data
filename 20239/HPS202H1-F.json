@@ -1,0 +1,88 @@
+{
+"code": "HPS202H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 135,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 135
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrien, Zakar"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Adrien",
+"Zakar"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrien, Zakar"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Adrien",
+"Zakar"
+]
+],
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Technology in the Modern World"
+}

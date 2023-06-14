@@ -1,0 +1,88 @@
+{
+"code": "PMU252Y1-Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mia, Bach"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mia",
+"Bach"
+]
+],
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mia, Bach"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mia",
+"Bach"
+]
+],
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Piano-Vocal Masterclass"
+}

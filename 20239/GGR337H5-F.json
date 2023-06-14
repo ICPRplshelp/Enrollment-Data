@@ -1,0 +1,52 @@
+{
+"code": "GGR337H5-F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 144,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 144
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yuhong, He"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Yuhong",
+"He"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Environmental Remote Sensing"
+}

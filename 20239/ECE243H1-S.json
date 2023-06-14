@@ -1,0 +1,160 @@
+{
+"code": "ECE243H1-S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andreas, Moshovos"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Andreas",
+"Moshovos"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andreas, Moshovos"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Andreas",
+"Moshovos"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Rose"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Jonathan",
+"Rose"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Rose"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Jonathan",
+"Rose"
+]
+],
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Computer Organization"
+}

@@ -1,0 +1,52 @@
+{
+"code": "MIE490Y1-Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 190,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 190
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dionne, Aleman"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Dionne",
+"Aleman"
+]
+],
+"meetingNumber": "TUT0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Capstone Design"
+}

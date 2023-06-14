@@ -1,0 +1,52 @@
+{
+"code": "ECE430H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 28,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 28
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tome, Kosteski"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Tome",
+"Kosteski"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "ANALOG INTEGRATED CIRCUITS"
+}

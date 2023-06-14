@@ -1,0 +1,52 @@
+{
+"code": "CHE299H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 135,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 135
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alison, McGuigan"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Alison",
+"McGuigan"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Communication"
+}

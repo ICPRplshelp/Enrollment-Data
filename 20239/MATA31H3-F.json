@@ -1,0 +1,160 @@
+{
+"code": "MATA31H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Natalia, Breuss"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Natalia",
+"Breuss"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Natalia, Breuss"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Natalia",
+"Breuss"
+]
+],
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Natalia, Breuss"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Natalia",
+"Breuss"
+]
+],
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Natalia, Breuss"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Natalia",
+"Breuss"
+]
+],
+"meetingNumber": "LEC04"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Calculus I for Mathematical Sciences"
+}

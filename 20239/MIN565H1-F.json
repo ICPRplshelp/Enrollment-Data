@@ -1,0 +1,52 @@
+{
+"code": "MIN565H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Hadjigeorgiou"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"John",
+"Hadjigeorgiou"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Design and Support of Underground Mine Excavations"
+}

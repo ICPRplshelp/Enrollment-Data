@@ -1,0 +1,88 @@
+{
+"code": "PSYC18H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brett Quaid, Ford"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Brett Quaid",
+"Ford"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brett Quaid, Ford"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Brett Quaid",
+"Ford"
+]
+],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "The Psychology of Emotion"
+}

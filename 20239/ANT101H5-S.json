@@ -1,0 +1,76 @@
+{
+"code": "ANT101H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 400,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 400
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sherry, Fukuzawa"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Sherry",
+"Fukuzawa"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 400,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 400
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Introduction to Biological Anthropology and Archaeology"
+}

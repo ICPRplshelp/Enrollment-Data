@@ -1,0 +1,42 @@
+{
+"code": "CHE408H1-S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniela, Galatro"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Daniela",
+"Galatro"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019
+],
+"title": "Data Analytics for Predition, Control, and Opt. of Chem Proc"
+}

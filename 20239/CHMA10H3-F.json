@@ -1,0 +1,154 @@
+{
+"code": "CHMA10H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Heinz-Bernhard, Kraatz",
+"Nirusha, Thavarajah",
+"Marco, Zimmer-De Iuliis"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Heinz-Bernhard",
+"Kraatz"
+],
+[
+"Nirusha",
+"Thavarajah"
+],
+[
+"Marco",
+"Zimmer-De Iuliis"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Heinz-Bernhard, Kraatz",
+"Nirusha, Thavarajah",
+"Marco, Zimmer-De Iuliis"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Heinz-Bernhard",
+"Kraatz"
+],
+[
+"Nirusha",
+"Thavarajah"
+],
+[
+"Marco",
+"Zimmer-De Iuliis"
+]
+],
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1686549019,
+"delivery": "ASYNC",
+"enrollmentCap": 280,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 280
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Heinz-Bernhard, Kraatz",
+"Nirusha, Thavarajah",
+"Marco, Zimmer-De Iuliis"
+],
+"timing": 1686685174
+}
+]
+},
+"instructors": [
+[
+"Heinz-Bernhard",
+"Kraatz"
+],
+[
+"Nirusha",
+"Thavarajah"
+],
+[
+"Marco",
+"Zimmer-De Iuliis"
+]
+],
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Introductory Chemistry I: Structure and Bonding"
+}

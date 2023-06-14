@@ -1,0 +1,76 @@
+{
+"code": "VPAA10H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 215,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 215
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"MaryElizabeth, Luka"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"MaryElizabeth",
+"Luka"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549020,
+"delivery": "ASYNC",
+"enrollmentCap": 65,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Introduction to Arts and Media Management"
+}

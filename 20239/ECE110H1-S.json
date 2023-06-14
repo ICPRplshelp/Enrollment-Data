@@ -1,0 +1,232 @@
+{
+"code": "ECE110H1-S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xilin, Liu"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Xilin",
+"Liu"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 133,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 133
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xilin, Liu"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Xilin",
+"Liu"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Berj, Bardakjian"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Berj",
+"Bardakjian"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Belinda, Wang"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Belinda",
+"Wang"
+]
+],
+"meetingNumber": "LEC0104"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Paul, Yoo"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Paul",
+"Yoo"
+]
+],
+"meetingNumber": "LEC0105"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mo, Mojahedi"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Mo",
+"Mojahedi"
+]
+],
+"meetingNumber": "LEC0106"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Electrical Fundamentals"
+}

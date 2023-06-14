@@ -1,0 +1,88 @@
+{
+"code": "CSC373H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nisarg, Shah"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Nisarg",
+"Shah"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bahar, Aameri"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Bahar",
+"Aameri"
+]
+],
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740321
+],
+"title": "Algorithm Design, Analysis & Complexity"
+}

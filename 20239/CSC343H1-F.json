@@ -1,0 +1,196 @@
+{
+"code": "CSC343H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 194,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 194
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diane, Horton"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Diane",
+"Horton"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 234,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 234
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diane, Horton"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Diane",
+"Horton"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 115,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 115
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diane, Horton"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Diane",
+"Horton"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diane, Horton"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Diane",
+"Horton"
+]
+],
+"meetingNumber": "LEC2001"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diane, Horton"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Diane",
+"Horton"
+]
+],
+"meetingNumber": "LEC2101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740321
+],
+"title": "Introduction to Databases"
+}

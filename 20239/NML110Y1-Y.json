@@ -1,0 +1,124 @@
+{
+"code": "NML110Y1-Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abdel-Khalig, Ali"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Abdel-Khalig",
+"Ali"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "SYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Ali"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Adam",
+"Ali"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "SYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Ali"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Adam",
+"Ali"
+]
+],
+"meetingNumber": "LEC0301"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Elementary Standard Arabic"
+}

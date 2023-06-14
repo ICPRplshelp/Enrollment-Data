@@ -1,0 +1,160 @@
+{
+"code": "APS110H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 468,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 468
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Ramsay"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Scott",
+"Ramsay"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 406,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 406
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Frank, Gu"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Frank",
+"Gu"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 406,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 406
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Timothy, Bender"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Timothy",
+"Bender"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Ramsay"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Scott",
+"Ramsay"
+]
+],
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320
+],
+"title": "Eng. Chemistry & Material Science"
+}

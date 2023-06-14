@@ -1,0 +1,40 @@
+{
+"code": "POL107H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "What Went Wrong? A Post Mortem of Political Disasters, Catastrophic Policy Failures, and Epic Marches of Folly"
+}

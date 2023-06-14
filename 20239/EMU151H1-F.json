@@ -1,0 +1,88 @@
+{
+"code": "EMU151H1-F",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Stoll"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Peter",
+"Stoll"
+]
+],
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Peter, Stoll"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Peter",
+"Stoll"
+]
+],
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Inst Class: Clarinet"
+}

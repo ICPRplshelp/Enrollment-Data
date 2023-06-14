@@ -1,0 +1,232 @@
+{
+"code": "TMU131H1-S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+112,
+112,
+112,
+112,
+112,
+113
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 33,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 33
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 13,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 13
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 33,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 33
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 34,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 34
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0501"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 13,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 13
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Sallmen"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Mark",
+"Sallmen"
+]
+],
+"meetingNumber": "LEC0601"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Music Theory II"
+}

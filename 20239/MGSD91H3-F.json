@@ -1,0 +1,44 @@
+{
+"code": "MGSD91H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686685175,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yizhou, Jin"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Yizhou",
+"Jin"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1686685174,
+1686685175,
+1686740321
+],
+"title": "Special Topics in Strategy"
+}

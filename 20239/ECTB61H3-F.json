@@ -1,0 +1,88 @@
+{
+"code": "ECTB61H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jingsong, Ma"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Jingsong",
+"Ma"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jingsong, Ma"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Jingsong",
+"Ma"
+]
+],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "English and Chinese Translation: Theory and Practice"
+}

@@ -1,0 +1,88 @@
+{
+"code": "CSCA20H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 234,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 234
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Harrington"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Brian",
+"Harrington"
+]
+],
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 234,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 234
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Harrington"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Brian",
+"Harrington"
+]
+],
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740321
+],
+"title": "Introduction to Programming"
+}

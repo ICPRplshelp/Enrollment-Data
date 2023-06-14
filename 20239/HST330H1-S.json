@@ -1,0 +1,88 @@
+{
+"code": "HST330H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 59,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 59
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Lombardo"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Anthony",
+"Lombardo"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Lombardo"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Anthony",
+"Lombardo"
+]
+],
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Population Health"
+}

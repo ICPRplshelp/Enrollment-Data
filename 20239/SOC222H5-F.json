@@ -1,0 +1,88 @@
+{
+"code": "SOC222H5-F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David, Pettinicchio"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"David",
+"Pettinicchio"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrew, Miles"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Andrew",
+"Miles"
+]
+],
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Measuring the Social World"
+}

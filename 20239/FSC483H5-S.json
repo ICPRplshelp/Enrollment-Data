@@ -1,0 +1,201 @@
+{
+"code": "FSC483H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Karen, Woodall"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Karen",
+"Woodall"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Frank, Wendt"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Frank",
+"Wendt"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shelby, Scott"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Shelby",
+"Scott"
+]
+],
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Karen, Woodall",
+"Caitlin, Pakosh"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Karen",
+"Woodall"
+],
+[
+"Caitlin",
+"Pakosh"
+]
+],
+"meetingNumber": "LEC0104"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Caitlin, Pakosh"
+],
+"timing": 1686598375
+}
+]
+},
+"instructors": [
+[
+"Caitlin",
+"Pakosh"
+]
+],
+"meetingNumber": "LEC0105"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Collaborative Research Internship"
+}

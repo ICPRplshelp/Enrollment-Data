@@ -1,0 +1,52 @@
+{
+"code": "EMU270H1-S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 8,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 8
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Timothy, Dawson"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Timothy",
+"Dawson"
+]
+],
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Instrumental: Double Bass"
+}

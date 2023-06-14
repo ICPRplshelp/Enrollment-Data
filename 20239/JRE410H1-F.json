@@ -1,0 +1,124 @@
+{
+"code": "JRE410H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steven Chuang, Chuang"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Steven Chuang",
+"Chuang"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"William, Wignall"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"William",
+"Wignall"
+]
+],
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Steven Chuang, Chuang"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Steven Chuang",
+"Chuang"
+]
+],
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Markets and Competitive Strategy"
+}

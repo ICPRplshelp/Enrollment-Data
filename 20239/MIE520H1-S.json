@@ -1,0 +1,48 @@
+{
+"code": "MIE520H1-S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lidan, You"
+],
+"timing": 1686549020
+}
+]
+},
+"instructors": [
+[
+"Lidan",
+"You"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586
+],
+"title": "Biotransport Phenomena"
+}

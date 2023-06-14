@@ -1,0 +1,52 @@
+{
+"code": "FAH371H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1686549020,
+"delivery": "INPER",
+"enrollmentCap": 99,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 99
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amalya, Feldman"
+],
+"timing": 1686685175
+}
+]
+},
+"instructors": [
+[
+"Amalya",
+"Feldman"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1686549019,
+1686549020,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Architecture and Urbanism in Baroque Europe (formerly FAH355H1)"
+}

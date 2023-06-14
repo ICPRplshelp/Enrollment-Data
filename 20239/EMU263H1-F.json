@@ -1,0 +1,52 @@
+{
+"code": "EMU263H1-F",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 11,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 11
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Leslie, Newman"
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+[
+"Leslie",
+"Newman"
+]
+],
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685175,
+1686740321
+],
+"title": "Instrumental: Flute"
+}
