@@ -17,6 +17,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -41,13 +42,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aradhya, Sood"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Aradhya",
+"Sood"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -58,7 +72,8 @@
 1686620482,
 1686649586,
 1686685175,
-1686740321
+1686740321,
+1686875065
 ],
 "title": "Industrial Organization"
 }

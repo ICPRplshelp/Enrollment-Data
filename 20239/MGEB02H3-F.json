@@ -17,6 +17,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -47,6 +48,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -89,6 +91,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -119,6 +122,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -161,13 +165,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ataollah, Mazaheri"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ataollah",
+"Mazaheri"
+]
+],
 "meetingNumber": "LEC05"
 },
 {
@@ -179,6 +196,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -214,7 +232,8 @@
 1686620482,
 1686649586,
 1686685175,
-1686740321
+1686740321,
+1686875065
 ],
 "title": "Price Theory: A Mathematical Approach"
 }

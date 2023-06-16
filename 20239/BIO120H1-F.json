@@ -17,13 +17,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Frederickson",
+"Stephen, Wright"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megan",
+"Frederickson"
+],
+[
+"Stephen",
+"Wright"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -41,13 +59,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Frederickson",
+"Stephen, Wright"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megan",
+"Frederickson"
+],
+[
+"Stephen",
+"Wright"
+]
+],
 "meetingNumber": "LEC2000"
 },
 {
@@ -65,13 +101,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Frederickson",
+"Stephen, Wright"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megan",
+"Frederickson"
+],
+[
+"Stephen",
+"Wright"
+]
+],
 "meetingNumber": "LEC2002"
 },
 {
@@ -89,13 +143,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megan, Frederickson",
+"Stephen, Wright"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megan",
+"Frederickson"
+],
+[
+"Stephen",
+"Wright"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -106,7 +178,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Adaptation and Biodiversity"
 }

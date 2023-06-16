@@ -17,13 +17,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stephen, Reid"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stephen",
+"Reid"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -41,13 +54,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stephen, Reid"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stephen",
+"Reid"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -58,7 +84,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Human Physiology II"
 }

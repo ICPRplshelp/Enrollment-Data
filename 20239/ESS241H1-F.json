@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875065,
+50
+]
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -29,12 +35,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 11,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875065,
+17
+]
+],
 "initialCap": 11
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -58,7 +70,8 @@
 1686620482,
 1686649586,
 1686685175,
-1686740321
+1686740321,
+1686875065
 ],
 "title": "Geologic Structures and Maps"
 }

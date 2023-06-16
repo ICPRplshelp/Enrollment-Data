@@ -148,6 +148,7 @@
 59,
 59,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -158,13 +159,19 @@
 "HUGH R., MACDONALD (NOUTORID)"
 ],
 "timing": 1681237635
+},
+{
+"instructorsAfter": [
+"Hugh R., MacDonald"
+],
+"timing": 1686875027
 }
 ]
 },
 "instructors": [
 [
-"HUGH R.",
-"MACDONALD (NOUTORID)"
+"Hugh R.",
+"MacDonald"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -315,7 +322,8 @@
 57,
 57,
 54,
-54
+54,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,13 +333,19 @@
 "HUGH R., MACDONALD (NOUTORID)"
 ],
 "timing": 1681237635
+},
+{
+"instructorsAfter": [
+"Hugh R., MacDonald"
+],
+"timing": 1686875027
 }
 ]
 },
 "instructors": [
 [
-"HUGH R.",
-"MACDONALD (NOUTORID)"
+"Hugh R.",
+"MacDonald"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -572,7 +586,8 @@
 1686620441,
 1686649546,
 1686685136,
-1686740204
+1686740204,
+1686875027
 ],
 "title": "Human Resource Management"
 }

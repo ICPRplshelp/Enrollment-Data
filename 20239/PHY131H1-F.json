@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 936,
+"enrollmentCap": 736,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875065,
+736
+]
+],
 "initialCap": 936
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -25,6 +31,31 @@
 },
 "instructors": [],
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686875065,
+"delivery": "ASYNC",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -34,7 +65,8 @@
 1686620482,
 1686649586,
 1686685175,
-1686740321
+1686740321,
+1686875065
 ],
 "title": "Introduction to Physics I"
 }

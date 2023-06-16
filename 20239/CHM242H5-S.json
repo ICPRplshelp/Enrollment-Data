@@ -17,13 +17,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jumi, Shin"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jumi",
+"Shin"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -34,7 +47,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Introductory Organic Chemistry I"
 }

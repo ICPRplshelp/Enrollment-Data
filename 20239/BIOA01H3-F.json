@@ -17,6 +17,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -27,6 +28,13 @@
 "Aarthi, Ashok"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Aarthi, Ashok",
+"Yan, Wang"
+],
+"timing": 1686875065
 }
 ]
 },
@@ -34,6 +42,10 @@
 [
 "Aarthi",
 "Ashok"
+],
+[
+"Yan",
+"Wang"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -53,6 +65,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -63,6 +76,13 @@
 "Aarthi, Ashok"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Aarthi, Ashok",
+"Yan, Wang"
+],
+"timing": 1686875065
 }
 ]
 },
@@ -70,6 +90,10 @@
 [
 "Aarthi",
 "Ashok"
+],
+[
+"Yan",
+"Wang"
 ]
 ],
 "meetingNumber": "LEC02"
@@ -77,9 +101,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 248,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875065,
+200
+]
+],
 "initialCap": 248
 },
 "enrollmentLogs": [
@@ -89,6 +118,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -99,6 +129,13 @@
 "Aarthi, Ashok"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Aarthi, Ashok",
+"Yan, Wang"
+],
+"timing": 1686875065
 }
 ]
 },
@@ -106,6 +143,10 @@
 [
 "Aarthi",
 "Ashok"
+],
+[
+"Yan",
+"Wang"
 ]
 ],
 "meetingNumber": "LEC03"
@@ -118,7 +159,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Life on Earth: Unifying Principles"
 }

@@ -17,13 +17,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marc, Laflamme"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marc",
+"Laflamme"
+]
+],
 "meetingNumber": "PRA0101"
 }
 ],
@@ -34,7 +47,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Introduction to Research in the Chemical and Physical Sciences"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875027,
+130
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -164,7 +169,8 @@
 126,
 126,
 128,
-127
+127,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -340,7 +346,8 @@
 1686620441,
 1686649546,
 1686685136,
-1686740204
+1686740204,
+1686875027
 ],
 "title": "Buddhism and Psychotherapy"
 }

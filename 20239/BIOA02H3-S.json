@@ -17,6 +17,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -27,6 +28,13 @@
 "Stephen, Reid"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Stephen, Reid",
+"Ivana, Stehlik"
+],
+"timing": 1686875065
 }
 ]
 },
@@ -34,6 +42,10 @@
 [
 "Stephen",
 "Reid"
+],
+[
+"Ivana",
+"Stehlik"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -53,21 +65,44 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivana, Stehlik",
+"Stephen, Reid"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ivana",
+"Stehlik"
+],
+[
+"Stephen",
+"Reid"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 180,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875065,
+100
+]
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -77,13 +112,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivana, Stehlik",
+"Stephen, Reid"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ivana",
+"Stehlik"
+],
+[
+"Stephen",
+"Reid"
+]
+],
 "meetingNumber": "LEC03"
 }
 ],
@@ -94,7 +147,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

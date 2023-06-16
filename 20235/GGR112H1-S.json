@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 135,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875027,
+135
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -160,6 +165,7 @@
 135,
 135,
 135,
+137,
 137,
 137,
 137,
@@ -340,7 +346,8 @@
 1686620441,
 1686649546,
 1686685136,
-1686740204
+1686740204,
+1686875027
 ],
 "title": "Geographies of Globalization, Development and Inequality"
 }

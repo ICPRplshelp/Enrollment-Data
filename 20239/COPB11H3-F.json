@@ -17,7 +17,8 @@
 0,
 0,
 0,
-0
+0,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,7 +42,8 @@
 0,
 0,
 0,
-0
+0,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,7 +67,8 @@
 0,
 0,
 0,
-0
+0,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,12 +80,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 89,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1686620482,
 90
+],
+[
+1686875065,
+89
 ]
 ],
 "initialCap": 80
@@ -94,7 +101,8 @@
 0,
 0,
 0,
-0
+0,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -106,12 +114,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1686620482,
 90
+],
+[
+1686875065,
+84
 ]
 ],
 "initialCap": 80
@@ -123,7 +135,8 @@
 0,
 0,
 0,
-0
+0,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,6 +160,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -164,7 +178,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Advancing Your Career Exploration Part I"
 }

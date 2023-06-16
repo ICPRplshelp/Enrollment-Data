@@ -17,13 +17,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nicole, Mideo",
+"John, Stinchcombe"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nicole",
+"Mideo"
+],
+[
+"John",
+"Stinchcombe"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -34,7 +52,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "From Genomes to Ecosystems in a Changing World"
 }

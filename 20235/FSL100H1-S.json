@@ -5,9 +5,14 @@
 {
 "createdAt": 1684254881,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686875027,
+35
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -58,13 +63,26 @@
 34,
 34,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shahrzad, Mirzaei"
+],
+"timing": 1686875027
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shahrzad",
+"Mirzaei"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -116,7 +134,8 @@
 1686620441,
 1686649546,
 1686685136,
-1686740204
+1686740204,
+1686875027
 ],
 "title": "Elementary French I"
 }

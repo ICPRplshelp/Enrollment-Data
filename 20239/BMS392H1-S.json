@@ -17,6 +17,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -27,13 +28,19 @@
 "Felan, Parker"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Iris, Gildea"
+],
+"timing": 1686875065
 }
 ]
 },
 "instructors": [
 [
-"Felan",
-"Parker"
+"Iris",
+"Gildea"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -46,7 +53,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Media Identities"
 }

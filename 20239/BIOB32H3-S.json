@@ -17,13 +17,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cosima Sandra, Porteus"
+],
+"timing": 1686875065
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cosima Sandra",
+"Porteus"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -34,7 +47,8 @@
 1686620482,
 1686649586,
 1686685174,
-1686740320
+1686740320,
+1686875065
 ],
 "title": "Animal Physiology Laboratory"
 }
