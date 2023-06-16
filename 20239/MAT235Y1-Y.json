@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Abdalrazzaq, Zalloum"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Abdalrazzaq",
+"Zalloum"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -36,6 +49,7 @@
 "initialCap": 155
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -68,13 +82,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yu, Li"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yu",
+"Li"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -93,13 +120,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wenkui, Du"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Wenkui",
+"Du"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -111,6 +151,7 @@
 "initialCap": 156
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -143,6 +184,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -161,6 +203,7 @@
 "initialCap": 156
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -193,6 +236,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -211,7 +255,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Multivariable Calculus"
 }

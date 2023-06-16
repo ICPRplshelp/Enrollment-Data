@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xiaoyue, Cui"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Xiaoyue",
+"Cui"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -43,13 +56,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gael, Yomgne Diebou"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gael",
+"Yomgne Diebou"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -68,13 +94,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Xiaoyue, Cui"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Xiaoyue",
+"Cui"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -86,6 +125,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -118,6 +158,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -143,13 +184,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ilia, Gaiur"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ilia",
+"Gaiur"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -168,13 +222,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jing, Zhang"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jing",
+"Zhang"
+]
+],
 "meetingNumber": "LEC0601"
 },
 {
@@ -193,13 +260,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Omar Daniel, Alvarez Sanchez"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Omar Daniel",
+"Alvarez Sanchez"
+]
+],
 "meetingNumber": "LEC0701"
 },
 {
@@ -211,6 +291,7 @@
 "initialCap": 200
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -236,7 +317,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Calculus with Proofs"
 }

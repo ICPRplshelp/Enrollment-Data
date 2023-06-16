@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mayecxiliana, Cardenas Montoya"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mayecxiliana",
+"Cardenas Montoya"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -36,7 +49,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Introduction to Proofs"
 }

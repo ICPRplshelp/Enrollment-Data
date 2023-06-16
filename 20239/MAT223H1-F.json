@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sebastian, Olano Espinosa"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sebastian",
+"Olano Espinosa"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -43,13 +56,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mayecxiliana, Cardenas Montoya"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mayecxiliana",
+"Cardenas Montoya"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -68,13 +94,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Isabella, Negrini"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Isabella",
+"Negrini"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -93,13 +132,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Semen, Artamonov"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Semen",
+"Artamonov"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -111,6 +163,7 @@
 "initialCap": 188
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -143,6 +196,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -161,6 +215,7 @@
 "initialCap": 188
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -193,6 +248,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -211,7 +267,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Linear Algebra I"
 }

@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nara, Jung"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nara",
+"Jung"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -43,13 +56,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nara, Jung"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nara",
+"Jung"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -61,6 +87,7 @@
 "initialCap": 156
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -86,7 +113,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Linear Algebra II"
 }

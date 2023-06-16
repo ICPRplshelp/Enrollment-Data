@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Robert, McCann"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Robert",
+"McCann"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -36,7 +49,8 @@
 1686649586,
 1686685174,
 1686740320,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "General Relativity"
 }

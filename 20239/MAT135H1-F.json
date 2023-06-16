@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bernardo, Brando Albino Galvao de S"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bernardo",
+"Brando Albino Galvao de S"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -36,6 +49,7 @@
 "initialCap": 450
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -68,6 +82,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -93,13 +108,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Emile, LeBlanc"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Emile",
+"LeBlanc"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -118,13 +146,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dmitriy, Panchenko"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dmitriy",
+"Panchenko"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -136,6 +177,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -168,6 +210,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -186,6 +229,7 @@
 "initialCap": 188
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -218,13 +262,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dmitriy, Panchenko"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dmitriy",
+"Panchenko"
+]
+],
 "meetingNumber": "LEC0701"
 },
 {
@@ -236,6 +293,7 @@
 "initialCap": 155
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -268,6 +326,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -286,6 +345,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -318,6 +378,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -336,7 +397,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Calculus I"
 }

@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mary-Anne, Sillamaa"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mary-Anne",
+"Sillamaa"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -43,13 +56,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mary-Anne, Sillamaa"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mary-Anne",
+"Sillamaa"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -61,7 +87,8 @@
 1686649586,
 1686685175,
 1686740321,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Topics in Price Theory"
 }

@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Israel Michael, Sigal"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Israel Michael",
+"Sigal"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -36,7 +49,8 @@
 1686649586,
 1686685174,
 1686740320,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Mathematical Foundations of Quantum Mechanics and Quantum Information Theory"
 }

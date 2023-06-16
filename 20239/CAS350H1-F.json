@@ -18,13 +18,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dylan, Clark"
+],
+"timing": 1686936373
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dylan",
+"Clark"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -36,7 +49,8 @@
 1686649586,
 1686685174,
 1686740320,
-1686875065
+1686875065,
+1686936373
 ],
 "title": "Asian Youth Cultures"
 }
