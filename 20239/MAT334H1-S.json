@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Benjamin Christopher, Landon"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Benjamin Christopher",
+"Landon"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -37,6 +50,7 @@
 "initialCap": 196
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -64,7 +78,8 @@
 1686685175,
 1686740321,
 1686875065,
-1686936373
+1686936373,
+1686954931
 ],
 "title": "Complex Variables"
 }

@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bharat, Punjabi"
+],
+"timing": 1686954930
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bharat",
+"Punjabi"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -37,6 +50,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -64,7 +78,8 @@
 1686685174,
 1686740320,
 1686875065,
-1686936373
+1686936373,
+1686954930
 ],
 "title": "Asian Cities"
 }

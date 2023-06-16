@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -37,6 +50,7 @@
 "initialCap": 210
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -71,13 +85,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessie, Yeung"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jessie",
+"Yeung"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -90,7 +117,8 @@
 1686685175,
 1686740321,
 1686875065,
-1686936373
+1686936373,
+1686954931
 ],
 "title": "The Practice of Statistics I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1686954891,
+65
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -166,7 +171,8 @@
 62,
 62,
 64,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -344,7 +350,8 @@
 1686685136,
 1686740204,
 1686875027,
-1686936334
+1686936334,
+1686954891
 ],
 "title": "Introduction to Colonial and postcolonial Writing"
 }

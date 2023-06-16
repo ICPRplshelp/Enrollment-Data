@@ -156,13 +156,26 @@
 35,
 35,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Caitlin, Tozios"
+],
+"timing": 1686954891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Caitlin",
+"Tozios"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -312,7 +325,8 @@
 1686685136,
 1686740204,
 1686875027,
-1686936334
+1686936334,
+1686954891
 ],
 "title": "Human Memory: The World within your Mind"
 }

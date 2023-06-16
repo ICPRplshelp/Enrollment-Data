@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cale, Rankin"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cale",
+"Rankin"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -45,13 +58,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cale, Rankin"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cale",
+"Rankin"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -64,7 +90,8 @@
 1686685175,
 1686740321,
 1686875065,
-1686936373
+1686936373,
+1686954931
 ],
 "title": "Elements of Analysis"
 }

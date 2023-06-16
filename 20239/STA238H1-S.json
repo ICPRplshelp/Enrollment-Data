@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael jongho, Moon"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael jongho",
+"Moon"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -45,13 +58,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -71,13 +97,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael jongho, Moon"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael jongho",
+"Moon"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -89,6 +128,7 @@
 "initialCap": 240
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -116,7 +156,8 @@
 1686685175,
 1686740321,
 1686875065,
-1686936373
+1686936373,
+1686954931
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

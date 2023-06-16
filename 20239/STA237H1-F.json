@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bethany, White"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bethany",
+"White"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -37,6 +50,7 @@
 "initialCap": 240
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -71,13 +85,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -97,13 +124,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Selvakkadunko, Selvaratnam"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Selvakkadunko",
+"Selvaratnam"
+]
+],
 "meetingNumber": "LEC5101"
 },
 {
@@ -123,13 +163,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gong, Zhang"
+],
+"timing": 1686954931
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gong",
+"Zhang"
+]
+],
 "meetingNumber": "LEC5201"
 }
 ],
@@ -142,7 +195,8 @@
 1686685175,
 1686740321,
 1686875065,
-1686936373
+1686936373,
+1686954931
 ],
 "title": "Probability, Statistics and Data Analysis I"
 }

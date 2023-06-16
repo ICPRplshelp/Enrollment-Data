@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aparna, Sundar"
+],
+"timing": 1686954930
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Aparna",
+"Sundar"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -38,7 +51,8 @@
 1686685174,
 1686740320,
 1686875065,
-1686936373
+1686936373,
+1686954930
 ],
 "title": "Comparative Modernities in Asia"
 }
