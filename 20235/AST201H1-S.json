@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 250,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687305215,
+300
+]
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -170,7 +175,8 @@
 283,
 283,
 283,
-282
+282,
+283
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -358,7 +364,8 @@
 1686954891,
 1687033027,
 1687106027,
-1687194370
+1687194370,
+1687305215
 ],
 "title": "Stars and Galaxies"
 }

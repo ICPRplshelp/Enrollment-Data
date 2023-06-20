@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 118,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687305215,
+118
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -170,7 +175,8 @@
 119,
 119,
 119,
-116
+116,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,7 +358,8 @@
 1686954891,
 1687033027,
 1687106027,
-1687194370
+1687194370,
+1687305215
 ],
 "title": "Multidisciplinary Perspectives on Environment"
 }

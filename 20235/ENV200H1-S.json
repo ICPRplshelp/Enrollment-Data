@@ -5,12 +5,16 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 231,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1681237635,
 200
+],
+[
+1687305215,
+231
 ]
 ],
 "initialCap": 225
@@ -175,7 +179,8 @@
 231,
 231,
 231,
-228
+228,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -357,7 +362,8 @@
 1686954891,
 1687033027,
 1687106027,
-1687194370
+1687194370,
+1687305215
 ],
 "title": "Assessing Global Change: Science and the Environment"
 }

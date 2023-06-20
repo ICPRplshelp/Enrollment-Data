@@ -23,6 +23,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -53,6 +54,7 @@
 "initialCap": 18
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -107,6 +109,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -127,6 +130,37 @@
 ]
 ],
 "meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1687305253,
+"delivery": "INPER",
+"enrollmentCap": 18,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 18
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0401"
 }
 ],
 "timeIntervals": [
@@ -142,7 +176,8 @@
 1686954931,
 1687033064,
 1687106066,
-1687194411
+1687194411,
+1687305253
 ],
 "title": "Advanced Studies Seminar"
 }
