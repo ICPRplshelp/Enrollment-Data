@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687373733,
+60
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -36,12 +42,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 46,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687373733,
+60
+]
+],
 "initialCap": 46
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -79,7 +91,8 @@
 1687033064,
 1687106065,
 1687194411,
-1687305253
+1687305253,
+1687373733
 ],
 "title": "Remote Work , Technology and Collaboration"
 }

@@ -171,13 +171,36 @@
 0,
 0,
 0,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kerstin, Sandstrom",
+"Tyson, Seburn",
+"Bruce, Russell"
+],
+"timing": 1687373691
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kerstin",
+"Sandstrom"
+],
+[
+"Tyson",
+"Seburn"
+],
+[
+"Bruce",
+"Russell"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -511,7 +534,8 @@
 1687033027,
 1687106027,
 1687194370,
-1687305215
+1687305215,
+1687373691
 ],
 "title": "Strategies for Cross- discipline Success"
 }

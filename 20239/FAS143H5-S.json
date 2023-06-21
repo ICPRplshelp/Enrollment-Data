@@ -24,13 +24,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"NAZ, RAHBAR"
+],
+"timing": 1687373733
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"NAZ",
+"RAHBAR"
+]
+],
 "meetingNumber": "PRA0101"
 },
 {
@@ -55,13 +68,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"AMANDA, BOULOS"
+],
+"timing": 1687373733
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"AMANDA",
+"BOULOS"
+]
+],
 "meetingNumber": "PRA0102"
 },
 {
@@ -86,13 +112,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"CLAIRE, GREENSHAW"
+],
+"timing": 1687373733
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"CLAIRE",
+"GREENSHAW"
+]
+],
 "meetingNumber": "PRA0103"
 },
 {
@@ -117,13 +156,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+", ",
+"RHONDA, WEPPLER"
+],
+"timing": 1687373733
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"",
+""
+],
+[
+"RHONDA",
+"WEPPLER"
+]
+],
 "meetingNumber": "PRA0104"
 }
 ],
@@ -141,7 +198,8 @@
 1687033064,
 1687106066,
 1687194411,
-1687305253
+1687305253,
+1687373733
 ],
 "title": "Drawing I"
 }
