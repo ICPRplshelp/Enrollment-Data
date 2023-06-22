@@ -25,13 +25,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joseanne, Cudjoe"
+],
+"timing": 1687464881
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joseanne",
+"Cudjoe"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -50,7 +63,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Theories in Media Studies"
 }

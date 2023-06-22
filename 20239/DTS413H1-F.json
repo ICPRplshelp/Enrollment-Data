@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687464881,
+0
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -62,7 +68,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Global Sexualities"
 }

@@ -4,13 +4,19 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "ASYNC",
-"enrollmentCap": 540,
+"delivery": "INPER",
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687464881,
+500
+]
+],
 "initialCap": 540
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -50,7 +56,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Basic Human Nutrition"
 }

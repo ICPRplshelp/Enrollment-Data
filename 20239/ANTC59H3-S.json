@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687464880,
+40
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -62,7 +68,8 @@
 1687106065,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464880
 ],
 "title": "Anthropology of Language and Media"
 }

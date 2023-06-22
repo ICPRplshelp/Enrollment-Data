@@ -25,6 +25,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -35,6 +36,13 @@
 "Robert, Mason"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Robert, Mason",
+"Kay, Sunahara"
+],
+"timing": 1687464881
 }
 ]
 },
@@ -42,6 +50,10 @@
 [
 "Robert",
 "Mason"
+],
+[
+"Kay",
+"Sunahara"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -62,7 +74,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Polarized-light Microscopy in Archaeology I: Foundations"
 }

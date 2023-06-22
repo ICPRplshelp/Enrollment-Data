@@ -25,13 +25,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Patricia, Sanchez"
+],
+"timing": 1687464881
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Patricia",
+"Sanchez"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -48,6 +61,7 @@
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -87,7 +101,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Psychology and the Law"
 }

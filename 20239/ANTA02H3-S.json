@@ -25,6 +25,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -69,13 +70,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maggie Irene, Cummings"
+],
+"timing": 1687464880
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maggie Irene",
+"Cummings"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -94,7 +108,8 @@
 1687106065,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464880
 ],
 "title": "Introduction to Anthropology: Society, Culture and Language"
 }

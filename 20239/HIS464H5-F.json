@@ -21,13 +21,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Julie, MacArthur"
+],
+"timing": 1687464881
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Julie",
+"MacArthur"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -42,7 +55,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Decolonizing Africa"
 }

@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687464881,
+18
+]
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -50,7 +56,8 @@
 1687106066,
 1687194411,
 1687305254,
-1687373733
+1687373733,
+1687464881
 ],
 "title": "Theory and Practice: Art in a Globalizing World"
 }

@@ -1,0 +1,42 @@
+{
+"code": "MDSC21H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1687464881,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alejandro, Paz"
+],
+"timing": 1687464881
+}
+]
+},
+"instructors": [
+[
+"Alejandro",
+"Paz"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1687464880,
+1687464881
+],
+"title": "Anthropology of Language and Media"
+}
