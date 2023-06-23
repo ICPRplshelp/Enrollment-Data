@@ -26,6 +26,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -42,6 +43,13 @@
 "Susan, McCahan"
 ],
 "timing": 1687464880
+},
+{
+"instructorsAfter": [
+"Susan, McCahan",
+"Ted, Nolan"
+],
+"timing": 1687561168
 }
 ]
 },
@@ -49,6 +57,10 @@
 [
 "Susan",
 "McCahan"
+],
+[
+"Ted",
+"Nolan"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -77,6 +89,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -88,14 +101,16 @@
 "Ted, Nolan"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Ted, Nolan"
+],
+"timing": 1687561168
 }
 ]
 },
 "instructors": [
-[
-"Susan",
-"McCahan"
-],
 [
 "Ted",
 "Nolan"
@@ -112,6 +127,7 @@
 "initialCap": 435
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -165,7 +181,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464880
+1687464880,
+1687561168
 ],
 "title": "Engineering Strategies & Practice I"
 }

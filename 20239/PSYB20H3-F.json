@@ -26,14 +26,73 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Cirelli"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura",
+"Cirelli"
+]
+],
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1687561168,
+"delivery": "ASYNC",
+"enrollmentCap": 270,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 270
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Cirelli"
+],
+"timing": 1687561168
+}
+]
+},
+"instructors": [
+[
+"Laura",
+"Cirelli"
+]
+],
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -52,7 +111,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Introduction to Developmental Psychology"
 }

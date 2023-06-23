@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687561168,
+15
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -52,7 +58,8 @@
 1687194411,
 1687305254,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Community Engagement"
 }

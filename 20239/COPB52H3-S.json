@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 180,
+"enrollmentCap": 215,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687561168,
+215
+]
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -26,7 +31,8 @@
 0,
 0,
 0,
-190
+190,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -38,9 +44,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687561168,
+75
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -59,7 +70,8 @@
 0,
 0,
 0,
-75
+75,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +97,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

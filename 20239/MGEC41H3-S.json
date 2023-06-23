@@ -26,13 +26,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aradhya, Sood"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Aradhya",
+"Sood"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
@@ -44,6 +57,7 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -97,7 +111,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Industrial Organization"
 }

@@ -26,6 +26,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -46,6 +47,52 @@
 ]
 ],
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1687561168,
+"delivery": "ASYNC",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shadi, Dalili"
+],
+"timing": 1687561168
+}
+]
+},
+"instructors": [
+[
+"Shadi",
+"Dalili"
+]
+],
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -64,7 +111,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Organic Chemistry I"
 }

@@ -26,13 +26,26 @@
 0,
 0,
 0,
-0
+0,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Cristiana, Amza"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Cristiana",
+"Amza"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -52,7 +65,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Computer Systems Programming"
 }

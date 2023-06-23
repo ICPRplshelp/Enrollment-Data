@@ -1,0 +1,42 @@
+{
+"code": "SOCD12H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1687561168,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ann Louise, Mullen"
+],
+"timing": 1687561168
+}
+]
+},
+"instructors": [
+[
+"Ann Louise",
+"Mullen"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1687561167,
+1687561168
+],
+"title": "Sociology of Art"
+}

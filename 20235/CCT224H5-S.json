@@ -163,13 +163,26 @@
 15,
 15,
 15,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Olga, Tabunshchikova"
+],
+"timing": 1687561121
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Olga",
+"Tabunshchikova"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -326,7 +339,8 @@
 1687194370,
 1687305215,
 1687373691,
-1687464820
+1687464820,
+1687561121
 ],
 "title": "Organizational Studies I (DEM)"
 }

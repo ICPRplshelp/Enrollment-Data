@@ -26,7 +26,8 @@
 0,
 0,
 0,
-0
+0,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -38,6 +39,16 @@
 "Lesley Alice, Warren"
 ],
 "timing": 1687464881
+},
+{
+"instructorsAfter": [
+"Matthew, Roorda",
+"Karl, Peterson",
+"Lesley Alice, Warren",
+"Evan, Bentz",
+"Oh-Sung, Kwon"
+],
+"timing": 1687561168
 }
 ]
 },
@@ -53,6 +64,14 @@
 [
 "Lesley Alice",
 "Warren"
+],
+[
+"Evan",
+"Bentz"
+],
+[
+"Oh-Sung",
+"Kwon"
 ]
 ],
 "meetingNumber": "PRA0101"
@@ -74,7 +93,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Survey CAMP (Civil and Mineral Practicals)"
 }

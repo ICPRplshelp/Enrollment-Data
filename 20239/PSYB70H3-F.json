@@ -26,21 +26,39 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kosha, Bramesfeld"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kosha",
+"Bramesfeld"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 500,
+"enrollmentCap": 550,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687561168,
+550
+]
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -59,13 +77,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kosha, Bramesfeld"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kosha",
+"Bramesfeld"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -85,7 +116,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Methods in Psychological Science"
 }

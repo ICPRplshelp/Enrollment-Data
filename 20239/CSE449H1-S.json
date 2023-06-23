@@ -26,13 +26,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anne, McGuire"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anne",
+"McGuire"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -52,7 +65,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Contemporary Theories in Critical Disability Studies"
 }

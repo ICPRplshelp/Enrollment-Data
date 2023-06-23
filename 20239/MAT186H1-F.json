@@ -26,6 +26,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -44,6 +45,7 @@
 "initialCap": 133
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -110,6 +112,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -128,6 +131,7 @@
 "initialCap": 133
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -176,13 +180,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shai, Cohen"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shai",
+"Cohen"
+]
+],
 "meetingNumber": "LEC0105"
 },
 {
@@ -194,6 +211,7 @@
 "initialCap": 133
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -242,6 +260,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -260,6 +279,7 @@
 "initialCap": 133
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -301,7 +321,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Calculus I"
 }

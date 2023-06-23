@@ -26,13 +26,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Aggrey, Wasike"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Aggrey",
+"Wasike"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -52,7 +65,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464880
+1687464880,
+1687561168
 ],
 "title": "African Youth Languages and Cultures"
 }

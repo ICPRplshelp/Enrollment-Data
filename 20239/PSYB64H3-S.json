@@ -26,21 +26,39 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefano I., Di Domenico"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stefano I.",
+"Di Domenico"
+]
+],
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 260,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687561168,
+260
+]
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -59,13 +77,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefano I., Di Domenico"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stefano I.",
+"Di Domenico"
+]
+],
 "meetingNumber": "LEC02"
 }
 ],
@@ -85,7 +116,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Introduction to Behavioural Neuroscience"
 }

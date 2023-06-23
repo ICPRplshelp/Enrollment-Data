@@ -1,0 +1,42 @@
+{
+"code": "ITA425H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1687561168,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Ingallinella"
+],
+"timing": 1687561168
+}
+]
+},
+"instructors": [
+[
+"Laura",
+"Ingallinella"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1687561167,
+1687561168
+],
+"title": "Special Topics in Italian Studies"
+}

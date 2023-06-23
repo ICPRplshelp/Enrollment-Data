@@ -1,6 +1,6 @@
 {
 "code": "CHE408H1-S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -11,6 +11,7 @@
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -36,7 +37,8 @@
 ],
 "timeIntervals": [
 1686549018,
-1686549019
+1686549019,
+1687561168
 ],
 "title": "Data Analytics for Predition, Control, and Opt. of Chem Proc"
 }

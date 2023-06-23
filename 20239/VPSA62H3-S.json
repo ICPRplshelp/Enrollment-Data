@@ -26,6 +26,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -71,13 +72,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Julian, Pivato"
+],
+"timing": 1687561168
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Julian",
+"Pivato"
+]
+],
 "meetingNumber": "LEC02"
 },
 {
@@ -89,6 +103,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -142,7 +157,8 @@
 1687194411,
 1687305254,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Foundation Studies in Studio"
 }

@@ -26,6 +26,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -36,6 +37,13 @@
 "Saige, Power"
 ],
 "timing": 1687373733
+},
+{
+"instructorsAfter": [
+"Saige, Power",
+"Alexandra, Malinowski"
+],
+"timing": 1687561168
 }
 ]
 },
@@ -43,6 +51,10 @@
 [
 "Saige",
 "Power"
+],
+[
+"Alexandra",
+"Malinowski"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -64,7 +76,8 @@
 1687194411,
 1687305253,
 1687373733,
-1687464881
+1687464881,
+1687561168
 ],
 "title": "Topics in Translational Medicine"
 }
