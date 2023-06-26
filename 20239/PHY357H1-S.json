@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ziqing, Hong"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ziqing",
+"Hong"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -65,13 +78,26 @@
 0,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ziqing, Hong"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ziqing",
+"Hong"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -94,7 +120,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Nuclear and Particle Physics"
 }

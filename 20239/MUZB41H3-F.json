@@ -17,13 +17,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mark, Campbell"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mark",
+"Campbell"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -34,7 +47,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "DJ Cultures: Analogue Innovations and Digital Aesthetics"
 }

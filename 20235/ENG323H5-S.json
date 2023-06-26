@@ -61,13 +61,26 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chris, Koenig-Woodyard"
+],
+"timing": 1687804704
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chris",
+"Koenig-Woodyard"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -122,7 +135,8 @@
 1687464820,
 1687561121,
 1687635184,
-1687720363
+1687720363,
+1687804704
 ],
 "title": "Austen and Her Contemporaries"
 }

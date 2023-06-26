@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Paul, Kushner"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Paul",
+"Kushner"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -65,13 +78,26 @@
 0,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Paul, Kushner"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Paul",
+"Kushner"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -94,7 +120,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Advanced Atmospheric Physics"
 }

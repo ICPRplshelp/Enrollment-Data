@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Robyn, Maynard"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Robyn",
+"Maynard"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -58,7 +71,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Abolition Feminisms"
 }

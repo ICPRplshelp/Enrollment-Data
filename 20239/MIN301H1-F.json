@@ -29,13 +29,26 @@
 0,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alan, Lambden"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alan",
+"Lambden"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -58,7 +71,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Mineral Reserve and Mineral Resource Estimation"
 }

@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Sipe"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"John",
+"Sipe"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -65,13 +78,26 @@
 0,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Sipe"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"John",
+"Sipe"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -94,7 +120,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Quantum Mechanics I"
 }

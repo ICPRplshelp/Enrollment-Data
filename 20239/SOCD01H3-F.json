@@ -1,0 +1,42 @@
+{
+"code": "SOCD01H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1687804745,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ivanka, Knezevic"
+],
+"timing": 1687804745
+}
+]
+},
+"instructors": [
+[
+"Ivanka",
+"Knezevic"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1687804744,
+1687804745
+],
+"title": "Advanced Seminar in Culture and Cities"
+}

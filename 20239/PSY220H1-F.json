@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Odilia, Yim"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Odilia",
+"Yim"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -47,6 +60,7 @@
 "initialCap": 188
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -106,7 +120,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Introduction to Social Psychology"
 }

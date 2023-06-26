@@ -29,6 +29,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -40,17 +41,19 @@
 "AARTHI, ASHOK (NOUTORID)"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Aarthi, Ashok"
+],
+"timing": 1687804745
 }
 ]
 },
 "instructors": [
 [
-"",
-"FACULTY"
-],
-[
-"AARTHI",
-"ASHOK (NOUTORID)"
+"Aarthi",
+"Ashok"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -75,7 +78,8 @@
 1687464880,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Directed Research in Biology"
 }

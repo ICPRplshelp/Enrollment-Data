@@ -29,13 +29,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher, Lee",
+"Sergio, de la Barrera"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christopher",
+"Lee"
+],
+[
+"Sergio",
+"de la Barrera"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -65,13 +83,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher, Lee",
+"Sergio, de la Barrera"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christopher",
+"Lee"
+],
+[
+"Sergio",
+"de la Barrera"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -101,13 +137,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher, Lee",
+"Sergio, de la Barrera"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christopher",
+"Lee"
+],
+[
+"Sergio",
+"de la Barrera"
+]
+],
 "meetingNumber": "LEC0301"
 }
 ],
@@ -130,7 +184,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Practical Physics I"
 }

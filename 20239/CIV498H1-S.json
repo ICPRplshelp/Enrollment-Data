@@ -29,13 +29,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Morlidge",
+"Kevin, Zhang"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Morlidge"
+],
+[
+"Kevin",
+"Zhang"
+]
+],
 "meetingNumber": "TUT0101"
 },
 {
@@ -47,6 +65,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -113,6 +132,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -123,13 +143,19 @@
 "Paul M., Cadario"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Ronald, Hofmann"
+],
+"timing": 1687804745
 }
 ]
 },
 "instructors": [
 [
-"Paul M.",
-"Cadario"
+"Ronald",
+"Hofmann"
 ]
 ],
 "meetingNumber": "TUT0103"
@@ -143,6 +169,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -209,6 +236,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -239,6 +267,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -298,7 +327,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Group Design Project"
 }

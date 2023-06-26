@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrei, Badescu"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andrei",
+"Badescu"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -58,7 +71,8 @@
 1687464880,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Credibility and Simulation"
 }

@@ -34,13 +34,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Danijela, Puric-Mladenovic"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Danijela",
+"Puric-Mladenovic"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -63,7 +76,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Green Urban Infrastructure: Sustainable City Forests"
 }

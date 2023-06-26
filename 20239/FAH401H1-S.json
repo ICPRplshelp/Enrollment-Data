@@ -1,0 +1,42 @@
+{
+"code": "FAH401H1-S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1687804745,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Carl, Knappett"
+],
+"timing": 1687804745
+}
+]
+},
+"instructors": [
+[
+"Carl",
+"Knappett"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1687804744,
+1687804745
+],
+"title": "Aegean Wall Paintings"
+}

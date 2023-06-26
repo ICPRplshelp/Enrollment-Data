@@ -29,6 +29,7 @@
 0,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -39,13 +40,19 @@
 "Kaiwen, Xia"
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+"Chonglang, Wang"
+],
+"timing": 1687804745
 }
 ]
 },
 "instructors": [
 [
-"Kaiwen",
-"Xia"
+"Chonglang",
+"Wang"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -70,7 +77,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Explosives and Fragmentation in Mining"
 }

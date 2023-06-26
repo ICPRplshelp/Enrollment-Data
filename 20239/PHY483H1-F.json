@@ -29,13 +29,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A.W., Peet"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"A.W.",
+"Peet"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -65,13 +78,26 @@
 0,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"A.W., Peet"
+],
+"timing": 1687804745
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"A.W.",
+"Peet"
+]
+],
 "meetingNumber": "LEC2001"
 }
 ],
@@ -94,7 +120,8 @@
 1687464881,
 1687561168,
 1687635229,
-1687720409
+1687720409,
+1687804745
 ],
 "title": "Relativity Theory I"
 }
