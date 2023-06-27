@@ -5,9 +5,14 @@
 {
 "createdAt": 1677725921,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893194,
+41
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -167,6 +172,7 @@
 40,
 40,
 40,
+41,
 41
 ],
 "instructorLog": {
@@ -346,7 +352,8 @@
 1687561121,
 1687635184,
 1687720363,
-1687804704
+1687804704,
+1687893194
 ],
 "title": "Hacker Culture"
 }

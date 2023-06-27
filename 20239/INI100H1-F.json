@@ -30,13 +30,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Nayman"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adam",
+"Nayman"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -60,7 +73,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "The City Where Movies Are Made"
 }

@@ -30,13 +30,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gustavo, Bobonis"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gustavo",
+"Bobonis"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -67,13 +80,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gustavo, Bobonis"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gustavo",
+"Bobonis"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -97,7 +123,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 4,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+5
+]
+],
 "initialCap": 4
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -72,7 +78,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "The Thought of Leo Strauss"
 }

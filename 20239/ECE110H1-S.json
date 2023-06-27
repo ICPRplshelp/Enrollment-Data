@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -30,7 +35,8 @@
 0,
 0,
 0,
-0
+0,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -54,9 +60,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -79,7 +90,8 @@
 0,
 0,
 0,
-0
+0,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -103,9 +115,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -128,7 +145,8 @@
 0,
 0,
 0,
-0
+0,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -152,9 +170,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -177,7 +200,8 @@
 0,
 0,
 0,
-0
+0,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -201,9 +225,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -226,7 +255,8 @@
 0,
 0,
 0,
-0
+0,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -250,9 +280,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -275,7 +310,8 @@
 0,
 0,
 0,
-0
+0,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -317,7 +353,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Electrical Fundamentals"
 }

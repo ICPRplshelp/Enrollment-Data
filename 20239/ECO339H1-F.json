@@ -30,13 +30,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Baker"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Baker"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -60,7 +73,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Labour Economics: Employment, Wages and Public Policy"
 }

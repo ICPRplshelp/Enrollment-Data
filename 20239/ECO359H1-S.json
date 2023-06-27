@@ -30,13 +30,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ataollah, Mazaheri"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ataollah",
+"Mazaheri"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -48,6 +61,7 @@
 "initialCap": 125
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -97,7 +111,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Financial Economics II: Corporate Finance"
 }

@@ -167,13 +167,26 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Luke, Russell"
+],
+"timing": 1687893194
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Luke",
+"Russell"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -185,6 +198,7 @@
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -508,7 +522,8 @@
 1687561121,
 1687635184,
 1687720363,
-1687804704
+1687804704,
+1687893194
 ],
 "title": "Design Thinking I"
 }

@@ -30,6 +30,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -40,6 +41,13 @@
 "Asher, Cutter"
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+"Asher, Cutter",
+"Adriana, Bravo Ordonez"
+],
+"timing": 1687893242
 }
 ]
 },
@@ -47,6 +55,10 @@
 [
 "Asher",
 "Cutter"
+],
+[
+"Adriana",
+"Bravo Ordonez"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -72,7 +84,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Seminar in Ecology and Evolutionary Biology"
 }

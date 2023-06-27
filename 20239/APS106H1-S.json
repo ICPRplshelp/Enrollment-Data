@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 350,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 350
 },
 "enrollmentLogs": [
@@ -30,7 +35,8 @@
 0,
 0,
 0,
-0
+0,
+353
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -64,9 +70,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -89,7 +100,8 @@
 0,
 0,
 0,
-0
+0,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,9 +125,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -138,7 +155,8 @@
 0,
 0,
 0,
-0
+0,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -185,7 +203,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Fundamentals of Computer Programming"
 }

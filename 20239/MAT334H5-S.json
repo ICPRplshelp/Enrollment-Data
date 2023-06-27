@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+75
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -42,12 +48,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+75
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -97,7 +109,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Complex Variables"
 }

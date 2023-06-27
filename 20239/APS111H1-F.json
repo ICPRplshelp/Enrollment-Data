@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 450,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 450
 },
 "enrollmentLogs": [
@@ -30,7 +35,8 @@
 0,
 0,
 0,
-0
+0,
+434
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,9 +77,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 410,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 410
 },
 "enrollmentLogs": [
@@ -96,7 +107,8 @@
 0,
 0,
 0,
-0
+0,
+432
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,9 +139,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 435,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 435
 },
 "enrollmentLogs": [
@@ -152,7 +169,8 @@
 0,
 0,
 0,
-0
+0,
+418
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -194,7 +212,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Engineering Strategies & Practice I"
 }

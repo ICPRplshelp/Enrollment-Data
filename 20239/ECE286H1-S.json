@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -30,7 +35,8 @@
 0,
 0,
 0,
-0
+0,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -54,9 +60,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -79,7 +90,8 @@
 0,
 0,
 0,
-0
+0,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +133,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Probability & Statistics"
 }

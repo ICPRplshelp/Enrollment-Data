@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -30,7 +35,8 @@
 0,
 0,
 0,
-0
+0,
+185
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -54,9 +60,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -79,7 +90,8 @@
 0,
 0,
 0,
-0
+0,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -103,9 +115,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 126,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 126
 },
 "enrollmentLogs": [
@@ -128,7 +145,8 @@
 0,
 0,
 0,
-0
+0,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -152,9 +170,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -177,7 +200,8 @@
 0,
 0,
 0,
-0
+0,
+181
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,9 +213,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -214,7 +243,8 @@
 0,
 0,
 0,
-0
+0,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,9 +256,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -251,7 +286,8 @@
 0,
 0,
 0,
-0
+0,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,9 +299,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -288,7 +329,8 @@
 0,
 0,
 0,
-0
+0,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -300,9 +342,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 9999,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687893242,
+9999
+]
+],
 "initialCap": 133
 },
 "enrollmentLogs": [
@@ -325,7 +372,8 @@
 0,
 0,
 0,
-0
+0,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -355,7 +403,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Linear Algebra"
 }

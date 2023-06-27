@@ -30,7 +30,8 @@
 59,
 59,
 59,
-59
+59,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -79,7 +80,8 @@
 59,
 59,
 59,
-59
+59,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -128,13 +130,26 @@
 58,
 58,
 58,
-57
+57,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John Peter, Trougakos"
+],
+"timing": 1687893242
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"John Peter",
+"Trougakos"
+]
+],
 "meetingNumber": "LEC03"
 },
 {
@@ -146,6 +161,7 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -214,7 +230,8 @@
 60,
 60,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,7 +261,8 @@
 1687561168,
 1687635229,
 1687720409,
-1687804745
+1687804745,
+1687893242
 ],
 "title": "Human Resource Management"
 }
