@@ -19,13 +19,26 @@
 0,
 0,
 0,
-0
+0,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maria, Hupfield"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maria",
+"Hupfield"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -38,7 +51,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Topics in Modern Art and Architecture"
 }

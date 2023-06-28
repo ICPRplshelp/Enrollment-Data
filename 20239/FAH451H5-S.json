@@ -36,13 +36,26 @@
 0,
 0,
 0,
-0
+0,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christine, Shaw"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christine",
+"Shaw"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -67,7 +80,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Curating Now: Turning Concepts into Curatorial Projects"
 }

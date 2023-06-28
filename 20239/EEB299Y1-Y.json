@@ -31,13 +31,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Asher, Cutter"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Asher",
+"Cutter"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -49,6 +62,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -107,6 +121,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -125,6 +140,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -183,6 +199,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -201,6 +218,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -259,6 +277,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -290,7 +309,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Research Opportunity Program"
 }

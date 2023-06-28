@@ -31,13 +31,26 @@
 0,
 0,
 0,
-0
+0,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ruba, Kana'an"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ruba",
+"Kana'an"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -62,7 +75,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Gardens, Homes, and Palaces in the Muslim World"
 }

@@ -1,0 +1,42 @@
+{
+"code": "NMC299Y1-Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1687979256,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrien, Zakar"
+],
+"timing": 1687979256
+}
+]
+},
+"instructors": [
+[
+"Adrien",
+"Zakar"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1687979255,
+1687979256
+],
+"title": "Research Opportunity Program"
+}

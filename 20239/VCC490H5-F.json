@@ -31,13 +31,26 @@
 0,
 0,
 0,
-0
+0,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"John, Ricco"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"John",
+"Ricco"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -62,7 +75,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Topics in Visual Culture and Communication"
 }

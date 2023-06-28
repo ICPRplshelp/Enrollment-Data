@@ -31,13 +31,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Roshaya, Rodness"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Roshaya",
+"Rodness"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -62,7 +75,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Science Fiction Film"
 }

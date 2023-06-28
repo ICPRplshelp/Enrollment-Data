@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687979256,
+0
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -62,7 +68,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Catholic Asia in the Early Modern Era, 1500-1800"
 }

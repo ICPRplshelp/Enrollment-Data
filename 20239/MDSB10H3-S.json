@@ -1,16 +1,22 @@
 {
 "code": "MDSB10H3-S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687979256,
+100
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -50,7 +56,8 @@
 1687106066,
 1687194411,
 1687305253,
-1687373733
+1687373733,
+1687979256
 ],
 "title": "Technology, Culture and Society"
 }

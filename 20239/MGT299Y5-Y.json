@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1687979256,
+5
+]
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -62,7 +68,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Research Opportunity Program"
 }

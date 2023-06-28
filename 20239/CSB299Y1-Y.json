@@ -31,14 +31,78 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ritu, Sarpal"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ritu",
+"Sarpal"
+]
+],
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1687979256,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shelley, Lumba"
+],
+"timing": 1687979256
+}
+]
+},
+"instructors": [
+[
+"Shelley",
+"Lumba"
+]
+],
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -62,7 +126,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Research Opportunity Program"
 }

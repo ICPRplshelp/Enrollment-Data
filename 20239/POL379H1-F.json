@@ -31,6 +31,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -39,6 +40,45 @@
 },
 "instructors": [],
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1687979256,
+"delivery": "INPER",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 70
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -62,7 +102,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Topics in Comparative Politics III"
 }

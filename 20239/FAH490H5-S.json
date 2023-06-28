@@ -36,13 +36,26 @@
 0,
 0,
 0,
-0
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liat, Naeh"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liat",
+"Naeh"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -67,7 +80,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Topics in Ancient Art and Architecture"
 }

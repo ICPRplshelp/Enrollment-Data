@@ -31,13 +31,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rumi, Handen"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rumi",
+"Handen"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -69,13 +82,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lorena, Sodano Ribeiro Flores"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lorena",
+"Sodano Ribeiro Flores"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -107,13 +133,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rachel Ann, Grasso",
+"Gabriella, Mancini"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rachel Ann",
+"Grasso"
+],
+[
+"Gabriella",
+"Mancini"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -125,6 +169,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -195,6 +240,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -225,6 +271,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -283,6 +330,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -321,13 +369,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gaia, Malnati"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gaia",
+"Malnati"
+]
+],
 "meetingNumber": "LEC5301"
 },
 {
@@ -339,6 +400,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -390,7 +452,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Italian Language for Beginners"
 }

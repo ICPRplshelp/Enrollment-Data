@@ -1,0 +1,42 @@
+{
+"code": "ANTC20H3-S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1687979256,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Antonio, Sorge"
+],
+"timing": 1687979256
+}
+]
+},
+"instructors": [
+[
+"Antonio",
+"Sorge"
+]
+],
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1687979255,
+1687979256
+],
+"title": "Gifts, Money and Morality"
+}

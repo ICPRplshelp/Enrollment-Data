@@ -31,13 +31,26 @@
 0,
 0,
 0,
-10
+10,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Julian, Lowman"
+],
+"timing": 1687979256
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Julian",
+"Lowman"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -62,7 +75,8 @@
 1687635229,
 1687720409,
 1687804745,
-1687893242
+1687893242,
+1687979256
 ],
 "title": "Introduction to Fluid Mechanics"
 }

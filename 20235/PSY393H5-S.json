@@ -168,13 +168,26 @@
 33,
 33,
 33,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jiali, Song"
+],
+"timing": 1687979214
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jiali",
+"Song"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -336,7 +349,8 @@
 1687635184,
 1687720363,
 1687804704,
-1687893194
+1687893194,
+1687979214
 ],
 "title": "Human Neuropsychology"
 }
