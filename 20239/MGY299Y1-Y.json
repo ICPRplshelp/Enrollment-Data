@@ -32,13 +32,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Derek, Van Der Kooy"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Derek",
+"Van Der Kooy"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,13 +84,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Thomas Ryan, Hurd"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Thomas Ryan",
+"Hurd"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -89,6 +115,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -149,6 +176,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -167,6 +195,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -227,6 +256,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -259,7 +289,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Research Opportunity Program"
 }

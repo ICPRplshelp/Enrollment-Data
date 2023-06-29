@@ -12,13 +12,26 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jennifer, Jenkins"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jennifer",
+"Jenkins"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -31,19 +44,33 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Todd, Cunningham"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Todd",
+"Cunningham"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
 1687979255,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Research Opportunity Program"
 }

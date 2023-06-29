@@ -3,6 +3,58 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1688059451,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Myrto, Grigoroglou"
+],
+"timing": 1688059451
+}
+]
+},
+"instructors": [
+[
+"Myrto",
+"Grigoroglou"
+]
+],
+"meetingNumber": "LEC0101"
+},
+{
 "createdAt": 1686549020,
 "delivery": "INPER",
 "enrollmentCap": 9999,
@@ -11,6 +63,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -71,6 +124,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -103,7 +157,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Research Opportunity Program"
 }

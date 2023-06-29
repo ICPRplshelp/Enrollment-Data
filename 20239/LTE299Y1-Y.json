@@ -12,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -42,6 +43,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -74,6 +76,7 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -104,6 +107,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -136,13 +140,26 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jennifer, Jenkins"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jennifer",
+"Jenkins"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -155,13 +172,26 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kaja, Jasinska"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kaja",
+"Jasinska"
+]
+],
 "meetingNumber": "LEC0601"
 },
 {
@@ -174,13 +204,26 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kang, Lee"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kang",
+"Lee"
+]
+],
 "meetingNumber": "LEC0701"
 },
 {
@@ -193,19 +236,33 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Todd, Cunningham"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Todd",
+"Cunningham"
+]
+],
 "meetingNumber": "LEC0801"
 }
 ],
 "timeIntervals": [
 1687979255,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Research Opportunity Program"
 }

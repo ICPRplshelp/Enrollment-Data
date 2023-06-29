@@ -32,13 +32,26 @@
 0,
 0,
 7,
-7
+7,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Siera, Vercillo"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Siera",
+"Vercillo"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -64,7 +77,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Feeding the City: Food Systems in Historical Perspective"
 }

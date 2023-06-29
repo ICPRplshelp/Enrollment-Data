@@ -32,13 +32,36 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nicole Frances, Spiegelaar",
+"Michael, Classens",
+"Michael, Kessler"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nicole Frances",
+"Spiegelaar"
+],
+[
+"Michael",
+"Classens"
+],
+[
+"Michael",
+"Kessler"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -64,7 +87,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Research Opportunity Program"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688059451,
+10
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -32,6 +37,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -44,9 +50,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 72,
+"enrollmentCap": 78,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688059451,
+78
+]
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -66,6 +77,7 @@
 0,
 0,
 78,
+72,
 72,
 72,
 72,
@@ -103,7 +115,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Integrating Your Work Term Experience II"
 }

@@ -12,19 +12,33 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lynette, Ong"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lynette",
+"Ong"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1687979255,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Research Opportunity Program"
 }

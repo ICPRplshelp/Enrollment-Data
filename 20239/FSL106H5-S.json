@@ -32,13 +32,26 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Catherine, Phillips"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Catherine",
+"Phillips"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,13 +84,26 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sima, Farsandaj"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sima",
+"Farsandaj"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -103,7 +129,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Functional French-Advanced Beginner"
 }

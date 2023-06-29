@@ -32,13 +32,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Sommerville"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jessica",
+"Sommerville"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,13 +84,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Katherine, Duncan"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Katherine",
+"Duncan"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -110,13 +136,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nicholas, Rule"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nicholas",
+"Rule"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -128,6 +167,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -188,6 +228,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -206,6 +247,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -266,6 +308,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -284,6 +327,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -344,6 +388,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -362,6 +407,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -422,6 +468,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -440,6 +487,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -500,6 +548,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -518,6 +567,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -578,6 +628,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -596,6 +647,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -656,6 +708,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -674,6 +727,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -727,7 +781,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Research Opportunity Program"
 }

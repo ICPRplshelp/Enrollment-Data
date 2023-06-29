@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1688059451,
+135
 ]
 ],
 "initialCap": 135
@@ -36,6 +40,7 @@
 0,
 0,
 0,
+132,
 132,
 132
 ],
@@ -81,7 +86,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Applied Chemistry I - Inorganic Chemistry"
 }

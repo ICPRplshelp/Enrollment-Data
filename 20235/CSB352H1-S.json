@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "SYNC",
-"enrollmentCap": 88,
+"enrollmentCap": 98,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688059412,
+98
+]
+],
 "initialCap": 88
 },
 "enrollmentLogs": [
@@ -179,6 +184,7 @@
 97,
 97,
 98,
+99,
 99
 ],
 "instructorLog": {
@@ -370,7 +376,8 @@
 1687720363,
 1687804704,
 1687893194,
-1687979214
+1687979214,
+1688059412
 ],
 "title": "Bioinformatic Methods"
 }

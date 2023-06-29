@@ -32,13 +32,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Linda Rui, Feng"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Linda Rui",
+"Feng"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -64,7 +77,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Premodern East Asia"
 }

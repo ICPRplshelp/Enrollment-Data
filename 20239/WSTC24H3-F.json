@@ -32,13 +32,26 @@
 0,
 0,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Siera, Vercillo"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Siera",
+"Vercillo"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -64,7 +77,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Gender in the Kitchen"
 }

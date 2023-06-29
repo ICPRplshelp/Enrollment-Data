@@ -32,13 +32,26 @@
 0,
 0,
 12,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Krista, Hunt"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Krista",
+"Hunt"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -64,7 +77,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Women, Violence and Resistance"
 }

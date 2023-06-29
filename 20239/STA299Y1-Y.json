@@ -32,13 +32,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joseph, Williams"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joseph",
+"Williams"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,13 +84,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Pascal, Tyrrell"
+],
+"timing": 1688059452
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Pascal",
+"Tyrrell"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -89,6 +115,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -149,6 +176,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -181,7 +209,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059452
 ],
 "title": "Research Opportunity Program"
 }

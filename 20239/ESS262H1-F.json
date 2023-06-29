@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 104,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688059451,
+97
+]
+],
 "initialCap": 104
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -56,9 +62,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688059451,
+23
+]
+],
 "initialCap": 16
 },
 "enrollmentLogs": [
@@ -82,6 +93,7 @@
 0,
 0,
 0,
+16,
 16,
 16
 ],
@@ -127,7 +139,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Earth System Processes"
 }

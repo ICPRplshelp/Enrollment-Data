@@ -32,13 +32,26 @@
 0,
 0,
 0,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hansa, Deep"
+],
+"timing": 1688059451
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hansa",
+"Deep"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -64,7 +77,8 @@
 1687720409,
 1687804745,
 1687893242,
-1687979256
+1687979256,
+1688059451
 ],
 "title": "Introductory Hindi I"
 }
