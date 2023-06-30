@@ -33,13 +33,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Catherine, Evans"
+],
+"timing": 1688149610
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Catherine",
+"Evans"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -66,7 +79,8 @@
 1687804745,
 1687893242,
 1687979256,
-1688059451
+1688059451,
+1688149610
 ],
 "title": "Introduction to Sociolegal Studies"
 }

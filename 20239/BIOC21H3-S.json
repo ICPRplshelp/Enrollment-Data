@@ -33,13 +33,26 @@
 0,
 33,
 35,
-35
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jason, Brown"
+],
+"timing": 1688149610
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jason",
+"Brown"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -66,7 +79,8 @@
 1687804745,
 1687893242,
 1687979256,
-1688059451
+1688059451,
+1688149610
 ],
 "title": "Vertebrate Histology: Cells and Tissues"
 }

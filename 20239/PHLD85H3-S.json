@@ -33,13 +33,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hamish, Russell"
+],
+"timing": 1688149610
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hamish",
+"Russell"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -66,7 +79,8 @@
 1687804745,
 1687893242,
 1687979256,
-1688059451
+1688059451,
+1688149610
 ],
 "title": "Advanced Seminar in Philosophy: Socrates Project Mentorship"
 }
