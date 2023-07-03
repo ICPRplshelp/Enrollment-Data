@@ -36,13 +36,26 @@
 8,
 9,
 10,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Leela, McKinnon"
+],
+"timing": 1688412976
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Leela",
+"McKinnon"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -72,7 +85,8 @@
 1688059451,
 1688149610,
 1688234940,
-1688318474
+1688318474,
+1688412976
 ],
 "title": "Wild Nights: Sleep, evolution, and performance in the 21st century"
 }
