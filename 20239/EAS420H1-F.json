@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688493602,
+25
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -86,7 +92,8 @@
 1688149610,
 1688234940,
 1688318474,
-1688412976
+1688412976,
+1688493602
 ],
 "title": "Travels, Travelers, and Travel Accounts in Asia"
 }

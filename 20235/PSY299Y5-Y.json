@@ -174,13 +174,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688493562
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -355,13 +368,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688493562
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -536,13 +562,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688493562
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -717,13 +756,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688493562
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0104"
 },
 {
@@ -735,6 +787,7 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1079,6 +1132,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1097,6 +1151,7 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1441,6 +1496,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1622,13 +1678,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Robert, Gerlai"
+],
+"timing": 1688493562
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Robert",
+"Gerlai"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -1685,6 +1754,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -1984,6 +2054,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -2069,6 +2140,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -2346,6 +2418,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2520,7 +2593,8 @@
 1688149571,
 1688234887,
 1688318434,
-1688412926
+1688412926,
+1688493562
 ],
 "title": "Research Opportunity Program"
 }

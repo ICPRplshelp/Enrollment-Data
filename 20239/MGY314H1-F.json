@@ -37,13 +37,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brigitte, Lavoie",
+"Jessica, Hill"
+],
+"timing": 1688493602
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brigitte",
+"Lavoie"
+],
+[
+"Jessica",
+"Hill"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -74,7 +92,8 @@
 1688149610,
 1688234940,
 1688318474,
-1688412976
+1688412976,
+1688493602
 ],
 "title": "Principles of Genetic Analysis I"
 }

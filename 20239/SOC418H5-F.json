@@ -25,13 +25,26 @@
 18,
 18,
 18,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sofia, Locklear"
+],
+"timing": 1688493602
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sofia",
+"Locklear"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -50,7 +63,8 @@
 1688149610,
 1688234941,
 1688318474,
-1688412976
+1688412976,
+1688493602
 ],
 "title": "Senior Seminar in the Sociology of Health"
 }

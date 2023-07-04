@@ -1,0 +1,42 @@
+{
+"code": "HIS398H5-S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1688493602,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Malavika, Kasturi"
+],
+"timing": 1688493602
+}
+]
+},
+"instructors": [
+[
+"Malavika",
+"Kasturi"
+]
+],
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1688493601,
+1688493602
+],
+"title": "South Asia in Motion: Circulation, Mobility, Histories"
+}
