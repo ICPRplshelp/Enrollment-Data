@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+31
+]
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -31,6 +36,7 @@
 0,
 0,
 0,
+8,
 8,
 8,
 8,
@@ -88,7 +94,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Special Topics in Performance"
 }

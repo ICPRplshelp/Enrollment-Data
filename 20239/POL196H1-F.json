@@ -38,13 +38,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Victor, Falkenheim"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Victor",
+"Falkenheim"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "First-Year Foundation Seminar: The China Challenge"
 }

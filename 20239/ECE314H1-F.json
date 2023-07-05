@@ -38,13 +38,26 @@
 31,
 31,
 31,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sam, Murray"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sam",
+"Murray"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Fundamentals of Electrical Energy Systems"
 }

@@ -185,7 +185,8 @@
 38,
 38,
 34,
-31
+31,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -394,7 +395,8 @@
 82,
 82,
 82,
-82
+82,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -404,6 +406,13 @@
 "Vanessa, Andres"
 ],
 "timing": 1686875027
+},
+{
+"instructorsAfter": [
+"Vanessa, Andres",
+"Katheryne, Morrissette"
+],
+"timing": 1688577890
 }
 ]
 },
@@ -411,6 +420,10 @@
 [
 "Vanessa",
 "Andres"
+],
+[
+"Katheryne",
+"Morrissette"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -591,7 +604,8 @@
 1688234887,
 1688318434,
 1688412926,
-1688493562
+1688493562,
+1688577890
 ],
 "title": "Effective Writing"
 }

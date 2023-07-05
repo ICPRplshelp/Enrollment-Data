@@ -175,6 +175,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -205,6 +206,7 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -563,6 +565,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -593,6 +596,7 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -951,6 +955,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -969,6 +974,7 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1315,6 +1321,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1333,6 +1340,7 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1679,6 +1687,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1873,13 +1882,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Benjamin Arthur, Wolfe"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Benjamin Arthur",
+"Wolfe"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -2055,13 +2077,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Benjamin Arthur, Wolfe"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Benjamin Arthur",
+"Wolfe"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -2237,13 +2272,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Johnson"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Johnson"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -2419,13 +2467,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Johnson"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Johnson"
+]
+],
 "meetingNumber": "LEC0502"
 }
 ],
@@ -2594,7 +2655,8 @@
 1688234887,
 1688318434,
 1688412926,
-1688493562
+1688493562,
+1688577890
 ],
 "title": "Research Opportunity Program"
 }

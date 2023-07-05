@@ -357,7 +357,8 @@
 28,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -367,6 +368,13 @@
 "Vanessa, Andres"
 ],
 "timing": 1686598336
+},
+{
+"instructorsAfter": [
+"Vanessa, Andres",
+"Colleen, Mcdonell"
+],
+"timing": 1688577890
 }
 ]
 },
@@ -374,6 +382,10 @@
 [
 "Vanessa",
 "Andres"
+],
+[
+"Colleen",
+"Mcdonell"
 ]
 ],
 "meetingNumber": "LEC5101"
@@ -554,7 +566,8 @@
 1688234887,
 1688318434,
 1688412926,
-1688493562
+1688493562,
+1688577890
 ],
 "title": "Advanced Studies Seminar"
 }

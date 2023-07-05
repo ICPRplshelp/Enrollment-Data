@@ -38,13 +38,26 @@
 33,
 33,
 33,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammed, Saif"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammed",
+"Saif"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Communication Systems"
 }

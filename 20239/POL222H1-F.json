@@ -38,13 +38,26 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kenichi, Ariga"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kenichi",
+"Ariga"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -83,13 +96,26 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kenichi, Ariga"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kenichi",
+"Ariga"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -128,13 +154,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kenichi, Ariga"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kenichi",
+"Ariga"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -166,7 +205,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Introduction to Quantitative Reasoning I (formerly POL 322H1)"
 }

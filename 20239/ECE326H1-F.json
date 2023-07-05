@@ -38,13 +38,26 @@
 43,
 43,
 43,
-43
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kia, Shakiba"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kia",
+"Shakiba"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Programming Languages"
 }

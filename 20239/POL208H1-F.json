@@ -38,13 +38,26 @@
 0,
 0,
 0,
-0
+0,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Seva, Gunitskiy"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Seva",
+"Gunitskiy"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Introduction to International Relations"
 }

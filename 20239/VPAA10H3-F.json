@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 215,
+"enrollmentCap": 204,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+204
+]
+],
 "initialCap": 215
 },
 "enrollmentLogs": [
@@ -38,7 +43,8 @@
 0,
 0,
 0,
-0
+0,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -68,6 +74,7 @@
 "initialCap": 65
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -133,7 +140,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Introduction to Arts and Media Management"
 }

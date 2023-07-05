@@ -38,13 +38,26 @@
 0,
 0,
 0,
-0
+0,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nancy, Bertoldi"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nancy",
+"Bertoldi"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Might and Right:  Power and Justice in International Relations"
 }

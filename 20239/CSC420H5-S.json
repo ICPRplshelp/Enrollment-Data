@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+80
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -38,6 +43,7 @@
 82,
 82,
 84,
+83,
 83
 ],
 "instructorLog": {
@@ -56,6 +62,7 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -121,7 +128,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Introduction to Image Understanding"
 }

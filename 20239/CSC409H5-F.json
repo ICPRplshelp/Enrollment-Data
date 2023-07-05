@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+80
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -38,7 +43,8 @@
 91,
 91,
 93,
-95
+95,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,7 +82,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Scalable Computing"
 }

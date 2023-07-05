@@ -38,6 +38,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -68,6 +69,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -152,6 +154,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -182,6 +185,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -266,6 +270,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -296,6 +301,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -380,6 +386,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -410,6 +417,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -494,6 +502,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -524,6 +533,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -608,6 +618,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -638,6 +649,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -722,6 +734,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -752,6 +765,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -836,13 +850,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Suzanne, Groppe"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Suzanne",
+"Groppe"
+]
+],
 "meetingNumber": "LEC1501"
 },
 {
@@ -854,6 +881,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -938,6 +966,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -956,6 +985,7 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1021,7 +1051,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Research Opportunity Program"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 66,
+"enrollmentCap": 132,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+132
+]
+],
 "initialCap": 66
 },
 "enrollmentLogs": [
@@ -38,7 +43,8 @@
 55,
 55,
 55,
-56
+56,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -133,7 +139,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Fundamentals of Optics"
 }

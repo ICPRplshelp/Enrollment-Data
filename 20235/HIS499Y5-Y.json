@@ -136,13 +136,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kevin, Coleman"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kevin",
+"Coleman"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -279,13 +292,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kevin, Coleman"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kevin",
+"Coleman"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -415,7 +441,8 @@
 1688234887,
 1688318434,
 1688412926,
-1688493562
+1688493562,
+1688577890
 ],
 "title": "Research Opportunity Program"
 }

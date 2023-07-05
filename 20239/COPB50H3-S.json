@@ -38,6 +38,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -50,9 +51,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 360,
+"enrollmentCap": 460,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688577945,
+460
+]
+],
 "initialCap": 360
 },
 "enrollmentLogs": [
@@ -83,7 +89,8 @@
 0,
 0,
 0,
-0
+0,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +128,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

@@ -38,13 +38,26 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ruth, Marshall"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ruth",
+"Marshall"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -76,7 +89,8 @@
 1688234940,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Religion and Power in the Postcolony"
 }

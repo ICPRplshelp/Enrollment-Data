@@ -38,13 +38,26 @@
 0,
 0,
 0,
-0
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matthew, Walton"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matthew",
+"Walton"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -83,13 +96,26 @@
 0,
 0,
 0,
-0
+0,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Clifford, Orwin"
+],
+"timing": 1688577945
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Clifford",
+"Orwin"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -121,7 +147,8 @@
 1688234941,
 1688318474,
 1688412976,
-1688493602
+1688493602,
+1688577945
 ],
 "title": "Political Theory: Visions of the Just/Good Society"
 }

@@ -180,13 +180,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -367,13 +380,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -554,13 +580,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -736,13 +775,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Melissa, Holmes"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Melissa",
+"Holmes"
+]
+],
 "meetingNumber": "LEC0104"
 },
 {
@@ -754,6 +806,7 @@
 "initialCap": 3
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1100,6 +1153,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1118,6 +1172,7 @@
 "initialCap": 3
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1464,6 +1519,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1482,6 +1538,7 @@
 "initialCap": 3
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1828,6 +1885,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2010,13 +2068,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Robert, Gerlai"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Robert",
+"Gerlai"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -2192,13 +2263,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Johnson"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Johnson"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -2374,13 +2458,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elizabeth, Johnson"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elizabeth",
+"Johnson"
+]
+],
 "meetingNumber": "LEC0502"
 },
 {
@@ -2556,13 +2653,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christina M Vanden Bosc, der Nederlanden"
+],
+"timing": 1688577890
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christina M Vanden Bosc",
+"der Nederlanden"
+]
+],
 "meetingNumber": "LEC0601"
 }
 ],
@@ -2731,7 +2841,8 @@
 1688234887,
 1688318434,
 1688412926,
-1688493562
+1688493562,
+1688577890
 ],
 "title": "Research Opportunity Program"
 }
