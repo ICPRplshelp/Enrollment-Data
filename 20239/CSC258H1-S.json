@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 147,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+147
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -63,9 +69,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 147,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+147
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -97,6 +108,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -121,9 +133,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 147,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+147
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -155,6 +172,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -194,7 +212,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Computer Organization"
 }

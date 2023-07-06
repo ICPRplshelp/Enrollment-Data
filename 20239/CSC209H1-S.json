@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 146,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+146
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -39,6 +44,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -63,12 +69,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+230
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -121,12 +133,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+230
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -179,12 +197,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 146,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+146
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -252,7 +276,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Software Tools and Systems Programming"
 }

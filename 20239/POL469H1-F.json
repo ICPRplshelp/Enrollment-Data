@@ -39,13 +39,26 @@
 0,
 0,
 0,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nancy, Bertoldi"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nancy",
+"Bertoldi"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +91,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Ethics and International Relations"
 }

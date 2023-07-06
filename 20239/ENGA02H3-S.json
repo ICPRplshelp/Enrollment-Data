@@ -39,7 +39,8 @@
 6,
 6,
 6,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,6 +86,7 @@
 8,
 8,
 8,
+28,
 28
 ],
 "instructorLog": {
@@ -131,7 +133,8 @@
 1,
 2,
 2,
-23
+23,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,13 +144,19 @@
 "ERICA, CARDWELL (NOUTORID)"
 ],
 "timing": 1688493602
+},
+{
+"instructorsAfter": [
+"Erica, Cardwell"
+],
+"timing": 1688672198
 }
 ]
 },
 "instructors": [
 [
-"ERICA",
-"CARDWELL (NOUTORID)"
+"Erica",
+"Cardwell"
 ]
 ],
 "meetingNumber": "LEC03"
@@ -161,6 +170,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -235,7 +245,8 @@
 3,
 3,
 3,
-22
+22,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,7 +285,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Critical Writing About Literature"
 }

@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+0
+]
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -78,7 +84,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Morality in Cross-Cultural Perspective"
 }

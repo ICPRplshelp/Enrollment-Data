@@ -39,13 +39,26 @@
 10,
 10,
 12,
-12
+12,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amy Lynn, Jenne"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Amy Lynn",
+"Jenne"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +91,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Fundamentals of Analytical Chemistry"
 }

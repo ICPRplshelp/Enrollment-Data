@@ -39,13 +39,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andy, Dicks",
+"Mitchell, Winnik"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andy",
+"Dicks"
+],
+[
+"Mitchell",
+"Winnik"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +103,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andy, Dicks",
+"Mitchell, Winnik"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andy",
+"Dicks"
+],
+[
+"Mitchell",
+"Winnik"
+]
+],
 "meetingNumber": "LEC0201"
 }
 ],
@@ -124,7 +160,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introductory Organic Chemistry II"
 }

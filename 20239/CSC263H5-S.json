@@ -39,13 +39,26 @@
 11,
 10,
 10,
-11
+11,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed Umer, Ashraf"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed Umer",
+"Ashraf"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,7 +98,8 @@
 4,
 5,
 5,
-5
+5,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,7 +145,8 @@
 2,
 2,
 2,
-2
+2,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,7 +185,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Data Structures and Analysis"
 }

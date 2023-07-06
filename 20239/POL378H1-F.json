@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -85,13 +86,26 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Oded David, Oron"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Oded David",
+"Oron"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -124,7 +138,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Topics in Comparative Politics II"
 }

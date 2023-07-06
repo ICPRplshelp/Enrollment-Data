@@ -186,7 +186,8 @@
 38,
 34,
 31,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -396,7 +397,8 @@
 82,
 82,
 82,
-78
+78,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -413,14 +415,16 @@
 "Katheryne, Morrissette"
 ],
 "timing": 1688577890
+},
+{
+"instructorsAfter": [
+"Katheryne, Morrissette"
+],
+"timing": 1688672151
 }
 ]
 },
 "instructors": [
-[
-"Vanessa",
-"Andres"
-],
 [
 "Katheryne",
 "Morrissette"
@@ -605,7 +609,8 @@
 1688318434,
 1688412926,
 1688493562,
-1688577890
+1688577890,
+1688672151
 ],
 "title": "Effective Writing"
 }

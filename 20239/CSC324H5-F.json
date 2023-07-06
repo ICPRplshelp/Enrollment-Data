@@ -39,13 +39,26 @@
 27,
 28,
 29,
-31
+31,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lisa Chenxue, Zhang"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lisa Chenxue",
+"Zhang"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 5,
 5,
 5,
-5
+5,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lisa Chenxue, Zhang"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lisa Chenxue",
+"Zhang"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -103,6 +129,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -170,7 +197,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Principles of Programming Languages"
 }

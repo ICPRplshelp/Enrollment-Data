@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+48
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -33,6 +38,7 @@
 0,
 42,
 44,
+45,
 45,
 45,
 45,
@@ -90,7 +96,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Advanced Molecular Biology Laboratory"
 }

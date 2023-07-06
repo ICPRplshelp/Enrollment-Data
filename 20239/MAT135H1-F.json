@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -69,6 +70,7 @@
 "initialCap": 450
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -143,6 +145,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -161,6 +164,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -247,6 +251,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -305,13 +310,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dmitriy, Panchenko"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dmitriy",
+"Panchenko"
+]
+],
 "meetingNumber": "LEC0502"
 },
 {
@@ -323,6 +341,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -397,6 +416,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -415,6 +435,7 @@
 "initialCap": 230
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -501,6 +522,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -519,6 +541,7 @@
 "initialCap": 155
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -593,6 +616,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -611,6 +635,7 @@
 "initialCap": 245
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -678,7 +703,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Calculus I"
 }

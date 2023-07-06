@@ -39,13 +39,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Wendy, Wong"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Wendy",
+"Wong"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lilach, Gilady"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lilach",
+"Gilady"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -131,13 +157,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dani, Nedal"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dani",
+"Nedal"
+]
+],
 "meetingNumber": "LEC0301"
 }
 ],
@@ -170,7 +209,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Topics in International Politics"
 }

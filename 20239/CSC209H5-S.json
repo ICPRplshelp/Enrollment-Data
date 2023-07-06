@@ -39,13 +39,26 @@
 7,
 7,
 8,
-9
+9,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daniel, Zingaro"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daniel",
+"Zingaro"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 4,
 4,
 4,
-4
+4,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rutwa, Engineer"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rutwa",
+"Engineer"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,13 +157,26 @@
 3,
 4,
 4,
-4
+4,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rutwa, Engineer"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rutwa",
+"Engineer"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -170,7 +209,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Software Tools and Systems Programming"
 }

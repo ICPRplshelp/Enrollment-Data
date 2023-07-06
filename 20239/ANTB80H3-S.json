@@ -39,7 +39,8 @@
 6,
 6,
 6,
-17
+17,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +50,19 @@
 "Don, BUTLER (NOUTORID)"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Donald, Butler"
+],
+"timing": 1688672198
 }
 ]
 },
 "instructors": [
 [
-"Don",
-"BUTLER (NOUTORID)"
+"Donald",
+"Butler"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -90,7 +97,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introduction to Archaeology: Methods, Theories, and Practices"
 }

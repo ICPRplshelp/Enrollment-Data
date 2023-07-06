@@ -39,13 +39,26 @@
 52,
 54,
 55,
-55
+55,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anthony, Bonner"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anthony",
+"Bonner"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +91,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Capstone Design Course"
 }

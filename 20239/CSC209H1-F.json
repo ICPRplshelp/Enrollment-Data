@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 148,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+148
+]
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -39,6 +44,7 @@
 0,
 0,
 0,
+2,
 2
 ],
 "instructorLog": {
@@ -78,7 +84,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Software Tools and Systems Programming"
 }

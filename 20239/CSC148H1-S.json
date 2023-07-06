@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 191,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+191
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
@@ -39,7 +44,8 @@
 0,
 0,
 0,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,12 +69,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 191,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+191
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -109,9 +121,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 191,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+191
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
@@ -143,6 +160,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -167,12 +185,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 229,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+229
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -225,12 +249,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 234,
+"enrollmentCap": 229,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+229
+]
+],
 "initialCap": 234
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -317,6 +347,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -356,7 +387,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introduction to Computer Science"
 }

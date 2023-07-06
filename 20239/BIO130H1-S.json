@@ -39,13 +39,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daphne, Goring",
+"Melody, Neumann"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daphne",
+"Goring"
+],
+[
+"Melody",
+"Neumann"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +103,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daphne, Goring",
+"Melody, Neumann"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daphne",
+"Goring"
+],
+[
+"Melody",
+"Neumann"
+]
+],
 "meetingNumber": "LEC2000"
 },
 {
@@ -131,13 +167,31 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Daphne, Goring",
+"Melody, Neumann"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Daphne",
+"Goring"
+],
+[
+"Melody",
+"Neumann"
+]
+],
 "meetingNumber": "LEC2002"
 },
 {
@@ -177,13 +231,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kenneth, Yip"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kenneth",
+"Yip"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -216,7 +283,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Molecular and Cell Biology"
 }

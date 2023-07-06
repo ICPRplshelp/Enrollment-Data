@@ -39,13 +39,26 @@
 24,
 26,
 27,
-29
+29,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Liut"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Liut"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -57,6 +70,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -131,13 +145,26 @@
 0,
 0,
 0,
-0
+0,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed Umer, Ashraf"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed Umer",
+"Ashraf"
+]
+],
 "meetingNumber": "LEC0103"
 },
 {
@@ -177,13 +204,26 @@
 10,
 10,
 12,
-12
+12,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Liut"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Liut"
+]
+],
 "meetingNumber": "LEC0104"
 }
 ],
@@ -216,7 +256,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introduction to Databases"
 }

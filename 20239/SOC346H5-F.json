@@ -39,13 +39,26 @@
 5,
 5,
 4,
-4
+4,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kaveh, Shahrooz"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kaveh",
+"Shahrooz"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +91,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Special Topics in Criminology, Law and Society"
 }

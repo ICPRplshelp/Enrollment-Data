@@ -39,13 +39,26 @@
 38,
 38,
 38,
-40
+40,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jessica, Burgner-Kahrs"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jessica",
+"Burgner-Kahrs"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +91,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Fundamentals of Robotics"
 }

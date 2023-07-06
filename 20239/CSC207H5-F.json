@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -85,13 +86,26 @@
 8,
 9,
 10,
-10
+10,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sonya, Allin"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sonya",
+"Allin"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,13 +145,26 @@
 5,
 6,
 6,
-6
+6,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sonya, Allin"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sonya",
+"Allin"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -170,7 +197,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Software Design"
 }

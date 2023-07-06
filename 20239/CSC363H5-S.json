@@ -39,13 +39,26 @@
 0,
 0,
 24,
-46
+46,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad, Mahmoud"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammad",
+"Mahmoud"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 0,
 0,
 1,
-3
+3,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad, Mahmoud"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Mohammad",
+"Mahmoud"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -124,7 +150,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Computational Complexity and Computability"
 }

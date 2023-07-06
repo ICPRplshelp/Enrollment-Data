@@ -44,13 +44,26 @@
 128,
 128,
 128,
-129
+129,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Bercik"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Bercik"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -95,13 +108,26 @@
 112,
 112,
 112,
-111
+111,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alex, Bercik"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alex",
+"Bercik"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -134,7 +160,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Vector Calculus & Fluid Mechanics"
 }

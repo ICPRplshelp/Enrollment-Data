@@ -39,13 +39,26 @@
 45,
 44,
 45,
-46
+46,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Bahar, Aameri"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Bahar",
+"Aameri"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 17,
 18,
 19,
-20
+20,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sonya, Allin"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sonya",
+"Allin"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -124,7 +150,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introduction to Artificial Intelligence"
 }

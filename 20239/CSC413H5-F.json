@@ -39,13 +39,26 @@
 23,
 24,
 24,
-25
+25,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Igor, Gilitschenski"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Igor",
+"Gilitschenski"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 30,
 29,
 29,
-29
+29,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Florian, Shkurti"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Florian",
+"Shkurti"
+]
+],
 "meetingNumber": "LEC0102"
 }
 ],
@@ -124,7 +150,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Neural Networks and Deep Learning"
 }

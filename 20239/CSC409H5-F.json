@@ -44,13 +44,26 @@
 91,
 93,
 95,
-96
+96,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Arnold, Rosenbloom"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Arnold",
+"Rosenbloom"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -83,7 +96,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Scalable Computing"
 }

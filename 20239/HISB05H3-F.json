@@ -39,7 +39,8 @@
 7,
 7,
 7,
-12
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +50,19 @@
 "Matt, PRICE (NOUTORID)"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Matt, Price"
+],
+"timing": 1688672198
 }
 ]
 },
 "instructors": [
 [
 "Matt",
-"PRICE (NOUTORID)"
+"Price"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -90,7 +97,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "History of Information for a Digital Age"
 }

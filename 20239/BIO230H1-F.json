@@ -39,13 +39,31 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Heather, McFarlane",
+"Kenneth, Yip"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Heather",
+"McFarlane"
+],
+[
+"Kenneth",
+"Yip"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +103,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kenneth, Yip"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kenneth",
+"Yip"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -124,7 +155,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "From Genes to Organisms"
 }

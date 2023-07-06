@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -47,6 +48,53 @@
 },
 "instructors": [],
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1688672198,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -78,7 +126,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Selected Topics in International Studies"
 }

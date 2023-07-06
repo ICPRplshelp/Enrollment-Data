@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -85,13 +86,26 @@
 0,
 0,
 0,
-1
+1,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Arnold, Rosenbloom"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Arnold",
+"Rosenbloom"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,13 +145,26 @@
 71,
 74,
 76,
-75
+75,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Liut"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Liut"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -170,7 +197,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Principles of Computer Networks"
 }

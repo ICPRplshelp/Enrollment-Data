@@ -33,13 +33,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexander, Koo"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexander",
+"Koo"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -66,7 +79,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Philosophy of Natural Science"
 }

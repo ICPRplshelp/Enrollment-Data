@@ -39,13 +39,26 @@
 11,
 12,
 12,
-13
+13,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed Umer, Ashraf"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed Umer",
+"Ashraf"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 6,
 6,
 6,
-6
+6,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed Umer, Ashraf"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed Umer",
+"Ashraf"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,13 +157,26 @@
 2,
 3,
 3,
-3
+3,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ahmed Umer, Ashraf"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ahmed Umer",
+"Ashraf"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -170,7 +209,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Introduction to the Theory of Computation"
 }

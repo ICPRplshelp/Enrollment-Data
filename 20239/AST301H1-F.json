@@ -39,13 +39,31 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maria, Drout",
+"Ting, Li"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maria",
+"Drout"
+],
+[
+"Ting",
+"Li"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -78,7 +96,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Observational Astronomy"
 }

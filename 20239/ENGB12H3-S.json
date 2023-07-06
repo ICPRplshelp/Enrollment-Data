@@ -39,7 +39,8 @@
 11,
 11,
 11,
-18
+18,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +50,19 @@
 "ERICA, CARDWELL (NOUTORID)"
 ],
 "timing": 1688493602
+},
+{
+"instructorsAfter": [
+"Erica, Cardwell"
+],
+"timing": 1688672198
 }
 ]
 },
 "instructors": [
 [
-"ERICA",
-"CARDWELL (NOUTORID)"
+"Erica",
+"Cardwell"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -90,7 +97,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Life Writing"
 }

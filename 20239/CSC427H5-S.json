@@ -39,13 +39,26 @@
 64,
 64,
 63,
-61
+61,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andi, Bergen"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andi",
+"Bergen"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,7 +98,8 @@
 43,
 45,
 48,
-51
+51,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -124,7 +138,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Computer Security"
 }

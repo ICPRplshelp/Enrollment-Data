@@ -39,6 +39,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -57,6 +58,13 @@
 "Paul, Gries"
 ],
 "timing": 1688059451
+},
+{
+"instructorsAfter": [
+"Karl, Manis",
+"Mary, Pugh"
+],
+"timing": 1688672198
 }
 ]
 },
@@ -68,10 +76,6 @@
 [
 "Mary",
 "Pugh"
-],
-[
-"Paul",
-"Gries"
 ]
 ],
 "meetingNumber": "LEC0101"
@@ -106,7 +110,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Literature and Data"
 }

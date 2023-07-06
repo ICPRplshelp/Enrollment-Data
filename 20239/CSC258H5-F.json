@@ -39,13 +39,26 @@
 11,
 11,
 11,
-10
+10,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrew, Petersen"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andrew",
+"Petersen"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -85,13 +98,26 @@
 8,
 8,
 11,
-10
+10,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrew, Petersen"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andrew",
+"Petersen"
+]
+],
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,13 +157,26 @@
 3,
 3,
 3,
-4
+4,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rutwa, Engineer"
+],
+"timing": 1688672198
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rutwa",
+"Engineer"
+]
+],
 "meetingNumber": "LEC0103"
 }
 ],
@@ -170,7 +209,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Computer Organization"
 }

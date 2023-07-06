@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 190,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+190
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
@@ -39,7 +44,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,12 +69,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 190,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+190
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -121,12 +133,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 190,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+190
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -179,12 +197,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 190,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688672198,
+190
+]
+],
 "initialCap": 196
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -264,7 +288,8 @@
 1688318474,
 1688412976,
 1688493602,
-1688577945
+1688577945,
+1688672198
 ],
 "title": "Mathematical Expression and Reasoning for Computer Science"
 }
