@@ -40,13 +40,26 @@
 0,
 0,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Silverman"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brian",
+"Silverman"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Silverman"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brian",
+"Silverman"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Silverman"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brian",
+"Silverman"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -181,13 +220,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sae-Seul, Park"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sae-Seul",
+"Park"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -228,13 +280,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sae-Seul, Park"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sae-Seul",
+"Park"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -275,13 +340,26 @@
 0,
 0,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sae-Seul, Park"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sae-Seul",
+"Park"
+]
+],
 "meetingNumber": "LEC0601"
 },
 {
@@ -322,13 +400,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hyeun Jung, Lee"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hyeun Jung",
+"Lee"
+]
+],
 "meetingNumber": "LEC0701"
 },
 {
@@ -369,13 +460,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hyeun Jung, Lee"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hyeun Jung",
+"Lee"
+]
+],
 "meetingNumber": "LEC0801"
 },
 {
@@ -416,13 +520,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shannon, Liu"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shannon",
+"Liu"
+]
+],
 "meetingNumber": "LEC5101"
 }
 ],
@@ -456,7 +573,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Strategic Management"
 }

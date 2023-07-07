@@ -40,13 +40,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Luciano, Volpe"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Luciano",
+"Volpe"
+]
+],
 "meetingNumber": "LEC5101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Luciano, Volpe"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Luciano",
+"Volpe"
+]
+],
 "meetingNumber": "LEC5201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Luciano, Volpe"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Luciano",
+"Volpe"
+]
+],
 "meetingNumber": "LEC5301"
 }
 ],
@@ -174,7 +213,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Marketing Management"
 }

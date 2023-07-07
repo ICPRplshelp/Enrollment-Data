@@ -40,6 +40,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -87,13 +88,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Manfred, Schneider"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Manfred",
+"Schneider"
+]
+],
 "meetingNumber": "LEC5201"
 },
 {
@@ -105,6 +119,7 @@
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -174,7 +189,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Legal Environment of Business I"
 }

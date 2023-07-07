@@ -40,13 +40,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chay, Ornthanalai"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chay",
+"Ornthanalai"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chay, Ornthanalai"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chay",
+"Ornthanalai"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chay, Ornthanalai"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chay",
+"Ornthanalai"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -179,6 +218,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1
@@ -221,7 +261,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Risk Management for Financial Managers"
 }

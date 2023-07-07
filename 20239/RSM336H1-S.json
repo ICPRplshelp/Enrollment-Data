@@ -40,13 +40,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maureen, Stapleton"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maureen",
+"Stapleton"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maureen, Stapleton"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maureen",
+"Stapleton"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Saville"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adrian",
+"Saville"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -181,13 +220,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Saville"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adrian",
+"Saville"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -228,13 +280,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Saville"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adrian",
+"Saville"
+]
+],
 "meetingNumber": "LEC0501"
 }
 ],
@@ -268,7 +333,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Investments"
 }

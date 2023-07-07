@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 8,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688752277,
+8
+]
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -92,7 +98,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Instrumental: Bassoon"
 }

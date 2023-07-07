@@ -40,13 +40,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marlys, Christianson"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marlys",
+"Christianson"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marlys, Christianson"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marlys",
+"Christianson"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rachel, Ruttan"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rachel",
+"Ruttan"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -181,13 +220,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Marlys, Christianson"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Marlys",
+"Christianson"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -228,13 +280,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matthew, Feinberg"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matthew",
+"Feinberg"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -275,13 +340,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matthew, Feinberg"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matthew",
+"Feinberg"
+]
+],
 "meetingNumber": "LEC0601"
 },
 {
@@ -322,13 +400,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matthew, Feinberg"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matthew",
+"Feinberg"
+]
+],
 "meetingNumber": "LEC0701"
 }
 ],
@@ -362,7 +453,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Organizational Behaviour"
 }

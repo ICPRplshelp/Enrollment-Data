@@ -40,13 +40,26 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rayomand",
+"Daroga"
+]
+],
 "meetingNumber": "LEC2501"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rayomand",
+"Daroga"
+]
+],
 "meetingNumber": "LEC5101"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rayomand",
+"Daroga"
+]
+],
 "meetingNumber": "LEC5201"
 },
 {
@@ -181,13 +220,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rayomand, Daroga"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rayomand",
+"Daroga"
+]
+],
 "meetingNumber": "LEC5301"
 }
 ],
@@ -221,7 +273,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Fixed Income Securities"
 }

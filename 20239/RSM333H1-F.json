@@ -40,6 +40,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -86,6 +87,7 @@
 0,
 0,
 0,
+2,
 2,
 2
 ],
@@ -134,13 +136,26 @@
 0,
 0,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Otto, Yung"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Otto",
+"Yung"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -181,13 +196,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Otto, Yung"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Otto",
+"Yung"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -228,13 +256,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Otto, Yung"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Otto",
+"Yung"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -275,13 +316,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Otto, Yung"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Otto",
+"Yung"
+]
+],
 "meetingNumber": "LEC0601"
 }
 ],
@@ -315,7 +369,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Corporate Finance"
 }

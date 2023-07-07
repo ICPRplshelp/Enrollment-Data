@@ -40,13 +40,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liyan, Yang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liyan",
+"Yang"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -181,13 +220,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
 "meetingNumber": "LEC0401"
 },
 {
@@ -228,13 +280,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -246,6 +311,7 @@
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -322,6 +388,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -369,13 +436,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liyan, Yang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liyan",
+"Yang"
+]
+],
 "meetingNumber": "LEC5101"
 },
 {
@@ -416,13 +496,26 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liyan, Yang"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liyan",
+"Yang"
+]
+],
 "meetingNumber": "LEC5201"
 }
 ],
@@ -456,7 +549,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Capital Market Theory"
 }

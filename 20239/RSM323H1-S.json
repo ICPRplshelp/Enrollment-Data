@@ -40,13 +40,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Waldemar, Smieliauskas"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Waldemar",
+"Smieliauskas"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -58,6 +71,7 @@
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -127,7 +141,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Auditing I"
 }

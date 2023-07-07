@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 116,
+"enrollmentCap": 143,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1688672198,
 116
+],
+[
+1688752277,
+143
 ]
 ],
 "initialCap": 118
@@ -45,6 +49,7 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -69,12 +74,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 115,
+"enrollmentCap": 88,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1688672198,
 115
+],
+[
+1688752277,
+88
 ]
 ],
 "initialCap": 117
@@ -109,6 +118,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -133,9 +143,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688752277,
+5
+]
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -168,7 +183,8 @@
 27,
 27,
 27,
-26
+26,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -192,9 +208,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 33,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688752277,
+60
+]
+],
 "initialCap": 33
 },
 "enrollmentLogs": [
@@ -227,7 +248,8 @@
 27,
 27,
 28,
-29
+29,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -279,7 +301,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Data Structures and Analysis"
 }

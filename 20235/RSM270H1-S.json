@@ -5,9 +5,14 @@
 {
 "createdAt": 1676673420,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688752230,
+50
+]
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -187,7 +192,8 @@
 38,
 37,
 37,
-37
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -386,7 +392,8 @@
 1688412926,
 1688493562,
 1688577890,
-1688672151
+1688672151,
+1688752230
 ],
 "title": "Operations Management"
 }

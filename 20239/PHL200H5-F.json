@@ -40,13 +40,26 @@
 4,
 4,
 5,
-21
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"James, Allen"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"James",
+"Allen"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Ancient Philosophy"
 }

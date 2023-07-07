@@ -40,13 +40,26 @@
 33,
 34,
 35,
-58
+58,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amy, Mullin"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Amy",
+"Mullin"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Issues in Philosophy and Feminism"
 }

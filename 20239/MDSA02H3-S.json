@@ -40,13 +40,26 @@
 0,
 0,
 265,
-280
+280,
+284
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"ALEX, CHALK (NOUTORID)"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"ALEX",
+"CHALK (NOUTORID)"
+]
+],
 "meetingNumber": "LEC01"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "History of Media"
 }

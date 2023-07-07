@@ -40,13 +40,26 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gerhard, Trippen"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gerhard",
+"Trippen"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Data and Information Management for Business Analytics"
 }

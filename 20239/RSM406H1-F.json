@@ -45,13 +45,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stefan, Dimitriadis"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stefan",
+"Dimitriadis"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -85,7 +98,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Special Topics in Management"
 }

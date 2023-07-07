@@ -40,13 +40,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dragan, Stojanovic"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dragan",
+"Stojanovic"
+]
+],
 "meetingNumber": "LEC0101"
 },
 {
@@ -87,13 +100,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dragan, Stojanovic"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dragan",
+"Stojanovic"
+]
+],
 "meetingNumber": "LEC0201"
 },
 {
@@ -134,13 +160,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dragan, Stojanovic"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dragan",
+"Stojanovic"
+]
+],
 "meetingNumber": "LEC0301"
 },
 {
@@ -152,6 +191,7 @@
 "initialCap": 70
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -228,13 +268,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, Douglas"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Scott",
+"Douglas"
+]
+],
 "meetingNumber": "LEC0501"
 },
 {
@@ -275,13 +328,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ralph, Tassone"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ralph",
+"Tassone"
+]
+],
 "meetingNumber": "LEC0601"
 },
 {
@@ -293,6 +359,7 @@
 "initialCap": 70
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -369,6 +436,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -409,7 +477,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Introduction to Financial Accounting"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 86,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687464881,
 86
+],
+[
+1688752277,
+120
 ]
 ],
 "initialCap": 75
@@ -36,6 +40,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -85,7 +90,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Media and Globalization"
 }

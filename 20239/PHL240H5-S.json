@@ -40,13 +40,26 @@
 14,
 14,
 15,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Diana, Raffman"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Diana",
+"Raffman"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Minds and Machines"
 }

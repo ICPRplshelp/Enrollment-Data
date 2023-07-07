@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 8,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688752277,
+8
+]
+],
 "initialCap": 14
 },
 "enrollmentLogs": [
@@ -39,6 +44,7 @@
 5,
 5,
 5,
+6,
 6,
 6
 ],
@@ -92,7 +98,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Field Camp I"
 }

@@ -40,13 +40,26 @@
 14,
 14,
 14,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gurpreet, Rattan"
+],
+"timing": 1688752277
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gurpreet",
+"Rattan"
+]
+],
 "meetingNumber": "LEC0101"
 }
 ],
@@ -80,7 +93,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Early Analytic Philosophy"
 }

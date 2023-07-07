@@ -40,6 +40,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -50,13 +51,19 @@
 "Lee, Goreas"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Adam David, Brown"
+],
+"timing": 1688752277
 }
 ]
 },
 "instructors": [
 [
-"Lee",
-"Goreas"
+"Adam David",
+"Brown"
 ]
 ],
 "meetingNumber": "LEC01"
@@ -92,7 +99,8 @@
 1688412976,
 1688493602,
 1688577945,
-1688672198
+1688672198,
+1688752277
 ],
 "title": "Sculpture I"
 }
