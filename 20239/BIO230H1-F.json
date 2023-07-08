@@ -41,6 +41,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Yip"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -106,7 +108,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,6 +128,7 @@
 "Yip"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -159,7 +163,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "From Genes to Organisms"
 }

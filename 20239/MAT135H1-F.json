@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Brando Albino Galvao de S"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -149,6 +153,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -156,6 +161,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -167,6 +173,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -216,6 +223,7 @@
 "LeBlanc"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -227,6 +235,7 @@
 "initialCap": 188
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -276,6 +285,7 @@
 "Panchenko"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -287,6 +297,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -336,6 +347,7 @@
 "Panchenko"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0502"
 },
 {
@@ -377,6 +389,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -384,6 +397,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0601"
 },
 {
@@ -425,6 +439,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -432,6 +447,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0602"
 },
 {
@@ -443,6 +459,7 @@
 "initialCap": 230
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -492,6 +509,7 @@
 "Panchenko"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0701"
 },
 {
@@ -533,6 +551,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -540,6 +559,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 },
 {
@@ -581,6 +601,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -588,6 +609,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5201"
 },
 {
@@ -629,6 +651,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -636,6 +659,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5301"
 },
 {
@@ -677,6 +701,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -684,6 +709,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5401"
 }
 ],
@@ -718,7 +744,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Calculus I"
 }

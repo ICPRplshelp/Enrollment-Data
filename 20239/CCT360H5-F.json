@@ -41,13 +41,15 @@
 6,
 6,
 34,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "PRA0101"
 },
 {
@@ -89,6 +91,7 @@
 11,
 12,
 52,
+53,
 53
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "PRA0102"
 }
 ],
@@ -130,7 +134,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Intermediate Web Design (SH)"
 }

@@ -13,6 +13,7 @@
 "enrollmentLogs": [
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -20,6 +21,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "PRA0101"
 },
 {
@@ -33,6 +35,7 @@
 "enrollmentLogs": [
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -40,13 +43,15 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "PRA0102"
 }
 ],
 "timeIntervals": [
 1688672197,
 1688672198,
-1688752277
+1688752277,
+1688850239
 ],
 "title": "Multidisciplinary Urban Capstone Project"
 }

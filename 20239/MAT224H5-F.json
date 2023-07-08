@@ -41,6 +41,7 @@
 4,
 4,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Pawliuk"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,7 +103,8 @@
 3,
 3,
 15,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,6 +123,7 @@
 "Rennet"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -154,7 +158,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Linear Algebra II"
 }

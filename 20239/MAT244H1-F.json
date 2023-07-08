@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Ivrii"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,6 +73,7 @@
 "initialCap": 200
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -120,6 +123,7 @@
 "Rankin"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -168,6 +173,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -202,7 +208,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

@@ -41,6 +41,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "LEACH"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "PRA0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "LEACH"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "PRA0102"
 },
 {
@@ -161,6 +165,7 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "ANTKOWIAK"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "PRA0103"
 },
 {
@@ -221,6 +227,7 @@
 1,
 1,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -228,6 +235,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "PRA0104"
 }
 ],
@@ -262,7 +270,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Painting I"
 }

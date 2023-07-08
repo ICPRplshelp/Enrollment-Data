@@ -178,6 +178,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -197,6 +198,7 @@
 "Holmes"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -375,6 +377,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -394,6 +397,7 @@
 "Holmes"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -572,6 +576,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -591,6 +596,7 @@
 "Holmes"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -769,6 +775,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -788,6 +795,7 @@
 "Holmes"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -966,6 +974,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -973,6 +982,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
@@ -1151,6 +1161,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1158,6 +1169,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0106"
 },
 {
@@ -1336,6 +1348,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1343,6 +1356,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
@@ -1521,6 +1535,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1528,6 +1543,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0108"
 },
 {
@@ -1706,6 +1722,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1725,6 +1742,7 @@
 "Gerlai"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -1903,6 +1921,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1922,6 +1941,7 @@
 "Wolfe"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -2100,6 +2120,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -2119,6 +2140,7 @@
 "Wolfe"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -2297,6 +2319,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -2316,6 +2339,7 @@
 "Johnson"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -2494,6 +2518,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2513,6 +2538,7 @@
 "Johnson"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0502"
 }
 ],
@@ -2684,7 +2710,8 @@
 1688493562,
 1688577890,
 1688672151,
-1688752230
+1688752230,
+1688850200
 ],
 "title": "Research Opportunity Program"
 }

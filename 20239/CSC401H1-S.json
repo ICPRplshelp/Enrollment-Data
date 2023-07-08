@@ -46,6 +46,7 @@
 0,
 1,
 1,
+0,
 0
 ],
 "instructorLog": {
@@ -53,6 +54,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -99,6 +101,7 @@
 0,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -106,6 +109,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -152,6 +156,7 @@
 1,
 1,
 1,
+0,
 0
 ],
 "instructorLog": {
@@ -159,6 +164,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 },
 {
@@ -205,6 +211,7 @@
 1,
 1,
 1,
+2,
 2
 ],
 "instructorLog": {
@@ -212,6 +219,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2101"
 }
 ],
@@ -246,7 +254,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Natural Language Computing"
 }

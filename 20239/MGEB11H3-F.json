@@ -41,6 +41,7 @@
 3,
 5,
 6,
+5,
 5
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Yu"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,6 +103,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Yu"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -131,6 +135,7 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -180,6 +185,7 @@
 "Yu"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Quantitative Methods in Economics I"
 }

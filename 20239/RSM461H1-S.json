@@ -41,13 +41,27 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brendan, Strejcek"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brendan",
+"Strejcek"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,13 +103,27 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brendan, Strejcek"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brendan",
+"Strejcek"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -137,13 +165,27 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adam, Stoehr"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adam",
+"Stoehr"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -178,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Managerial Negotiations"
 }

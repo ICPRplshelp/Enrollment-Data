@@ -46,6 +46,7 @@
 0,
 75,
 78,
+78,
 78
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Gawde"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -111,6 +113,7 @@
 0,
 80,
 79,
+80,
 80
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Gawde"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -176,6 +180,7 @@
 0,
 85,
 85,
+83,
 83
 ],
 "instructorLog": {
@@ -195,6 +200,7 @@
 "Tafliovich"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -241,7 +247,8 @@
 0,
 42,
 45,
-47
+47,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,6 +267,7 @@
 "Tafliovich"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -306,6 +314,7 @@
 0,
 59,
 67,
+71,
 71
 ],
 "instructorLog": {
@@ -325,6 +334,7 @@
 "Tafliovich"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 },
 {
@@ -371,6 +381,7 @@
 0,
 75,
 78,
+78,
 78
 ],
 "instructorLog": {
@@ -390,6 +401,7 @@
 "Tafliovich"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC06"
 }
 ],
@@ -424,7 +436,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Computer Science I"
 }

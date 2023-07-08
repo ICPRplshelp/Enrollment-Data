@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Olano Espinosa"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -119,6 +123,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -168,6 +173,7 @@
 "Cardenas Montoya"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -209,6 +215,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -216,6 +223,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -227,6 +235,7 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -276,6 +285,7 @@
 "Negrini"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -317,6 +327,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -324,6 +335,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -358,7 +370,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Linear Algebra I"
 }

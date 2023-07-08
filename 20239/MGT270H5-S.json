@@ -41,6 +41,7 @@
 3,
 4,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 7,
 7,
 27,
+29,
 29
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -137,6 +141,7 @@
 2,
 4,
 25,
+26,
 26
 ],
 "instructorLog": {
@@ -144,6 +149,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -178,7 +184,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Data Analytics for Management"
 }

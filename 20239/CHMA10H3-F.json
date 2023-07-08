@@ -41,7 +41,8 @@
 0,
 466,
 496,
-500
+500,
+501
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -70,6 +71,7 @@
 "Zimmer-De Iuliis"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -111,7 +113,8 @@
 0,
 221,
 240,
-254
+254,
+255
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,6 +143,7 @@
 "Zimmer-De Iuliis"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -181,6 +185,7 @@
 0,
 30,
 31,
+34,
 34
 ],
 "instructorLog": {
@@ -210,6 +215,7 @@
 "Zimmer-De Iuliis"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -244,7 +250,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introductory Chemistry I: Structure and Bonding"
 }

@@ -41,13 +41,27 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kristen, Duke"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kristen",
+"Duke"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -82,7 +96,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Marketing and Behavioural Economics"
 }

@@ -178,6 +178,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -197,6 +198,7 @@
 "Milstein"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -380,6 +382,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -399,6 +402,7 @@
 "Milstein"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -577,6 +581,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -584,6 +589,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -762,6 +768,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -769,6 +776,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -947,6 +955,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -954,6 +963,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
@@ -1137,6 +1147,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -1156,6 +1167,7 @@
 "Rauscher"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -1334,6 +1346,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1353,6 +1366,7 @@
 "Gradinaru"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -1531,6 +1545,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1550,6 +1565,7 @@
 "Barzda"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0404"
 }
 ],
@@ -1721,7 +1737,8 @@
 1688493562,
 1688577890,
 1688672151,
-1688752230
+1688752230,
+1688850200
 ],
 "title": "Research Opportunity Program"
 }

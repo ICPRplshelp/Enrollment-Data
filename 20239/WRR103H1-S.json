@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Adleman"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -71,6 +73,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -120,6 +123,7 @@
 "Visvis"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Williams"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -221,6 +227,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -228,6 +235,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2000"
 },
 {
@@ -269,6 +277,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -276,6 +285,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2100"
 },
 {
@@ -317,6 +327,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -324,6 +335,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2300"
 }
 ],
@@ -358,7 +370,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Academic Essay Writing"
 }

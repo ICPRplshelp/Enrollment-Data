@@ -41,6 +41,7 @@
 29,
 31,
 70,
+72,
 72
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Zhang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,7 +103,8 @@
 5,
 5,
 18,
-19
+19,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,6 +123,7 @@
 "Zhang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -161,6 +165,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -168,6 +173,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -202,7 +208,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Principles of Programming Languages"
 }

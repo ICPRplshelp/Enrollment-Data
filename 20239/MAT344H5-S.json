@@ -46,7 +46,8 @@
 23,
 23,
 44,
-45
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,6 +66,7 @@
 "de Jong"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,6 +113,7 @@
 16,
 16,
 41,
+46,
 46
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Pawliuk"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -164,7 +168,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Combinatorics"
 }

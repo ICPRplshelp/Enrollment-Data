@@ -21,6 +21,7 @@
 0,
 0,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -40,6 +41,7 @@
 "Chen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -61,6 +63,7 @@
 0,
 0,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -80,6 +83,7 @@
 "Geva"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -101,6 +105,7 @@
 0,
 0,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -120,6 +125,7 @@
 "Jang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -141,6 +147,7 @@
 0,
 0,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -160,6 +167,7 @@
 "Clarke"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -181,6 +189,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -200,6 +209,7 @@
 "Jenkins"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -221,6 +231,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -240,6 +251,7 @@
 "Jasinska"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0601"
 },
 {
@@ -261,6 +273,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -280,6 +293,7 @@
 "Lee"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0701"
 },
 {
@@ -301,6 +315,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -320,6 +335,7 @@
 "Cunningham"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0801"
 }
 ],
@@ -334,7 +350,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Research Opportunity Program"
 }

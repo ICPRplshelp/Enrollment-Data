@@ -41,6 +41,7 @@
 52,
 55,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -89,6 +91,7 @@
 59,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "Trougakos"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -149,7 +153,8 @@
 60,
 60,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -168,6 +173,7 @@
 "Trougakos"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -209,6 +215,7 @@
 58,
 57,
 59,
+59,
 59
 ],
 "instructorLog": {
@@ -228,6 +235,7 @@
 "NWADEI (NOUTORID)"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -269,6 +277,7 @@
 18,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -288,6 +297,7 @@
 "NWADEI (NOUTORID)"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 }
 ],
@@ -322,7 +332,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Human Resource Management"
 }

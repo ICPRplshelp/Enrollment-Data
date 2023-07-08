@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 1,
 1,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "Tvalavadze"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -149,6 +153,7 @@
 1,
 1,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -168,6 +173,7 @@
 "Khatchatourian"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -209,6 +215,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -216,6 +223,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -257,6 +265,7 @@
 2,
 2,
 3,
+4,
 4
 ],
 "instructorLog": {
@@ -276,6 +285,7 @@
 "Fuchs"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
@@ -317,6 +327,7 @@
 1,
 1,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -336,6 +347,7 @@
 "Fuchs"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0106"
 }
 ],
@@ -370,7 +382,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Differential Calculus for Life Sciences"
 }

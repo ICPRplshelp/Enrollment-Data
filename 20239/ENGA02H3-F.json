@@ -41,6 +41,7 @@
 4,
 16,
 15,
+16,
 16
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -89,13 +91,15 @@
 2,
 10,
 13,
-12
+12,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -137,6 +141,7 @@
 8,
 18,
 19,
+21,
 21
 ],
 "instructorLog": {
@@ -144,6 +149,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -185,6 +191,7 @@
 7,
 15,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -192,6 +199,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -233,13 +241,15 @@
 3,
 15,
 14,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 }
 ],
@@ -274,7 +284,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Critical Writing About Literature"
 }

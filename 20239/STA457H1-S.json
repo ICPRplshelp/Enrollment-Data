@@ -41,6 +41,7 @@
 0,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Selvaratnam"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Selvaratnam"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -131,6 +135,7 @@
 "initialCap": 3
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -180,6 +185,7 @@
 "Selvaratnam"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Time Series Analysis"
 }

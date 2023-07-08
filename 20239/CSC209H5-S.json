@@ -41,7 +41,8 @@
 8,
 9,
 51,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,6 +61,7 @@
 "Zingaro"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 4,
 4,
 15,
+16,
 16
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Engineer"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -161,6 +165,7 @@
 4,
 4,
 19,
+21,
 21
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Engineer"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Software Tools and Systems Programming"
 }

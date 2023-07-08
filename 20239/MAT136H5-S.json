@@ -41,6 +41,7 @@
 3,
 3,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Herman"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,7 +103,8 @@
 1,
 1,
 1,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,6 +123,7 @@
 "Wesslen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,6 +135,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -180,6 +185,7 @@
 "Khatchatourian"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -221,6 +227,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -228,6 +235,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -269,6 +277,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -276,6 +285,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
@@ -317,6 +327,7 @@
 1,
 1,
 2,
+3,
 3
 ],
 "instructorLog": {
@@ -324,6 +335,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0106"
 },
 {
@@ -365,6 +377,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -372,6 +385,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
@@ -413,6 +427,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -432,6 +447,7 @@
 "Herman"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0108"
 },
 {
@@ -473,6 +489,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -480,6 +497,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0109"
 },
 {
@@ -521,6 +539,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -528,6 +547,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0110"
 },
 {
@@ -539,6 +559,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -588,6 +609,7 @@
 "Herman"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0111"
 },
 {
@@ -629,6 +651,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -636,6 +659,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0112"
 }
 ],
@@ -670,7 +694,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Integral Calculus"
 }

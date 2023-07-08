@@ -50,7 +50,8 @@
 0,
 133,
 139,
-141
+141,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -69,6 +70,7 @@
 "Bretscher"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -119,7 +121,8 @@
 0,
 122,
 129,
-131
+131,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,6 +141,7 @@
 "Bretscher"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -184,6 +188,7 @@
 64,
 151,
 151,
+151,
 151
 ],
 "instructorLog": {
@@ -203,6 +208,7 @@
 "Bretscher"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -237,7 +243,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Discrete Mathematics"
 }

@@ -41,13 +41,15 @@
 8,
 7,
 36,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 5,
 6,
 25,
+26,
 26
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -130,7 +134,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Online Advertising and Marketing (SH)"
 }

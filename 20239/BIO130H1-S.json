@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Neumann"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -106,6 +108,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Neumann"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2000"
 },
 {
@@ -171,6 +175,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -195,6 +200,7 @@
 "Neumann"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2002"
 },
 {
@@ -206,6 +212,7 @@
 "initialCap": 400
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -255,6 +262,7 @@
 "Yip"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -289,7 +297,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850239
 ],
 "title": "Molecular and Cell Biology"
 }

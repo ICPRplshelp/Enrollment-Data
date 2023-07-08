@@ -41,7 +41,8 @@
 58,
 60,
 60,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,6 +61,7 @@
 "Chan"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,6 +103,7 @@
 52,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Chan"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -161,6 +165,7 @@
 58,
 51,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Chan"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -221,7 +227,8 @@
 58,
 55,
 57,
-58
+58,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,6 +247,7 @@
 "Aggarwal"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -281,6 +289,7 @@
 58,
 59,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -300,6 +309,7 @@
 "Dewan"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 }
 ],
@@ -334,7 +344,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Principles of Marketing"
 }

@@ -41,6 +41,7 @@
 28,
 29,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -89,6 +91,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -137,6 +141,7 @@
 29,
 29,
 29,
+28,
 28
 ],
 "instructorLog": {
@@ -144,6 +149,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -185,6 +191,7 @@
 29,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -204,6 +211,7 @@
 "Daga"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -245,6 +253,7 @@
 29,
 28,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -264,6 +273,7 @@
 "Daga"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 },
 {
@@ -305,6 +315,7 @@
 29,
 30,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -312,6 +323,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC06"
 },
 {
@@ -353,6 +365,7 @@
 29,
 29,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -372,6 +385,7 @@
 "Daga"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC07"
 },
 {
@@ -413,6 +427,7 @@
 21,
 30,
 30,
+31,
 31
 ],
 "instructorLog": {
@@ -432,6 +447,7 @@
 "Daga"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC08"
 },
 {
@@ -473,6 +489,7 @@
 29,
 30,
 29,
+28,
 28
 ],
 "instructorLog": {
@@ -492,6 +509,7 @@
 "Daga"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC09"
 },
 {
@@ -533,6 +551,7 @@
 28,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -540,6 +559,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC10"
 },
 {
@@ -581,6 +601,7 @@
 28,
 29,
 27,
+28,
 28
 ],
 "instructorLog": {
@@ -588,6 +609,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC11"
 },
 {
@@ -629,6 +651,7 @@
 15,
 11,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -636,6 +659,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC12"
 }
 ],
@@ -670,7 +694,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Management Communications"
 }

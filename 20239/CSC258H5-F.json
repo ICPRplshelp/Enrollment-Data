@@ -41,6 +41,7 @@
 11,
 10,
 30,
+33,
 33
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Petersen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 11,
 10,
 31,
+35,
 35
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Petersen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -161,7 +165,8 @@
 3,
 4,
 14,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,6 +185,7 @@
 "Engineer"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Computer Organization"
 }

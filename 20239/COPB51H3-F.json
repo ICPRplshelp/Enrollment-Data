@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -94,6 +96,7 @@
 2,
 29,
 33,
+36,
 36
 ],
 "instructorLog": {
@@ -101,6 +104,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -147,6 +151,7 @@
 1,
 14,
 14,
+15,
 15
 ],
 "instructorLog": {
@@ -154,6 +159,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -188,7 +194,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Preparing to Compete for your Co-op Work Term"
 }

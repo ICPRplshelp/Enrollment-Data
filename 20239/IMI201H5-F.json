@@ -41,13 +41,15 @@
 12,
 12,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 1,
 1,
 7,
+8,
 8
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -130,7 +134,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Fundamentals of Marketing"
 }

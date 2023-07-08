@@ -41,7 +41,8 @@
 0,
 402,
 431,
-443
+443,
+444
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -70,6 +71,7 @@
 "Wania"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -111,6 +113,7 @@
 0,
 240,
 250,
+258,
 258
 ],
 "instructorLog": {
@@ -140,6 +143,7 @@
 "Wania"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -181,6 +185,7 @@
 0,
 27,
 30,
+32,
 32
 ],
 "instructorLog": {
@@ -210,6 +215,7 @@
 "Wania"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -244,7 +250,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introductory Chemistry II: Reactions and Mechanisms"
 }

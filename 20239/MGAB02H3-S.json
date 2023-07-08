@@ -41,6 +41,7 @@
 58,
 60,
 60,
+61,
 61
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Chen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,6 +103,7 @@
 56,
 61,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Chen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -161,7 +165,8 @@
 57,
 60,
 62,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,6 +185,7 @@
 "Li"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -221,6 +227,7 @@
 55,
 58,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -240,6 +247,7 @@
 "Chen"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
@@ -281,6 +289,7 @@
 58,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -300,6 +309,7 @@
 "Quan Fun"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC05"
 },
 {
@@ -341,6 +351,7 @@
 59,
 60,
 62,
+60,
 60
 ],
 "instructorLog": {
@@ -360,6 +371,7 @@
 "Kong"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC06"
 },
 {
@@ -401,6 +413,7 @@
 58,
 48,
 47,
+50,
 50
 ],
 "instructorLog": {
@@ -420,6 +433,7 @@
 "Li"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC07"
 },
 {
@@ -461,6 +475,7 @@
 58,
 63,
 64,
+65,
 65
 ],
 "instructorLog": {
@@ -480,6 +495,7 @@
 "Quan Fun"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC08"
 },
 {
@@ -521,6 +537,7 @@
 56,
 60,
 61,
+60,
 60
 ],
 "instructorLog": {
@@ -540,6 +557,7 @@
 "Li"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC09"
 },
 {
@@ -581,6 +599,7 @@
 58,
 60,
 60,
+59,
 59
 ],
 "instructorLog": {
@@ -600,6 +619,7 @@
 "Kong"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC10"
 },
 {
@@ -641,6 +661,7 @@
 48,
 42,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -660,6 +681,7 @@
 "Hassanali"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC11"
 }
 ],
@@ -694,7 +716,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introductory Financial Accounting II"
 }

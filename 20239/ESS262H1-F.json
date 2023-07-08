@@ -46,6 +46,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Anderson"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,6 +113,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Anderson"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 }
 ],
@@ -164,7 +168,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Earth System Processes"
 }

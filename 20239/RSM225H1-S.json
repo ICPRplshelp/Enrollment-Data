@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 },
 {
@@ -89,6 +91,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5201"
 },
 {
@@ -137,6 +141,7 @@
 0,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -144,6 +149,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5301"
 }
 ],
@@ -178,7 +184,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Legal Environment of Business I"
 }

@@ -41,13 +41,15 @@
 4,
 690,
 710,
-715
+715,
+712
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -89,13 +91,15 @@
 40,
 386,
 458,
-471
+471,
+478
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 }
 ],
@@ -130,7 +134,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Biological and Cognitive Psychology"
 }

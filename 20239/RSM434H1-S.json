@@ -41,13 +41,27 @@
 0,
 2,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,13 +103,27 @@
 0,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -137,13 +165,27 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Eric, Kang"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Eric",
+"Kang"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 }
 ],
@@ -178,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Financial Trading Strategies"
 }

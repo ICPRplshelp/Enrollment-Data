@@ -46,6 +46,7 @@
 99,
 99,
 99,
+99,
 99
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Stumm"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,6 +113,7 @@
 83,
 83,
 84,
+84,
 84
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Stumm"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -176,6 +180,7 @@
 133,
 133,
 134,
+135,
 135
 ],
 "instructorLog": {
@@ -195,6 +200,7 @@
 "Emara"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -241,7 +247,8 @@
 74,
 74,
 74,
-74
+74,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,6 +267,7 @@
 "Emara"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 }
 ],
@@ -294,7 +302,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Programming Fundamentals"
 }

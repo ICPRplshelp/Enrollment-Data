@@ -41,7 +41,8 @@
 6,
 91,
 99,
-101
+101,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,6 +61,7 @@
 "Cochrane"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,7 +103,8 @@
 2,
 57,
 64,
-64
+64,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,6 +123,7 @@
 "Renckens"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 }
 ],
@@ -154,7 +158,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Critical Issues in Politics II"
 }

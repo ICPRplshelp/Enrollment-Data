@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Talal"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "McElroy"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -154,7 +158,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Topics in Comparative Politics I"
 }

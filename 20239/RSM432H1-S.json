@@ -41,6 +41,7 @@
 0,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Ornthanalai"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Ornthanalai"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Ornthanalai"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -221,13 +227,27 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Chay, Ornthanalai"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Chay",
+"Ornthanalai"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 }
 ],
@@ -262,7 +282,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Risk Management for Financial Managers"
 }

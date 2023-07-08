@@ -41,6 +41,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -221,6 +227,7 @@
 40,
 39,
 39,
+39,
 39
 ],
 "instructorLog": {
@@ -240,6 +247,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 },
 {
@@ -281,6 +289,7 @@
 44,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -300,6 +309,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2101"
 },
 {
@@ -341,6 +351,7 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -360,6 +371,7 @@
 "Smith"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2201"
 },
 {
@@ -401,6 +413,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -408,6 +421,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC2501"
 },
 {
@@ -449,6 +463,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -456,6 +471,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -490,7 +506,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Databases"
 }

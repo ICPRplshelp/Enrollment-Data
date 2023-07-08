@@ -41,13 +41,27 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Byung Soo, Lee"
+],
+"timing": 1688850240
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Byung Soo",
+"Lee"
+]
+],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -82,7 +96,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Game Theory for Business Strategy"
 }

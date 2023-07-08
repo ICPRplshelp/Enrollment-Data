@@ -41,6 +41,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -59,6 +61,7 @@
 "initialCap": 78
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -108,6 +111,7 @@
 "Bessler"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -142,7 +146,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Elementary French II"
 }

@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -221,7 +227,8 @@
 6,
 6,
 6,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,6 +247,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2001"
 },
 {
@@ -281,7 +289,8 @@
 7,
 7,
 7,
-12
+12,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -300,6 +309,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2101"
 },
 {
@@ -341,6 +351,7 @@
 25,
 25,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -360,6 +371,7 @@
 "Aameri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2201"
 },
 {
@@ -401,6 +413,7 @@
 20,
 20,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -420,6 +433,7 @@
 "Meel"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC2501"
 },
 {
@@ -461,6 +475,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -480,6 +495,7 @@
 "Meel"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -514,7 +530,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introduction to Artificial Intelligence"
 }

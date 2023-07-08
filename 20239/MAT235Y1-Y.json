@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Zalloum"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -119,6 +123,7 @@
 "initialCap": 175
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -168,6 +173,7 @@
 "Li"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -179,6 +185,7 @@
 "initialCap": 170
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -228,6 +235,7 @@
 "Du"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -269,6 +277,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -276,6 +285,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -287,6 +297,7 @@
 "initialCap": 156
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -336,6 +347,7 @@
 "Asadi Vasfi"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0601"
 },
 {
@@ -347,6 +359,7 @@
 "initialCap": 156
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -396,6 +409,7 @@
 "Idu"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0701"
 },
 {
@@ -407,6 +421,7 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -456,6 +471,7 @@
 "Kawach"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -490,7 +506,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Multivariable Calculus"
 }

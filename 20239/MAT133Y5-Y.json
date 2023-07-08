@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -137,6 +141,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -156,6 +161,7 @@
 "Hossain"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -197,6 +203,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -216,6 +223,7 @@
 "Yusun"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 }
 ],
@@ -250,7 +258,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

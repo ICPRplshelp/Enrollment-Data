@@ -41,6 +41,7 @@
 1,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Mazaheri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -71,6 +73,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -120,6 +123,7 @@
 "Mazaheri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -161,6 +165,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Mazaheri"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Quantitative Methods in Economics II"
 }

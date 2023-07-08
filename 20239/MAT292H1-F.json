@@ -46,6 +46,7 @@
 127,
 126,
 127,
+127,
 127
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Papyan"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,7 +113,8 @@
 112,
 112,
 110,
-110
+110,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,6 +133,7 @@
 "Yomgne Diebou"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -164,7 +168,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Calculus III"
 }

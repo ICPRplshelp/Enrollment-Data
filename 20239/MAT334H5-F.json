@@ -46,6 +46,7 @@
 25,
 25,
 44,
+47,
 47
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Wang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,13 +113,15 @@
 4,
 5,
 17,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -152,7 +156,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Complex Variables"
 }

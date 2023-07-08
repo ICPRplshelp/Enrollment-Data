@@ -46,7 +46,8 @@
 0,
 29,
 30,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,6 +66,7 @@
 "Leong"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -111,6 +113,7 @@
 0,
 17,
 22,
+23,
 23
 ],
 "instructorLog": {
@@ -130,6 +133,7 @@
 "Mantie"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 }
 ],
@@ -164,7 +168,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Foundations in Musicianship"
 }

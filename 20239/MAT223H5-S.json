@@ -41,6 +41,7 @@
 4,
 4,
 7,
+6,
 6
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Thind"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 1,
 1,
 1,
+2,
 2
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Thind"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -131,6 +135,7 @@
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -180,6 +185,7 @@
 "Rennet"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -191,6 +197,7 @@
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -240,6 +247,7 @@
 "Rennet"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -281,6 +289,7 @@
 3,
 3,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -300,6 +309,7 @@
 "Rennet"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -334,7 +344,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Linear Algebra I"
 }

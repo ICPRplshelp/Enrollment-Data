@@ -41,6 +41,7 @@
 66,
 96,
 102,
+106,
 106
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Mohsin"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,6 +103,7 @@
 1,
 29,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Mohsin"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 }
 ],
@@ -154,7 +158,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Wind"
 }

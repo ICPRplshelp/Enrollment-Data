@@ -41,6 +41,7 @@
 0,
 185,
 191,
+191,
 191
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Breuss"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
@@ -101,7 +103,8 @@
 6,
 92,
 99,
-99
+99,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,6 +123,7 @@
 "Breuss"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
@@ -161,7 +165,8 @@
 57,
 146,
 151,
-151
+151,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,6 +185,7 @@
 "Breuss"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
@@ -221,7 +227,8 @@
 0,
 68,
 72,
-74
+74,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,6 +247,7 @@
 "Breuss"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC04"
 }
 ],
@@ -274,7 +282,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Calculus I for Mathematical Sciences"
 }

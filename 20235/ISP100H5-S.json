@@ -178,6 +178,7 @@
 26,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -197,6 +198,7 @@
 "Paxton"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -375,6 +377,7 @@
 23,
 24,
 24,
+25,
 25
 ],
 "instructorLog": {
@@ -394,6 +397,7 @@
 "Smirnova"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -572,7 +576,8 @@
 19,
 19,
 18,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -591,6 +596,7 @@
 "Verma"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -769,6 +775,7 @@
 10,
 11,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -788,6 +795,7 @@
 "Siddiqui"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
@@ -966,6 +974,7 @@
 19,
 18,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -985,6 +994,7 @@
 "Cournoyea"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
@@ -996,6 +1006,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1182,6 +1193,7 @@
 "Atkinson"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0106"
 },
 {
@@ -1360,6 +1372,7 @@
 20,
 19,
 20,
+21,
 21
 ],
 "instructorLog": {
@@ -1379,6 +1392,7 @@
 "Siddiqui"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
@@ -1557,6 +1571,7 @@
 11,
 10,
 8,
+7,
 7
 ],
 "instructorLog": {
@@ -1576,6 +1591,7 @@
 "Verma"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0108"
 }
 ],
@@ -1747,7 +1763,8 @@
 1688493562,
 1688577890,
 1688672151,
-1688752230
+1688752230,
+1688850200
 ],
 "title": "Writing for University and Beyond: Writing About Writing"
 }

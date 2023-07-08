@@ -188,6 +188,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -207,6 +208,7 @@
 "Wei"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -395,6 +397,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -402,6 +405,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -590,6 +594,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -597,6 +602,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -778,7 +784,8 @@
 1688493562,
 1688577890,
 1688672151,
-1688752230
+1688752230,
+1688850200
 ],
 "title": "Research Opportunity Program"
 }

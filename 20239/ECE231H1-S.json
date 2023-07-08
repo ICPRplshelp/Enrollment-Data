@@ -46,6 +46,7 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
@@ -65,6 +66,7 @@
 "Wang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -111,6 +113,7 @@
 80,
 80,
 82,
+83,
 83
 ],
 "instructorLog": {
@@ -118,6 +121,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -164,6 +168,7 @@
 134,
 134,
 135,
+136,
 136
 ],
 "instructorLog": {
@@ -183,6 +188,7 @@
 "Liscidini"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
@@ -229,6 +235,7 @@
 72,
 72,
 73,
+73,
 73
 ],
 "instructorLog": {
@@ -248,6 +255,7 @@
 "Kosteski"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0104"
 }
 ],
@@ -282,7 +290,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Introductory Electronics"
 }

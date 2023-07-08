@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Magocsi"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -108,6 +111,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 },
 {
@@ -119,6 +123,7 @@
 "initialCap": 45
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -168,6 +173,7 @@
 "Mills"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -179,6 +185,7 @@
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -228,6 +235,7 @@
 "Chung"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 }
 ],
@@ -262,7 +270,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Topics in History"
 }

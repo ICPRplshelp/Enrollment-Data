@@ -178,6 +178,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -185,6 +186,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -363,6 +365,7 @@
 86,
 86,
 86,
+86,
 86
 ],
 "instructorLog": {
@@ -382,6 +385,7 @@
 "Wang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
@@ -560,6 +564,7 @@
 60,
 60,
 59,
+59,
 59
 ],
 "instructorLog": {
@@ -579,6 +584,7 @@
 "Wang"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -750,7 +756,8 @@
 1688493562,
 1688577890,
 1688672151,
-1688752230
+1688752230,
+1688850200
 ],
 "title": "Introduction to Mathematical Proofs"
 }

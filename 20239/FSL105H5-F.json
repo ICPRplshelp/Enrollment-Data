@@ -41,6 +41,7 @@
 1,
 1,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Phillips"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 1,
 1,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Farsandaj"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 1,
 1,
 6,
+7,
 7
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Farsandaj"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Functional French-Novice"
 }

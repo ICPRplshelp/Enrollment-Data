@@ -41,6 +41,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -48,6 +49,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,6 +91,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -96,6 +99,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -137,6 +141,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -144,6 +149,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
@@ -185,6 +191,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -204,6 +211,7 @@
 "Odziemkowska"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
@@ -245,6 +253,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -264,6 +273,7 @@
 "Odziemkowska"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
@@ -305,6 +315,7 @@
 0,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -324,6 +335,7 @@
 "Odziemkowska"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0601"
 },
 {
@@ -365,6 +377,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -372,6 +385,7 @@
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0701"
 }
 ],
@@ -406,7 +420,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Strategic Management"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688850240,
+10
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -41,6 +46,7 @@
 7,
 7,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -60,6 +66,7 @@
 "Rehner"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -94,7 +101,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Sociolinguistics and Second Language Teaching and Learning"
 }

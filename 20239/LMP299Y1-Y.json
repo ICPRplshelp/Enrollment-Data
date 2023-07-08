@@ -41,6 +41,7 @@
 0,
 0,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -60,6 +61,7 @@
 "Karoubi"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -101,6 +103,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -120,6 +123,7 @@
 "Thu"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -161,6 +165,7 @@
 0,
 0,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -180,6 +185,7 @@
 "Done"
 ]
 ],
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -214,7 +220,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850240
 ],
 "title": "Research Opportunity Program"
 }

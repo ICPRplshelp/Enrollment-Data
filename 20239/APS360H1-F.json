@@ -41,13 +41,15 @@
 60,
 60,
 59,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
@@ -89,13 +91,15 @@
 49,
 49,
 48,
-48
+48,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
+"isCancelled": false,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -130,7 +134,8 @@
 1688493602,
 1688577945,
 1688672198,
-1688752277
+1688752277,
+1688850239
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }
