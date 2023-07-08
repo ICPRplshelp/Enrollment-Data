@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852343,
+0
+]
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -97,7 +103,8 @@
 1688577945,
 1688672198,
 1688752277,
-1688850239
+1688850239,
+1688852343
 ],
 "title": "Black Ethnographies"
 }

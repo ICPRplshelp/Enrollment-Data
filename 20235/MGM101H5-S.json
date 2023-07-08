@@ -5,9 +5,14 @@
 {
 "createdAt": 1686875027,
 "delivery": "SYNIF",
-"enrollmentCap": 75,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852326,
+0
+]
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -25,6 +30,7 @@
 10,
 10,
 6,
+0,
 0,
 0,
 0,
@@ -73,7 +79,8 @@
 1688577890,
 1688672151,
 1688752230,
-1688850200
+1688850200,
+1688852326
 ],
 "title": "Introduction to Management Functions"
 }

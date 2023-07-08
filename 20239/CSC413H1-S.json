@@ -42,6 +42,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -61,6 +62,7 @@
 "initialCap": 83
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -142,6 +144,7 @@
 12,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -190,6 +193,7 @@
 13,
 13,
 13,
+15,
 15,
 15,
 15
@@ -242,6 +246,7 @@
 11,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
@@ -255,9 +260,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852343,
+0
+]
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -290,6 +300,7 @@
 12,
 12,
 12,
+0,
 0,
 0,
 0
@@ -342,6 +353,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -355,12 +367,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 82,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852343,
+0
+]
+],
 "initialCap": 82
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -435,7 +453,8 @@
 1688577945,
 1688672198,
 1688752277,
-1688850240
+1688850240,
+1688852343
 ],
 "title": "Neural Networks and Deep Learning"
 }

@@ -5,12 +5,18 @@
 {
 "createdAt": 1677725921,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852326,
+0
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -366,6 +372,7 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructorLog": {
@@ -558,7 +565,8 @@
 1688577890,
 1688672151,
 1688752230,
-1688850200
+1688850200,
+1688852326
 ],
 "title": "Differential Calculus"
 }

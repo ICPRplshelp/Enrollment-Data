@@ -42,6 +42,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -67,12 +68,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852343,
+0
+]
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -154,6 +161,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -216,6 +224,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -259,7 +268,8 @@
 1688577945,
 1688672198,
 1688752277,
-1688850240
+1688850240,
+1688852343
 ],
 "title": "Computer Graphics"
 }

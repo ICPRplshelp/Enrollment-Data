@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1688852343,
+0
+]
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -97,7 +103,8 @@
 1688577945,
 1688672198,
 1688752277,
-1688850240
+1688850240,
+1688852343
 ],
 "title": "Energy and Environment: Transitions in History"
 }
