@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+130
 ]
 ],
 "initialCap": 130
@@ -51,7 +55,8 @@
 112,
 112,
 114,
-114
+114,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,12 +81,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+130
 ]
 ],
 "initialCap": 130
@@ -106,6 +115,7 @@
 105,
 105,
 105,
+103,
 103,
 103,
 103,
@@ -181,7 +191,8 @@
 1688852343,
 1688930910,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Data Structures & Algorithms"
 }

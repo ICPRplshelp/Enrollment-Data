@@ -20,13 +20,26 @@
 0,
 4,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alan, Webb"
+],
+"timing": 1689019466
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alan",
+"Webb"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +54,8 @@
 1688989147,
 1689005400,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Special Topics in Urban Studies"
 }

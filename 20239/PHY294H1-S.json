@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+133
 ]
 ],
 "initialCap": 133
@@ -51,6 +55,7 @@
 130,
 130,
 128,
+128,
 128
 ],
 "instructorLog": {
@@ -81,12 +86,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+133
 ]
 ],
 "initialCap": 133
@@ -126,6 +135,7 @@
 117,
 117,
 117,
+119,
 119,
 119
 ],
@@ -191,7 +201,8 @@
 1688852343,
 1688930910,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Quantum and Thermal Physics"
 }

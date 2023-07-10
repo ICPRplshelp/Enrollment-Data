@@ -31,13 +31,26 @@
 0,
 0,
 38,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Brian, Boigon"
+],
+"timing": 1689019466
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Brian",
+"Boigon"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -63,7 +76,8 @@
 1688852343,
 1688930910,
 1689012606,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Advanced Topics in Architecture"
 }

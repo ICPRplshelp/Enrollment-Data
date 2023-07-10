@@ -31,13 +31,26 @@
 0,
 0,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura J., Miller"
+],
+"timing": 1689019466
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura J.",
+"Miller"
+]
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -63,7 +76,8 @@
 1688852343,
 1688930910,
 1689012606,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Senior Seminar in Design (Thesis)"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+120
 ]
 ],
 "initialCap": 120
@@ -51,7 +55,8 @@
 109,
 109,
 111,
-111
+111,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -110,7 +115,8 @@
 1688852343,
 1688930910,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Human Factors Engineering"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 167,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+167
 ]
 ],
 "initialCap": 150
@@ -51,6 +55,7 @@
 167,
 167,
 167,
+167,
 167
 ],
 "instructorLog": {
@@ -76,12 +81,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 163,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+163
 ]
 ],
 "initialCap": 150
@@ -121,6 +130,7 @@
 164,
 164,
 164,
+163,
 163,
 163
 ],
@@ -181,7 +191,8 @@
 1688852343,
 1688930910,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Classical Mechanics"
 }

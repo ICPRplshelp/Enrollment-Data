@@ -31,13 +31,31 @@
 0,
 0,
 52,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ted, Kesik",
+"Sally, Krigstin"
+],
+"timing": 1689019466
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ted",
+"Kesik"
+],
+[
+"Sally",
+"Krigstin"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -63,7 +81,8 @@
 1688852343,
 1688930910,
 1689012606,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Working with Wood"
 }

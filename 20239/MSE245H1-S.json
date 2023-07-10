@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689019466,
+72
 ]
 ],
 "initialCap": 72
@@ -46,6 +50,7 @@
 65,
 65,
 65,
+66,
 66,
 66,
 66,
@@ -110,7 +115,8 @@
 1688852343,
 1688930910,
 1689012607,
-1689016776
+1689016776,
+1689019466
 ],
 "title": "Organic Materials Chemistry and Properties"
 }
