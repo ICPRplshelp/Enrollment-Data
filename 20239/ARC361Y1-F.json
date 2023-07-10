@@ -32,13 +32,26 @@
 1,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shane, Williamson"
+],
+"timing": 1689025891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shane",
+"Williamson"
+]
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -72,13 +85,26 @@
 0,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrian, Phiffer"
+],
+"timing": 1689025891
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adrian",
+"Phiffer"
+]
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -110,6 +136,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1
@@ -145,7 +172,8 @@
 1688930910,
 1689012606,
 1689016776,
-1689019466
+1689019466,
+1689025891
 ],
 "title": "Architecture Studio III"
 }
