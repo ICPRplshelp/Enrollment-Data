@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689012607,
+12
+]
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
@@ -44,7 +49,8 @@
 0,
 0,
 0,
-0
+0,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -101,7 +107,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Piano Teaching Methods Practicum"
 }

@@ -44,13 +44,26 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Liujia, Tian"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Liujia",
+"Tian"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +102,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Gender, Technology and the Body"
 }

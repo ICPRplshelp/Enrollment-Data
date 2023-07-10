@@ -44,13 +44,26 @@
 1,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Khalidah, Ali"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Khalidah",
+"Ali"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +102,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Introduction to the Study of Religion"
 }

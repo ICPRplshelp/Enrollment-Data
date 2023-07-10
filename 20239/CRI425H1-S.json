@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689005400,
+80
+]
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -44,7 +49,11 @@
 59,
 59,
 59,
-59
+59,
+59,
+59,
+89,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -89,7 +98,11 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1688975074,
+1688989147,
+1689005400,
+1689012607
 ],
 "title": "The Prosecution Process"
 }

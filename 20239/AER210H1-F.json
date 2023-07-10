@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689012606,
+133
 ]
 ],
 "initialCap": 133
@@ -49,7 +53,8 @@
 131,
 132,
 132,
-132
+132,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -74,12 +79,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689012606,
+133
 ]
 ],
 "initialCap": 133
@@ -118,7 +127,8 @@
 109,
 114,
 114,
-114
+114,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -175,7 +185,8 @@
 1688752277,
 1688850239,
 1688852343,
-1688930910
+1688930910,
+1689012606
 ],
 "title": "Vector Calculus & Fluid Mechanics"
 }

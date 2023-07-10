@@ -44,13 +44,26 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ferdie, Lopez"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ferdie",
+"Lopez"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +102,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Diasporic Sexualities"
 }

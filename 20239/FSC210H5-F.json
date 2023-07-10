@@ -44,13 +44,26 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ashley, Smith"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ashley",
+"Smith"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +102,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Physical Evidence and Microscopy"
 }

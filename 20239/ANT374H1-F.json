@@ -5,17 +5,25 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1686936373,
 0
+],
+[
+1689012606,
+60
 ]
 ],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -56,7 +64,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -94,7 +102,11 @@
 1688752277,
 1688850239,
 1688852343,
-1688930910
+1688930910,
+1688975074,
+1688989147,
+1689005400,
+1689012606
 ],
 "title": "Rethinking Development, or the Improvement of the World"
 }

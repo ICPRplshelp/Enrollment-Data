@@ -44,13 +44,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dax, Urbszat"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dax",
+"Urbszat"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -96,13 +109,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dax, Urbszat"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dax",
+"Urbszat"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -148,13 +174,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dax, Urbszat"
+],
+"timing": 1689012607
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dax",
+"Urbszat"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -193,7 +232,8 @@
 1688752277,
 1688850240,
 1688852343,
-1688930910
+1688930910,
+1689012607
 ],
 "title": "Introductory Psychology"
 }
