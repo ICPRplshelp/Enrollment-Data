@@ -30,13 +30,26 @@
 1,
 1,
 1,
-61
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Richard, Sommer"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Richard",
+"Sommer"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -61,7 +74,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Advanced Topics in the History and Theory of Urbanism"
 }

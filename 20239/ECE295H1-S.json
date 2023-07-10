@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+160
 ]
 ],
 "initialCap": 160
@@ -46,6 +50,7 @@
 138,
 139,
 139,
+140,
 140,
 140,
 140,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "HARDWARE DESIGN AND COMM."
 }

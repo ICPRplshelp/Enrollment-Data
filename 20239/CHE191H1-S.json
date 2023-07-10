@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 174,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+174
 ]
 ],
 "initialCap": 120
@@ -47,6 +51,7 @@
 174,
 175,
 175,
+174,
 174,
 174,
 174,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Introduction to Chemical Engineering and Applied Chemistry"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+468
 ]
 ],
 "initialCap": 468
@@ -47,6 +51,7 @@
 346,
 352,
 352,
+351,
 351,
 351,
 351,
@@ -80,12 +85,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+468
 ]
 ],
 "initialCap": 468
@@ -125,6 +134,7 @@
 351,
 351,
 351,
+347,
 347
 ],
 "instructorLog": {
@@ -160,12 +170,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 572,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+572
 ]
 ],
 "initialCap": 468
@@ -202,6 +216,7 @@
 573,
 575,
 574,
+572,
 572,
 572,
 572,
@@ -273,7 +288,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Engineering Strategies & Practice II"
 }

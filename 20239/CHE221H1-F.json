@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 135,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+135
 ]
 ],
 "initialCap": 135
@@ -45,6 +49,7 @@
 132,
 132,
 132,
+133,
 133,
 133,
 133,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Calculus III"
 }

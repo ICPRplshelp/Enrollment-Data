@@ -30,13 +30,26 @@
 0,
 0,
 0,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura J., Miller"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura J.",
+"Miller"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -61,7 +74,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Senior Seminar in Design (Research)"
 }

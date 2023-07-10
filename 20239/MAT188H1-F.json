@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 183,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+183
 ]
 ],
 "initialCap": 133
@@ -50,6 +54,7 @@
 183,
 183,
 183,
+183,
 183
 ],
 "instructorLog": {
@@ -75,12 +80,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 158,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+158
 ]
 ],
 "initialCap": 133
@@ -120,6 +129,7 @@
 158,
 158,
 158,
+158,
 158
 ],
 "instructorLog": {
@@ -145,12 +155,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 153,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+153
 ]
 ],
 "initialCap": 126
@@ -190,6 +204,7 @@
 155,
 155,
 155,
+153,
 153
 ],
 "instructorLog": {
@@ -215,12 +230,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 177,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+177
 ]
 ],
 "initialCap": 133
@@ -256,6 +275,7 @@
 178,
 178,
 178,
+177,
 177,
 177,
 177,
@@ -273,12 +293,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+165
 ]
 ],
 "initialCap": 133
@@ -318,6 +342,7 @@
 166,
 166,
 166,
+165,
 165
 ],
 "instructorLog": {
@@ -331,12 +356,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+145
 ]
 ],
 "initialCap": 133
@@ -369,6 +398,7 @@
 148,
 148,
 148,
+145,
 145,
 145,
 145,
@@ -389,12 +419,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 149,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+149
 ]
 ],
 "initialCap": 133
@@ -434,6 +468,7 @@
 149,
 149,
 149,
+149,
 149
 ],
 "instructorLog": {
@@ -447,12 +482,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+142
 ]
 ],
 "initialCap": 133
@@ -492,6 +531,7 @@
 143,
 143,
 143,
+142,
 142
 ],
 "instructorLog": {
@@ -538,7 +578,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Linear Algebra"
 }

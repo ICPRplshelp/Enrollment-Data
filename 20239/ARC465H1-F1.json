@@ -30,13 +30,26 @@
 0,
 0,
 0,
-52
+52,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Anne-Marie, Armstrong"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Anne-Marie",
+"Armstrong"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -61,7 +74,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Advanced Topics in Architecture"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 191,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+191
 ]
 ],
 "initialCap": 125
@@ -50,6 +54,7 @@
 192,
 192,
 192,
+191,
 191
 ],
 "instructorLog": {
@@ -75,12 +80,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+160
 ]
 ],
 "initialCap": 133
@@ -120,6 +129,7 @@
 163,
 163,
 163,
+160,
 160
 ],
 "instructorLog": {
@@ -145,12 +155,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+117
 ]
 ],
 "initialCap": 110
@@ -190,6 +204,7 @@
 117,
 117,
 117,
+117,
 117
 ],
 "instructorLog": {
@@ -215,12 +230,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 139,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+139
 ]
 ],
 "initialCap": 125
@@ -260,6 +279,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -285,12 +305,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 164,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+164
 ]
 ],
 "initialCap": 125
@@ -326,6 +350,7 @@
 165,
 165,
 165,
+164,
 164,
 164,
 164,
@@ -355,12 +380,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 152,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+152
 ]
 ],
 "initialCap": 125
@@ -395,6 +424,7 @@
 152,
 151,
 151,
+152,
 152,
 152,
 152,
@@ -458,7 +488,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Electrical Fundamentals"
 }

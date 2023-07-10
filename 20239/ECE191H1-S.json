@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 385,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+385
 ]
 ],
 "initialCap": 325
@@ -47,6 +51,7 @@
 387,
 387,
 386,
+385,
 385,
 385,
 385,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "INTRO.TO ELEC.& COMP.ENG./SEM"
 }

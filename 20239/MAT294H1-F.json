@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+72
 ]
 ],
 "initialCap": 72
@@ -45,6 +49,7 @@
 64,
 64,
 64,
+63,
 63,
 63,
 63,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Calculus and Differential Equations"
 }

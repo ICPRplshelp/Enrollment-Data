@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+450
 ]
 ],
 "initialCap": 450
@@ -50,6 +54,7 @@
 352,
 352,
 352,
+352,
 352
 ],
 "instructorLog": {
@@ -80,12 +85,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+450
 ]
 ],
 "initialCap": 450
@@ -125,6 +134,7 @@
 352,
 352,
 352,
+348,
 348
 ],
 "instructorLog": {
@@ -155,12 +165,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 572,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+572
 ]
 ],
 "initialCap": 450
@@ -197,6 +211,7 @@
 574,
 575,
 574,
+572,
 572,
 572,
 572,
@@ -246,7 +261,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Calculus II"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+130
 ]
 ],
 "initialCap": 130
@@ -43,6 +47,7 @@
 101,
 101,
 101,
+103,
 103,
 103,
 103,
@@ -75,12 +80,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+130
 ]
 ],
 "initialCap": 130
@@ -120,6 +129,7 @@
 81,
 81,
 81,
+81,
 81
 ],
 "instructorLog": {
@@ -145,12 +155,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 139,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+139
 ]
 ],
 "initialCap": 130
@@ -190,6 +204,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -203,12 +218,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+130
 ]
 ],
 "initialCap": 130
@@ -234,6 +253,7 @@
 0,
 0,
 0,
+72,
 72,
 72,
 72,
@@ -306,7 +326,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Electric and Magnetic Fields"
 }

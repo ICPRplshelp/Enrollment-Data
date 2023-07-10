@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 266,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+266
 ]
 ],
 "initialCap": 266
@@ -47,6 +51,7 @@
 239,
 239,
 239,
+245,
 245,
 245,
 245,
@@ -113,7 +118,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Engineering and Society"
 }

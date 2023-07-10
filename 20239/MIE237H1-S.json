@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+120
 ]
 ],
 "initialCap": 120
@@ -50,6 +54,7 @@
 109,
 109,
 109,
+111,
 111
 ],
 "instructorLog": {
@@ -96,7 +101,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Statistics"
 }

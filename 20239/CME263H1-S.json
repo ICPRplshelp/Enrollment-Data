@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+150
 ]
 ],
 "initialCap": 150
@@ -36,6 +40,7 @@
 0,
 0,
 0,
+124,
 124,
 124,
 124,
@@ -108,7 +113,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Probability Theory for Civil and Mineral Engineers"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+170
 ]
 ],
 "initialCap": 150
@@ -45,6 +49,7 @@
 170,
 168,
 168,
+170,
 170,
 170,
 170,
@@ -75,12 +80,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 164,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+164
 ]
 ],
 "initialCap": 150
@@ -120,6 +129,7 @@
 165,
 165,
 165,
+164,
 164
 ],
 "instructorLog": {
@@ -178,7 +188,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Structures and Materials - An Introduction to Engineering Design"
 }

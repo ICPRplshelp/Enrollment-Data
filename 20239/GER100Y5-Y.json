@@ -45,13 +45,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Suzanne, Schafer"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Suzanne",
+"Schafer"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -98,13 +111,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Suzanne, Schafer"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Suzanne",
+"Schafer"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -144,7 +170,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Introductory German"
 }

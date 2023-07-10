@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 168,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+168
 ]
 ],
 "initialCap": 150
@@ -50,6 +54,7 @@
 168,
 168,
 168,
+168,
 168
 ],
 "instructorLog": {
@@ -81,12 +86,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 163,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+163
 ]
 ],
 "initialCap": 150
@@ -126,6 +135,7 @@
 164,
 164,
 164,
+163,
 163
 ],
 "instructorLog": {
@@ -184,7 +194,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Linear Algebra"
 }

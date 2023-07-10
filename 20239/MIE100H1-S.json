@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 189,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+189
 ]
 ],
 "initialCap": 120
@@ -50,6 +54,7 @@
 190,
 190,
 190,
+189,
 189
 ],
 "instructorLog": {
@@ -75,12 +80,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+120
 ]
 ],
 "initialCap": 120
@@ -120,6 +129,7 @@
 91,
 91,
 91,
+89,
 89
 ],
 "instructorLog": {
@@ -133,12 +143,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+120
 ]
 ],
 "initialCap": 120
@@ -175,6 +189,7 @@
 116,
 118,
 118,
+117,
 117,
 117,
 117,
@@ -203,12 +218,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 139,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+139
 ]
 ],
 "initialCap": 120
@@ -248,6 +267,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -273,12 +293,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+165
 ]
 ],
 "initialCap": 120
@@ -318,6 +342,7 @@
 165,
 165,
 165,
+165,
 165
 ],
 "instructorLog": {
@@ -343,12 +368,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 152,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+152
 ]
 ],
 "initialCap": 120
@@ -383,6 +412,7 @@
 152,
 151,
 151,
+152,
 152,
 152,
 152,
@@ -446,7 +476,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Dynamics"
 }

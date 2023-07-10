@@ -30,13 +30,26 @@
 0,
 0,
 0,
-40
+40,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ted, Kesik"
+],
+"timing": 1689016776
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ted",
+"Kesik"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -61,7 +74,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Advanced Topics in the Technology of Architecture"
 }

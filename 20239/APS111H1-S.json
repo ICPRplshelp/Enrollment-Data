@@ -5,17 +5,22 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+36
 ]
 ],
 "initialCap": 36
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -108,7 +113,8 @@
 1688850239,
 1688852343,
 1688930910,
-1689012606
+1689012606,
+1689016776
 ],
 "title": "Engineering Strategies & Practice I"
 }

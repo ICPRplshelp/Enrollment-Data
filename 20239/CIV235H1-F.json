@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+60
 ]
 ],
 "initialCap": 60
@@ -36,6 +40,7 @@
 0,
 0,
 0,
+59,
 59,
 59,
 59,
@@ -63,12 +68,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1687893242,
 9999
+],
+[
+1689016776,
+60
 ]
 ],
 "initialCap": 60
@@ -94,6 +103,7 @@
 0,
 0,
 0,
+44,
 44,
 44,
 44,
@@ -154,7 +164,8 @@
 1688850240,
 1688852343,
 1688930910,
-1689012607
+1689012607,
+1689016776
 ],
 "title": "Civil Engineering Graphics"
 }
