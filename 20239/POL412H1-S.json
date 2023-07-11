@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689119739,
+0
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -58,7 +63,8 @@
 26,
 26,
 26,
-28
+28,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,7 +83,7 @@
 "Wong"
 ]
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -129,7 +135,8 @@
 1689039264,
 1689051122,
 1689076825,
-1689105743
+1689105743,
+1689119739
 ],
 "title": "Human Rights and International Relations"
 }

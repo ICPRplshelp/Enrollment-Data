@@ -1,0 +1,43 @@
+{
+"code": "HISB60H3-F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1689119739,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Gervers"
+],
+"timing": 1689119739
+}
+]
+},
+"instructors": [
+[
+"Michael",
+"Gervers"
+]
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1689119738,
+1689119739
+],
+"title": "Europe in the Early Middle Ages (305-1053)"
+}

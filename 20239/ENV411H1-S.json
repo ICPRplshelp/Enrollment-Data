@@ -58,13 +58,26 @@
 59,
 59,
 59,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Classens"
+],
+"timing": 1689119739
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Classens"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +130,8 @@
 1689039264,
 1689051122,
 1689076825,
-1689105743
+1689105743,
+1689119739
 ],
 "title": "Sustainability Thinking"
 }

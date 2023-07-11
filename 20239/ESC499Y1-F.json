@@ -12,20 +12,34 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Lisa, Romkey"
+],
+"timing": 1689119739
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Lisa",
+"Romkey"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1689105742,
-1689105743
+1689105743,
+1689119739
 ],
 "title": "Thesis"
 }

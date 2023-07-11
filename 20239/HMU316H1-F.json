@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689119739,
+31
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -55,7 +60,8 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -111,7 +117,8 @@
 1689039264,
 1689051122,
 1689076825,
-1689105743
+1689105743,
+1689119739
 ],
 "title": "Korean Music"
 }
