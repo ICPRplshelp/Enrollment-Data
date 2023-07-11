@@ -28,13 +28,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Yigal, Nizri"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Yigal",
+"Nizri"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -57,7 +70,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Advanced Topics in Religion"
 }

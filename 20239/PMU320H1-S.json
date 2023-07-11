@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1689012607,
 16
+],
+[
+1689105743,
+17
 ]
 ],
 "initialCap": 15
@@ -59,7 +63,8 @@
 16,
 16,
 16,
-16
+16,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,7 +131,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Assessment in Performance"
 }

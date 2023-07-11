@@ -57,13 +57,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Hue Sun, Chan"
+],
+"timing": 1689105742
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Hue Sun",
+"Chan"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +128,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105742
 ],
 "title": "Research Project in Biochemistry"
 }

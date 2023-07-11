@@ -62,13 +62,26 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Angus, McQuibban"
+],
+"timing": 1689105742
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Angus",
+"McQuibban"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -120,7 +133,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105742
 ],
 "title": "Advanced Seminar in Biochemistry"
 }

@@ -57,13 +57,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gwendolyn, Eadie"
+],
+"timing": 1689105742
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gwendolyn",
+"Eadie"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +128,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105742
 ],
 "title": "Astronomy at the Frontier"
 }

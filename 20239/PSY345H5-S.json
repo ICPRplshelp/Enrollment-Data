@@ -54,13 +54,26 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Stuart, Kamenetsky"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Stuart",
+"Kamenetsky"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +122,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Exceptionality: Disability and Giftedness"
 }

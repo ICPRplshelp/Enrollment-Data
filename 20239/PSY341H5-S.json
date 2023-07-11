@@ -54,13 +54,26 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ruth, Speidel"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ruth",
+"Speidel"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +122,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Abnormal Psychology: Disorders of Children and Adolescents"
 }

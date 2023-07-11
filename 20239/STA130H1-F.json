@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 278,
+"enrollmentCap": 264,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689105743,
+264
+]
+],
 "initialCap": 278
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -70,12 +76,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 288,
+"enrollmentCap": 312,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689105743,
+312
+]
+],
 "initialCap": 288
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -192,7 +204,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "An Introduction to Statistical Reasoning and Data Science"
 }

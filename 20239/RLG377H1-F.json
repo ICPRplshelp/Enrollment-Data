@@ -57,6 +57,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -134,13 +135,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rory, Lindsay"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rory",
+"Lindsay"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -192,7 +206,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Intermediate Tibetan I"
 }

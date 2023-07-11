@@ -54,13 +54,26 @@
 77,
 77,
 77,
-77
+77,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joanne Mee Hae, Chung"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joanne Mee Hae",
+"Chung"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +122,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Adolescence and Emerging Adulthood"
 }

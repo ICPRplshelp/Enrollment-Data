@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689105743,
+11
+]
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -46,6 +51,7 @@
 0,
 0,
 8,
+9,
 9,
 9,
 9,
@@ -128,6 +134,7 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
@@ -195,7 +202,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Italian Vocal Repertoire"
 }

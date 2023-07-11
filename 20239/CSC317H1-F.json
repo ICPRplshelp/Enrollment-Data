@@ -57,7 +57,8 @@
 93,
 93,
 93,
-93
+93,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -93,6 +94,7 @@
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -204,7 +206,8 @@
 19,
 19,
 19,
-19
+19,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,9 +232,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689105743,
+0
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -281,14 +289,15 @@
 17,
 17,
 17,
-17
+17,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC2101"
 }
 ],
@@ -339,7 +348,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Computer Graphics"
 }

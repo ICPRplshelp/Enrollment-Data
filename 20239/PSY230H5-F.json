@@ -54,13 +54,26 @@
 48,
 48,
 48,
-48
+48,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ulrich, Schimmack"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ulrich",
+"Schimmack"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +122,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Introduction to Personality Science"
 }

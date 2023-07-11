@@ -57,13 +57,26 @@
 20,
 20,
 20,
-20
+20,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Zachary, Levinsky"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Zachary",
+"Levinsky"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +128,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Origins of Criminal Justice"
 }

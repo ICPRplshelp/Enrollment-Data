@@ -54,13 +54,26 @@
 22,
 22,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Norman, Farb"
+],
+"timing": 1689105743
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Norman",
+"Farb"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +122,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Introduction to Abnormal Psychology"
 }

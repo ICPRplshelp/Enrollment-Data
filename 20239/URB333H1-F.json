@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689105743,
+30
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -52,6 +57,7 @@
 10,
 11,
 11,
+12,
 12,
 12,
 12,
@@ -115,7 +121,8 @@
 1689035417,
 1689039264,
 1689051122,
-1689076825
+1689076825,
+1689105743
 ],
 "title": "Social Justice in the City"
 }
