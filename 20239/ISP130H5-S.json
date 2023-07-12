@@ -59,13 +59,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Margaret, Karrass"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Margaret",
+"Karrass"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -126,13 +139,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Margaret, Karrass"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Margaret",
+"Karrass"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -186,7 +212,8 @@
 1689119739,
 1689137583,
 1689165300,
-1689167282
+1689167282,
+1689169085
 ],
 "title": "Numeracy for University and Beyond"
 }

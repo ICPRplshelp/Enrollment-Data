@@ -59,13 +59,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Taylor"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura",
+"Taylor"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC9997"
 },
@@ -126,13 +139,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Taylor"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura",
+"Taylor"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC9998"
 },
@@ -193,13 +219,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sheila, Batacharya"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sheila",
+"Batacharya"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC9999"
 }
@@ -253,7 +292,8 @@
 1689119739,
 1689137583,
 1689165300,
-1689167282
+1689167282,
+1689169085
 ],
 "title": "Basics of Writing in English (BoWiE)"
 }

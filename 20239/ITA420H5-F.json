@@ -59,13 +59,26 @@
 10,
 10,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Matteo, Ugolini"
+],
+"timing": 1689169085
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Matteo",
+"Ugolini"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +132,8 @@
 1689119739,
 1689137583,
 1689165300,
-1689167282
+1689167282,
+1689169085
 ],
 "title": "Dante's Inferno"
 }
