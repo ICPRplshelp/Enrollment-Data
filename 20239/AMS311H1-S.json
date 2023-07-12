@@ -69,13 +69,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Max, Mishler"
+],
+"timing": 1689195878
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Max",
+"Mishler"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +152,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195878
 ],
 "title": "Approaches to American Studies"
 }

@@ -69,13 +69,26 @@
 12,
 12,
 12,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ann, Komaromi"
+],
+"timing": 1689195879
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ann",
+"Komaromi"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +152,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Advanced Topics in Literature and Critical Theory"
 }

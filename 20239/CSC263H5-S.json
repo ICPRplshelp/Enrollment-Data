@@ -66,7 +66,8 @@
 41,
 41,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -152,6 +153,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -226,13 +228,26 @@
 11,
 11,
 11,
-11
+11,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tingting, Zhu"
+],
+"timing": 1689195879
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Tingting",
+"Zhu"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -293,7 +308,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Data Structures and Analysis"
 }

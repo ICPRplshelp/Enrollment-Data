@@ -69,13 +69,26 @@
 19,
 23,
 29,
-29
+29,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adrien, Zakar"
+],
+"timing": 1689195879
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adrien",
+"Zakar"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +152,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Documenting Reality"
 }

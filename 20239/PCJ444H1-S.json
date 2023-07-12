@@ -74,13 +74,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Alexandra, Rahr"
+],
+"timing": 1689195879
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Alexandra",
+"Rahr"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -144,7 +157,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Special Topics in Peace and Conflict Studies"
 }

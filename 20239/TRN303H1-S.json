@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689195879,
+0
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -69,14 +74,15 @@
 3,
 10,
 13,
-17
+17,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -139,7 +145,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Ethics and Society"
 }

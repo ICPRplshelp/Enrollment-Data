@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689195878,
+37
+]
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -66,7 +71,8 @@
 0,
 0,
 0,
-0
+0,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -145,7 +151,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195878
 ],
 "title": "Interdisciplinary Studies for Sustainability & Innovation"
 }

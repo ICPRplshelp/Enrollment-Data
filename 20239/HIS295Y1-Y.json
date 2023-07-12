@@ -69,7 +69,8 @@
 10,
 14,
 20,
-20
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -79,13 +80,19 @@
 "Nakanyike, Musisi"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Sean, Hawkins"
+],
+"timing": 1689195879
 }
 ]
 },
 "instructors": [
 [
-"Nakanyike",
-"Musisi"
+"Sean",
+"Hawkins"
 ]
 ],
 "isCancelled": false,
@@ -151,7 +158,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "History of Africa"
 }

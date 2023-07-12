@@ -69,7 +69,8 @@
 6,
 10,
 11,
-12
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -79,13 +80,19 @@
 "Laura, Ingallinella"
 ],
 "timing": 1686620482
+},
+{
+"instructorsAfter": [
+"Manuela, Scarci"
+],
+"timing": 1689195879
 }
 ]
 },
 "instructors": [
 [
-"Laura",
-"Ingallinella"
+"Manuela",
+"Scarci"
 ]
 ],
 "isCancelled": false,
@@ -151,7 +158,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Women and Writing in the Renaissance"
 }

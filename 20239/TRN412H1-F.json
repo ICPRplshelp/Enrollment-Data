@@ -69,6 +69,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -82,9 +83,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689195879,
+0
+]
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -146,7 +152,86 @@
 9,
 9,
 9,
-9
+9,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": true,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1689195879,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -154,7 +239,7 @@
 },
 "instructors": [],
 "isCancelled": false,
-"meetingNumber": "LEC0201"
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -216,7 +301,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

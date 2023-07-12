@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 8,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689195879,
+8
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -55,6 +60,7 @@
 3,
 3,
 3,
+7,
 7,
 7,
 7,
@@ -145,7 +151,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Creating a Production: Conception, Design, and Execution II"
 }

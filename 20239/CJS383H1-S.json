@@ -69,13 +69,26 @@
 2,
 2,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Olga, Talal"
+],
+"timing": 1689195879
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Olga",
+"Talal"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +152,8 @@
 1689173502,
 1689176151,
 1689181381,
-1689184970
+1689184970,
+1689195879
 ],
 "title": "Jews and Power"
 }
