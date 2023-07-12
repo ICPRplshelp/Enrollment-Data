@@ -72,6 +72,7 @@
 100,
 100,
 100,
+100,
 100
 ],
 "instructorLog": {
@@ -88,13 +89,19 @@
 "Belinda, Wang"
 ],
 "timing": 1689105743
+},
+{
+"instructorsAfter": [
+"Farid, Najm"
+],
+"timing": 1689176151
 }
 ]
 },
 "instructors": [
 [
-"Belinda",
-"Wang"
+"Farid",
+"Najm"
 ]
 ],
 "isCancelled": false,
@@ -170,6 +177,7 @@
 80,
 79,
 79,
+79,
 79
 ],
 "instructorLog": {
@@ -180,13 +188,19 @@
 "Farid, Najm"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Belinda, Wang"
+],
+"timing": 1689176151
 }
 ]
 },
 "instructors": [
 [
-"Farid",
-"Najm"
+"Belinda",
+"Wang"
 ]
 ],
 "isCancelled": false,
@@ -262,6 +276,7 @@
 131,
 130,
 130,
+130,
 130
 ],
 "instructorLog": {
@@ -329,6 +344,7 @@
 72,
 72,
 72,
+71,
 71,
 71,
 71,
@@ -436,7 +452,8 @@
 1689169085,
 1689170814,
 1689172192,
-1689173502
+1689173502,
+1689176151
 ],
 "title": "Circuit Analysis"
 }

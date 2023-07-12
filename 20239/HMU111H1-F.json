@@ -63,13 +63,26 @@
 126,
 126,
 126,
+126,
 126
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Kristen, Graves"
+],
+"timing": 1689176151
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Kristen",
+"Graves"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -127,7 +140,8 @@
 1689169085,
 1689170814,
 1689172193,
-1689173502
+1689173502,
+1689176151
 ],
 "title": "Introduction to Music and Society"
 }

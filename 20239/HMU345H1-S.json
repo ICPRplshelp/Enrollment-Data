@@ -84,13 +84,26 @@
 35,
 35,
 35,
+36,
 36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Nathaniel, Akwetteh"
+],
+"timing": 1689176151
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Nathaniel",
+"Akwetteh"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -148,7 +161,8 @@
 1689169085,
 1689170814,
 1689172193,
-1689173502
+1689173502,
+1689176151
 ],
 "title": "Global Popular Musics"
 }
