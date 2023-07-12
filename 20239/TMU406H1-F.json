@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1689012607,
 16
+],
+[
+1689167282,
+17
 ]
 ],
 "initialCap": 15
@@ -50,6 +54,7 @@
 0,
 0,
 0,
+16,
 16,
 16,
 16,
@@ -134,7 +139,8 @@
 1689105743,
 1689119739,
 1689137583,
-1689165300
+1689165300,
+1689167282
 ],
 "title": "MAX/MSP"
 }
