@@ -60,13 +60,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sheliza, Ibrahim"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sheliza",
+"Ibrahim"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -121,7 +134,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "utmONE: Science of Learning"
 }

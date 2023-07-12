@@ -60,13 +60,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Andrea, Olive"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Andrea",
+"Olive"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -128,13 +141,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, Seeley"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sarah",
+"Seeley"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -189,7 +215,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "utmONE Scholars: Special Topics at the Intersection of Social Science and Humanities"
 }

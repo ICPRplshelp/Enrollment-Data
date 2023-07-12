@@ -60,13 +60,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jordana, Garbati"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jordana",
+"Garbati"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -121,7 +134,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "utmONE: Communication Among Cultures"
 }

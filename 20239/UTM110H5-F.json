@@ -60,13 +60,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Janine, Rose"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Janine",
+"Rose"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -121,7 +134,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "utmONE: Special Topics at the Intersection of Social Science and Humanities"
 }

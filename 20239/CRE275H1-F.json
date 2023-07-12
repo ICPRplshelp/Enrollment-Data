@@ -63,13 +63,26 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Noor, Naga"
+],
+"timing": 1689170814
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Noor",
+"Naga"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -127,7 +140,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "Creative Writing: Short Fiction"
 }

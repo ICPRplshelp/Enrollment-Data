@@ -60,6 +60,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -85,12 +86,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1689012607,
 15
+],
+[
+1689170814,
+16
 ]
 ],
 "initialCap": 14
@@ -145,7 +150,8 @@
 15,
 15,
 15,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,9 +176,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689170814,
+15
+]
+],
 "initialCap": 14
 },
 "enrollmentLogs": [
@@ -225,7 +236,8 @@
 14,
 14,
 14,
-14
+14,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -298,7 +310,8 @@
 1689137583,
 1689165300,
 1689167282,
-1689169085
+1689169085,
+1689170814
 ],
 "title": "Keyboard Skills"
 }
