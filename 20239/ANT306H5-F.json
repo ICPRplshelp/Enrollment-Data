@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689165300,
+26
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -55,6 +60,7 @@
 13,
 13,
 13,
+17,
 17,
 17,
 17
@@ -132,7 +138,8 @@
 1689076825,
 1689105742,
 1689119738,
-1689137582
+1689137582,
+1689165300
 ],
 "title": "Forensic Anthropology Field School"
 }
