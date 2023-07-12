@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -23,6 +23,10 @@
 [
 1689119739,
 35
+],
+[
+1689173502,
+36
 ]
 ],
 "initialCap": 30
@@ -79,7 +83,8 @@
 35,
 35,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +147,8 @@
 1689167282,
 1689169085,
 1689170814,
-1689172193
+1689172193,
+1689173502
 ],
 "title": "Global Popular Musics"
 }

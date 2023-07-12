@@ -19,13 +19,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Amanda, Goodman"
+],
+"timing": 1689173502
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Amanda",
+"Goodman"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -39,7 +52,8 @@
 1689167282,
 1689169085,
 1689170814,
-1689172193
+1689172193,
+1689173502
 ],
 "title": "Special Topics in Buddhism"
 }
