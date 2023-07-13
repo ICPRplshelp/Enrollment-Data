@@ -71,13 +71,26 @@
 1,
 1,
 1,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Laura, Garcia Montoya"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Laura",
+"Garcia Montoya"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -143,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introduction to Peace, Conflict and Justice II"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 157,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689265858,
+157
+]
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -71,7 +76,8 @@
 2,
 2,
 2,
-2
+2,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,7 +161,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introduction to Drama, Theatre and Performance Studies"
 }

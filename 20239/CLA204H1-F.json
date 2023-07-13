@@ -71,13 +71,26 @@
 34,
 34,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Taylor, Stark"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Taylor",
+"Stark"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -150,7 +163,8 @@
 239,
 244,
 246,
-247
+247,
+249
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,13 +243,26 @@
 0,
 0,
 0,
-0
+0,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Taylor, Stark"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Taylor",
+"Stark"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -301,7 +328,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introduction to Classical Mythology"
 }

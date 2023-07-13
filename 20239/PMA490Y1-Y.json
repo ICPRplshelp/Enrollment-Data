@@ -68,6 +68,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -78,13 +79,19 @@
 "Jeffrey, Reynolds"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Gillian, MacKay"
+],
+"timing": 1689265858
 }
 ]
 },
 "instructors": [
 [
-"Jeffrey",
-"Reynolds"
+"Gillian",
+"MacKay"
 ]
 ],
 "isCancelled": false,
@@ -99,6 +106,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -237,7 +245,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Concert Band"
 }

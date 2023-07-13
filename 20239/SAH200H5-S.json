@@ -68,13 +68,26 @@
 10,
 10,
 10,
-10
+10,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Megha Sharma, Sehdev"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Megha Sharma",
+"Sehdev"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -137,7 +150,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Being Human in South Asia"
 }

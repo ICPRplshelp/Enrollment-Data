@@ -71,13 +71,26 @@
 5,
 5,
 5,
-5
+5,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adriana, Brook"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adriana",
+"Brook"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -150,13 +163,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jacob, Sawyer"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jacob",
+"Sawyer"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -222,7 +248,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introductory Ancient Greek I"
 }

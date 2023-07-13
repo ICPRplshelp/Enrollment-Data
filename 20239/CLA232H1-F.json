@@ -71,13 +71,26 @@
 12,
 12,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeffrey, Masse"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jeffrey",
+"Masse"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -143,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Greek Literature and Society"
 }

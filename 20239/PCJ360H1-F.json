@@ -71,13 +71,26 @@
 29,
 30,
 30,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Rie, Kijima"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Rie",
+"Kijima"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -143,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Topics in Peace, Conflict and Justice"
 }

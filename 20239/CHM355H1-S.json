@@ -71,13 +71,31 @@
 0,
 0,
 0,
-0
+0,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Geoffrey, Ozin",
+"Eugenia, Kumacheva"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Geoffrey",
+"Ozin"
+],
+[
+"Eugenia",
+"Kumacheva"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -150,13 +168,31 @@
 29,
 30,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Geoffrey, Ozin",
+"Eugenia, Kumacheva"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Geoffrey",
+"Ozin"
+],
+[
+"Eugenia",
+"Kumacheva"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -222,7 +258,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introduction to Inorganic and Polymer Materials Chemistry"
 }

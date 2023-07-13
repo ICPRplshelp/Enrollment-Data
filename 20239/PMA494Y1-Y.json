@@ -68,6 +68,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -78,13 +79,19 @@
 "Michael, Albano"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Sandra, Horst"
+],
+"timing": 1689265858
 }
 ]
 },
 "instructors": [
 [
-"Michael",
-"Albano"
+"Sandra",
+"Horst"
 ]
 ],
 "isCancelled": false,
@@ -149,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Opera: Major Role"
 }

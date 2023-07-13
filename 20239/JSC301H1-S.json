@@ -71,13 +71,31 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David Charles, Stone",
+"Carl-Georg, Bank"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David Charles",
+"Stone"
+],
+[
+"Carl-Georg",
+"Bank"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -143,7 +161,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Principles and Practices in Science Education"
 }

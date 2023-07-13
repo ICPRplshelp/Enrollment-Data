@@ -68,7 +68,8 @@
 20,
 20,
 21,
-21
+21,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,13 +79,19 @@
 "NICOLE, BERNHARDT (NOUTORID)"
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+"Nicole, Bernhardt"
+],
+"timing": 1689265858
 }
 ]
 },
 "instructors": [
 [
-"NICOLE",
-"BERNHARDT (NOUTORID)"
+"Nicole",
+"Bernhardt"
 ]
 ],
 "isCancelled": false,
@@ -149,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Intergovernmental Relations and Public Policy"
 }

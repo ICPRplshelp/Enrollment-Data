@@ -71,13 +71,26 @@
 20,
 20,
 20,
-20
+20,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Abbatt"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jonathan",
+"Abbatt"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -143,7 +156,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Topics in Atmospheric Chemistry"
 }

@@ -1,0 +1,43 @@
+{
+"code": "GRK430H1-F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1689265858,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ben, Akrigg"
+],
+"timing": 1689265858
+}
+]
+},
+"instructors": [
+[
+"Ben",
+"Akrigg"
+]
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1689265857,
+1689265858
+],
+"title": "Advanced Greek Language Study"
+}

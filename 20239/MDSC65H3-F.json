@@ -48,7 +48,8 @@
 44,
 44,
 44,
-44
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -58,13 +59,19 @@
 "ALEX, CHALK (NOUTORID)"
 ],
 "timing": 1688752277
+},
+{
+"instructorsAfter": [
+"Alex, Chalk"
+],
+"timing": 1689265858
 }
 ]
 },
 "instructors": [
 [
-"ALEX",
-"CHALK (NOUTORID)"
+"Alex",
+"Chalk"
 ]
 ],
 "isCancelled": false,
@@ -109,7 +116,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Games and Play"
 }

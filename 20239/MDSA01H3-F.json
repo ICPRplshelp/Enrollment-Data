@@ -68,7 +68,8 @@
 548,
 549,
 551,
-550
+550,
+578
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -89,6 +90,95 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1689265858,
+"delivery": "ASYNC",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+144
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sarah, Kleeb"
+],
+"timing": 1689265858
+}
+]
+},
+"instructors": [
+[
+"Sarah",
+"Kleeb"
+]
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -149,7 +239,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introduction to Media Studies"
 }

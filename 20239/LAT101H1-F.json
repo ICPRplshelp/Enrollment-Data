@@ -71,13 +71,26 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Giulio, Leghissa"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Giulio",
+"Leghissa"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -146,6 +159,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -229,13 +243,26 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adriana, Brook"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adriana",
+"Brook"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -308,13 +335,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jacob, Dvorak"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jacob",
+"Dvorak"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -387,13 +427,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Gianmarco, Bianchini"
+],
+"timing": 1689265858
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Gianmarco",
+"Bianchini"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 }
@@ -459,7 +512,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Introductory Latin I"
 }

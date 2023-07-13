@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689265858,
+2
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -93,12 +99,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689265858,
+2
+]
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -237,7 +249,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Lyric Diction"
 }

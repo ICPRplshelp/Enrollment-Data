@@ -68,6 +68,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -79,6 +80,12 @@
 "Helen, Becque"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Kathryn, Tremills"
+],
+"timing": 1689265858
 }
 ]
 },
@@ -86,10 +93,6 @@
 [
 "Kathryn",
 "Tremills"
-],
-[
-"Helen",
-"Becque"
 ]
 ],
 "isCancelled": false,
@@ -161,6 +164,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -172,6 +176,12 @@
 "Helen, Becque"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Kathryn, Tremills"
+],
+"timing": 1689265858
 }
 ]
 },
@@ -179,10 +189,6 @@
 [
 "Kathryn",
 "Tremills"
-],
-[
-"Helen",
-"Becque"
 ]
 ],
 "isCancelled": false,
@@ -247,7 +253,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1689265858
 ],
 "title": "Lieder"
 }
