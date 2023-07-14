@@ -69,7 +69,8 @@
 297,
 297,
 297,
-308
+308,
+303
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,6 +79,84 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1689378882,
+"delivery": "ASYNC",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -139,7 +218,8 @@
 1689184970,
 1689195878,
 1689216730,
-1689265858
+1689265858,
+1689378882
 ],
 "title": "Principles of Virology"
 }

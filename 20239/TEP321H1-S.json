@@ -69,7 +69,8 @@
 0,
 0,
 0,
-38
+38,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -79,13 +80,19 @@
 "Alan, Chong"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Lydia, Wilkinson"
+],
+"timing": 1689378883
 }
 ]
 },
 "instructors": [
 [
-"Alan",
-"Chong"
+"Lydia",
+"Wilkinson"
 ]
 ],
 "isCancelled": false,
@@ -151,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "INTRODUCTION TO SCIENCE COMMUNICATION"
 }

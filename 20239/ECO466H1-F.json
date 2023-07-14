@@ -72,6 +72,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -82,6 +83,13 @@
 "Martin, Burda"
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+"Martin, Burda",
+"Angelo, Melino"
+],
+"timing": 1689378883
 }
 ]
 },
@@ -89,6 +97,10 @@
 [
 "Martin",
 "Burda"
+],
+[
+"Angelo",
+"Melino"
 ]
 ],
 "isCancelled": false,
@@ -157,7 +169,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Empirical Macroeconomics and Policy"
 }

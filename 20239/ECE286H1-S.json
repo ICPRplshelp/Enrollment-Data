@@ -78,6 +78,7 @@
 130,
 130,
 130,
+130,
 130
 ],
 "instructorLog": {
@@ -88,13 +89,19 @@
 "Josh, Taylor"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Mohammad Mahdi, Banatehrani"
+],
+"timing": 1689378883
 }
 ]
 },
 "instructors": [
 [
-"Josh",
-"Taylor"
+"Mohammad Mahdi",
+"Banatehrani"
 ]
 ],
 "isCancelled": false,
@@ -176,6 +183,7 @@
 116,
 116,
 116,
+116,
 116
 ],
 "instructorLog": {
@@ -186,13 +194,19 @@
 "Josh, Taylor"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Fernando, Yanez"
+],
+"timing": 1689378883
 }
 ]
 },
 "instructors": [
 [
-"Josh",
-"Taylor"
+"Fernando",
+"Yanez"
 ]
 ],
 "isCancelled": false,
@@ -258,7 +272,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Probability & Statistics"
 }

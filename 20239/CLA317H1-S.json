@@ -72,13 +72,26 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ben, Akrigg"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ben",
+"Akrigg"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Greek and Roman Colonialism"
 }

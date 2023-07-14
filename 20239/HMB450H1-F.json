@@ -53,13 +53,26 @@
 47,
 49,
 49,
-49
+49,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Colleen, Dockstader"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Colleen",
+"Dockstader"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -107,7 +120,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Neurodevelopmental Diversity and Diseases"
 }

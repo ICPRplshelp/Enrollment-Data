@@ -69,13 +69,26 @@
 9,
 9,
 9,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jingsong, Ma"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jingsong",
+"Ma"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "English and Chinese Interpreting Skills and Practices"
 }

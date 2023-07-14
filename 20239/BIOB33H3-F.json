@@ -69,13 +69,26 @@
 45,
 45,
 46,
-161
+161,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Joanna, Zigouris"
+],
+"timing": 1689378882
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Joanna",
+"Zigouris"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195878,
 1689216730,
-1689265858
+1689265858,
+1689378882
 ],
 "title": "Human Development and Anatomy"
 }

@@ -72,13 +72,26 @@
 3,
 3,
 3,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Elliott, Fuller"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Elliott",
+"Fuller"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -152,13 +165,26 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jonathan, Burgess"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jonathan",
+"Burgess"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -225,7 +251,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Introductory Ancient Greek II"
 }

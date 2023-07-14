@@ -72,13 +72,26 @@
 15,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jarrett, Welsh"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jarrett",
+"Welsh"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Roman Literature and Society"
 }

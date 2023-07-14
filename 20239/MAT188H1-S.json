@@ -78,13 +78,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shai, Cohen"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Shai",
+"Cohen"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -148,7 +161,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Linear Algebra"
 }

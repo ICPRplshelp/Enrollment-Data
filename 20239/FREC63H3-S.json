@@ -69,13 +69,26 @@
 10,
 10,
 10,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sylvia Eg, Mittler"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sylvia Eg",
+"Mittler"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Topics in French Literature: Encountering Foreign Cultures: Travel Writing in French"
 }

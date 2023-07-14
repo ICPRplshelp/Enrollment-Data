@@ -72,13 +72,26 @@
 50,
 50,
 49,
-50
+50,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Tommaso, Pavone"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Tommaso",
+"Pavone"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -152,7 +165,8 @@
 19,
 18,
 18,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -237,7 +251,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Topics in Comparative Politics II"
 }

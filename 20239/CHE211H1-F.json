@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
 "capChanges": [
 [
@@ -15,6 +15,10 @@
 [
 1689016776,
 135
+],
+[
+1689378883,
+145
 ]
 ],
 "initialCap": 135
@@ -78,7 +82,8 @@
 134,
 135,
 135,
-137
+137,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -160,7 +165,8 @@
 1689184970,
 1689195878,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Fluid Mechanics"
 }

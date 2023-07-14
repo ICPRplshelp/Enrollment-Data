@@ -72,13 +72,26 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Michael, Dewar"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Michael",
+"Dewar"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Latin Verse Authors I"
 }

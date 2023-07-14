@@ -69,13 +69,26 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"David R, Anderson"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"David R",
+"Anderson"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Women and Gender Studies Practicum"
 }

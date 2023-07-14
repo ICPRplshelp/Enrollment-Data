@@ -72,13 +72,26 @@
 25,
 27,
 28,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Ephraim, Lytle"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Ephraim",
+"Lytle"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Introduction to Greek History"
 }

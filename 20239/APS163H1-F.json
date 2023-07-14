@@ -1,0 +1,43 @@
+{
+"code": "APS163H1-F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1689378882,
+"delivery": "SYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Shai, Cohen"
+],
+"timing": 1689378882
+}
+]
+},
+"instructors": [
+[
+"Shai",
+"Cohen"
+]
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1689378881,
+1689378882
+],
+"title": "Calculus for Engineers II"
+}

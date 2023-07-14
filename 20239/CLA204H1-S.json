@@ -72,13 +72,26 @@
 175,
 182,
 183,
-186
+186,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Naomi, Neufeld"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Naomi",
+"Neufeld"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -152,7 +165,8 @@
 0,
 0,
 0,
-61
+61,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +246,8 @@
 40,
 39,
 39,
-39
+39,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -305,7 +320,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Introduction to Classical Mythology"
 }

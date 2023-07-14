@@ -69,13 +69,26 @@
 17,
 17,
 17,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeri, English"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jeri",
+"English"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -146,13 +159,26 @@
 7,
 8,
 8,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Jeri, English"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Jeri",
+"English"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -223,13 +249,26 @@
 10,
 10,
 10,
-13
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maud, Pillet"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maud",
+"Pillet"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -293,7 +332,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Language Practice V"
 }

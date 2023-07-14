@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689378883,
+27
+]
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -72,7 +77,8 @@
 26,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +163,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Advanced Topics in Peace, Conflict and Justice"
 }

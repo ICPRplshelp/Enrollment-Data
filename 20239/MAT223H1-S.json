@@ -72,6 +72,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -164,6 +165,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -183,6 +185,7 @@
 "initialCap": 195
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -336,6 +339,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -348,13 +352,14 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "HYBR",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -508,6 +513,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -581,7 +587,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Linear Algebra I"
 }

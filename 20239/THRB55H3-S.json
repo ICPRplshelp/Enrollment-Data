@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1689195879,
 17
+],
+[
+1689378883,
+21
 ]
 ],
 "initialCap": 12
@@ -74,7 +78,8 @@
 12,
 12,
 12,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -156,7 +161,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Creating a Production: Actors in Action I"
 }

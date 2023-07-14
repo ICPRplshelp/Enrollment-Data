@@ -72,13 +72,26 @@
 23,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Drew, Davis"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Drew",
+"Davis"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Classical Spaces: Sites and Monuments"
 }

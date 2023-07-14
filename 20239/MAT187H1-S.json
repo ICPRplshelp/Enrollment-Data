@@ -78,7 +78,8 @@
 351,
 351,
 351,
-348
+348,
+347
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -94,12 +95,12 @@
 },
 "instructors": [
 [
-"Fabian Mario",
-"Parsch"
-],
-[
 "Geoffrey",
 "McGregor"
+],
+[
+"Fabian Mario",
+"Parsch"
 ]
 ],
 "isCancelled": false,
@@ -181,6 +182,7 @@
 346,
 345,
 345,
+343,
 343
 ],
 "instructorLog": {
@@ -192,17 +194,24 @@
 "Camelia, Karimian Pour"
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+"Camelia, Karimian Pour",
+"Shai, Cohen"
+],
+"timing": 1689378883
 }
 ]
 },
 "instructors": [
 [
-"Fabian Mario",
-"Parsch"
-],
-[
 "Camelia",
 "Karimian Pour"
+],
+[
+"Shai",
+"Cohen"
 ]
 ],
 "isCancelled": false,
@@ -284,13 +293,31 @@
 572,
 572,
 572,
-570
+570,
+569
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Camelia, Karimian Pour",
+"Andreas, Mandelis"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Camelia",
+"Karimian Pour"
+],
+[
+"Andreas",
+"Mandelis"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -354,7 +381,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Calculus II"
 }

@@ -69,13 +69,26 @@
 32,
 32,
 32,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Safieh, Moghaddam"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Safieh",
+"Moghaddam"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Advanced Sociolinguistic Theory and Method"
 }

@@ -72,6 +72,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -164,13 +165,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Sara, Verskin"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Sara",
+"Verskin"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -237,7 +251,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Advanced Topics in Near and Middle Eastern Civilizations"
 }

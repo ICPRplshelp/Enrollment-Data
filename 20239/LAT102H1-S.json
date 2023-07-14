@@ -72,6 +72,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -152,13 +153,26 @@
 4,
 4,
 4,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Donald, McCarthy"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Donald",
+"McCarthy"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -232,13 +246,26 @@
 3,
 3,
 3,
-3
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Adriana, Brook"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Adriana",
+"Brook"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -305,7 +332,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Introductory Latin II"
 }

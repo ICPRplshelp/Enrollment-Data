@@ -69,6 +69,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -79,13 +80,19 @@
 "RAFAEL, GROHMANN (NOUTORID)"
 ],
 "timing": 1687464881
+},
+{
+"instructorsAfter": [
+"Rafael, Do Nascimento Grohmann"
+],
+"timing": 1689378883
 }
 ]
 },
 "instructors": [
 [
-"RAFAEL",
-"GROHMANN (NOUTORID)"
+"Rafael",
+"Do Nascimento Grohmann"
 ]
 ],
 "isCancelled": false,
@@ -151,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Senior Seminar: Topics in Media and Society"
 }

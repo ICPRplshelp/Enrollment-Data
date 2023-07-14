@@ -72,13 +72,26 @@
 41,
 43,
 44,
+44,
 44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Georgia, Ferentinou"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Georgia",
+"Ferentinou"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -145,7 +158,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Women in Antiquity"
 }

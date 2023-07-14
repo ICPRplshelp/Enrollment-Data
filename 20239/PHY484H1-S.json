@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689378883,
+24
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -70,6 +75,7 @@
 22,
 22,
 22,
+24,
 24,
 24,
 24
@@ -164,6 +170,7 @@
 6,
 6,
 6,
+7,
 7
 ],
 "instructorLog": {
@@ -249,7 +256,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Relativity Theory II"
 }

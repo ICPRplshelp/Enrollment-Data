@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 141,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689378883,
+151
+]
+],
 "initialCap": 141
 },
 "enrollmentLogs": [
@@ -69,6 +74,7 @@
 140,
 140,
 140,
+142,
 142
 ],
 "instructorLog": {
@@ -151,7 +157,8 @@
 1689184970,
 1689195878,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Process Control"
 }

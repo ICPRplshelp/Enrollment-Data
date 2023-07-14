@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 204,
+"enrollmentCap": 280,
 "enrollmentCapComplex": {
 "capChanges": [
 [
 1688577945,
 204
+],
+[
+1689378883,
+280
 ]
 ],
 "initialCap": 215
@@ -74,7 +78,8 @@
 213,
 213,
 213,
-264
+264,
+272
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,13 +168,26 @@
 0,
 0,
 0,
-0
+0,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"MaryElizabeth, Luka"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"MaryElizabeth",
+"Luka"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -233,7 +251,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Introduction to Arts and Media Management"
 }

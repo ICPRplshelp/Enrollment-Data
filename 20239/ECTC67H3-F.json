@@ -69,13 +69,26 @@
 12,
 12,
 12,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Christopher Neil, Payne"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Christopher Neil",
+"Payne"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -139,7 +152,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Special Topics in Translation"
 }

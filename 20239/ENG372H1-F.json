@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689378883,
+0
+]
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -72,7 +77,8 @@
 23,
 23,
 23,
-23
+23,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -91,7 +97,7 @@
 "Salih"
 ]
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -157,7 +163,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Topics in Indigenous, Postcolonial, Transnational Literatures"
 }

@@ -69,13 +69,26 @@
 26,
 26,
 26,
-29
+29,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Maud, Pillet"
+],
+"timing": 1689378883
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Maud",
+"Pillet"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -146,6 +159,7 @@
 25,
 26,
 26,
+31,
 31
 ],
 "instructorLog": {
@@ -223,6 +237,7 @@
 20,
 20,
 20,
+27,
 27
 ],
 "instructorLog": {
@@ -242,6 +257,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -370,7 +386,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Language Practice I"
 }

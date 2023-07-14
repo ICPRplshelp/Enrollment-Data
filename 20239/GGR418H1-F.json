@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689378883,
+26
+]
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -66,6 +71,7 @@
 16,
 16,
 16,
+18,
 18,
 18,
 18,
@@ -157,7 +163,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Geographies of Extraction"
 }

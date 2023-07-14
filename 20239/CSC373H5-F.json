@@ -69,7 +69,8 @@
 121,
 121,
 121,
-128
+128,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -158,7 +159,8 @@
 129,
 129,
 129,
-136
+136,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -179,6 +181,96 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1689378883,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Mohammad, Mahmoud"
+],
+"timing": 1689378883
+}
+]
+},
+"instructors": [
+[
+"Mohammad",
+"Mahmoud"
+]
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
 }
 ],
 "timeIntervals": [
@@ -240,7 +332,8 @@
 1689184970,
 1689195879,
 1689216730,
-1689265858
+1689265858,
+1689378883
 ],
 "title": "Algorithm Design and Analysis"
 }
