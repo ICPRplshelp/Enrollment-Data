@@ -77,13 +77,26 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Scott, McKnight"
+],
+"timing": 1689600874
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Scott",
+"McKnight"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -155,7 +168,8 @@
 1689446653,
 1689539372,
 1689599481,
-1689600093
+1689600093,
+1689600874
 ],
 "title": "Global Innovation II: Challenges and Solutions"
 }
