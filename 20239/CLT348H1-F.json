@@ -83,6 +83,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -93,13 +94,19 @@
 "Pa, Sheehan"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Mark, McGowan"
+],
+"timing": 1689624009
 }
 ]
 },
 "instructors": [
 [
-"Pa",
-"Sheehan"
+"Mark",
+"McGowan"
 ]
 ],
 "isCancelled": false,
@@ -179,7 +186,8 @@
 1689603563,
 1689605190,
 1689608078,
-1689610287
+1689610287,
+1689624009
 ],
 "title": "Early Modern Ireland"
 }

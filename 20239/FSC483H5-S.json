@@ -80,6 +80,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -139,6 +140,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -280,6 +282,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -290,13 +293,19 @@
 "Shelby, Scott"
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+"Eugene, Liscio"
+],
+"timing": 1689624009
 }
 ]
 },
 "instructors": [
 [
-"Shelby",
-"Scott"
+"Eugene",
+"Liscio"
 ]
 ],
 "isCancelled": false,
@@ -340,6 +349,7 @@
 6,
 6,
 6,
+7,
 7,
 7,
 7,
@@ -485,6 +495,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -578,7 +589,8 @@
 1689603563,
 1689605190,
 1689608078,
-1689610287
+1689610287,
+1689624009
 ],
 "title": "Collaborative Research Internship"
 }

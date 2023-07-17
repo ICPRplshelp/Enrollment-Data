@@ -89,6 +89,7 @@
 248,
 248,
 248,
+248,
 248
 ],
 "instructorLog": {
@@ -99,6 +100,13 @@
 "Sanjeev, Chandra"
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+"Sanjeev, Chandra",
+"Arthur, Chan"
+],
+"timing": 1689624009
 }
 ]
 },
@@ -106,6 +114,10 @@
 [
 "Sanjeev",
 "Chandra"
+],
+[
+"Arthur",
+"Chan"
 ]
 ],
 "isCancelled": false,
@@ -182,7 +194,8 @@
 1689603563,
 1689605190,
 1689608078,
-1689610287
+1689610287,
+1689624009
 ],
 "title": "Thermodynamics and Heat Transfer"
 }
