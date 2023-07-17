@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+[
+1689610287,
+22
+]
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -55,6 +60,7 @@
 21,
 21,
 21,
+22,
 22,
 22,
 22,
@@ -171,7 +177,8 @@
 1689601481,
 1689603563,
 1689605190,
-1689608078
+1689608078,
+1689610287
 ],
 "title": "Surveillance, Censorship, and Press Freedom"
 }
