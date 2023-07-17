@@ -72,13 +72,26 @@
 23,
 25,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+"Dylan, Clark"
+],
+"timing": 1689599481
+}
+]
 },
-"instructors": [],
+"instructors": [
+[
+"Dylan",
+"Clark"
+]
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +158,8 @@
 1689265858,
 1689378882,
 1689446653,
-1689539371
+1689539371,
+1689599481
 ],
 "title": "Protest, Power and Authority: Topics in Political Anthropology"
 }
