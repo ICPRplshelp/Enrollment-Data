@@ -85,13 +85,29 @@
 51,
 52,
 53,
-53
+53,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+}
+],
+"timing": 1689714369
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Introduction to Physiologic Adaptations of Marine Mammals"
 }

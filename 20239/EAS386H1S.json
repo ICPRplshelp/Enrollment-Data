@@ -85,13 +85,29 @@
 57,
 58,
 59,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yue",
+"lastName": "Meng"
+}
+],
+"timing": 1689714369
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yue",
+"lastName": "Meng"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Culture of Nature in China"
 }

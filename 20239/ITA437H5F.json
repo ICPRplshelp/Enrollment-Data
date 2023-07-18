@@ -82,13 +82,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paola",
+"lastName": "Bernardini"
+}
+],
+"timing": 1689714369
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paola",
+"lastName": "Bernardini"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -165,7 +181,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "History of the Italian Language (Medieval Period to the 1700s)"
 }

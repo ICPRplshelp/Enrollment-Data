@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1689714369
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -85,7 +90,8 @@
 1,
 1,
 1,
-1
+1,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -107,7 +113,7 @@
 "lastName": "Nizri"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -186,7 +192,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Advanced Modern Hebrew II"
 }

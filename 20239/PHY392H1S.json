@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1689714369
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -85,7 +90,8 @@
 17,
 17,
 17,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,9 +119,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 5,
+"time": 1689714369
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
@@ -193,7 +204,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -294,7 +306,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Physics of Climate"
 }

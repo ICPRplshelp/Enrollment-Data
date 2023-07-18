@@ -87,13 +87,29 @@
 26,
 26,
 26,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Philip Joseph",
+"lastName": "Heron"
+}
+],
+"timing": 1689714369
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Philip Joseph",
+"lastName": "Heron"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -170,7 +186,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Geological Evolution and Environmental History of North America"
 }

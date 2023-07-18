@@ -82,6 +82,7 @@
 44,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -95,13 +96,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Romkey"
+}
+],
+"timing": 1689714369
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Emily",
-"lastName": "Moore"
+"firstName": "Lisa",
+"lastName": "Romkey"
 }
 ],
 "isCancelled": false,
@@ -180,7 +190,8 @@
 1689608078,
 1689610287,
 1689624010,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "System Mapping"
 }

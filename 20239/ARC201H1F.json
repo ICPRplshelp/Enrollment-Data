@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1689714369
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -67,7 +72,8 @@
 55,
 56,
 60,
-60
+60,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,7 +141,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Design Studio II: How to design almost nothing"
 }

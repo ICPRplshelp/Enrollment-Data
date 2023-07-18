@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1689714369
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -85,7 +90,8 @@
 105,
 106,
 105,
-106
+106,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -186,7 +192,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "A History of Sushi"
 }

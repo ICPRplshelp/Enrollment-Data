@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 31,
+"time": 1689714369
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -82,6 +87,7 @@
 30,
 30,
 30,
+31,
 31
 ],
 "instructorLog": {
@@ -180,7 +186,8 @@
 1689608078,
 1689610287,
 1689624009,
-1689640777
+1689640777,
+1689714369
 ],
 "title": "Neural Bioelectricity"
 }
