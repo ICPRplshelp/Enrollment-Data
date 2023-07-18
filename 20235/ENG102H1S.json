@@ -1,0 +1,45 @@
+{
+"code": "ENG102H1S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1676673420,
+"delivery": "SYNC",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1676673419,
+1676673420,
+1676748606,
+1676834139,
+1676922978,
+1677180788,
+1677276877,
+1677355942,
+1677441471
+],
+"title": "Literature and the Sciences"
+}

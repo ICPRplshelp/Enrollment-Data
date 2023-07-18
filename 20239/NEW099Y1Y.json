@@ -1,0 +1,87 @@
+{
+"code": "NEW099Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1689378883,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1689378883,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1689378882,
+1689378883,
+1689446653,
+1689539372,
+1689599481,
+1689600093,
+1689600874,
+1689601481,
+1689603563,
+1689605190,
+1689608078,
+1689610287,
+1689624009,
+1689640777
+],
+"title": "First-Year Learning Community"
+}

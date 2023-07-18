@@ -1,0 +1,48 @@
+{
+"code": "SOC493H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1689624010,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jerry",
+"lastName": "Flores"
+}
+],
+"timing": 1689640777
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jerry",
+"lastName": "Flores"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1689624009,
+1689624010,
+1689640777
+],
+"title": "Independent Research in Criminology, Law and Society"
+}

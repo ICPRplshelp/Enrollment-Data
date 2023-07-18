@@ -1,0 +1,463 @@
+{
+"code": "APS112H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 468,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 9999,
+"time": 1687893242
+},
+{
+"newCapacity": 468,
+"time": 1689016776
+}
+],
+"initialCap": 468
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+352,
+351,
+351,
+351,
+351,
+351,
+351,
+346,
+346,
+352,
+352,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+351,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+350,
+347,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346,
+346
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 468,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 9999,
+"time": 1687893242
+},
+{
+"newCapacity": 468,
+"time": 1689016776
+}
+],
+"initialCap": 468
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+353,
+353,
+353,
+353,
+353,
+353,
+352,
+350,
+350,
+351,
+351,
+351,
+351,
+351,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+347,
+346,
+346,
+346,
+345,
+345,
+345,
+345,
+345,
+345,
+345,
+345,
+345,
+344,
+344,
+344,
+344,
+344
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1686549019,
+"delivery": "INPER",
+"enrollmentCap": 572,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 9999,
+"time": 1687893242
+},
+{
+"newCapacity": 572,
+"time": 1689016776
+}
+],
+"initialCap": 468
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+579,
+578,
+578,
+578,
+578,
+578,
+578,
+573,
+573,
+575,
+574,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+572,
+570,
+569,
+569,
+569,
+568,
+568,
+568,
+568,
+568,
+566,
+566,
+566,
+566,
+566
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1686549019
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1686549018,
+1686549019,
+1686598375,
+1686620482,
+1686649586,
+1686685174,
+1686740320,
+1686875065,
+1686936373,
+1686954930,
+1687033064,
+1687106065,
+1687194411,
+1687305253,
+1687373733,
+1687464880,
+1687561168,
+1687635229,
+1687720409,
+1687804745,
+1687893242,
+1687979256,
+1688059451,
+1688149610,
+1688234940,
+1688318474,
+1688412976,
+1688493602,
+1688577945,
+1688672198,
+1688752277,
+1688850239,
+1688852343,
+1688930910,
+1689012606,
+1689016776,
+1689019466,
+1689025891,
+1689028160,
+1689031840,
+1689035417,
+1689039264,
+1689051122,
+1689076825,
+1689105742,
+1689119738,
+1689137582,
+1689165300,
+1689167281,
+1689169085,
+1689170814,
+1689172192,
+1689173502,
+1689176151,
+1689181381,
+1689184970,
+1689195878,
+1689216730,
+1689265858,
+1689378882,
+1689446653,
+1689539371,
+1689599481,
+1689600093,
+1689600874,
+1689601481,
+1689603563,
+1689605189,
+1689608078,
+1689610287,
+1689624009,
+1689640777
+],
+"title": "Engineering Strategies & Practice II"
+}
