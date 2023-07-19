@@ -69,13 +69,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Behnaz",
+"lastName": "Assadi"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Behnaz",
+"lastName": "Assadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -139,7 +155,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Landscape Architecture Studio III"
 }

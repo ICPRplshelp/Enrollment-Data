@@ -1,0 +1,46 @@
+{
+"code": "AFSD20H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1689787734,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zubairu",
+"lastName": "Wai"
+}
+],
+"timing": 1689787734
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zubairu",
+"lastName": "Wai"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1689787733,
+1689787734
+],
+"title": "Thinking Conflict, Security, and Development"
+}

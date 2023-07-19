@@ -69,13 +69,29 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Yablonina"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Yablonina"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -146,13 +162,29 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Hoban"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Hoban"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -216,7 +248,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Technology Studio III"
 }

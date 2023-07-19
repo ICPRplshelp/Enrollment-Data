@@ -69,13 +69,29 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oliver",
+"lastName": "Husain"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oliver",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -146,13 +162,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oliver",
+"lastName": "Husain"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oliver",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -216,7 +248,8 @@
 1689624010,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "The Moving Image"
 }

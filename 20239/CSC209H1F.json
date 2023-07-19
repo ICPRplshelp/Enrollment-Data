@@ -92,13 +92,29 @@
 153,
 153,
 154,
+154,
 154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Demetres",
+"lastName": "Kostas"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Demetres",
+"lastName": "Kostas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -180,7 +196,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Software Tools and Systems Programming"
 }

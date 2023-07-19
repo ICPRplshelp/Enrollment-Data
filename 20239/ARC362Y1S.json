@@ -69,13 +69,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mauricio",
+"lastName": "Quiros Pacheco"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mauricio",
+"lastName": "Quiros Pacheco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -146,13 +162,29 @@
 13,
 13,
 13,
-13
+13,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jon",
+"lastName": "Cummings"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jon",
+"lastName": "Cummings"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -223,13 +255,29 @@
 10,
 10,
 10,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chloe",
+"lastName": "Town"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chloe",
+"lastName": "Town"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -293,7 +341,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Architecture Studio IV"
 }

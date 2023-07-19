@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 185,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 185,
+"time": 1689787734
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -115,9 +121,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 185,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 185,
+"time": 1689787734
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -197,7 +208,8 @@
 0,
 0,
 68,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -300,7 +312,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Foundations of Computer Science II"
 }

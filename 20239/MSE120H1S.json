@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 71,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 71,
 "time": 1689019466
+},
+{
+"newCapacity": 80,
+"time": 1689787734
 }
 ],
 "initialCap": 60
@@ -79,6 +83,7 @@
 70,
 70,
 70,
+71,
 71,
 71,
 71,
@@ -193,7 +198,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Materials Engineering, Processing, and Application"
 }

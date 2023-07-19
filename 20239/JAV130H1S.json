@@ -69,13 +69,29 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jenine",
+"lastName": "Marsh"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jenine",
+"lastName": "Marsh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -146,13 +162,29 @@
 22,
 22,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -223,13 +255,29 @@
 23,
 24,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 },
@@ -299,6 +347,7 @@
 22,
 22,
 22,
+21,
 21,
 21
 ],
@@ -377,6 +426,7 @@
 23,
 23,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -453,6 +503,7 @@
 21,
 22,
 22,
+23,
 23,
 23
 ],
@@ -531,13 +582,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0107"
 },
@@ -605,6 +672,7 @@
 20,
 20,
 20,
+19,
 19,
 19,
 19,
@@ -685,6 +753,7 @@
 23,
 23,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -710,6 +779,7 @@
 0,
 0,
 0,
+21,
 21,
 21,
 21,
@@ -839,13 +909,29 @@
 22,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0111"
 },
@@ -916,13 +1002,29 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christophe",
+"lastName": "Barbeau"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christophe",
+"lastName": "Barbeau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0112"
 },
@@ -993,13 +1095,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vanessa",
+"lastName": "Godden"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vanessa",
+"lastName": "Godden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0113"
 }
@@ -1063,7 +1181,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Visual Strategies"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 151,
+"enrollmentCap": 143,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 151,
 "time": 1689378883
+},
+{
+"newCapacity": 143,
+"time": 1689787734
 }
 ],
 "initialCap": 141
@@ -86,6 +90,7 @@
 142,
 142,
 142,
+143,
 143,
 143,
 143,
@@ -189,7 +194,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Process Control"
 }

@@ -87,6 +87,7 @@
 72,
 72,
 73,
+73,
 73
 ],
 "instructorLog": {
@@ -100,13 +101,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Chan"
+}
+],
+"timing": 1689787734
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Patricia",
-"lastName": "Sanchez"
+"firstName": "Jennifer",
+"lastName": "Chan"
 }
 ],
 "isCancelled": false,
@@ -197,7 +207,8 @@
 100,
 100,
 100,
-100
+100,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -300,7 +311,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Health Psychology"
 }

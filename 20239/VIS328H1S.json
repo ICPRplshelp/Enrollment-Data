@@ -69,13 +69,29 @@
 34,
 34,
 36,
+36,
 36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charles",
+"lastName": "Stankievech"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charles",
+"lastName": "Stankievech"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +155,8 @@
 1689624010,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Publishing Platforms"
 }

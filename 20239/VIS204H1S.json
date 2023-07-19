@@ -69,13 +69,29 @@
 11,
 11,
 12,
-12
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jenine",
+"lastName": "Marsh"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jenine",
+"lastName": "Marsh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -146,13 +162,29 @@
 7,
 7,
 7,
-7
+7,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Gilligan"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melanie",
+"lastName": "Gilligan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -216,7 +248,8 @@
 1689624010,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Installation Art"
 }

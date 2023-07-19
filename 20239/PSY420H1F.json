@@ -87,6 +87,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -197,13 +198,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francine Winifred",
+"lastName": "Karmali"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francine Winifred",
+"lastName": "Karmali"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -285,7 +302,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Social Psychology Seminar"
 }

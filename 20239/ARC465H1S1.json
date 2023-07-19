@@ -69,13 +69,29 @@
 54,
 54,
 54,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Reza",
+"lastName": "Moghaddamnik"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Reza",
+"lastName": "Moghaddamnik"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -139,7 +155,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Advanced Topics in Architecture"
 }

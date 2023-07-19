@@ -74,13 +74,29 @@
 30,
 30,
 29,
+29,
 29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Roberto",
+"lastName": "Damiani"
+}
+],
+"timing": 1689787734
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Roberto",
+"lastName": "Damiani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -144,7 +160,8 @@
 1689624009,
 1689640777,
 1689714369,
-1689725930
+1689725930,
+1689787734
 ],
 "title": "Drawing and Representation II"
 }
