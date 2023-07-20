@@ -85,13 +85,29 @@
 54,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jacob",
+"lastName": "Hirsh"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jacob",
+"lastName": "Hirsh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Principles of Human Resource Management"
 }

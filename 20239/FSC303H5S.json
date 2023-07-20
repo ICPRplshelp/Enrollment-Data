@@ -85,13 +85,29 @@
 76,
 76,
 76,
-76
+76,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Piekny"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Piekny"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Techniques of Crime Scene Investigation"
 }

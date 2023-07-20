@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rick",
+"lastName": "Halpern"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rick",
+"lastName": "Halpern"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1689787733,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Topics in American Studies"
 }

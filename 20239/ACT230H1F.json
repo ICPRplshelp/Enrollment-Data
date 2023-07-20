@@ -88,13 +88,29 @@
 74,
 75,
 75,
-74
+74,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hassan",
+"lastName": "Abdelrahman"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hassan",
+"lastName": "Abdelrahman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -177,7 +193,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Mathematics of Finance for Non-Actuaries"
 }

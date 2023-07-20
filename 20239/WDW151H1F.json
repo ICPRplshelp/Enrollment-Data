@@ -88,7 +88,8 @@
 0,
 0,
 0,
-0
+0,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +200,8 @@
 0,
 0,
 0,
-0
+0,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -310,13 +312,29 @@
 0,
 0,
 0,
-0
+0,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ralph",
+"lastName": "Callebert"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ralph",
+"lastName": "Callebert"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -329,6 +347,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -510,7 +529,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Order and Disorder I: Issues and Perspectives"
 }

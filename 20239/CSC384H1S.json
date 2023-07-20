@@ -88,6 +88,7 @@
 87,
 87,
 87,
+88,
 88
 ],
 "instructorLog": {
@@ -199,6 +200,7 @@
 102,
 103,
 103,
+102,
 102
 ],
 "instructorLog": {
@@ -227,9 +229,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 106,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 106,
+"time": 1689866098
+}
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -310,7 +317,8 @@
 87,
 87,
 87,
-87
+87,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,6 +429,7 @@
 66,
 67,
 67,
+66,
 66
 ],
 "instructorLog": {
@@ -532,6 +541,7 @@
 61,
 61,
 61,
+60,
 60
 ],
 "instructorLog": {
@@ -560,9 +570,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1689866098
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -643,7 +658,8 @@
 63,
 64,
 64,
-63
+63,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -671,9 +687,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1689866098
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -754,7 +775,8 @@
 63,
 60,
 61,
-59
+59,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -879,7 +901,8 @@
 36,
 36,
 36,
-37
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -992,7 +1015,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Introduction to Artificial Intelligence"
 }

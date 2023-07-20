@@ -88,7 +88,8 @@
 1,
 1,
 1,
-1
+1,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +200,8 @@
 3,
 4,
 4,
-4
+4,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -310,7 +312,8 @@
 4,
 4,
 4,
-4
+4,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,7 +424,8 @@
 4,
 6,
 6,
-6
+6,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -532,7 +536,8 @@
 4,
 3,
 3,
-3
+3,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -560,9 +565,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 69,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 69,
+"time": 1689866098
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -643,7 +653,8 @@
 4,
 4,
 4,
-4
+4,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -747,7 +758,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Principles of Marketing"
 }

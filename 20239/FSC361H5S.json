@@ -85,13 +85,29 @@
 35,
 35,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Craig",
+"lastName": "Fraser"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Craig",
+"lastName": "Fraser"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Mental Illness and the Criminal Justice System"
 }

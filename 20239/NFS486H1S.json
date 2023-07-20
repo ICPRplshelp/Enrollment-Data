@@ -88,13 +88,29 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matilda",
+"lastName": "Laar"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matilda",
+"lastName": "Laar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -177,7 +193,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Obesity: Metabolic and Clinical Aspects"
 }

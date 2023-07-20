@@ -94,13 +94,29 @@
 178,
 178,
 178,
+178,
 178
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -181,6 +197,7 @@
 158,
 158,
 158,
+157,
 157,
 157,
 157,
@@ -322,13 +339,29 @@
 149,
 149,
 149,
+149,
 149
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -424,13 +457,29 @@
 174,
 174,
 174,
+174,
 174
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -524,6 +573,7 @@
 162,
 162,
 162,
+163,
 163,
 163,
 163
@@ -643,13 +693,29 @@
 145,
 145,
 145,
+145,
 145
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alvin",
+"lastName": "Sukmadji"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alvin",
+"lastName": "Sukmadji"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -745,13 +811,29 @@
 148,
 148,
 148,
+148,
 148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -847,13 +929,29 @@
 141,
 140,
 140,
+140,
 140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Morgan"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Morgan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 }
@@ -933,7 +1031,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Calculus I"
 }

@@ -94,6 +94,7 @@
 347,
 346,
 346,
+346,
 346
 ],
 "instructorLog": {
@@ -111,6 +112,15 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"timing": 1689866098
 }
 ]
 },
@@ -118,10 +128,6 @@
 {
 "firstName": "Geoffrey",
 "lastName": "McGregor"
-},
-{
-"firstName": "Fabian Mario",
-"lastName": "Parsch"
 }
 ],
 "isCancelled": false,
@@ -217,6 +223,7 @@
 342,
 342,
 342,
+343,
 343,
 343,
 343
@@ -357,6 +364,7 @@
 567,
 566,
 566,
+566,
 566
 ],
 "instructorLog": {
@@ -466,7 +474,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Calculus II"
 }

@@ -88,13 +88,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cheryl",
+"lastName": "Shook"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cheryl",
+"lastName": "Shook"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -177,7 +193,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Introduction to Academic Studies"
 }

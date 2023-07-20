@@ -88,7 +88,8 @@
 79,
 81,
 81,
-81
+81,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,13 +200,29 @@
 41,
 42,
 42,
-43
+43,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohi",
+"lastName": "Reza"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohi",
+"lastName": "Reza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -295,7 +312,8 @@
 27,
 27,
 27,
-26
+26,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,7 +409,8 @@
 38,
 41,
 41,
-42
+42,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -502,7 +521,8 @@
 32,
 33,
 33,
-34
+34,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -613,7 +633,8 @@
 9,
 8,
 8,
-8
+8,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -724,13 +745,29 @@
 48,
 48,
 48,
-48
+48,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -820,7 +857,8 @@
 25,
 26,
 26,
-27
+27,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -931,13 +969,29 @@
 30,
 30,
 30,
-32
+32,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0801"
 },
@@ -1027,7 +1081,8 @@
 167,
 167,
 167,
-168
+168,
+224
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1131,7 +1186,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Introduction to Computer Programming"
 }

@@ -88,13 +88,29 @@
 95,
 103,
 103,
-103
+103,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jan",
+"lastName": "Doering"
+}
+],
+"timing": 1689866098
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jan",
+"lastName": "Doering"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -184,7 +200,8 @@
 111,
 114,
 114,
-115
+115,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -288,7 +305,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Introduction to Qualitative Methods in Sociology"
 }

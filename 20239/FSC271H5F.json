@@ -85,6 +85,7 @@
 47,
 47,
 47,
+47,
 47
 ],
 "instructorLog": {
@@ -98,6 +99,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Woodall"
+},
+{
+"firstName": "Murray",
+"lastName": "Clayton"
+}
+],
+"timing": 1689866098
 }
 ]
 },
@@ -105,6 +119,10 @@
 {
 "firstName": "Karen",
 "lastName": "Woodall"
+},
+{
+"firstName": "Murray",
+"lastName": "Clayton"
 }
 ],
 "isCancelled": false,
@@ -186,7 +204,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Ethics and Professionalism in Forensic Science"
 }

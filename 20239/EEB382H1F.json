@@ -88,6 +88,7 @@
 63,
 63,
 64,
+63,
 63
 ],
 "instructorLog": {
@@ -101,6 +102,19 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan Keller",
+"lastName": "Lujan"
+},
+{
+"firstName": "Dominik",
+"lastName": "Halas"
+}
+],
+"timing": 1689866098
 }
 ]
 },
@@ -108,6 +122,10 @@
 {
 "firstName": "Nathan Keller",
 "lastName": "Lujan"
+},
+{
+"firstName": "Dominik",
+"lastName": "Halas"
 }
 ],
 "isCancelled": false,
@@ -192,7 +210,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Diversity of Fishes"
 }

@@ -88,7 +88,8 @@
 173,
 174,
 174,
-174
+174,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -116,9 +117,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 188,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 188,
+"time": 1689866098
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -199,7 +205,8 @@
 204,
 204,
 204,
-203
+203,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -303,7 +310,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Operating Systems"
 }

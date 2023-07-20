@@ -88,13 +88,37 @@
 8,
 9,
 9,
-9
+9,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Coache"
 },
-"instructors": [],
+{
+"firstName": "Emma",
+"lastName": "Kroell"
+}
+],
+"timing": 1689866098
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Coache"
+},
+{
+"firstName": "Emma",
+"lastName": "Kroell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -189,13 +213,37 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Coache"
 },
-"instructors": [],
+{
+"firstName": "Emma",
+"lastName": "Kroell"
+}
+],
+"timing": 1689866098
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Coache"
+},
+{
+"firstName": "Emma",
+"lastName": "Kroell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -278,7 +326,8 @@
 1689640777,
 1689714369,
 1689725930,
-1689787734
+1689787734,
+1689866098
 ],
 "title": "Stochastic Methods for Actuarial Science and Finance"
 }
