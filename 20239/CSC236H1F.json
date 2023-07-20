@@ -95,6 +95,7 @@
 157,
 157,
 154,
+154,
 154
 ],
 "instructorLog": {
@@ -212,6 +213,7 @@
 98,
 98,
 98,
+102,
 102,
 102
 ],
@@ -331,6 +333,7 @@
 161,
 161,
 162,
+162,
 162
 ],
 "instructorLog": {
@@ -445,6 +448,7 @@
 45,
 65,
 64,
+68,
 68,
 68,
 68,
@@ -567,13 +571,29 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ziyang",
+"lastName": "Jin"
+}
+],
+"timing": 1689873025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ziyang",
+"lastName": "Jin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -658,7 +678,8 @@
 1689725930,
 1689787734,
 1689866098,
-1689869211
+1689869211,
+1689873025
 ],
 "title": "Introduction to the Theory of Computation"
 }

@@ -90,7 +90,8 @@
 81,
 81,
 193,
-204
+204,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -203,7 +204,8 @@
 42,
 43,
 104,
-131
+131,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -316,13 +318,29 @@
 27,
 26,
 59,
-71
+71,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
+"timing": 1689873025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -414,7 +432,8 @@
 41,
 42,
 120,
-160
+160,
+223
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,7 +546,8 @@
 33,
 34,
 108,
-155
+155,
+244
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -640,7 +660,8 @@
 8,
 8,
 34,
-61
+61,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -753,7 +774,8 @@
 48,
 48,
 99,
-113
+113,
+192
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -866,7 +888,8 @@
 26,
 27,
 67,
-84
+84,
+194
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -979,7 +1002,8 @@
 30,
 32,
 72,
-86
+86,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1092,7 +1116,8 @@
 167,
 168,
 224,
-236
+236,
+259
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1198,7 +1223,8 @@
 1689725930,
 1689787734,
 1689866098,
-1689869211
+1689869211,
+1689873025
 ],
 "title": "Introduction to Computer Programming"
 }

@@ -96,6 +96,7 @@
 188,
 188,
 188,
+188,
 188
 ],
 "instructorLog": {
@@ -124,7 +125,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -134,6 +135,10 @@
 {
 "newCapacity": 160,
 "time": 1689016776
+},
+{
+"newCapacity": 161,
+"time": 1689873025
 }
 ],
 "initialCap": 133
@@ -215,7 +220,8 @@
 158,
 158,
 158,
-158
+158,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -317,6 +323,7 @@
 117,
 117,
 117,
+116,
 116,
 116,
 116,
@@ -453,6 +460,7 @@
 138,
 138,
 138,
+138,
 138
 ],
 "instructorLog": {
@@ -563,6 +571,7 @@
 164,
 164,
 164,
+163,
 163,
 163,
 163,
@@ -691,6 +700,7 @@
 150,
 150,
 150,
+150,
 150
 ],
 "instructorLog": {
@@ -794,7 +804,8 @@
 1689725930,
 1689787734,
 1689866098,
-1689869211
+1689869211,
+1689873025
 ],
 "title": "Electrical Fundamentals"
 }
