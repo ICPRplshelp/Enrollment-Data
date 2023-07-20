@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1689888019
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -91,7 +96,8 @@
 5,
 6,
 6,
-6
+6,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,7 +119,7 @@
 "lastName": "Aidid"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -198,7 +204,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Anticolonialism, Radicalism and Revolutions in Africa"
 }

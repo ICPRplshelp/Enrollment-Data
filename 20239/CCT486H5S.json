@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1689888019
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -41,6 +46,7 @@
 11,
 12,
 17,
+18,
 18,
 18,
 18,
@@ -177,7 +183,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Digital Platforms: A Global Perspective"
 }

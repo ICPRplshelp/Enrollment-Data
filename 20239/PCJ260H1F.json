@@ -91,13 +91,29 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dario",
+"lastName": "Toman"
+}
+],
+"timing": 1689888019
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dario",
+"lastName": "Toman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -183,7 +199,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Introduction to Peace, Conflict and Justice I"
 }

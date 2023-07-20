@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1689888019
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -73,6 +78,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -198,7 +204,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "History of the Chinese Book"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1689888019
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -89,6 +94,7 @@
 102,
 102,
 102,
+101,
 101,
 101,
 101
@@ -198,7 +204,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Research and Data Analytics"
 }

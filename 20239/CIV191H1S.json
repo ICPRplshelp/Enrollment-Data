@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 150,
 "time": 1689016776
+},
+{
+"newCapacity": 151,
+"time": 1689888019
 }
 ],
 "initialCap": 100
@@ -97,7 +101,8 @@
 149,
 149,
 149,
-149
+149,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -201,7 +206,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Introduction to Civil Engineering"
 }

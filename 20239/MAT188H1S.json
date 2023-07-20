@@ -97,6 +97,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -110,13 +111,22 @@
 }
 ],
 "timing": 1689378883
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1689888019
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Shai",
-"lastName": "Cohen"
+"firstName": "Sean",
+"lastName": "Uppal"
 }
 ],
 "isCancelled": false,
@@ -201,7 +211,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Linear Algebra"
 }

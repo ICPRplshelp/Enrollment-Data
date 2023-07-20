@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 178,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 175,
 "time": 1689016776
+},
+{
+"newCapacity": 178,
+"time": 1689888019
 }
 ],
 "initialCap": 145
@@ -97,7 +101,8 @@
 173,
 173,
 173,
-173
+173,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -201,7 +206,8 @@
 1689787734,
 1689866098,
 1689869211,
-1689873025
+1689873025,
+1689888019
 ],
 "title": "Concepts in Chemical Engineering"
 }

@@ -227,13 +227,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "MacNeil"
+}
+],
+"timing": 1689887979
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "MacNeil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -455,7 +471,8 @@
 1689787692,
 1689866050,
 1689869167,
-1689872983
+1689872983,
+1689887979
 ],
 "title": "Contemporary Printing"
 }
