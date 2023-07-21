@@ -90,13 +90,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -181,7 +197,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Writings on Love and Sex (Medieval to Early Italian Renaissance)"
 }

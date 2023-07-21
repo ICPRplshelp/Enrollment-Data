@@ -99,6 +99,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -127,7 +128,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -137,6 +138,10 @@
 {
 "newCapacity": 140,
 "time": 1689019466
+},
+{
+"newCapacity": 133,
+"time": 1689957270
 }
 ],
 "initialCap": 140
@@ -219,6 +224,7 @@
 126,
 125,
 125,
+124,
 124,
 124,
 124
@@ -327,7 +333,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Engineering Economics and Accounting"
 }

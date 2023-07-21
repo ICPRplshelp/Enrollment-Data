@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 169,
+"enrollmentCap": 171,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 169,
 "time": 1689016776
+},
+{
+"newCapacity": 171,
+"time": 1689957270
 }
 ],
 "initialCap": 150
@@ -99,7 +103,8 @@
 168,
 168,
 168,
-168
+168,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,7 +132,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 164,
+"enrollmentCap": 167,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -137,6 +142,10 @@
 {
 "newCapacity": 164,
 "time": 1689016776
+},
+{
+"newCapacity": 167,
+"time": 1689957270
 }
 ],
 "initialCap": 150
@@ -221,7 +230,8 @@
 164,
 164,
 164,
-164
+164,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,7 +337,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Engineering Mathematics and Computation"
 }

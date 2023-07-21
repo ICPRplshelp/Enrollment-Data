@@ -90,13 +90,29 @@
 303,
 303,
 301,
-302
+302,
+300
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -188,13 +204,29 @@
 284,
 283,
 289,
-290
+290,
+299
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -286,13 +318,29 @@
 299,
 299,
 301,
-301
+301,
+302
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -384,13 +432,29 @@
 300,
 300,
 301,
-301
+301,
+303
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0202"
 },
@@ -403,6 +467,7 @@
 "initialCap": 300
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -580,13 +645,29 @@
 241,
 242,
 244,
-246
+246,
+255
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -671,7 +752,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Principles of Microeconomics"
 }

@@ -103,6 +103,7 @@
 179,
 179,
 184,
+184,
 184
 ],
 "instructorLog": {
@@ -131,7 +132,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 158,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -141,6 +142,10 @@
 {
 "newCapacity": 158,
 "time": 1689016776
+},
+{
+"newCapacity": 161,
+"time": 1689957270
 }
 ],
 "initialCap": 133
@@ -225,7 +230,8 @@
 157,
 157,
 157,
-157
+157,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -340,6 +346,7 @@
 149,
 149,
 149,
+150,
 150,
 150,
 150,
@@ -469,6 +476,7 @@
 175,
 175,
 175,
+175,
 175
 ],
 "instructorLog": {
@@ -591,7 +599,8 @@
 164,
 164,
 164,
-164
+164,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -619,7 +628,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 147,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -633,6 +642,10 @@
 {
 "newCapacity": 147,
 "time": 1689888019
+},
+{
+"newCapacity": 151,
+"time": 1689957270
 }
 ],
 "initialCap": 133
@@ -717,7 +730,8 @@
 145,
 145,
 147,
-147
+147,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -730,7 +744,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 149,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -740,6 +754,10 @@
 {
 "newCapacity": 149,
 "time": 1689016776
+},
+{
+"newCapacity": 150,
+"time": 1689957270
 }
 ],
 "initialCap": 133
@@ -824,7 +842,8 @@
 148,
 148,
 148,
-148
+148,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -852,7 +871,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 143,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -866,6 +885,10 @@
 {
 "newCapacity": 143,
 "time": 1689873025
+},
+{
+"newCapacity": 151,
+"time": 1689957270
 }
 ],
 "initialCap": 133
@@ -950,7 +973,8 @@
 141,
 143,
 143,
-143
+143,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1041,7 +1065,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Linear Algebra"
 }

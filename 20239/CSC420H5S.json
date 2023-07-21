@@ -99,7 +99,8 @@
 104,
 104,
 104,
-104
+104,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,12 +128,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1689957270
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -219,7 +226,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -303,7 +310,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Introduction to Image Understanding"
 }

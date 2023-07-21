@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 168,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 168,
 "time": 1689016776
+},
+{
+"newCapacity": 170,
+"time": 1689957270
 }
 ],
 "initialCap": 150
@@ -99,7 +103,8 @@
 167,
 167,
 167,
-167
+167,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,7 +140,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 163,
+"enrollmentCap": 166,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -145,6 +150,10 @@
 {
 "newCapacity": 163,
 "time": 1689016776
+},
+{
+"newCapacity": 166,
+"time": 1689957270
 }
 ],
 "initialCap": 150
@@ -229,7 +238,8 @@
 163,
 163,
 163,
-163
+163,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -343,7 +353,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Calculus I"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 336,
+"enrollmentCap": 342,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 336,
 "time": 1689016776
+},
+{
+"newCapacity": 342,
+"time": 1689957270
 }
 ],
 "initialCap": 300
@@ -99,7 +103,8 @@
 336,
 336,
 336,
-336
+336,
+342
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -205,7 +210,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "COMP. ALGOR. & DATA STRUCTURES"
 }

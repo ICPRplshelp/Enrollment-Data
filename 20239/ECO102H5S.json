@@ -90,13 +90,29 @@
 344,
 346,
 352,
-354
+354,
+356
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -188,13 +204,29 @@
 341,
 341,
 346,
-347
+347,
+350
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -286,13 +318,29 @@
 329,
 329,
 332,
-335
+335,
+340
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -384,13 +432,29 @@
 342,
 343,
 347,
-348
+348,
+353
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0202"
 },
@@ -403,6 +467,7 @@
 "initialCap": 300
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -573,7 +638,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Principles of Macroeconomics"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 330,
+"enrollmentCap": 335,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 330,
 "time": 1689016776
+},
+{
+"newCapacity": 335,
+"time": 1689957270
 }
 ],
 "initialCap": 300
@@ -99,7 +103,8 @@
 329,
 329,
 329,
-329
+329,
+335
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -129,6 +134,10 @@
 },
 "instructors": [
 {
+"firstName": "Robert",
+"lastName": "Irish"
+},
+{
 "firstName": "Morgan",
 "lastName": "Hooper"
 },
@@ -139,10 +148,6 @@
 {
 "firstName": "Penny",
 "lastName": "Kinnear"
-},
-{
-"firstName": "Robert",
-"lastName": "Irish"
 }
 ],
 "isCancelled": false,
@@ -229,7 +234,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "Praxis I"
 }

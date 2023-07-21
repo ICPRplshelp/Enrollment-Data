@@ -93,6 +93,7 @@
 91,
 91,
 91,
+91,
 91
 ],
 "instructorLog": {
@@ -106,6 +107,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Martin",
+"lastName": "Beaulieu"
+},
+{
+"firstName": "Gurnit",
+"lastName": "Kaur"
+}
+],
+"timing": 1689957270
 }
 ]
 },
@@ -113,6 +127,10 @@
 {
 "firstName": "Martin",
 "lastName": "Beaulieu"
+},
+{
+"firstName": "Gurnit",
+"lastName": "Kaur"
 }
 ],
 "isCancelled": false,
@@ -202,7 +220,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903297
+1689903297,
+1689957270
 ],
 "title": "Systems Pharmacology II"
 }

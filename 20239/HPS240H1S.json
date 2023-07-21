@@ -93,13 +93,29 @@
 43,
 44,
 45,
-45
+45,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Koester"
+}
+],
+"timing": 1689957270
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Koester"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -187,7 +203,8 @@
 1689869211,
 1689873025,
 1689888019,
-1689903296
+1689903296,
+1689957270
 ],
 "title": "The Influence of the Eugenics Movement on Contemporary Society"
 }
