@@ -94,13 +94,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tahohtharatye Joe",
+"lastName": "Brant"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tahohtharatye Joe",
+"lastName": "Brant"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Indigenous Language and Indigenous Thought"
 }

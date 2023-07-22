@@ -94,13 +94,29 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ninaatig Philip",
+"lastName": "Staats Pangowish"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ninaatig Philip",
+"lastName": "Staats Pangowish"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Anishinaabemowin II"
 }

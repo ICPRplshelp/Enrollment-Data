@@ -94,13 +94,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Jeffrey"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melanie",
+"lastName": "Jeffrey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Ecological Interactions: Intro to Aboriginal and Western Sciences"
 }

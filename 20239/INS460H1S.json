@@ -94,13 +94,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lindsay Martel",
+"lastName": "Montgomery"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lindsay Martel",
+"lastName": "Montgomery"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Indigenous Theory, Research and Methods (formerly Methodology in Aboriginal Studies)"
 }

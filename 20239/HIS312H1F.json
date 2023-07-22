@@ -94,13 +94,29 @@
 67,
 68,
 68,
+70,
 70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Koby",
+"lastName": "Song-Nichols"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Koby",
+"lastName": "Song-Nichols"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Immigration to Canada"
 }

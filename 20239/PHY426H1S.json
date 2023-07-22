@@ -94,6 +94,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -123,6 +124,35 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+},
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+},
+{
+"firstName": "Debra",
+"lastName": "Wunch"
+},
+{
+"firstName": "Peter",
+"lastName": "Krieger"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Boris",
+"lastName": "Braverman"
+}
+],
+"timing": 1690054077
 }
 ]
 },
@@ -146,6 +176,10 @@
 {
 "firstName": "William",
 "lastName": "Trischuk"
+},
+{
+"firstName": "Boris",
+"lastName": "Braverman"
 }
 ],
 "isCancelled": false,
@@ -236,7 +270,8 @@
 1689873025,
 1689888019,
 1689903297,
-1689957270
+1689957270,
+1690054077
 ],
 "title": "Advanced Practical Physics I"
 }

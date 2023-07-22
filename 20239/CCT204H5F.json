@@ -91,13 +91,29 @@
 50,
 50,
 50,
-51
+51,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -190,13 +206,29 @@
 59,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -282,7 +314,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Design Thinking I"
 }

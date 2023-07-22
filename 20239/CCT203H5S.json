@@ -91,13 +91,29 @@
 54,
 54,
 54,
+54,
 54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Pier",
+"lastName": "Boucher"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-Pier",
+"lastName": "Boucher"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -183,7 +199,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Business Research Methods (DEM)"
 }

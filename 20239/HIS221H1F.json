@@ -94,13 +94,29 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Khaleel",
+"lastName": "Grant"
+}
+],
+"timing": 1690054076
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Khaleel",
+"lastName": "Grant"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -189,7 +205,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "African American History to 1865"
 }

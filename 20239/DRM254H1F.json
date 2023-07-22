@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1690054076
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -89,6 +94,7 @@
 27,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -204,7 +210,8 @@
 1689873025,
 1689888019,
 1689903296,
-1689957270
+1689957270,
+1690054076
 ],
 "title": "Design and Production I"
 }
