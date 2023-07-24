@@ -97,13 +97,29 @@
 137,
 137,
 137,
-137
+137,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adriano",
+"lastName": "Pacifico"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adriano",
+"lastName": "Pacifico"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -202,13 +218,29 @@
 409,
 409,
 409,
+409,
 409
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -307,13 +339,37 @@
 151,
 151,
 151,
+151,
 151
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Erlebach"
 },
-"instructors": [],
+{
+"firstName": "Jake",
+"lastName": "Zimmermann Simmons"
+}
+],
+"timing": 1690223854
+}
+]
+},
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Erlebach"
+},
+{
+"firstName": "Jake",
+"lastName": "Zimmermann Simmons"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0202"
 },
@@ -409,6 +465,7 @@
 172,
 173,
 174,
+172,
 172,
 172,
 172,
@@ -532,13 +589,29 @@
 135,
 135,
 135,
+135,
 135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -637,13 +710,29 @@
 127,
 127,
 127,
-127
+127,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -742,13 +831,29 @@
 61,
 61,
 61,
-61
+61,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Calderon Wilches"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Calderon Wilches"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -840,7 +945,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193519
+1690193519,
+1690223854
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

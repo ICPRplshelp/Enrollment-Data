@@ -97,13 +97,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chuck",
+"lastName": "Chen"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chuck",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -195,7 +211,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Nutritional Neurosciences"
 }

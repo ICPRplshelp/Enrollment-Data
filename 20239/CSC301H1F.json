@@ -97,13 +97,29 @@
 162,
 163,
 163,
+163,
 163
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Jorjani"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Jorjani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -202,13 +218,29 @@
 159,
 159,
 159,
-159
+159,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Jorjani"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Jorjani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -300,7 +332,8 @@
 1689957270,
 1690054076,
 1690133532,
-1690193519
+1690193519,
+1690223854
 ],
 "title": "Introduction to Software Engineering"
 }

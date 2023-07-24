@@ -5,9 +5,14 @@
 {
 "createdAt": 1689119739,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1690223854
+}
+],
 "initialCap": 16
 },
 "enrollmentLogs": [
@@ -97,7 +102,8 @@
 1,
 1,
 1,
-1
+1,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -119,7 +125,7 @@
 "lastName": "Chung"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -209,6 +215,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -330,7 +337,8 @@
 1689957270,
 1690054076,
 1690133532,
-1690193519
+1690193519,
+1690223854
 ],
 "title": "Topics in Chinese History"
 }

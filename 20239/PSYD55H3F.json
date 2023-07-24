@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1690223854
+}
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -45,6 +50,7 @@
 27,
 27,
 27,
+26,
 26,
 26,
 26,
@@ -204,7 +210,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Functional Magnetic Resonance Imaging Laboratory"
 }

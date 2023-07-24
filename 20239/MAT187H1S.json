@@ -103,6 +103,7 @@
 361,
 360,
 360,
+360,
 360
 ],
 "instructorLog": {
@@ -259,6 +260,7 @@
 347,
 347,
 347,
+347,
 347
 ],
 "instructorLog": {
@@ -308,7 +310,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 574,
+"enrollmentCap": 576,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -322,6 +324,10 @@
 {
 "newCapacity": 574,
 "time": 1689957270
+},
+{
+"newCapacity": 576,
+"time": 1690223854
 }
 ],
 "initialCap": 450
@@ -410,7 +416,8 @@
 574,
 574,
 574,
-574
+574,
+576
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -528,7 +535,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Calculus II"
 }

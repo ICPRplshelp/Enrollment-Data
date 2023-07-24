@@ -94,13 +94,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hadiya",
+"lastName": "Roderique"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hadiya",
+"lastName": "Roderique"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -189,7 +205,8 @@
 1689957270,
 1690054076,
 1690133532,
-1690193519
+1690193519,
+1690223854
 ],
 "title": "Senior Seminar in Journalism"
 }

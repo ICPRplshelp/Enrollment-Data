@@ -94,6 +94,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -107,13 +108,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Prof. Charmaine",
+"lastName": "Williams"
+}
+],
+"timing": 1690223854
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Toula",
-"lastName": "Kourgiantakis"
+"firstName": "Prof. Charmaine",
+"lastName": "Williams"
 }
 ],
 "isCancelled": false,
@@ -204,7 +214,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Social Context of Mental Health and Illness"
 }

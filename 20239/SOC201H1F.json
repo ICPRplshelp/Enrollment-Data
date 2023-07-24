@@ -97,7 +97,8 @@
 115,
 116,
 116,
-116
+116,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +126,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1690223854
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -217,7 +223,8 @@
 123,
 124,
 124,
-124
+124,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -330,7 +337,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Classical Sociological Theory"
 }

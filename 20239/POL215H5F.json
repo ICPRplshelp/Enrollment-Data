@@ -94,13 +94,29 @@
 84,
 84,
 84,
-84
+84,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Pond"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Pond"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -196,13 +212,29 @@
 65,
 65,
 65,
+65,
 65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Pond"
+}
+],
+"timing": 1690223854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Pond"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -291,7 +323,8 @@
 1689957270,
 1690054077,
 1690133532,
-1690193520
+1690193520,
+1690223854
 ],
 "title": "Canadian Government"
 }
