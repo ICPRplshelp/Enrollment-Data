@@ -95,13 +95,29 @@
 32,
 32,
 32,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -195,6 +211,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -294,7 +311,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Information Systems"
 }

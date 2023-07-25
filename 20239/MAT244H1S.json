@@ -98,13 +98,29 @@
 166,
 166,
 166,
-169
+169,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xiao",
+"lastName": "Jie"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xiao",
+"lastName": "Jie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +220,29 @@
 180,
 180,
 180,
+180,
 180
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Afiny",
+"lastName": "Akdemir"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Afiny",
+"lastName": "Akdemir"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -310,13 +342,29 @@
 111,
 111,
 111,
-112
+112,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maximilian",
+"lastName": "Klambauer"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maximilian",
+"lastName": "Klambauer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -409,7 +457,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

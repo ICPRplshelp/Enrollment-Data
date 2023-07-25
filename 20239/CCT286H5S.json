@@ -95,13 +95,29 @@
 43,
 43,
 43,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Interactive Media Design"
 }

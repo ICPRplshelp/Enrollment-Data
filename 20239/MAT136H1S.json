@@ -98,7 +98,8 @@
 250,
 250,
 250,
-249
+249,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,7 +220,8 @@
 260,
 260,
 260,
-256
+256,
+255
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,13 +327,29 @@
 249,
 249,
 249,
-250
+250,
+248
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Spyridon",
+"lastName": "Alexakis"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Spyridon",
+"lastName": "Alexakis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -431,7 +449,8 @@
 241,
 241,
 241,
-239
+239,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -537,13 +556,29 @@
 249,
 249,
 249,
-249
+249,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel Robert Harvey",
+"lastName": "Hudson"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel Robert Harvey",
+"lastName": "Hudson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -643,7 +678,8 @@
 186,
 186,
 186,
-200
+200,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -749,13 +785,29 @@
 139,
 139,
 139,
-139
+139,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ethan",
+"lastName": "Ross"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ethan",
+"lastName": "Ross"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -855,13 +907,29 @@
 50,
 50,
 50,
-51
+51,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Saeyon",
+"lastName": "Mylvaganam"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Saeyon",
+"lastName": "Mylvaganam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -961,6 +1029,7 @@
 123,
 123,
 123,
+124,
 124
 ],
 "instructorLog": {
@@ -974,13 +1043,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jinan",
+"lastName": "Krayem"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lindsey",
-"lastName": "Shorser"
+"firstName": "Jinan",
+"lastName": "Krayem"
 }
 ],
 "isCancelled": false,
@@ -1082,13 +1160,29 @@
 36,
 36,
 36,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5401"
 }
@@ -1181,7 +1275,8 @@
 1690054077,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Calculus II"
 }

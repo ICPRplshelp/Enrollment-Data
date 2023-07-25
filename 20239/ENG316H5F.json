@@ -95,13 +95,29 @@
 15,
 15,
 15,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chester Norman",
+"lastName": "Scoville"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chester Norman",
+"lastName": "Scoville"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Special Topic in Modern and Contemporary Literature"
 }

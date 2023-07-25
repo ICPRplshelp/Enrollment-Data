@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1689787734
+},
+{
+"newCapacity": 70,
+"time": 1690316798
 }
 ],
 "initialCap": 55
@@ -103,7 +107,8 @@
 67,
 67,
 67,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,7 +222,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Introduction to Public Policy"
 }

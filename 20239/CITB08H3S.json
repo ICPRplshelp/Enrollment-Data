@@ -1,0 +1,31 @@
+{
+"code": "CITB08H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1690316798,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1690316797,
+1690316798
+],
+"title": "Economy of Cities"
+}

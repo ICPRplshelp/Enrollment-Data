@@ -84,13 +84,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Noyes"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Noyes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -169,7 +185,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Weimar: Sex and Politics in the Roaring Twenties"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 121,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 121,
+"time": 1690316798
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -98,7 +103,8 @@
 116,
 116,
 116,
-109
+109,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,12 +132,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 198,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 125,
 "time": 1690223854
+},
+{
+"newCapacity": 198,
+"time": 1690316798
 }
 ],
 "initialCap": 100
@@ -224,7 +234,8 @@
 124,
 124,
 124,
-125
+125,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -338,7 +349,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Classical Sociological Theory"
 }

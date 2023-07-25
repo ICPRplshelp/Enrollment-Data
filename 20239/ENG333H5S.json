@@ -95,13 +95,29 @@
 9,
 9,
 9,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "The Modernist Novel"
 }

@@ -95,13 +95,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avery",
+"lastName": "Slater"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Avery",
+"lastName": "Slater"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Literary Theory Now"
 }

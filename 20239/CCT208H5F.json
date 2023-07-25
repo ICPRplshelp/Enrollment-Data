@@ -95,13 +95,29 @@
 104,
 104,
 104,
-104
+104,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -198,13 +214,29 @@
 95,
 95,
 95,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -294,7 +326,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Communications Research Methods"
 }

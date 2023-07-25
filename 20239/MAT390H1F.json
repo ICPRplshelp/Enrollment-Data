@@ -98,13 +98,29 @@
 116,
 116,
 116,
-117
+117,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sylvia",
+"lastName": "Nickerson"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sylvia",
+"lastName": "Nickerson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "History of Mathematics up to 1700"
 }

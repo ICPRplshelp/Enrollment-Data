@@ -95,7 +95,8 @@
 366,
 366,
 366,
-358
+358,
+340
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -123,12 +124,16 @@
 {
 "createdAt": 1687561168,
 "delivery": "ASYNC",
-"enrollmentCap": 70,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 70,
 "time": 1689624009
+},
+{
+"newCapacity": 100,
+"time": 1690316798
 }
 ],
 "initialCap": 50
@@ -218,7 +223,8 @@
 116,
 116,
 116,
-115
+115,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -329,7 +335,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Organic Chemistry I"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 10,
 "time": 1688850240
+},
+{
+"newCapacity": 11,
+"time": 1690316798
 }
 ],
 "initialCap": 5
@@ -78,6 +82,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -211,7 +216,8 @@
 1690054077,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Sociolinguistics and Second Language Teaching and Learning"
 }

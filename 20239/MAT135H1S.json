@@ -98,6 +98,7 @@
 29,
 29,
 29,
+31,
 31
 ],
 "instructorLog": {
@@ -204,13 +205,29 @@
 11,
 11,
 11,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Liu"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Liu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -310,7 +327,8 @@
 27,
 27,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -416,13 +434,29 @@
 6,
 6,
 6,
-6
+6,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Sokurski"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "William",
+"lastName": "Sokurski"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -515,7 +549,8 @@
 1690054077,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Calculus I"
 }

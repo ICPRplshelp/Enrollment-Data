@@ -98,13 +98,29 @@
 240,
 240,
 240,
+240,
 240
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shuyang",
+"lastName": "Shen"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shuyang",
+"lastName": "Shen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,7 +220,8 @@
 208,
 208,
 208,
-209
+209,
+210
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -318,7 +335,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Concepts in Abstract Mathematics"
 }

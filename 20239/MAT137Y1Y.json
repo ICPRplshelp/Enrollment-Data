@@ -98,6 +98,7 @@
 216,
 216,
 216,
+215,
 215
 ],
 "instructorLog": {
@@ -219,7 +220,8 @@
 136,
 136,
 136,
-135
+135,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -340,7 +342,8 @@
 196,
 196,
 196,
-195
+195,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -461,7 +464,8 @@
 133,
 133,
 133,
-134
+134,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -567,13 +571,29 @@
 99,
 99,
 99,
+101,
 101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilia",
+"lastName": "Gaiur"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilia",
+"lastName": "Gaiur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -673,6 +693,7 @@
 165,
 165,
 165,
+170,
 170
 ],
 "instructorLog": {
@@ -686,13 +707,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Zhang"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ilia",
-"lastName": "Gaiur"
+"firstName": "Jing",
+"lastName": "Zhang"
 }
 ],
 "isCancelled": false,
@@ -794,7 +824,8 @@
 75,
 75,
 75,
-79
+79,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -807,12 +838,21 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Xincheng",
+"lastName": "Zhang"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jing",
+"firstName": "Xincheng",
 "lastName": "Zhang"
 }
 ],
@@ -828,6 +868,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1036,13 +1077,29 @@
 49,
 49,
 49,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tomas",
+"lastName": "Kojar"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tomas",
+"lastName": "Kojar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -1135,7 +1192,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Calculus with Proofs"
 }

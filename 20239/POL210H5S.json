@@ -95,7 +95,8 @@
 99,
 99,
 99,
-100
+100,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -213,13 +214,29 @@
 69,
 69,
 69,
-68
+68,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnd",
+"lastName": "Jurgensen"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arnd",
+"lastName": "Jurgensen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -309,7 +326,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Contemporary Challenges in International Relations"
 }

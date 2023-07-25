@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 192,
+"enrollmentCap": 190,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 190,
+"time": 1690316798
+}
+],
 "initialCap": 192
 },
 "enrollmentLogs": [
@@ -95,6 +100,7 @@
 179,
 179,
 179,
+180,
 180
 ],
 "instructorLog": {
@@ -215,7 +221,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Microbiology"
 }

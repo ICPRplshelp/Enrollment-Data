@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 83,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 83,
+"time": 1690316798
+}
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -98,7 +103,8 @@
 58,
 58,
 58,
-57
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,9 +132,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1690316798
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -193,6 +204,7 @@
 4,
 4,
 4,
+7,
 7,
 7,
 7,
@@ -333,7 +345,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Physics of the Earth"
 }

@@ -98,6 +98,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -111,13 +112,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Christine",
-"lastName": "Lehleiter"
+"firstName": "Andre",
+"lastName": "Flicker"
 }
 ],
 "isCancelled": false,
@@ -212,7 +222,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Advanced German 1"
 }

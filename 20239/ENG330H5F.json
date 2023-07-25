@@ -95,13 +95,29 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Raby"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Raby"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Medieval Drama"
 }

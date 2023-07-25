@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 362,
+"enrollmentCap": 363,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 362,
 "time": 1689957270
+},
+{
+"newCapacity": 363,
+"time": 1690316798
 }
 ],
 "initialCap": 250
@@ -112,7 +116,8 @@
 361,
 361,
 361,
-362
+362,
+363
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -223,7 +228,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Physical Chemistry"
 }

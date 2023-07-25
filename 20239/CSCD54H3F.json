@@ -95,13 +95,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Helen",
+"lastName": "Kontozopoulos"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Helen",
+"lastName": "Kontozopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -191,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Technology Innovation and Entrepreneurship"
 }

@@ -95,13 +95,29 @@
 21,
 21,
 21,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnd",
+"lastName": "Jurgensen"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arnd",
+"lastName": "Jurgensen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Global Governance in Practice"
 }

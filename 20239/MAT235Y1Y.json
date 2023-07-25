@@ -98,6 +98,7 @@
 185,
 185,
 185,
+186,
 186
 ],
 "instructorLog": {
@@ -219,7 +220,8 @@
 155,
 155,
 155,
-155
+155,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,6 +327,7 @@
 195,
 195,
 195,
+192,
 192
 ],
 "instructorLog": {
@@ -446,6 +449,7 @@
 174,
 174,
 174,
+172,
 172
 ],
 "instructorLog": {
@@ -567,13 +571,29 @@
 159,
 159,
 159,
+161,
 161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kai",
+"lastName": "Ye"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kai",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -673,6 +693,7 @@
 156,
 156,
 156,
+158,
 158
 ],
 "instructorLog": {
@@ -794,7 +815,8 @@
 130,
 130,
 130,
-136
+136,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -915,6 +937,7 @@
 201,
 201,
 201,
+200,
 200
 ],
 "instructorLog": {
@@ -1029,7 +1052,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Multivariable Calculus"
 }

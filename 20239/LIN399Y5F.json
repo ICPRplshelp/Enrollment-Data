@@ -75,13 +75,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pablo",
+"lastName": "Robles Garcia"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pablo",
+"lastName": "Robles Garcia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -151,7 +167,8 @@
 1690054077,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Research Opportunity Program"
 }

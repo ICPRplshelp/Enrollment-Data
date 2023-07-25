@@ -98,13 +98,37 @@
 2,
 2,
 2,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Miriam",
+"lastName": "Borden"
 },
-"instructors": [],
+{
+"firstName": "Sophie",
+"lastName": "Edelhart"
+}
+],
+"timing": 1690316798
+}
+]
+},
+"instructors": [
+{
+"firstName": "Miriam",
+"lastName": "Borden"
+},
+{
+"firstName": "Sophie",
+"lastName": "Edelhart"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +221,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Elementary Yiddish"
 }

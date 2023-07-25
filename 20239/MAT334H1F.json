@@ -98,6 +98,7 @@
 124,
 124,
 124,
+124,
 124
 ],
 "instructorLog": {
@@ -204,13 +205,29 @@
 170,
 170,
 170,
+173,
 173
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ahmed",
+"lastName": "Ellithy"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ahmed",
+"lastName": "Ellithy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -310,6 +327,7 @@
 123,
 123,
 123,
+121,
 121
 ],
 "instructorLog": {
@@ -424,7 +442,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Complex Variables"
 }

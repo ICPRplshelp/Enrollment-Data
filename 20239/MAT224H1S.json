@@ -98,13 +98,29 @@
 110,
 110,
 110,
-113
+113,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Pirhosseinloo"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Pirhosseinloo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +220,29 @@
 127,
 127,
 127,
+128,
 128
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aleksandr",
+"lastName": "Berdnikov"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aleksandr",
+"lastName": "Berdnikov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -310,6 +342,7 @@
 84,
 84,
 84,
+87,
 87
 ],
 "instructorLog": {
@@ -431,7 +464,8 @@
 98,
 98,
 98,
-99
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -552,7 +586,8 @@
 52,
 52,
 52,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -658,13 +693,29 @@
 17,
 17,
 17,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joaquin",
+"lastName": "Sanchez Garcia"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joaquin",
+"lastName": "Sanchez Garcia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -757,7 +808,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Linear Algebra II"
 }

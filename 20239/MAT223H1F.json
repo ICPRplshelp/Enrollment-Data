@@ -98,7 +98,8 @@
 127,
 127,
 127,
-126
+126,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,6 +220,7 @@
 163,
 163,
 163,
+166,
 166
 ],
 "instructorLog": {
@@ -340,6 +342,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -353,13 +356,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Tronsgard"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Isabella",
-"lastName": "Negrini"
+"firstName": "Aaron",
+"lastName": "Tronsgard"
 }
 ],
 "isCancelled": false,
@@ -461,7 +473,8 @@
 147,
 147,
 147,
-148
+148,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -474,13 +487,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Isabella",
+"lastName": "Negrini"
+}
+],
+"timing": 1690316798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Semen",
-"lastName": "Artamonov"
+"firstName": "Isabella",
+"lastName": "Negrini"
 }
 ],
 "isCancelled": false,
@@ -582,7 +604,8 @@
 80,
 80,
 80,
-86
+86,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -688,13 +711,29 @@
 87,
 87,
 87,
-85
+85,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clovis",
+"lastName": "Hamel Ascanio"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clovis",
+"lastName": "Hamel Ascanio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -794,6 +833,7 @@
 80,
 80,
 80,
+83,
 83
 ],
 "instructorLog": {
@@ -915,6 +955,7 @@
 50,
 50,
 50,
+52,
 52
 ],
 "instructorLog": {
@@ -1014,7 +1055,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Linear Algebra I"
 }

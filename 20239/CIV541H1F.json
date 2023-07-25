@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1686549019,
-"delivery": "INPER",
+"delivery": "ASYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -70,6 +70,7 @@
 7,
 7,
 10,
+9,
 9,
 9,
 9,
@@ -206,7 +207,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Environmental Biotechnology"
 }

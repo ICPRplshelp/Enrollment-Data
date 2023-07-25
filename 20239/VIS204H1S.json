@@ -80,6 +80,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -93,6 +94,19 @@
 }
 ],
 "timing": 1689787734
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jenine",
+"lastName": "Marsh"
+},
+{
+"firstName": "Karen",
+"lastName": "Kraven"
+}
+],
+"timing": 1690316798
 }
 ]
 },
@@ -100,6 +114,10 @@
 {
 "firstName": "Jenine",
 "lastName": "Marsh"
+},
+{
+"firstName": "Karen",
+"lastName": "Kraven"
 }
 ],
 "isCancelled": false,
@@ -174,6 +192,7 @@
 7,
 7,
 8,
+9,
 9,
 9,
 9,
@@ -279,7 +298,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Installation Art"
 }

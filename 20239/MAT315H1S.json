@@ -98,13 +98,29 @@
 167,
 167,
 167,
+169,
 169
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Slamen"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Slamen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +220,29 @@
 168,
 168,
 168,
-170
+170,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gaurav",
+"lastName": "Patil"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gaurav",
+"lastName": "Patil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -303,7 +335,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Introduction to Number Theory"
 }

@@ -98,7 +98,8 @@
 219,
 219,
 219,
-220
+220,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,7 +220,8 @@
 198,
 198,
 198,
-199
+199,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -340,13 +342,29 @@
 106,
 106,
 106,
-107
+107,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -446,13 +464,29 @@
 100,
 100,
 100,
-102
+102,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Belal",
+"lastName": "Abuelnasr"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Belal",
+"lastName": "Abuelnasr"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -545,7 +579,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Multivariable Calculus with Proofs"
 }

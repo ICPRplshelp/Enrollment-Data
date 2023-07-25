@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1690316798
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -86,6 +91,7 @@
 44,
 44,
 43,
+44,
 44,
 44,
 44,
@@ -215,7 +221,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Life Writing"
 }

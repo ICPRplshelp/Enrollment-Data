@@ -98,7 +98,8 @@
 35,
 35,
 35,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,6 +220,7 @@
 21,
 21,
 21,
+22,
 22
 ],
 "instructorLog": {
@@ -340,13 +342,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mathias",
+"lastName": "Braun"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mathias",
+"lastName": "Braun"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -439,7 +457,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Linear Algebra II"
 }

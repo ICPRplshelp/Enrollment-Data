@@ -80,13 +80,29 @@
 24,
 24,
 24,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Robayo Sheridan"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Robayo Sheridan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -161,7 +177,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Critical Curatorial Lab"
 }

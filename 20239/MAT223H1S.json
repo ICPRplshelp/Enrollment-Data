@@ -98,6 +98,7 @@
 74,
 74,
 74,
+75,
 75
 ],
 "instructorLog": {
@@ -219,13 +220,29 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Sargent"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -325,6 +342,7 @@
 45,
 45,
 45,
+46,
 46
 ],
 "instructorLog": {
@@ -446,13 +464,29 @@
 48,
 48,
 48,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Pechersky"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Pechersky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -548,6 +582,7 @@
 8,
 11,
 11,
+12,
 12,
 12,
 12,
@@ -673,6 +708,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -772,7 +808,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Linear Algebra I"
 }

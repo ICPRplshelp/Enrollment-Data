@@ -75,6 +75,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -94,6 +95,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -241,13 +243,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Atkinson"
+}
+],
+"timing": 1690316798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Atkinson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -317,7 +335,8 @@
 1690054076,
 1690133532,
 1690193519,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Research Opportunity Program"
 }

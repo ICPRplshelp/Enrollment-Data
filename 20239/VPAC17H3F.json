@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1690316798
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -95,7 +100,8 @@
 89,
 89,
 89,
-89
+89,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -191,7 +197,8 @@
 1690054077,
 1690133532,
 1690193520,
-1690223854
+1690223854,
+1690316798
 ],
 "title": "Marketing in the Arts and Media"
 }
