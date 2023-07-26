@@ -96,7 +96,8 @@
 110,
 110,
 112,
-114
+114,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -200,13 +201,29 @@
 124,
 124,
 129,
+131,
 131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julia",
+"lastName": "Boyd"
+}
+],
+"timing": 1690381380
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Julia",
+"lastName": "Boyd"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -219,6 +236,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -401,7 +419,8 @@
 1690133532,
 1690193519,
 1690223854,
-1690316798
+1690316798,
+1690381380
 ],
 "title": "Effective Writing"
 }

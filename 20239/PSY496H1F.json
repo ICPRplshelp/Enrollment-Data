@@ -99,13 +99,29 @@
 58,
 58,
 59,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mavis",
+"lastName": "Kusi"
+}
+],
+"timing": 1690381381
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mavis",
+"lastName": "Kusi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -199,7 +215,8 @@
 1690133532,
 1690193520,
 1690223854,
-1690316798
+1690316798,
+1690381381
 ],
 "title": "Cognitive Disorders in Neurological Disorders"
 }

@@ -96,13 +96,29 @@
 88,
 88,
 94,
-94
+94,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aslan",
+"lastName": "Amani"
+}
+],
+"timing": 1690381381
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aslan",
+"lastName": "Amani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -193,7 +209,8 @@
 1690133532,
 1690193520,
 1690223854,
-1690316798
+1690316798,
+1690381381
 ],
 "title": "Ideas and Ideologies"
 }
