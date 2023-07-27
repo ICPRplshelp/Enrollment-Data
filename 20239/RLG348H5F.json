@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1690443128
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -86,6 +91,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -210,7 +216,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Zoroastrian Customs and Ceremonies"
 }

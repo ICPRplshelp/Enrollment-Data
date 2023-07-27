@@ -100,13 +100,29 @@
 88,
 88,
 88,
-88
+88,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Ewing"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Ewing"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -201,7 +217,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Empire, Nationalism, and the History of International Relations"
 }

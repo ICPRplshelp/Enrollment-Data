@@ -106,6 +106,7 @@
 79,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -119,13 +120,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michel",
+"lastName": "Hache"
+}
+],
+"timing": 1690443128
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Doug",
-"lastName": "Perovic"
+"firstName": "Michel",
+"lastName": "Hache"
 }
 ],
 "isCancelled": false,
@@ -219,7 +229,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Structure and Characterization of Materials"
 }

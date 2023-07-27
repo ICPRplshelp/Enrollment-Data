@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -85,6 +85,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -219,7 +220,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Economic Development"
 }

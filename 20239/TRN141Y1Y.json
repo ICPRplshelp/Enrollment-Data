@@ -100,13 +100,29 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole Frances",
+"lastName": "Spiegelaar"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole Frances",
+"lastName": "Spiegelaar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -201,7 +217,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Environmental Science and Pathways to Sustainability"
 }

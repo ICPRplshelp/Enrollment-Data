@@ -100,13 +100,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leslie A",
+"lastName": "Boehm"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leslie A",
+"lastName": "Boehm"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -201,7 +217,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Public Health in Canada: Health for the 21st Century"
 }

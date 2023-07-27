@@ -100,13 +100,29 @@
 20,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vicki Sung-yeon",
+"lastName": "Kwon"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vicki Sung-yeon",
+"lastName": "Kwon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -201,7 +217,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Case Studies at the Royal Ontario Museum"
 }

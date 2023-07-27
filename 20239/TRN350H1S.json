@@ -100,13 +100,29 @@
 90,
 90,
 90,
+90,
 90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Nieman"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Nieman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -201,7 +217,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Scarcity, Sustainability, and the Future of International Relations"
 }

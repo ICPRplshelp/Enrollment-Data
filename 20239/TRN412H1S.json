@@ -100,13 +100,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -208,13 +224,29 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -291,6 +323,7 @@
 11,
 11,
 11,
+0,
 0,
 0,
 0,
@@ -429,13 +462,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Duncan"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Duncan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -530,7 +579,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

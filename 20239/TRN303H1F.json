@@ -100,6 +100,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -223,13 +224,29 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -331,13 +348,29 @@
 20,
 20,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Duncan"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Duncan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -432,7 +465,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Ethics and Society"
 }

@@ -100,13 +100,29 @@
 14,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stewart",
+"lastName": "Cunningham"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stewart",
+"lastName": "Cunningham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -208,13 +224,29 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Meehan"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Meehan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -316,13 +348,29 @@
 21,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosemary",
+"lastName": "Mccarney"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosemary",
+"lastName": "Mccarney"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -424,13 +472,29 @@
 8,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosemary",
+"lastName": "Mccarney"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosemary",
+"lastName": "Mccarney"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -525,7 +589,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Selected Topics in International Studies"
 }

@@ -97,6 +97,7 @@
 134,
 133,
 129,
+128,
 128
 ],
 "instructorLog": {
@@ -110,6 +111,19 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "OLIVIA",
+"lastName": "PODOLAK (NOUTORID)"
+},
+{
+"firstName": "Olivia Magdalena Podola",
+"lastName": "Lewandowska"
+}
+],
+"timing": 1690443128
 }
 ]
 },
@@ -117,6 +131,10 @@
 {
 "firstName": "OLIVIA",
 "lastName": "PODOLAK (NOUTORID)"
+},
+{
+"firstName": "Olivia Magdalena Podola",
+"lastName": "Lewandowska"
 }
 ],
 "isCancelled": false,
@@ -210,7 +228,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Data Analysis in Psychology"
 }

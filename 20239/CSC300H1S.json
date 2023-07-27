@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1690443128
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -100,6 +105,7 @@
 85,
 86,
 86,
+86,
 86
 ],
 "instructorLog": {
@@ -128,9 +134,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1690443128
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -222,6 +233,7 @@
 49,
 49,
 47,
+48,
 48,
 48
 ],
@@ -324,7 +336,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Computers and Society"
 }

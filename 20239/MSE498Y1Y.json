@@ -97,6 +97,7 @@
 50,
 50,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -110,6 +111,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mansoor",
+"lastName": "Barati Sedeh"
+},
+{
+"firstName": "Sa",
+"lastName": "Ge"
+}
+],
+"timing": 1690443128
 }
 ]
 },
@@ -117,6 +131,10 @@
 {
 "firstName": "Mansoor",
 "lastName": "Barati Sedeh"
+},
+{
+"firstName": "Sa",
+"lastName": "Ge"
 }
 ],
 "isCancelled": false,
@@ -210,7 +228,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Design of Materials Processes"
 }

@@ -97,13 +97,29 @@
 119,
 120,
 121,
-121
+121,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keith",
+"lastName": "Colaco"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Keith",
+"lastName": "Colaco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -195,7 +211,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Health, Aging and the Life Cycle"
 }

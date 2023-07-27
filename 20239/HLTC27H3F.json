@@ -97,7 +97,8 @@
 68,
 68,
 66,
-67
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,13 +218,29 @@
 69,
 69,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -315,7 +332,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Community Health and Epidemiology"
 }

@@ -97,13 +97,29 @@
 71,
 73,
 73,
-73
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -197,6 +213,7 @@
 51,
 51,
 51,
+50,
 50,
 50,
 50,
@@ -315,7 +332,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Engineering Leadership"
 }

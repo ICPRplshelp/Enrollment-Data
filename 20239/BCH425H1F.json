@@ -100,6 +100,7 @@
 40,
 40,
 40,
+41,
 41
 ],
 "instructorLog": {
@@ -113,6 +114,27 @@
 }
 ],
 "timing": 1689105742
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Simon J",
+"lastName": "Sharpe"
+},
+{
+"firstName": "John",
+"lastName": "Rubinstein"
+},
+{
+"firstName": "Jean-Philippe",
+"lastName": "Julien"
+},
+{
+"firstName": "Christopher",
+"lastName": "Yip"
+}
+],
+"timing": 1690443128
 }
 ]
 },
@@ -120,6 +142,18 @@
 {
 "firstName": "Simon J",
 "lastName": "Sharpe"
+},
+{
+"firstName": "John",
+"lastName": "Rubinstein"
+},
+{
+"firstName": "Jean-Philippe",
+"lastName": "Julien"
+},
+{
+"firstName": "Christopher",
+"lastName": "Yip"
 }
 ],
 "isCancelled": false,
@@ -216,7 +250,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Structural Biology: Principles and Practice"
 }

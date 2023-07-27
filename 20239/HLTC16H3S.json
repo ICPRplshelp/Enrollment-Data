@@ -97,13 +97,29 @@
 69,
 69,
 70,
+70,
 70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -195,7 +211,8 @@
 1690193519,
 1690223854,
 1690316798,
-1690381380
+1690381380,
+1690443128
 ],
 "title": "Introduction to Health Information Systems"
 }

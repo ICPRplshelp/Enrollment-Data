@@ -1,0 +1,31 @@
+{
+"code": "PSY380H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1690443128,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1690443127,
+1690443128
+],
+"title": "Vision Science"
+}

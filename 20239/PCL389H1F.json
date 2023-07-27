@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1690443128
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -98,6 +103,7 @@
 92,
 92,
 92,
+89,
 89,
 89,
 89
@@ -216,7 +222,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Understanding the Role of Pharmacology and Toxicology in Society"
 }

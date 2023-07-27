@@ -97,13 +97,29 @@
 60,
 60,
 58,
+58,
 58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam John",
+"lastName": "Pearson"
+}
+],
+"timing": 1690443128
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam John",
+"lastName": "Pearson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -195,7 +211,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "COMPOSITE MATERIALS ENG."
 }

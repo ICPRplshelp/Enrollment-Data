@@ -106,6 +106,7 @@
 78,
 78,
 78,
+78,
 78
 ],
 "instructorLog": {
@@ -119,6 +120,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Glenn",
+"lastName": "Hibbard"
+},
+{
+"firstName": "Eric",
+"lastName": "Nicholson"
+}
+],
+"timing": 1690443128
 }
 ]
 },
@@ -126,6 +140,10 @@
 {
 "firstName": "Glenn",
 "lastName": "Hibbard"
+},
+{
+"firstName": "Eric",
+"lastName": "Nicholson"
 }
 ],
 "isCancelled": false,
@@ -219,7 +237,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "PHASE TRANSFORMATIONS"
 }

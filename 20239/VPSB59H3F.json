@@ -97,6 +97,7 @@
 19,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -110,13 +111,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Adam David",
+"lastName": "Brown"
+}
+],
+"timing": 1690443128
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lee",
-"lastName": "Goreas"
+"firstName": "Adam David",
+"lastName": "Brown"
 }
 ],
 "isCancelled": false,
@@ -210,7 +220,8 @@
 1690193520,
 1690223854,
 1690316798,
-1690381381
+1690381381,
+1690443128
 ],
 "title": "Sculpture I"
 }
