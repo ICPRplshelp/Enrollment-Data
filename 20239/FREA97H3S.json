@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1690578910
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -99,6 +104,7 @@
 21,
 21,
 21,
+45,
 45,
 45,
 45,
@@ -222,7 +228,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Introductory French II"
 }

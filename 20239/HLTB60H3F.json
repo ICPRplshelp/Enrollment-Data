@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1690578910
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -99,6 +104,7 @@
 29,
 29,
 29,
+32,
 32,
 32,
 32,
@@ -231,7 +237,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Introduction to Interdisciplinary Disability Studies"
 }

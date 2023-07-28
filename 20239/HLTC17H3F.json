@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1690578910
+}
+],
 "initialCap": 175
 },
 "enrollmentLogs": [
@@ -102,6 +107,7 @@
 81,
 81,
 81,
+82,
 82,
 82
 ],
@@ -222,7 +228,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Introduction to Rehabilitation Sciences"
 }

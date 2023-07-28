@@ -5,9 +5,14 @@
 {
 "createdAt": 1689105743,
 "delivery": "INPER",
-"enrollmentCap": 1,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 2,
+"time": 1690578910
+}
+],
 "initialCap": 1
 },
 "enrollmentLogs": [
@@ -60,7 +65,8 @@
 1,
 1,
 1,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,7 +159,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Thesis"
 }

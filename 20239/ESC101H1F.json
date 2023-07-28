@@ -116,6 +116,7 @@
 331,
 331,
 330,
+330,
 330
 ],
 "instructorLog": {
@@ -146,6 +147,10 @@
 },
 "instructors": [
 {
+"firstName": "Robert",
+"lastName": "Irish"
+},
+{
 "firstName": "Morgan",
 "lastName": "Hooper"
 },
@@ -156,10 +161,6 @@
 {
 "firstName": "Penny",
 "lastName": "Kinnear"
-},
-{
-"firstName": "Robert",
-"lastName": "Irish"
 }
 ],
 "isCancelled": false,
@@ -259,7 +260,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Praxis I"
 }

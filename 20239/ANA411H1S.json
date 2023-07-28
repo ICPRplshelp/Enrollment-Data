@@ -106,13 +106,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Judi",
+"lastName": "Laprade"
+}
+],
+"timing": 1690578910
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Judi",
+"lastName": "Laprade"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690552717,
 1690554654,
 1690556608,
-1690559853
+1690559853,
+1690578910
 ],
 "title": "Anatomy in Application: Exercise & Biomechanics"
 }

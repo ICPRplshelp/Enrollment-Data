@@ -106,7 +106,8 @@
 1443,
 1443,
 1454,
-1490
+1490,
+1555
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -148,6 +149,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -380,7 +382,8 @@
 9,
 9,
 9,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -416,9 +419,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 600,
+"enrollmentCap": 648,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 648,
+"time": 1690578910
+}
+],
 "initialCap": 600
 },
 "enrollmentLogs": [
@@ -517,7 +525,8 @@
 248,
 248,
 263,
-316
+316,
+526
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -647,7 +656,8 @@
 1690552717,
 1690554654,
 1690556608,
-1690559853
+1690559853,
+1690578910
 ],
 "title": "Adaptation and Biodiversity"
 }

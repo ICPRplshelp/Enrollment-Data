@@ -106,13 +106,29 @@
 195,
 195,
 188,
-189
+189,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danielle",
+"lastName": "Bentley"
+}
+],
+"timing": 1690578910
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danielle",
+"lastName": "Bentley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690552717,
 1690554654,
 1690556608,
-1690559853
+1690559853,
+1690578910
 ],
 "title": "Human Embryology"
 }

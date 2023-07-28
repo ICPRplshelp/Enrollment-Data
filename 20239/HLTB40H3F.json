@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1690578910
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -103,6 +108,7 @@
 58,
 59,
 59,
+58,
 58
 ],
 "instructorLog": {
@@ -207,7 +213,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Health Policy and Health Systems"
 }

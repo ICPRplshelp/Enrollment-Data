@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1690578910
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -102,6 +107,7 @@
 92,
 92,
 92,
+93,
 93,
 93
 ],
@@ -207,7 +213,8 @@
 1690552718,
 1690554654,
 1690556608,
-1690559854
+1690559854,
+1690578910
 ],
 "title": "Perspectives of Culture, Illness and Healing"
 }

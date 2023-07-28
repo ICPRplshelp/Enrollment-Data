@@ -106,13 +106,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindi",
+"lastName": "Morshead"
+}
+],
+"timing": 1690578910
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cindi",
+"lastName": "Morshead"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690552717,
 1690554654,
 1690556608,
-1690559853
+1690559853,
+1690578910
 ],
 "title": "Project in Anatomy"
 }
