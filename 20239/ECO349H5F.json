@@ -98,13 +98,29 @@
 35,
 35,
 57,
-63
+63,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Rempel"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Rempel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,7 +220,8 @@
 7,
 8,
 16,
-18
+18,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -303,7 +320,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Money, Banking & Financial Markets"
 }

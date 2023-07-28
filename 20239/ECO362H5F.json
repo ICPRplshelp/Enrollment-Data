@@ -98,13 +98,29 @@
 16,
 17,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Margarida",
+"lastName": "Duarte"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Margarida",
+"lastName": "Duarte"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Economic Growth: Theory and Evidence"
 }

@@ -55,6 +55,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -68,6 +69,19 @@
 }
 ],
 "timing": 1689119739
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Romkey"
+},
+{
+"firstName": "Alan",
+"lastName": "Chong"
+}
+],
+"timing": 1690549709
 }
 ]
 },
@@ -75,6 +89,10 @@
 {
 "firstName": "Lisa",
 "lastName": "Romkey"
+},
+{
+"firstName": "Alan",
+"lastName": "Chong"
 }
 ],
 "isCancelled": false,
@@ -126,7 +144,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Thesis"
 }

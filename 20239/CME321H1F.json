@@ -98,13 +98,29 @@
 107,
 107,
 107,
-107
+107,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammadamin",
+"lastName": "Jafari"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammadamin",
+"lastName": "Jafari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Geotechnical Engineering I"
 }

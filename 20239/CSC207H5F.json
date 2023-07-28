@@ -98,13 +98,29 @@
 0,
 0,
 0,
-0
+0,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Renato Mateus",
+"lastName": "Magela Zimmermann"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Renato Mateus",
+"lastName": "Magela Zimmermann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,7 +220,8 @@
 284,
 283,
 284,
-285
+285,
+224
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,7 +342,8 @@
 269,
 270,
 272,
-272
+272,
+209
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -439,7 +457,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Software Design"
 }

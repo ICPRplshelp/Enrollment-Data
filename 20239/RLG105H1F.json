@@ -101,6 +101,7 @@
 53,
 53,
 53,
+54,
 54
 ],
 "instructorLog": {
@@ -114,6 +115,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Hampton"
+},
+{
+"firstName": "Ina",
+"lastName": "Simon"
+}
+],
+"timing": 1690549709
 }
 ]
 },
@@ -121,6 +135,10 @@
 {
 "firstName": "Alexander",
 "lastName": "Hampton"
+},
+{
+"firstName": "Ina",
+"lastName": "Simon"
 }
 ],
 "isCancelled": false,
@@ -218,7 +236,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Spirituality, Religion, and the Environment"
 }

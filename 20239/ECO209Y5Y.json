@@ -98,13 +98,37 @@
 101,
 101,
 101,
-101
+101,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gueorgui",
+"lastName": "Kambourov"
 },
-"instructors": [],
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+}
+],
+"timing": 1690549709
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gueorgui",
+"lastName": "Kambourov"
+},
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +228,29 @@
 76,
 76,
 77,
-77
+77,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -303,7 +343,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Macroeconomic Theory and Policy (for Commerce)"
 }

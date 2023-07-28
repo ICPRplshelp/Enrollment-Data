@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dirk",
+"lastName": "Bernhardt-Walther"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dirk",
+"lastName": "Bernhardt-Walther"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1690443127,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Vision Science"
 }

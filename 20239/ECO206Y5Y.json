@@ -98,13 +98,29 @@
 43,
 44,
 45,
+45,
 45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xianwen",
+"lastName": "Shi"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xianwen",
+"lastName": "Shi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Microeconomic Theory"
 }

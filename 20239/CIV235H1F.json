@@ -107,13 +107,29 @@
 59,
 59,
 59,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aryan",
+"lastName": "Rezaei Rad"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aryan",
+"lastName": "Rezaei Rad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -222,13 +238,29 @@
 44,
 43,
 43,
-43
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aryan",
+"lastName": "Rezaei Rad"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aryan",
+"lastName": "Rezaei Rad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -321,7 +353,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Civil Engineering Graphics"
 }

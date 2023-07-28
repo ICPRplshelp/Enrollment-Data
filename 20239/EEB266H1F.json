@@ -101,13 +101,29 @@
 55,
 55,
 55,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danielle",
+"lastName": "de Carle"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danielle",
+"lastName": "de Carle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Animal Diversity: Invertebrates"
 }

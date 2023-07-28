@@ -101,13 +101,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maxim",
+"lastName": "Tarnawsky"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maxim",
+"lastName": "Tarnawsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "20th Century Ukrainian Fiction in Translation"
 }

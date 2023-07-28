@@ -98,13 +98,29 @@
 42,
 41,
 44,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Urban Economics"
 }

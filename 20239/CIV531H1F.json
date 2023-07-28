@@ -98,13 +98,29 @@
 42,
 42,
 42,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SK MD",
+"lastName": "Mashrur"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SK MD",
+"lastName": "Mashrur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Transport Planning"
 }

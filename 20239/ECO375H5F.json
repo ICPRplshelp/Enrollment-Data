@@ -98,13 +98,29 @@
 39,
 39,
 51,
-52
+52,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Price"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Price"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +220,29 @@
 76,
 76,
 78,
-79
+79,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Price"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Price"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -303,7 +335,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Applied Econometrics I"
 }

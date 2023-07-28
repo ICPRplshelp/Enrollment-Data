@@ -101,13 +101,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadine",
+"lastName": "Hare"
+}
+],
+"timing": 1690549708
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadine",
+"lastName": "Hare"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549708
 ],
 "title": "Special Topics: Socio-Cultural Research Seminar"
 }

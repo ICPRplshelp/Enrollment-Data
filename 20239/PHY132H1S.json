@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 592,
+"enrollmentCap": 552,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 592,
 "time": 1686875065
+},
+{
+"newCapacity": 552,
+"time": 1690549709
 }
 ],
 "initialCap": 792
@@ -106,7 +110,8 @@
 504,
 506,
 506,
-505
+505,
+504
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,9 +139,14 @@
 {
 "createdAt": 1686875065,
 "delivery": "ASYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1690549709
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -230,6 +240,7 @@
 224,
 226,
 227,
+226,
 226
 ],
 "instructorLog": {
@@ -347,7 +358,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Introduction to Physics II"
 }

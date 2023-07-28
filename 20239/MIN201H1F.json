@@ -98,13 +98,29 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamran",
+"lastName": "Esmaeili"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kamran",
+"lastName": "Esmaeili"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Mineral Engineering Field Excursion"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 736,
+"enrollmentCap": 686,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 736,
 "time": 1686875065
+},
+{
+"newCapacity": 686,
+"time": 1690549709
 }
 ],
 "initialCap": 936
@@ -106,7 +110,8 @@
 660,
 660,
 660,
-663
+663,
+657
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,9 +139,14 @@
 {
 "createdAt": 1686875065,
 "delivery": "ASYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1690549709
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -230,7 +240,8 @@
 232,
 233,
 233,
-232
+232,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -347,7 +358,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Introduction to Physics I"
 }

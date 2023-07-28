@@ -98,13 +98,29 @@
 91,
 92,
 124,
-127
+127,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +220,29 @@
 36,
 36,
 53,
-67
+67,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -310,13 +342,29 @@
 56,
 55,
 82,
-101
+101,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -329,6 +377,7 @@
 "initialCap": 125
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -515,7 +564,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Microeconomic Theory"
 }

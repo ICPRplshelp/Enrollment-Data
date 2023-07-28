@@ -101,6 +101,7 @@
 23,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -225,13 +226,29 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Falkenheim"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Victor",
+"lastName": "Falkenheim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -327,7 +344,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Events in the Public Sphere: Social Justice"
 }

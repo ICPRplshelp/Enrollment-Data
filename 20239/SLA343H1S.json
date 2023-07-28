@@ -101,13 +101,29 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ann",
+"lastName": "Komaromi"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ann",
+"lastName": "Komaromi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Studies in Late Soviet Culture"
 }

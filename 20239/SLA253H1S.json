@@ -101,13 +101,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Taras",
+"lastName": "Koznarsky"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Taras",
+"lastName": "Koznarsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381381,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Origins of Russia and Ukraine"
 }

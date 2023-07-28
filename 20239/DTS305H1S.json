@@ -101,13 +101,29 @@
 8,
 8,
 8,
-8
+8,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alejandra",
+"lastName": "Gonzalez Jimenez"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alejandra",
+"lastName": "Gonzalez Jimenez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -203,7 +219,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Special Topics in Diaspora and Transnational Studies"
 }

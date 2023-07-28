@@ -98,13 +98,29 @@
 36,
 38,
 38,
-38
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sergio",
+"lastName": "Montero Munoz"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sergio",
+"lastName": "Montero Munoz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Civic Engagement in Urban Politics"
 }

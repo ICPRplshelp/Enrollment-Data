@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 144,
+"enrollmentCap": 93,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 93,
+"time": 1690549709
+}
+],
 "initialCap": 144
 },
 "enrollmentLogs": [
@@ -101,7 +106,8 @@
 71,
 71,
 71,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,7 +258,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Literature and Data"
 }

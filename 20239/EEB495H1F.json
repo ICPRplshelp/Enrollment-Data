@@ -101,6 +101,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -136,6 +137,19 @@
 }
 ],
 "timing": 1687979256
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Asher",
+"lastName": "Cutter"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Downer-Bartholomew"
+}
+],
+"timing": 1690549709
 }
 ]
 },
@@ -143,6 +157,10 @@
 {
 "firstName": "Asher",
 "lastName": "Cutter"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Downer-Bartholomew"
 }
 ],
 "isCancelled": false,
@@ -240,7 +258,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Seminar in Ecology and Evolutionary Biology"
 }

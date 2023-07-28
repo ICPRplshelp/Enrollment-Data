@@ -98,13 +98,37 @@
 124,
 123,
 121,
-122
+122,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ceren",
+"lastName": "Baysan"
 },
-"instructors": [],
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
+"timing": 1690549709
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ceren",
+"lastName": "Baysan"
+},
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -204,13 +228,37 @@
 106,
 106,
 107,
-108
+108,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ceren",
+"lastName": "Baysan"
 },
-"instructors": [],
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
+"timing": 1690549709
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ceren",
+"lastName": "Baysan"
+},
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -310,13 +358,29 @@
 114,
 116,
 120,
-120
+120,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
+"timing": 1690549709
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -329,6 +393,7 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -515,7 +580,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549709
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

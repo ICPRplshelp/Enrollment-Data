@@ -98,13 +98,29 @@
 14,
 15,
 15,
-15
+15,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nitish Ranjan",
+"lastName": "Sarker"
+}
+],
+"timing": 1690549708
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nitish Ranjan",
+"lastName": "Sarker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -197,7 +213,8 @@
 1690223854,
 1690316798,
 1690381380,
-1690443128
+1690443128,
+1690549708
 ],
 "title": "Innovative Technologies and Organizations in Global Energy Systems"
 }
