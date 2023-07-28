@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1690559854
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -73,6 +78,7 @@
 10,
 10,
 10,
+11,
 11,
 11,
 11,
@@ -220,7 +226,8 @@
 1690549709,
 1690552718,
 1690554654,
-1690556608
+1690556608,
+1690559854
 ],
 "title": "Theoretical Issues In Second Language Teaching and Learning"
 }

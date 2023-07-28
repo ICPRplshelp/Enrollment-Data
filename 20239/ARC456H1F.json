@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1690559853
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -30,6 +35,7 @@
 0,
 0,
 0,
+16,
 16,
 16,
 16,
@@ -190,7 +196,8 @@
 1690549708,
 1690552717,
 1690554654,
-1690556608
+1690556608,
+1690559853
 ],
 "title": "Senior Seminar in History and Theory (Research)"
 }

@@ -105,6 +105,7 @@
 138,
 138,
 138,
+139,
 139
 ],
 "instructorLog": {
@@ -233,13 +234,29 @@
 109,
 109,
 109,
+110,
 110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1690559853
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -339,7 +356,8 @@
 1690549709,
 1690552717,
 1690554654,
-1690556608
+1690556608,
+1690559853
 ],
 "title": "Computer Networking Systems"
 }
