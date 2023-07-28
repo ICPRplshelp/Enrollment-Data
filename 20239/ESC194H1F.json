@@ -114,6 +114,7 @@
 168,
 168,
 168,
+168,
 168
 ],
 "instructorLog": {
@@ -136,12 +137,12 @@
 },
 "instructors": [
 {
-"firstName": "Peter",
-"lastName": "Stangeby"
-},
-{
 "firstName": "James",
 "lastName": "Davis"
+},
+{
+"firstName": "Peter",
+"lastName": "Stangeby"
 }
 ],
 "isCancelled": false,
@@ -259,7 +260,8 @@
 165,
 164,
 164,
-164
+164,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -384,7 +386,8 @@
 1690443128,
 1690549709,
 1690552718,
-1690554654
+1690554654,
+1690556608
 ],
 "title": "Calculus I"
 }

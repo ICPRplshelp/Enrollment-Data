@@ -110,6 +110,7 @@
 114,
 114,
 114,
+114,
 114
 ],
 "instructorLog": {
@@ -123,13 +124,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Fae",
+"lastName": "Azhari"
+}
+],
+"timing": 1690556608
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Olivera",
-"lastName": "Kesler"
+"firstName": "Fae",
+"lastName": "Azhari"
 }
 ],
 "isCancelled": false,
@@ -243,6 +253,7 @@
 87,
 87,
 87,
+87,
 87
 ],
 "instructorLog": {
@@ -256,13 +267,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Fae",
+"lastName": "Azhari"
+}
+],
+"timing": 1690556608
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Olivera",
-"lastName": "Kesler"
+"firstName": "Fae",
+"lastName": "Azhari"
 }
 ],
 "isCancelled": false,
@@ -360,7 +380,8 @@
 1690443128,
 1690549709,
 1690552718,
-1690554654
+1690554654,
+1690556608
 ],
 "title": "Materials Science"
 }
