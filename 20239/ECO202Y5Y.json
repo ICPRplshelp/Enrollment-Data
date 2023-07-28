@@ -99,6 +99,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -206,13 +207,29 @@
 66,
 93,
 107,
+130,
 130
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yingnan",
+"lastName": "Zhao"
+}
+],
+"timing": 1690552717
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yingnan",
+"lastName": "Zhao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -313,13 +330,29 @@
 101,
 136,
 151,
+156,
 156
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yingnan",
+"lastName": "Zhao"
+}
+],
+"timing": 1690552717
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yingnan",
+"lastName": "Zhao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -413,7 +446,8 @@
 1690316798,
 1690381380,
 1690443128,
-1690549709
+1690549709,
+1690552717
 ],
 "title": "Macroeconomic Theory and Policy"
 }

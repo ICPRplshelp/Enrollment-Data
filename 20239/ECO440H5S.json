@@ -99,13 +99,29 @@
 6,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Varouj",
+"lastName": "Aivazian"
+}
+],
+"timing": 1690552717
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Varouj",
+"lastName": "Aivazian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -199,7 +215,8 @@
 1690316798,
 1690381380,
 1690443128,
-1690549709
+1690549709,
+1690552717
 ],
 "title": "Advanced Topics in Financial Economics"
 }
