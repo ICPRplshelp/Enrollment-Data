@@ -108,13 +108,29 @@
 279,
 279,
 282,
+282,
 282
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Schwartz"
+}
+],
+"timing": 1690554654
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Schwartz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -223,6 +239,7 @@
 356,
 355,
 355,
+356,
 356,
 356
 ],
@@ -343,7 +360,8 @@
 1690381381,
 1690443128,
 1690549709,
-1690552718
+1690552718,
+1690554654
 ],
 "title": "An Introduction to Statistical Reasoning and Data Science"
 }

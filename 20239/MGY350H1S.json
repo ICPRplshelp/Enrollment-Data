@@ -103,7 +103,8 @@
 54,
 54,
 54,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -129,16 +130,16 @@
 },
 "instructors": [
 {
+"firstName": "Brian",
+"lastName": "Ciruna"
+},
+{
 "firstName": "Brent",
 "lastName": "Derry"
 },
 {
 "firstName": "Yun",
 "lastName": "Li"
-},
-{
-"firstName": "Brian",
-"lastName": "Ciruna"
 }
 ],
 "isCancelled": false,
@@ -238,7 +239,8 @@
 1690381381,
 1690443128,
 1690549709,
-1690552718
+1690552718,
+1690554654
 ],
 "title": "Model Organisms to Disease"
 }
