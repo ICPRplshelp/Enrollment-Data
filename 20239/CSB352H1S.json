@@ -109,13 +109,29 @@
 178,
 180,
 180,
-180
+180,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -219,7 +235,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Bioinformatic Methods"
 }

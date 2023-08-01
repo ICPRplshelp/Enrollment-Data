@@ -106,13 +106,29 @@
 14,
 15,
 15,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew Lewis",
+"lastName": "Steck"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew Lewis",
+"lastName": "Steck"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Machine Learning"
 }

@@ -106,13 +106,29 @@
 66,
 66,
 66,
+66,
 66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +236,29 @@
 43,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -327,7 +359,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Investments"
 }

@@ -106,13 +106,29 @@
 44,
 45,
 45,
-45
+45,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Wafaa",
+"lastName": "Elrefaei"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Wafaa",
+"lastName": "Elrefaei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Introductory Arabic"
 }

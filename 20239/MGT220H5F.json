@@ -106,13 +106,29 @@
 41,
 41,
 41,
-41
+41,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -210,6 +226,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -334,13 +351,29 @@
 79,
 79,
 79,
+79,
 79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -441,6 +474,7 @@
 64,
 68,
 68,
+69,
 69,
 69,
 69,
@@ -555,7 +589,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Intermediate Accounting I"
 }

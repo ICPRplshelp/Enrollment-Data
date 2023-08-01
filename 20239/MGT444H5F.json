@@ -106,13 +106,29 @@
 27,
 27,
 27,
-27
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Park"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Park"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +236,29 @@
 52,
 52,
 52,
-52
+52,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Park"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Park"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -327,7 +359,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "FinTech Innovation"
 }

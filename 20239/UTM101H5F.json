@@ -106,13 +106,29 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +236,29 @@
 8,
 8,
 8,
-8
+8,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -334,13 +366,29 @@
 12,
 12,
 12,
-12
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -448,13 +496,29 @@
 8,
 8,
 8,
-8
+8,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -562,13 +626,29 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -676,13 +756,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charesma",
+"lastName": "Jaidev Biaspal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 }
@@ -783,7 +879,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "LAUNCH: Business, Commerce and Management"
 }

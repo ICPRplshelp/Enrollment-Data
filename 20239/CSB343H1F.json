@@ -109,7 +109,8 @@
 66,
 67,
 67,
-67
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -122,6 +123,19 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Leslie",
+"lastName": "Buck"
+},
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
+}
+],
+"timing": 1690850247
 }
 ]
 },
@@ -129,6 +143,10 @@
 {
 "firstName": "Leslie",
 "lastName": "Buck"
+},
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
 }
 ],
 "isCancelled": false,
@@ -234,7 +252,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Animal Energetics"
 }

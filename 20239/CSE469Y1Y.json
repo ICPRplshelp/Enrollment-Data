@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1690850247
+}
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 11,
 12,
 12,
-12
+12,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,7 +240,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Decolonizing Research Methodologies for New Researchers"
 }

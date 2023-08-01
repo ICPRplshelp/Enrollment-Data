@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1690850247
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 48,
 47,
 47,
-47
+47,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,7 +240,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Latin & Greek in Scientific Terminology"
 }

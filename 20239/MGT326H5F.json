@@ -106,13 +106,29 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Advanced Accounting"
 }

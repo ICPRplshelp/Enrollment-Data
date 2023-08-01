@@ -106,13 +106,29 @@
 506,
 507,
 507,
-507
+507,
+508
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +236,29 @@
 507,
 506,
 506,
-506
+506,
+510
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -327,7 +359,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Introduction to Evolution and Evolutionary Genetics"
 }

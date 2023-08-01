@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1690850247
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 10,
 10,
 10,
-10
+10,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,7 +137,7 @@
 "lastName": "Bahoora"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -234,7 +240,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Gender and Sexuality in Modern Middle Eastern Cultures"
 }

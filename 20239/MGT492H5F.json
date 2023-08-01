@@ -106,13 +106,29 @@
 37,
 37,
 37,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -213,7 +229,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Introduction to Strategic Management"
 }

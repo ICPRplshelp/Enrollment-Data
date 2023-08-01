@@ -109,13 +109,29 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anjali",
+"lastName": "Silva"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anjali",
+"lastName": "Silva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -219,7 +235,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Applied Bioinformatics"
 }

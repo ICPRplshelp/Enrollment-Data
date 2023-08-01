@@ -106,7 +106,8 @@
 100,
 101,
 101,
-101
+101,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,6 +131,136 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1690850247,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna",
+"lastName": "Bretscher"
+}
+],
+"timing": 1690850247
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anna",
+"lastName": "Bretscher"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -228,7 +359,8 @@
 1690559853,
 1690578910,
 1690669017,
-1690742545
+1690742545,
+1690850247
 ],
 "title": "Algorithm Design and Analysis"
 }

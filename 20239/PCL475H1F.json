@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1690850247
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 87,
 88,
 88,
-88
+88,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,7 +248,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Neuropsychopharmacology 1"
 }

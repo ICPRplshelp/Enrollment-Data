@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 36,
+"time": 1690850247
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -55,6 +60,7 @@
 35,
 35,
 35,
+36,
 36,
 36,
 36,
@@ -228,7 +234,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Mathematical Programming (Optimization)"
 }

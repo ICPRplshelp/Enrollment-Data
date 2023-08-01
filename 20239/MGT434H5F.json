@@ -106,13 +106,37 @@
 23,
 23,
 23,
-23
+23,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
 },
-"instructors": [],
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1690850247
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
+},
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +244,37 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
 },
-"instructors": [],
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1690850247
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mihkel",
+"lastName": "Tombak"
+},
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -327,7 +375,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Mergers and Acquisitions"
 }

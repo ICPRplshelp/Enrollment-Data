@@ -1,13 +1,18 @@
 {
 "code": "CIV550H1F",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1690850247
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -68,7 +73,8 @@
 10,
 10,
 10,
-9
+9,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -137,7 +143,8 @@
 1689181381,
 1689184970,
 1689195879,
-1689216730
+1689216730,
+1690850247
 ],
 "title": "Water Resources Engineering"
 }

@@ -106,13 +106,29 @@
 41,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -220,13 +236,29 @@
 58,
 58,
 58,
-58
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -334,13 +366,29 @@
 58,
 59,
 59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
+"timing": 1690850247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -441,7 +489,8 @@
 1690559854,
 1690578910,
 1690669017,
-1690742546
+1690742546,
+1690850247
 ],
 "title": "Management Accounting I"
 }
