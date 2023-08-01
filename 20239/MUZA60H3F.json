@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 22,
 "time": 1690549709
+},
+{
+"newCapacity": 26,
+"time": 1690911423
 }
 ],
 "initialCap": 18
@@ -112,6 +116,7 @@
 23,
 23,
 23,
+25,
 25
 ],
 "instructorLog": {
@@ -220,7 +225,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Concert Band Ia"
 }

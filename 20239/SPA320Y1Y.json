@@ -110,13 +110,37 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marta",
+"lastName": "Rocatin Centelles"
 },
-"instructors": [],
+{
+"firstName": "Yolanda",
+"lastName": "Iglesias"
+}
+],
+"timing": 1690911423
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marta",
+"lastName": "Rocatin Centelles"
+},
+{
+"firstName": "Yolanda",
+"lastName": "Iglesias"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -228,13 +252,37 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yolanda",
+"lastName": "Iglesias"
 },
-"instructors": [],
+{
+"firstName": "Laura",
+"lastName": "Colantoni"
+}
+],
+"timing": 1690911423
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yolanda",
+"lastName": "Iglesias"
+},
+{
+"firstName": "Laura",
+"lastName": "Colantoni"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -346,13 +394,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -457,7 +521,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Advanced Spanish"
 }

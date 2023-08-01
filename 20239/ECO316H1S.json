@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 135,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 135,
+"time": 1690911423
+}
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -110,7 +115,8 @@
 188,
 188,
 188,
-187
+187,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,7 +242,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Applied Game Theory"
 }

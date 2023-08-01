@@ -107,13 +107,29 @@
 65,
 66,
 66,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Unmi",
+"lastName": "Back"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Unmi",
+"lastName": "Back"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -215,7 +231,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Beginner Korean I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1690911423
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -107,6 +112,7 @@
 82,
 82,
 82,
+81,
 81
 ],
 "instructorLog": {
@@ -230,7 +236,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Topics in Computer Science"
 }

@@ -110,13 +110,29 @@
 33,
 33,
 33,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ivan",
+"lastName": "Fernandez Pelaez"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ivan",
+"lastName": "Fernandez Pelaez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -221,7 +237,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Business Spanish"
 }

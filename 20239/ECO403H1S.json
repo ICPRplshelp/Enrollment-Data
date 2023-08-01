@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1690911423
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 89,
 89,
 89,
+87,
 87
 ],
 "instructorLog": {
@@ -138,9 +144,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 36,
+"time": 1690911423
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -243,7 +254,8 @@
 85,
 85,
 85,
-85
+85,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -369,7 +381,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Topics in Development Economics and Policy"
 }

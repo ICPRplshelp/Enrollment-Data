@@ -239,6 +239,7 @@
 112,
 112,
 112,
+112,
 112
 ],
 "instructorLog": {
@@ -252,6 +253,19 @@
 }
 ],
 "timing": 1678147320
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sanghyun",
+"lastName": "Kim"
+},
+{
+"firstName": "Amy Lynn",
+"lastName": "Jenne"
+}
+],
+"timing": 1690911374
 }
 ]
 },
@@ -259,6 +273,10 @@
 {
 "firstName": "Sanghyun",
 "lastName": "Kim"
+},
+{
+"firstName": "Amy Lynn",
+"lastName": "Jenne"
 }
 ],
 "isCancelled": false,
@@ -494,7 +512,8 @@
 1690578851,
 1690668969,
 1690742502,
-1690850062
+1690850062,
+1690911374
 ],
 "title": "Introductory Chemistry II: Reactions and Mechanisms"
 }

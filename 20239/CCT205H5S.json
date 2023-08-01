@@ -107,13 +107,29 @@
 92,
 92,
 92,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Pier",
+"lastName": "Boucher"
+}
+],
+"timing": 1690911422
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-Pier",
+"lastName": "Boucher"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -215,7 +231,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911422
 ],
 "title": "Digital Innovation and Cultural Transformation"
 }

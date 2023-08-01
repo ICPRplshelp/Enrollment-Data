@@ -110,13 +110,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bob",
+"lastName": "Davidson"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bob",
+"lastName": "Davidson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -221,7 +237,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Spanish Cinema"
 }

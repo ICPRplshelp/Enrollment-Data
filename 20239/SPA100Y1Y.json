@@ -110,13 +110,29 @@
 42,
 42,
 42,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -228,13 +244,29 @@
 52,
 52,
 52,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -346,13 +378,37 @@
 48,
 49,
 49,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeannette",
+"lastName": "Sanchez-Naranjo"
 },
-"instructors": [],
+{
+"firstName": "Sanda",
+"lastName": "Munjic"
+}
+],
+"timing": 1690911423
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jeannette",
+"lastName": "Sanchez-Naranjo"
+},
+{
+"firstName": "Sanda",
+"lastName": "Munjic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -464,13 +520,29 @@
 35,
 35,
 35,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeannette",
+"lastName": "Sanchez-Naranjo"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeannette",
+"lastName": "Sanchez-Naranjo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -582,13 +654,37 @@
 44,
 45,
 45,
+54,
 54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jesus",
+"lastName": "Porras Vielma"
 },
-"instructors": [],
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
+"timing": 1690911423
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jesus",
+"lastName": "Porras Vielma"
+},
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -700,6 +796,7 @@
 10,
 10,
 10,
+9,
 9
 ],
 "instructorLog": {
@@ -818,13 +915,29 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -936,13 +1049,37 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vanina S.",
+"lastName": "Machado"
 },
-"instructors": [],
+{
+"firstName": "Petre Marian",
+"lastName": "Ene"
+}
+],
+"timing": 1690911423
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vanina S.",
+"lastName": "Machado"
+},
+{
+"firstName": "Petre Marian",
+"lastName": "Ene"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5202"
 }
@@ -1047,7 +1184,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Spanish for Beginners"
 }

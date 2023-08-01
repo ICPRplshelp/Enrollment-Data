@@ -110,13 +110,29 @@
 10,
 10,
 10,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Rivas"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Victor",
+"lastName": "Rivas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -221,7 +237,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Introduction to Latin American Studies II: Current Issues"
 }

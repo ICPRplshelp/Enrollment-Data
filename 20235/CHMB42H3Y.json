@@ -239,6 +239,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -252,6 +253,19 @@
 }
 ],
 "timing": 1678147320
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+},
+{
+"firstName": "Monica",
+"lastName": "Bastawrous"
+}
+],
+"timing": 1690911374
 }
 ]
 },
@@ -259,6 +273,10 @@
 {
 "firstName": "Effiette",
 "lastName": "Sauer"
+},
+{
+"firstName": "Monica",
+"lastName": "Bastawrous"
 }
 ],
 "isCancelled": false,
@@ -494,7 +512,8 @@
 1690578851,
 1690668969,
 1690742502,
-1690850062
+1690850062,
+1690911374
 ],
 "title": "Organic Chemistry II"
 }

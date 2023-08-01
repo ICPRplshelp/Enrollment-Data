@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1690911423
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 51,
 51,
 51,
+56,
 56
 ],
 "instructorLog": {
@@ -236,7 +242,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Applied Econometrics II"
 }

@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1690911423
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -111,9 +117,24 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ahmed Umer",
+"lastName": "Ashraf"
+}
+],
+"timing": 1690911423
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ahmed Umer",
+"lastName": "Ashraf"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -215,7 +236,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Topics in Computer Science"
 }

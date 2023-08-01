@@ -110,7 +110,8 @@
 513,
 513,
 513,
-513
+513,
+512
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -243,7 +244,8 @@
 520,
 519,
 519,
-527
+527,
+518
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -376,7 +378,8 @@
 363,
 365,
 365,
-369
+369,
+370
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -509,7 +512,8 @@
 492,
 491,
 491,
-498
+498,
+487
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -537,12 +541,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 400,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 400,
 "time": 1687305253
+},
+{
+"newCapacity": 468,
+"time": 1690911423
 }
 ],
 "initialCap": 468
@@ -647,7 +655,8 @@
 419,
 418,
 418,
-426
+426,
+424
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -780,7 +789,8 @@
 45,
 45,
 45,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -913,7 +923,8 @@
 525,
 525,
 525,
-530
+530,
+520
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1039,7 +1050,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Principles of Microeconomics"
 }

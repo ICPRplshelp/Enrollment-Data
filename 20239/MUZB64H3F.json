@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 9,
+"time": 1690911423
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -104,6 +109,7 @@
 5,
 5,
 5,
+6,
 6,
 6,
 6,
@@ -230,7 +236,8 @@
 1690578910,
 1690669017,
 1690742546,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "String Orchestra IIa"
 }

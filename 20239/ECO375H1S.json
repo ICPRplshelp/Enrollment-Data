@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1690911423
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 86,
 86,
 86,
+85,
 85
 ],
 "instructorLog": {
@@ -138,9 +144,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1690911423
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -243,6 +254,7 @@
 71,
 71,
 71,
+75,
 75
 ],
 "instructorLog": {
@@ -369,7 +381,8 @@
 1690578910,
 1690669017,
 1690742545,
-1690850247
+1690850247,
+1690911423
 ],
 "title": "Applied Econometrics I"
 }
