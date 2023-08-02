@@ -111,13 +111,29 @@
 58,
 58,
 60,
-61
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Djedovic"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Djedovic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -230,7 +246,8 @@
 32,
 32,
 34,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -342,7 +359,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Modifying and Optimizing Life: on the Peculiar Alliance between AI, Biology, and Engineering"
 }

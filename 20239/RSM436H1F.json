@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1690991838
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -105,6 +110,7 @@
 68,
 66,
 66,
+67,
 67,
 67,
 67,
@@ -238,7 +244,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Sustainable Finance"
 }

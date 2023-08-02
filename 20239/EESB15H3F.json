@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1690991837
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -108,7 +113,8 @@
 58,
 58,
 69,
-69
+69,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +238,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Earth History"
 }

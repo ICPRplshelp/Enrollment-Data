@@ -111,7 +111,8 @@
 479,
 479,
 482,
-481
+481,
+482
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,6 +245,7 @@
 454,
 454,
 454,
+458,
 458,
 458
 ],
@@ -379,7 +381,8 @@
 206,
 206,
 208,
-207
+207,
+210
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -498,7 +501,8 @@
 205,
 205,
 206,
-205
+205,
+206
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -632,7 +636,8 @@
 211,
 211,
 208,
-208
+208,
+207
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -775,7 +780,8 @@
 262,
 262,
 261,
-260
+260,
+259
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -908,6 +914,7 @@
 197,
 195,
 195,
+196,
 196,
 196
 ],
@@ -1043,7 +1050,8 @@
 189,
 189,
 188,
-190
+190,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1177,7 +1185,8 @@
 230,
 230,
 232,
-232
+232,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1190,13 +1199,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gavin",
+"lastName": "Hurd"
+}
+],
+"timing": 1690991837
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Dmitriy",
-"lastName": "Panchenko"
+"firstName": "Gavin",
+"lastName": "Hurd"
 }
 ],
 "isCancelled": false,
@@ -1311,7 +1329,8 @@
 159,
 159,
 157,
-157
+157,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1445,6 +1464,7 @@
 132,
 132,
 156,
+155,
 155
 ],
 "instructorLog": {
@@ -1579,6 +1599,7 @@
 188,
 188,
 195,
+196,
 196
 ],
 "instructorLog": {
@@ -1713,7 +1734,8 @@
 33,
 33,
 59,
-66
+66,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1825,7 +1847,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Calculus I"
 }

@@ -116,13 +116,29 @@
 31,
 31,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Fuentes Peralta"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Fuentes Peralta"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -228,7 +244,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Social Justice in the City"
 }

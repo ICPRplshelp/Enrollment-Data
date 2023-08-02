@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 101,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 101,
+"time": 1690991837
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -111,7 +116,8 @@
 117,
 117,
 118,
-117
+117,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,9 +145,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 101,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 101,
+"time": 1690991837
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -245,7 +256,8 @@
 124,
 124,
 124,
-124
+124,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -372,7 +384,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

@@ -111,13 +111,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Craig",
+"lastName": "Smibert"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Craig",
+"lastName": "Smibert"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -223,7 +239,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Advanced Research Project in Biochemistry"
 }

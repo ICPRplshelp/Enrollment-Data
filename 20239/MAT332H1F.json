@@ -111,7 +111,8 @@
 132,
 132,
 133,
-133
+133,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -124,13 +125,22 @@
 }
 ],
 "timing": 1686954931
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hunter",
+"lastName": "Spink"
+}
+],
+"timing": 1690991837
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Daniel",
-"lastName": "Spivak"
+"firstName": "Hunter",
+"lastName": "Spink"
 }
 ],
 "isCancelled": false,
@@ -238,7 +248,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Introduction to Graph Theory"
 }

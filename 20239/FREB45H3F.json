@@ -108,6 +108,7 @@
 12,
 12,
 13,
+14,
 14
 ],
 "instructorLog": {
@@ -121,13 +122,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Omar",
+"lastName": "Gamboa Gonzalez"
+}
+],
+"timing": 1690991837
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Juvenal",
-"lastName": "Ndayiragije"
+"firstName": "Omar",
+"lastName": "Gamboa Gonzalez"
 }
 ],
 "isCancelled": false,
@@ -232,7 +242,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Introduction to Linguistics: French Morphology and Syntax"
 }

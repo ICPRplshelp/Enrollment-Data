@@ -113,13 +113,29 @@
 19,
 19,
 21,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julie Yujie",
+"lastName": "Chen"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Julie Yujie",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -222,7 +238,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Digital Platforms: A Global Perspective"
 }

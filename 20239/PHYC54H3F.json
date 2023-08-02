@@ -108,13 +108,29 @@
 25,
 25,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "PATRICK",
+"lastName": "MCGRAW (NOUTORID)"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "PATRICK",
+"lastName": "MCGRAW (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -217,7 +233,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Classical Mechanics"
 }

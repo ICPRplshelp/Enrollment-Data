@@ -1,0 +1,46 @@
+{
+"code": "ARC388H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1690991837,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Hoban"
+}
+],
+"timing": 1690991837
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Hoban"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1690991836,
+1690991837
+],
+"title": "Exploring Robotic Design Practices"
+}

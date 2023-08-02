@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 66,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1690991837
+}
+],
 "initialCap": 66
 },
 "enrollmentLogs": [
@@ -111,7 +116,8 @@
 91,
 91,
 92,
-92
+92,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -246,7 +252,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Evolutionary Genetics"
 }

@@ -111,13 +111,29 @@
 11,
 11,
 11,
-11
+11,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morgyn",
+"lastName": "Babins"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Morgyn",
+"lastName": "Babins"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -223,7 +239,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Judaism and Feminism: Legal Issues from Menstruation to Ordination"
 }

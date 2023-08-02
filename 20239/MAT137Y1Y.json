@@ -111,6 +111,7 @@
 232,
 232,
 230,
+230,
 230
 ],
 "instructorLog": {
@@ -245,6 +246,7 @@
 186,
 186,
 197,
+196,
 196
 ],
 "instructorLog": {
@@ -258,13 +260,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Luciano",
+"lastName": "Salvetti Martinez"
+}
+],
+"timing": 1690991837
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Gael",
-"lastName": "Yomgne Diebou"
+"firstName": "Luciano",
+"lastName": "Salvetti Martinez"
 }
 ],
 "isCancelled": false,
@@ -379,6 +390,7 @@
 225,
 225,
 225,
+224,
 224
 ],
 "instructorLog": {
@@ -513,6 +525,7 @@
 195,
 195,
 196,
+195,
 195
 ],
 "instructorLog": {
@@ -631,6 +644,7 @@
 171,
 172,
 172,
+195,
 195,
 195
 ],
@@ -765,6 +779,7 @@
 194,
 193,
 193,
+197,
 197,
 197
 ],
@@ -909,7 +924,8 @@
 107,
 107,
 122,
-127
+127,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -952,6 +968,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1186,7 +1203,8 @@
 89,
 89,
 102,
-106
+106,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1313,7 +1331,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Calculus with Proofs"
 }

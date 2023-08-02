@@ -108,13 +108,29 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ramtin",
+"lastName": "Lotfabadi"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ramtin",
+"lastName": "Lotfabadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -224,13 +240,29 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ramtin",
+"lastName": "Lotfabadi"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ramtin",
+"lastName": "Lotfabadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -333,7 +365,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Intermediate Web Design (SH)"
 }

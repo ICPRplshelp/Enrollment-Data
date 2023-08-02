@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1690991838
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -108,7 +113,8 @@
 60,
 60,
 60,
-61
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,7 +223,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Introduction to Metaphysics"
 }

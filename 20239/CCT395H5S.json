@@ -108,13 +108,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beth Malaika",
+"lastName": "Coleman"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Beth Malaika",
+"lastName": "Coleman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -224,13 +240,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hyesung",
+"lastName": "Yoo"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hyesung",
+"lastName": "Yoo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -333,7 +365,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Topics in Communication, Culture, Information & Technology"
 }

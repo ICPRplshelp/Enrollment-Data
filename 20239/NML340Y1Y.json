@@ -111,13 +111,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Taylor Bryanne",
+"lastName": "Woodcock"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Taylor Bryanne",
+"lastName": "Woodcock"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -223,7 +239,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Intermediate Middle Egyptian"
 }

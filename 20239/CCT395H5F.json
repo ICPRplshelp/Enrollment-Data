@@ -108,13 +108,29 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Boase"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeffrey",
+"lastName": "Boase"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -217,7 +233,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Topics in Communication, Culture, Information & Technology"
 }

@@ -108,13 +108,29 @@
 59,
 59,
 59,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -217,7 +233,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Digital Media:  Video (SH)"
 }

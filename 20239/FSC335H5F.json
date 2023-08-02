@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1690991837
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -107,6 +112,7 @@
 74,
 74,
 74,
+73,
 73,
 73
 ],
@@ -232,7 +238,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Forensic Epistemology and Theory"
 }

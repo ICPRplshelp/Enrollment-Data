@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1690991838
+}
+],
 "initialCap": 135
 },
 "enrollmentLogs": [
@@ -108,6 +113,7 @@
 153,
 153,
 154,
+155,
 155
 ],
 "instructorLog": {
@@ -232,7 +238,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Puzzles and Paradoxes"
 }

@@ -111,13 +111,29 @@
 66,
 66,
 67,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alana",
+"lastName": "Jones"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alana",
+"lastName": "Jones"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -223,7 +239,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Housing and Homelessness"
 }

@@ -108,13 +108,29 @@
 22,
 22,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
+"timing": 1690991837
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -217,7 +233,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911422
+1690911422,
+1690991837
 ],
 "title": "Alternative Media"
 }

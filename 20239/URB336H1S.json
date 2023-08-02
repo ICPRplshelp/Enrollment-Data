@@ -111,13 +111,29 @@
 42,
 42,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter Janos",
+"lastName": "Galambos"
+}
+],
+"timing": 1690991838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter Janos",
+"lastName": "Galambos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -223,7 +239,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991838
 ],
 "title": "Creative Cities"
 }

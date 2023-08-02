@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1690991837
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -111,7 +116,8 @@
 39,
 39,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,9 +145,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1690991837
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -245,7 +256,8 @@
 39,
 39,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -372,7 +384,8 @@
 1690669017,
 1690742545,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Special Topics in Economics with Data Analytics"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 46,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1690991837
+}
+],
 "initialCap": 46
 },
 "enrollmentLogs": [
@@ -111,7 +116,8 @@
 53,
 53,
 55,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,9 +145,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 84,
+"enrollmentCap": 69,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 69,
+"time": 1690991837
+}
+],
 "initialCap": 84
 },
 "enrollmentLogs": [
@@ -245,6 +256,7 @@
 61,
 61,
 60,
+59,
 59
 ],
 "instructorLog": {
@@ -372,7 +384,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "Energy Policy and Environment"
 }

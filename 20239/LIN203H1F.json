@@ -111,7 +111,8 @@
 34,
 34,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -124,6 +125,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "M. Cristina",
+"lastName": "Cuervo"
+},
+{
+"firstName": "Liam",
+"lastName": "Donohue"
+}
+],
+"timing": 1690991837
 }
 ]
 },
@@ -131,6 +145,10 @@
 {
 "firstName": "M. Cristina",
 "lastName": "Cuervo"
+},
+{
+"firstName": "Liam",
+"lastName": "Donohue"
 }
 ],
 "isCancelled": false,
@@ -238,7 +256,8 @@
 1690669017,
 1690742546,
 1690850247,
-1690911423
+1690911423,
+1690991837
 ],
 "title": "English Words"
 }
