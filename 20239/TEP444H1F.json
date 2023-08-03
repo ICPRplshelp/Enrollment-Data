@@ -109,7 +109,8 @@
 335,
 332,
 332,
-308
+308,
+299
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -137,9 +138,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1691091680
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -241,7 +247,8 @@
 205,
 203,
 203,
-191
+191,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -366,7 +373,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Positive Psychology for Engineers"
 }

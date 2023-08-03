@@ -112,13 +112,29 @@
 330,
 343,
 341,
-353
+353,
+355
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Commentator",
+"lastName": "Lesk"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Commentator",
+"lastName": "Lesk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -225,7 +241,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Effective Writing"
 }

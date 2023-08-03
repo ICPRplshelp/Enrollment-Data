@@ -94,13 +94,29 @@
 4,
 4,
 4,
-4
+4,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Kraven"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Karen",
+"lastName": "Kraven"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -189,7 +205,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Thesis Project (Critical Practices)"
 }

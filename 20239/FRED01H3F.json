@@ -109,13 +109,29 @@
 22,
 22,
 23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "STEPHANIE",
+"lastName": "COTE (NOUTORID)"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "STEPHANIE",
+"lastName": "COTE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -226,13 +242,29 @@
 15,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -336,7 +368,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Language practice VII: Written French"
 }

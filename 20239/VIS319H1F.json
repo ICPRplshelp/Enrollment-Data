@@ -94,13 +94,29 @@
 30,
 31,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nour",
+"lastName": "Bishouty"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nour",
+"lastName": "Bishouty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -189,7 +205,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Defining Landscapes"
 }

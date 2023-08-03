@@ -85,13 +85,29 @@
 20,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ana Teresa",
+"lastName": "Perez-Leroux"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ana Teresa",
+"lastName": "Perez-Leroux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -171,7 +187,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Advanced Grammar"
 }

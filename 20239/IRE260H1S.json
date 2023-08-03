@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1689866098
+},
+{
+"newCapacity": 120,
+"time": 1691091680
 }
 ],
 "initialCap": 90
@@ -117,7 +121,8 @@
 111,
 113,
 113,
-114
+114,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -230,7 +235,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Organizational Behaviour"
 }

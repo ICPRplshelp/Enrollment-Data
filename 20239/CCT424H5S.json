@@ -95,13 +95,29 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -191,7 +207,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Organizational Studies III (DEM)"
 }

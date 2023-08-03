@@ -112,7 +112,8 @@
 60,
 60,
 60,
-60
+60,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +248,8 @@
 66,
 65,
 65,
-65
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -382,7 +384,8 @@
 60,
 60,
 60,
-60
+60,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +520,8 @@
 64,
 64,
 64,
-64
+64,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -541,6 +545,142 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1691091680,
+"delivery": "INPER",
+"enrollmentCap": 49,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 49
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Wendy",
+"lastName": "Rotenberg"
+}
+],
+"timing": 1691091680
+}
+]
+},
+"instructors": [
+{
+"firstName": "Wendy",
+"lastName": "Rotenberg"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0501"
 },
 {
 "createdAt": 1686549020,
@@ -652,7 +792,8 @@
 61,
 61,
 61,
-61
+61,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -780,7 +921,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "International Finance"
 }

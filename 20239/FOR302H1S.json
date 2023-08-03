@@ -112,13 +112,29 @@
 46,
 52,
 52,
-57
+57,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amory",
+"lastName": "Ngan"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amory",
+"lastName": "Ngan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Societal Values and Forest Management"
 }

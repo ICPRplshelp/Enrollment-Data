@@ -94,13 +94,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -189,7 +205,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Thesis Project (Studio)"
 }

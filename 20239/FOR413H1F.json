@@ -112,13 +112,29 @@
 11,
 10,
 10,
-9
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Baici"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Baici"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Wildlife Ecology & Conservation"
 }

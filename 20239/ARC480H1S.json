@@ -94,13 +94,29 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zachary",
+"lastName": "Mollica"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zachary",
+"lastName": "Mollica"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Advanced Topics in the Technology of Architecture"
 }

@@ -109,7 +109,8 @@
 84,
 87,
 87,
-88
+88,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,7 +242,8 @@
 88,
 88,
 88,
-86
+86,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -373,7 +375,8 @@
 72,
 70,
 71,
-73
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,6 +508,7 @@
 68,
 67,
 67,
+70,
 70
 ],
 "instructorLog": {
@@ -637,7 +641,8 @@
 75,
 74,
 74,
-74
+74,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -754,7 +759,8 @@
 64,
 65,
 65,
-67
+67,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -767,9 +773,14 @@
 {
 "createdAt": 1689184970,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691091680
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -871,7 +882,8 @@
 66,
 65,
 65,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -884,9 +896,14 @@
 {
 "createdAt": 1689184970,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691091680
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -988,6 +1005,7 @@
 61,
 64,
 64,
+67,
 67
 ],
 "instructorLog": {
@@ -1098,7 +1116,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Human Resource Management"
 }

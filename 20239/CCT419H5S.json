@@ -109,13 +109,29 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steve",
+"lastName": "Szigeti"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Steve",
+"lastName": "Szigeti"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "User Experience Design - UXD and Board Games"
 }

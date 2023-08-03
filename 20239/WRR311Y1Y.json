@@ -112,13 +112,29 @@
 38,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kelli",
+"lastName": "Deeth"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kelli",
+"lastName": "Deeth"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Seminar in Creative Writing"
 }

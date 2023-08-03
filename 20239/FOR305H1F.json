@@ -112,13 +112,29 @@
 55,
 57,
 57,
-59
+59,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eric",
+"lastName": "Davies"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eric",
+"lastName": "Davies"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Biology of Trees and Forests"
 }

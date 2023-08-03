@@ -109,13 +109,29 @@
 58,
 58,
 59,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zoe",
+"lastName": "Anthony"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zoe",
+"lastName": "Anthony"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -219,7 +235,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Philosophy and Feminism"
 }

@@ -114,13 +114,29 @@
 31,
 30,
 30,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ANN",
+"lastName": "DONNAR"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ANN",
+"lastName": "DONNAR"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -236,13 +252,29 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ANN",
+"lastName": "DONAR"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ANN",
+"lastName": "DONAR"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -358,13 +390,29 @@
 13,
 16,
 16,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ANN",
+"lastName": "DONAR"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ANN",
+"lastName": "DONAR"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -468,7 +516,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Design Thinking II (SH)"
 }

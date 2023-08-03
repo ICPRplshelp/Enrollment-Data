@@ -109,13 +109,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michele",
+"lastName": "Irwin"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michele",
+"lastName": "Irwin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Writing for Change: Foundational Academic Skills to Make a Difference in Your Community"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1691091680
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -112,7 +117,8 @@
 8,
 5,
 5,
-5
+5,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,7 +140,7 @@
 "lastName": "Jan"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -240,7 +246,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Special Topics in Management"
 }

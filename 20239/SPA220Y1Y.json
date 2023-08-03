@@ -112,6 +112,7 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -247,7 +248,8 @@
 35,
 35,
 35,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -382,6 +384,7 @@
 19,
 20,
 21,
+22,
 22
 ],
 "instructorLog": {
@@ -395,6 +398,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Salvador",
+"lastName": "Alanis"
+},
+{
+"firstName": "Claudia",
+"lastName": "Vasquez-Caicedo Rainero"
+}
+],
+"timing": 1691091680
 }
 ]
 },
@@ -402,6 +418,10 @@
 {
 "firstName": "Salvador",
 "lastName": "Alanis"
+},
+{
+"firstName": "Claudia",
+"lastName": "Vasquez-Caicedo Rainero"
 }
 ],
 "isCancelled": false,
@@ -517,6 +537,7 @@
 16,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -630,7 +651,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Intermediate Spanish"
 }

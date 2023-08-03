@@ -94,13 +94,29 @@
 22,
 22,
 22,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Milena",
+"lastName": "Tomic"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Milena",
+"lastName": "Tomic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Advanced Critical Theory"
 }

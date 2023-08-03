@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 33,
+"time": 1691091680
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 41,
 41,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -122,9 +128,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 33,
+"time": 1691091680
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -226,7 +237,8 @@
 44,
 44,
 44,
-44
+44,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,9 +251,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 33,
+"time": 1691091680
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -343,7 +360,8 @@
 42,
 42,
 42,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -453,7 +471,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Investor Psychology and Behavioural Finance"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1691091680
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -112,7 +117,8 @@
 85,
 88,
 88,
-90
+90,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,7 +246,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Topics in History and Philosophy of Science and Technology"
 }

@@ -109,13 +109,29 @@
 144,
 144,
 144,
+144,
 144
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hyesung",
+"lastName": "Yoo"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hyesung",
+"lastName": "Yoo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Digital Marketing II (DEM)"
 }

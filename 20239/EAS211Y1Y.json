@@ -112,13 +112,29 @@
 14,
 15,
 15,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kyongbin",
+"lastName": "Kim"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kyongbin",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1690742545,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Accelerated Modern Standard Korean I & II"
 }

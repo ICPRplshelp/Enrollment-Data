@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 7,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 9,
+"time": 1691091680
+}
+],
 "initialCap": 7
 },
 "enrollmentLogs": [
@@ -55,6 +60,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -234,7 +240,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "Socialist Feminism in Global Context"
 }

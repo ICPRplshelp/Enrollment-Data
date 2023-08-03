@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 49,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 49,
+"time": 1691091680
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 58,
 59,
 60,
-62
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,7 +240,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Modern Chinese History"
 }

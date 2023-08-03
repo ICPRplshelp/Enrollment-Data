@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1691091680
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 57,
 55,
 55,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,7 +240,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991838
+1690991838,
+1691091680
 ],
 "title": "COMPOSITE MATERIALS ENG."
 }

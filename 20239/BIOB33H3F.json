@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 240,
+"enrollmentCap": 270,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 270,
+"time": 1691091680
+}
+],
 "initialCap": 240
 },
 "enrollmentLogs": [
@@ -109,7 +114,8 @@
 260,
 269,
 271,
-274
+274,
+280
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,7 +240,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Human Development and Anatomy"
 }

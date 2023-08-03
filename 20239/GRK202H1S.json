@@ -112,6 +112,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -125,13 +126,22 @@
 }
 ],
 "timing": 1689378883
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Sutton"
+}
+],
+"timing": 1691091680
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adriana",
-"lastName": "Brook"
+"firstName": "David",
+"lastName": "Sutton"
 }
 ],
 "isCancelled": false,
@@ -240,7 +250,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Intermediate Ancient Greek II"
 }

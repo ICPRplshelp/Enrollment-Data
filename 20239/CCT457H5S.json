@@ -109,13 +109,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "KATHLEEN",
+"lastName": "HEARN"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "KATHLEEN",
+"lastName": "HEARN"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Digital Media:  Advanced Photography Production (SH)"
 }

@@ -109,13 +109,29 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -226,13 +242,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -336,7 +368,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Sustainable Design (SH)"
 }

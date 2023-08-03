@@ -94,13 +94,29 @@
 45,
 45,
 46,
+46,
 46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Yablonina"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Yablonina"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -189,7 +205,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Physical Computing"
 }

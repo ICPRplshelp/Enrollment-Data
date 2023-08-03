@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 7,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 5,
+"time": 1691091680
+}
+],
 "initialCap": 7
 },
 "enrollmentLogs": [
@@ -87,6 +92,7 @@
 5,
 5,
 5,
+4,
 4,
 4,
 4,
@@ -234,7 +240,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Aqueous History: Water-Stories for a Future"
 }

@@ -109,13 +109,29 @@
 43,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "UX Design - Understanding Users"
 }

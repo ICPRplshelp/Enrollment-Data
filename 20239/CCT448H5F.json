@@ -109,13 +109,29 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "JASON",
+"lastName": "MACISSAC"
+}
+],
+"timing": 1691091680
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "JASON",
+"lastName": "MACISSAC"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -219,7 +235,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Game Design as Problem Solving (SH)"
 }

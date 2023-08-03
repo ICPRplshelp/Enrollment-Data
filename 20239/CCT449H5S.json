@@ -109,13 +109,37 @@
 6,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
 },
-"instructors": [],
+{
+"firstName": "RANDALL",
+"lastName": "K"
+}
+],
+"timing": 1691091680
+}
+]
+},
+"instructors": [
+{
+"firstName": "ELIZABETH",
+"lastName": "LITTLEJOHN"
+},
+{
+"firstName": "RANDALL",
+"lastName": "K"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -219,7 +243,8 @@
 1690742545,
 1690850247,
 1690911422,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Immersive VR Journalism (SH)"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 57,
+"time": 1691091680
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -112,6 +117,7 @@
 58,
 60,
 61,
+62,
 62
 ],
 "instructorLog": {
@@ -247,7 +253,8 @@
 32,
 34,
 34,
-33
+33,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -360,7 +367,8 @@
 1690742546,
 1690850247,
 1690911423,
-1690991837
+1690991837,
+1691091680
 ],
 "title": "Modifying and Optimizing Life: on the Peculiar Alliance between AI, Biology, and Engineering"
 }
