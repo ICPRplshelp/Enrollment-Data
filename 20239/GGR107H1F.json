@@ -113,7 +113,8 @@
 384,
 386,
 397,
-399
+399,
+407
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,13 +127,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Valentina",
+"lastName": "Castellini"
+}
+],
+"timing": 1691182978
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sarah",
-"lastName": "Wakefield"
+"firstName": "Valentina",
+"lastName": "Castellini"
 }
 ],
 "isCancelled": false,
@@ -242,7 +252,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Environment, Food and People"
 }

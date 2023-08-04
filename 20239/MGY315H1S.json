@@ -113,13 +113,37 @@
 40,
 40,
 39,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter John",
+"lastName": "Roy"
 },
-"instructors": [],
+{
+"firstName": "Thomas Ryan",
+"lastName": "Hurd"
+}
+],
+"timing": 1691182978
+}
+]
+},
+"instructors": [
+{
+"firstName": "Peter John",
+"lastName": "Roy"
+},
+{
+"firstName": "Thomas Ryan",
+"lastName": "Hurd"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +251,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Principles of Genetic Analysis II"
 }

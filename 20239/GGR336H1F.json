@@ -113,13 +113,29 @@
 64,
 63,
 70,
-73
+73,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Lombardo"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Lombardo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -227,7 +243,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Urban Historical Geography of North America"
 }

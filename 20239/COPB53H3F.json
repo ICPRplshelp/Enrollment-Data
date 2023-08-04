@@ -110,13 +110,29 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -228,13 +244,29 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -339,7 +371,8 @@
 1690850247,
 1690911422,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Managing Your Ongoing Work Term Job Search"
 }

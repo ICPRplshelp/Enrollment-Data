@@ -119,6 +119,7 @@
 429,
 426,
 425,
+425,
 425
 ],
 "instructorLog": {
@@ -287,7 +288,8 @@
 418,
 418,
 418,
-416
+416,
+414
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -313,6 +315,19 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+}
+],
+"timing": 1691182978
 }
 ]
 },
@@ -320,6 +335,10 @@
 {
 "firstName": "Ted",
 "lastName": "Nolan"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
 }
 ],
 "isCancelled": false,
@@ -442,7 +461,8 @@
 426,
 425,
 425,
-425
+425,
+422
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -455,6 +475,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+}
+],
+"timing": 1691182978
 }
 ]
 },
@@ -462,6 +495,10 @@
 {
 "firstName": "Ted",
 "lastName": "Nolan"
+},
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
 }
 ],
 "isCancelled": false,
@@ -568,7 +605,8 @@
 1690850247,
 1690911422,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Engineering Strategies & Practice I"
 }

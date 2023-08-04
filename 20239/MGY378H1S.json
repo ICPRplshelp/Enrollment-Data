@@ -113,13 +113,29 @@
 160,
 160,
 160,
-159
+159,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alan",
+"lastName": "Cochrane"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alan",
+"lastName": "Cochrane"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +243,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Microbiology II: Viruses"
 }

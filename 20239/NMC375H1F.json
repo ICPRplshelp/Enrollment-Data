@@ -113,6 +113,7 @@
 20,
 20,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -126,6 +127,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Arafat",
+"lastName": "Razzaque"
+},
+{
+"firstName": "Rita",
+"lastName": "Sawaya"
+}
+],
+"timing": 1691182978
 }
 ]
 },
@@ -133,6 +147,10 @@
 {
 "firstName": "Arafat",
 "lastName": "Razzaque"
+},
+{
+"firstName": "Rita",
+"lastName": "Sawaya"
 }
 ],
 "isCancelled": false,
@@ -242,7 +260,8 @@
 1690850247,
 1690911423,
 1690991838,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Conversion to Islam in Medieval History"
 }

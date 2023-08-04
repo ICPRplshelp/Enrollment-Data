@@ -110,6 +110,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -243,13 +244,29 @@
 27,
 27,
 27,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florence",
+"lastName": "Huang"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florence",
+"lastName": "Huang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -354,7 +371,8 @@
 1690850247,
 1690911423,
 1690991838,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Current Topics in Social Psychology"
 }

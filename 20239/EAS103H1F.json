@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 325,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1691182978
+}
+],
 "initialCap": 325
 },
 "enrollmentLogs": [
@@ -113,7 +118,8 @@
 343,
 345,
 354,
-355
+355,
+361
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,7 +248,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Premodern East Asia"
 }

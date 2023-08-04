@@ -110,6 +110,7 @@
 32,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
@@ -228,7 +229,8 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -361,6 +363,7 @@
 30,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -468,6 +471,7 @@
 36,
 36,
 34,
+35,
 35,
 35,
 35,
@@ -612,6 +616,7 @@
 31,
 32,
 33,
+33,
 33
 ],
 "instructorLog": {
@@ -744,6 +749,7 @@
 32,
 33,
 33,
+32,
 32,
 32
 ],
@@ -878,6 +884,7 @@
 32,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -1005,6 +1012,7 @@
 33,
 33,
 33,
+32,
 32,
 32,
 32,
@@ -1144,6 +1152,7 @@
 30,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -1277,13 +1286,29 @@
 32,
 32,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Visan"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Visan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC10"
 },
@@ -1383,6 +1408,7 @@
 31,
 31,
 31,
+30,
 30,
 30,
 30,
@@ -1513,6 +1539,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -1624,7 +1651,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Management Communications"
 }

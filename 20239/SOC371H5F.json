@@ -110,6 +110,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -123,13 +124,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jovan",
+"lastName": "Milosevic"
+}
+],
+"timing": 1691182978
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Fernando",
-"lastName": "Avila"
+"firstName": "Jovan",
+"lastName": "Milosevic"
 }
 ],
 "isCancelled": false,
@@ -236,7 +246,8 @@
 1690850247,
 1690911423,
 1690991838,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Sociology of Punishment"
 }

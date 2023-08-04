@@ -113,7 +113,8 @@
 81,
 81,
 81,
-81
+81,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,6 +127,23 @@
 }
 ],
 "timing": 1689378883
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Spence"
+},
+{
+"firstName": "Brigitte",
+"lastName": "Lavoie"
+},
+{
+"firstName": "Julie",
+"lastName": "Brill"
+}
+],
+"timing": 1691182978
 }
 ]
 },
@@ -133,6 +151,14 @@
 {
 "firstName": "Andrew",
 "lastName": "Spence"
+},
+{
+"firstName": "Brigitte",
+"lastName": "Lavoie"
+},
+{
+"firstName": "Julie",
+"lastName": "Brill"
 }
 ],
 "isCancelled": false,
@@ -242,7 +268,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Molecular Genetics"
 }

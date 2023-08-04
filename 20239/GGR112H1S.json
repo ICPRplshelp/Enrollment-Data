@@ -113,13 +113,29 @@
 228,
 229,
 230,
-233
+233,
+236
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sabrien",
+"lastName": "Amrov"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sabrien",
+"lastName": "Amrov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +243,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Geographies of Globalization, Development and Inequality"
 }

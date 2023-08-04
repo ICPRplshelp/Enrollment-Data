@@ -110,13 +110,29 @@
 41,
 41,
 41,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -221,7 +237,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "The Francophone World"
 }

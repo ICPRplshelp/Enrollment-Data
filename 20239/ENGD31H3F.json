@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1691182978
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -110,6 +115,7 @@
 25,
 24,
 24,
+25,
 25
 ],
 "instructorLog": {
@@ -236,7 +242,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Medieval Afterlives"
 }

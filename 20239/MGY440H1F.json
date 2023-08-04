@@ -113,13 +113,29 @@
 7,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Martha",
+"lastName": "Brown"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Martha",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +243,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Virus-Host Interactions"
 }

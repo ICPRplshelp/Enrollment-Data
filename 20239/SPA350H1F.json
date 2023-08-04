@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1691182978
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -113,6 +118,7 @@
 1,
 1,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -135,7 +141,7 @@
 "lastName": "Iglesias"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -242,7 +248,8 @@
 1690850247,
 1690911423,
 1690991838,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Medieval Spain Portrayed Through Visual Arts"
 }

@@ -113,13 +113,29 @@
 85,
 86,
 87,
+87,
 87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yinnon",
+"lastName": "Geva"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yinnon",
+"lastName": "Geva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +243,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "The Urban Planning Process"
 }

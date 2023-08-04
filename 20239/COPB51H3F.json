@@ -110,13 +110,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
 },
-"instructors": [],
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1691182978
+}
+]
+},
+"instructors": [
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -233,13 +257,29 @@
 202,
 164,
 168,
-168
+168,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -356,13 +396,29 @@
 72,
 57,
 58,
-58
+58,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -467,7 +523,8 @@
 1690850247,
 1690911422,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Preparing to Compete for your Co-op Work Term"
 }

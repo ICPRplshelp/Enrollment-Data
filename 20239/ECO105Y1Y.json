@@ -113,13 +113,29 @@
 403,
 402,
 403,
-403
+403,
+402
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avi",
+"lastName": "Cohen"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Avi",
+"lastName": "Cohen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -234,13 +250,29 @@
 244,
 250,
 266,
-274
+274,
+280
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avi",
+"lastName": "Cohen"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Avi",
+"lastName": "Cohen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -348,7 +380,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Principles of Economics for Non-Specialists"
 }

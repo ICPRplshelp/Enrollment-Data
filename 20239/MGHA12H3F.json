@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -110,7 +115,8 @@
 87,
 87,
 88,
-86
+86,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,9 +144,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -243,7 +254,8 @@
 88,
 88,
 86,
-84
+84,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,9 +283,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -376,7 +393,8 @@
 70,
 71,
 73,
-72
+72,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -404,9 +422,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -509,7 +532,8 @@
 67,
 67,
 70,
-70
+70,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -522,13 +546,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "GRACE",
+"lastName": "WILFRED (NOUTORID)"
+}
+],
+"timing": 1691182978
 }
 ]
 },
 "instructors": [
 {
-"firstName": "John Peter",
-"lastName": "Trougakos"
+"firstName": "GRACE",
+"lastName": "WILFRED (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -537,9 +570,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -642,7 +680,8 @@
 74,
 74,
 74,
-72
+72,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -655,9 +694,14 @@
 {
 "createdAt": 1689184970,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1691182978
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -760,13 +804,29 @@
 65,
 65,
 67,
-65
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "GRACE",
+"lastName": "WILFRED (NOUTORID)"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "GRACE",
+"lastName": "WILFRED (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC06"
 },
@@ -883,13 +943,29 @@
 65,
 65,
 68,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SYED",
+"lastName": "IMRAN (NOUTORID)"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SYED",
+"lastName": "IMRAN (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC07"
 },
@@ -1006,13 +1082,29 @@
 64,
 64,
 67,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SYED",
+"lastName": "IMRAN (NOUTORID)"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SYED",
+"lastName": "IMRAN (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC08"
 }
@@ -1117,7 +1209,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Human Resource Management"
 }

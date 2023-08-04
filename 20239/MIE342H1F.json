@@ -110,13 +110,29 @@
 105,
 105,
 105,
+105,
 105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -228,13 +244,29 @@
 101,
 101,
 101,
+102,
 102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -339,7 +371,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Circuits with Applications to Mechanical Engineering Systems"
 }

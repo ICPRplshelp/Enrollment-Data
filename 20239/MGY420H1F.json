@@ -113,13 +113,45 @@
 40,
 40,
 40,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "Meneghini"
 },
-"instructors": [],
+{
+"firstName": "Mikko",
+"lastName": "Taipale"
+},
+{
+"firstName": "Eric",
+"lastName": "Campos"
+}
+],
+"timing": 1691182978
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "Meneghini"
+},
+{
+"firstName": "Mikko",
+"lastName": "Taipale"
+},
+{
+"firstName": "Eric",
+"lastName": "Campos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +259,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Regulation of Gene Expression"
 }

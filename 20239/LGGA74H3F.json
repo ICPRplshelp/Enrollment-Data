@@ -110,13 +110,29 @@
 32,
 33,
 33,
-33
+33,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ponniah",
+"lastName": "Vivekanandan"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ponniah",
+"lastName": "Vivekanandan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -221,7 +237,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Introductory Tamil I"
 }

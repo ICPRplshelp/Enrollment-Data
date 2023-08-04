@@ -110,13 +110,37 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kiran",
+"lastName": "Heer"
 },
-"instructors": [],
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+}
+],
+"timing": 1691182978
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -233,13 +257,53 @@
 689,
 689,
 691,
+693,
 693
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
 },
-"instructors": [],
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+}
+],
+"timing": 1691182978
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -344,7 +408,8 @@
 1690850247,
 1690911422,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

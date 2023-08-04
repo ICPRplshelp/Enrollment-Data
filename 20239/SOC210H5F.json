@@ -110,7 +110,8 @@
 91,
 90,
 95,
-98
+98,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -123,13 +124,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maykal",
+"lastName": "Bailey"
+}
+],
+"timing": 1691182978
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Akwasi",
-"lastName": "Owusu-Bempah"
+"firstName": "Maykal",
+"lastName": "Bailey"
 }
 ],
 "isCancelled": false,
@@ -236,7 +246,8 @@
 1690850247,
 1690911423,
 1690991838,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Canadian Criminal Justice"
 }

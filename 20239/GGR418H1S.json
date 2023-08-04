@@ -47,13 +47,29 @@
 12,
 12,
 12,
-12
+12,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Prudham"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Prudham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -95,7 +111,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Geographies of Extraction"
 }

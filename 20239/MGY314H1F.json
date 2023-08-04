@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 62,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 62,
 "time": 1690316798
+},
+{
+"newCapacity": 63,
+"time": 1691182978
 }
 ],
 "initialCap": 60
@@ -118,6 +122,7 @@
 72,
 72,
 65,
+66,
 66
 ],
 "instructorLog": {
@@ -255,7 +260,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Principles of Genetic Analysis I"
 }

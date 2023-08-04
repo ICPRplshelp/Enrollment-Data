@@ -110,6 +110,7 @@
 67,
 67,
 66,
+67,
 67
 ],
 "instructorLog": {
@@ -123,13 +124,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Muhebullah",
+"lastName": "Karimzada"
+}
+],
+"timing": 1691182978
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Laurent Xavier C",
-"lastName": "Cavenaile"
+"firstName": "Muhebullah",
+"lastName": "Karimzada"
 }
 ],
 "isCancelled": false,
@@ -236,7 +246,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Topics in Macroeconomic Theory"
 }

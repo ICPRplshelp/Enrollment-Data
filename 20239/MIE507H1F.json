@@ -110,13 +110,29 @@
 25,
 25,
 32,
-32
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Babak",
+"lastName": "Samareh Abolhassani"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Babak",
+"lastName": "Samareh Abolhassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -221,7 +237,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "HVAC Fundamentals"
 }

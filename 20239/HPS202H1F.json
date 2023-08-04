@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1691182978
+}
+],
 "initialCap": 135
 },
 "enrollmentLogs": [
@@ -113,6 +118,7 @@
 147,
 147,
 147,
+147,
 147
 ],
 "instructorLog": {
@@ -141,9 +147,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1691182978
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -249,6 +260,7 @@
 11,
 10,
 10,
+9,
 9
 ],
 "instructorLog": {
@@ -378,7 +390,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Technology in the Modern World"
 }

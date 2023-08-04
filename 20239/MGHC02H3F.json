@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1691182978
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -110,7 +115,8 @@
 48,
 49,
 49,
-48
+48,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,9 +144,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1691182978
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -243,7 +254,8 @@
 46,
 47,
 47,
-48
+48,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,9 +283,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1691182978
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -376,7 +393,8 @@
 45,
 46,
 46,
-46
+46,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -404,9 +422,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1691182978
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -509,7 +532,8 @@
 49,
 50,
 50,
-49
+49,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -635,7 +659,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Management Skills"
 }

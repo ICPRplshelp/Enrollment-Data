@@ -110,13 +110,29 @@
 45,
 45,
 46,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -221,7 +237,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Spatial Database"
 }

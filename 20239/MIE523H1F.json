@@ -110,13 +110,29 @@
 47,
 48,
 45,
-46
+46,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Soung Yee"
+}
+],
+"timing": 1691182978
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Soung Yee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -221,7 +237,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "ENG. PSYCHOLOGY & HUMAN PERFOR"
 }

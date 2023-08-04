@@ -113,7 +113,8 @@
 25,
 26,
 26,
-26
+26,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,7 +259,8 @@
 18,
 18,
 18,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -394,6 +396,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -416,6 +419,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lilika Ioki",
+"lastName": "Kukiela"
+},
+{
+"firstName": "Vanessa",
+"lastName": "Andres"
+}
+],
+"timing": 1691182978
 }
 ]
 },
@@ -423,6 +439,10 @@
 {
 "firstName": "Lilika Ioki",
 "lastName": "Kukiela"
+},
+{
+"firstName": "Vanessa",
+"lastName": "Andres"
 }
 ],
 "isCancelled": false,
@@ -532,7 +552,8 @@
 1690850247,
 1690911423,
 1690991837,
-1691091680
+1691091680,
+1691182978
 ],
 "title": "Advanced Studies Seminar"
 }
