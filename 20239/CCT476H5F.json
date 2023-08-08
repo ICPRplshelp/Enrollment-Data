@@ -114,7 +114,8 @@
 94,
 94,
 94,
-91
+91,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,13 +237,29 @@
 0,
 0,
 0,
-2
+2,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olga",
+"lastName": "Bountali"
+}
+],
+"timing": 1691500599
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Olga",
+"lastName": "Bountali"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -351,7 +368,8 @@
 1691182978,
 1691231310,
 1691350710,
-1691439257
+1691439257,
+1691500599
 ],
 "title": "Foundations of Operations Management"
 }
