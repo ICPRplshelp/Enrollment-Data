@@ -118,6 +118,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -259,13 +260,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Stoeber"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Stoeber"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -278,6 +295,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -504,7 +522,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Advanced Topics in Christianity and Culture I"
 }

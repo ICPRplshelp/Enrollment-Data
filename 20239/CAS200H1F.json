@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 68,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 68,
+"time": 1691549731
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -117,6 +122,7 @@
 64,
 64,
 64,
+65,
 65,
 65
 ],
@@ -252,7 +258,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Introduction to Contemporary Asian Studies"
 }

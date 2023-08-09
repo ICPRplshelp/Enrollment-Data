@@ -115,6 +115,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -128,13 +129,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Lobo"
+}
+],
+"timing": 1691549731
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Elizabeth",
-"lastName": "Harney"
+"firstName": "Rachel",
+"lastName": "Lobo"
 }
 ],
 "isCancelled": false,
@@ -246,7 +256,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Home, Away and In Between: Artists, Art, and Identity"
 }

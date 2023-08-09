@@ -118,6 +118,7 @@
 363,
 363,
 365,
+366,
 366
 ],
 "instructorLog": {
@@ -135,6 +136,15 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "McCourt"
+}
+],
+"timing": 1691549731
 }
 ]
 },
@@ -142,10 +152,6 @@
 {
 "firstName": "Peter",
 "lastName": "McCourt"
-},
-{
-"firstName": "David",
-"lastName": "Guttman"
 }
 ],
 "isCancelled": false,
@@ -260,7 +266,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Concepts in Genetics"
 }

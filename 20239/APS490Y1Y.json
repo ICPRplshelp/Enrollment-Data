@@ -100,13 +100,29 @@
 88,
 88,
 88,
+88,
 88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamran",
+"lastName": "Behdinan"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kamran",
+"lastName": "Behdinan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "TUT0101"
 }
@@ -201,7 +217,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Multi-Disciplinary Capstone Design"
 }

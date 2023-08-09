@@ -115,13 +115,29 @@
 452,
 452,
 454,
-454
+454,
+455
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Nguyen Ba"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Nguyen Ba"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -231,7 +247,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Introduction to Biological Data"
 }

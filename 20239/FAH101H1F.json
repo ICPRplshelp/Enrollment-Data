@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 240,
+"enrollmentCap": 290,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 290,
+"time": 1691549731
+}
+],
 "initialCap": 240
 },
 "enrollmentLogs": [
@@ -118,7 +123,8 @@
 364,
 364,
 369,
-369
+369,
+367
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,7 +258,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Monuments of Art History"
 }

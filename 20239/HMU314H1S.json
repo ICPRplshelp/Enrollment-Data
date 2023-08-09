@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 32,
 "time": 1689173502
+},
+{
+"newCapacity": 33,
+"time": 1691549731
 }
 ],
 "initialCap": 30
@@ -120,7 +124,8 @@
 32,
 32,
 32,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,7 +256,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Western Cultures of Celebrity in Music"
 }

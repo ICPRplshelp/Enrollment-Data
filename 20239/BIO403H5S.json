@@ -115,13 +115,29 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bryan",
+"lastName": "Stewart"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bryan",
+"lastName": "Stewart"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -231,7 +247,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Developmental Neurobiology"
 }

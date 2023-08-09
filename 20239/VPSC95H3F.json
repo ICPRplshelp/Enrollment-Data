@@ -120,13 +120,29 @@
 19,
 19,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hadley",
+"lastName": "Howes"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hadley",
+"lastName": "Howes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -236,7 +252,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Theory and Practice: Art and Social Justice"
 }

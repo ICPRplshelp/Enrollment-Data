@@ -118,6 +118,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -131,13 +132,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Stoeber"
+}
+],
+"timing": 1691549731
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Reid",
-"lastName": "Locklin"
+"firstName": "Michael",
+"lastName": "Stoeber"
 }
 ],
 "isCancelled": false,
@@ -252,7 +262,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Advanced Topics in Christianity and Culture I"
 }

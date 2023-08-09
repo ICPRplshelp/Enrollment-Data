@@ -115,13 +115,29 @@
 71,
 71,
 70,
-70
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Baohua",
+"lastName": "Liu"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Baohua",
+"lastName": "Liu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -231,7 +247,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Neural Circuit Structure and Function"
 }

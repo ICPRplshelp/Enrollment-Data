@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1691549731
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -115,7 +120,8 @@
 10,
 10,
 10,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -143,9 +149,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1691549731
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -247,6 +258,7 @@
 9,
 9,
 9,
+10,
 10,
 10,
 10,
@@ -384,7 +396,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Jazz Improvisation"
 }

@@ -115,13 +115,29 @@
 378,
 378,
 379,
-379
+379,
+381
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sanja",
+"lastName": "Hinic-Frlog"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sanja",
+"lastName": "Hinic-Frlog"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -231,7 +247,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Fundamentals of Human Anatomy and Physiology II"
 }

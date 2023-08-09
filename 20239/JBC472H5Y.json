@@ -115,13 +115,29 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
+"timing": 1691549731
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -231,7 +247,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Seminars in Biotechnology"
 }

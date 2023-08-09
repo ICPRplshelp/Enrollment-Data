@@ -118,7 +118,8 @@
 511,
 511,
 511,
-511
+511,
+508
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -146,9 +147,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 468,
+"enrollmentCap": 508,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 508,
+"time": 1691549731
+}
+],
 "initialCap": 468
 },
 "enrollmentLogs": [
@@ -259,7 +265,8 @@
 521,
 521,
 523,
-523
+523,
+519
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -400,7 +407,8 @@
 371,
 371,
 371,
-371
+371,
+374
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -541,7 +549,8 @@
 485,
 485,
 489,
-490
+490,
+480
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -569,7 +578,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 468,
+"enrollmentCap": 507,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -579,6 +588,10 @@
 {
 "newCapacity": 468,
 "time": 1690911423
+},
+{
+"newCapacity": 507,
+"time": 1691549731
 }
 ],
 "initialCap": 468
@@ -691,7 +704,8 @@
 468,
 468,
 473,
-473
+473,
+475
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -827,6 +841,7 @@
 46,
 45,
 41,
+40,
 40,
 40,
 40,
@@ -973,7 +988,8 @@
 522,
 522,
 530,
-531
+531,
+511
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1107,7 +1123,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Principles of Microeconomics"
 }

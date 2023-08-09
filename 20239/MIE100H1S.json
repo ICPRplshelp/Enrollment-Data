@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 191,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 190,
 "time": 1689957270
+},
+{
+"newCapacity": 191,
+"time": 1691549731
 }
 ],
 "initialCap": 120
@@ -128,7 +132,8 @@
 189,
 189,
 189,
-189
+189,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -230,6 +235,7 @@
 88,
 88,
 86,
+87,
 87,
 87,
 87,
@@ -426,7 +432,8 @@
 122,
 122,
 122,
-122
+122,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -570,6 +577,7 @@
 140,
 140,
 140,
+139,
 139,
 139,
 139,
@@ -724,6 +732,7 @@
 163,
 163,
 162,
+162,
 162
 ],
 "instructorLog": {
@@ -871,7 +880,8 @@
 151,
 151,
 150,
-150
+150,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1002,7 +1012,8 @@
 1691231310,
 1691350710,
 1691439257,
-1691500599
+1691500599,
+1691549731
 ],
 "title": "Dynamics"
 }
