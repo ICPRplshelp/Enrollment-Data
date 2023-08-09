@@ -121,6 +121,7 @@
 5,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -134,13 +135,22 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Desiree",
+"lastName": "deChamplain-Leverenz"
+}
+],
+"timing": 1691614238
 }
 ]
 },
 "instructors": [
 {
-"firstName": "DESIREE",
-"lastName": "LEVERENZ (NOUTORID)"
+"firstName": "Desiree",
+"lastName": "deChamplain-Leverenz"
 }
 ],
 "isCancelled": false,
@@ -253,7 +263,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Creating a Production: Actors in Action II"
 }

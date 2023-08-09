@@ -116,13 +116,29 @@
 34,
 33,
 34,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Blair",
+"lastName": "Armstrong"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Blair",
+"lastName": "Armstrong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Computers in Linguistics"
 }

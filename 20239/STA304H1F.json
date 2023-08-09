@@ -119,13 +119,37 @@
 353,
 352,
 352,
+353,
 353
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
 },
-"instructors": [],
+{
+"firstName": "Emily",
+"lastName": "Somerset"
+}
+],
+"timing": 1691614238
+}
+]
+},
+"instructors": [
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
+},
+{
+"firstName": "Emily",
+"lastName": "Somerset"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -246,13 +270,37 @@
 356,
 355,
 354,
-354
+354,
+355
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
 },
-"instructors": [],
+{
+"firstName": "Emily",
+"lastName": "Somerset"
+}
+],
+"timing": 1691614238
+}
+]
+},
+"instructors": [
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
+},
+{
+"firstName": "Emily",
+"lastName": "Somerset"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -366,7 +414,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Surveys, Sampling and Observational Data (formerly STA322H1)"
 }

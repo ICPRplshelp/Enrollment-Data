@@ -119,7 +119,8 @@
 228,
 229,
 228,
-228
+228,
+229
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,7 +262,8 @@
 196,
 195,
 194,
-195
+195,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -412,6 +414,7 @@
 223,
 222,
 222,
+220,
 220
 ],
 "instructorLog": {
@@ -554,7 +557,8 @@
 198,
 199,
 199,
-198
+198,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -681,7 +685,8 @@
 197,
 198,
 199,
-197
+197,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -694,13 +699,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Zhang"
+}
+],
+"timing": 1691614238
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ilia",
-"lastName": "Gaiur"
+"firstName": "Jing",
+"lastName": "Zhang"
 }
 ],
 "isCancelled": false,
@@ -823,7 +837,8 @@
 196,
 198,
 198,
-197
+197,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -845,13 +860,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ilia",
+"lastName": "Gaiur"
+}
+],
+"timing": 1691614238
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jing",
-"lastName": "Zhang"
+"firstName": "Ilia",
+"lastName": "Gaiur"
 }
 ],
 "isCancelled": false,
@@ -974,6 +998,7 @@
 138,
 149,
 153,
+154,
 154
 ],
 "instructorLog": {
@@ -1017,6 +1042,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1267,7 +1293,8 @@
 117,
 120,
 122,
-124
+124,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1402,7 +1429,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Calculus with Proofs"
 }

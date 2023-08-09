@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 169,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 169,
 "time": 1688577945
+},
+{
+"newCapacity": 175,
+"time": 1691614238
 }
 ],
 "initialCap": 175
@@ -121,7 +125,8 @@
 179,
 180,
 180,
-181
+181,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -253,7 +258,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Introduction to Anthropology: Society, Culture and Language"
 }

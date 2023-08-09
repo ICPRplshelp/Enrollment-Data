@@ -116,13 +116,29 @@
 23,
 23,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Seminars in Cellular Microbiology"
 }

@@ -91,13 +91,29 @@
 4,
 5,
 5,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ramez Boutros",
+"lastName": "Bishara"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ramez Boutros",
+"lastName": "Bishara"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -183,7 +199,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Elementary Coptic I"
 }

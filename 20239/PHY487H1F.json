@@ -119,6 +119,7 @@
 19,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -147,9 +148,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 7,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 9,
+"time": 1691614238
+}
+],
 "initialCap": 7
 },
 "enrollmentLogs": [
@@ -240,6 +246,7 @@
 8,
 8,
 8,
+9,
 9,
 9,
 9,
@@ -396,7 +403,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Condensed Matter Physics"
 }

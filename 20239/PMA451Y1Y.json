@@ -116,6 +116,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -166,6 +167,31 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+},
+{
+"firstName": "Megan",
+"lastName": "Chang"
+},
+{
+"firstName": "Lydia",
+"lastName": "Wong"
+},
+{
+"firstName": "Emily",
+"lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
+}
+],
+"timing": 1691614238
 }
 ]
 },
@@ -185,6 +211,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -199,6 +229,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -354,6 +385,31 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+},
+{
+"firstName": "Lydia",
+"lastName": "Wong"
+},
+{
+"firstName": "Megan",
+"lastName": "Chang"
+},
+{
+"firstName": "Emily",
+"lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
+}
+],
+"timing": 1691614238
 }
 ]
 },
@@ -373,6 +429,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -485,7 +545,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Piano-inst Master Cl"
 }

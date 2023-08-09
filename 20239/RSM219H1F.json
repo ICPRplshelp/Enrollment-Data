@@ -119,6 +119,7 @@
 75,
 75,
 75,
+75,
 75
 ],
 "instructorLog": {
@@ -256,6 +257,7 @@
 90,
 90,
 90,
+89,
 89,
 89,
 89,
@@ -403,6 +405,7 @@
 89,
 88,
 88,
+88,
 88
 ],
 "instructorLog": {
@@ -545,13 +548,29 @@
 79,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abdul",
+"lastName": "Khizer"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Abdul",
+"lastName": "Khizer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -663,6 +682,7 @@
 85,
 85,
 85,
+86,
 86,
 86,
 86,
@@ -814,6 +834,7 @@
 80,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -956,13 +977,29 @@
 75,
 75,
 75,
+75,
 75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Hinton"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Hinton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1083,13 +1120,29 @@
 79,
 78,
 78,
+78,
 78
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eksa",
+"lastName": "Kilfoyle"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eksa",
+"lastName": "Kilfoyle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -1203,7 +1256,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Introduction to Financial Accounting"
 }

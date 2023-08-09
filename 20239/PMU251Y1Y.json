@@ -116,6 +116,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -141,6 +142,31 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+},
+{
+"firstName": "Lydia",
+"lastName": "Wong"
+},
+{
+"firstName": "Megan",
+"lastName": "Chang"
+},
+{
+"firstName": "Emily",
+"lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
+}
+],
+"timing": 1691614238
 }
 ]
 },
@@ -160,6 +186,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -279,6 +309,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -304,6 +335,31 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+},
+{
+"firstName": "Lydia",
+"lastName": "Wong"
+},
+{
+"firstName": "Megan",
+"lastName": "Chang"
+},
+{
+"firstName": "Emily",
+"lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
+}
+],
+"timing": 1691614238
 }
 ]
 },
@@ -323,6 +379,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -435,7 +495,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Piano-Inst. Masterclass"
 }

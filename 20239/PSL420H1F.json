@@ -119,13 +119,53 @@
 38,
 39,
 39,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Theodore",
+"lastName": "Brown"
 },
-"instructors": [],
+{
+"firstName": "Sergey",
+"lastName": "Moskovtsev"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+},
+{
+"firstName": "Paul",
+"lastName": "Chang"
+}
+],
+"timing": 1691614238
+}
+]
+},
+"instructors": [
+{
+"firstName": "Theodore",
+"lastName": "Brown"
+},
+{
+"firstName": "Sergey",
+"lastName": "Moskovtsev"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+},
+{
+"firstName": "Paul",
+"lastName": "Chang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -239,7 +279,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Reproduction: Development and Function"
 }

@@ -119,7 +119,8 @@
 101,
 99,
 99,
-99
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -246,13 +247,29 @@
 100,
 101,
 101,
-100
+100,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ben",
+"lastName": "Koonar"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ben",
+"lastName": "Koonar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -373,7 +390,8 @@
 105,
 105,
 104,
-103
+103,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -500,6 +518,7 @@
 106,
 105,
 103,
+102,
 102
 ],
 "instructorLog": {
@@ -620,7 +639,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Elementary French I"
 }

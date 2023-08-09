@@ -116,7 +116,8 @@
 5,
 5,
 5,
-5
+5,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -144,9 +145,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1691614238
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -255,6 +261,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -277,7 +284,7 @@
 "lastName": "Emmrich"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -387,7 +394,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Advanced Topics in Buddhism"
 }

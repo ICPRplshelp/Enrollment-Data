@@ -116,6 +116,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -129,6 +130,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aiyun",
+"lastName": "Huang"
+},
+{
+"firstName": "Greg",
+"lastName": "Oh"
+}
+],
+"timing": 1691614238
 }
 ]
 },
@@ -136,6 +150,10 @@
 {
 "firstName": "Aiyun",
 "lastName": "Huang"
+},
+{
+"firstName": "Greg",
+"lastName": "Oh"
 }
 ],
 "isCancelled": false,
@@ -248,7 +266,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "[No course title available]"
 }

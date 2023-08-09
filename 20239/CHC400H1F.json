@@ -119,6 +119,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -261,6 +262,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -289,12 +291,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1691614238
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -410,7 +418,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -523,7 +531,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Advanced Topics in Christianity and Culture I"
 }

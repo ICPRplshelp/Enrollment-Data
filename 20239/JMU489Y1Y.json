@@ -116,13 +116,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jim",
+"lastName": "Lewis"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jim",
+"lastName": "Lewis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -240,13 +256,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Downing"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Downing"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0201"
 },
@@ -364,13 +396,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Carn"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "William",
+"lastName": "Carn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0301"
 }
@@ -481,7 +529,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Jazz Orchestra"
 }

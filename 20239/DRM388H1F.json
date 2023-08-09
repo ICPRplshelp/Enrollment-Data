@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1691614238
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -119,6 +124,7 @@
 33,
 33,
 33,
+34,
 34
 ],
 "instructorLog": {
@@ -254,7 +260,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Special Topics in Drama, Theatre and Performance Studies"
 }

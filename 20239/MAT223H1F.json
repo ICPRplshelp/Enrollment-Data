@@ -119,7 +119,8 @@
 202,
 202,
 201,
-202
+202,
+201
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,7 +262,8 @@
 218,
 216,
 215,
-213
+213,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -403,7 +405,8 @@
 134,
 142,
 144,
-145
+145,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -425,13 +428,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Isabella",
+"lastName": "Negrini"
+}
+],
+"timing": 1691614238
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Aaron",
-"lastName": "Tronsgard"
+"firstName": "Isabella",
+"lastName": "Negrini"
 }
 ],
 "isCancelled": false,
@@ -554,6 +566,7 @@
 209,
 209,
 208,
+208,
 208
 ],
 "instructorLog": {
@@ -576,13 +589,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Tronsgard"
+}
+],
+"timing": 1691614238
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Isabella",
-"lastName": "Negrini"
+"firstName": "Aaron",
+"lastName": "Tronsgard"
 }
 ],
 "isCancelled": false,
@@ -705,7 +727,8 @@
 190,
 190,
 190,
-190
+190,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -832,7 +855,8 @@
 195,
 196,
 195,
-195
+195,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -969,6 +993,7 @@
 177,
 179,
 182,
+188,
 188,
 188,
 188,
@@ -1116,7 +1141,8 @@
 141,
 144,
 147,
-150
+150,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1236,7 +1262,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Linear Algebra I"
 }

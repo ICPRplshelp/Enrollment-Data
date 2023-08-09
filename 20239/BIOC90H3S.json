@@ -116,13 +116,29 @@
 207,
 208,
 208,
-207
+207,
+209
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Integrative Multimedia Documentary Project"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 87,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 87,
+"time": 1691614238
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -116,7 +121,8 @@
 86,
 86,
 87,
-87
+87,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,7 +254,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Computer Networks"
 }

@@ -116,13 +116,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen Elizabeth",
+"lastName": "Allan"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen Elizabeth",
+"lastName": "Allan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Soprano/Alto Chorus"
 }

@@ -119,7 +119,8 @@
 66,
 66,
 66,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -259,6 +260,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60
@@ -403,13 +405,29 @@
 52,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mary E",
+"lastName": "Corcoran"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mary E",
+"lastName": "Corcoran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -525,6 +543,7 @@
 25,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -672,7 +691,8 @@
 54,
 55,
 55,
-55
+55,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -805,6 +825,7 @@
 53,
 53,
 53,
+54,
 54,
 54,
 54,
@@ -956,6 +977,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -1067,6 +1089,7 @@
 57,
 57,
 57,
+59,
 59,
 59,
 59,
@@ -1233,7 +1256,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Organizational Behaviour"
 }

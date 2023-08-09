@@ -119,13 +119,29 @@
 43,
 42,
 42,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Kotoulas"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Kotoulas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -239,7 +255,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Experimental Physical Chemistry"
 }

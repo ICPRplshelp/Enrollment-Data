@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 137,
+"enrollmentCap": 146,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 137,
 "time": 1689016776
+},
+{
+"newCapacity": 146,
+"time": 1691614238
 }
 ],
 "initialCap": 135
@@ -129,7 +133,8 @@
 142,
 142,
 142,
-143
+143,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,7 +266,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Applied Chemistry II - Organic Chemistry"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 22,
 "time": 1689170814
+},
+{
+"newCapacity": 23,
+"time": 1691614238
 }
 ],
 "initialCap": 20
@@ -125,7 +129,8 @@
 22,
 22,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -257,7 +262,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Healthy Prac-Healthy Musicians"
 }

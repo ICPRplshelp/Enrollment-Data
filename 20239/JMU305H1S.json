@@ -116,13 +116,29 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "O'Reilly-Fleming"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "O'Reilly-Fleming"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Introduction to Jazz Theory"
 }

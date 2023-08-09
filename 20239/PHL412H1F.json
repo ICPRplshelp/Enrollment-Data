@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1691614238
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -119,7 +124,8 @@
 20,
 21,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,6 +267,7 @@
 21,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -396,7 +403,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Seminar in Political Philosophy"
 }

@@ -116,13 +116,29 @@
 256,
 250,
 250,
-251
+251,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -240,13 +256,29 @@
 81,
 90,
 90,
-90
+90,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -357,7 +389,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Principles of Virology"
 }

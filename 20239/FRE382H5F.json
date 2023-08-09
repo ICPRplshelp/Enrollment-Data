@@ -116,13 +116,29 @@
 29,
 29,
 29,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephanie",
+"lastName": "Cote"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephanie",
+"lastName": "Cote"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -233,7 +249,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Advanced Language Practice: Written French"
 }

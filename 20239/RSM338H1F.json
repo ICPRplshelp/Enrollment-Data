@@ -119,13 +119,29 @@
 79,
 79,
 79,
+79,
 79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jun",
+"lastName": "Yuan"
+}
+],
+"timing": 1691614238
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jun",
+"lastName": "Yuan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -239,7 +255,8 @@
 1691350710,
 1691439257,
 1691500599,
-1691549731
+1691549731,
+1691614238
 ],
 "title": "Applications of Machine Learning in Finance"
 }
