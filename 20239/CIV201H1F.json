@@ -117,6 +117,7 @@
 102,
 102,
 103,
+103,
 103
 ],
 "instructorLog": {
@@ -130,6 +131,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Brent",
+"lastName": "Sleep"
+},
+{
+"firstName": "Sarah",
+"lastName": "Haines"
+}
+],
+"timing": 1691694293
 }
 ]
 },
@@ -137,6 +151,10 @@
 {
 "firstName": "Brent",
 "lastName": "Sleep"
+},
+{
+"firstName": "Sarah",
+"lastName": "Haines"
 }
 ],
 "isCancelled": false,
@@ -250,7 +268,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Introduction to Civil Engineering"
 }

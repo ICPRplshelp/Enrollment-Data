@@ -120,13 +120,53 @@
 23,
 23,
 23,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jesse",
+"lastName": "Gillis"
 },
-"instructors": [],
+{
+"firstName": "Steven",
+"lastName": "Prescott"
+},
+{
+"firstName": "Mei",
+"lastName": "Zhen"
+},
+{
+"firstName": "Philippe",
+"lastName": "Monnier"
+}
+],
+"timing": 1691694293
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jesse",
+"lastName": "Gillis"
+},
+{
+"firstName": "Steven",
+"lastName": "Prescott"
+},
+{
+"firstName": "Mei",
+"lastName": "Zhen"
+},
+{
+"firstName": "Philippe",
+"lastName": "Monnier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +281,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Neuroscience: Cellular and Molecular"
 }

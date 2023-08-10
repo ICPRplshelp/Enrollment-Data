@@ -120,7 +120,8 @@
 63,
 63,
 62,
-62
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,6 +142,27 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Oliver",
+"lastName": "Ernst"
+},
+{
+"firstName": "Regis",
+"lastName": "Pomes"
+},
+{
+"firstName": "Christine",
+"lastName": "Bear"
+},
+{
+"firstName": "Morris",
+"lastName": "Manolson"
+}
+],
+"timing": 1691694293
 }
 ]
 },
@@ -156,6 +178,10 @@
 {
 "firstName": "Christine",
 "lastName": "Bear"
+},
+{
+"firstName": "Morris",
+"lastName": "Manolson"
 }
 ],
 "isCancelled": false,
@@ -272,7 +298,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Membrane Proteins: Structure, and Function"
 }

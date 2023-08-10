@@ -117,13 +117,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Gerbasi"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph",
+"lastName": "Gerbasi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -235,7 +251,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Advanced Seminar in Ancient Philosophy"
 }

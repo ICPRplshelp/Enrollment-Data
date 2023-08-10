@@ -117,7 +117,8 @@
 158,
 158,
 159,
-159
+159,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,13 +131,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Samir",
+"lastName": "Hamdi"
+}
+],
+"timing": 1691694293
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Omidali",
-"lastName": "Aghababaei Jazi"
+"firstName": "Samir",
+"lastName": "Hamdi"
 }
 ],
 "isCancelled": false,
@@ -257,13 +267,29 @@
 137,
 138,
 137,
-139
+139,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Kreinin"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Kreinin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -382,7 +408,8 @@
 163,
 164,
 164,
-164
+164,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -522,13 +549,29 @@
 116,
 119,
 118,
-120
+120,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lijia",
+"lastName": "Wang"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lijia",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -541,6 +584,7 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -765,7 +809,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Probability and Statistics I"
 }

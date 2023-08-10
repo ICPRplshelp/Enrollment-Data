@@ -120,13 +120,29 @@
 359,
 360,
 363,
-361
+361,
+363
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Laughlin"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Laughlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -241,7 +257,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Effective Writing"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1691694293
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -120,7 +125,8 @@
 8,
 8,
 8,
-8
+8,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +148,7 @@
 "lastName": "Visoi"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -256,7 +262,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Contemporary French Literature"
 }

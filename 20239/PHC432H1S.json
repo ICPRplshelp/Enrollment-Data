@@ -120,13 +120,37 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tameshwar",
+"lastName": "Ganesh"
 },
-"instructors": [],
+{
+"firstName": "Christine",
+"lastName": "Allen"
+}
+],
+"timing": 1691694293
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tameshwar",
+"lastName": "Ganesh"
+},
+{
+"firstName": "Christine",
+"lastName": "Allen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +265,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Nanomedicines in Oncology"
 }

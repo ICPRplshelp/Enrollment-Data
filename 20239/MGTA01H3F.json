@@ -117,13 +117,29 @@
 354,
 350,
 349,
-350
+350,
+352
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -242,13 +258,29 @@
 221,
 224,
 224,
-226
+226,
+228
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -360,7 +392,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Introduction to Business"
 }

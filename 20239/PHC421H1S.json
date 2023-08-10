@@ -120,13 +120,37 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Macgregor"
 },
-"instructors": [],
+{
+"firstName": "Tigran",
+"lastName": "Chalikian"
+}
+],
+"timing": 1691694293
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Macgregor"
+},
+{
+"firstName": "Tigran",
+"lastName": "Chalikian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +265,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Biomolecular Interactions and Thermodynamics I"
 }

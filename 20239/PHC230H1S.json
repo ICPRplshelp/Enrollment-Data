@@ -120,13 +120,45 @@
 39,
 39,
 39,
+39,
 39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tigran",
+"lastName": "Chalikian"
 },
-"instructors": [],
+{
+"firstName": "Robert",
+"lastName": "Macgregor"
+},
+{
+"firstName": "Shirley X.Y.",
+"lastName": "Wu"
+}
+],
+"timing": 1691694293
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tigran",
+"lastName": "Chalikian"
+},
+{
+"firstName": "Robert",
+"lastName": "Macgregor"
+},
+{
+"firstName": "Shirley X.Y.",
+"lastName": "Wu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +273,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Pharmaceutics 1"
 }

@@ -120,13 +120,45 @@
 1383,
 1383,
 1383,
-1384
+1384,
+1383
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
 },
-"instructors": [],
+{
+"firstName": "Douglas",
+"lastName": "Tweed"
+},
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
+"timing": 1691694293
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Douglas",
+"lastName": "Tweed"
+},
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +273,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Human Physiology I"
 }

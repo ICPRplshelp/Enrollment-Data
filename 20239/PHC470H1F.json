@@ -120,6 +120,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -133,13 +134,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jillian",
+"lastName": "Kohler"
+}
+],
+"timing": 1691694293
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Tameshwar",
-"lastName": "Ganesh"
+"firstName": "Jillian",
+"lastName": "Kohler"
 }
 ],
 "isCancelled": false,
@@ -256,7 +266,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Global Pharmaceutical Policy"
 }

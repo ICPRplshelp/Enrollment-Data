@@ -117,13 +117,29 @@
 33,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -242,7 +258,8 @@
 31,
 31,
 31,
-31
+31,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -382,13 +399,29 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -507,7 +540,8 @@
 35,
 35,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -639,6 +673,7 @@
 31,
 31,
 32,
+33,
 33,
 33,
 33,
@@ -787,6 +822,7 @@
 32,
 31,
 31,
+32,
 32
 ],
 "instructorLog": {
@@ -918,6 +954,7 @@
 31,
 31,
 32,
+31,
 31,
 31,
 31,
@@ -1067,7 +1104,8 @@
 31,
 31,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1207,7 +1245,8 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1347,7 +1386,8 @@
 32,
 32,
 32,
-32
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1487,13 +1527,29 @@
 31,
 31,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC11"
 },
@@ -1612,13 +1668,29 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
+"timing": 1691694293
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC12"
 }
@@ -1730,7 +1802,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Management Communications"
 }

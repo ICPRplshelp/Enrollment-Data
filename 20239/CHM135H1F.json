@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 507,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 507,
+"time": 1691694293
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -120,7 +125,8 @@
 552,
 551,
 551,
-552
+552,
+539
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,9 +186,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 507,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 507,
+"time": 1691694293
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -295,7 +306,8 @@
 544,
 544,
 543,
-541
+541,
+527
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -355,9 +367,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 507,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 507,
+"time": 1691694293
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -470,7 +487,8 @@
 540,
 539,
 537,
-537
+537,
+528
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -530,9 +548,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 407,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 407,
+"time": 1691694293
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -645,7 +668,8 @@
 345,
 345,
 344,
-344
+344,
+354
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -813,7 +837,8 @@
 1691439257,
 1691500599,
 1691549731,
-1691614238
+1691614238,
+1691694293
 ],
 "title": "Chemistry: Physical Principles"
 }
