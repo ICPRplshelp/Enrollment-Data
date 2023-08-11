@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 70,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1691766838
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -118,6 +123,7 @@
 91,
 91,
 90,
+91,
 91
 ],
 "instructorLog": {
@@ -252,7 +258,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Mathematical Modelling in Biology"
 }

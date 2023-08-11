@@ -118,6 +118,7 @@
 4,
 4,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -131,13 +132,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Walter",
+"lastName": "Tavares"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "",
-"lastName": "FACULTY"
+"firstName": "Walter",
+"lastName": "Tavares"
 }
 ],
 "isCancelled": false,
@@ -252,7 +262,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Directed Research in Paramedicine"
 }

@@ -121,7 +121,8 @@
 667,
 667,
 670,
-674
+674,
+675
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,7 +266,8 @@
 652,
 652,
 654,
-658
+658,
+661
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -405,6 +407,7 @@
 468,
 468,
 468,
+467,
 467,
 467,
 467,
@@ -553,6 +556,7 @@
 415,
 415,
 414,
+414,
 414
 ],
 "instructorLog": {
@@ -566,13 +570,22 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nathanael",
-"lastName": "Vellekoop"
+"firstName": "Tyler",
+"lastName": "Paul"
 }
 ],
 "isCancelled": false,
@@ -697,6 +710,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -710,13 +724,22 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nathanael",
-"lastName": "Vellekoop"
+"firstName": "Tyler",
+"lastName": "Paul"
 }
 ],
 "isCancelled": false,
@@ -841,7 +864,8 @@
 638,
 637,
 638,
-642
+642,
+645
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -854,13 +878,22 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nathanael",
-"lastName": "Vellekoop"
+"firstName": "Tyler",
+"lastName": "Paul"
 }
 ],
 "isCancelled": false,
@@ -978,7 +1011,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Principles of Macroeconomics"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1691766838
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -121,6 +126,7 @@
 38,
 38,
 36,
+35,
 35
 ],
 "instructorLog": {
@@ -258,7 +264,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Environmental Research Data and Decision-making"
 }

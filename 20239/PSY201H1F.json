@@ -121,7 +121,8 @@
 322,
 311,
 313,
-317
+317,
+319
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,13 +135,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Patricia",
-"lastName": "Sanchez"
+"firstName": "Marco Agazio",
+"lastName": "Sama"
 }
 ],
 "isCancelled": false,
@@ -265,7 +275,8 @@
 272,
 259,
 261,
-267
+267,
+266
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -287,13 +298,22 @@
 }
 ],
 "timing": 1691549731
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sanchez"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marco Agazio",
-"lastName": "Sama"
+"firstName": "Patricia",
+"lastName": "Sanchez"
 }
 ],
 "isCancelled": false,
@@ -411,7 +431,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Statistics I"
 }

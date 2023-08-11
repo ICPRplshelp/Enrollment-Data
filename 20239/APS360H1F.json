@@ -118,13 +118,29 @@
 101,
 101,
 102,
+102,
 102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -244,13 +260,29 @@
 68,
 69,
 70,
+71,
 71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -363,7 +395,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

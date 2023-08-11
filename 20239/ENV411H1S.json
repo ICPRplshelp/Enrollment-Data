@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 86,
+"time": 1691766838
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -119,6 +124,7 @@
 81,
 81,
 81,
+82,
 82,
 82,
 82
@@ -258,7 +264,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Sustainability Thinking"
 }

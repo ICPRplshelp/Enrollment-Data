@@ -118,13 +118,29 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Raheleh",
+"lastName": "Saneie"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Raheleh",
+"lastName": "Saneie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -237,7 +253,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Digital Studio II"
 }

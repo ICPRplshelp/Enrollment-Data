@@ -118,6 +118,7 @@
 38,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
@@ -131,13 +132,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dave W",
+"lastName": "Kush"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Blair",
-"lastName": "Armstrong"
+"firstName": "Dave W",
+"lastName": "Kush"
 }
 ],
 "isCancelled": false,
@@ -252,7 +262,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Psycholinguistics"
 }

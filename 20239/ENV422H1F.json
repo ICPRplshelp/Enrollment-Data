@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1691766838
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -120,6 +125,7 @@
 57,
 57,
 58,
+57,
 57,
 57
 ],
@@ -258,7 +264,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Environmental Law"
 }

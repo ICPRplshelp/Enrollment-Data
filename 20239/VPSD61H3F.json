@@ -118,6 +118,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -131,13 +132,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Arnold",
+"lastName": "Koroshegyi"
+}
+],
+"timing": 1691766838
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lee",
-"lastName": "Goreas"
+"firstName": "Arnold",
+"lastName": "Koroshegyi"
 }
 ],
 "isCancelled": false,
@@ -252,7 +262,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Advanced Studio Art Project"
 }

@@ -121,13 +121,29 @@
 150,
 151,
 151,
-151
+151,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -250,13 +266,29 @@
 127,
 127,
 126,
-127
+127,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -379,7 +411,8 @@
 133,
 133,
 132,
-131
+131,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -523,7 +556,8 @@
 114,
 114,
 116,
-117
+117,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -667,13 +701,29 @@
 115,
 115,
 115,
-115
+115,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1691766838
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -789,7 +839,8 @@
 1691500599,
 1691549731,
 1691614238,
-1691694293
+1691694293,
+1691766838
 ],
 "title": "Macroeconomic Theory and Policy"
 }

@@ -1,0 +1,46 @@
+{
+"code": "FCS292H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1691766838,
+"delivery": "ASYNC",
+"enrollmentCap": 75,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 75
+},
+"enrollmentLogs": [
+0,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"timing": 1691766838
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1691766837,
+1691766838
+],
+"title": "Love, Sex and Desire in French Literature and Cinema"
+}
