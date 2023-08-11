@@ -122,7 +122,8 @@
 74,
 75,
 77,
-77
+77,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,13 +136,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Barbara Ines",
+"lastName": "Ribeiro Simoes Daibert"
+}
+],
+"timing": 1691785160
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sara",
-"lastName": "Salih"
+"firstName": "Barbara Ines",
+"lastName": "Ribeiro Simoes Daibert"
 }
 ],
 "isCancelled": false,
@@ -260,7 +270,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Introduction to Colonial and postcolonial Writing"
 }

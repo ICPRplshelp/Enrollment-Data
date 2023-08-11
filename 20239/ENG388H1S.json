@@ -122,13 +122,29 @@
 39,
 39,
 38,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noor",
+"lastName": "Naga"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Noor",
+"lastName": "Naga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -245,7 +261,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Creative Writing: Poetry"
 }

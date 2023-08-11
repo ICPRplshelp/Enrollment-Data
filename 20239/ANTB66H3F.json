@@ -119,13 +119,29 @@
 15,
 15,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connie",
+"lastName": "Gagliardi"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connie",
+"lastName": "Gagliardi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -239,7 +255,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Spiritual Paths: A Comparative Anthropology of Pilgrimage"
 }

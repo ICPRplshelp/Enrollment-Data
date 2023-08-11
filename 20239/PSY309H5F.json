@@ -119,6 +119,7 @@
 51,
 52,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -261,13 +262,29 @@
 54,
 55,
 57,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hasagani",
+"lastName": "Tissera"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hasagani",
+"lastName": "Tissera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -381,7 +398,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Experimental Design and Theory"
 }

@@ -119,13 +119,29 @@
 469,
 465,
 465,
+466,
 466
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ichiro",
+"lastName": "Inamoto"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ichiro",
+"lastName": "Inamoto"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -239,7 +255,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Introductory Cell and Molecular Biology"
 }

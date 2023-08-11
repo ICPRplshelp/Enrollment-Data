@@ -124,13 +124,29 @@
 99,
 99,
 99,
+102,
 102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Suzanne",
+"lastName": "Edworthy"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Suzanne",
+"lastName": "Edworthy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -244,7 +260,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Marketing in the Arts and Media"
 }

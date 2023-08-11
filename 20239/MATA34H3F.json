@@ -119,7 +119,8 @@
 265,
 264,
 264,
-260
+260,
+258
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,7 +262,8 @@
 245,
 243,
 242,
-242
+242,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -403,13 +405,29 @@
 128,
 130,
 133,
-137
+137,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -523,7 +541,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Calculus for Management"
 }

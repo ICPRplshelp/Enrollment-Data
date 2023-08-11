@@ -119,13 +119,29 @@
 55,
 55,
 54,
+54,
 54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bridget",
+"lastName": "Murphy"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bridget",
+"lastName": "Murphy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -239,7 +255,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Plant Physiology"
 }

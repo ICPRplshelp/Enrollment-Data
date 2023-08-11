@@ -213,6 +213,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -449,13 +450,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -647,6 +664,7 @@
 3,
 3,
 3,
+2,
 2,
 2,
 2,
@@ -899,7 +917,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Research Opportunity Program (ROP)"
 }

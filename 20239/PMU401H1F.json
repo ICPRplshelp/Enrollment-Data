@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1691785160
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -119,7 +124,8 @@
 20,
 20,
 20,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -254,7 +260,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Business of Music"
 }

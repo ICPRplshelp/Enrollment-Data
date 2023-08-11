@@ -119,13 +119,29 @@
 29,
 30,
 31,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -246,13 +262,29 @@
 27,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -373,6 +405,7 @@
 36,
 37,
 37,
+36,
 36
 ],
 "instructorLog": {
@@ -500,13 +533,29 @@
 35,
 36,
 36,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 },
@@ -627,7 +676,8 @@
 29,
 30,
 30,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -747,7 +797,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Critical Writing About Literature"
 }

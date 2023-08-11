@@ -124,6 +124,7 @@
 187,
 187,
 187,
+187,
 187
 ],
 "instructorLog": {
@@ -137,12 +138,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 75,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1687561168
+},
+{
+"newCapacity": 90,
+"time": 1691785160
 }
 ],
 "initialCap": 60
@@ -237,6 +242,7 @@
 75,
 75,
 75,
+73,
 73,
 73,
 73,
@@ -376,7 +382,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

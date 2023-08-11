@@ -119,6 +119,7 @@
 8,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -132,13 +133,22 @@
 }
 ],
 "timing": 1691549731
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lucas",
+"lastName": "Albano"
+}
+],
+"timing": 1691785160
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marc",
-"lastName": "Johnson"
+"firstName": "Lucas",
+"lastName": "Albano"
 }
 ],
 "isCancelled": false,
@@ -254,7 +264,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Evolutionary Ecology"
 }

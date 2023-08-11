@@ -119,13 +119,29 @@
 67,
 66,
 66,
+66,
 66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Sedra"
+}
+],
+"timing": 1691785160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Sedra"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -239,7 +255,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Laboratory in Animal Physiology"
 }

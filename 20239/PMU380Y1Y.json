@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 16,
 "time": 1691766838
+},
+{
+"newCapacity": 15,
+"time": 1691785160
 }
 ],
 "initialCap": 15
@@ -124,7 +128,8 @@
 15,
 15,
 15,
-16
+16,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,6 +280,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -303,9 +309,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1691785160
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -417,7 +428,8 @@
 15,
 15,
 15,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -552,7 +564,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Conducting"
 }

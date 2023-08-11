@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1691785160
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -119,6 +124,7 @@
 42,
 42,
 42,
+43,
 43,
 43,
 43,
@@ -260,7 +266,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Gender, Body and Sexuality in Islam"
 }

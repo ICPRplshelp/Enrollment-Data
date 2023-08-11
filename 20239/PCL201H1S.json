@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 269,
+"enrollmentCap": 273,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 273,
+"time": 1691785160
+}
+],
 "initialCap": 269
 },
 "enrollmentLogs": [
@@ -122,6 +127,7 @@
 326,
 321,
 322,
+322,
 322
 ],
 "instructorLog": {
@@ -150,9 +156,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 1,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1,
+"time": 1691785160
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -172,6 +183,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -405,7 +417,8 @@
 1691549731,
 1691614238,
 1691694293,
-1691766838
+1691766838,
+1691785160
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }
