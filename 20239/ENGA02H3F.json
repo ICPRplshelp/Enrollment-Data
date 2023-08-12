@@ -120,6 +120,7 @@
 30,
 31,
 31,
+30,
 30
 ],
 "instructorLog": {
@@ -260,6 +261,7 @@
 27,
 27,
 27,
+28,
 28,
 28,
 28,
@@ -406,6 +408,7 @@
 37,
 37,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -534,6 +537,7 @@
 36,
 36,
 35,
+34,
 34
 ],
 "instructorLog": {
@@ -677,13 +681,29 @@
 30,
 30,
 30,
+29,
 29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Niyosha",
+"lastName": "Keyzad"
+}
+],
+"timing": 1691862427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Niyosha",
+"lastName": "Keyzad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 }
@@ -798,7 +818,8 @@
 1691614238,
 1691694293,
 1691766838,
-1691785160
+1691785160,
+1691862427
 ],
 "title": "Critical Writing About Literature"
 }
