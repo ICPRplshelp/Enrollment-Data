@@ -122,13 +122,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Etienne",
+"lastName": "Cardin-Trudeau"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Etienne",
+"lastName": "Cardin-Trudeau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -245,7 +261,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Topics in Canadian Politics"
 }

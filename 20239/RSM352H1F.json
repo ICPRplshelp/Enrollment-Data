@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -125,7 +130,8 @@
 60,
 60,
 60,
-60
+60,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +159,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -273,6 +284,7 @@
 54,
 54,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -301,9 +313,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -418,6 +435,7 @@
 44,
 44,
 44,
+43,
 43,
 43,
 43,
@@ -562,7 +580,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Marketing Research (formerly RSM452H1)"
 }

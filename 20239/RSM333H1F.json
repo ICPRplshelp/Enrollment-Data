@@ -125,7 +125,8 @@
 80,
 80,
 80,
-80
+80,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,7 +274,8 @@
 76,
 76,
 76,
-76
+76,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +303,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -421,7 +428,8 @@
 72,
 72,
 72,
-72
+72,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,9 +457,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -569,7 +582,8 @@
 79,
 79,
 79,
-79
+79,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -597,9 +611,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -717,7 +736,8 @@
 78,
 78,
 78,
-78
+78,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -745,9 +765,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -865,7 +890,8 @@
 72,
 72,
 72,
-72
+72,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1006,7 +1032,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Corporate Finance"
 }

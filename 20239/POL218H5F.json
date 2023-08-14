@@ -122,13 +122,29 @@
 126,
 126,
 126,
-126
+126,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alejandro",
+"lastName": "Garcia Magos"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alejandro",
+"lastName": "Garcia Magos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -245,7 +261,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Introduction to Comparative Politics: Institutions"
 }

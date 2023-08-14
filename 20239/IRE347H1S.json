@@ -125,13 +125,29 @@
 80,
 80,
 80,
-80
+80,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anny",
+"lastName": "Fong"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anny",
+"lastName": "Fong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -251,7 +267,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Training & Development"
 }

@@ -125,6 +125,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -273,13 +274,29 @@
 35,
 35,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bob",
+"lastName": "Thompson"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bob",
+"lastName": "Thompson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -399,7 +416,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Negotiations"
 }

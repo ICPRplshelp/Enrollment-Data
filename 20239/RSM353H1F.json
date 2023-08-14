@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -120,6 +125,7 @@
 44,
 44,
 44,
+45,
 45,
 45,
 45,
@@ -273,6 +279,7 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
@@ -414,7 +421,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Consumer Behaviour (formerly RSM451H1)"
 }

@@ -122,13 +122,29 @@
 70,
 70,
 70,
-70
+70,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Irma",
+"lastName": "Spahiu"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Irma",
+"lastName": "Spahiu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -245,7 +261,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "International Law"
 }

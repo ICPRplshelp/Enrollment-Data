@@ -125,7 +125,8 @@
 295,
 295,
 295,
-295
+295,
+296
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,13 +139,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
+}
+],
+"timing": 1692036340
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Keir",
-"lastName": "Moulton"
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
 }
 ],
 "isCancelled": false,
@@ -273,6 +283,7 @@
 294,
 295,
 295,
+295,
 295
 ],
 "instructorLog": {
@@ -286,13 +297,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
+}
+],
+"timing": 1692036340
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Keir",
-"lastName": "Moulton"
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
 }
 ],
 "isCancelled": false,
@@ -414,7 +434,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Introduction to Linguistics: Sentence Structure and Meaning"
 }

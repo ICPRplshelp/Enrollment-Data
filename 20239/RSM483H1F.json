@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -125,7 +130,8 @@
 47,
 47,
 47,
-47
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -266,7 +272,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Real Estate Markets"
 }

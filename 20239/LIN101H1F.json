@@ -125,7 +125,8 @@
 276,
 276,
 276,
-276
+276,
+277
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,13 +139,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexei",
+"lastName": "Kochetov"
+}
+],
+"timing": 1692036340
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Peter",
-"lastName": "Jurgec"
+"firstName": "Alexei",
+"lastName": "Kochetov"
 }
 ],
 "isCancelled": false,
@@ -273,7 +283,8 @@
 277,
 277,
 277,
-277
+277,
+276
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -286,13 +297,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexei",
+"lastName": "Kochetov"
+}
+],
+"timing": 1692036340
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Peter",
-"lastName": "Jurgec"
+"firstName": "Alexei",
+"lastName": "Kochetov"
 }
 ],
 "isCancelled": false,
@@ -414,7 +434,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Introduction to Linguistics: Sound Structure"
 }

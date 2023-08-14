@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 57,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -125,7 +130,8 @@
 51,
 51,
 51,
-51
+51,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +159,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -273,7 +284,8 @@
 49,
 49,
 50,
-50
+50,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +426,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Futures and Options Markets"
 }

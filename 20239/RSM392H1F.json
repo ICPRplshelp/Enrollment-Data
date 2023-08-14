@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -125,7 +130,8 @@
 64,
 64,
 63,
-63
+63,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +159,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -273,7 +284,8 @@
 71,
 71,
 70,
-70
+70,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +313,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -421,7 +438,8 @@
 66,
 66,
 65,
-65
+65,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -569,7 +587,8 @@
 60,
 60,
 60,
-60
+60,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -717,7 +736,8 @@
 67,
 67,
 67,
-67
+67,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -745,9 +765,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -865,7 +890,8 @@
 70,
 70,
 69,
-69
+69,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -893,9 +919,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1013,6 +1044,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -1041,9 +1073,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1161,7 +1198,8 @@
 62,
 62,
 61,
-61
+61,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1189,9 +1227,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -1309,7 +1352,8 @@
 78,
 78,
 78,
-78
+78,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1450,7 +1494,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Strategic Management"
 }

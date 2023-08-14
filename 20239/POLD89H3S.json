@@ -122,13 +122,29 @@
 21,
 21,
 21,
-21
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastien",
+"lastName": "Parker"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sebastien",
+"lastName": "Parker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -245,7 +261,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Global Environmental Politics"
 }

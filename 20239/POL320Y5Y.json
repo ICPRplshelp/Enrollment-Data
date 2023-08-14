@@ -122,7 +122,8 @@
 70,
 70,
 70,
-70
+70,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,6 +136,19 @@
 }
 ],
 "timing": 1690381381
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Emily Catherine",
+"lastName": "Nacol"
+},
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
+}
+],
+"timing": 1692036340
 }
 ]
 },
@@ -142,6 +156,10 @@
 {
 "firstName": "Emily Catherine",
 "lastName": "Nacol"
+},
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
 }
 ],
 "isCancelled": false,
@@ -260,7 +278,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Modern Political Thought"
 }

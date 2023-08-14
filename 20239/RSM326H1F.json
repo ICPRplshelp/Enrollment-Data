@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -125,6 +130,7 @@
 54,
 54,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -153,9 +159,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1692036340
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -273,7 +284,8 @@
 57,
 57,
 57,
-57
+57,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,7 +433,8 @@
 55,
 55,
 55,
-55
+55,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -562,7 +575,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Data Analytics with Financial Accounting Information"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 44,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 44,
+"time": 1692036340
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -119,6 +124,7 @@
 13,
 13,
 13,
+14,
 14,
 14,
 14,
@@ -260,7 +266,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Global Transformations: Politics, Economy and Society"
 }

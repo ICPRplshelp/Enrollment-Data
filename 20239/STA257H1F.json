@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1692036340
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -125,7 +130,8 @@
 229,
 222,
 221,
-221
+221,
+229
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,7 +279,8 @@
 271,
 268,
 269,
-269
+269,
+226
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +421,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Probability and Statistics I"
 }

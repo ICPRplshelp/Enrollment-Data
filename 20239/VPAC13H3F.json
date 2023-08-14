@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1687893242
+},
+{
+"newCapacity": 60,
+"time": 1692036340
 }
 ],
 "initialCap": 45
@@ -127,7 +131,8 @@
 76,
 76,
 76,
-76
+76,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,7 +270,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Planning and Project Management in the Arts and Cultural Sector"
 }

@@ -122,13 +122,29 @@
 4,
 4,
 4,
-4
+4,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
+}
+],
+"timing": 1692036340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -245,7 +261,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Topics in Political Thought"
 }

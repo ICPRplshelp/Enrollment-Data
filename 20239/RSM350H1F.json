@@ -125,7 +125,8 @@
 65,
 65,
 65,
-65
+65,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +154,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -273,7 +279,8 @@
 66,
 66,
 66,
-66
+66,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +308,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692036340
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -409,6 +421,7 @@
 57,
 57,
 57,
+58,
 58,
 58,
 58,
@@ -562,7 +575,8 @@
 1691766838,
 1691785160,
 1691862427,
-1691953428
+1691953428,
+1692036340
 ],
 "title": "Marketing Management"
 }
