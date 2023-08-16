@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 60,
 "time": 1692036340
+},
+{
+"newCapacity": 75,
+"time": 1692120475
 }
 ],
 "initialCap": 60
@@ -132,7 +136,9 @@
 78,
 78,
 78,
-77
+77,
+78,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,7 +277,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Contracts and Copyright"
 }

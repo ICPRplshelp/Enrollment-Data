@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -126,6 +126,8 @@
 4,
 4,
 4,
+4,
+4,
 4
 ],
 "instructorLog": {
@@ -139,13 +141,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Odette",
+"lastName": "Boivin"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Paul-Alain",
-"lastName": "Beaulieu"
+"firstName": "Odette",
+"lastName": "Boivin"
 }
 ],
 "isCancelled": false,
@@ -268,7 +279,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Intorduction to Akkadian"
 }

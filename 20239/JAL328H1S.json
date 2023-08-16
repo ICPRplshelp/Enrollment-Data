@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692120475
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -126,14 +131,16 @@
 57,
 57,
 57,
-32
+32,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -253,7 +260,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Writing Systems"
 }

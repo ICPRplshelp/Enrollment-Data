@@ -123,6 +123,8 @@
 13,
 13,
 13,
+13,
+13,
 13
 ],
 "instructorLog": {
@@ -136,13 +138,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Seyed Mohammad",
+"lastName": "Yarandi"
+}
+],
+"timing": 1692120475
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sonia",
-"lastName": "Sedivy"
+"firstName": "Seyed Mohammad",
+"lastName": "Yarandi"
 }
 ],
 "isCancelled": false,
@@ -262,7 +273,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Topics in Analytic Philosophy"
 }

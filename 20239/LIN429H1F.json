@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692120475
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -126,7 +131,9 @@
 4,
 4,
 4,
-2
+2,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -148,7 +155,7 @@
 "lastName": "Jurgec"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -268,7 +275,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Research in Phonology"
 }

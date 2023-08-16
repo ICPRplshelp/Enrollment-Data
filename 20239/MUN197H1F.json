@@ -126,13 +126,30 @@
 31,
 31,
 31,
+31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randall",
+"lastName": "Hansen"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Randall",
+"lastName": "Hansen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -253,7 +270,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Strong States or Weak People Dictatorships in Modern Europe"
 }

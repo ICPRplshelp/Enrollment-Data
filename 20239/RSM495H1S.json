@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -126,7 +131,9 @@
 62,
 62,
 62,
-63
+63,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -253,7 +260,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Management Consulting"
 }

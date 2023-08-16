@@ -123,6 +123,8 @@
 12,
 12,
 12,
+12,
+12,
 12
 ],
 "instructorLog": {
@@ -136,13 +138,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lu",
+"lastName": "WANG (NOTUORID)"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Li",
-"lastName": "Chen"
+"firstName": "Lu",
+"lastName": "WANG (NOTUORID)"
 }
 ],
 "isCancelled": false,
@@ -262,7 +273,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "China and the World"
 }

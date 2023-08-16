@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1692120475
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -122,6 +127,8 @@
 47,
 47,
 47,
+47,
+48,
 47,
 48
 ],
@@ -262,7 +269,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Spatial Database"
 }

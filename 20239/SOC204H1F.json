@@ -131,7 +131,9 @@
 119,
 120,
 120,
-120
+120,
+120,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -159,12 +161,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 101,
+"enrollmentCap": 109,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 101,
 "time": 1690316798
+},
+{
+"newCapacity": 109,
+"time": 1692226488
 }
 ],
 "initialCap": 100
@@ -269,6 +275,8 @@
 110,
 110,
 110,
+109,
+109,
 109,
 109,
 109,
@@ -427,7 +435,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Introduction to Qualitative Methods in Sociology"
 }

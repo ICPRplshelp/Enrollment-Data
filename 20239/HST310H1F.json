@@ -126,7 +126,9 @@
 70,
 70,
 70,
-70
+70,
+70,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,13 +141,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Attia",
+"lastName": "Khan"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Paul",
-"lastName": "Holyoke"
+"firstName": "Attia",
+"lastName": "Khan"
 }
 ],
 "isCancelled": false,
@@ -268,7 +279,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Critical Health Policy"
 }

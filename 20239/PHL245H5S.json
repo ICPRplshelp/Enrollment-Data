@@ -123,13 +123,30 @@
 193,
 193,
 193,
-192
+192,
+194,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Logan",
+"lastName": "Fletcher"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Logan",
+"lastName": "Fletcher"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -254,13 +271,30 @@
 185,
 185,
 185,
-185
+185,
+188,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Koo"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Koo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -378,7 +412,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Modern Symbolic Logic"
 }

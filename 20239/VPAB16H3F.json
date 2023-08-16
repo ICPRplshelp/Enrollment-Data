@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 170,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 170,
 "time": 1690559854
+},
+{
+"newCapacity": 175,
+"time": 1692120475
 }
 ],
 "initialCap": 100
@@ -132,7 +136,9 @@
 176,
 176,
 176,
-177
+177,
+177,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,7 +262,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Managing and Leading in Cultural Organizations"
 }

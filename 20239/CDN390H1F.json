@@ -126,13 +126,30 @@
 29,
 29,
 29,
-29
+29,
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Serene",
+"lastName": "Tan"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Serene",
+"lastName": "Tan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -253,7 +270,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Chinese Canadian Studies"
 }

@@ -103,13 +103,30 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -214,13 +231,30 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -318,7 +352,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Research Opportunity Program"
 }

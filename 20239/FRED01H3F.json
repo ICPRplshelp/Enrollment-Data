@@ -123,6 +123,8 @@
 25,
 25,
 25,
+25,
+25,
 25
 ],
 "instructorLog": {
@@ -136,13 +138,22 @@
 }
 ],
 "timing": 1691091680
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stephanie",
+"lastName": "Cote"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "STEPHANIE",
-"lastName": "COTE (NOUTORID)"
+"firstName": "Stephanie",
+"lastName": "Cote"
 }
 ],
 "isCancelled": false,
@@ -260,6 +271,8 @@
 13,
 13,
 13,
+12,
+12,
 12,
 12,
 12,
@@ -408,7 +421,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Language practice VII: Written French"
 }

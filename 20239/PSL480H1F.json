@@ -126,13 +126,38 @@
 13,
 13,
 13,
-13
+13,
+13,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Belanger"
 },
-"instructors": [],
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+}
+],
+"timing": 1692226488
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Belanger"
+},
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -253,7 +278,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Diving Physiology of Marine Mammals"
 }

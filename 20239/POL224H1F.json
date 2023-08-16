@@ -126,6 +126,8 @@
 193,
 193,
 193,
+195,
+193,
 195
 ],
 "instructorLog": {
@@ -139,13 +141,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Greenaway"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ludovic",
-"lastName": "Rheault"
+"firstName": "Christopher",
+"lastName": "Greenaway"
 }
 ],
 "isCancelled": false,
@@ -268,7 +279,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Canada in Comparative Perspective"
 }

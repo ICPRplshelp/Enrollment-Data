@@ -126,13 +126,38 @@
 59,
 59,
 59,
-59
+59,
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brenda Jean",
+"lastName": "Andrews"
 },
-"instructors": [],
+{
+"firstName": "Zhaolei",
+"lastName": "Zhang"
+}
+],
+"timing": 1692120475
+}
+]
+},
+"instructors": [
+{
+"firstName": "Brenda Jean",
+"lastName": "Andrews"
+},
+{
+"firstName": "Zhaolei",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -253,7 +278,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Whole-Genome Sequencing and Analysis Laboratory"
 }

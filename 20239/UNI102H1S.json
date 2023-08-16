@@ -126,13 +126,30 @@
 8,
 8,
 8,
-8
+8,
+8,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francesco",
+"lastName": "Gagliardi"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francesco",
+"lastName": "Gagliardi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -253,7 +270,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Performing the City I"
 }

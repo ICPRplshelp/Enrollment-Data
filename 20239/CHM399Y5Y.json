@@ -128,6 +128,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -259,13 +261,30 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claudiu",
+"lastName": "Gradinaru"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Claudiu",
+"lastName": "Gradinaru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -390,13 +409,30 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jumi",
+"lastName": "Shin"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jumi",
+"lastName": "Shin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -521,13 +557,30 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Prosser"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Prosser"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -645,7 +698,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Research Opportunity Program"
 }

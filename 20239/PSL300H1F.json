@@ -126,7 +126,9 @@
 1380,
 1380,
 1380,
-1381
+1381,
+1383,
+1383
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,6 +149,23 @@
 }
 ],
 "timing": 1691694293
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Douglas",
+"lastName": "Tweed"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+}
+],
+"timing": 1692226488
 }
 ]
 },
@@ -160,8 +179,8 @@
 "lastName": "Tweed"
 },
 {
-"firstName": "Jeff",
-"lastName": "Kroetsch"
+"firstName": "Helen",
+"lastName": "Miliotis"
 }
 ],
 "isCancelled": false,
@@ -284,7 +303,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Human Physiology I"
 }

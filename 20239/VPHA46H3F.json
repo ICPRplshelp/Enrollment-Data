@@ -123,6 +123,8 @@
 205,
 205,
 205,
+206,
+206,
 206
 ],
 "instructorLog": {
@@ -136,13 +138,22 @@
 }
 ],
 "timing": 1691549731
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Milena",
+"lastName": "Tomic"
+}
+],
+"timing": 1692226488
 }
 ]
 },
 "instructors": [
 {
-"firstName": "MILENA",
-"lastName": "TOMIC (NOUTORID)"
+"firstName": "Milena",
+"lastName": "Tomic"
 }
 ],
 "isCancelled": false,
@@ -262,7 +273,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Ways of Seeing: Introduction to Art Histories"
 }

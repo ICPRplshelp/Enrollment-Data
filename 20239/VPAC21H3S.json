@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 45,
 "time": 1691091680
+},
+{
+"newCapacity": 80,
+"time": 1692120475
 }
 ],
 "initialCap": 30
@@ -128,7 +132,9 @@
 79,
 79,
 79,
-78
+78,
+79,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,7 +258,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Special Topics in Arts Management I"
 }

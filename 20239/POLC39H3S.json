@@ -123,13 +123,30 @@
 67,
 66,
 66,
-66
+66,
+67,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Faisal",
+"lastName": "Kamal"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Faisal",
+"lastName": "Kamal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Comparative Law and Politics"
 }

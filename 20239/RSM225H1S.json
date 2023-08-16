@@ -126,6 +126,8 @@
 29,
 29,
 29,
+29,
+29,
 29
 ],
 "instructorLog": {
@@ -260,6 +262,8 @@
 42,
 42,
 42,
+42,
+42,
 42
 ],
 "instructorLog": {
@@ -273,9 +277,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -394,6 +403,8 @@
 65,
 65,
 65,
+64,
+64,
 64
 ],
 "instructorLog": {
@@ -521,7 +532,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Legal Environment of Business I"
 }

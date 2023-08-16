@@ -123,13 +123,30 @@
 81,
 81,
 81,
-82
+82,
+79,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yue Bin",
+"lastName": "Guo"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yue Bin",
+"lastName": "Guo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Introducing Global Asia and its Histories"
 }

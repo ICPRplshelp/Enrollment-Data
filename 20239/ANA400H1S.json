@@ -126,6 +126,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -139,6 +141,19 @@
 }
 ],
 "timing": 1690578910
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dee",
+"lastName": "Ballyk"
+},
+{
+"firstName": "Kristina",
+"lastName": "Lisk"
+}
+],
+"timing": 1692226488
 }
 ]
 },
@@ -146,6 +161,10 @@
 {
 "firstName": "Dee",
 "lastName": "Ballyk"
+},
+{
+"firstName": "Kristina",
+"lastName": "Lisk"
 }
 ],
 "isCancelled": false,
@@ -268,7 +287,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Anatomy Dissection"
 }

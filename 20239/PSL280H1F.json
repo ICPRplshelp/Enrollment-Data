@@ -126,7 +126,9 @@
 61,
 61,
 61,
-61
+61,
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,6 +141,19 @@
 }
 ],
 "timing": 1689714369
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+},
+{
+"firstName": "Michael",
+"lastName": "Belanger"
+}
+],
+"timing": 1692226488
 }
 ]
 },
@@ -146,6 +161,10 @@
 {
 "firstName": "Carin",
 "lastName": "Wittnich"
+},
+{
+"firstName": "Michael",
+"lastName": "Belanger"
 }
 ],
 "isCancelled": false,
@@ -268,7 +287,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Introduction to Physiologic Adaptations of Marine Mammals"
 }

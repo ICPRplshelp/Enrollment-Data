@@ -126,13 +126,38 @@
 112,
 112,
 112,
+113,
+114,
 113
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "French"
 },
-"instructors": [],
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
+"timing": 1692226488
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -253,7 +278,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Basic Human Physiology"
 }

@@ -123,13 +123,38 @@
 33,
 33,
 33,
+33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Long"
 },
-"instructors": [],
+{
+"firstName": "Victoria Rose",
+"lastName": "Pringle"
+}
+],
+"timing": 1692226488
+}
+]
+},
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Long"
+},
+{
+"firstName": "Victoria Rose",
+"lastName": "Pringle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -247,7 +272,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Social/Personality Laboratory"
 }

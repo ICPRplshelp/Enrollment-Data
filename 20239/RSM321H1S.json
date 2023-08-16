@@ -126,6 +126,8 @@
 18,
 18,
 18,
+18,
+18,
 18
 ],
 "instructorLog": {
@@ -154,9 +156,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -262,6 +269,8 @@
 55,
 55,
 55,
+54,
+54,
 54,
 54,
 54,
@@ -417,7 +426,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Advanced Financial Accounting Topics"
 }

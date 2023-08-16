@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1692226488
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -123,7 +128,9 @@
 86,
 86,
 86,
-86
+86,
+87,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,7 +269,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Philosophy of Art"
 }

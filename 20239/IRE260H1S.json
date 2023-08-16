@@ -135,13 +135,30 @@
 115,
 115,
 115,
+115,
+115,
 115
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anny",
+"lastName": "Fong"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anny",
+"lastName": "Fong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -262,7 +279,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Organizational Behaviour"
 }

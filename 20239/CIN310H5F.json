@@ -123,13 +123,30 @@
 67,
 67,
 67,
-66
+66,
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanda",
+"lastName": "Greer"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanda",
+"lastName": "Greer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Melodrama"
 }

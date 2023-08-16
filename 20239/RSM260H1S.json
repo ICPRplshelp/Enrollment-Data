@@ -126,6 +126,8 @@
 21,
 21,
 21,
+21,
+21,
 21
 ],
 "instructorLog": {
@@ -275,7 +277,9 @@
 26,
 26,
 26,
-25
+25,
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -303,9 +307,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1692120475
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -424,7 +433,9 @@
 48,
 48,
 48,
-47
+47,
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -554,6 +565,8 @@
 14,
 14,
 14,
+15,
+15,
 15,
 15,
 15,
@@ -722,6 +735,8 @@
 13,
 13,
 13,
+14,
+14,
 14
 ],
 "instructorLog": {
@@ -858,6 +873,8 @@
 39,
 39,
 39,
+40,
+40,
 40,
 40,
 40,
@@ -1020,7 +1037,9 @@
 32,
 32,
 32,
-33
+33,
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1162,7 +1181,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Organizational Behaviour"
 }

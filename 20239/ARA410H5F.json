@@ -123,13 +123,30 @@
 9,
 9,
 9,
+9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abdelhalim",
+"lastName": "Elamroussy"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Abdelhalim",
+"lastName": "Elamroussy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Advanced Arabic Reading I: Reading the Sacred and the Legendary"
 }

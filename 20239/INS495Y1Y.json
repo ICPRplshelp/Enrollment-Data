@@ -1,0 +1,31 @@
+{
+"code": "INS495Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1692226488,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1692226487,
+1692226488
+],
+"title": "Independent Research"
+}

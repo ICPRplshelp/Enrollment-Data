@@ -123,7 +123,9 @@
 414,
 413,
 413,
-413
+413,
+414,
+387
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -151,9 +153,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 1000,
+"enrollmentCap": 1130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1130,
+"time": 1692226488
+}
+],
 "initialCap": 1000
 },
 "enrollmentLogs": [
@@ -269,7 +276,9 @@
 1066,
 1065,
 1065,
-1070
+1070,
+1070,
+1085
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -408,7 +417,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Introduction to Linguistics"
 }

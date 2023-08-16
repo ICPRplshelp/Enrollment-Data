@@ -128,7 +128,9 @@
 23,
 23,
 23,
-24
+24,
+22,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -259,13 +261,30 @@
 14,
 14,
 14,
-15
+15,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Midi",
+"lastName": "Onodera (NOUTORID)"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Midi",
+"lastName": "Onodera (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -383,7 +402,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Studio Practice"
 }

@@ -123,13 +123,30 @@
 2,
 2,
 2,
+2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aurel",
+"lastName": "Braun"
+}
+],
+"timing": 1692120475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aurel",
+"lastName": "Braun"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -142,6 +159,8 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -385,6 +404,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -404,6 +425,8 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -647,6 +670,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -666,6 +691,8 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -909,6 +936,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -928,6 +957,8 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -1164,7 +1195,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Research  Opportunity Program"
 }

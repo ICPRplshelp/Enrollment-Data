@@ -123,13 +123,30 @@
 3,
 3,
 3,
+3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorenza",
+"lastName": "Bennardo"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorenza",
+"lastName": "Bennardo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Introductory Latin III"
 }

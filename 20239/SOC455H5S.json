@@ -5,12 +5,19 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692226488
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -145,7 +152,7 @@
 "lastName": "Gray"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -262,7 +269,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Comparative Indigenous Politics"
 }

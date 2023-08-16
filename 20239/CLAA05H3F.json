@@ -123,13 +123,30 @@
 245,
 245,
 245,
-244
+244,
+245,
+246
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
+"timing": 1692226488
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -247,7 +264,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Ancient Mythology I: Mesopotamia and Egypt"
 }

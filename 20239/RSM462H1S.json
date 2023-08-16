@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 57,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -126,7 +131,9 @@
 61,
 61,
 61,
-61
+61,
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,9 +146,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 57,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -260,7 +272,9 @@
 60,
 60,
 60,
-60
+60,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -387,7 +401,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Managing People in the Context of Globalization"
 }

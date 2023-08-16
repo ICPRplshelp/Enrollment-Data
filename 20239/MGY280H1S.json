@@ -126,6 +126,8 @@
 33,
 33,
 33,
+33,
+33,
 33
 ],
 "instructorLog": {
@@ -139,6 +141,23 @@
 }
 ],
 "timing": 1691182978
+},
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Navarre"
+},
+{
+"firstName": "Nana Hyung-Ran",
+"lastName": "Lee"
+},
+{
+"firstName": "James",
+"lastName": "Rini"
+}
+],
+"timing": 1692120475
 }
 ]
 },
@@ -146,6 +165,14 @@
 {
 "firstName": "William",
 "lastName": "Navarre"
+},
+{
+"firstName": "Nana Hyung-Ran",
+"lastName": "Lee"
+},
+{
+"firstName": "James",
+"lastName": "Rini"
 }
 ],
 "isCancelled": false,
@@ -268,7 +295,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Second Year Specialist Research"
 }

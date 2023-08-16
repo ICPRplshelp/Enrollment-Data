@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -126,6 +131,8 @@
 61,
 61,
 61,
+60,
+60,
 60
 ],
 "instructorLog": {
@@ -275,7 +282,9 @@
 19,
 19,
 19,
-20
+20,
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -409,7 +418,9 @@
 37,
 37,
 37,
-39
+39,
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -422,9 +433,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 5058,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 5058,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -543,6 +559,8 @@
 56,
 56,
 56,
+56,
+55,
 56
 ],
 "instructorLog": {
@@ -571,9 +589,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -692,6 +715,8 @@
 51,
 51,
 51,
+51,
+51,
 51
 ],
 "instructorLog": {
@@ -705,9 +730,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1692120475
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -826,6 +856,8 @@
 51,
 51,
 51,
+50,
+50,
 50
 ],
 "instructorLog": {
@@ -975,7 +1007,9 @@
 21,
 21,
 21,
-23
+23,
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1117,7 +1151,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Capital Market Theory"
 }

@@ -126,7 +126,9 @@
 59,
 59,
 59,
-59
+59,
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,13 +141,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gwen",
+"lastName": "MacGregor"
+}
+],
+"timing": 1692120475
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Neera",
-"lastName": "Singh"
+"firstName": "Gwen",
+"lastName": "MacGregor"
 }
 ],
 "isCancelled": false,
@@ -268,7 +279,9 @@
 1691785160,
 1691862427,
 1691953428,
-1692036340
+1692036340,
+1692120475,
+1692226488
 ],
 "title": "Commons, Commoning and Nature"
 }
