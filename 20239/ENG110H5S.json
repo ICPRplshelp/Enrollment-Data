@@ -1,1 +1,43 @@
-{"code": "ENG110H5S", "faculty": "ERIN", "meetings": [{"createdAt": 1692247612, "delivery": "INPER", "enrollmentCap": 80, "enrollmentCapComplex": {"capChanges": [], "initialCap": 80}, "enrollmentLogs": [0, 0, 12, 16, 17, 20, 24], "instructorLog": {"initialInstructors": [], "instructorChanges": []}, "instructors": [], "isCancelled": false, "meetingNumber": "LEC0101"}], "timeIntervals": [1692247611, 1692247612, 1692247612, 1692247612, 1692247612, 1692247612, 1693011094], "title": "Narrative"}
+{
+"code": "ENG110H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+12,
+16,
+17,
+20,
+24,
+24
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1692247611,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094,
+1693070752
+],
+"title": "Narrative"
+}

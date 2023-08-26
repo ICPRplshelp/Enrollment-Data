@@ -1,1 +1,41 @@
-{"code": "MDSC61H3F", "faculty": "UNKNOWN", "meetings": [{"createdAt": 1687464881, "delivery": "INPER", "enrollmentCap": 50, "enrollmentCapComplex": {"capChanges": [], "initialCap": 50}, "enrollmentLogs": [0, 0, 0, 0, 0, 0, 20], "instructorLog": {"initialInstructors": [], "instructorChanges": []}, "instructors": [], "isCancelled": false, "meetingNumber": "LEC01"}], "timeIntervals": [1687464880, 1687464881, 1687561168, 1687635229, 1687720409, 1687804745, 1687893242], "title": "Alternative Media"}
+{
+"code": "MDSC61H3F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1687464881,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+20
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1687464880,
+1687464881,
+1687561168,
+1687635229,
+1687720409,
+1687804745,
+1687893242
+],
+"title": "Alternative Media"
+}

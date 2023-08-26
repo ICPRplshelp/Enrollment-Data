@@ -1,1 +1,37 @@
-{"code": "URB438H1S", "faculty": "ARTSC", "meetings": [{"createdAt": 1692247612, "delivery": "INPER", "enrollmentCap": 25, "enrollmentCapComplex": {"capChanges": [], "initialCap": 25}, "enrollmentLogs": [0, 1, 2, 2], "instructorLog": {"initialInstructors": [], "instructorChanges": []}, "instructors": [], "isCancelled": false, "meetingNumber": "LEC0101"}], "timeIntervals": [1692247611, 1692247612, 1692247612, 1693011094], "title": "Advanced Urban Research Project"}
+{
+"code": "URB438H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+1,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1692247611,
+1692247612,
+1692247612,
+1693011094,
+1693070752
+],
+"title": "Advanced Urban Research Project"
+}

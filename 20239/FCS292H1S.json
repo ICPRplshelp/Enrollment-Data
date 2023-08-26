@@ -1,1 +1,84 @@
-{"code": "FCS292H1S", "faculty": "ARTSC", "meetings": [{"createdAt": 1691766838, "delivery": "ASYNC", "enrollmentCap": 75, "enrollmentCapComplex": {"capChanges": [], "initialCap": 75}, "enrollmentLogs": [0, 7, 8, 10, 10, 13, 16, 20, 20, 20, 22, 21, 21, 21, 21, 22, 21, 22, 23, 25], "instructorLog": {"initialInstructors": [], "instructorChanges": [{"instructorsAfter": [{"firstName": "Marie-Anne", "lastName": "Visoi"}], "timing": 1691766838}]}, "instructors": [{"firstName": "Marie-Anne", "lastName": "Visoi"}], "isCancelled": false, "meetingNumber": "LEC0101"}], "timeIntervals": [1691766837, 1691766838, 1691785160, 1691862427, 1691953428, 1692036340, 1692120475, 1692226488, 1692239417, 1692247612, 1692317612, 1692430812, 1692500812, 1692570812, 1692640812, 1692710812, 1692780812, 1692850812, 1692920812, 1693011094], "title": "Love, Sex and Desire in French Literature and Cinema"}
+{
+"code": "FCS292H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1691766838,
+"delivery": "ASYNC",
+"enrollmentCap": 75,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 75
+},
+"enrollmentLogs": [
+0,
+7,
+8,
+10,
+10,
+13,
+16,
+20,
+20,
+20,
+22,
+21,
+21,
+21,
+21,
+22,
+21,
+22,
+23,
+25,
+25
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"timing": 1691766838
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1691766837,
+1691766838,
+1691785160,
+1691862427,
+1691953428,
+1692036340,
+1692120475,
+1692226488,
+1692239417,
+1692247612,
+1692317612,
+1692430812,
+1692500812,
+1692570812,
+1692640812,
+1692710812,
+1692780812,
+1692850812,
+1692920812,
+1693011094,
+1693070752
+],
+"title": "Love, Sex and Desire in French Literature and Cinema"
+}

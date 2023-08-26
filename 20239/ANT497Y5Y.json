@@ -1,1 +1,69 @@
-{"code": "ANT497Y5Y", "faculty": "ERIN", "meetings": [{"createdAt": 1691766838, "delivery": "INPER", "enrollmentCap": 1, "enrollmentCapComplex": {"capChanges": [], "initialCap": 1}, "enrollmentLogs": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1], "instructorLog": {"initialInstructors": [], "instructorChanges": []}, "instructors": [], "isCancelled": false, "meetingNumber": "LEC0101"}], "timeIntervals": [1691766837, 1691766838, 1691785160, 1691862427, 1691953428, 1692036340, 1692120475, 1692226488, 1692239417, 1692247612, 1692317612, 1692430812, 1692500812, 1692570812, 1692640812, 1692710812, 1692780812, 1692850812, 1692920812, 1693011094], "title": "Advanced Independent Study"}
+{
+"code": "ANT497Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1691766838,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1691766837,
+1691766838,
+1691785160,
+1691862427,
+1691953428,
+1692036340,
+1692120475,
+1692226488,
+1692239417,
+1692247612,
+1692317612,
+1692430812,
+1692500812,
+1692570812,
+1692640812,
+1692710812,
+1692780812,
+1692850812,
+1692920812,
+1693011094,
+1693070752
+],
+"title": "Advanced Independent Study"
+}

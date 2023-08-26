@@ -1,1 +1,57 @@
-{"code": "PHL302H1S", "faculty": "ARTSC", "meetings": [{"createdAt": 1692226488, "delivery": "INPER", "enrollmentCap": 35, "enrollmentCapComplex": {"capChanges": [], "initialCap": 35}, "enrollmentLogs": [0, 1, 1, 1, 2, 2, 2, 2, 4, 4, 4, 5, 5, 5], "instructorLog": {"initialInstructors": [], "instructorChanges": []}, "instructors": [], "isCancelled": false, "meetingNumber": "LEC0101"}], "timeIntervals": [1692226487, 1692226488, 1692239417, 1692247612, 1692317612, 1692430812, 1692500812, 1692570812, 1692640812, 1692710812, 1692780812, 1692850812, 1692920812, 1693011094], "title": "Ancient Philosophy After Aristotle"}
+{
+"code": "PHL302H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1692226488,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+4,
+4,
+4,
+5,
+5,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1692226487,
+1692226488,
+1692239417,
+1692247612,
+1692317612,
+1692430812,
+1692500812,
+1692570812,
+1692640812,
+1692710812,
+1692780812,
+1692850812,
+1692920812,
+1693011094,
+1693070752
+],
+"title": "Ancient Philosophy After Aristotle"
+}

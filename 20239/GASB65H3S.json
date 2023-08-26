@@ -1,1 +1,76 @@
-{"code": "GASB65H3S", "faculty": "SCAR", "meetings": [{"createdAt": 1692036340, "delivery": "INPER", "enrollmentCap": 25, "enrollmentCapComplex": {"capChanges": [], "initialCap": 25}, "enrollmentLogs": [0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4], "instructorLog": {"initialInstructors": [], "instructorChanges": [{"instructorsAfter": [{"firstName": "Nada", "lastName": "Khalifa"}], "timing": 1692036340}]}, "instructors": [{"firstName": "Nada", "lastName": "Khalifa"}], "isCancelled": false, "meetingNumber": "LEC01"}], "timeIntervals": [1692036339, 1692036340, 1692120475, 1692226488, 1692239417, 1692247612, 1692317612, 1692430812, 1692500812, 1692570812, 1692640812, 1692710812, 1692780812, 1692850812, 1692920812, 1693011094], "title": "West Asia and the Modern World"}
+{
+"code": "GASB65H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1692036340,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+4,
+4,
+4,
+4,
+4,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nada",
+"lastName": "Khalifa"
+}
+],
+"timing": 1692036340
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nada",
+"lastName": "Khalifa"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1692036339,
+1692036340,
+1692120475,
+1692226488,
+1692239417,
+1692247612,
+1692317612,
+1692430812,
+1692500812,
+1692570812,
+1692640812,
+1692710812,
+1692780812,
+1692850812,
+1692920812,
+1693011094,
+1693070752
+],
+"title": "West Asia and the Modern World"
+}
