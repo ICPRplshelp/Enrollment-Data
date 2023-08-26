@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 36,
+"time": 1692247612
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -128,6 +133,18 @@
 23,
 24,
 24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+25,
+24,
 24
 ],
 "instructorLog": {
@@ -156,9 +173,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1692247612
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -279,7 +301,19 @@
 14,
 14,
 14,
-14
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -423,7 +457,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introductory Ancient Greek II"
 }

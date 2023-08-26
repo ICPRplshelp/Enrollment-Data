@@ -125,13 +125,40 @@
 125,
 124,
 122,
-121
+121,
+121,
+121,
+122,
+122,
+122,
+122,
+119,
+119,
+119,
+120,
+121,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -144,6 +171,18 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -406,13 +445,40 @@
 127,
 127,
 127,
-127
+127,
+127,
+126,
+126,
+126,
+126,
+126,
+125,
+123,
+124,
+123,
+124,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mitchell",
+"lastName": "Johnston"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mitchell",
+"lastName": "Johnston"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -532,7 +598,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Effective Writing"
 }

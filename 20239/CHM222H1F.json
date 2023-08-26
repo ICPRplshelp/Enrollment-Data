@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1692247612
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 83,
 84,
 84,
-84
+84,
+84,
+84,
+84,
+84,
+84,
+84,
+84,
+83,
+83,
+82,
+81,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,7 +289,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Physical Chemistry"
 }

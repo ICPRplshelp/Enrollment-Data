@@ -125,13 +125,48 @@
 6,
 6,
 6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
 },
-"instructors": [],
+{
+"firstName": "Harvey",
+"lastName": "Shear"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
+},
+{
+"firstName": "Harvey",
+"lastName": "Shear"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -251,7 +286,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Geography / Environment Social Science Internship"
 }

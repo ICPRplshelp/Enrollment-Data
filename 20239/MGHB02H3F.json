@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 78,
 78,
 76,
-78
+78,
+78,
+78,
+78,
+78,
+78,
+78,
+77,
+77,
+77,
+77,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +170,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -273,7 +295,19 @@
 74,
 74,
 73,
-74
+74,
+74,
+74,
+74,
+74,
+74,
+74,
+73,
+73,
+73,
+73,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +335,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -421,7 +460,19 @@
 71,
 72,
 70,
-71
+71,
+71,
+72,
+71,
+71,
+71,
+71,
+70,
+70,
+70,
+70,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -562,7 +613,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Managing People and Groups in Organizations"
 }

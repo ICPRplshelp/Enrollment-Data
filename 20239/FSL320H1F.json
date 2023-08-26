@@ -128,7 +128,19 @@
 47,
 47,
 45,
-43
+43,
+43,
+41,
+41,
+41,
+41,
+41,
+42,
+42,
+42,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -279,6 +291,18 @@
 15,
 16,
 17,
+19,
+19,
+19,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
 19
 ],
 "instructorLog": {
@@ -415,13 +439,40 @@
 43,
 42,
 41,
-40
+40,
+40,
+38,
+38,
+38,
+38,
+38,
+39,
+39,
+39,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Volland"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Volland"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -544,7 +595,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Intermediate French III"
 }

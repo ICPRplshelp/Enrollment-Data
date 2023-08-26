@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 263,
 264,
 268,
-270
+270,
+270,
+270,
+269,
+269,
+269,
+269,
+272,
+273,
+258,
+258,
+258,
+258
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +170,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -273,7 +295,19 @@
 255,
 254,
 255,
-254
+254,
+254,
+256,
+255,
+254,
+254,
+254,
+254,
+254,
+235,
+236,
+236,
+239
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +335,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -421,7 +460,19 @@
 247,
 247,
 254,
-257
+257,
+257,
+259,
+259,
+259,
+259,
+259,
+260,
+260,
+238,
+239,
+241,
+244
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,9 +500,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -569,7 +625,19 @@
 248,
 248,
 252,
-254
+254,
+254,
+252,
+252,
+252,
+252,
+252,
+253,
+253,
+237,
+238,
+236,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -597,9 +665,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -717,7 +790,19 @@
 263,
 262,
 265,
-269
+269,
+269,
+268,
+267,
+267,
+267,
+267,
+264,
+264,
+240,
+240,
+241,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -745,9 +830,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -865,7 +955,19 @@
 254,
 255,
 257,
-260
+260,
+260,
+260,
+260,
+260,
+260,
+260,
+258,
+256,
+239,
+240,
+242,
+243
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -893,12 +995,29 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 170,
+"time": 1692247612
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1022,6 +1141,151 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
+},
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0108"
 }
 ],
 "timeIntervals": [
@@ -1139,7 +1403,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Computer Programming"
 }

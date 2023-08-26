@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1692247612
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 250,
 250,
 251,
-252
+252,
+252,
+252,
+252,
+252,
+252,
+252,
+251,
+252,
+251,
+250,
+250,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,7 +297,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Physical Chemistry for Life Sciences"
 }

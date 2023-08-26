@@ -125,7 +125,19 @@
 43,
 43,
 42,
-42
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,13 +285,40 @@
 2,
 2,
 2,
-2
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -406,7 +445,19 @@
 77,
 77,
 77,
-77
+77,
+77,
+77,
+77,
+77,
+77,
+77,
+76,
+76,
+75,
+75,
+75,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -554,13 +605,40 @@
 72,
 71,
 70,
-70
+70,
+70,
+70,
+71,
+71,
+71,
+71,
+71,
+71,
+72,
+72,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -680,7 +758,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Intermediate Accounting I"
 }

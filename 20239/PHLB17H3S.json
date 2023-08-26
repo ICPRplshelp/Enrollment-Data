@@ -1,0 +1,39 @@
+{
+"code": "PHLB17H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+1,
+3,
+3,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1692247611,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
+],
+"title": "Introduction to Political Philosophy"
+}

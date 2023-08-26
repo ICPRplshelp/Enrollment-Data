@@ -128,13 +128,40 @@
 100,
 102,
 102,
-102
+102,
+102,
+102,
+102,
+102,
+102,
+102,
+102,
+102,
+102,
+102,
+103,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -264,13 +291,40 @@
 72,
 72,
 72,
-73
+73,
+73,
+73,
+74,
+74,
+74,
+74,
+75,
+76,
+76,
+76,
+77,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -393,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "International Monetary Economics"
 }

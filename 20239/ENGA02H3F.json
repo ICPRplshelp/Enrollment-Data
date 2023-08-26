@@ -125,7 +125,19 @@
 30,
 29,
 29,
-29
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+30,
+30,
+30,
+30,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,7 +285,19 @@
 28,
 29,
 29,
-29
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+30,
+30,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,13 +445,40 @@
 36,
 35,
 35,
-35
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+37,
+36,
+36,
+36,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mitchell",
+"lastName": "Johnston"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mitchell",
+"lastName": "Johnston"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -549,6 +600,18 @@
 36,
 36,
 35,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
 34,
 34,
 34,
@@ -702,7 +765,19 @@
 29,
 30,
 30,
-29
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+30,
+30,
+30,
+30,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -843,7 +918,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Critical Writing About Literature"
 }

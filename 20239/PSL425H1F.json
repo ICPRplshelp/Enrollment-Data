@@ -128,13 +128,56 @@
 61,
 61,
 60,
-61
+61,
+61,
+61,
+62,
+62,
+62,
+62,
+62,
+61,
+61,
+61,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jacqueline",
+"lastName": "Beaudry"
 },
-"instructors": [],
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Khosrow",
+"lastName": "Adeli"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jacqueline",
+"lastName": "Beaudry"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Khosrow",
+"lastName": "Adeli"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -257,7 +300,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Integrative Metabolism and its Endocrine Regulation"
 }

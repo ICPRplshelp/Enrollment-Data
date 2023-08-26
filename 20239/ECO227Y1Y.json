@@ -128,13 +128,40 @@
 97,
 97,
 98,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+101,
+101,
+101,
 100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kuan",
+"lastName": "Xu"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kuan",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Foundations of Econometrics"
 }

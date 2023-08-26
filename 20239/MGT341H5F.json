@@ -125,13 +125,40 @@
 41,
 43,
 43,
-43
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+42,
+42,
+43,
+44,
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Financial Modeling and Data Analytics"
 }

@@ -125,6 +125,18 @@
 133,
 130,
 133,
+133,
+133,
+133,
+133,
+133,
+133,
+133,
+135,
+135,
+134,
+132,
+131,
 133
 ],
 "instructorLog": {
@@ -273,13 +285,40 @@
 140,
 139,
 140,
-140
+140,
+140,
+140,
+140,
+140,
+140,
+140,
+138,
+138,
+138,
+137,
+135,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vasu Vineet",
+"lastName": "Tewari"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vasu Vineet",
+"lastName": "Tewari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -292,6 +331,18 @@
 "initialCap": 180
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -539,7 +590,19 @@
 124,
 125,
 125,
-126
+126,
+126,
+126,
+126,
+126,
+126,
+126,
+125,
+125,
+125,
+126,
+124,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -680,7 +743,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Mathematical Proofs"
 }

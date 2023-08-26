@@ -125,13 +125,40 @@
 31,
 32,
 31,
+31,
+31,
+30,
+31,
+31,
+31,
+31,
+30,
+30,
+30,
+31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kelly",
+"lastName": "Snow"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kelly",
+"lastName": "Snow"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Environmental Planning"
 }

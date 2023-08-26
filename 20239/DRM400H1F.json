@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1692247612
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 15,
 15,
 15,
-15
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+16,
+16,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,7 +289,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Advanced Performance"
 }

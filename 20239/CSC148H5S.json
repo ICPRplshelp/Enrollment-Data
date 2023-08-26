@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1693011094
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 301,
 304,
 309,
-311
+311,
+311,
+312,
+315,
+315,
+315,
+315,
+324,
+325,
+325,
+326,
+328,
+320
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +170,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1693011094
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -273,7 +295,19 @@
 308,
 308,
 312,
-314
+314,
+314,
+313,
+317,
+317,
+317,
+317,
+326,
+327,
+327,
+328,
+330,
+315
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +335,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1693011094
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -421,7 +460,19 @@
 315,
 315,
 317,
-319
+319,
+319,
+320,
+321,
+321,
+321,
+321,
+324,
+325,
+325,
+325,
+328,
+313
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,9 +500,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1693011094
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -569,7 +625,19 @@
 301,
 301,
 304,
-306
+306,
+306,
+307,
+308,
+309,
+309,
+309,
+316,
+317,
+317,
+317,
+321,
+312
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -717,6 +785,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -730,9 +810,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1693011094
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -850,7 +935,19 @@
 297,
 297,
 303,
-308
+308,
+308,
+307,
+309,
+309,
+309,
+309,
+317,
+319,
+320,
+322,
+326,
+323
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -884,6 +981,18 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1139,7 +1248,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Computer Science"
 }

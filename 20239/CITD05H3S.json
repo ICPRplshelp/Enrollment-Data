@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 28,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1692247612
+}
+],
 "initialCap": 28
 },
 "enrollmentLogs": [
@@ -125,13 +130,40 @@
 18,
 18,
 18,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajeev",
+"lastName": "Bhatia"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajeev",
+"lastName": "Bhatia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -251,7 +283,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "City Studies Workshop I"
 }

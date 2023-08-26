@@ -125,6 +125,18 @@
 29,
 28,
 28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
 28
 ],
 "instructorLog": {
@@ -142,6 +154,15 @@
 }
 ],
 "timing": 1687373733
+},
+{
+"instructorsAfter": [
+{
+"firstName": "RHONDA",
+"lastName": "WEPPLER"
+}
+],
+"timing": 1692247612
 }
 ]
 },
@@ -149,10 +170,6 @@
 {
 "firstName": "RHONDA",
 "lastName": "WEPPLER"
-},
-{
-"firstName": "LAUREN",
-"lastName": "NURSE"
 }
 ],
 "isCancelled": false,
@@ -281,13 +298,40 @@
 33,
 32,
 33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+32,
+33,
+33,
+33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "LAUREN",
+"lastName": "NURSE"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "LAUREN",
+"lastName": "NURSE"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -408,6 +452,18 @@
 26,
 26,
 26,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
 27,
 27,
 27,
@@ -540,7 +596,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Sculpture I"
 }

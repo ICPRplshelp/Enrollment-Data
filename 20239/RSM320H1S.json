@@ -128,7 +128,19 @@
 39,
 39,
 38,
-39
+39,
+39,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -279,7 +291,19 @@
 46,
 46,
 46,
-49
+49,
+49,
+50,
+50,
+50,
+50,
+50,
+50,
+50,
+50,
+50,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,9 +331,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692247612
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -430,7 +459,19 @@
 7,
 7,
 7,
-3
+3,
+3,
+1,
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -452,7 +493,7 @@
 "lastName": "Amernic"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -574,7 +615,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Intermediate Financial Accounting III"
 }

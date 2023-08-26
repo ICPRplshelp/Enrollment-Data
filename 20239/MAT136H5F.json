@@ -5,12 +5,29 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693011094
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -132,15 +149,20 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1693011094
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -258,7 +280,19 @@
 211,
 215,
 215,
-221
+221,
+221,
+221,
+223,
+222,
+222,
+222,
+224,
+224,
+224,
+211,
+215,
+215
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -399,7 +433,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Integral Calculus"
 }

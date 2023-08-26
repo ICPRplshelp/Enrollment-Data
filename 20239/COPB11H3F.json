@@ -125,13 +125,40 @@
 84,
 84,
 83,
-82
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+83,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arjuna",
+"lastName": "Thaskaran"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arjuna",
+"lastName": "Thaskaran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -258,13 +285,40 @@
 86,
 86,
 86,
+86,
+86,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+86,
 86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Silvana",
+"lastName": "Mello da Silva"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Silvana",
+"lastName": "Mello da Silva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -391,13 +445,40 @@
 85,
 85,
 85,
+85,
+85,
+86,
+86,
+86,
+86,
+86,
+86,
+86,
+86,
+86,
+85,
 85
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Silvana",
+"lastName": "Mello da Silva"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Silvana",
+"lastName": "Mello da Silva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -541,13 +622,40 @@
 82,
 82,
 82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
+82,
 82
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "McDowell (Simmons)"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "McDowell (Simmons)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 },
@@ -691,13 +799,40 @@
 81,
 82,
 81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
+81,
 81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "McDowell (Simmons)"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "McDowell (Simmons)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 },
@@ -710,6 +845,18 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -950,7 +1097,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Advancing Your Career Exploration Part I"
 }

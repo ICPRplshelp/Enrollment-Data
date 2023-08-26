@@ -125,7 +125,19 @@
 34,
 35,
 34,
-35
+35,
+35,
+35,
+36,
+36,
+36,
+36,
+35,
+35,
+35,
+33,
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,13 +150,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Minwoo",
+"lastName": "Lee"
+}
+],
+"timing": 1692247612
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Arnold",
-"lastName": "Koroshegyi"
+"firstName": "Minwoo",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -273,13 +294,40 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Minwoo",
+"lastName": "Lee"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Minwoo",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -399,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Digital Studio I"
 }

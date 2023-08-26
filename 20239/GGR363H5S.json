@@ -125,13 +125,40 @@
 11,
 11,
 11,
-11
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+12,
+12,
+12,
+12,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bola",
+"lastName": "Oshinusi"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bola",
+"lastName": "Oshinusi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Global Migration and Health"
 }

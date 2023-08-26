@@ -125,7 +125,19 @@
 25,
 26,
 26,
-26
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+27,
+27,
+27,
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,13 +285,40 @@
 27,
 26,
 27,
-27
+27,
+27,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
+29,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -406,13 +445,40 @@
 26,
 24,
 24,
-25
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+24,
+24,
+24,
+24,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hugh",
+"lastName": "O'Neill"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hugh",
+"lastName": "O'Neill"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -532,7 +598,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Writing About Movies"
 }

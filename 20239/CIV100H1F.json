@@ -138,7 +138,19 @@
 182,
 181,
 181,
-179
+179,
+179,
+179,
+180,
+181,
+181,
+181,
+183,
+183,
+183,
+183,
+184,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -151,13 +163,31 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sayed",
+"lastName": "Mohamed"
+}
+],
+"timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamed Abdelmonem Saye",
+"lastName": "Mohamed"
+}
+],
+"timing": 1692247612
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Aryan",
-"lastName": "Rezaei Rad"
+"firstName": "Mohamed Abdelmonem Saye",
+"lastName": "Mohamed"
 }
 ],
 "isCancelled": false,
@@ -299,7 +329,19 @@
 162,
 162,
 162,
-160
+160,
+160,
+160,
+158,
+158,
+158,
+158,
+159,
+159,
+159,
+159,
+158,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -456,7 +498,19 @@
 148,
 147,
 146,
-144
+144,
+144,
+142,
+142,
+142,
+142,
+142,
+141,
+141,
+141,
+141,
+142,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -613,7 +667,19 @@
 172,
 172,
 171,
-172
+172,
+172,
+172,
+172,
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -774,7 +840,19 @@
 163,
 163,
 163,
-160
+160,
+160,
+160,
+160,
+160,
+160,
+160,
+160,
+159,
+159,
+159,
+158,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -939,13 +1017,40 @@
 149,
 149,
 149,
+148,
+148,
+149,
+149,
+149,
+149,
+149,
+150,
+150,
+150,
+150,
+148,
 148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Negin",
+"lastName": "Houshmand"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Negin",
+"lastName": "Houshmand"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -1085,7 +1190,19 @@
 149,
 149,
 148,
-145
+145,
+145,
+144,
+144,
+144,
+144,
+144,
+144,
+144,
+144,
+144,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1250,7 +1367,19 @@
 150,
 149,
 149,
-147
+147,
+147,
+146,
+144,
+144,
+144,
+144,
+146,
+146,
+146,
+146,
+146,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1391,7 +1520,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Mechanics"
 }

@@ -128,13 +128,40 @@
 319,
 318,
 316,
-315
+315,
+315,
+316,
+315,
+314,
+314,
+314,
+313,
+312,
+312,
+312,
+312,
+311
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dennis",
+"lastName": "Lee"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dennis",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "The World of Popular Music"
 }

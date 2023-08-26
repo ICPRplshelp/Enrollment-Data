@@ -12,20 +12,59 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather",
+"lastName": "Miller"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heather",
+"lastName": "Miller"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1692226487,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Advanced Independent Study"
 }

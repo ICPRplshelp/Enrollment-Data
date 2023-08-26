@@ -125,13 +125,40 @@
 60,
 60,
 60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth Ann",
+"lastName": "Cook"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth Ann",
+"lastName": "Cook"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -258,13 +285,40 @@
 27,
 26,
 26,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Amiri"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Amiri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -384,7 +438,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Advancing Your Career Exploration Management International Business Part I"
 }

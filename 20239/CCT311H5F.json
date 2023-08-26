@@ -125,13 +125,40 @@
 66,
 65,
 65,
-65
+65,
+65,
+65,
+65,
+65,
+65,
+65,
+65,
+64,
+63,
+63,
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chelsea",
+"lastName": "Russell"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chelsea",
+"lastName": "Russell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Game Design and Theory (SH)"
 }

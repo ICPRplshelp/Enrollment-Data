@@ -125,13 +125,40 @@
 20,
 23,
 23,
-24
+24,
+24,
+25,
+26,
+26,
+26,
+26,
+26,
+27,
+28,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -258,13 +285,49 @@
 26,
 26,
 25,
-25
+25,
+25,
+25,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "MICHAEL",
+"lastName": "SOORIYAKUMARAN (NOUTORID)"
+}
+],
+"timing": 1692247612
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Sooriyakumaran"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Sooriyakumaran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -391,13 +454,40 @@
 20,
 20,
 20,
-20
+20,
+20,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hugh",
+"lastName": "O'Neill"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hugh",
+"lastName": "O'Neill"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -517,7 +607,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Writing About Movies"
 }

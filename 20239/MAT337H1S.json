@@ -128,13 +128,40 @@
 127,
 128,
 126,
-125
+125,
+125,
+126,
+126,
+126,
+126,
+126,
+126,
+126,
+128,
+128,
+128,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ismael",
+"lastName": "Sierra Del Rio"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ismael",
+"lastName": "Sierra Del Rio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Real Analysis"
 }

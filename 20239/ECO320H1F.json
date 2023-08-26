@@ -128,13 +128,40 @@
 138,
 138,
 137,
-137
+137,
+137,
+138,
+137,
+137,
+137,
+137,
+137,
+139,
+138,
+138,
+139,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -264,13 +291,40 @@
 93,
 95,
 96,
-97
+97,
+97,
+99,
+99,
+98,
+98,
+98,
+99,
+100,
+101,
+102,
+103,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -393,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Economic Analysis of Law"
 }

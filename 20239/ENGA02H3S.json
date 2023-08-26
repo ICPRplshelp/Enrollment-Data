@@ -125,13 +125,40 @@
 39,
 36,
 38,
-39
+39,
+39,
+38,
+38,
+38,
+38,
+38,
+38,
+39,
+40,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -258,13 +285,40 @@
 45,
 44,
 43,
-43
+43,
+43,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+43,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Bergman"
+}
+],
+"timing": 1693011094
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Bergman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -391,7 +445,19 @@
 37,
 36,
 35,
-33
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+34,
+34,
+34,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -548,7 +614,19 @@
 16,
 16,
 16,
-16
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+17,
+17,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -696,13 +774,40 @@
 29,
 26,
 26,
-27
+27,
+27,
+28,
+28,
+28,
+28,
+28,
+28,
+29,
+29,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 },
@@ -829,7 +934,19 @@
 18,
 22,
 25,
-25
+25,
+25,
+28,
+28,
+28,
+28,
+28,
+29,
+29,
+30,
+30,
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -955,7 +1072,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Critical Writing About Literature"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 10,
 "time": 1690223854
+},
+{
+"newCapacity": 4,
+"time": 1692247612
 }
 ],
 "initialCap": 20
@@ -133,7 +137,19 @@
 5,
 5,
 5,
-5
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,7 +293,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Advanced Topics in French Literature"
 }

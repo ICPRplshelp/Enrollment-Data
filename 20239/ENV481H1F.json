@@ -5,12 +5,20 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 25,
 "time": 1687305253
+},
+{
+"newCapacity": 11,
+"time": 1692247612
+},
+{
+"newCapacity": 0,
+"time": 1693011094
 }
 ],
 "initialCap": 5
@@ -133,7 +141,19 @@
 8,
 10,
 10,
-11
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,7 +175,7 @@
 "lastName": "Kramarz"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -277,7 +297,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Special Topics in the Environment"
 }

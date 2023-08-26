@@ -125,13 +125,40 @@
 297,
 299,
 298,
-303
+303,
+303,
+301,
+301,
+301,
+301,
+301,
+305,
+308,
+309,
+308,
+309,
+311
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Human Geography"
 }

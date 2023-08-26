@@ -138,7 +138,19 @@
 182,
 181,
 181,
-179
+179,
+179,
+179,
+180,
+180,
+180,
+180,
+182,
+182,
+182,
+182,
+181,
+181
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -151,13 +163,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ramon Eduardo",
+"lastName": "Ronzon Lavie"
+}
+],
+"timing": 1692247612
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Arthur",
-"lastName": "Chan"
+"firstName": "Ramon Eduardo",
+"lastName": "Ronzon Lavie"
 }
 ],
 "isCancelled": false,
@@ -299,7 +320,19 @@
 161,
 161,
 161,
-159
+159,
+159,
+160,
+158,
+158,
+158,
+158,
+159,
+159,
+159,
+159,
+158,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -456,7 +489,19 @@
 148,
 147,
 146,
-143
+143,
+143,
+141,
+141,
+142,
+142,
+142,
+141,
+141,
+141,
+141,
+141,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -613,7 +658,19 @@
 173,
 173,
 172,
-174
+174,
+174,
+174,
+174,
+173,
+173,
+173,
+173,
+173,
+173,
+173,
+173,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -626,13 +683,22 @@
 }
 ],
 "timing": 1689866098
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Arthur",
+"lastName": "Chan"
+}
+],
+"timing": 1692247612
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ivan",
-"lastName": "Salgado"
+"firstName": "Arthur",
+"lastName": "Chan"
 }
 ],
 "isCancelled": false,
@@ -774,7 +840,19 @@
 163,
 163,
 163,
-161
+161,
+161,
+161,
+161,
+161,
+161,
+161,
+161,
+160,
+159,
+159,
+158,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -939,7 +1017,19 @@
 149,
 149,
 149,
-149
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1100,7 +1190,19 @@
 148,
 148,
 147,
-144
+144,
+144,
+143,
+143,
+143,
+143,
+143,
+143,
+143,
+143,
+143,
+143,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1269,13 +1371,40 @@
 148,
 147,
 147,
-146
+146,
+146,
+145,
+143,
+143,
+143,
+143,
+145,
+145,
+145,
+145,
+145,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 }
@@ -1395,7 +1524,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Linear Algebra"
 }

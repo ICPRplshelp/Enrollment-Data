@@ -128,22 +128,54 @@
 23,
 23,
 23,
-23
+23,
+23,
+23,
+23,
+23,
+23,
+23,
+23,
+23,
+26,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giulia",
+"lastName": "Gaimari"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Giulia",
+"lastName": "Gaimari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1692247612
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -264,7 +296,19 @@
 32,
 32,
 32,
-32
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+33,
+34,
+33,
+32,
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -408,7 +452,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Intermediate Italian"
 }

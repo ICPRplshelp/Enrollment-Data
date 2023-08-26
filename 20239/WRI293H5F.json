@@ -130,13 +130,40 @@
 19,
 20,
 20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+19,
+19,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -263,7 +290,19 @@
 1,
 1,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -389,7 +428,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Technical Communication"
 }

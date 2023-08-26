@@ -125,13 +125,40 @@
 34,
 34,
 34,
-34
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+35,
+35,
+35,
+35,
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Editing: Principles and Practice"
 }

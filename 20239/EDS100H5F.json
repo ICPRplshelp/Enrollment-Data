@@ -125,13 +125,40 @@
 234,
 233,
 231,
-227
+227,
+227,
+226,
+226,
+226,
+226,
+226,
+225,
+224,
+225,
+225,
+227,
+226
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
+"timing": 1693011094
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -258,13 +285,40 @@
 219,
 217,
 216,
-214
+214,
+214,
+215,
+216,
+216,
+216,
+216,
+215,
+213,
+215,
+215,
+215,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
+"timing": 1693011094
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -384,7 +438,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Education Studies"
 }

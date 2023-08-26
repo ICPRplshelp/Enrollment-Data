@@ -1,0 +1,56 @@
+{
+"code": "PHL390H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+2,
+2,
+2,
+3,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Owen",
+"lastName": "Ware"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Owen",
+"lastName": "Ware"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1692247611,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
+],
+"title": "Special Topics in Philosophy"
+}

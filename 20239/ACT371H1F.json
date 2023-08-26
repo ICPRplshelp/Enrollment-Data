@@ -128,13 +128,40 @@
 22,
 21,
 21,
-20
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Todd",
+"lastName": "Orrett"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Todd",
+"lastName": "Orrett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Basic Reserving Methods For P&C Insurance"
 }

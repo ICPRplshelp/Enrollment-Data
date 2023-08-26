@@ -130,13 +130,40 @@
 3,
 3,
 3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Minlei",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -149,6 +176,18 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -396,6 +435,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -529,13 +580,40 @@
 2,
 2,
 2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -655,7 +733,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Research Opportunity Program"
 }

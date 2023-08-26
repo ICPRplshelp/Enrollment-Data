@@ -125,13 +125,40 @@
 43,
 42,
 43,
-41
+41,
+41,
+40,
+40,
+40,
+40,
+40,
+39,
+38,
+37,
+37,
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -258,13 +285,40 @@
 42,
 42,
 43,
-41
+41,
+41,
+40,
+39,
+39,
+39,
+39,
+38,
+37,
+37,
+37,
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -384,7 +438,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introductory Chinese I"
 }

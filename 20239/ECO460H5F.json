@@ -125,13 +125,40 @@
 17,
 17,
 18,
-18
+18,
+18,
+16,
+16,
+16,
+16,
+16,
+19,
+19,
+19,
+19,
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -258,13 +285,40 @@
 56,
 56,
 56,
-56
+56,
+56,
+55,
+55,
+55,
+55,
+55,
+59,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -384,7 +438,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Financial Risk Management"
 }

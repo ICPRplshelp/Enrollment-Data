@@ -128,13 +128,40 @@
 173,
 172,
 174,
-174
+174,
+174,
+174,
+175,
+175,
+175,
+175,
+178,
+177,
+179,
+179,
+180,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robin",
+"lastName": "Elliott"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Elliott"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Historical Survey of Western Music"
 }

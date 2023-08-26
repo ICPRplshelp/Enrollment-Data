@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 45,
+"enrollmentCap": 47,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 47,
+"time": 1693011094
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 37,
 39,
 43,
-43
+43,
+43,
+44,
+44,
+45,
+45,
+45,
+45,
+45,
+45,
+45,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,7 +289,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Sanskrit I"
 }

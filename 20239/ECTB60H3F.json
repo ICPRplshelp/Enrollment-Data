@@ -1,10 +1,10 @@
 {
 "code": "ECTB60H3F",
-"faculty": "SCAR",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1686549019,
-"delivery": "INPER",
+"delivery": "ASYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -125,7 +125,16 @@
 32,
 34,
 34,
-34
+34,
+34,
+34,
+36,
+37,
+37,
+37,
+39,
+34,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -152,7 +161,7 @@
 },
 {
 "createdAt": 1686549019,
-"delivery": "INPER",
+"delivery": "ASYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -273,7 +282,16 @@
 33,
 34,
 34,
-36
+36,
+36,
+36,
+37,
+37,
+37,
+37,
+39,
+33,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +432,16 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612
 ],
 "title": "Agri-Food, Cultures, and Translation"
 }

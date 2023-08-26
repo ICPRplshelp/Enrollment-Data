@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 80,
 "time": 1692120475
+},
+{
+"newCapacity": 90,
+"time": 1692247612
 }
 ],
 "initialCap": 30
@@ -134,13 +138,40 @@
 79,
 78,
 79,
-83
+83,
+83,
+85,
+84,
+85,
+85,
+85,
+87,
+87,
+87,
+88,
+89,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "CYRUS",
+"lastName": "SUNDAR SINGH (NOUTORID)"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "CYRUS",
+"lastName": "SUNDAR SINGH (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -260,7 +291,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Special Topics in Arts Management I"
 }

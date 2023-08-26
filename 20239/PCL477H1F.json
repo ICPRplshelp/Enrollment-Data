@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 59,
+"enrollmentCap": 66,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1692247612
+}
+],
 "initialCap": 59
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 66,
 66,
 66,
-66
+66,
+66,
+66,
+67,
+67,
+67,
+67,
+67,
+67,
+67,
+67,
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,7 +289,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "The DNA Damage Response in Pharmacology and Toxicology"
 }

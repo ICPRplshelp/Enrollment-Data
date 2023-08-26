@@ -125,13 +125,40 @@
 57,
 63,
 63,
-63
+63,
+63,
+64,
+64,
+64,
+64,
+64,
+64,
+65,
+65,
+65,
+66,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olivia",
+"lastName": "Bernard"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Olivia",
+"lastName": "Bernard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -251,7 +278,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Urban Geography"
 }

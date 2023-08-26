@@ -125,13 +125,40 @@
 38,
 39,
 38,
-39
+39,
+39,
+40,
+40,
+40,
+40,
+40,
+37,
+38,
+38,
+38,
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -258,13 +285,40 @@
 37,
 39,
 39,
-41
+41,
+41,
+41,
+41,
+41,
+41,
+41,
+38,
+38,
+38,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -391,13 +445,40 @@
 37,
 40,
 39,
+39,
+39,
+40,
+40,
+40,
+40,
+40,
+38,
+38,
+38,
+37,
+37,
 39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -524,13 +605,40 @@
 37,
 39,
 38,
-38
+38,
+38,
+39,
+39,
+39,
+39,
+39,
+38,
+37,
+38,
+38,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -650,7 +758,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Creative Non-Fiction"
 }

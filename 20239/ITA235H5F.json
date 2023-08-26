@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 220,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1686875065
+},
+{
+"newCapacity": 220,
+"time": 1692247612
 }
 ],
 "initialCap": 80
@@ -130,7 +134,19 @@
 220,
 218,
 217,
-210
+210,
+210,
+207,
+207,
+207,
+207,
+207,
+218,
+224,
+225,
+226,
+227,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,7 +287,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Cucina Italiana: Italian History and Culture Through Food"
 }

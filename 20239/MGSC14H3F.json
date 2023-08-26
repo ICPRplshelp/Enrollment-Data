@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 83,
 82,
 82,
-84
+84,
+84,
+83,
+83,
+83,
+83,
+83,
+84,
+84,
+84,
+84,
+82,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +170,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -273,7 +295,19 @@
 71,
 71,
 72,
-73
+73,
+73,
+72,
+72,
+72,
+72,
+72,
+72,
+72,
+71,
+70,
+72,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +448,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Management Ethics"
 }

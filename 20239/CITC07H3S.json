@@ -125,13 +125,49 @@
 67,
 67,
 67,
-67
+67,
+67,
+68,
+69,
+69,
+69,
+69,
+74,
+74,
+74,
+74,
+75,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "DONNA",
+"lastName": "SCHATZ (NOUTORID)"
+}
+],
+"timing": 1692247612
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Donna",
+"lastName": "Schatz"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Donna",
+"lastName": "Schatz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -251,7 +287,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Urban Social Policy"
 }

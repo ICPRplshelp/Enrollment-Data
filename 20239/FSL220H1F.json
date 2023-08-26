@@ -128,13 +128,40 @@
 45,
 47,
 47,
-47
+47,
+47,
+47,
+48,
+48,
+48,
+48,
+45,
+45,
+46,
+46,
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Ayouti"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Ayouti"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -264,7 +291,19 @@
 52,
 52,
 52,
-52
+52,
+52,
+52,
+52,
+52,
+52,
+52,
+54,
+55,
+55,
+55,
+55,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -408,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Intermediate French I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1692247612
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 128,
 128,
 130,
-127
+127,
+127,
+124,
+124,
+124,
+124,
+124,
+127,
+120,
+118,
+118,
+117,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,9 +155,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1692247612
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -258,7 +280,19 @@
 113,
 112,
 116,
-115
+115,
+115,
+115,
+114,
+114,
+114,
+114,
+113,
+111,
+110,
+110,
+109,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -286,12 +320,29 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693011094
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -413,7 +464,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -532,7 +583,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Differential Calculus for Mathematical Sciences"
 }

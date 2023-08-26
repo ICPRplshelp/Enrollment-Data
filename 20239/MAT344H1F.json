@@ -128,7 +128,19 @@
 216,
 216,
 218,
-216
+216,
+216,
+216,
+215,
+215,
+215,
+215,
+217,
+217,
+215,
+215,
+215,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -279,13 +291,40 @@
 131,
 129,
 129,
-129
+129,
+129,
+128,
+128,
+128,
+128,
+128,
+127,
+128,
+126,
+126,
+128,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gaurav",
+"lastName": "Patil"
+}
+],
+"timing": 1693011094
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gaurav",
+"lastName": "Patil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -408,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Combinatorics"
 }

@@ -128,13 +128,40 @@
 64,
 64,
 64,
-64
+64,
+64,
+64,
+64,
+64,
+64,
+64,
+62,
+63,
+64,
+64,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Louis-Etienne",
+"lastName": "Salmon-Belisle"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Louis-Etienne",
+"lastName": "Salmon-Belisle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -257,7 +284,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Financial Economics I"
 }

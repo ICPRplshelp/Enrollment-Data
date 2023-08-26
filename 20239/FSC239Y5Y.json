@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 375,
+"enrollmentCap": 400,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 400,
+"time": 1693011094
+}
+],
 "initialCap": 375
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 387,
 389,
 389,
-389
+389,
+389,
+392,
+391,
+391,
+391,
+391,
+396,
+397,
+398,
+398,
+398,
+401
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,7 +291,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "(1) Introduction to Forensic Science"
 }

@@ -128,7 +128,19 @@
 74,
 75,
 75,
-74
+74,
+74,
+74,
+75,
+75,
+75,
+75,
+76,
+77,
+79,
+79,
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -279,13 +291,40 @@
 75,
 76,
 76,
-76
+76,
+76,
+75,
+76,
+76,
+76,
+76,
+76,
+77,
+78,
+78,
+80,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hye Jin",
+"lastName": "Kim"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hye Jin",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -415,7 +454,19 @@
 73,
 72,
 72,
-73
+73,
+73,
+73,
+74,
+74,
+74,
+74,
+75,
+76,
+78,
+78,
+79,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -566,13 +617,40 @@
 74,
 75,
 75,
-75
+75,
+75,
+75,
+76,
+76,
+76,
+76,
+77,
+78,
+79,
+79,
+80,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hye Jin",
+"lastName": "Kim"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hye Jin",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -695,7 +773,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Modern Standard Korean I"
 }

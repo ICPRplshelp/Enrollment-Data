@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 200,
 197,
 189,
-182
+182,
+182,
+181,
+182,
+181,
+181,
+181,
+173,
+174,
+175,
+174,
+173,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,12 +170,29 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692247612
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -280,15 +314,20 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 },
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -406,7 +445,19 @@
 162,
 159,
 159,
-160
+160,
+160,
+159,
+158,
+158,
+158,
+158,
+154,
+155,
+157,
+156,
+157,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -419,9 +470,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -539,7 +595,19 @@
 190,
 189,
 183,
-182
+182,
+182,
+181,
+180,
+180,
+180,
+180,
+167,
+167,
+168,
+167,
+169,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -552,9 +620,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -672,7 +745,19 @@
 168,
 167,
 163,
-157
+157,
+157,
+155,
+154,
+154,
+154,
+154,
+153,
+153,
+153,
+153,
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -700,9 +785,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -820,7 +910,19 @@
 74,
 86,
 97,
-103
+103,
+103,
+107,
+108,
+110,
+110,
+110,
+121,
+122,
+122,
+126,
+134,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -833,9 +935,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -953,7 +1060,19 @@
 193,
 190,
 187,
-181
+181,
+181,
+181,
+182,
+182,
+182,
+182,
+172,
+171,
+171,
+170,
+168,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -981,9 +1100,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1692247612
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -1101,7 +1225,19 @@
 182,
 179,
 174,
-171
+171,
+171,
+169,
+169,
+169,
+169,
+169,
+165,
+165,
+165,
+163,
+163,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1227,7 +1363,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Mathematical Proofs"
 }

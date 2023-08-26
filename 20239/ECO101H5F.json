@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 320,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 320,
+"time": 1692247612
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 324,
 325,
 326,
-321
+321,
+321,
+314,
+317,
+316,
+316,
+316,
+322,
+320,
+319,
+321,
+319,
+318
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,9 +170,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 320,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 320,
+"time": 1692247612
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -273,7 +295,19 @@
 316,
 318,
 318,
-318
+318,
+318,
+320,
+317,
+317,
+317,
+317,
+322,
+320,
+321,
+321,
+318,
+315
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,9 +335,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 332,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 320,
+"time": 1692247612
+},
+{
+"newCapacity": 332,
+"time": 1693011094
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -421,7 +464,19 @@
 332,
 337,
 338,
-338
+338,
+338,
+323,
+323,
+322,
+322,
+322,
+326,
+328,
+330,
+330,
+333,
+331
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,9 +504,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 330,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 320,
+"time": 1692247612
+},
+{
+"newCapacity": 330,
+"time": 1693011094
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -569,7 +633,19 @@
 329,
 331,
 332,
-335
+335,
+335,
+328,
+328,
+328,
+328,
+328,
+328,
+328,
+330,
+331,
+332,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -717,6 +793,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -730,9 +818,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 327,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 320,
+"time": 1692247612
+},
+{
+"newCapacity": 327,
+"time": 1693011094
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -850,7 +947,19 @@
 323,
 326,
 324,
-326
+326,
+326,
+320,
+322,
+322,
+322,
+322,
+320,
+322,
+324,
+325,
+326,
+320
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -991,7 +1100,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Principles of Microeconomics"
 }

@@ -125,13 +125,49 @@
 17,
 17,
 17,
-17
+17,
+17,
+18,
+19,
+19,
+19,
+19,
+21,
+21,
+21,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Justine",
+"lastName": "Garrett"
+}
+],
+"timing": 1692247612
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Fitzpatrick"
+}
+],
+"timing": 1693011094
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Fitzpatrick"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -258,13 +294,40 @@
 15,
 15,
 16,
+15,
+15,
+14,
+14,
+14,
+14,
+14,
+14,
+15,
+15,
+14,
+14,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Thompson"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Thompson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -384,7 +447,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Creative Writing: Poetry"
 }

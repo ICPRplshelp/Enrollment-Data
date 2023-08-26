@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 31,
 31,
 31,
-32
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+31,
+30,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,7 +292,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Shakespeare in Context I"
 }

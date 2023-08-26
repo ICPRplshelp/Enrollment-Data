@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 315,
+"enrollmentCap": 310,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 310,
+"time": 1692247612
+}
+],
 "initialCap": 315
 },
 "enrollmentLogs": [
@@ -128,7 +133,19 @@
 257,
 257,
 258,
-259
+259,
+259,
+259,
+261,
+261,
+261,
+261,
+264,
+266,
+267,
+266,
+265,
+267
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -156,9 +173,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1692247612
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -279,6 +301,18 @@
 10,
 10,
 10,
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+10,
+10,
+11,
+11,
+11,
 11
 ],
 "instructorLog": {
@@ -423,7 +457,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Multidisciplinary Perspectives on Environment"
 }

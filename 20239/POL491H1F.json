@@ -128,7 +128,19 @@
 16,
 16,
 16,
-16
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+17,
+17,
+16,
+16,
+16,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -156,9 +168,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1692247612
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -279,7 +296,19 @@
 6,
 6,
 6,
-6
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+5,
+5,
+5,
+4,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,7 +330,7 @@
 "lastName": "VandenBeukel"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -423,7 +452,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Topics in Canadian Politics II"
 }

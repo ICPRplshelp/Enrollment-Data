@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1692247612
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 24,
 24,
 24,
-24
+24,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+24,
+24,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,9 +155,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1692247612
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -258,7 +280,19 @@
 25,
 25,
 26,
-26
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+23,
+23,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -384,7 +418,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Creative Writing: Prose"
 }

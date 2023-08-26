@@ -5,9 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 13,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1692247612
+},
+{
+"newCapacity": 13,
+"time": 1692247612
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -125,7 +134,19 @@
 8,
 8,
 8,
-8
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -266,7 +287,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Gender in the Kitchen"
 }

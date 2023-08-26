@@ -125,13 +125,40 @@
 69,
 69,
 70,
-70
+70,
+70,
+70,
+70,
+70,
+70,
+70,
+70,
+70,
+69,
+69,
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -258,15 +285,202 @@
 74,
 74,
 74,
-74
+74,
+74,
+74,
+74,
+74,
+74,
+74,
+74,
+74,
+73,
+73,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
+},
+{
+"createdAt": 1692247612,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0103"
 }
 ],
 "timeIntervals": [
@@ -384,7 +598,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Introduction to Finance (DEM)"
 }

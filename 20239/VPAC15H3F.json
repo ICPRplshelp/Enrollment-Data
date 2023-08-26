@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1692247612
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -125,7 +130,19 @@
 66,
 71,
 72,
-71
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+70,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -138,13 +155,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Caroline",
+"lastName": "Klimek"
+}
+],
+"timing": 1692247612
 }
 ]
 },
 "instructors": [
 {
-"firstName": "MaryElizabeth",
-"lastName": "Luka"
+"firstName": "Caroline",
+"lastName": "Klimek"
 }
 ],
 "isCancelled": false,
@@ -266,7 +292,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Cultural Policy"
 }

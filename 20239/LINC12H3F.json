@@ -125,13 +125,49 @@
 105,
 104,
 104,
-104
+104,
+104,
+104,
+104,
+104,
+104,
+104,
+104,
+103,
+103,
+103,
+103,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ANGELIKA",
+"lastName": "KISS (NOUTORID)"
+}
+],
+"timing": 1692247612
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
+}
+],
+"timing": 1692247612
+}
+]
+},
+"instructors": [
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -251,7 +287,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Semantics: The Study of Meaning"
 }

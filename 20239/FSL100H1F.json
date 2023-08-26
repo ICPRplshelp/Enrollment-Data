@@ -128,13 +128,40 @@
 102,
 103,
 103,
-99
+99,
+99,
+99,
+100,
+100,
+100,
+100,
+102,
+102,
+106,
+107,
+106,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha",
+"lastName": "Olive"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samantha",
+"lastName": "Olive"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -264,7 +291,19 @@
 101,
 101,
 101,
-101
+101,
+101,
+103,
+102,
+102,
+102,
+102,
+100,
+99,
+100,
+101,
+100,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -415,13 +454,40 @@
 104,
 105,
 105,
-105
+105,
+105,
+105,
+105,
+105,
+105,
+105,
+102,
+103,
+105,
+106,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcin",
+"lastName": "Janczak"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marcin",
+"lastName": "Janczak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -551,13 +617,40 @@
 101,
 104,
 104,
-105
+105,
+105,
+106,
+106,
+106,
+106,
+106,
+106,
+105,
+107,
+106,
+107,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zoe Yi-Ling",
+"lastName": "Chou"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zoe Yi-Ling",
+"lastName": "Chou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -680,7 +773,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Elementary French I"
 }

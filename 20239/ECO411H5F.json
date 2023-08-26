@@ -5,9 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1692247612
+},
+{
+"newCapacity": 32,
+"time": 1693011094
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -125,7 +134,19 @@
 34,
 33,
 32,
-33
+33,
+33,
+34,
+34,
+34,
+34,
+34,
+36,
+36,
+36,
+36,
+36,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -266,7 +287,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Human Capital and Education in the Economy"
 }

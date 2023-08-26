@@ -105,13 +105,40 @@
 2,
 2,
 2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Monika",
+"lastName": "Havelka"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Monika",
+"lastName": "Havelka"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -218,13 +245,40 @@
 3,
 3,
 3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
+"timing": 1692247612
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -324,7 +378,19 @@
 1691953428,
 1692036340,
 1692120475,
-1692226488
+1692226488,
+1692239417,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1692247612,
+1693011094
 ],
 "title": "Research Opportunity Program"
 }
