@@ -142,7 +142,8 @@
 62,
 62,
 62,
-62
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,13 +308,29 @@
 41,
 43,
 43,
-43
+43,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanda",
+"lastName": "Sharples"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanda",
+"lastName": "Sharples"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -450,7 +467,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Cross-Cultural Psychology"
 }

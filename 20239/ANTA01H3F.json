@@ -139,7 +139,8 @@
 255,
 256,
 256,
-256
+256,
+257
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -167,7 +168,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 232,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -177,6 +178,10 @@
 {
 "newCapacity": 232,
 "time": 1692247612
+},
+{
+"newCapacity": 230,
+"time": 1693242889
 }
 ],
 "initialCap": 234
@@ -310,7 +315,8 @@
 243,
 242,
 242,
-242
+242,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -465,7 +471,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Introduction to Anthropology: Becoming Human"
 }

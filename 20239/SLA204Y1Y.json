@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693242889
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -142,7 +147,8 @@
 2,
 2,
 2,
-2
+2,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -164,7 +170,7 @@
 "lastName": "Petrov"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -300,7 +306,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Intermediate Czech"
 }

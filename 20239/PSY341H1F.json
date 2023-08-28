@@ -142,13 +142,29 @@
 91,
 90,
 90,
+90,
 90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keren (Karen)",
+"lastName": "Epstein-Gilboa"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Keren (Karen)",
+"lastName": "Epstein-Gilboa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -285,7 +301,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Psychopathologies of Childhood"
 }

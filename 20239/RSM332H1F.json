@@ -147,7 +147,8 @@
 58,
 58,
 58,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -306,6 +307,7 @@
 60,
 60,
 60,
+61,
 61,
 61,
 61,
@@ -496,6 +498,7 @@
 56,
 56,
 56,
+56,
 56
 ],
 "instructorLog": {
@@ -659,6 +662,7 @@
 59,
 59,
 59,
+58,
 58,
 58,
 58,
@@ -836,7 +840,8 @@
 62,
 62,
 62,
-62
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1001,6 +1006,7 @@
 58,
 59,
 59,
+60,
 60,
 60,
 60,
@@ -1171,7 +1177,8 @@
 26,
 27,
 27,
-27
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1341,6 +1348,7 @@
 54,
 56,
 56,
+56,
 56
 ],
 "instructorLog": {
@@ -1506,6 +1514,7 @@
 25,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -1519,13 +1528,22 @@
 }
 ],
 "timing": 1688752277
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Harry",
+"lastName": "Burke"
+}
+],
+"timing": 1693242889
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Liyan",
-"lastName": "Yang"
+"firstName": "Harry",
+"lastName": "Burke"
 }
 ],
 "isCancelled": false,
@@ -1664,7 +1682,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Capital Market Theory"
 }

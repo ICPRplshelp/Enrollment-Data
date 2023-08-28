@@ -139,13 +139,29 @@
 156,
 156,
 156,
-156
+156,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -279,7 +295,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Introduction to Abnormal Psychology"
 }

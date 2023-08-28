@@ -142,7 +142,8 @@
 15,
 14,
 14,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,6 +308,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -335,9 +337,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693242889
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -472,7 +479,8 @@
 3,
 3,
 3,
-3
+3,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +502,7 @@
 "lastName": "Grav"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -630,7 +638,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Advanced Studies Seminar"
 }

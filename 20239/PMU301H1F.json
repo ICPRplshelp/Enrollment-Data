@@ -139,6 +139,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -152,6 +153,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Novosky"
+},
+{
+"firstName": "Andrew",
+"lastName": "Aarons"
+}
+],
+"timing": 1693242889
 }
 ]
 },
@@ -159,6 +173,10 @@
 {
 "firstName": "Andrew",
 "lastName": "Novosky"
+},
+{
+"firstName": "Andrew",
+"lastName": "Aarons"
 }
 ],
 "isCancelled": false,
@@ -294,7 +312,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Piano Technology for Pianists"
 }

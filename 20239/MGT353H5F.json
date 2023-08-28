@@ -139,13 +139,29 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Drishti",
+"lastName": "Chawla"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Drishti",
+"lastName": "Chawla"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -279,7 +295,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Introduction to Marketing Management"
 }

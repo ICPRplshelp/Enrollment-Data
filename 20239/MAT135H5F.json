@@ -139,7 +139,8 @@
 177,
 171,
 171,
-171
+171,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -167,9 +168,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1693242889
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -301,7 +307,8 @@
 183,
 176,
 176,
-176
+176,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -468,7 +475,8 @@
 157,
 155,
 155,
-155
+155,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -630,7 +638,8 @@
 147,
 144,
 144,
-144
+144,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -654,6 +663,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -934,7 +944,8 @@
 140,
 140,
 140,
-140
+140,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1081,7 +1092,8 @@
 138,
 140,
 140,
-140
+140,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1228,7 +1240,8 @@
 147,
 145,
 145,
-145
+145,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1375,7 +1388,8 @@
 155,
 152,
 152,
-152
+152,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1537,7 +1551,8 @@
 157,
 154,
 154,
-154
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1699,7 +1714,8 @@
 144,
 142,
 142,
-142
+142,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1846,7 +1862,8 @@
 150,
 148,
 148,
-148
+148,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1870,6 +1887,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2145,7 +2163,8 @@
 48,
 51,
 51,
-51
+51,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2285,7 +2304,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Differential Calculus"
 }

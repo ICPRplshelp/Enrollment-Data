@@ -144,7 +144,8 @@
 173,
 172,
 172,
-172
+172,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -183,6 +184,7 @@
 "initialCap": 220
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -463,13 +465,29 @@
 157,
 158,
 158,
-158
+158,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Snezhana",
+"lastName": "Kirusheva"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Snezhana",
+"lastName": "Kirusheva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -615,13 +633,29 @@
 169,
 168,
 168,
-168
+168,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Feizmohammadi"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Feizmohammadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -765,6 +799,7 @@
 153,
 153,
 154,
+153,
 153,
 153,
 153
@@ -934,13 +969,29 @@
 134,
 133,
 133,
-133
+133,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -1086,7 +1137,8 @@
 168,
 168,
 168,
-168
+168,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1253,13 +1305,29 @@
 163,
 162,
 162,
-162
+162,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 }
@@ -1393,7 +1461,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Introduction to Mathematical Proofs"
 }

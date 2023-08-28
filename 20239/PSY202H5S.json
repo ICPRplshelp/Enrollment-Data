@@ -139,13 +139,29 @@
 184,
 185,
 185,
-185
+185,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Stollstorff"
+}
+],
+"timing": 1693242889
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melanie",
+"lastName": "Stollstorff"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -279,7 +295,8 @@
 1692920812,
 1693011094,
 1693070752,
-1693156261
+1693156261,
+1693242889
 ],
 "title": "Research Design and Analysis in Psychology II"
 }
