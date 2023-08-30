@@ -144,13 +144,29 @@
 22,
 22,
 23,
-22
+22,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jade",
+"lastName": "Kim"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jade",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Language Freedom and Power"
 }

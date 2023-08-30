@@ -144,13 +144,29 @@
 178,
 178,
 176,
-177
+177,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shirin O Sadat",
+"lastName": "Haghgou"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shirin O Sadat",
+"lastName": "Haghgou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -296,13 +312,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shirin O Sadat",
+"lastName": "Haghgou"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shirin O Sadat",
+"lastName": "Haghgou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 }
@@ -441,7 +473,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Introduction to Critical Equity and Solidarity Studies"
 }

@@ -34,13 +34,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Brand"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Brand"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -69,7 +85,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Advanced Independent Study"
 }

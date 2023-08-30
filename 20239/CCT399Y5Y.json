@@ -146,13 +146,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Guadagnolo"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Guadagnolo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -165,6 +181,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -444,6 +461,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -463,6 +481,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -742,13 +761,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bree",
+"lastName": "McEwan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -791,6 +826,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -1040,13 +1076,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Cherki El Idrissi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 }
@@ -1182,7 +1234,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Research Opportunity Program (ROP)"
 }

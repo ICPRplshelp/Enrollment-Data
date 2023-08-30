@@ -141,13 +141,29 @@
 43,
 43,
 42,
+42,
 42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josh",
+"lastName": "Dittrich"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josh",
+"lastName": "Dittrich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -283,7 +299,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Advanced Research Methodologies"
 }

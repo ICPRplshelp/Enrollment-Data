@@ -144,13 +144,29 @@
 95,
 95,
 95,
-93
+93,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carolina",
+"lastName": "Patryluk"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carolina",
+"lastName": "Patryluk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Special Topics in Buddhism, Psychology and Mental Health"
 }

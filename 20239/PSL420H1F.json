@@ -144,6 +144,7 @@
 44,
 44,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -174,6 +175,10 @@
 },
 "instructors": [
 {
+"firstName": "Paul",
+"lastName": "Chang"
+},
+{
 "firstName": "Theodore",
 "lastName": "Brown"
 },
@@ -184,10 +189,6 @@
 {
 "firstName": "Andrea",
 "lastName": "Jurisicova"
-},
-{
-"firstName": "Paul",
-"lastName": "Chang"
 }
 ],
 "isCancelled": false,
@@ -328,7 +329,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Reproduction: Development and Function"
 }

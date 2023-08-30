@@ -141,13 +141,29 @@
 19,
 19,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ximena",
+"lastName": "Berecochea"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ximena",
+"lastName": "Berecochea"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -283,7 +299,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Spanish for Heritage and Native Speakers I"
 }

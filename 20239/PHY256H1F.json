@@ -144,7 +144,8 @@
 225,
 225,
 226,
-226
+226,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,9 +173,14 @@
 {
 "createdAt": 1689957270,
 "delivery": "SYNC",
-"enrollmentCap": 86,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1693417997
+}
+],
 "initialCap": 86
 },
 "enrollmentLogs": [
@@ -311,13 +317,29 @@
 97,
 97,
 98,
-100
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aephraim",
+"lastName": "Steinberg"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aephraim",
+"lastName": "Steinberg"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -456,7 +478,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Introduction to Quantum Physics"
 }

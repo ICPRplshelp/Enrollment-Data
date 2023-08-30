@@ -144,6 +144,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -178,6 +179,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -478,6 +480,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -645,6 +648,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -673,12 +677,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693417997
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -819,7 +829,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0202"
 },
 {
@@ -831,6 +841,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1131,6 +1142,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1298,6 +1310,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -1465,6 +1478,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1493,12 +1507,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693417997
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1639,7 +1659,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0402"
 },
 {
@@ -1651,6 +1671,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1951,6 +1972,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2118,6 +2140,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2146,12 +2169,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693417997
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2292,7 +2321,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0701"
 },
 {
@@ -2304,6 +2333,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2597,7 +2627,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Academic Literacies & Identities"
 }

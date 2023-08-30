@@ -144,7 +144,8 @@
 212,
 212,
 212,
-212
+212,
+211
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,9 +173,14 @@
 {
 "createdAt": 1689957270,
 "delivery": "SYNC",
-"enrollmentCap": 84,
+"enrollmentCap": 98,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 98,
+"time": 1693417997
+}
+],
 "initialCap": 84
 },
 "enrollmentLogs": [
@@ -311,13 +317,29 @@
 82,
 82,
 82,
-82
+82,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -456,7 +478,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Thermal Physics"
 }

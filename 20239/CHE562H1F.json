@@ -141,6 +141,7 @@
 38,
 38,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -158,17 +159,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Guerino",
+"lastName": "Sacripante"
+}
+],
+"timing": 1693417997
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Molly",
-"lastName": "Shoichet"
-},
-{
-"firstName": "Timothy",
-"lastName": "Bender"
+"firstName": "Guerino",
+"lastName": "Sacripante"
 }
 ],
 "isCancelled": false,
@@ -306,7 +312,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Applied Chemistry IV - Applied Polymer Chemistry, Science and Engineering"
 }

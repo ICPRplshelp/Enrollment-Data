@@ -141,13 +141,29 @@
 54,
 54,
 55,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sae Hoon",
+"lastName": "Chang"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sae Hoon",
+"lastName": "Chang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -290,13 +306,29 @@
 21,
 21,
 19,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sae Hoon",
+"lastName": "Chang"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sae Hoon",
+"lastName": "Chang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -432,7 +464,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Fundamentals of Marketing"
 }

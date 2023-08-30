@@ -144,13 +144,29 @@
 20,
 20,
 20,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jude",
+"lastName": "Kadri"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jude",
+"lastName": "Kadri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "The Geopolitics and Debates on Africa-China Economic Relations"
 }

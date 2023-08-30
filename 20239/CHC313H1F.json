@@ -144,13 +144,29 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tina",
+"lastName": "Drakeford"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tina",
+"lastName": "Drakeford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Catholic Education in Ontario"
 }

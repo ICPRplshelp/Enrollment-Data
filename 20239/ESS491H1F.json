@@ -144,13 +144,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tasca",
+"lastName": "Santimano"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tasca",
+"lastName": "Santimano"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Undergraduate Thesis Project"
 }

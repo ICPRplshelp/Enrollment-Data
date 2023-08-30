@@ -144,6 +144,7 @@
 42,
 42,
 39,
+39,
 39
 ],
 "instructorLog": {
@@ -311,13 +312,29 @@
 19,
 19,
 18,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katarzyna",
+"lastName": "Peric"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katarzyna",
+"lastName": "Peric"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -462,6 +479,7 @@
 39,
 39,
 39,
+38,
 38,
 38
 ],
@@ -623,7 +641,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Intermediate French III"
 }

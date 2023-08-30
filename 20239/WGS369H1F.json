@@ -144,13 +144,29 @@
 24,
 24,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zarah",
+"lastName": "Khan"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zarah",
+"lastName": "Khan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -289,7 +305,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Studies in Post-Colonialism"
 }

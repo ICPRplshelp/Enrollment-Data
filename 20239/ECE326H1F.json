@@ -141,7 +141,8 @@
 56,
 56,
 56,
-57
+57,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -154,13 +155,22 @@
 }
 ],
 "timing": 1688577945
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Zhentao",
+"lastName": "Fan"
+}
+],
+"timing": 1693417997
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kia",
-"lastName": "Shakiba"
+"firstName": "Zhentao",
+"lastName": "Fan"
 }
 ],
 "isCancelled": false,
@@ -298,7 +308,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Programming Languages"
 }

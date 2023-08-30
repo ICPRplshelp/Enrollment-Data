@@ -141,7 +141,8 @@
 71,
 71,
 69,
-52
+52,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -305,7 +306,8 @@
 50,
 50,
 49,
-43
+43,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,7 +471,8 @@
 57,
 57,
 54,
-50
+50,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -633,7 +636,8 @@
 55,
 55,
 53,
-47
+47,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -797,7 +801,8 @@
 56,
 56,
 56,
-49
+49,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -961,7 +966,8 @@
 51,
 51,
 50,
-47
+47,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1125,7 +1131,8 @@
 51,
 51,
 53,
-48
+48,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1289,6 +1296,7 @@
 49,
 49,
 47,
+37,
 37
 ],
 "instructorLog": {
@@ -1453,7 +1461,8 @@
 50,
 50,
 50,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1617,7 +1626,8 @@
 44,
 44,
 44,
-41
+41,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1781,7 +1791,8 @@
 62,
 62,
 66,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1945,7 +1956,8 @@
 67,
 67,
 70,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2109,7 +2121,8 @@
 51,
 51,
 52,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2273,7 +2286,8 @@
 49,
 49,
 50,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2446,7 +2460,8 @@
 46,
 46,
 48,
-45
+45,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2610,6 +2625,7 @@
 40,
 40,
 42,
+37,
 37
 ],
 "instructorLog": {
@@ -2774,7 +2790,8 @@
 38,
 38,
 38,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2923,7 +2940,8 @@
 37,
 37,
 38,
-33
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3087,7 +3105,8 @@
 43,
 43,
 43,
-42
+42,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3251,7 +3270,8 @@
 43,
 43,
 43,
-40
+40,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3415,7 +3435,8 @@
 49,
 49,
 49,
-43
+43,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3579,7 +3600,8 @@
 47,
 47,
 48,
-41
+41,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3743,7 +3765,8 @@
 40,
 40,
 40,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3907,7 +3930,8 @@
 39,
 39,
 38,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4071,6 +4095,7 @@
 43,
 43,
 43,
+37,
 37
 ],
 "instructorLog": {
@@ -4235,7 +4260,8 @@
 43,
 43,
 44,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4399,7 +4425,8 @@
 42,
 42,
 41,
-36
+36,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4572,7 +4599,8 @@
 45,
 45,
 45,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4721,7 +4749,8 @@
 47,
 47,
 49,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4885,6 +4914,7 @@
 41,
 41,
 42,
+36,
 36
 ],
 "instructorLog": {
@@ -5049,7 +5079,8 @@
 40,
 40,
 41,
-37
+37,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5213,13 +5244,29 @@
 37,
 37,
 38,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0132"
 },
@@ -5362,7 +5409,8 @@
 41,
 41,
 41,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5526,7 +5574,8 @@
 40,
 40,
 40,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5690,7 +5739,8 @@
 45,
 45,
 45,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5854,7 +5904,8 @@
 41,
 41,
 43,
-41
+41,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6018,7 +6069,8 @@
 41,
 41,
 43,
-37
+37,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6182,7 +6234,8 @@
 41,
 41,
 43,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6346,13 +6399,29 @@
 36,
 36,
 36,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0139"
 },
@@ -6495,7 +6564,8 @@
 35,
 35,
 36,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6644,6 +6714,7 @@
 1,
 1,
 1,
+25,
 25
 ],
 "instructorLog": {
@@ -6808,6 +6879,7 @@
 1,
 1,
 1,
+33,
 33
 ],
 "instructorLog": {
@@ -6972,6 +7044,7 @@
 0,
 0,
 0,
+27,
 27
 ],
 "instructorLog": {
@@ -7114,7 +7187,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Writing for University and Beyond: Writing About Writing"
 }

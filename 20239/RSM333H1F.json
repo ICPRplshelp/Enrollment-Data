@@ -144,7 +144,8 @@
 61,
 61,
 59,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,6 +308,7 @@
 64,
 61,
 59,
+60,
 60,
 60,
 60,
@@ -483,6 +485,7 @@
 59,
 59,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -655,7 +658,8 @@
 62,
 62,
 62,
-62
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -826,6 +830,7 @@
 62,
 62,
 62,
+63,
 63,
 63
 ],
@@ -999,6 +1004,7 @@
 64,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -1166,13 +1172,29 @@
 17,
 17,
 18,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 }
@@ -1311,7 +1333,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Corporate Finance"
 }

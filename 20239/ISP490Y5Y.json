@@ -12,13 +12,29 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -31,6 +47,7 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -45,7 +62,8 @@
 ],
 "timeIntervals": [
 1693360632,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Independent Reading"
 }

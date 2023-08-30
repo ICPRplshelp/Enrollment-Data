@@ -144,6 +144,7 @@
 26,
 26,
 27,
+28,
 28
 ],
 "instructorLog": {
@@ -311,6 +312,7 @@
 45,
 45,
 44,
+44,
 44
 ],
 "instructorLog": {
@@ -469,6 +471,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -662,6 +665,7 @@
 17,
 17,
 17,
+18,
 18
 ],
 "instructorLog": {
@@ -675,6 +679,19 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nayid Jesus",
+"lastName": "Contreras"
+},
+{
+"firstName": "Marta",
+"lastName": "Rocatin Centelles"
+}
+],
+"timing": 1693417997
 }
 ]
 },
@@ -682,6 +699,10 @@
 {
 "firstName": "Nayid Jesus",
 "lastName": "Contreras"
+},
+{
+"firstName": "Marta",
+"lastName": "Rocatin Centelles"
 }
 ],
 "isCancelled": false,
@@ -822,7 +843,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Intermediate Spanish"
 }

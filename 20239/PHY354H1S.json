@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 165,
+"enrollmentCap": 201,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 201,
+"time": 1693417997
+}
+],
 "initialCap": 165
 },
 "enrollmentLogs": [
@@ -144,7 +149,8 @@
 201,
 201,
 202,
-201
+201,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,9 +178,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 31,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 27,
+"time": 1693417997
+}
+],
 "initialCap": 31
 },
 "enrollmentLogs": [
@@ -303,6 +314,7 @@
 26,
 26,
 26,
+27,
 27,
 27,
 27,
@@ -471,7 +483,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Advanced Classical Mechanics"
 }

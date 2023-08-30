@@ -144,7 +144,8 @@
 213,
 213,
 213,
-214
+214,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,9 +173,14 @@
 {
 "createdAt": 1689957270,
 "delivery": "SYNC",
-"enrollmentCap": 55,
+"enrollmentCap": 76,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 76,
+"time": 1693417997
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -311,13 +317,29 @@
 63,
 63,
 63,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+}
+],
+"timing": 1693417997
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -456,7 +478,8 @@
 1693070752,
 1693156261,
 1693242889,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Classical Mechanics"
 }

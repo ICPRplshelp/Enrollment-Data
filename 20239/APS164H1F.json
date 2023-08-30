@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1693360633,
-"delivery": "SYNC",
+"delivery": "ASYNC",
 "enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -12,7 +12,8 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -25,7 +26,8 @@
 ],
 "timeIntervals": [
 1693360632,
-1693360633
+1693360633,
+1693417997
 ],
 "title": "Introductory Chemistry from a Materials Perspective"
 }
