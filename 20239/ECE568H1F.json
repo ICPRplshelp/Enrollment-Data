@@ -140,6 +140,7 @@
 69,
 69,
 69,
+73,
 73
 ],
 "instructorLog": {
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Wei",
+"lastName": "Huang"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "David",
-"lastName": "Lie"
+"firstName": "Wei",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Computer Security"
 }

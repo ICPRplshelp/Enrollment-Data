@@ -143,6 +143,7 @@
 26,
 26,
 26,
+25,
 25
 ],
 "instructorLog": {
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Irina",
+"lastName": "Marinescu"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Laura",
-"lastName": "Colantoni"
+"firstName": "Irina",
+"lastName": "Marinescu"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Latin American Varieties of Spanish Through the Media"
 }

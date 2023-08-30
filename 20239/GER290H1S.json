@@ -143,13 +143,29 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stefan",
+"lastName": "Soldovieri"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stefan",
+"lastName": "Soldovieri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -287,7 +303,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Global Issues - German Contexts (E)"
 }

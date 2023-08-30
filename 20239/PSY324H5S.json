@@ -140,6 +140,7 @@
 63,
 63,
 63,
+64,
 64
 ],
 "instructorLog": {
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1689105743
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ulrich",
-"lastName": "Schimmack"
+"firstName": "Simone",
+"lastName": "Walker"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "The Science of Wellbeing"
 }

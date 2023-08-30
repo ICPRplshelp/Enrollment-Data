@@ -143,6 +143,7 @@
 63,
 63,
 63,
+64,
 64
 ],
 "instructorLog": {
@@ -156,6 +157,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+},
+{
+"firstName": "Catia",
+"lastName": "Dignard"
+}
+],
+"timing": 1693360633
 }
 ]
 },
@@ -163,6 +177,10 @@
 {
 "firstName": "Kristina",
 "lastName": "Stajic"
+},
+{
+"firstName": "Catia",
+"lastName": "Dignard"
 }
 ],
 "isCancelled": false,
@@ -309,6 +327,7 @@
 71,
 71,
 71,
+67,
 67
 ],
 "instructorLog": {
@@ -475,7 +494,8 @@
 64,
 64,
 64,
-64
+64,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -492,6 +512,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jeannette",
+"lastName": "Sanchez-Naranjo"
+},
+{
+"firstName": "Alejandro",
+"lastName": "Soifer"
+}
+],
+"timing": 1693360633
 }
 ]
 },
@@ -501,8 +534,8 @@
 "lastName": "Sanchez-Naranjo"
 },
 {
-"firstName": "Sanda",
-"lastName": "Munjic"
+"firstName": "Alejandro",
+"lastName": "Soifer"
 }
 ],
 "isCancelled": false,
@@ -649,7 +682,8 @@
 59,
 59,
 59,
-61
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -812,6 +846,7 @@
 78,
 78,
 77,
+76,
 76,
 76,
 76,
@@ -994,6 +1029,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1145,6 +1181,7 @@
 48,
 48,
 48,
+49,
 49
 ],
 "instructorLog": {
@@ -1311,7 +1348,8 @@
 50,
 50,
 50,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1478,7 +1516,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Spanish for Beginners"
 }

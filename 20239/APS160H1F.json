@@ -1,0 +1,46 @@
+{
+"code": "APS160H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1693360633,
+"delivery": "ASYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Seica"
+}
+],
+"timing": 1693360633
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Seica"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1693360632,
+1693360633
+],
+"title": "Mechanics"
+}

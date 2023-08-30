@@ -143,13 +143,29 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jackson",
+"lastName": "Hase"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jackson",
+"lastName": "Hase"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -294,7 +310,8 @@
 22,
 22,
 22,
-22
+22,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -460,6 +477,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -619,7 +637,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introductory Latin II"
 }

@@ -140,13 +140,29 @@
 60,
 60,
 60,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amina",
+"lastName": "Yousaf"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amina",
+"lastName": "Yousaf"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -288,13 +304,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amina",
+"lastName": "Yousaf"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amina",
+"lastName": "Yousaf"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -429,7 +461,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "A Healthy Campus for Students: Prioritizing Mental Health and Wellness"
 }

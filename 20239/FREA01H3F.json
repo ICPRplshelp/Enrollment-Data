@@ -140,7 +140,8 @@
 23,
 23,
 23,
-21
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -303,6 +304,7 @@
 27,
 27,
 27,
+26,
 26
 ],
 "instructorLog": {
@@ -316,13 +318,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nesrine",
+"lastName": "Elzine"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "NESRINE",
-"lastName": "ELZINE (NOUTORID)"
+"firstName": "Nesrine",
+"lastName": "Elzine"
 }
 ],
 "isCancelled": false,
@@ -466,7 +477,8 @@
 21,
 21,
 21,
-21
+21,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -500,6 +512,7 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -770,7 +783,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Language Practice I"
 }

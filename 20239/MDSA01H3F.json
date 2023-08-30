@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "ASYNC",
 "enrollmentCap": 500,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -140,7 +140,8 @@
 515,
 515,
 515,
-517
+517,
+513
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -308,7 +309,8 @@
 407,
 407,
 407,
-409
+409,
+408
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -464,7 +466,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Media Studies"
 }

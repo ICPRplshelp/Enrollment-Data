@@ -143,7 +143,8 @@
 375,
 375,
 375,
-375
+375,
+376
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -309,13 +310,29 @@
 67,
 67,
 67,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kat",
+"lastName": "Furtado"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kat",
+"lastName": "Furtado"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -460,13 +477,29 @@
 245,
 245,
 245,
-245
+245,
+247
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kat",
+"lastName": "Furtado"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kat",
+"lastName": "Furtado"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -604,7 +637,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Classical Mythology"
 }

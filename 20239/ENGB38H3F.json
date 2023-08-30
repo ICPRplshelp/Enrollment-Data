@@ -140,7 +140,8 @@
 55,
 55,
 55,
-55
+55,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -162,13 +163,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Commentator",
+"lastName": "Lesk"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "ANDREW",
-"lastName": "LESK (NOUTORID)"
+"firstName": "Commentator",
+"lastName": "Lesk"
 }
 ],
 "isCancelled": false,
@@ -305,7 +315,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "The Graphic Novel"
 }

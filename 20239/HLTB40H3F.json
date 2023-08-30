@@ -145,13 +145,29 @@
 65,
 65,
 65,
-65
+65,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Bytautas"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Bytautas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -286,7 +302,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Health Policy and Health Systems"
 }

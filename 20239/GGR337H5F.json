@@ -140,6 +140,7 @@
 167,
 167,
 167,
+167,
 167
 ],
 "instructorLog": {
@@ -166,13 +167,26 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hwang",
+"lastName": "Lee"
+},
+{
+"firstName": "Hwang",
+"lastName": "Lee"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Yuhong",
-"lastName": "He"
+"firstName": "Hwang",
+"lastName": "Lee"
 },
 {
 "firstName": "Hwang",
@@ -313,7 +327,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Environmental Remote Sensing"
 }

@@ -140,6 +140,7 @@
 31,
 31,
 31,
+32,
 32
 ],
 "instructorLog": {
@@ -162,13 +163,22 @@
 }
 ],
 "timing": 1689378883
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gary Lee",
+"lastName": "Pelletier"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "David R",
-"lastName": "Anderson"
+"firstName": "Gary Lee",
+"lastName": "Pelletier"
 }
 ],
 "isCancelled": false,
@@ -305,7 +315,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Special Topics in Women and Gender Studies"
 }

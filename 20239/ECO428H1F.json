@@ -143,13 +143,29 @@
 66,
 66,
 66,
-65
+65,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kieran",
+"lastName": "Furlong"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kieran",
+"lastName": "Furlong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -287,7 +303,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Classical Economic Thought"
 }

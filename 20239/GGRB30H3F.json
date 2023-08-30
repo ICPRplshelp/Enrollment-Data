@@ -140,6 +140,7 @@
 63,
 63,
 63,
+61,
 61
 ],
 "instructorLog": {
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shane Sanjiv",
+"lastName": "Sookhan"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SHANE",
-"lastName": "SOOKHAN (NOUTORID)"
+"firstName": "Shane Sanjiv",
+"lastName": "Sookhan"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Fundamentals of GIS I"
 }

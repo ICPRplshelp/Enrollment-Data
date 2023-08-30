@@ -143,13 +143,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Carvounas"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Carvounas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -287,7 +303,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Classical Social and Political Thought from the 18th Century Enlightenment to the 20th Century"
 }

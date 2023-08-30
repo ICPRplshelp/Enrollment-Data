@@ -140,7 +140,8 @@
 23,
 23,
 23,
-24
+24,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "A.",
+"lastName": "KHAN"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zeinab",
-"lastName": "Farokhi"
+"firstName": "A.",
+"lastName": "KHAN"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Representing Islam"
 }

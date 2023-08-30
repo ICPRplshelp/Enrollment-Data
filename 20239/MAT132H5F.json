@@ -145,6 +145,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -287,6 +288,7 @@
 139,
 140,
 141,
+140,
 140,
 140,
 140,
@@ -461,7 +463,8 @@
 164,
 164,
 164,
-161
+161,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -624,13 +627,29 @@
 104,
 104,
 104,
-107
+107,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -772,7 +791,8 @@
 141,
 141,
 141,
-141
+141,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -940,6 +960,7 @@
 151,
 151,
 151,
+153,
 153
 ],
 "instructorLog": {
@@ -1096,7 +1117,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Differential Calculus for Life Sciences"
 }

@@ -145,13 +145,29 @@
 115,
 115,
 115,
-116
+116,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Feizmohammadi"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Feizmohammadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -298,7 +314,8 @@
 110,
 110,
 110,
-110
+110,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,6 +354,7 @@
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -607,7 +625,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Differential Calculus for Mathematical Sciences"
 }

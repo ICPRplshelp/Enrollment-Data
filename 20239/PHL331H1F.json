@@ -143,6 +143,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jamie",
+"lastName": "Shaw"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Trevor",
-"lastName": "Teitel"
+"firstName": "Jamie",
+"lastName": "Shaw"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Metaphysics"
 }

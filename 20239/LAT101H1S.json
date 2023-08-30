@@ -143,13 +143,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tiphaine",
+"lastName": "Lahuec"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tiphaine",
+"lastName": "Lahuec"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -294,7 +310,8 @@
 18,
 18,
 18,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -453,7 +470,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introductory Latin I"
 }

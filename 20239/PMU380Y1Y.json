@@ -149,6 +149,7 @@
 14,
 14,
 14,
+15,
 15
 ],
 "instructorLog": {
@@ -177,7 +178,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -187,6 +188,10 @@
 {
 "newCapacity": 18,
 "time": 1691091680
+},
+{
+"newCapacity": 20,
+"time": 1693360633
 }
 ],
 "initialCap": 15
@@ -321,7 +326,8 @@
 18,
 18,
 18,
-18
+18,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,6 +475,7 @@
 15,
 15,
 15,
+16,
 16,
 16,
 16,
@@ -645,7 +652,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Conducting"
 }

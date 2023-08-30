@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1693360633
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -140,7 +145,8 @@
 87,
 87,
 87,
-87
+87,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -168,9 +174,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1693360633
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -303,7 +314,8 @@
 93,
 93,
 93,
-92
+92,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -459,7 +471,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Financial Planning for Individuals"
 }

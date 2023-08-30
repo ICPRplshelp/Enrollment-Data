@@ -132,13 +132,29 @@
 27,
 27,
 27,
-27
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Mezo Gonzalez"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Mezo Gonzalez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -265,7 +281,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Slavery in Latin America"
 }

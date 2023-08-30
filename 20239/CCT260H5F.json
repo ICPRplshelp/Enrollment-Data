@@ -140,7 +140,8 @@
 6,
 6,
 6,
-5
+5,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -303,7 +304,8 @@
 40,
 40,
 40,
-41
+41,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,13 +468,29 @@
 36,
 36,
 36,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angie",
+"lastName": "Cappiello"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angie",
+"lastName": "Cappiello"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 },
@@ -614,7 +632,8 @@
 22,
 22,
 22,
-23
+23,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -770,7 +789,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Web Culture and Design"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 172,
+"enrollmentCap": 168,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 168,
+"time": 1693360633
+}
+],
 "initialCap": 172
 },
 "enrollmentLogs": [
@@ -140,7 +145,8 @@
 169,
 169,
 169,
-169
+169,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -296,7 +302,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "SOFTWARE ENGINEERING"
 }

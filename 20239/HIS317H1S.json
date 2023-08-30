@@ -143,6 +143,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Stollenwerk"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jennifer",
-"lastName": "Jenkins"
+"firstName": "Joseph",
+"lastName": "Stollenwerk"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "20th Century Germany"
 }

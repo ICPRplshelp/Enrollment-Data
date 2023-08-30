@@ -140,13 +140,29 @@
 149,
 149,
 149,
-146
+146,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SARAH JANE",
+"lastName": "FLYNN (NOUTORID)"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SARAH JANE",
+"lastName": "FLYNN (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -281,7 +297,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Financial Management for Arts Managers"
 }

@@ -140,7 +140,8 @@
 62,
 62,
 62,
-62
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "A.",
+"lastName": "KAUR"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Megha Sharma",
-"lastName": "Sehdev"
+"firstName": "A.",
+"lastName": "KAUR"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Sikhism"
 }

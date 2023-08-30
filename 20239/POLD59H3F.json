@@ -140,6 +140,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -162,13 +163,22 @@
 }
 ],
 "timing": 1692226488
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachael",
+"lastName": "Desborough"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Rachael",
-"lastName": "DESBOROUGH (NOUTORID)"
+"lastName": "Desborough"
 }
 ],
 "isCancelled": false,
@@ -305,7 +315,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Politics of Disability"
 }

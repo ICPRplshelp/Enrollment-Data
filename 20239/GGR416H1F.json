@@ -143,6 +143,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bharat",
+"lastName": "Punjabi"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nidhi",
-"lastName": "Subramanyam"
+"firstName": "Bharat",
+"lastName": "Punjabi"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Environmental Impact Assessment"
 }

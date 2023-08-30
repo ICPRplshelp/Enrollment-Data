@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 165,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 165,
 "time": 1689378883
+},
+{
+"newCapacity": 180,
+"time": 1693360633
 }
 ],
 "initialCap": 169
@@ -148,7 +152,8 @@
 180,
 180,
 180,
-180
+180,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -176,12 +181,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 31,
+"enrollmentCap": 34,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 31,
 "time": 1689378883
+},
+{
+"newCapacity": 34,
+"time": 1693360633
 }
 ],
 "initialCap": 27
@@ -319,7 +328,8 @@
 34,
 34,
 34,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -478,7 +488,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Quantum Mechanics I"
 }

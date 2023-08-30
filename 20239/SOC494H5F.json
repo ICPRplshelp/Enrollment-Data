@@ -1,0 +1,46 @@
+{
+"code": "SOC494H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1693360633,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paula",
+"lastName": "Maurutto"
+}
+],
+"timing": 1693360633
+}
+]
+},
+"instructors": [
+{
+"firstName": "Paula",
+"lastName": "Maurutto"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1693360632,
+1693360633
+],
+"title": "Independent Research in Criminology, Law and Society"
+}

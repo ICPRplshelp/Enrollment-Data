@@ -143,7 +143,8 @@
 276,
 276,
 276,
-276
+276,
+275
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -309,13 +310,29 @@
 370,
 370,
 370,
-367
+367,
+366
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnoldus",
+"lastName": "Van Roessel"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arnoldus",
+"lastName": "Van Roessel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -460,6 +477,7 @@
 29,
 29,
 29,
+28,
 28
 ],
 "instructorLog": {
@@ -619,7 +637,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Classical Mythology"
 }

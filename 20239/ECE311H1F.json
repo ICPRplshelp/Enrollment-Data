@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 84,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1693360633
+}
+],
 "initialCap": 84
 },
 "enrollmentLogs": [
@@ -140,7 +145,8 @@
 64,
 64,
 64,
-66
+66,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -168,9 +174,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 84,
+"enrollmentCap": 74,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 74,
+"time": 1693360633
+}
+],
 "initialCap": 84
 },
 "enrollmentLogs": [
@@ -303,6 +314,7 @@
 73,
 73,
 73,
+74,
 74
 ],
 "instructorLog": {
@@ -459,7 +471,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Control Systems"
 }

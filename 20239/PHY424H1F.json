@@ -143,6 +143,7 @@
 45,
 45,
 45,
+44,
 44
 ],
 "instructorLog": {
@@ -181,10 +182,6 @@
 },
 "instructors": [
 {
-"firstName": "Tahir",
-"lastName": "Shaaran"
-},
-{
 "firstName": "Ania",
 "lastName": "Harlick"
 },
@@ -203,6 +200,10 @@
 {
 "firstName": "John",
 "lastName": "Wei"
+},
+{
+"firstName": "Tahir",
+"lastName": "Shaaran"
 }
 ],
 "isCancelled": false,
@@ -342,7 +343,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Advanced Physics Laboratory"
 }

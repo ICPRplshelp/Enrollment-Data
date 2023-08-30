@@ -143,13 +143,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -294,13 +310,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elisabeth",
+"lastName": "Lange"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elisabeth",
+"lastName": "Lange"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -383,6 +415,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -589,7 +622,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Intermediate German 2b"
 }

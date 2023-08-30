@@ -140,7 +140,8 @@
 112,
 112,
 112,
-112
+112,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,13 +154,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sudip",
+"lastName": "Nag"
+}
+],
+"timing": 1693360633
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Roman",
-"lastName": "Genov"
+"firstName": "Sudip",
+"lastName": "Nag"
 }
 ],
 "isCancelled": false,
@@ -296,7 +306,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Digital Electronics"
 }

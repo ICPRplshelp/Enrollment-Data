@@ -5,12 +5,16 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 400,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 400,
 "time": 1689714369
+},
+{
+"newCapacity": 325,
+"time": 1693360633
 }
 ],
 "initialCap": 375
@@ -130,6 +134,7 @@
 316,
 316,
 316,
+317,
 317
 ],
 "instructorLog": {
@@ -271,7 +276,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to Critical Theory"
 }

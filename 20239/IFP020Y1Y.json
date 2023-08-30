@@ -143,6 +143,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -294,13 +295,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -445,13 +462,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -596,13 +629,29 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
@@ -747,13 +796,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -898,13 +963,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -917,6 +998,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1200,13 +1282,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fiore",
+"lastName": "Vescio"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fiore",
+"lastName": "Vescio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 },
@@ -1351,13 +1449,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0801"
 },
@@ -1502,13 +1616,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0802"
 },
@@ -1653,13 +1783,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0803"
 },
@@ -1804,13 +1950,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "McGaughey"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "McGaughey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0804"
 },
@@ -1955,13 +2117,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0901"
 },
@@ -1974,6 +2152,7 @@
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2257,6 +2436,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2401,7 +2581,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Critical Reading & Writing"
 }

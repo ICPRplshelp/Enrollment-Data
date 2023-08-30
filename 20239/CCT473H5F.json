@@ -140,13 +140,29 @@
 92,
 92,
 92,
+93,
 93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -281,7 +297,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Career Strategies"
 }

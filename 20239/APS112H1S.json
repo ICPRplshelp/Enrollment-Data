@@ -149,7 +149,8 @@
 343,
 343,
 343,
-341
+341,
+339
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -329,7 +330,8 @@
 334,
 334,
 334,
-333
+333,
+332
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -525,7 +527,8 @@
 568,
 568,
 568,
-568
+568,
+566
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -551,16 +554,16 @@
 },
 "instructors": [
 {
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
 "firstName": "Tome",
 "lastName": "Kosteski"
 },
 {
 "firstName": "Jason",
 "lastName": "Bazylak"
-},
-{
-"firstName": "Ted",
-"lastName": "Nolan"
 }
 ],
 "isCancelled": false,
@@ -697,7 +700,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Engineering Strategies & Practice II"
 }

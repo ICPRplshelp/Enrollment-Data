@@ -143,6 +143,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -294,13 +295,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Jordan"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophie",
+"lastName": "Jordan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -313,6 +330,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -464,6 +482,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -762,13 +781,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Virginia",
+"lastName": "Shewfelt"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Virginia",
+"lastName": "Shewfelt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -913,13 +948,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Harutyunyan"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Harutyunyan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -1064,13 +1115,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Evjen"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Evjen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1215,13 +1282,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
+"timing": 1693360633
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -1359,7 +1442,8 @@
 1693011094,
 1693070752,
 1693156261,
-1693242889
+1693242889,
+1693360633
 ],
 "title": "Introduction to German b"
 }
