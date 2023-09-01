@@ -142,7 +142,8 @@
 159,
 160,
 161,
-162
+162,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -316,7 +317,8 @@
 157,
 158,
 159,
-160
+160,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,6 +482,7 @@
 160,
 160,
 162,
+160,
 160,
 160
 ],
@@ -646,7 +649,8 @@
 129,
 129,
 134,
-133
+133,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -674,12 +678,18 @@
 {
 "createdAt": 1689378883,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1693527610
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -954,7 +964,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Probability and Statistics I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 162,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 162,
+"time": 1693527610
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -145,7 +150,8 @@
 200,
 201,
 201,
-200
+200,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -306,7 +312,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Knowledge and Reality"
 }

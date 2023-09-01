@@ -127,13 +127,29 @@
 52,
 52,
 52,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claire",
+"lastName": "Zimmerman"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Claire",
+"lastName": "Zimmerman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -255,7 +271,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Advanced Topics in the History and Theory of Architecture"
 }

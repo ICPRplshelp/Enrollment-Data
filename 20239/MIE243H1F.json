@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 215,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 220,
 "time": 1689019466
+},
+{
+"newCapacity": 215,
+"time": 1693527610
 }
 ],
 "initialCap": 220
@@ -146,6 +150,7 @@
 209,
 209,
 210,
+209,
 209,
 209,
 209,
@@ -309,7 +314,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Mechanical Engineering Design"
 }

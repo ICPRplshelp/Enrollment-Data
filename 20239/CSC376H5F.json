@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1693527610
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -142,6 +147,7 @@
 93,
 93,
 93,
+91,
 91
 ],
 "instructorLog": {
@@ -300,7 +306,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Fundamentals of Robotics"
 }

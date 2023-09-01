@@ -142,13 +142,29 @@
 0,
 0,
 0,
-0
+0,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florian",
+"lastName": "Shkurti"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florian",
+"lastName": "Shkurti"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -285,7 +301,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Introduction to Mobile Robotics"
 }

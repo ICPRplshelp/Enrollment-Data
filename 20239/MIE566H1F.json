@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1693527610
+}
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -141,6 +146,7 @@
 40,
 40,
 40,
+39,
 39,
 39
 ],
@@ -300,7 +306,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Decision Making Under Uncertainty"
 }

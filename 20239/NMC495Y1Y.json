@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather D.",
+"lastName": "Baker"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heather D.",
+"lastName": "Baker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1693417996,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Independent Studies"
 }

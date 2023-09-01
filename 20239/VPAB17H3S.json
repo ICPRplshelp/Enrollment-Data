@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 25,
 "time": 1687464881
+},
+{
+"newCapacity": 60,
+"time": 1693527610
 }
 ],
 "initialCap": 50
@@ -147,7 +151,8 @@
 15,
 15,
 15,
-14
+14,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -290,7 +295,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "From Principles to Practices in Arts Management"
 }

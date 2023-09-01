@@ -145,6 +145,7 @@
 188,
 187,
 186,
+187,
 187
 ],
 "instructorLog": {
@@ -166,6 +167,27 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Rousseaux"
+},
+{
+"firstName": "Douglas",
+"lastName": "Stephan"
+},
+{
+"firstName": "Al-Amin",
+"lastName": "Dhirani"
+},
+{
+"firstName": "Andy",
+"lastName": "Dicks"
+}
+],
+"timing": 1693527610
 }
 ]
 },
@@ -181,6 +203,10 @@
 {
 "firstName": "Al-Amin",
 "lastName": "Dhirani"
+},
+{
+"firstName": "Andy",
+"lastName": "Dicks"
 }
 ],
 "isCancelled": false,
@@ -322,7 +348,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Chemistry: The Molecular Science"
 }

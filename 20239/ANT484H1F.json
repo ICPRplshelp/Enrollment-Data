@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1693527610
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -145,6 +150,7 @@
 20,
 20,
 17,
+18,
 18
 ],
 "instructorLog": {
@@ -306,7 +312,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Special Topics in Social Cultural Anthropology"
 }

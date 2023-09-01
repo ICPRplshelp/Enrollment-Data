@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 136,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 135,
 "time": 1689016776
+},
+{
+"newCapacity": 136,
+"time": 1693527610
 }
 ],
 "initialCap": 135
@@ -151,7 +155,8 @@
 134,
 134,
 135,
-135
+135,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -309,7 +314,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Communication"
 }

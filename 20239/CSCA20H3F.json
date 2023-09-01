@@ -142,6 +142,7 @@
 282,
 281,
 281,
+269,
 269
 ],
 "instructorLog": {
@@ -170,12 +171,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 295,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 295,
 "time": 1692247612
+},
+{
+"newCapacity": 300,
+"time": 1693527610
 }
 ],
 "initialCap": 234
@@ -312,7 +317,8 @@
 309,
 315,
 314,
-309
+309,
+312
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -470,7 +476,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Introduction to Programming"
 }

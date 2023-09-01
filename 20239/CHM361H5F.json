@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 175,
+"time": 1693527610
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -142,7 +147,8 @@
 174,
 174,
 174,
-174
+174,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -300,7 +306,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Structural Biochemistry"
 }

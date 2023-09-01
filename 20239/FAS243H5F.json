@@ -142,13 +142,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "C",
+"lastName": "Brant"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "C",
+"lastName": "Brant"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -285,7 +301,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Drawing II"
 }

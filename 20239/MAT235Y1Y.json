@@ -145,6 +145,7 @@
 192,
 189,
 187,
+186,
 186
 ],
 "instructorLog": {
@@ -313,7 +314,8 @@
 171,
 167,
 167,
-164
+164,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,7 +468,8 @@
 200,
 198,
 196,
-194
+194,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -634,7 +637,8 @@
 186,
 183,
 180,
-180
+180,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -647,13 +651,22 @@
 }
 ],
 "timing": 1686936373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ilia",
+"lastName": "Kirillov"
+}
+],
+"timing": 1693527610
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Wenkui",
-"lastName": "Du"
+"firstName": "Ilia",
+"lastName": "Kirillov"
 }
 ],
 "isCancelled": false,
@@ -801,6 +814,7 @@
 179,
 179,
 175,
+171,
 171,
 171
 ],
@@ -970,7 +984,8 @@
 177,
 174,
 171,
-171
+171,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1138,7 +1153,8 @@
 174,
 170,
 166,
-165
+165,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1151,6 +1167,19 @@
 }
 ],
 "timing": 1686954931
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Obinna Kennedy",
+"lastName": "Idu"
+},
+{
+"firstName": "Kai",
+"lastName": "Ye"
+}
+],
+"timing": 1693527610
 }
 ]
 },
@@ -1158,6 +1187,10 @@
 {
 "firstName": "Obinna Kennedy",
 "lastName": "Idu"
+},
+{
+"firstName": "Kai",
+"lastName": "Ye"
 }
 ],
 "isCancelled": false,
@@ -1306,7 +1339,8 @@
 208,
 202,
 199,
-197
+197,
+194
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1474,7 +1508,8 @@
 67,
 76,
 87,
-94
+94,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1635,7 +1670,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Multivariable Calculus"
 }

@@ -142,13 +142,29 @@
 155,
 153,
 155,
-153
+153,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nagham",
+"lastName": "Abdalahad"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nagham",
+"lastName": "Abdalahad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -285,7 +301,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Introduction to Pharmacology: Pharmacokinetic Principles"
 }

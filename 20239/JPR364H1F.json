@@ -145,7 +145,8 @@
 97,
 97,
 98,
-98
+98,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -158,13 +159,22 @@
 }
 ],
 "timing": 1688577945
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Faisal",
+"lastName": "Kamal"
+}
+],
+"timing": 1693527610
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ruth",
-"lastName": "Marshall"
+"firstName": "Faisal",
+"lastName": "Kamal"
 }
 ],
 "isCancelled": false,
@@ -306,7 +316,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Religion and Politics in the Nation State"
 }

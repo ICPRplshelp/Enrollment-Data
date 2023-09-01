@@ -142,7 +142,8 @@
 41,
 40,
 41,
-40
+40,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,7 +308,8 @@
 43,
 43,
 43,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,13 +474,29 @@
 23,
 22,
 22,
-23
+23,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -615,7 +633,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Chinese for Academic Purposes I"
 }

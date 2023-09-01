@@ -127,13 +127,45 @@
 76,
 75,
 76,
+74,
 74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tura",
+"lastName": "Cousins Wilson"
 },
-"instructors": [],
+{
+"firstName": "Shane",
+"lastName": "Laptiste"
+},
+{
+"firstName": "Shane",
+"lastName": "Laptiste"
+}
+],
+"timing": 1693527610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tura",
+"lastName": "Cousins Wilson"
+},
+{
+"firstName": "Shane",
+"lastName": "Laptiste"
+},
+{
+"firstName": "Shane",
+"lastName": "Laptiste"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -255,7 +287,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Advanced Topics in Urban Design"
 }

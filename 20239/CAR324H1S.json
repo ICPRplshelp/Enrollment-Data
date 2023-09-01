@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693527610
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -145,14 +150,15 @@
 13,
 13,
 14,
-14
+14,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -291,7 +297,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Capitalism and Crisis in the Caribbean"
 }

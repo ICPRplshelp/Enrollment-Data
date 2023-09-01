@@ -127,13 +127,29 @@
 27,
 27,
 27,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sukaina",
+"lastName": "Kubba"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sukaina",
+"lastName": "Kubba"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -255,7 +271,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Contemporary Printing"
 }

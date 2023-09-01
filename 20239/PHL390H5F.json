@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1692247612,
-"delivery": "INPER",
+"delivery": "ASYNC",
 "enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -22,7 +22,8 @@
 2,
 3,
 4,
-5
+5,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +61,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Special Topics in Philosophy"
 }

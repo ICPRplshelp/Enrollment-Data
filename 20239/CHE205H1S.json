@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 71,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 70,
 "time": 1690316798
+},
+{
+"newCapacity": 71,
+"time": 1693527610
 }
 ],
 "initialCap": 70
@@ -155,7 +159,8 @@
 70,
 70,
 70,
-70
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -329,6 +334,7 @@
 69,
 69,
 70,
+70,
 70
 ],
 "instructorLog": {
@@ -487,7 +493,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Chem Eng & Applied Chem II"
 }

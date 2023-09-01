@@ -145,13 +145,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tristan",
+"lastName": "Collins"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tristan",
+"lastName": "Collins"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -291,7 +307,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Topics in Mathematics"
 }

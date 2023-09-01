@@ -142,7 +142,8 @@
 29,
 30,
 30,
-30
+30,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,7 +308,8 @@
 30,
 30,
 28,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,7 +474,8 @@
 32,
 30,
 29,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -637,13 +640,29 @@
 35,
 35,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "J",
+"lastName": "Wong"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "J",
+"lastName": "Wong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0104"
 }
@@ -780,7 +799,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Painting I"
 }

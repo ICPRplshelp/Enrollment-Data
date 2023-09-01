@@ -142,13 +142,29 @@
 23,
 23,
 23,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheri",
+"lastName": "Lynn Allain"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheri",
+"lastName": "Lynn Allain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -292,13 +308,29 @@
 35,
 35,
 35,
-35
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheri",
+"lastName": "Lynn Allain"
+}
+],
+"timing": 1693527610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheri",
+"lastName": "Lynn Allain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -435,7 +467,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Online Advertising and Marketing (SH)"
 }

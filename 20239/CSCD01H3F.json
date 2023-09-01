@@ -142,7 +142,8 @@
 86,
 87,
 88,
-87
+87,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -159,6 +160,19 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
+},
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+}
+],
+"timing": 1693527610
 }
 ]
 },
@@ -168,8 +182,8 @@
 "lastName": "Yong"
 },
 {
-"firstName": "ALEKSANDER",
-"lastName": "BODURRI (NOUTORID)"
+"firstName": "Aleksander",
+"lastName": "Bodurri"
 }
 ],
 "isCancelled": false,
@@ -315,7 +329,8 @@
 63,
 65,
 65,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -332,13 +347,26 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+},
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
+}
+],
+"timing": 1693527610
 }
 ]
 },
 "instructors": [
 {
-"firstName": "ALEKSANDER",
-"lastName": "BODURRI (NOUTORID)"
+"firstName": "Aleksander",
+"lastName": "Bodurri"
 },
 {
 "firstName": "Cho Yin",
@@ -481,7 +509,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Engineering Large Software Systems"
 }

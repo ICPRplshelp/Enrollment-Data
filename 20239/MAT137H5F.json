@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1692247612
+},
+{
+"newCapacity": 130,
+"time": 1693527610
 }
 ],
 "initialCap": 90
@@ -147,7 +151,8 @@
 115,
 116,
 113,
-114
+114,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -175,12 +180,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 105,
 "time": 1692247612
+},
+{
+"newCapacity": 130,
+"time": 1693527610
 }
 ],
 "initialCap": 90
@@ -317,7 +326,8 @@
 110,
 110,
 109,
-108
+108,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -356,6 +366,7 @@
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -630,7 +641,8 @@
 1693156261,
 1693242889,
 1693360633,
-1693417997
+1693417997,
+1693527610
 ],
 "title": "Differential Calculus for Mathematical Sciences"
 }
