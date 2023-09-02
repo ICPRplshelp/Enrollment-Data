@@ -146,13 +146,29 @@
 20,
 21,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Burman"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Burman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -293,7 +309,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Indigenous Issues in Health and Healing"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 290,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 290,
 "time": 1692226488
+},
+{
+"newCapacity": 300,
+"time": 1693623554
 }
 ],
 "initialCap": 200
@@ -151,7 +155,8 @@
 325,
 326,
 326,
-329
+329,
+331
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -313,7 +318,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Religion and Human Rights"
 }

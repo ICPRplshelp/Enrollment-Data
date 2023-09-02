@@ -143,13 +143,29 @@
 126,
 124,
 124,
-124
+124,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brandon",
+"lastName": "Walters"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brandon",
+"lastName": "Walters"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -287,7 +303,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Molecular Biology"
 }

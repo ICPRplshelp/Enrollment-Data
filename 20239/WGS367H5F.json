@@ -143,7 +143,8 @@
 47,
 48,
 47,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "J.",
+"lastName": "AJANDI"
+}
+],
+"timing": 1693623554
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Shahad",
-"lastName": "Abdulnour"
+"firstName": "J.",
+"lastName": "AJANDI"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Women and Health"
 }

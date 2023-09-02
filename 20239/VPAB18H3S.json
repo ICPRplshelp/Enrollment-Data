@@ -148,6 +148,7 @@
 145,
 146,
 145,
+147,
 147
 ],
 "instructorLog": {
@@ -161,13 +162,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cyrus",
+"lastName": "Sundar Singh"
+}
+],
+"timing": 1693623554
 }
 ]
 },
 "instructors": [
 {
-"firstName": "CYRUS",
-"lastName": "SUNDAR SINGH (NOUTORID)"
+"firstName": "Cyrus",
+"lastName": "Sundar Singh"
 }
 ],
 "isCancelled": false,
@@ -307,7 +317,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Becoming a Producer"
 }

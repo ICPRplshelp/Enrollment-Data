@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 170,
+"time": 1693623554
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -146,7 +151,8 @@
 169,
 169,
 170,
-170
+170,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -308,7 +314,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Business Ethics"
 }

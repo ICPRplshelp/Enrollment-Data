@@ -143,13 +143,29 @@
 110,
 110,
 109,
+88,
 88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -287,7 +303,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "The Science of Wellbeing"
 }

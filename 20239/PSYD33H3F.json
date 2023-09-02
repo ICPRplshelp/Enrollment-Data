@@ -143,7 +143,8 @@
 23,
 23,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -309,6 +310,7 @@
 22,
 21,
 20,
+21,
 21
 ],
 "instructorLog": {
@@ -322,13 +324,22 @@
 }
 ],
 "timing": 1691182978
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tochukwu Charles",
+"lastName": "Orjiakor"
+}
+],
+"timing": 1693623554
 }
 ]
 },
 "instructors": [
 {
-"firstName": "CHARLES",
-"lastName": "ORJIAKOR (NOUTORID)"
+"firstName": "Tochukwu Charles",
+"lastName": "Orjiakor"
 }
 ],
 "isCancelled": false,
@@ -468,7 +479,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Current Topics in Clinical Psychology"
 }

@@ -146,13 +146,29 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julia",
+"lastName": "Mikhailova"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Julia",
+"lastName": "Mikhailova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -300,13 +316,29 @@
 9,
 9,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Filipp",
+"lastName": "Lekmanov"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Filipp",
+"lastName": "Lekmanov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -447,7 +479,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Intermediate Russian"
 }

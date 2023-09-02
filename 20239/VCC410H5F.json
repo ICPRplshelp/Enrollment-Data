@@ -1,0 +1,46 @@
+{
+"code": "VCC410H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1693623554,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+20
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Ricco"
+}
+],
+"timing": 1693623554
+}
+]
+},
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Ricco"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1693623553,
+1693623554
+],
+"title": "The Collective Afterlife of Things"
+}

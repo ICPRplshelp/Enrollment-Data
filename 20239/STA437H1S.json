@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693623554
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -146,7 +151,8 @@
 97,
 97,
 98,
-77
+77,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -168,15 +174,20 @@
 "lastName": "Knight"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693623554
+}
+],
 "initialCap": 190
 },
 "enrollmentLogs": [
@@ -315,7 +326,8 @@
 174,
 174,
 175,
-126
+126,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,7 +349,7 @@
 "lastName": "Knight"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -477,7 +489,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Methods for multivariate data"
 }

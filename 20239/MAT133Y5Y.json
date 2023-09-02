@@ -143,7 +143,8 @@
 121,
 127,
 129,
-128
+128,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -156,9 +157,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1693623554
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -294,7 +300,8 @@
 173,
 175,
 174,
-170
+170,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,9 +314,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1693623554
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -445,7 +457,8 @@
 174,
 174,
 173,
-171
+171,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -611,7 +624,8 @@
 172,
 170,
 169,
-168
+168,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -770,7 +784,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

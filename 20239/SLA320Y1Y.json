@@ -146,13 +146,29 @@
 10,
 10,
 10,
-10
+10,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elena",
+"lastName": "Vasileva"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elena",
+"lastName": "Vasileva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -293,7 +309,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Advanced Russian"
 }

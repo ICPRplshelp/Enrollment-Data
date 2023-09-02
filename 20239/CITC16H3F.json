@@ -143,6 +143,7 @@
 41,
 40,
 40,
+42,
 42
 ],
 "instructorLog": {
@@ -156,13 +157,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aidin",
+"lastName": "Torkameh"
+}
+],
+"timing": 1693623554
 }
 ]
 },
 "instructors": [
 {
-"firstName": "AIDIN",
-"lastName": "TORKAMEH (NOUTORID)"
+"firstName": "Aidin",
+"lastName": "Torkameh"
 }
 ],
 "isCancelled": false,
@@ -302,7 +312,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Planning and Governing the Metropolis"
 }

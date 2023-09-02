@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 247,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 250,
 "time": 1693527610
+},
+{
+"newCapacity": 247,
+"time": 1693623554
 }
 ],
 "initialCap": 200
@@ -151,7 +155,8 @@
 219,
 217,
 216,
-238
+238,
+247
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -320,7 +325,8 @@
 0,
 0,
 0,
-6
+6,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -467,7 +473,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Methods for multivariate data"
 }

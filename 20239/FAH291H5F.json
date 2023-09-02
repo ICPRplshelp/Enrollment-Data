@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 97,
+"time": 1693623554
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -143,7 +148,8 @@
 97,
 97,
 97,
-97
+97,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -302,7 +308,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "History of Photography"
 }

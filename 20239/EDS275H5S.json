@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1693623554
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -141,6 +146,7 @@
 68,
 68,
 68,
+67,
 67,
 67,
 67
@@ -287,7 +293,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Mass Media and Debunking the Myths of Education"
 }

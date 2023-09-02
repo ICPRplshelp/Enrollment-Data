@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1693623554
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -143,7 +148,8 @@
 83,
 83,
 83,
-83
+83,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -302,7 +308,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Learning Design"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693623554
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -143,7 +148,8 @@
 29,
 28,
 28,
-25
+25,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,7 +171,7 @@
 "lastName": "Ricco"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -302,7 +308,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Topics in Visual Culture and Communication"
 }

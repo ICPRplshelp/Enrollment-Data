@@ -146,6 +146,7 @@
 17,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -159,13 +160,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cathleen",
+"lastName": "Clark"
+}
+],
+"timing": 1693623554
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lisa",
-"lastName": "Mar"
+"firstName": "Cathleen",
+"lastName": "Clark"
 }
 ],
 "isCancelled": false,
@@ -180,6 +190,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -462,7 +473,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Topics in History"
 }

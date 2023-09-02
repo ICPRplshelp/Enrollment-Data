@@ -146,13 +146,29 @@
 41,
 41,
 42,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -300,13 +316,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 }
@@ -447,7 +479,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Introduction to Indigenous Studies: Foundations, History and Politics"
 }

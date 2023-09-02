@@ -146,13 +146,29 @@
 99,
 98,
 98,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mary",
+"lastName": "Maschio"
+}
+],
+"timing": 1693623554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mary",
+"lastName": "Maschio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -293,7 +309,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Getting Medieval: Myths and Monsters"
 }

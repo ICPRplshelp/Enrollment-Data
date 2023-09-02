@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 1,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 5,
+"time": 1693623554
+}
+],
 "initialCap": 1
 },
 "enrollmentLogs": [
@@ -143,7 +148,8 @@
 1,
 1,
 1,
-1
+1,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -287,7 +293,8 @@
 1693242889,
 1693360633,
 1693417997,
-1693527610
+1693527610,
+1693623554
 ],
 "title": "Major Ensemble"
 }
