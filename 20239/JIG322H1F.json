@@ -149,13 +149,29 @@
 44,
 44,
 44,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Meagan",
+"lastName": "Hamilton"
+}
+],
+"timing": 1693850155
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Meagan",
+"lastName": "Hamilton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -299,7 +315,8 @@
 1693527610,
 1693623554,
 1693700715,
-1693758966
+1693758966,
+1693850155
 ],
 "title": "Indigenous Worlds, Worldviews and the Environment"
 }
