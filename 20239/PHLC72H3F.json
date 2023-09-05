@@ -147,7 +147,8 @@
 24,
 24,
 24,
-24
+24,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,13 +179,22 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Elliot",
+"lastName": "Carter"
+}
+],
+"timing": 1693937393
 }
 ]
 },
 "instructors": [
 {
-"firstName": "ELLIOT",
-"lastName": "CARTER (NOUTORID)"
+"firstName": "Elliot",
+"lastName": "Carter"
 }
 ],
 "isCancelled": false,
@@ -328,7 +338,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Philosophy of Science"
 }

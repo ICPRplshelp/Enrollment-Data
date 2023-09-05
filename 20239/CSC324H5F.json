@@ -147,7 +147,8 @@
 85,
 85,
 85,
-88
+88,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -317,7 +318,8 @@
 84,
 84,
 84,
-86
+86,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,12 +347,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1693937393
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -494,7 +502,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -635,7 +643,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Principles of Programming Languages"
 }

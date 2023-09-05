@@ -150,7 +150,8 @@
 11,
 11,
 11,
-13
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,13 +164,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen Charles",
+"lastName": "Broomer"
+}
+],
+"timing": 1693937393
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kass",
-"lastName": "Banning"
+"firstName": "Stephen Charles",
+"lastName": "Broomer"
 }
 ],
 "isCancelled": false,
@@ -316,7 +326,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Canadian Cinemas"
 }

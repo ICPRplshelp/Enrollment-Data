@@ -150,13 +150,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marju",
+"lastName": "Toomsalu"
+}
+],
+"timing": 1693937393
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marju",
+"lastName": "Toomsalu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -301,7 +317,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Intermediate Estonian Language and Culture I"
 }

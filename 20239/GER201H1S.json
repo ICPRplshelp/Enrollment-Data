@@ -150,13 +150,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rita",
+"lastName": "Laszlo"
+}
+],
+"timing": 1693937393
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rita",
+"lastName": "Laszlo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -169,6 +185,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -481,6 +498,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -647,7 +665,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Intermediate German 1b"
 }

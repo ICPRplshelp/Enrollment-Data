@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 196,
+"enrollmentCap": 182,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 196,
 "time": 1693623554
+},
+{
+"newCapacity": 182,
+"time": 1693937393
 }
 ],
 "initialCap": 200
@@ -152,7 +156,8 @@
 212,
 212,
 212,
-209
+209,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,9 +207,14 @@
 {
 "createdAt": 1691614238,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 34,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 34,
+"time": 1693937393
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -344,7 +354,8 @@
 15,
 15,
 15,
-15
+15,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -507,7 +518,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Data Analysis in Psychology"
 }

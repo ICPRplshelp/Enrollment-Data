@@ -18,13 +18,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
+"timing": 1693937393
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -37,7 +53,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Introductory Chemistry from a Materials Perspective"
 }

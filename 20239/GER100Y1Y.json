@@ -150,7 +150,8 @@
 29,
 29,
 29,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,6 +164,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stefana",
+"lastName": "Gargova"
+},
+{
+"firstName": "Veronica",
+"lastName": "Curran"
+}
+],
+"timing": 1693937393
 }
 ]
 },
@@ -170,6 +184,10 @@
 {
 "firstName": "Stefana",
 "lastName": "Gargova"
+},
+{
+"firstName": "Veronica",
+"lastName": "Curran"
 }
 ],
 "isCancelled": false,
@@ -320,6 +338,7 @@
 23,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -513,6 +532,7 @@
 16,
 16,
 16,
+17,
 17
 ],
 "instructorLog": {
@@ -526,6 +546,19 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tanya",
+"lastName": "Humeniuk"
+},
+{
+"firstName": "Veronica",
+"lastName": "Curran"
+}
+],
+"timing": 1693937393
 }
 ]
 },
@@ -533,6 +566,10 @@
 {
 "firstName": "Tanya",
 "lastName": "Humeniuk"
+},
+{
+"firstName": "Veronica",
+"lastName": "Curran"
 }
 ],
 "isCancelled": false,
@@ -686,7 +723,8 @@
 25,
 25,
 25,
-27
+27,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -859,7 +897,8 @@
 13,
 13,
 13,
-11
+11,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -872,6 +911,19 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Virginia",
+"lastName": "Shewfelt"
+},
+{
+"firstName": "Owen",
+"lastName": "Meunier"
+}
+],
+"timing": 1693937393
 }
 ]
 },
@@ -879,6 +931,10 @@
 {
 "firstName": "Virginia",
 "lastName": "Shewfelt"
+},
+{
+"firstName": "Owen",
+"lastName": "Meunier"
 }
 ],
 "isCancelled": false,
@@ -1032,6 +1088,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -1063,12 +1120,12 @@
 },
 "instructors": [
 {
-"firstName": "Elisabeth",
-"lastName": "Lange"
-},
-{
 "firstName": "Maria",
 "lastName": "Harutyunyan"
+},
+{
+"firstName": "Elisabeth",
+"lastName": "Lange"
 }
 ],
 "isCancelled": false,
@@ -1222,6 +1279,7 @@
 22,
 22,
 22,
+24,
 24
 ],
 "instructorLog": {
@@ -1235,6 +1293,19 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Evjen"
+},
+{
+"firstName": "Hannah",
+"lastName": "Robinson"
+}
+],
+"timing": 1693937393
 }
 ]
 },
@@ -1242,6 +1313,10 @@
 {
 "firstName": "John",
 "lastName": "Evjen"
+},
+{
+"firstName": "Hannah",
+"lastName": "Robinson"
 }
 ],
 "isCancelled": false,
@@ -1395,7 +1470,8 @@
 37,
 37,
 37,
-38
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1569,7 +1645,8 @@
 1693623554,
 1693700715,
 1693758966,
-1693850155
+1693850155,
+1693937393
 ],
 "title": "Introduction to German"
 }
