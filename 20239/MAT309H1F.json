@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 156,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 156,
+"time": 1694019972
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -151,7 +156,8 @@
 211,
 211,
 209,
-207
+207,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -318,7 +324,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Introduction to Mathematical Logic"
 }

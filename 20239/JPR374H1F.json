@@ -151,7 +151,8 @@
 83,
 83,
 87,
-86
+86,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -164,13 +165,22 @@
 }
 ],
 "timing": 1688577945
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Capener"
+}
+],
+"timing": 1694019972
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ruth",
-"lastName": "Marshall"
+"firstName": "Sean",
+"lastName": "Capener"
 }
 ],
 "isCancelled": false,
@@ -318,7 +328,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Religion and Power in the Postcolony"
 }

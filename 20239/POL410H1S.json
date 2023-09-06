@@ -151,6 +151,7 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
@@ -325,13 +326,29 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Muhammad Wajid",
+"lastName": "Tahir"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Muhammad Wajid",
+"lastName": "Tahir"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -477,7 +494,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Topics in Comparative Politics III"
 }

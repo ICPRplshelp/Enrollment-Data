@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 117,
+"time": 1694019972
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -151,6 +156,7 @@
 130,
 130,
 132,
+131,
 131
 ],
 "instructorLog": {
@@ -318,7 +324,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Stars and Planets"
 }

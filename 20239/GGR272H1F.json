@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 190,
+"enrollmentCap": 220,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 220,
+"time": 1694019972
+}
+],
 "initialCap": 190
 },
 "enrollmentLogs": [
@@ -151,7 +156,8 @@
 230,
 230,
 229,
-229
+229,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,7 +333,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Geographic Information and Mapping I"
 }

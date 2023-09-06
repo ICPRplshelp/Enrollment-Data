@@ -148,7 +148,8 @@
 110,
 110,
 110,
-109
+109,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,14 +166,19 @@
 }
 ],
 "timing": 1690549709
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+}
+],
+"timing": 1694019972
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Gueorgui",
-"lastName": "Kambourov"
-},
 {
 "firstName": "Sebastian",
 "lastName": "Dyrda"
@@ -327,6 +333,7 @@
 74,
 74,
 74,
+85,
 85
 ],
 "instructorLog": {
@@ -340,6 +347,19 @@
 }
 ],
 "timing": 1690549709
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Dyrda"
+},
+{
+"firstName": "Gueorgui",
+"lastName": "Kambourov"
+}
+],
+"timing": 1694019972
 }
 ]
 },
@@ -347,6 +367,10 @@
 {
 "firstName": "Sebastian",
 "lastName": "Dyrda"
+},
+{
+"firstName": "Gueorgui",
+"lastName": "Kambourov"
 }
 ],
 "isCancelled": false,
@@ -491,7 +515,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Macroeconomic Theory and Policy (for Commerce)"
 }

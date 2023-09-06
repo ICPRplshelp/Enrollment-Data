@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1694019972
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -151,7 +156,8 @@
 249,
 249,
 243,
-242
+242,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -179,9 +185,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 222,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 222,
+"time": 1694019972
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -325,6 +336,7 @@
 234,
 234,
 228,
+226,
 226
 ],
 "instructorLog": {
@@ -499,7 +511,8 @@
 92,
 92,
 110,
-120
+120,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -673,7 +686,8 @@
 215,
 215,
 209,
-208
+208,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -825,7 +839,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

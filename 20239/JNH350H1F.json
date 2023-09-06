@@ -151,13 +151,29 @@
 23,
 23,
 26,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tolulope Aramide",
+"lastName": "Ojo"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tolulope Aramide",
+"lastName": "Ojo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -303,7 +319,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "AIDS : Challenges and Successes"
 }

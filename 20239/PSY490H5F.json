@@ -148,13 +148,29 @@
 21,
 21,
 21,
-21
+21,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennet",
+"lastName": "Baumbach"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennet",
+"lastName": "Baumbach"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -297,7 +313,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Advanced Topics in Neuroscience"
 }

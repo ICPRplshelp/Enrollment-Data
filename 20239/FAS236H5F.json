@@ -148,7 +148,8 @@
 39,
 39,
 38,
-39
+39,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -328,7 +329,8 @@
 38,
 38,
 36,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -508,13 +510,29 @@
 14,
 14,
 16,
-16
+16,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "A",
+"lastName": "BOZDAROV"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "A",
+"lastName": "BOZDAROV"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -657,7 +675,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Design I"
 }

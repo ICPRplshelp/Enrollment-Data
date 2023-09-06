@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 48,
+"time": 1694019972
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -148,7 +153,8 @@
 52,
 52,
 49,
-49
+49,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -312,7 +318,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Epigenetics"
 }

@@ -151,7 +151,8 @@
 43,
 43,
 43,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,13 +326,29 @@
 29,
 29,
 31,
-33
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Meurer"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Meurer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -484,13 +501,29 @@
 51,
 51,
 52,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Hadidi"
+}
+],
+"timing": 1694019972
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Hadidi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -636,7 +669,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Introduction to Digital Humanities"
 }

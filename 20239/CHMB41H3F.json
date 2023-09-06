@@ -148,6 +148,7 @@
 320,
 320,
 322,
+322,
 322
 ],
 "instructorLog": {
@@ -345,7 +346,8 @@
 122,
 122,
 124,
-119
+119,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -367,6 +369,19 @@
 }
 ],
 "timing": 1690850247
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+},
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+}
+],
+"timing": 1694019972
 }
 ]
 },
@@ -374,6 +389,10 @@
 {
 "firstName": "Nirusha",
 "lastName": "Thavarajah"
+},
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
 }
 ],
 "isCancelled": false,
@@ -518,7 +537,8 @@
 1693700715,
 1693758966,
 1693850155,
-1693937393
+1693937393,
+1694019972
 ],
 "title": "Organic Chemistry I"
 }
