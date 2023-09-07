@@ -152,7 +152,8 @@
 6,
 6,
 7,
-7
+7,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -169,6 +170,23 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jeremy",
+"lastName": "Mogridge"
+},
+{
+"firstName": "Stephen",
+"lastName": "Girardin"
+},
+{
+"firstName": "Louella",
+"lastName": "D'Cunha"
+}
+],
+"timing": 1694100800
 }
 ]
 },
@@ -180,6 +198,10 @@
 {
 "firstName": "Stephen",
 "lastName": "Girardin"
+},
+{
+"firstName": "Louella",
+"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -328,7 +350,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Mechanisms in Host-Microbe Interactions"
 }

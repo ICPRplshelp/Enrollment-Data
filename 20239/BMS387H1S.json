@@ -152,13 +152,29 @@
 97,
 97,
 96,
+94,
 94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Logan"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Logan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -305,7 +321,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Advertising and Media"
 }

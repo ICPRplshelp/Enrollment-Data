@@ -152,7 +152,8 @@
 210,
 210,
 211,
-208
+208,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,9 +181,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 156,
+"enrollmentCap": 164,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 164,
+"time": 1694100800
+}
+],
 "initialCap": 156
 },
 "enrollmentLogs": [
@@ -327,7 +333,8 @@
 208,
 206,
 205,
-207
+207,
+206
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -502,7 +509,8 @@
 199,
 199,
 198,
-201
+201,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -670,7 +678,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Linear Algebra II"
 }

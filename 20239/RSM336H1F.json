@@ -157,7 +157,8 @@
 60,
 62,
 61,
-61
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,7 +338,8 @@
 60,
 61,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +519,8 @@
 60,
 59,
 59,
-60
+60,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -545,9 +548,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1694100800
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -692,6 +700,7 @@
 54,
 52,
 52,
+51,
 51
 ],
 "instructorLog": {
@@ -860,7 +869,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Investments"
 }

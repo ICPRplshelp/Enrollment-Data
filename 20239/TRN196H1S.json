@@ -152,13 +152,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leanne",
+"lastName": "Simpson"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leanne",
+"lastName": "Simpson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -305,7 +321,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Joy and Resistance in Diverse Storytelling"
 }

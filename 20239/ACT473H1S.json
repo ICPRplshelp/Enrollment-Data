@@ -152,6 +152,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -165,6 +166,19 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Howard",
+"lastName": "Lyons"
+},
+{
+"firstName": "Charles Ian",
+"lastName": "Genno"
+}
+],
+"timing": 1694100800
 }
 ]
 },
@@ -172,6 +186,10 @@
 {
 "firstName": "Howard",
 "lastName": "Lyons"
+},
+{
+"firstName": "Charles Ian",
+"lastName": "Genno"
 }
 ],
 "isCancelled": false,
@@ -320,7 +338,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Issues In Actuarial Practice"
 }

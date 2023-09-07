@@ -152,13 +152,29 @@
 13,
 13,
 13,
-13
+13,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Huibin",
+"lastName": "Lin"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Huibin",
+"lastName": "Lin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -305,7 +321,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Advanced Topics in Criminology and Sociolegal Studies"
 }

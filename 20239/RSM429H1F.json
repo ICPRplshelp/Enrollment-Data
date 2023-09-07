@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 54,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 54,
 "time": 1692036340
+},
+{
+"newCapacity": 56,
+"time": 1694100800
 }
 ],
 "initialCap": 50
@@ -157,6 +161,7 @@
 62,
 61,
 61,
+60,
 60
 ],
 "instructorLog": {
@@ -194,12 +199,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 54,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 54,
 "time": 1692036340
+},
+{
+"newCapacity": 56,
+"time": 1694100800
 }
 ],
 "initialCap": 50
@@ -341,6 +350,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -523,7 +533,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Financial Statement Analysis and Valuation"
 }

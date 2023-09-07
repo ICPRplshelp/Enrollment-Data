@@ -152,7 +152,8 @@
 29,
 30,
 30,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,7 +328,8 @@
 29,
 27,
 27,
-27
+27,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -511,6 +513,7 @@
 19,
 19,
 19,
+18,
 18
 ],
 "instructorLog": {
@@ -699,6 +702,7 @@
 20,
 19,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -874,7 +878,8 @@
 19,
 21,
 22,
-21
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1049,7 +1054,8 @@
 30,
 30,
 30,
-30
+30,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1241,13 +1247,29 @@
 25,
 25,
 25,
-26
+26,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -1401,6 +1423,7 @@
 27,
 27,
 29,
+30,
 30
 ],
 "instructorLog": {
@@ -1569,6 +1592,7 @@
 20,
 20,
 20,
+23,
 23,
 23,
 23,
@@ -1752,7 +1776,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Italian Language for Beginners"
 }

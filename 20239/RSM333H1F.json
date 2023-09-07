@@ -152,7 +152,8 @@
 56,
 56,
 55,
-54
+54,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -322,6 +323,7 @@
 60,
 60,
 58,
+56,
 56,
 56,
 56,
@@ -507,6 +509,7 @@
 58,
 59,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -535,12 +538,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 59,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 59,
 "time": 1692036340
+},
+{
+"newCapacity": 60,
+"time": 1694100800
 }
 ],
 "initialCap": 50
@@ -685,6 +692,7 @@
 62,
 62,
 62,
+63,
 63,
 63,
 63
@@ -867,6 +875,7 @@
 63,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -1047,7 +1056,8 @@
 64,
 65,
 64,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1222,7 +1232,8 @@
 22,
 23,
 27,
-29
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1390,7 +1401,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Corporate Finance"
 }

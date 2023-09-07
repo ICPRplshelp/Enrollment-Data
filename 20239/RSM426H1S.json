@@ -152,7 +152,8 @@
 38,
 39,
 39,
-38
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,9 +181,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1694100800
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -327,6 +333,7 @@
 54,
 54,
 54,
+53,
 53
 ],
 "instructorLog": {
@@ -490,6 +497,7 @@
 30,
 30,
 30,
+31,
 31,
 31,
 31,
@@ -670,7 +678,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Critical Thinking, Analysis and Decision Making"
 }

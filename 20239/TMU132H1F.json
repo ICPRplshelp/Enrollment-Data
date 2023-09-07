@@ -149,7 +149,8 @@
 14,
 15,
 15,
-14
+14,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -321,7 +322,8 @@
 16,
 17,
 18,
-18
+18,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,7 +495,8 @@
 20,
 20,
 20,
-20
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -521,9 +524,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1694100800
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -665,7 +673,8 @@
 17,
 17,
 17,
-17
+17,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -837,7 +846,8 @@
 15,
 15,
 15,
-15
+15,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1009,6 +1019,7 @@
 5,
 6,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -1174,7 +1185,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Musical Skills I"
 }

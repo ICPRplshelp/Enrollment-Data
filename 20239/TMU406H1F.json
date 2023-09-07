@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 18,
 "time": 1689378883
+},
+{
+"newCapacity": 17,
+"time": 1694100800
 }
 ],
 "initialCap": 15
@@ -162,7 +166,8 @@
 18,
 18,
 17,
-18
+18,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,7 +332,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "MAX/MSP"
 }

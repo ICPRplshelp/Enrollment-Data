@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 36,
+"time": 1694100800
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -152,6 +157,7 @@
 44,
 44,
 43,
+44,
 44
 ],
 "instructorLog": {
@@ -320,7 +326,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Philosophy of Feminism"
 }

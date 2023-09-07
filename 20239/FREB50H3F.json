@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1694100800
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -149,7 +154,8 @@
 42,
 42,
 41,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -314,7 +320,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Introduction to Literature in French I"
 }

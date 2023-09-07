@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 505,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 505,
+"time": 1694100800
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -149,7 +154,8 @@
 502,
 502,
 508,
-506
+506,
+502
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -314,7 +320,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Ecology"
 }

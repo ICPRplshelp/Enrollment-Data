@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 450,
+"enrollmentCap": 467,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 467,
+"time": 1694100800
+}
+],
 "initialCap": 450
 },
 "enrollmentLogs": [
@@ -152,7 +157,8 @@
 458,
 457,
 458,
-453
+453,
+467
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,7 +333,8 @@
 451,
 450,
 451,
-450
+450,
+449
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -502,7 +509,8 @@
 201,
 200,
 201,
-200
+200,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,7 +670,8 @@
 198,
 195,
 195,
-195
+195,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -837,7 +846,8 @@
 198,
 196,
 192,
-193
+193,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1021,7 +1031,8 @@
 235,
 231,
 227,
-224
+224,
+221
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1196,7 +1207,8 @@
 196,
 196,
 196,
-196
+196,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1371,7 +1383,8 @@
 189,
 188,
 188,
-189
+189,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1546,7 +1559,8 @@
 232,
 230,
 230,
-231
+231,
+229
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1730,7 +1744,8 @@
 157,
 157,
 157,
-158
+158,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1905,7 +1920,8 @@
 155,
 155,
 155,
-155
+155,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2080,7 +2096,8 @@
 198,
 198,
 197,
-196
+196,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2255,7 +2272,8 @@
 183,
 188,
 193,
-199
+199,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2423,7 +2441,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Calculus I"
 }

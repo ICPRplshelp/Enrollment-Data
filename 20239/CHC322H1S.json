@@ -152,13 +152,29 @@
 16,
 16,
 16,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Callie",
+"lastName": "Callon"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Callie",
+"lastName": "Callon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -305,7 +321,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Women and Christianity"
 }

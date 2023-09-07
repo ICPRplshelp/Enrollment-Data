@@ -149,7 +149,8 @@
 1,
 1,
 1,
-1
+1,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -162,12 +163,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 260,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 260,
 "time": 1691785160
+},
+{
+"newCapacity": 300,
+"time": 1694100800
 }
 ],
 "initialCap": 160
@@ -311,7 +316,8 @@
 345,
 344,
 348,
-348
+348,
+349
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -324,7 +330,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -334,6 +340,10 @@
 {
 "newCapacity": 200,
 "time": 1691785160
+},
+{
+"newCapacity": 250,
+"time": 1694100800
 }
 ],
 "initialCap": 120
@@ -477,7 +487,8 @@
 297,
 298,
 299,
-300
+300,
+302
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -627,7 +638,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Preparing to Compete for your Co-op Work Term"
 }

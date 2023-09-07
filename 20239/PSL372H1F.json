@@ -152,13 +152,29 @@
 137,
 136,
 136,
+136,
 136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -305,7 +321,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Mammalian Physiology Laboratory"
 }

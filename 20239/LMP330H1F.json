@@ -152,6 +152,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -173,6 +174,27 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Irwin"
+},
+{
+"firstName": "Karim",
+"lastName": "Mekhail"
+},
+{
+"firstName": "Bo",
+"lastName": "Wang"
+},
+{
+"firstName": "Louella",
+"lastName": "D'Cunha"
+}
+],
+"timing": 1694100800
 }
 ]
 },
@@ -188,6 +210,10 @@
 {
 "firstName": "Bo",
 "lastName": "Wang"
+},
+{
+"firstName": "Louella",
+"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -336,7 +362,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Genetic and Computational Modeling in Human Development and Disease"
 }

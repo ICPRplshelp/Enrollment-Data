@@ -149,6 +149,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -162,6 +163,35 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+},
+{
+"firstName": "Xiang",
+"lastName": "Li"
+},
+{
+"firstName": "Robert",
+"lastName": "Orr"
+},
+{
+"firstName": "Tahir",
+"lastName": "Shaaran"
+},
+{
+"firstName": "Kaley",
+"lastName": "Walker"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1694100800
 }
 ]
 },
@@ -169,6 +199,26 @@
 {
 "firstName": "Ania",
 "lastName": "Harlick"
+},
+{
+"firstName": "Xiang",
+"lastName": "Li"
+},
+{
+"firstName": "Robert",
+"lastName": "Orr"
+},
+{
+"firstName": "Tahir",
+"lastName": "Shaaran"
+},
+{
+"firstName": "Kaley",
+"lastName": "Walker"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
 }
 ],
 "isCancelled": false,
@@ -314,7 +364,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Advanced Physics Laboratory"
 }

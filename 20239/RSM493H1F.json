@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 37,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1694100800
+}
+],
 "initialCap": 37
 },
 "enrollmentLogs": [
@@ -152,7 +157,8 @@
 46,
 45,
 45,
-45
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -320,7 +326,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Entrepreneurship"
 }

@@ -154,6 +154,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -311,6 +312,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -360,6 +362,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -625,6 +628,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -674,6 +678,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -939,6 +944,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -958,6 +964,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1253,6 +1260,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1272,6 +1280,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1567,6 +1576,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1586,6 +1596,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1881,6 +1892,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -1900,6 +1912,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2195,6 +2208,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2352,6 +2366,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -2371,6 +2386,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2666,6 +2682,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -2823,13 +2840,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC1301"
 },
@@ -2872,6 +2905,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -3137,6 +3171,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -3156,6 +3191,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3451,6 +3487,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -3470,6 +3507,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3765,6 +3803,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -3814,6 +3853,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -4072,7 +4112,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Research Opportunity Program"
 }

@@ -152,6 +152,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -180,12 +181,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 57,
 "time": 1692036340
+},
+{
+"newCapacity": 58,
+"time": 1694100800
 }
 ],
 "initialCap": 50
@@ -332,7 +337,8 @@
 60,
 60,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -360,12 +366,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 57,
 "time": 1692036340
+},
+{
+"newCapacity": 58,
+"time": 1694100800
 }
 ],
 "initialCap": 50
@@ -512,7 +522,8 @@
 61,
 60,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -540,12 +551,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 47,
+"enrollmentCap": 49,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 47,
 "time": 1692036340
+},
+{
+"newCapacity": 49,
+"time": 1694100800
 }
 ],
 "initialCap": 40
@@ -687,6 +702,7 @@
 48,
 48,
 48,
+49,
 49,
 49,
 49,
@@ -860,7 +876,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Fixed Income Securities"
 }

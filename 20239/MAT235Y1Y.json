@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 170,
+"enrollmentCap": 186,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 186,
+"time": 1694100800
+}
+],
 "initialCap": 170
 },
 "enrollmentLogs": [
@@ -152,7 +157,8 @@
 185,
 179,
 173,
-174
+174,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -327,13 +333,29 @@
 163,
 163,
 160,
-158
+158,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chun Kai",
+"lastName": "Chien"
+}
+],
+"timing": 1694100800
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chun Kai",
+"lastName": "Chien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -487,7 +509,8 @@
 192,
 190,
 190,
-186
+186,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,7 +685,8 @@
 180,
 179,
 177,
-172
+172,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -846,7 +870,8 @@
 171,
 169,
 167,
-164
+164,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1021,7 +1046,8 @@
 166,
 162,
 160,
-161
+161,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1196,7 +1222,8 @@
 162,
 159,
 158,
-161
+161,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1241,9 +1268,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1694100800
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -1388,7 +1420,8 @@
 193,
 192,
 189,
-185
+185,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1563,7 +1596,8 @@
 104,
 115,
 117,
-131
+131,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1731,7 +1765,8 @@
 1693758966,
 1693850155,
 1693937393,
-1694019972
+1694019972,
+1694100800
 ],
 "title": "Multivariable Calculus"
 }
