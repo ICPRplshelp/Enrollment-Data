@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 70,
 "time": 1690911423
+},
+{
+"newCapacity": 0,
+"time": 1694195260
 }
 ],
 "initialCap": 75
@@ -159,7 +163,8 @@
 34,
 35,
 38,
-37
+37,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -181,7 +186,7 @@
 "lastName": "Vallieres"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -329,7 +334,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "America in the 1960s"
 }

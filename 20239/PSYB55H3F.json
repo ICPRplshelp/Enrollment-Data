@@ -151,7 +151,8 @@
 255,
 257,
 251,
-254
+254,
+248
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -179,12 +180,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 260,
+"enrollmentCap": 290,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 260,
 "time": 1687561168
+},
+{
+"newCapacity": 290,
+"time": 1694195260
 }
 ],
 "initialCap": 200
@@ -330,6 +335,7 @@
 277,
 279,
 279,
+282,
 282
 ],
 "instructorLog": {
@@ -497,7 +503,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Introduction to Cognitive Neuroscience"
 }

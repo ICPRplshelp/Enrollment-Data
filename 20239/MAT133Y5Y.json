@@ -151,13 +151,29 @@
 122,
 125,
 128,
-130
+130,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
+"timing": 1694195260
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -315,13 +331,29 @@
 160,
 159,
 161,
+161,
 161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
+"timing": 1694195260
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -479,7 +511,8 @@
 160,
 161,
 162,
-162
+162,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -653,6 +686,7 @@
 155,
 154,
 152,
+150,
 150
 ],
 "instructorLog": {
@@ -820,7 +854,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

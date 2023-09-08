@@ -154,7 +154,8 @@
 180,
 186,
 189,
-194
+194,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -331,13 +332,29 @@
 198,
 197,
 200,
-200
+200,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnab",
+"lastName": "Kundu"
+}
+],
+"timing": 1694195260
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arnab",
+"lastName": "Kundu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -486,7 +503,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Introduction to Combinatorics"
 }

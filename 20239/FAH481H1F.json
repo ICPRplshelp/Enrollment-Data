@@ -154,13 +154,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
+"timing": 1694195260
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -309,7 +325,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Internship (formerly FAH455H1)"
 }

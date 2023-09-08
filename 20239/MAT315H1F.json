@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 143,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 143,
+"time": 1694195260
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -153,6 +158,7 @@
 161,
 162,
 160,
+161,
 161,
 161
 ],
@@ -324,7 +330,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Introduction to Number Theory"
 }

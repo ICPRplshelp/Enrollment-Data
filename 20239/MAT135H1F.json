@@ -159,7 +159,8 @@
 458,
 453,
 467,
-468
+468,
+467
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -336,7 +337,8 @@
 451,
 450,
 449,
-448
+448,
+451
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -513,13 +515,29 @@
 201,
 200,
 199,
-199
+199,
+201
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erik",
+"lastName": "Holmes"
+}
+],
+"timing": 1694195260
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erik",
+"lastName": "Holmes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -675,7 +693,8 @@
 195,
 195,
 193,
-195
+195,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -852,6 +871,7 @@
 192,
 193,
 190,
+188,
 188
 ],
 "instructorLog": {
@@ -1038,6 +1058,7 @@
 227,
 224,
 221,
+220,
 220
 ],
 "instructorLog": {
@@ -1215,7 +1236,8 @@
 196,
 196,
 195,
-193
+193,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1391,6 +1413,7 @@
 188,
 188,
 189,
+188,
 188,
 188
 ],
@@ -1569,7 +1592,8 @@
 230,
 231,
 229,
-226
+226,
+229
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1755,7 +1779,8 @@
 157,
 158,
 155,
-154
+154,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1932,7 +1957,8 @@
 155,
 155,
 153,
-155
+155,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2108,6 +2134,7 @@
 198,
 197,
 196,
+195,
 195,
 195
 ],
@@ -2286,7 +2313,8 @@
 193,
 199,
 183,
-176
+176,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2456,7 +2484,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Calculus I"
 }

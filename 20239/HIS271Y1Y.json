@@ -159,6 +159,7 @@
 70,
 69,
 70,
+71,
 71
 ],
 "instructorLog": {
@@ -172,13 +173,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Bayer"
+}
+],
+"timing": 1694195260
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Matthieu",
-"lastName": "Vallieres"
+"firstName": "Jonathan",
+"lastName": "Bayer"
 }
 ],
 "isCancelled": false,
@@ -329,7 +339,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "American History Since 1607"
 }

@@ -154,7 +154,8 @@
 44,
 45,
 46,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,10 +218,6 @@
 },
 "instructors": [
 {
-"firstName": "William",
-"lastName": "Trischuk"
-},
-{
 "firstName": "Boris",
 "lastName": "Braverman"
 },
@@ -239,6 +236,10 @@
 {
 "firstName": "Peter",
 "lastName": "Krieger"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
 }
 ],
 "isCancelled": false,
@@ -389,7 +390,8 @@
 1693937393,
 1694019972,
 1694100800,
-1694137428
+1694137428,
+1694195260
 ],
 "title": "Advanced Physics Laboratory"
 }
