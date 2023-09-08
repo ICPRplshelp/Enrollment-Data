@@ -153,13 +153,29 @@
 25,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -307,7 +323,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Research and Writing in Digital Humanities"
 }

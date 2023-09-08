@@ -150,13 +150,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zachary",
+"lastName": "Currie"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zachary",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -301,7 +317,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Forensic Analytical Toxicology"
 }

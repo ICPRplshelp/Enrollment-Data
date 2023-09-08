@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1694137428
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -144,6 +149,7 @@
 76,
 76,
 76,
+75,
 75,
 75,
 75,
@@ -323,7 +329,8 @@
 49,
 49,
 48,
-47
+47,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -496,7 +503,8 @@
 70,
 69,
 70,
-70
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,7 +670,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

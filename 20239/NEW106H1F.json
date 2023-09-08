@@ -153,13 +153,29 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Whissell"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paul",
+"lastName": "Whissell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -307,7 +323,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Science, Health and Social Justice"
 }

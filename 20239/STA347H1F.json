@@ -153,6 +153,7 @@
 119,
 117,
 117,
+113,
 113
 ],
 "instructorLog": {
@@ -329,7 +330,8 @@
 82,
 86,
 83,
-84
+84,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,13 +507,29 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zhou",
+"lastName": "Zhou"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zhou",
+"lastName": "Zhou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -659,7 +677,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Probability"
 }

@@ -153,13 +153,45 @@
 0,
 0,
 0,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rohan Peter",
+"lastName": "Alexander"
 },
-"instructors": [],
+{
+"firstName": "Xin",
+"lastName": "Bing"
+},
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
+}
+],
+"timing": 1694137428
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rohan Peter",
+"lastName": "Alexander"
+},
+{
+"firstName": "Xin",
+"lastName": "Bing"
+},
+{
+"firstName": "Samantha-Jo",
+"lastName": "Caetano"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -307,7 +339,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Readings in Statistics"
 }

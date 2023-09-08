@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 184,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1694137428
+}
+],
 "initialCap": 184
 },
 "enrollmentLogs": [
@@ -150,7 +155,8 @@
 132,
 133,
 138,
-139
+139,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -316,7 +322,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Imaging Technologies for Scientific Visual Communication"
 }

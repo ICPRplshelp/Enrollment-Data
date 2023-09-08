@@ -19,13 +19,45 @@
 1,
 1,
 1,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Taback"
 },
-"instructors": [],
+{
+"firstName": "Clement",
+"lastName": "Ma"
+},
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+}
+],
+"timing": 1694137428
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathan",
+"lastName": "Taback"
+},
+{
+"firstName": "Clement",
+"lastName": "Ma"
+},
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -39,7 +71,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Readings in Statistics"
 }

@@ -153,13 +153,29 @@
 51,
 51,
 51,
-52
+52,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -314,13 +330,29 @@
 54,
 54,
 53,
-53
+53,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
+"timing": 1694137428
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heidi",
+"lastName": "Craig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -468,7 +500,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Virtual Worlds: Introduction to Spatial Digital Humanities"
 }

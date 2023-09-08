@@ -167,7 +167,8 @@
 165,
 165,
 164,
-164
+164,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,6 +353,7 @@
 150,
 150,
 150,
+149,
 149,
 149
 ],
@@ -562,6 +564,7 @@
 124,
 124,
 124,
+124,
 124
 ],
 "instructorLog": {
@@ -584,13 +587,22 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
+}
+],
+"timing": 1694137428
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sadiyya",
-"lastName": "Parnell-Hendrickson"
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
 }
 ],
 "isCancelled": false,
@@ -753,6 +765,7 @@
 160,
 160,
 161,
+162,
 162
 ],
 "instructorLog": {
@@ -934,6 +947,7 @@
 133,
 133,
 132,
+130,
 130,
 130
 ],
@@ -1134,6 +1148,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -1320,6 +1335,7 @@
 136,
 131,
 132,
+132,
 132
 ],
 "instructorLog": {
@@ -1333,13 +1349,22 @@
 }
 ],
 "timing": 1689866098
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sadiyya",
+"lastName": "Parnell-Hendrickson"
+}
+],
+"timing": 1694137428
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jose",
-"lastName": "Palacios Armesto"
+"firstName": "Sadiyya",
+"lastName": "Parnell-Hendrickson"
 }
 ],
 "isCancelled": false,
@@ -1514,6 +1539,7 @@
 128,
 133,
 130,
+130,
 130
 ],
 "instructorLog": {
@@ -1680,7 +1706,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Calculus I"
 }

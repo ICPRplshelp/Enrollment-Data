@@ -150,7 +150,8 @@
 123,
 123,
 123,
-123
+123,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,13 +164,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ben",
+"lastName": "Liang"
+}
+],
+"timing": 1694137428
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ashish",
-"lastName": "Khisti"
+"firstName": "Ben",
+"lastName": "Liang"
 }
 ],
 "isCancelled": false,
@@ -323,7 +333,8 @@
 120,
 122,
 122,
-120
+120,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -336,13 +347,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ben",
+"lastName": "Liang"
+}
+],
+"timing": 1694137428
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ashish",
-"lastName": "Khisti"
+"firstName": "Ben",
+"lastName": "Liang"
 }
 ],
 "isCancelled": false,
@@ -489,7 +509,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Introduction to Machine Learning"
 }

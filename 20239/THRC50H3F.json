@@ -150,6 +150,7 @@
 22,
 21,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -172,6 +173,19 @@
 }
 ],
 "timing": 1691614238
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Desiree",
+"lastName": "deChamplain-Leverenz"
+},
+{
+"firstName": "Munia Debleena",
+"lastName": "Tripathi"
+}
+],
+"timing": 1694137428
 }
 ]
 },
@@ -179,6 +193,10 @@
 {
 "firstName": "Desiree",
 "lastName": "deChamplain-Leverenz"
+},
+{
+"firstName": "Munia Debleena",
+"lastName": "Tripathi"
 }
 ],
 "isCancelled": false,
@@ -325,7 +343,8 @@
 1693850155,
 1693937393,
 1694019972,
-1694100800
+1694100800,
+1694137428
 ],
 "title": "Advanced Workshop: Performance"
 }
