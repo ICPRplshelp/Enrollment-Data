@@ -157,13 +157,29 @@
 249,
 253,
 256,
-256
+256,
+257
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Nicola"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Nicola"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -310,7 +326,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Introduction to Philosophy: Knowledge and Reality"
 }

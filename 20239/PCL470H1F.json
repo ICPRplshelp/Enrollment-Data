@@ -155,6 +155,7 @@
 95,
 95,
 95,
+95,
 95
 ],
 "instructorLog": {
@@ -181,6 +182,43 @@
 }
 ],
 "timing": 1689957270
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Martin",
+"lastName": "Beaulieu"
+},
+{
+"firstName": "Gurnit",
+"lastName": "Kaur"
+},
+{
+"firstName": "J. Peter",
+"lastName": "McPherson"
+},
+{
+"firstName": "Amy",
+"lastName": "Ramsey"
+},
+{
+"firstName": "Ali",
+"lastName": "Salahpour"
+},
+{
+"firstName": "Ruth Alexandra",
+"lastName": "Ross"
+},
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
+},
+{
+"firstName": "Mounira",
+"lastName": "Banasr"
+}
+],
+"timing": 1694304157
 }
 ]
 },
@@ -192,6 +230,30 @@
 {
 "firstName": "Gurnit",
 "lastName": "Kaur"
+},
+{
+"firstName": "J. Peter",
+"lastName": "McPherson"
+},
+{
+"firstName": "Amy",
+"lastName": "Ramsey"
+},
+{
+"firstName": "Ali",
+"lastName": "Salahpour"
+},
+{
+"firstName": "Ruth Alexandra",
+"lastName": "Ross"
+},
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
+},
+{
+"firstName": "Mounira",
+"lastName": "Banasr"
 }
 ],
 "isCancelled": false,
@@ -343,7 +405,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Systems Pharmacology II"
 }

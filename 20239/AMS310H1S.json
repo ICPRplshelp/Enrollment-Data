@@ -1,0 +1,46 @@
+{
+"code": "AMS310H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1694304157,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rick",
+"lastName": "Halpern"
+}
+],
+"timing": 1694304157
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rick",
+"lastName": "Halpern"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1694304156,
+1694304157
+],
+"title": "Approaches to American Studies"
+}

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 66,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 65,
 "time": 1693623554
+},
+{
+"newCapacity": 66,
+"time": 1694304157
 }
 ],
 "initialCap": 60
@@ -157,7 +161,8 @@
 66,
 66,
 66,
-67
+67,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,7 +330,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Principles of Analytical Instrumentation"
 }

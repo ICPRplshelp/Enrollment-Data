@@ -157,6 +157,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -191,6 +192,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -492,6 +494,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -511,6 +514,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -812,6 +816,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -987,13 +992,37 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracey",
+"lastName": "Bowen"
 },
-"instructors": [],
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
+"timing": 1694304157
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tracey",
+"lastName": "Bowen"
+},
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -1092,6 +1121,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -1315,7 +1345,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Research Opportunity Program (ROP)"
 }

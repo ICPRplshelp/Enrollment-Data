@@ -155,6 +155,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -168,6 +169,35 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "J. Peter",
+"lastName": "McPherson"
+},
+{
+"firstName": "Prateek",
+"lastName": "Lala"
+},
+{
+"firstName": "Ali",
+"lastName": "Salahpour"
+},
+{
+"firstName": "Neil",
+"lastName": "Shear"
+},
+{
+"firstName": "Rachel",
+"lastName": "Tyndale"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+}
+],
+"timing": 1694304157
 }
 ]
 },
@@ -175,6 +205,26 @@
 {
 "firstName": "J. Peter",
 "lastName": "McPherson"
+},
+{
+"firstName": "Prateek",
+"lastName": "Lala"
+},
+{
+"firstName": "Ali",
+"lastName": "Salahpour"
+},
+{
+"firstName": "Neil",
+"lastName": "Shear"
+},
+{
+"firstName": "Rachel",
+"lastName": "Tyndale"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
 }
 ],
 "isCancelled": false,
@@ -326,7 +376,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Biomedical Toxicology"
 }

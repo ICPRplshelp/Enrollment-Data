@@ -160,6 +160,7 @@
 41,
 41,
 43,
+41,
 41
 ],
 "instructorLog": {
@@ -173,6 +174,27 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Wells"
+},
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+},
+{
+"firstName": "Grazyna",
+"lastName": "Kalabis"
+},
+{
+"firstName": "Jack",
+"lastName": "Uetrecht"
+}
+],
+"timing": 1694304157
 }
 ]
 },
@@ -180,6 +202,18 @@
 {
 "firstName": "Peter",
 "lastName": "Wells"
+},
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+},
+{
+"firstName": "Grazyna",
+"lastName": "Kalabis"
+},
+{
+"firstName": "Jack",
+"lastName": "Uetrecht"
 }
 ],
 "isCancelled": false,
@@ -331,7 +365,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Introductory Toxicology"
 }

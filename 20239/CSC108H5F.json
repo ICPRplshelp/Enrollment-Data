@@ -157,7 +157,8 @@
 180,
 180,
 181,
-180
+180,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -336,6 +337,7 @@
 181,
 181,
 180,
+181,
 181,
 181
 ],
@@ -517,7 +519,8 @@
 185,
 184,
 184,
-185
+185,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -697,7 +700,8 @@
 183,
 182,
 182,
-183
+183,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -877,7 +881,8 @@
 194,
 192,
 192,
-192
+192,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1057,7 +1062,8 @@
 183,
 183,
 185,
-186
+186,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1237,13 +1243,29 @@
 163,
 166,
 170,
-172
+172,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -1256,6 +1278,7 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1550,7 +1573,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Introduction to Computer Programming"
 }

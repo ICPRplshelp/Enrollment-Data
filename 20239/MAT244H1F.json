@@ -160,7 +160,8 @@
 238,
 240,
 235,
-228
+228,
+226
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -343,7 +344,8 @@
 226,
 226,
 225,
-224
+224,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -521,7 +523,8 @@
 129,
 135,
 139,
-152
+152,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -699,13 +702,29 @@
 200,
 194,
 196,
-195
+195,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Renato",
+"lastName": "Velozo Ruiz"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Renato",
+"lastName": "Velozo Ruiz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -855,7 +874,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

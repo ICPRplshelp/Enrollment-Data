@@ -155,6 +155,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -168,6 +169,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+},
+{
+"firstName": "Alisa",
+"lastName": "Ugodnikov"
+}
+],
+"timing": 1694304157
 }
 ]
 },
@@ -175,6 +189,10 @@
 {
 "firstName": "Rebecca",
 "lastName": "Laposa"
+},
+{
+"firstName": "Alisa",
+"lastName": "Ugodnikov"
 }
 ],
 "isCancelled": false,
@@ -326,7 +344,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Biomedical Incubator Capstone Project"
 }

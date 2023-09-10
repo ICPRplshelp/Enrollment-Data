@@ -152,7 +152,8 @@
 157,
 165,
 136,
-131
+131,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,7 +336,8 @@
 153,
 156,
 138,
-132
+132,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -518,7 +520,8 @@
 154,
 157,
 140,
-139
+139,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -693,13 +696,29 @@
 0,
 0,
 30,
-44
+44,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Zammit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -846,7 +865,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

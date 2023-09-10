@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1694304157
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -155,7 +160,8 @@
 43,
 43,
 42,
-41
+41,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -326,7 +332,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Mathematical Foundations of Quantum Mechanics and Quantum Information Theory"
 }

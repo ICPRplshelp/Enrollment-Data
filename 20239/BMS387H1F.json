@@ -160,13 +160,29 @@
 92,
 92,
 92,
+92,
 92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeff",
+"lastName": "Heydon"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeff",
+"lastName": "Heydon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -316,7 +332,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Advertising and Media"
 }

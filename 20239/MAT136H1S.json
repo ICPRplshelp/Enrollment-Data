@@ -155,7 +155,8 @@
 430,
 432,
 432,
-429
+429,
+427
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -333,6 +334,7 @@
 369,
 371,
 368,
+367,
 367
 ],
 "instructorLog": {
@@ -496,6 +498,7 @@
 356,
 350,
 348,
+347,
 347
 ],
 "instructorLog": {
@@ -674,7 +677,8 @@
 341,
 345,
 345,
-345
+345,
+344
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -852,7 +856,8 @@
 357,
 354,
 354,
-356
+356,
+355
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1030,13 +1035,29 @@
 323,
 322,
 323,
-325
+325,
+324
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Renato",
+"lastName": "Velozo Ruiz"
+}
+],
+"timing": 1694304157
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Renato",
+"lastName": "Velozo Ruiz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0502"
 },
@@ -1193,6 +1214,7 @@
 346,
 343,
 343,
+345,
 345
 ],
 "instructorLog": {
@@ -1371,7 +1393,8 @@
 320,
 318,
 316,
-317
+317,
+318
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1549,7 +1572,8 @@
 361,
 365,
 364,
-365
+365,
+364
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1745,6 +1769,7 @@
 287,
 286,
 288,
+290,
 290
 ],
 "instructorLog": {
@@ -1925,7 +1950,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Calculus II"
 }

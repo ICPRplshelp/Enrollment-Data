@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 56,
 "time": 1692036340
+},
+{
+"newCapacity": 75,
+"time": 1694304157
 }
 ],
 "initialCap": 50
@@ -157,6 +161,7 @@
 71,
 70,
 70,
+69,
 69,
 69,
 69,
@@ -331,7 +336,8 @@
 1694019972,
 1694100800,
 1694137428,
-1694195260
+1694195260,
+1694304157
 ],
 "title": "Strategic Marketing Communication"
 }
