@@ -154,6 +154,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -331,13 +332,29 @@
 34,
 34,
 34,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Marin"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Marin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -486,7 +503,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Essentials of Accounting: Financial & Managerial"
 }

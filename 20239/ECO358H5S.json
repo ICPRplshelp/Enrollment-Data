@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 95,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 95,
 "time": 1692247612
+},
+{
+"newCapacity": 105,
+"time": 1694467025
 }
 ],
 "initialCap": 80
@@ -157,6 +161,7 @@
 103,
 101,
 102,
+93,
 93,
 93,
 93
@@ -329,7 +334,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Financial Economics I"
 }

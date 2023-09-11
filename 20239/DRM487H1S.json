@@ -41,13 +41,29 @@
 11,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olivia",
+"lastName": "Shortt"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Olivia",
+"lastName": "Shortt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -83,7 +99,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Senior Seminar in Drama, Theatre and Performance Studies"
 }

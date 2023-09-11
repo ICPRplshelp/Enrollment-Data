@@ -154,7 +154,8 @@
 33,
 33,
 33,
-33
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -167,6 +168,19 @@
 }
 ],
 "timing": 1691785160
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+},
+{
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
+}
+],
+"timing": 1694467025
 }
 ]
 },
@@ -174,6 +188,10 @@
 {
 "firstName": "Jessica",
 "lastName": "Elkaim"
+},
+{
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
 }
 ],
 "isCancelled": false,
@@ -331,7 +349,8 @@
 29,
 29,
 29,
-29
+29,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -508,6 +527,7 @@
 35,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -521,13 +541,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
+}
+],
+"timing": 1694467025
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Mitchell",
-"lastName": "Johnston"
+"firstName": "Alexander",
+"lastName": "Sarra-Davis"
 }
 ],
 "isCancelled": false,
@@ -683,6 +712,7 @@
 37,
 38,
 37,
+38,
 38,
 38,
 38
@@ -862,7 +892,8 @@
 29,
 28,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1032,7 +1063,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Critical Writing About Literature"
 }

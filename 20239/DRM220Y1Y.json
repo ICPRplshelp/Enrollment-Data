@@ -157,7 +157,8 @@
 67,
 66,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,6 +171,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Xing",
+"lastName": "Fan"
+},
+{
+"firstName": "Izuu",
+"lastName": "Nwankwo"
+}
+],
+"timing": 1694467025
 }
 ]
 },
@@ -177,6 +191,10 @@
 {
 "firstName": "Xing",
 "lastName": "Fan"
+},
+{
+"firstName": "Izuu",
+"lastName": "Nwankwo"
 }
 ],
 "isCancelled": false,
@@ -330,7 +348,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Comparative Theatre Histories"
 }

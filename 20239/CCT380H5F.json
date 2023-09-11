@@ -154,7 +154,8 @@
 66,
 67,
 67,
-67
+67,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -331,13 +332,29 @@
 61,
 61,
 61,
-61
+61,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zohaib",
+"lastName": "Aftab"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zohaib",
+"lastName": "Aftab"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -486,7 +503,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Human-Computer Interaction and Communication"
 }

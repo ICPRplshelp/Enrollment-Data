@@ -157,13 +157,29 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Izuu",
+"lastName": "Nwankwo"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Izuu",
+"lastName": "Nwankwo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -315,7 +331,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Race, Gender and Performance"
 }

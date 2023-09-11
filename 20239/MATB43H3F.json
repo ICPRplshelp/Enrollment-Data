@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1694467025
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -154,7 +159,8 @@
 61,
 60,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -324,7 +330,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Introduction to Analysis"
 }

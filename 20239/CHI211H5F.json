@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1694467025
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -154,7 +159,8 @@
 40,
 41,
 41,
-41
+41,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -331,7 +337,8 @@
 38,
 38,
 39,
-39
+39,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -359,9 +366,14 @@
 {
 "createdAt": 1692247612,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1694467025
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -508,7 +520,8 @@
 36,
 38,
 38,
-38
+38,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -678,7 +691,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Chinese for Academic Purposes I"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 184,
+"enrollmentCap": 162,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 184,
 "time": 1690559854
+},
+{
+"newCapacity": 162,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -171,7 +175,8 @@
 163,
 163,
 162,
-162
+162,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +204,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 161,
+"enrollmentCap": 149,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -213,6 +218,10 @@
 {
 "newCapacity": 161,
 "time": 1689957270
+},
+{
+"newCapacity": 149,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -361,6 +370,7 @@
 149,
 149,
 149,
+149,
 149
 ],
 "instructorLog": {
@@ -416,7 +426,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 153,
+"enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -426,6 +436,10 @@
 {
 "newCapacity": 153,
 "time": 1689016776
+},
+{
+"newCapacity": 142,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -572,6 +586,7 @@
 124,
 124,
 124,
+123,
 123,
 123,
 123
@@ -778,6 +793,7 @@
 162,
 162,
 164,
+164,
 164
 ],
 "instructorLog": {
@@ -964,7 +980,8 @@
 130,
 130,
 129,
-129
+129,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1167,6 +1184,7 @@
 139,
 139,
 139,
+139,
 139
 ],
 "instructorLog": {
@@ -1195,7 +1213,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1209,6 +1227,10 @@
 {
 "newCapacity": 150,
 "time": 1689957270
+},
+{
+"newCapacity": 133,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -1357,7 +1379,8 @@
 132,
 132,
 132,
-132
+132,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1394,7 +1417,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 152,
+"enrollmentCap": 134,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1416,6 +1439,10 @@
 {
 "newCapacity": 152,
 "time": 1690316798
+},
+{
+"newCapacity": 134,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -1564,7 +1591,8 @@
 130,
 130,
 130,
-130
+130,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1734,7 +1762,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Calculus I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1694467025
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -157,7 +162,8 @@
 54,
 46,
 43,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -330,7 +336,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Media Ecology"
 }

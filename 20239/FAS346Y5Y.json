@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1694467025
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -148,6 +153,7 @@
 21,
 21,
 21,
+22,
 22,
 22,
 22,
@@ -324,7 +330,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Design III"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 184,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 184,
 "time": 1689888019
+},
+{
+"newCapacity": 161,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -167,6 +171,7 @@
 162,
 162,
 161,
+161,
 161
 ],
 "instructorLog": {
@@ -204,7 +209,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 161,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -218,6 +223,10 @@
 {
 "newCapacity": 161,
 "time": 1689957270
+},
+{
+"newCapacity": 133,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -360,6 +369,7 @@
 150,
 150,
 150,
+133,
 133,
 133,
 133,
@@ -556,7 +566,8 @@
 160,
 160,
 160,
-160
+160,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -738,6 +749,7 @@
 162,
 145,
 146,
+147,
 147,
 147,
 147,
@@ -941,7 +953,8 @@
 136,
 136,
 135,
-135
+135,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1135,6 +1148,7 @@
 134,
 134,
 135,
+135,
 135
 ],
 "instructorLog": {
@@ -1163,7 +1177,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1177,6 +1191,10 @@
 {
 "newCapacity": 150,
 "time": 1689957270
+},
+{
+"newCapacity": 142,
+"time": 1694467025
 }
 ],
 "initialCap": 133
@@ -1325,7 +1343,8 @@
 136,
 136,
 136,
-136
+136,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1523,6 +1542,7 @@
 133,
 133,
 134,
+134,
 134
 ],
 "instructorLog": {
@@ -1693,7 +1713,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Linear Algebra"
 }

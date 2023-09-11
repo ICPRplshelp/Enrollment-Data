@@ -157,13 +157,29 @@
 18,
 18,
 17,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catia",
+"lastName": "Dignard"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catia",
+"lastName": "Dignard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -315,7 +331,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Comparative Caribbean Literature"
 }

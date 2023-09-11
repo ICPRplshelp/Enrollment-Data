@@ -163,7 +163,8 @@
 428,
 428,
 428,
-428
+428,
+425
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -191,7 +192,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 425,
+"enrollmentCap": 354,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -201,6 +202,10 @@
 {
 "newCapacity": 425,
 "time": 1689012606
+},
+{
+"newCapacity": 354,
+"time": 1694467025
 }
 ],
 "initialCap": 406
@@ -349,7 +354,8 @@
 351,
 351,
 351,
-351
+351,
+352
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -377,7 +383,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 432,
+"enrollmentCap": 354,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -395,6 +401,10 @@
 {
 "newCapacity": 432,
 "time": 1690316798
+},
+{
+"newCapacity": 354,
+"time": 1694467025
 }
 ],
 "initialCap": 406
@@ -543,7 +553,8 @@
 354,
 354,
 354,
-354
+354,
+353
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -595,6 +606,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -908,7 +920,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Eng. Chemistry & Material Science"
 }

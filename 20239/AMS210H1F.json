@@ -157,7 +157,8 @@
 8,
 8,
 8,
-8
+8,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,13 +171,22 @@
 }
 ],
 "timing": 1689195878
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Catia",
+"lastName": "Dignard"
+}
+],
+"timing": 1694467025
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Conrad",
-"lastName": "James"
+"firstName": "Catia",
+"lastName": "Dignard"
 }
 ],
 "isCancelled": false,
@@ -330,7 +340,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Concepts in American Studies"
 }

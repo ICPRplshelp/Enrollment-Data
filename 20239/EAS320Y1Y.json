@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 27,
+"time": 1694467025
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -152,6 +157,7 @@
 27,
 28,
 28,
+27,
 27,
 27,
 27,
@@ -330,7 +336,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Modern Standard Japanese III"
 }

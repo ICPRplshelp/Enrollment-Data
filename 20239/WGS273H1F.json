@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1694467025
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -157,7 +162,8 @@
 126,
 121,
 120,
-120
+120,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -330,7 +336,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Gender & Environmental (In)Justice"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1694467025
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -157,7 +162,8 @@
 12,
 12,
 12,
-12
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -315,7 +321,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Caribbean Religions"
 }

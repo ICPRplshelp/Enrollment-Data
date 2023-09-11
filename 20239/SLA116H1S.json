@@ -157,13 +157,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Irena",
+"lastName": "Chawrilska"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Irena",
+"lastName": "Chawrilska"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -315,7 +331,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Polish for Beginners II"
 }

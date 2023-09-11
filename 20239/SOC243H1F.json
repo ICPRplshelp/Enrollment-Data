@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1694467025
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -156,6 +161,7 @@
 40,
 40,
 38,
+37,
 37,
 37
 ],
@@ -330,7 +336,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Sociology of Health and Illness (formerly 242Y1)"
 }

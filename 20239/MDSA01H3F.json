@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 500,
+"enrollmentCap": 540,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 540,
+"time": 1694467025
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -154,7 +159,8 @@
 541,
 540,
 543,
-543
+543,
+541
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -182,12 +188,16 @@
 {
 "createdAt": 1689265858,
 "delivery": "ASYNC",
-"enrollmentCap": 400,
+"enrollmentCap": 440,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 400,
 "time": 1690991837
+},
+{
+"newCapacity": 440,
+"time": 1694467025
 }
 ],
 "initialCap": 200
@@ -336,7 +346,8 @@
 439,
 437,
 439,
-439
+439,
+421
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -506,7 +517,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Introduction to Media Studies"
 }

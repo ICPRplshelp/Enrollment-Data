@@ -154,7 +154,8 @@
 6,
 5,
 5,
-5
+5,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -167,13 +168,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Lee"
+}
+],
+"timing": 1694467025
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Andrew",
-"lastName": "LEE (NOUTORID)"
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -324,7 +334,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Advanced Seminar in Philosophy of Mind"
 }

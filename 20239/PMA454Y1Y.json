@@ -154,6 +154,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -380,6 +381,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -435,10 +437,6 @@
 },
 "instructors": [
 {
-"firstName": "Emily",
-"lastName": "Chiang"
-},
-{
 "firstName": "Steven",
 "lastName": "Philcox"
 },
@@ -449,6 +447,10 @@
 {
 "firstName": "Megan",
 "lastName": "Chang"
+},
+{
+"firstName": "Emily",
+"lastName": "Chiang"
 }
 ],
 "isCancelled": false,
@@ -599,7 +601,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Piano-inst Master Cl"
 }

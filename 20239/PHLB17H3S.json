@@ -33,13 +33,29 @@
 18,
 18,
 18,
-18
+18,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avia",
+"lastName": "Pasternak"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Avia",
+"lastName": "Pasternak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -67,7 +83,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Introduction to Political Philosophy"
 }

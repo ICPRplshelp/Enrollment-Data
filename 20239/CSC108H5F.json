@@ -159,6 +159,7 @@
 181,
 180,
 182,
+182,
 182
 ],
 "instructorLog": {
@@ -338,6 +339,7 @@
 181,
 181,
 180,
+181,
 181,
 181,
 181,
@@ -523,7 +525,8 @@
 184,
 185,
 186,
-186
+186,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -704,6 +707,7 @@
 182,
 182,
 183,
+184,
 184,
 184
 ],
@@ -887,7 +891,8 @@
 192,
 192,
 193,
-193
+193,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1069,7 +1074,8 @@
 185,
 186,
 188,
-188
+188,
+181
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1097,12 +1103,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 170,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 170,
 "time": 1692247612
+},
+{
+"newCapacity": 180,
+"time": 1694467025
 }
 ],
 "initialCap": 160
@@ -1251,7 +1261,8 @@
 170,
 172,
 175,
-175
+175,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1285,6 +1296,7 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1583,7 +1595,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Introduction to Computer Programming"
 }

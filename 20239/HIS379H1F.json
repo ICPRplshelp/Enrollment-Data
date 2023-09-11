@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 114,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 114,
 "time": 1694304157
+},
+{
+"newCapacity": 120,
+"time": 1694467025
 }
 ],
 "initialCap": 100
@@ -162,7 +166,8 @@
 107,
 113,
 113,
-113
+113,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,7 +340,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Vietnam at War"
 }

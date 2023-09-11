@@ -157,13 +157,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jose Pedro",
+"lastName": "Abreu Ferreira"
+}
+],
+"timing": 1694467025
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jose Pedro",
+"lastName": "Abreu Ferreira"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -315,7 +331,8 @@
 1694137428,
 1694195260,
 1694304157,
-1694371112
+1694371112,
+1694467025
 ],
 "title": "Advanced Academic Portuguese"
 }
