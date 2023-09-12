@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 83,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 83,
+"time": 1694540246
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -155,6 +160,7 @@
 84,
 84,
 84,
+83,
 83
 ],
 "instructorLog": {
@@ -326,7 +332,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Principles in Game Design"
 }

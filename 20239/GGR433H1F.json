@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1694540246
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -158,7 +163,8 @@
 42,
 42,
 42,
-42
+42,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -332,7 +338,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Built Environment and Health"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 147,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 147,
 "time": 1694304157
+},
+{
+"newCapacity": 150,
+"time": 1694540246
 }
 ],
 "initialCap": 150
@@ -167,7 +171,8 @@
 154,
 155,
 155,
-151
+151,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -357,7 +362,8 @@
 146,
 145,
 145,
-148
+148,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -547,6 +553,7 @@
 158,
 157,
 157,
+155,
 155
 ],
 "instructorLog": {
@@ -737,7 +744,8 @@
 147,
 146,
 146,
-148
+148,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -927,7 +935,8 @@
 125,
 125,
 125,
-123
+123,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1101,7 +1110,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Introduction to the Theory of Computation"
 }

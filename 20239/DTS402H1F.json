@@ -158,13 +158,29 @@
 9,
 9,
 9,
-9
+9,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anita",
+"lastName": "Norich"
+}
+],
+"timing": 1694540246
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anita",
+"lastName": "Norich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -317,7 +333,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Advanced Topics in Diaspora and Transnationalism"
 }

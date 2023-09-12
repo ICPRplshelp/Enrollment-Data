@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pascal",
+"lastName": "Michelucci"
+}
+],
+"timing": 1694540246
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pascal",
+"lastName": "Michelucci"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -33,7 +49,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Independent Study"
 }

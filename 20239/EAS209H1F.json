@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 126,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 125,
 "time": 1692247612
+},
+{
+"newCapacity": 126,
+"time": 1694540246
 }
 ],
 "initialCap": 100
@@ -163,7 +167,8 @@
 125,
 124,
 124,
-124
+124,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,7 +342,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Approaches to East Asia"
 }

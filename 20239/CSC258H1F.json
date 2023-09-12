@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 149,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 149,
 "time": 1694304157
+},
+{
+"newCapacity": 150,
+"time": 1694540246
 }
 ],
 "initialCap": 150
@@ -167,7 +171,8 @@
 179,
 178,
 178,
-176
+176,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -357,7 +362,8 @@
 180,
 179,
 179,
-178
+178,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -531,7 +537,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Computer Organization"
 }

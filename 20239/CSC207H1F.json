@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 149,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 149,
 "time": 1694304157
+},
+{
+"newCapacity": 150,
+"time": 1694540246
 }
 ],
 "initialCap": 150
@@ -167,7 +171,8 @@
 152,
 150,
 150,
-149
+149,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -357,7 +362,8 @@
 156,
 155,
 155,
-152
+152,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -556,7 +562,8 @@
 153,
 152,
 152,
-152
+152,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -743,6 +750,7 @@
 151,
 151,
 151,
+150,
 150,
 150,
 150,
@@ -936,7 +944,8 @@
 146,
 145,
 145,
-150
+150,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1135,7 +1144,8 @@
 142,
 143,
 143,
-137
+137,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1309,7 +1319,8 @@
 1694195260,
 1694304157,
 1694371112,
-1694467025
+1694467025,
+1694540246
 ],
 "title": "Software Design"
 }
