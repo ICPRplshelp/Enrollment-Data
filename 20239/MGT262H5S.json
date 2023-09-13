@@ -156,7 +156,8 @@
 47,
 47,
 52,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -320,7 +321,8 @@
 62,
 62,
 58,
-56
+56,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -484,7 +486,8 @@
 26,
 26,
 27,
-29
+29,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,12 +500,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1694647274
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -655,7 +664,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0104"
 }
 ],
@@ -805,7 +814,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Psychology at Work"
 }

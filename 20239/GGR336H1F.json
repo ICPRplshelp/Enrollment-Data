@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1694647274
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -159,7 +164,8 @@
 118,
 118,
 114,
-112
+112,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -334,7 +340,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Urban Historical Geography of North America"
 }

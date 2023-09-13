@@ -159,6 +159,7 @@
 200,
 200,
 198,
+197,
 197
 ],
 "instructorLog": {
@@ -187,12 +188,16 @@
 {
 "createdAt": 1689957270,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 124,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 120,
 "time": 1693417997
+},
+{
+"newCapacity": 124,
+"time": 1694647274
 }
 ],
 "initialCap": 86
@@ -346,7 +351,8 @@
 120,
 120,
 122,
-121
+121,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -521,7 +527,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Introduction to Quantum Physics"
 }

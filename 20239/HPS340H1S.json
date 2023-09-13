@@ -164,13 +164,29 @@
 81,
 81,
 81,
+82,
 82
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessie",
+"lastName": "Hall"
+}
+],
+"timing": 1694647274
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessie",
+"lastName": "Hall"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -324,7 +340,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "The Limits of Machine Intelligence"
 }

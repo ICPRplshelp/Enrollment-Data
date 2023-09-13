@@ -1,0 +1,46 @@
+{
+"code": "ENV497H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1694647274,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tenley",
+"lastName": "Conway"
+}
+],
+"timing": 1694647274
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tenley",
+"lastName": "Conway"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1694647273,
+1694647274
+],
+"title": "Environmental Research Project"
+}

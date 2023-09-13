@@ -165,7 +165,8 @@
 305,
 305,
 305,
-304
+304,
+282
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -193,9 +194,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 65,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 104,
+"time": 1694647274
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -344,7 +350,8 @@
 90,
 90,
 90,
-90
+90,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -516,7 +523,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Introduction to Arts and Media Management"
 }

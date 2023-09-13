@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -156,7 +161,8 @@
 44,
 44,
 43,
-43
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -169,9 +175,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -320,7 +331,8 @@
 45,
 45,
 45,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -333,9 +345,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -484,7 +501,8 @@
 45,
 45,
 45,
-46
+46,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,9 +515,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -648,7 +671,8 @@
 42,
 42,
 41,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -676,9 +700,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -827,7 +856,8 @@
 43,
 43,
 43,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -999,7 +1029,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Management Skills"
 }

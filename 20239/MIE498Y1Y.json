@@ -156,7 +156,8 @@
 20,
 20,
 20,
-20
+20,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -169,13 +170,22 @@
 }
 ],
 "timing": 1690443128
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yanna",
+"lastName": "Sventzouris"
+}
+],
+"timing": 1694647274
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Gayle Joanne",
-"lastName": "Lesmond"
+"firstName": "Yanna",
+"lastName": "Sventzouris"
 }
 ],
 "isCancelled": false,
@@ -328,7 +338,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Research Thesis"
 }

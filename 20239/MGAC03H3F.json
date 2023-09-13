@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1694647274
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -155,6 +160,7 @@
 41,
 41,
 41,
+42,
 42,
 42
 ],
@@ -328,7 +334,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Intermediate Management Accounting"
 }

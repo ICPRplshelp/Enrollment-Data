@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1691785160
+},
+{
+"newCapacity": 104,
+"time": 1694647274
 }
 ],
 "initialCap": 85
@@ -164,7 +168,8 @@
 107,
 107,
 104,
-106
+106,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -192,12 +197,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 14,
 "time": 1691785160
+},
+{
+"newCapacity": 11,
+"time": 1694647274
 }
 ],
 "initialCap": 7
@@ -351,7 +360,8 @@
 13,
 13,
 12,
-12
+12,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -526,7 +536,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Computational Physics"
 }

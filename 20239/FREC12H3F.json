@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1693360633
+},
+{
+"newCapacity": 17,
+"time": 1694647274
 }
 ],
 "initialCap": 15
@@ -161,6 +165,7 @@
 20,
 20,
 18,
+17,
 17
 ],
 "instructorLog": {
@@ -342,7 +347,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Semantics: The Study of Meaning"
 }

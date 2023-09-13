@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1694647274
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -163,7 +169,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -320,7 +326,8 @@
 143,
 143,
 139,
-142
+142,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -499,6 +506,7 @@
 144,
 144,
 151,
+150,
 150
 ],
 "instructorLog": {
@@ -671,7 +679,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Macroeconomic Theory and Policy"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1694647274
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -155,6 +160,7 @@
 62,
 61,
 61,
+62,
 62,
 62
 ],
@@ -184,9 +190,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1694647274
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -335,6 +346,7 @@
 61,
 61,
 62,
+63,
 63
 ],
 "instructorLog": {
@@ -507,7 +519,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "Operations Management"
 }

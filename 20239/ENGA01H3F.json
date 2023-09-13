@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1694647274
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -156,7 +161,8 @@
 328,
 328,
 325,
-324
+324,
+327
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -328,7 +334,8 @@
 1694304157,
 1694371112,
 1694467025,
-1694540246
+1694540246,
+1694647274
 ],
 "title": "What Is Literature?"
 }
