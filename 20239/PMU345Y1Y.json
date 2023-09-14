@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 17,
 "time": 1694647274
+},
+{
+"newCapacity": 18,
+"time": 1694710869
 }
 ],
 "initialCap": 15
@@ -162,7 +166,8 @@
 15,
 15,
 15,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,7 +340,8 @@
 1694371112,
 1694467025,
 1694540246,
-1694647274
+1694647274,
+1694710869
 ],
 "title": "Piano-Vocal Masterclass in Music Theatre, Jazz and Contemporary Commercial Music"
 }

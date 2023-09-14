@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1692226488
+},
+{
+"newCapacity": 50,
+"time": 1694710869
 }
 ],
 "initialCap": 35
@@ -162,7 +166,8 @@
 60,
 58,
 57,
-57
+57,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,7 +340,8 @@
 1694371112,
 1694467025,
 1694540246,
-1694647274
+1694647274,
+1694710869
 ],
 "title": "Topics in Ancient Greco-Roman Art"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 360,
+"enrollmentCap": 380,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 380,
+"time": 1694710869
+}
+],
 "initialCap": 360
 },
 "enrollmentLogs": [
@@ -160,7 +165,8 @@
 404,
 402,
 399,
-395
+395,
+398
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -344,7 +350,8 @@
 1694371112,
 1694467025,
 1694540246,
-1694647274
+1694647274,
+1694710869
 ],
 "title": "Eukaryotic Gene Expression"
 }

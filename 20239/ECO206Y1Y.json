@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 117,
+"time": 1694710869
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -160,7 +165,8 @@
 117,
 113,
 113,
-115
+115,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -343,7 +349,8 @@
 78,
 80,
 78,
-78
+78,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -519,7 +526,8 @@
 1694371112,
 1694467025,
 1694540246,
-1694647274
+1694647274,
+1694710869
 ],
 "title": "Microeconomic Theory"
 }
