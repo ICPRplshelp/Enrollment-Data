@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1694467025
+},
+{
+"newCapacity": 80,
+"time": 1694825202
 }
 ],
 "initialCap": 70
@@ -166,7 +170,8 @@
 72,
 73,
 74,
-77
+77,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -343,7 +348,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Special Topic in Women and Gender Studies"
 }

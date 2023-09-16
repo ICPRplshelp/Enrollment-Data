@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 42,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 42,
 "time": 1694100800
+},
+{
+"newCapacity": 48,
+"time": 1694825202
 }
 ],
 "initialCap": 40
@@ -166,6 +170,7 @@
 56,
 54,
 52,
+51,
 51
 ],
 "instructorLog": {
@@ -355,7 +360,8 @@
 53,
 53,
 53,
-52
+52,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -532,7 +538,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Business Design"
 }

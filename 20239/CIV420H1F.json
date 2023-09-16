@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1694825202
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -158,7 +163,8 @@
 63,
 62,
 63,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -332,7 +338,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Construction Engineering"
 }

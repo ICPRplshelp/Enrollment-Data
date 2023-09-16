@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 37,
+"time": 1694825202
+}
+],
 "initialCap": 34
 },
 "enrollmentLogs": [
@@ -161,6 +166,7 @@
 36,
 37,
 40,
+38,
 38
 ],
 "instructorLog": {
@@ -338,7 +344,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Asian Cultures in Canada"
 }

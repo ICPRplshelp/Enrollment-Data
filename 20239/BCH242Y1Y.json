@@ -161,7 +161,8 @@
 39,
 39,
 39,
-39
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,6 +179,23 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Craig",
+"lastName": "Smibert"
+},
+{
+"firstName": "Joel",
+"lastName": "Watts"
+},
+{
+"firstName": "Leanne",
+"lastName": "Wybenga-Groot"
+}
+],
+"timing": 1694825202
 }
 ]
 },
@@ -189,6 +207,10 @@
 {
 "firstName": "Joel",
 "lastName": "Watts"
+},
+{
+"firstName": "Leanne",
+"lastName": "Wybenga-Groot"
 }
 ],
 "isCancelled": false,
@@ -346,7 +368,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Introduction to Biochemistry"
 }

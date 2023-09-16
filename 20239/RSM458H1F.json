@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1692036340
+},
+{
+"newCapacity": 70,
+"time": 1694825202
 }
 ],
 "initialCap": 50
@@ -166,7 +170,8 @@
 58,
 59,
 59,
-59
+59,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -350,6 +355,7 @@
 47,
 47,
 49,
+50,
 50
 ],
 "instructorLog": {
@@ -527,7 +533,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Branding Strategy"
 }

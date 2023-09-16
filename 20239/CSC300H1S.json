@@ -170,7 +170,8 @@
 185,
 186,
 189,
-189
+189,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -363,13 +364,29 @@
 176,
 179,
 181,
-182
+182,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yasaman",
+"lastName": "Rohanifar"
+}
+],
+"timing": 1694825202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yasaman",
+"lastName": "Rohanifar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -525,7 +542,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Computers and Society"
 }

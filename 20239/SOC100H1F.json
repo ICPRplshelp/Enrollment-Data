@@ -161,7 +161,8 @@
 1024,
 1037,
 1048,
-1025
+1025,
+1031
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,7 +190,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 691,
+"enrollmentCap": 694,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -199,6 +200,10 @@
 {
 "newCapacity": 691,
 "time": 1694137428
+},
+{
+"newCapacity": 694,
+"time": 1694825202
 }
 ],
 "initialCap": 683
@@ -354,7 +359,8 @@
 694,
 694,
 695,
-685
+685,
+695
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -538,7 +544,8 @@
 18,
 18,
 18,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -722,6 +729,7 @@
 10,
 10,
 10,
+9,
 9
 ],
 "instructorLog": {
@@ -906,7 +914,8 @@
 3,
 5,
 5,
-5
+5,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1083,7 +1092,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Introduction to Sociology"
 }

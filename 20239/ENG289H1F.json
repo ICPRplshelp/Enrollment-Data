@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 144,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 144,
+"time": 1694825202
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -161,7 +166,8 @@
 158,
 159,
 154,
-151
+151,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -338,7 +344,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Introduction to Creative Writing"
 }

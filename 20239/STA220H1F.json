@@ -161,7 +161,8 @@
 208,
 210,
 218,
-214
+214,
+207
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,7 +346,8 @@
 208,
 203,
 216,
-212
+212,
+210
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -373,9 +375,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 210,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 230,
+"time": 1694825202
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -529,7 +536,8 @@
 240,
 240,
 239,
-223
+223,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -706,7 +714,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "The Practice of Statistics I"
 }

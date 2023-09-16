@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1693011094
+},
+{
+"newCapacity": 20,
+"time": 1694825202
 }
 ],
 "initialCap": 120
@@ -166,6 +170,7 @@
 17,
 17,
 17,
+16,
 16
 ],
 "instructorLog": {
@@ -343,7 +348,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Insights from Mathematics"
 }

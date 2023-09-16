@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 3,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 2,
+"time": 1694825202
+}
+],
 "initialCap": 3
 },
 "enrollmentLogs": [
@@ -161,6 +166,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -189,9 +195,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 21,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1694825202
+}
+],
 "initialCap": 21
 },
 "enrollmentLogs": [
@@ -345,6 +356,7 @@
 33,
 33,
 28,
+26,
 26
 ],
 "instructorLog": {
@@ -522,7 +534,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Regulatory Networks and Systems in Molecular Biology"
 }

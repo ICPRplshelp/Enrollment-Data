@@ -5,12 +5,16 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 120,
 "time": 1691182978
+},
+{
+"newCapacity": 129,
+"time": 1694825202
 }
 ],
 "initialCap": 100
@@ -148,7 +152,8 @@
 132,
 132,
 128,
-126
+126,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,7 +312,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "History of Urbanism"
 }

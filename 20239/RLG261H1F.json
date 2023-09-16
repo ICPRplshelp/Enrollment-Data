@@ -166,7 +166,8 @@
 17,
 17,
 17,
-19
+19,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -194,12 +195,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 33,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 33,
 "time": 1694540246
+},
+{
+"newCapacity": 37,
+"time": 1694825202
 }
 ],
 "initialCap": 25
@@ -355,7 +360,8 @@
 31,
 34,
 36,
-36
+36,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -532,7 +538,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Introduction to Tibetan I"
 }

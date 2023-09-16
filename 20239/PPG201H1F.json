@@ -161,13 +161,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Farzana",
+"lastName": "Afridi"
+}
+],
+"timing": 1694825202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Farzana",
+"lastName": "Afridi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 }
@@ -323,7 +339,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Microeconomics for Engineers"
 }

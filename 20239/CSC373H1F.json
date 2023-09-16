@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1694825202
+}
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -161,7 +166,8 @@
 158,
 157,
 156,
-155
+155,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,9 +195,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1694825202
+}
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -345,7 +356,8 @@
 156,
 157,
 156,
-154
+154,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -531,7 +543,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Algorithm Design, Analysis & Complexity"
 }

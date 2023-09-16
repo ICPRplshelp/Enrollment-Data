@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1694825202
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -161,6 +166,7 @@
 14,
 15,
 15,
+16,
 16
 ],
 "instructorLog": {
@@ -338,7 +344,8 @@
 1694467025,
 1694540246,
 1694647274,
-1694710869
+1694710869,
+1694825202
 ],
 "title": "Intermediate Standard Arabic II"
 }
