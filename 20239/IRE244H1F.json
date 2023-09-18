@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 95,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 95,
 "time": 1693937393
+},
+{
+"newCapacity": 100,
+"time": 1695068099
 }
 ],
 "initialCap": 90
@@ -170,7 +174,8 @@
 118,
 118,
 118,
-118
+118,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -358,7 +363,8 @@
 100,
 100,
 100,
-100
+100,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -539,7 +545,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Labour Relations"
 }

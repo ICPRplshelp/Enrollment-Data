@@ -165,13 +165,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrien",
+"lastName": "Zakar"
+}
+],
+"timing": 1695068099
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrien",
+"lastName": "Zakar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -331,7 +347,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Individual Studies"
 }

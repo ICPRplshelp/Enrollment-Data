@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1695068099
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -165,7 +170,8 @@
 80,
 80,
 80,
-80
+80,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -346,7 +352,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Statistics for Work and Organizations"
 }

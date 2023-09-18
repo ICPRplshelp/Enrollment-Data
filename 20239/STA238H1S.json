@@ -165,7 +165,8 @@
 205,
 205,
 205,
-205
+205,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -353,7 +354,8 @@
 309,
 309,
 309,
-309
+309,
+307
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -541,7 +543,8 @@
 251,
 251,
 251,
-251
+251,
+246
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -729,13 +732,29 @@
 234,
 234,
 234,
-234
+234,
+244
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luis Enrique",
+"lastName": "Nieto-Barajas"
+}
+],
+"timing": 1695068099
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luis Enrique",
+"lastName": "Nieto-Barajas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -895,7 +914,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

@@ -165,13 +165,29 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Meredith",
+"lastName": "Franklin"
+}
+],
+"timing": 1695068099
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Meredith",
+"lastName": "Franklin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -331,7 +347,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Data Science II"
 }

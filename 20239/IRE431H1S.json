@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 91,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 85,
 "time": 1689787734
+},
+{
+"newCapacity": 91,
+"time": 1695068099
 }
 ],
 "initialCap": 65
@@ -170,7 +174,8 @@
 89,
 89,
 89,
-89
+89,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -351,7 +356,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Canadian Labour Law & the Unionized Workplace (formerly IRE340Y1)"
 }

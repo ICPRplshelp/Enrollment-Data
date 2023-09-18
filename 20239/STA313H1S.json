@@ -1,0 +1,31 @@
+{
+"code": "STA313H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1695068099,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1695068098,
+1695068099
+],
+"title": "Data Visualization"
+}

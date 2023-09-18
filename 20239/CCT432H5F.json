@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 30,
 "time": 1692247612
+},
+{
+"newCapacity": 35,
+"time": 1695068099
 }
 ],
 "initialCap": 25
@@ -167,7 +171,8 @@
 36,
 36,
 36,
-36
+36,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,7 +350,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Ethics and Code"
 }

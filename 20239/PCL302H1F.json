@@ -165,7 +165,8 @@
 163,
 163,
 163,
-163
+163,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,6 +179,31 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Salahpour"
+},
+{
+"firstName": "Anita",
+"lastName": "Hamadanizadeh"
+},
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+},
+{
+"firstName": "Leonardo",
+"lastName": "Salmena"
+},
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
+}
+],
+"timing": 1695068099
 }
 ]
 },
@@ -185,6 +211,22 @@
 {
 "firstName": "Ali",
 "lastName": "Salahpour"
+},
+{
+"firstName": "Anita",
+"lastName": "Hamadanizadeh"
+},
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+},
+{
+"firstName": "Leonardo",
+"lastName": "Salmena"
+},
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
 }
 ],
 "isCancelled": false,
@@ -346,7 +388,8 @@
 1694825202,
 1694838363,
 1694896580,
-1694982660
+1694982660,
+1695068099
 ],
 "title": "Pharmacodynamic Principles"
 }
