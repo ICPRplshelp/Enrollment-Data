@@ -166,7 +166,8 @@
 118,
 118,
 118,
-115
+115,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -194,12 +195,16 @@
 {
 "createdAt": 1689957270,
 "delivery": "ASYNC",
-"enrollmentCap": 65,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 65,
 "time": 1695068099
+},
+{
+"newCapacity": 70,
+"time": 1695076986
 }
 ],
 "initialCap": 60
@@ -360,7 +365,8 @@
 66,
 66,
 66,
-65
+65,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -542,7 +548,8 @@
 1694838363,
 1694896580,
 1694982660,
-1695068099
+1695068099,
+1695076986
 ],
 "title": "HRM for Industrial Relations and HR Professionals"
 }
