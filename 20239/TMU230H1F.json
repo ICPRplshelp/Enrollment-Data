@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1693360633
+},
+{
+"newCapacity": 22,
+"time": 1695150151
 }
 ],
 "initialCap": 23
@@ -169,6 +173,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -231,6 +236,7 @@
 0,
 0,
 0,
+12,
 12,
 12,
 12,
@@ -548,6 +554,7 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -730,6 +737,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -922,6 +930,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -950,12 +959,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1693360633
+},
+{
+"newCapacity": 22,
+"time": 1695150151
 }
 ],
 "initialCap": 23
@@ -1109,6 +1122,7 @@
 20,
 20,
 19,
+20,
 20,
 20,
 20,
@@ -1294,7 +1308,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Music Theory III"
 }

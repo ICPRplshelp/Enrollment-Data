@@ -167,13 +167,29 @@
 192,
 192,
 180,
+180,
 180
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oren",
+"lastName": "Siegel"
+}
+],
+"timing": 1695150151
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oren",
+"lastName": "Siegel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -335,7 +351,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Land of the Pharaohs"
 }

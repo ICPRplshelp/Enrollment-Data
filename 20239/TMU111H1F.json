@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 41,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 41,
 "time": 1694100800
+},
+{
+"newCapacity": 42,
+"time": 1695150151
 }
 ],
 "initialCap": 30
@@ -181,7 +185,8 @@
 41,
 41,
 41,
-41
+41,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -361,7 +366,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Intro Computer Applications in Music"
 }

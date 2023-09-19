@@ -164,7 +164,8 @@
 33,
 33,
 30,
-30
+30,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -351,7 +352,8 @@
 27,
 27,
 27,
-27
+27,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -537,6 +539,7 @@
 29,
 29,
 29,
+26,
 26,
 26
 ],
@@ -725,7 +728,8 @@
 29,
 29,
 24,
-25
+25,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -912,7 +916,8 @@
 26,
 26,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1099,7 +1104,8 @@
 26,
 26,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1285,6 +1291,7 @@
 27,
 27,
 27,
+26,
 26,
 26
 ],
@@ -1473,7 +1480,8 @@
 29,
 29,
 26,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1660,7 +1668,8 @@
 28,
 28,
 26,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1847,7 +1856,8 @@
 27,
 27,
 24,
-24
+24,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2034,7 +2044,8 @@
 35,
 35,
 30,
-30
+30,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2221,7 +2232,8 @@
 41,
 41,
 33,
-33
+33,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2407,6 +2419,7 @@
 27,
 27,
 27,
+26,
 26,
 26
 ],
@@ -2595,7 +2608,8 @@
 26,
 26,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2791,7 +2805,8 @@
 28,
 28,
 26,
-26
+26,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2978,7 +2993,8 @@
 26,
 26,
 23,
-25
+25,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3165,13 +3181,29 @@
 24,
 24,
 21,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1695150151
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0117"
 },
@@ -3337,7 +3369,8 @@
 22,
 22,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3524,7 +3557,8 @@
 31,
 31,
 28,
-28
+28,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3711,7 +3745,8 @@
 30,
 30,
 27,
-27
+27,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3892,6 +3927,7 @@
 32,
 32,
 28,
+25,
 25,
 25,
 25,
@@ -4085,7 +4121,8 @@
 25,
 25,
 25,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4272,7 +4309,8 @@
 25,
 25,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4459,7 +4497,8 @@
 25,
 25,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4645,6 +4684,7 @@
 27,
 27,
 27,
+25,
 25,
 25
 ],
@@ -4833,6 +4873,7 @@
 27,
 27,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -5020,7 +5061,8 @@
 28,
 28,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5216,13 +5258,29 @@
 27,
 27,
 25,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1695150151
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0128"
 },
@@ -5388,7 +5446,8 @@
 28,
 28,
 29,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5575,6 +5634,7 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -5755,6 +5815,7 @@
 30,
 30,
 29,
+26,
 26,
 26,
 26,
@@ -5949,6 +6010,7 @@
 22,
 22,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -6135,6 +6197,7 @@
 25,
 25,
 25,
+23,
 23,
 23
 ],
@@ -6323,7 +6386,8 @@
 23,
 23,
 23,
-23
+23,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6509,6 +6573,7 @@
 25,
 25,
 25,
+23,
 23,
 23
 ],
@@ -6697,7 +6762,8 @@
 25,
 25,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6884,7 +6950,8 @@
 19,
 19,
 21,
-21
+21,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7071,7 +7138,8 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7258,7 +7326,8 @@
 21,
 21,
 14,
-14
+14,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7445,7 +7514,8 @@
 17,
 17,
 15,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7632,7 +7702,8 @@
 27,
 27,
 23,
-23
+23,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7819,7 +7890,8 @@
 24,
 24,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -8006,6 +8078,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -8186,7 +8259,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Writing for University and Beyond: Writing About Writing"
 }

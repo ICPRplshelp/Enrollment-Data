@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1695150151
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -149,7 +154,8 @@
 50,
 50,
 40,
-40
+40,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -314,7 +320,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Advanced Topics in Architecture"
 }

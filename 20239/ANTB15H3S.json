@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1695150151
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -164,7 +169,8 @@
 79,
 79,
 79,
-79
+79,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -344,7 +350,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Contemporary Human Evolution and Variation"
 }

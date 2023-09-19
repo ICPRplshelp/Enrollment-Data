@@ -167,6 +167,7 @@
 0,
 0,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -341,6 +342,7 @@
 0,
 0,
 0,
+5,
 5,
 5
 ],
@@ -517,6 +519,7 @@
 0,
 0,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -691,6 +694,7 @@
 0,
 0,
 0,
+5,
 5,
 5
 ],
@@ -867,6 +871,7 @@
 0,
 0,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -879,7 +884,7 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -1042,7 +1047,8 @@
 0,
 0,
 12,
-12
+12,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1210,7 +1216,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Arts & Science Internship Program - Professional Skill Development II"
 }

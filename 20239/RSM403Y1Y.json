@@ -44,6 +44,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -57,13 +58,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Roberts"
+}
+],
+"timing": 1695150151
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Katherine",
-"lastName": "Danks"
+"firstName": "David",
+"lastName": "Roberts"
 }
 ],
 "isCancelled": false,
@@ -104,7 +114,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Independent Study Course"
 }

@@ -167,13 +167,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ynon",
+"lastName": "Wygoda"
+}
+],
+"timing": 1695150151
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ynon",
+"lastName": "Wygoda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -335,7 +351,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Departmental Capstone-Research"
 }

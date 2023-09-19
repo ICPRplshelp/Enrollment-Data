@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1695150151
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -166,6 +171,7 @@
 29,
 29,
 29,
+25,
 25,
 25
 ],
@@ -350,7 +356,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Resources and Sustainability"
 }

@@ -164,13 +164,29 @@
 56,
 56,
 56,
-56
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "Gunning"
+}
+],
+"timing": 1695150151
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "Gunning"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -329,7 +345,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "An Introduction to Medicinal Chemistry and Molecular Recognition"
 }

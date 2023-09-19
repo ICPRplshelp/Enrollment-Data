@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 161,
+"time": 1695150151
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -164,7 +169,8 @@
 161,
 161,
 160,
-160
+160,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -344,7 +350,8 @@
 1694896580,
 1694982660,
 1695068099,
-1695076986
+1695076986,
+1695150151
 ],
 "title": "Control Systems I"
 }
