@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 38,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1695319874
+}
+],
 "initialCap": 38
 },
 "enrollmentLogs": [
@@ -144,6 +149,7 @@
 19,
 17,
 17,
+18,
 18,
 18,
 18,
@@ -350,7 +356,8 @@
 1695076986,
 1695150151,
 1695259053,
-1695269552
+1695269552,
+1695319874
 ],
 "title": "Advanced GIS"
 }

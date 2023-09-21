@@ -167,6 +167,7 @@
 48,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -180,13 +181,22 @@
 }
 ],
 "timing": 1691785160
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Melinda",
+"lastName": "Vandenbeld Giles"
+}
+],
+"timing": 1695319874
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Maria Melinda",
-"lastName": "Vandenbeld Giles (NOUTORID)"
+"lastName": "Vandenbeld Giles"
 }
 ],
 "isCancelled": false,
@@ -350,7 +360,8 @@
 1695076986,
 1695150151,
 1695259053,
-1695269552
+1695269552,
+1695319874
 ],
 "title": "Feminism and Anthropology"
 }

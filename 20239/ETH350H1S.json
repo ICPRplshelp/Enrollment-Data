@@ -5,17 +5,22 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 0,
 "time": 1688852343
+},
+{
+"newCapacity": 20,
+"time": 1695319874
 }
 ],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -182,7 +187,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -346,7 +351,8 @@
 1695076986,
 1695150151,
 1695259053,
-1695269552
+1695269552,
+1695319874
 ],
 "title": "Topics in Value Theory"
 }

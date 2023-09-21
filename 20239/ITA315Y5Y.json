@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1695319874
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -167,6 +172,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -189,7 +195,7 @@
 "lastName": "Lobalsamo"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -350,7 +356,8 @@
 1695076986,
 1695150151,
 1695259053,
-1695269552
+1695269552,
+1695319874
 ],
 "title": "Major Italian Playwrights (19th to 21st Century)"
 }
