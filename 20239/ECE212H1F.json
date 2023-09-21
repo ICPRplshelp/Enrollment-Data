@@ -174,7 +174,8 @@
 98,
 98,
 98,
-98
+98,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -389,6 +390,7 @@
 88,
 88,
 88,
+88,
 88
 ],
 "instructorLog": {
@@ -426,7 +428,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 131,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -436,6 +438,10 @@
 {
 "newCapacity": 131,
 "time": 1689016776
+},
+{
+"newCapacity": 133,
+"time": 1695259053
 }
 ],
 "initialCap": 130
@@ -595,7 +601,8 @@
 129,
 129,
 129,
-129
+129,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -792,7 +799,8 @@
 64,
 64,
 64,
-64
+64,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -982,7 +990,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Circuit Analysis"
 }

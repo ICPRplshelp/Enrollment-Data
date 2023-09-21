@@ -147,13 +147,29 @@
 28,
 26,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
+}
+],
+"timing": 1695259053
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jaby",
+"lastName": "Mathew"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -295,7 +311,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Topics in Political Science"
 }

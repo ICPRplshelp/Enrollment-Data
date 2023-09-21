@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 170,
+"time": 1695259053
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -168,7 +173,8 @@
 153,
 160,
 159,
-159
+159,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,7 +358,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Probability and Inductive Logic"
 }

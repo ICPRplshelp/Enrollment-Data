@@ -165,13 +165,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alejandro",
+"lastName": "Garcia Magos"
+}
+],
+"timing": 1695259053
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alejandro",
+"lastName": "Garcia Magos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -331,7 +347,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Topics in Comparative Politics"
 }

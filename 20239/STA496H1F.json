@@ -168,6 +168,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -206,18 +207,6 @@
 },
 "instructors": [
 {
-"firstName": "Joshua",
-"lastName": "Speagle"
-},
-{
-"firstName": "Luis",
-"lastName": "Seco"
-},
-{
-"firstName": "Dehan",
-"lastName": "Kong"
-},
-{
 "firstName": "Meredith",
 "lastName": "Franklin"
 },
@@ -228,6 +217,18 @@
 {
 "firstName": "Jessica",
 "lastName": "Gronsbell"
+},
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+},
+{
+"firstName": "Luis",
+"lastName": "Seco"
+},
+{
+"firstName": "Dehan",
+"lastName": "Kong"
 }
 ],
 "isCancelled": false,
@@ -392,7 +393,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Readings in Statistics"
 }

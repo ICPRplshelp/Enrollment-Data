@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1695259053
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -150,7 +155,8 @@
 29,
 20,
 20,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -316,7 +322,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Contemporary Printing"
 }

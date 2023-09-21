@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 126,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 126,
+"time": 1695259053
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -168,7 +173,8 @@
 146,
 120,
 120,
-120
+120,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,7 +358,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Economic Development"
 }

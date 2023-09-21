@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brookes",
+"lastName": "Brown"
+}
+],
+"timing": 1695259053
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brookes",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1695150150,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Individual Studies"
 }

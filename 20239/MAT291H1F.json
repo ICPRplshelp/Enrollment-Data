@@ -174,7 +174,8 @@
 100,
 100,
 100,
-100
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -371,6 +372,7 @@
 87,
 87,
 87,
+87,
 87
 ],
 "instructorLog": {
@@ -399,7 +401,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 133,
+"enrollmentCap": 138,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -409,6 +411,10 @@
 {
 "newCapacity": 133,
 "time": 1689016776
+},
+{
+"newCapacity": 138,
+"time": 1695259053
 }
 ],
 "initialCap": 130
@@ -568,7 +574,8 @@
 133,
 133,
 133,
-133
+133,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -765,7 +772,8 @@
 69,
 69,
 69,
-69
+69,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -946,7 +954,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Calculus III"
 }

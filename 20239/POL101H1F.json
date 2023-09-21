@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 1200,
+"enrollmentCap": 1205,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1205,
+"time": 1695259053
+}
+],
 "initialCap": 1200
 },
 "enrollmentLogs": [
@@ -168,7 +173,8 @@
 1205,
 1200,
 1200,
-1197
+1197,
+1200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,7 +358,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "The Real World of Politics: An Introduction"
 }

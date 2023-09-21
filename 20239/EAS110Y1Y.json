@@ -168,7 +168,8 @@
 52,
 47,
 48,
-49
+49,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -196,12 +197,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1694825202
+},
+{
+"newCapacity": 58,
+"time": 1695259053
 }
 ],
 "initialCap": 50
@@ -364,7 +369,8 @@
 60,
 57,
 57,
-55
+55,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -564,7 +570,8 @@
 55,
 56,
 53,
-53
+53,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -764,7 +771,8 @@
 57,
 56,
 57,
-57
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -948,7 +956,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Modern Standard Korean I"
 }

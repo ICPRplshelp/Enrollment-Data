@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 101,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 101,
+"time": 1695259053
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -148,6 +153,7 @@
 111,
 111,
 111,
+100,
 100,
 100,
 100
@@ -316,7 +322,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Landscape Ecology"
 }

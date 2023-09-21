@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 20,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1695259053
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -165,7 +170,8 @@
 23,
 23,
 23,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -346,7 +352,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Topics in Political Economy"
 }

@@ -165,6 +165,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -187,13 +188,22 @@
 }
 ],
 "timing": 1694825202
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ravita",
+"lastName": "Surajbali"
+}
+],
+"timing": 1695259053
 }
 ]
 },
 "instructors": [
 {
-"firstName": "RAVITA",
-"lastName": "SURAJBALI (NOUTORID)"
+"firstName": "Ravita",
+"lastName": "Surajbali"
 }
 ],
 "isCancelled": false,
@@ -355,7 +365,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Women, Violence and Resistance"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 240,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1695259053
+}
+],
 "initialCap": 240
 },
 "enrollmentLogs": [
@@ -168,7 +173,8 @@
 308,
 240,
 240,
-240
+240,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -204,9 +210,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 250,
+"enrollmentCap": 275,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 275,
+"time": 1695259053
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -367,7 +378,8 @@
 320,
 250,
 250,
-250
+250,
+275
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -559,7 +571,8 @@
 1694982660,
 1695068099,
 1695076986,
-1695150151
+1695150151,
+1695259053
 ],
 "title": "Surveys, Sampling and Observational Data (formerly STA322H1)"
 }
