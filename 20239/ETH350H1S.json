@@ -180,13 +180,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Martina",
+"lastName": "Favaretto"
+}
+],
+"timing": 1695424051
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Martina",
+"lastName": "Favaretto"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -352,7 +368,8 @@
 1695150151,
 1695259053,
 1695269552,
-1695319874
+1695319874,
+1695424051
 ],
 "title": "Topics in Value Theory"
 }
