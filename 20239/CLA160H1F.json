@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 156,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 156,
+"time": 1695684848
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -174,7 +179,8 @@
 125,
 125,
 125,
-125
+125,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -364,7 +370,8 @@
 1695319874,
 1695424051,
 1695494260,
-1695586949
+1695586949,
+1695684848
 ],
 "title": "Introduction to Classical Studies"
 }

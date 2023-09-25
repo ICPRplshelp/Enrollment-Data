@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1695684848
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -168,6 +173,7 @@
 40,
 38,
 37,
+39,
 39,
 39,
 39,
@@ -364,7 +370,8 @@
 1695319874,
 1695424051,
 1695494260,
-1695586949
+1695586949,
+1695684848
 ],
 "title": "Introduction to American Studies"
 }

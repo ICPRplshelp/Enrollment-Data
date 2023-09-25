@@ -174,13 +174,29 @@
 79,
 79,
 79,
-79
+79,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Wenlong",
+"lastName": "Mou"
+}
+],
+"timing": 1695684848
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Wenlong",
+"lastName": "Mou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -356,13 +372,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Wenlong",
+"lastName": "Mou"
+}
+],
+"timing": 1695684848
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Wenlong",
+"lastName": "Mou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -531,7 +563,8 @@
 1695319874,
 1695424051,
 1695494260,
-1695586949
+1695586949,
+1695684848
 ],
 "title": "Stochastic Processes (formerly STA348H1)"
 }

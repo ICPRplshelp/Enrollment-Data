@@ -171,13 +171,29 @@
 61,
 60,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "MacIsaac"
+}
+],
+"timing": 1695684848
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "MacIsaac"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -350,7 +366,8 @@
 54,
 53,
 53,
-53
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -522,7 +539,8 @@
 1695319874,
 1695424051,
 1695494260,
-1695586949
+1695586949,
+1695684848
 ],
 "title": "Design and Implementation of Multimedia Documents (SH)"
 }

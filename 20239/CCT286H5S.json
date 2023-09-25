@@ -171,6 +171,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -184,13 +185,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "MacIsaac"
+}
+],
+"timing": 1695684848
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kylie",
-"lastName": "Caraway"
+"firstName": "Jason",
+"lastName": "MacIsaac"
 }
 ],
 "isCancelled": false,
@@ -358,7 +368,8 @@
 1695319874,
 1695424051,
 1695494260,
-1695586949
+1695586949,
+1695684848
 ],
 "title": "Interactive Media Design"
 }
