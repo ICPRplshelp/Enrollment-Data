@@ -175,13 +175,29 @@
 309,
 309,
 309,
-309
+309,
+308
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Will",
+"lastName": "Williams"
+}
+],
+"timing": 1695759480
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Will",
+"lastName": "Williams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -351,7 +367,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "English Grammar"
 }

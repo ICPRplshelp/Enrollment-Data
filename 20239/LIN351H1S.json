@@ -175,6 +175,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -188,13 +189,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
+}
+],
+"timing": 1695759480
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Naomi",
-"lastName": "Nagy"
+"firstName": "Pocholo",
+"lastName": "Umbal"
 }
 ],
 "isCancelled": false,
@@ -366,7 +376,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Sociolinguistic Patterns in Language"
 }

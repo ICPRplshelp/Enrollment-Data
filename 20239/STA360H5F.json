@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 131,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 130,
 "time": 1691500599
+},
+{
+"newCapacity": 131,
+"time": 1695759480
 }
 ],
 "initialCap": 120
@@ -177,7 +181,8 @@
 130,
 130,
 130,
-130
+130,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -365,7 +370,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Introduction to Bayesian Statistics"
 }

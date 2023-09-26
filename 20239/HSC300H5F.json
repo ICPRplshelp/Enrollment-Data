@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 38,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 38,
+"time": 1695759480
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -172,7 +177,8 @@
 35,
 35,
 35,
-35
+35,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -360,7 +366,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Written Communication for Health Care"
 }

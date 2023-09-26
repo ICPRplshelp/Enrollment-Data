@@ -175,13 +175,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Austin"
+}
+],
+"timing": 1695759480
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Austin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -351,7 +367,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Special Topics in European Affairs: European Union"
 }

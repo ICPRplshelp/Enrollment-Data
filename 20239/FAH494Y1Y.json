@@ -175,13 +175,37 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jane",
+"lastName": "Wolff"
 },
-"instructors": [],
+{
+"firstName": "Adam",
+"lastName": "Cohen"
+}
+],
+"timing": 1695759480
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jane",
+"lastName": "Wolff"
+},
+{
+"firstName": "Adam",
+"lastName": "Cohen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -351,7 +375,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Independent Studies"
 }

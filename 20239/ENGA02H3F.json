@@ -172,6 +172,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -384,6 +385,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -412,9 +414,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1695759480
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -579,7 +586,8 @@
 25,
 25,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -769,6 +777,7 @@
 38,
 38,
 37,
+25,
 25,
 25,
 25,
@@ -978,6 +987,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -1166,7 +1176,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Critical Writing About Literature"
 }

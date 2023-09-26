@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1695759480
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -172,7 +177,8 @@
 40,
 40,
 40,
-40
+40,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -360,7 +366,8 @@
 1695424051,
 1695494260,
 1695586949,
-1695684848
+1695684848,
+1695759480
 ],
 "title": "Research Design"
 }
