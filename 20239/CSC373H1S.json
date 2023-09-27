@@ -176,7 +176,8 @@
 135,
 135,
 135,
-134
+134,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,13 +376,29 @@
 130,
 130,
 130,
-130
+130,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Harry",
+"lastName": "Sha"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Harry",
+"lastName": "Sha"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -559,7 +576,8 @@
 136,
 136,
 136,
-136
+136,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -751,7 +769,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Algorithm Design, Analysis & Complexity"
 }

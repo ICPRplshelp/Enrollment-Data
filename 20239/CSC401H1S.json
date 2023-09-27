@@ -181,13 +181,29 @@
 115,
 115,
 115,
+115,
 115
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Robertson"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Robertson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -370,13 +386,29 @@
 205,
 205,
 205,
+205,
 205
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Raeid",
+"lastName": "Saqur"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Raeid",
+"lastName": "Saqur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -559,13 +591,29 @@
 31,
 31,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Robertson"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Robertson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 },
@@ -748,13 +796,29 @@
 56,
 56,
 55,
+54,
 54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Raeid",
+"lastName": "Saqur"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Raeid",
+"lastName": "Saqur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2101"
 }
@@ -925,7 +989,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Natural Language Computing"
 }

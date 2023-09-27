@@ -173,6 +173,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -324,6 +325,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -573,6 +575,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -738,6 +741,7 @@
 14,
 14,
 14,
+13,
 13,
 13,
 13,
@@ -974,6 +978,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -1130,6 +1135,7 @@
 16,
 16,
 16,
+17,
 17,
 17,
 17,
@@ -1366,13 +1372,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jesse",
+"lastName": "Coleman"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jesse",
+"lastName": "Coleman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "TUT0107"
 }
@@ -1540,7 +1562,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Group Design Project"
 }

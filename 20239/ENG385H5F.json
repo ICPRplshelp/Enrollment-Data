@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1695835931
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -166,6 +171,7 @@
 20,
 20,
 20,
+21,
 21,
 21,
 21,
@@ -362,7 +368,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "British Romanticism, 1770-1800"
 }

@@ -176,6 +176,7 @@
 153,
 153,
 153,
+153,
 153
 ],
 "instructorLog": {
@@ -360,6 +361,7 @@
 145,
 145,
 145,
+145,
 145
 ],
 "instructorLog": {
@@ -539,6 +541,7 @@
 38,
 38,
 38,
+37,
 37,
 37,
 37,
@@ -728,6 +731,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -912,13 +916,29 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Wu"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Wu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -965,6 +985,7 @@
 12,
 12,
 12,
+0,
 0,
 0,
 0,
@@ -1285,13 +1306,29 @@
 141,
 141,
 142,
+142,
 142
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Wu"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Wu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1309,6 +1346,7 @@
 "initialCap": 82
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1651,7 +1689,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Neural Networks and Deep Learning"
 }

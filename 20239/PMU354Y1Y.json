@@ -173,6 +173,7 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -228,10 +229,6 @@
 },
 "instructors": [
 {
-"firstName": "Younggun",
-"lastName": "Kim"
-},
-{
 "firstName": "Steven",
 "lastName": "Philcox"
 },
@@ -246,6 +243,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -412,6 +413,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -664,7 +666,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Piano-Inst. Masterclass"
 }

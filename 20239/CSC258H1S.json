@@ -185,6 +185,7 @@
 152,
 152,
 153,
+153,
 153
 ],
 "instructorLog": {
@@ -392,6 +393,7 @@
 140,
 140,
 140,
+139,
 139,
 139
 ],
@@ -601,13 +603,29 @@
 58,
 58,
 59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ava",
+"lastName": "Danialy"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ava",
+"lastName": "Danialy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -778,7 +796,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Computer Organization"
 }

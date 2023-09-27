@@ -185,6 +185,7 @@
 181,
 181,
 182,
+183,
 183
 ],
 "instructorLog": {
@@ -198,13 +199,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Aameri"
+}
+],
+"timing": 1695835931
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Eitan",
-"lastName": "Grinspun"
+"firstName": "Bahar",
+"lastName": "Aameri"
 }
 ],
 "isCancelled": false,
@@ -392,6 +402,7 @@
 164,
 164,
 164,
+167,
 167,
 167
 ],
@@ -601,6 +612,7 @@
 180,
 180,
 181,
+182,
 182
 ],
 "instructorLog": {
@@ -614,13 +626,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Aameri"
+}
+],
+"timing": 1695835931
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Eitan",
-"lastName": "Grinspun"
+"firstName": "Bahar",
+"lastName": "Aameri"
 }
 ],
 "isCancelled": false,
@@ -808,6 +829,7 @@
 164,
 164,
 164,
+166,
 166,
 166
 ],
@@ -1001,7 +1023,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Data Structures and Analysis"
 }

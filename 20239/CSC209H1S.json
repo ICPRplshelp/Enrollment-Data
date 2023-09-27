@@ -185,7 +185,8 @@
 164,
 164,
 163,
-163
+163,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -386,6 +387,7 @@
 234,
 234,
 233,
+234,
 234,
 234,
 234,
@@ -601,7 +603,8 @@
 204,
 204,
 204,
-202
+202,
+203
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -809,13 +812,29 @@
 101,
 101,
 103,
-105
+105,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Demetres",
+"lastName": "Kostas"
+}
+],
+"timing": 1695835931
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Demetres",
+"lastName": "Kostas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -986,7 +1005,8 @@
 1695494260,
 1695586949,
 1695684848,
-1695759480
+1695759480,
+1695835931
 ],
 "title": "Software Tools and Systems Programming"
 }
