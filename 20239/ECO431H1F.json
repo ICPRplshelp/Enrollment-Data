@@ -177,13 +177,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christian",
+"lastName": "Gourieroux"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christian",
+"lastName": "Gourieroux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -355,7 +371,8 @@
 1695586949,
 1695684848,
 1695759480,
-1695835931
+1695835931,
+1695920924
 ],
 "title": "Reading Course or Thesis"
 }

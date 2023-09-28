@@ -155,13 +155,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avery",
+"lastName": "Ozburn"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Avery",
+"lastName": "Ozburn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -318,6 +334,7 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
@@ -489,7 +506,8 @@
 1695586949,
 1695684848,
 1695759480,
-1695835931
+1695835931,
+1695920924
 ],
 "title": "Individual Project"
 }

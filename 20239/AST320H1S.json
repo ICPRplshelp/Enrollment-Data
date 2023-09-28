@@ -177,6 +177,7 @@
 80,
 80,
 80,
+79,
 79
 ],
 "instructorLog": {
@@ -205,9 +206,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 4,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 4,
+"time": 1695920924
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -358,6 +364,7 @@
 5,
 5,
 5,
+4,
 4,
 4,
 4,
@@ -570,7 +577,8 @@
 1695586949,
 1695684848,
 1695759480,
-1695835931
+1695835931,
+1695920924
 ],
 "title": "Introduction to Astrophysics"
 }

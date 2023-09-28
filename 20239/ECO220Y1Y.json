@@ -177,6 +177,7 @@
 150,
 150,
 149,
+149,
 149
 ],
 "instructorLog": {
@@ -190,6 +191,19 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Murdock"
+},
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
+"timing": 1695920924
 }
 ]
 },
@@ -197,6 +211,10 @@
 {
 "firstName": "Jennifer",
 "lastName": "Murdock"
+},
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
 }
 ],
 "isCancelled": false,
@@ -377,6 +395,7 @@
 186,
 186,
 186,
+186,
 186
 ],
 "instructorLog": {
@@ -390,6 +409,19 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Murdock"
+},
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
+"timing": 1695920924
 }
 ]
 },
@@ -397,6 +429,10 @@
 {
 "firstName": "Jennifer",
 "lastName": "Murdock"
+},
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
 }
 ],
 "isCancelled": false,
@@ -571,6 +607,7 @@
 160,
 156,
 156,
+155,
 155,
 155,
 155,
@@ -777,6 +814,7 @@
 171,
 172,
 172,
+172,
 172
 ],
 "instructorLog": {
@@ -790,6 +828,19 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Murdock"
+},
+{
+"firstName": "Quinlan",
+"lastName": "Lee"
+}
+],
+"timing": 1695920924
 }
 ]
 },
@@ -797,6 +848,10 @@
 {
 "firstName": "Jennifer",
 "lastName": "Murdock"
+},
+{
+"firstName": "Quinlan",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -977,7 +1032,8 @@
 174,
 174,
 174,
-174
+174,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1166,6 +1222,7 @@
 164,
 164,
 164,
+156,
 156,
 156,
 156,
@@ -1377,7 +1434,8 @@
 185,
 185,
 186,
-186
+186,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1570,7 +1628,8 @@
 1695586949,
 1695684848,
 1695759480,
-1695835931
+1695835931,
+1695920924
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

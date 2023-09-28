@@ -174,7 +174,8 @@
 102,
 100,
 102,
-103
+103,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -371,13 +372,29 @@
 57,
 56,
 58,
+58,
 58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Monique",
+"lastName": "Kampherm"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Monique",
+"lastName": "Kampherm"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -553,6 +570,7 @@
 71,
 74,
 75,
+77,
 77
 ],
 "instructorLog": {
@@ -750,6 +768,7 @@
 67,
 70,
 71,
+73,
 73
 ],
 "instructorLog": {
@@ -947,6 +966,7 @@
 96,
 96,
 97,
+96,
 96
 ],
 "instructorLog": {
@@ -1144,13 +1164,29 @@
 67,
 67,
 68,
-68
+68,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yulia",
+"lastName": "Smirnova"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yulia",
+"lastName": "Smirnova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -1326,13 +1362,29 @@
 65,
 66,
 68,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -1508,13 +1560,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 },
@@ -1690,7 +1758,8 @@
 58,
 58,
 59,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1887,13 +1956,29 @@
 54,
 54,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0110"
 },
@@ -2069,6 +2154,7 @@
 72,
 72,
 73,
+74,
 74
 ],
 "instructorLog": {
@@ -2266,13 +2352,29 @@
 64,
 64,
 66,
-66
+66,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0112"
 },
@@ -2448,7 +2550,8 @@
 66,
 67,
 68,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2644,6 +2747,7 @@
 65,
 65,
 66,
+68,
 68,
 68
 ],
@@ -2842,7 +2946,8 @@
 74,
 76,
 79,
-78
+78,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2876,6 +2981,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3236,6 +3342,7 @@
 55,
 55,
 57,
+58,
 58
 ],
 "instructorLog": {
@@ -3433,13 +3540,29 @@
 55,
 55,
 57,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0118"
 },
@@ -3615,6 +3738,7 @@
 65,
 67,
 69,
+70,
 70
 ],
 "instructorLog": {
@@ -3812,13 +3936,29 @@
 65,
 67,
 70,
+71,
 71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0120"
 },
@@ -3993,6 +4133,7 @@
 57,
 57,
 58,
+59,
 59,
 59
 ],
@@ -4191,6 +4332,7 @@
 62,
 63,
 64,
+64,
 64
 ],
 "instructorLog": {
@@ -4388,13 +4530,29 @@
 59,
 60,
 62,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Esther",
+"lastName": "Atkinson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0123"
 },
@@ -4570,13 +4728,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0124"
 },
@@ -4752,13 +4926,29 @@
 55,
 55,
 56,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0125"
 },
@@ -4934,13 +5124,29 @@
 54,
 55,
 56,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0126"
 },
@@ -5116,7 +5322,8 @@
 64,
 65,
 67,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5312,6 +5519,7 @@
 59,
 59,
 59,
+61,
 61,
 61
 ],
@@ -5510,7 +5718,8 @@
 59,
 59,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5707,13 +5916,29 @@
 60,
 60,
 62,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mustafa",
+"lastName": "Siddiqui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0130"
 },
@@ -5889,13 +6114,29 @@
 60,
 61,
 63,
-63
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dulani",
+"lastName": "Suraweera"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dulani",
+"lastName": "Suraweera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0131"
 },
@@ -6071,13 +6312,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0132"
 },
@@ -6252,6 +6509,7 @@
 56,
 56,
 56,
+57,
 57,
 57
 ],
@@ -6450,13 +6708,29 @@
 55,
 55,
 56,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0134"
 },
@@ -6632,7 +6906,8 @@
 56,
 56,
 59,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6829,13 +7104,29 @@
 57,
 58,
 61,
-61
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yulia",
+"lastName": "Smirnova"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yulia",
+"lastName": "Smirnova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0136"
 },
@@ -7011,7 +7302,8 @@
 59,
 59,
 61,
-61
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -7208,13 +7500,29 @@
 61,
 61,
 63,
-63
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0138"
 },
@@ -7390,13 +7698,29 @@
 58,
 58,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0139"
 },
@@ -7572,13 +7896,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
+"timing": 1695920924
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0140"
 }
@@ -7747,7 +8087,8 @@
 1695586949,
 1695684848,
 1695759480,
-1695835931
+1695835931,
+1695920924
 ],
 "title": "Writing for University and Beyond: Writing About Writing"
 }
