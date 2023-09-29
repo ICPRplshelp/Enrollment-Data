@@ -180,6 +180,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -368,7 +369,8 @@
 97,
 97,
 97,
-97
+97,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -381,13 +383,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ke",
+"lastName": "Zhang"
+}
+],
+"timing": 1696030622
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nicholas Thomas",
-"lastName": "Fleming"
+"firstName": "Ke",
+"lastName": "Zhang"
 }
 ],
 "isCancelled": false,
@@ -559,7 +570,8 @@
 1695684848,
 1695759480,
 1695835931,
-1695920924
+1695920924,
+1696030622
 ],
 "title": "Complex Variables"
 }

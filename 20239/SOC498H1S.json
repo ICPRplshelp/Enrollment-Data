@@ -178,13 +178,29 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heiko",
+"lastName": "Beyer"
+}
+],
+"timing": 1696030622
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heiko",
+"lastName": "Beyer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -357,7 +373,8 @@
 1695684848,
 1695759480,
 1695835931,
-1695920924
+1695920924,
+1696030622
 ],
 "title": "New Topics in Sociology"
 }

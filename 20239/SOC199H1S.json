@@ -178,13 +178,29 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kineret",
+"lastName": "Sadeh"
+}
+],
+"timing": 1696030622
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kineret",
+"lastName": "Sadeh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -357,7 +373,8 @@
 1695684848,
 1695759480,
 1695835931,
-1695920924
+1695920924,
+1696030622
 ],
 "title": "Living Together Differently in the 21st Century: Israel as a case study"
 }

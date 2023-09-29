@@ -178,6 +178,7 @@
 27,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -191,6 +192,19 @@
 }
 ],
 "timing": 1686740321
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ahmed",
+"lastName": "El-Sohemy"
+},
+{
+"firstName": "Sara",
+"lastName": "Mahdavi"
+}
+],
+"timing": 1696030622
 }
 ]
 },
@@ -198,6 +212,10 @@
 {
 "firstName": "Ahmed",
 "lastName": "El-Sohemy"
+},
+{
+"firstName": "Sara",
+"lastName": "Mahdavi"
 }
 ],
 "isCancelled": false,
@@ -372,7 +390,8 @@
 1695684848,
 1695759480,
 1695835931,
-1695920924
+1695920924,
+1696030622
 ],
 "title": "Nutrigenomics and Personalized Nutrition"
 }

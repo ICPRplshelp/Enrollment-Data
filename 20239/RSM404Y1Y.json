@@ -1,0 +1,46 @@
+{
+"code": "RSM404Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1696030622,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
+"timing": 1696030622
+}
+]
+},
+"instructors": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1696030621,
+1696030622
+],
+"title": "Independent Study Course"
+}
