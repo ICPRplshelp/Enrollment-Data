@@ -181,6 +181,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -223,6 +224,23 @@
 }
 ],
 "timing": 1693937393
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Myron",
+"lastName": "Cybulsky"
+},
+{
+"firstName": "Felix",
+"lastName": "Leung"
+},
+{
+"firstName": "Sonya",
+"lastName": "MacParland"
+}
+],
+"timing": 1696278133
 }
 ]
 },
@@ -238,10 +256,6 @@
 {
 "firstName": "Sonya",
 "lastName": "MacParland"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -419,7 +433,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Fundamentals of Pathobiology"
 }

@@ -181,6 +181,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -223,6 +224,23 @@
 }
 ],
 "timing": 1694100800
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Laflamme"
+},
+{
+"firstName": "Shinichiro",
+"lastName": "Ogawa"
+},
+{
+"firstName": "Karun",
+"lastName": "Singh"
+}
+],
+"timing": 1696278133
 }
 ]
 },
@@ -238,10 +256,6 @@
 {
 "firstName": "Karun",
 "lastName": "Singh"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -419,7 +433,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Organogenesis in Health and Disease"
 }

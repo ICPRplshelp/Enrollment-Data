@@ -216,6 +216,7 @@
 36,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -229,13 +230,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "MacIsaac"
+}
+],
+"timing": 1696278133
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kylie",
-"lastName": "Caraway"
+"firstName": "Jason",
+"lastName": "MacIsaac"
 }
 ],
 "isCancelled": false,
@@ -410,7 +420,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Technology and Creative Expresssion"
 }

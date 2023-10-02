@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 30,
 "time": 1686875065
+},
+{
+"newCapacity": 35,
+"time": 1696278133
 }
 ],
 "initialCap": 70
@@ -183,7 +187,8 @@
 34,
 33,
 33,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -377,7 +382,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "DESIGN OF BUILDING ENCLOSURES"
 }

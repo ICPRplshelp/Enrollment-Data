@@ -183,13 +183,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -369,13 +385,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosalind",
+"lastName": "Murray"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosalind",
+"lastName": "Murray"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -555,13 +587,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katharina",
+"lastName": "Braeutigam"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katharina",
+"lastName": "Braeutigam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -741,13 +789,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katharina",
+"lastName": "Braeutigam"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katharina",
+"lastName": "Braeutigam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
@@ -927,13 +991,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Helene",
+"lastName": "Wagner"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Helene",
+"lastName": "Wagner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -1113,13 +1193,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fiona",
+"lastName": "Rawle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 }
@@ -1292,7 +1388,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Research Opportunity Program"
 }

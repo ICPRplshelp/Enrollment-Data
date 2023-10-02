@@ -178,13 +178,29 @@
 72,
 73,
 73,
-73
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -357,7 +373,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Immersive Environment Design"
 }

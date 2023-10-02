@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "STEPHEN",
+"lastName": "IRVING (NOUTORID)"
+}
+],
+"timing": 1696278133
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "STEPHEN",
+"lastName": "IRVING (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -33,7 +49,8 @@
 1695920924,
 1696030622,
 1696105059,
-1696194676
+1696194676,
+1696278133
 ],
 "title": "Curatorial Perspectives II"
 }
