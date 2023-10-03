@@ -182,13 +182,37 @@
 154,
 154,
 154,
+155,
 155
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jesse",
+"lastName": "Gillis"
 },
-"instructors": [],
+{
+"firstName": "Evgueni (Zhenya)",
+"lastName": "Ivakine"
+}
+],
+"timing": 1696356062
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jesse",
+"lastName": "Gillis"
+},
+{
+"firstName": "Evgueni (Zhenya)",
+"lastName": "Ivakine"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -365,7 +389,8 @@
 1696030622,
 1696105059,
 1696194676,
-1696278133
+1696278133,
+1696356062
 ],
 "title": "Mammalian Molecular Biology"
 }

@@ -182,13 +182,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Douglas",
+"lastName": "Tweed"
+}
+],
+"timing": 1696356062
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Douglas",
+"lastName": "Tweed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -365,7 +381,8 @@
 1696030622,
 1696105059,
 1696194676,
-1696278133
+1696278133,
+1696356062
 ],
 "title": "Theoretical Physiology"
 }

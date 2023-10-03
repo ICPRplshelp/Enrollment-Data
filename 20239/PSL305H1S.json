@@ -182,13 +182,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "Cox"
+}
+],
+"timing": 1696356062
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "Cox"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -365,7 +381,8 @@
 1696030622,
 1696105059,
 1696194676,
-1696278133
+1696278133,
+1696356062
 ],
 "title": "Topics in Cellular, Molecular and Organismic Physiology II"
 }
