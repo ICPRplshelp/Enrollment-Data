@@ -1,0 +1,31 @@
+{
+"code": "RSM401H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1696462301,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1696462300,
+1696462301
+],
+"title": "Independent Study Course"
+}

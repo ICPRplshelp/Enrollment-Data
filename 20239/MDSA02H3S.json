@@ -180,7 +180,8 @@
 283,
 283,
 284,
-284
+284,
+279
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,9 +218,14 @@
 {
 "createdAt": 1691091680,
 "delivery": "SYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 230,
+"time": 1696462301
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -392,7 +398,8 @@
 214,
 214,
 216,
-214
+214,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -588,7 +595,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "History of Media"
 }

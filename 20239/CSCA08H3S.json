@@ -180,13 +180,29 @@
 176,
 176,
 177,
-177
+177,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -368,13 +384,29 @@
 173,
 173,
 175,
+175,
 175
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -549,7 +581,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "Introduction to Computer Science I"
 }

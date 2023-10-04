@@ -180,13 +180,29 @@
 23,
 23,
 23,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Junyan",
+"lastName": "Zhang"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Junyan",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -361,7 +377,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "The Biology Behind the News"
 }

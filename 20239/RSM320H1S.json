@@ -183,6 +183,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -389,6 +390,7 @@
 51,
 51,
 51,
+51,
 51
 ],
 "instructorLog": {
@@ -402,13 +404,22 @@
 }
 ],
 "timing": 1688752277
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Joel",
+"lastName": "Amernic"
+}
+],
+"timing": 1696462301
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ralph",
-"lastName": "Tassone"
+"firstName": "Joel",
+"lastName": "Amernic"
 }
 ],
 "isCancelled": false,
@@ -552,6 +563,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -799,7 +811,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "Intermediate Financial Accounting III"
 }

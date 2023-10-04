@@ -180,7 +180,8 @@
 42,
 42,
 42,
-42
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -193,13 +194,22 @@
 }
 ],
 "timing": 1691785160
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Melinda",
+"lastName": "Vandenbeld Giles"
+}
+],
+"timing": 1696462301
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Maria Melinda",
-"lastName": "Vandenbeld Giles (NOUTORID)"
+"lastName": "Vandenbeld Giles"
 }
 ],
 "isCancelled": false,
@@ -376,7 +386,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "Genders and Sexualities"
 }

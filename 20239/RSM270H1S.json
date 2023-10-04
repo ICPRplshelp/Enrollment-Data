@@ -183,13 +183,29 @@
 38,
 38,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -374,13 +390,29 @@
 80,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -565,13 +597,29 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1696462301
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -755,6 +803,7 @@
 86,
 86,
 86,
+85,
 85,
 85
 ],
@@ -942,6 +991,7 @@
 79,
 79,
 79,
+80,
 80,
 80,
 80,
@@ -1138,6 +1188,7 @@
 47,
 47,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -1322,7 +1373,8 @@
 1696105059,
 1696194676,
 1696278133,
-1696356062
+1696356062,
+1696462301
 ],
 "title": "Operations Management"
 }

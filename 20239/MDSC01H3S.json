@@ -1,0 +1,31 @@
+{
+"code": "MDSC01H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1696462301,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1696462300,
+1696462301
+],
+"title": "Theories in Media Studies"
+}
