@@ -184,7 +184,8 @@
 319,
 316,
 315,
-315
+315,
+314
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,7 +392,8 @@
 315,
 312,
 311,
-311
+311,
+312
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -598,13 +600,29 @@
 110,
 113,
 114,
-113
+113,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammad Kaviul",
+"lastName": "Khan"
+}
+],
+"timing": 1696527240
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammad Kaviul",
+"lastName": "Khan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -783,7 +801,8 @@
 1696194676,
 1696278133,
 1696356062,
-1696462301
+1696462301,
+1696527240
 ],
 "title": "Methods of Data Analysis II"
 }
