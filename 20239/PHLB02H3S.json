@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 86,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 86,
+"time": 1696700734
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -182,7 +187,8 @@
 90,
 91,
 91,
-91
+91,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -380,7 +386,8 @@
 1696278133,
 1696356062,
 1696462301,
-1696527240
+1696527240,
+1696700734
 ],
 "title": "Environmental Ethics"
 }
