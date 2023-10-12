@@ -186,13 +186,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorenza",
+"lastName": "Bennardo"
+}
+],
+"timing": 1697153335
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorenza",
+"lastName": "Bennardo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -373,7 +389,8 @@
 1696700734,
 1696808608,
 1696876041,
-1697080581
+1697080581,
+1697153335
 ],
 "title": "Intermediate Latin"
 }

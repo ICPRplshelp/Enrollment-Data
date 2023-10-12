@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 320,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -186,7 +186,8 @@
 337,
 337,
 338,
-339
+339,
+344
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -388,7 +389,8 @@
 1696700734,
 1696808608,
 1696876041,
-1697080581
+1697080581,
+1697153335
 ],
 "title": "Human Geography"
 }

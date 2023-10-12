@@ -186,6 +186,7 @@
 500,
 500,
 500,
+499,
 499
 ],
 "instructorLog": {
@@ -212,16 +213,16 @@
 },
 "instructors": [
 {
-"firstName": "Frank",
-"lastName": "Wania"
-},
-{
 "firstName": "Ruby May",
 "lastName": "Sullan"
 },
 {
 "firstName": "Nirusha",
 "lastName": "Thavarajah"
+},
+{
+"firstName": "Frank",
+"lastName": "Wania"
 }
 ],
 "isCancelled": false,
@@ -411,7 +412,8 @@
 475,
 475,
 476,
-476
+476,
+477
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -636,6 +638,7 @@
 109,
 109,
 108,
+108,
 108
 ],
 "instructorLog": {
@@ -854,7 +857,8 @@
 1696700734,
 1696808608,
 1696876041,
-1697080581
+1697080581,
+1697153335
 ],
 "title": "Introductory Chemistry II: Reactions and Mechanisms"
 }

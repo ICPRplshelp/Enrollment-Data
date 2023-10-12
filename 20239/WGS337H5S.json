@@ -186,6 +186,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -199,13 +200,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Esra",
+"lastName": "Kazanbas"
+}
+],
+"timing": 1697153335
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zeinab",
-"lastName": "Farokhi"
+"firstName": "Esra",
+"lastName": "Kazanbas"
 }
 ],
 "isCancelled": false,
@@ -388,7 +398,8 @@
 1696700734,
 1696808608,
 1696876041,
-1697080581
+1697080581,
+1697153335
 ],
 "title": "Special Topics in Women and Gender Studies"
 }

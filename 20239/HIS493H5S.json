@@ -186,13 +186,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
+"timing": 1697153335
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -373,7 +389,8 @@
 1696700734,
 1696808608,
 1696876041,
-1697080581
+1697080581,
+1697153335
 ],
 "title": "Advanced Topics in Global History"
 }
