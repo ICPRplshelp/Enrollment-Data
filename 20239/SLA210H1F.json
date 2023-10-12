@@ -188,6 +188,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -205,6 +206,15 @@
 }
 ],
 "timing": 1693623554
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lily",
+"lastName": "Tarba"
+}
+],
+"timing": 1697080581
 }
 ]
 },
@@ -212,10 +222,6 @@
 {
 "firstName": "Lily",
 "lastName": "Tarba"
-},
-{
-"firstName": "Julia",
-"lastName": "Mikhailova"
 }
 ],
 "isCancelled": false,
@@ -400,7 +406,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Russian for Heritage Speakers"
 }

@@ -185,6 +185,7 @@
 348,
 348,
 348,
+350,
 350
 ],
 "instructorLog": {
@@ -233,16 +234,16 @@
 },
 "instructors": [
 {
-"firstName": "Stephen",
-"lastName": "Reid"
-},
-{
 "firstName": "Ivana",
 "lastName": "Stehlik"
 },
 {
 "firstName": "Karolyn",
 "lastName": "Keir"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
 }
 ],
 "isCancelled": false,
@@ -431,7 +432,8 @@
 502,
 502,
 502,
-501
+501,
+500
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -681,7 +683,8 @@
 206,
 205,
 205,
-203
+203,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -911,7 +914,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

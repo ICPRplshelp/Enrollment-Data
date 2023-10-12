@@ -185,7 +185,8 @@
 17,
 17,
 17,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -198,13 +199,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rui",
+"lastName": "Wang"
+}
+],
+"timing": 1697080581
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Helen Xiaoyan",
-"lastName": "Wu"
+"firstName": "Rui",
+"lastName": "Wang"
 }
 ],
 "isCancelled": false,
@@ -386,7 +396,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Introductory Standard Chinese II"
 }

@@ -188,13 +188,29 @@
 41,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
+"timing": 1697080581
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -384,13 +400,29 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
+"timing": 1697080581
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -580,13 +612,29 @@
 28,
 29,
 29,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
+"timing": 1697080581
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katherine Ann",
+"lastName": "Magee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -769,7 +817,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Strategic Case Analysis"
 }

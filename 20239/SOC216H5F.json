@@ -185,7 +185,8 @@
 92,
 92,
 92,
-92
+92,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -198,6 +199,19 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ellen",
+"lastName": "Berrey"
+},
+{
+"firstName": "Eugene Emeka",
+"lastName": "Dim"
+}
+],
+"timing": 1697080581
 }
 ]
 },
@@ -205,6 +219,10 @@
 {
 "firstName": "Ellen",
 "lastName": "Berrey"
+},
+{
+"firstName": "Eugene Emeka",
+"lastName": "Dim"
 }
 ],
 "isCancelled": false,
@@ -386,7 +404,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Sociology of Law"
 }

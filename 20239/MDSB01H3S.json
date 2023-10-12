@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1697080581
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -185,7 +190,8 @@
 86,
 86,
 86,
-87
+87,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -386,7 +392,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Human, Animal, Machine"
 }

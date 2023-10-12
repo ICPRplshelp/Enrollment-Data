@@ -185,6 +185,7 @@
 78,
 78,
 78,
+79,
 79
 ],
 "instructorLog": {
@@ -198,13 +199,22 @@
 }
 ],
 "timing": 1691694293
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1697080581
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Vignash",
-"lastName": "Tharmaratnam"
+"firstName": "Simone",
+"lastName": "Walker"
 }
 ],
 "isCancelled": false,
@@ -386,7 +396,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Social Psychology: Attitudes"
 }

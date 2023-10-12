@@ -185,13 +185,29 @@
 123,
 122,
 122,
-122
+122,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1697080581
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -371,7 +387,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Psychology of the Self"
 }

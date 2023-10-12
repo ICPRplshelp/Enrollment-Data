@@ -185,13 +185,29 @@
 34,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danny",
+"lastName": "Papagiannis"
+}
+],
+"timing": 1697080581
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danny",
+"lastName": "Papagiannis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -374,6 +390,7 @@
 41,
 41,
 42,
+41,
 41,
 41,
 41,
@@ -576,6 +593,7 @@
 43,
 43,
 43,
+42,
 42,
 42,
 42,
@@ -794,6 +812,7 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
@@ -995,7 +1014,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Web Culture and Design"
 }

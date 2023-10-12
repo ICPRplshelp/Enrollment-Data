@@ -185,6 +185,7 @@
 42,
 42,
 42,
+41,
 41
 ],
 "instructorLog": {
@@ -198,13 +199,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jingsong",
+"lastName": "Ma"
+}
+],
+"timing": 1697080581
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Helen Xiaoyan",
-"lastName": "Wu"
+"firstName": "Jingsong",
+"lastName": "Ma"
 }
 ],
 "isCancelled": false,
@@ -393,6 +403,7 @@
 37,
 37,
 37,
+36,
 36
 ],
 "instructorLog": {
@@ -406,13 +417,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jingsong",
+"lastName": "Ma"
+}
+],
+"timing": 1697080581
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Helen Xiaoyan",
-"lastName": "Wu"
+"firstName": "Jingsong",
+"lastName": "Ma"
 }
 ],
 "isCancelled": false,
@@ -594,7 +614,8 @@
 1696527240,
 1696700734,
 1696808608,
-1696876041
+1696876041,
+1697080581
 ],
 "title": "Reading Chinese and English: Global Perspectives"
 }
