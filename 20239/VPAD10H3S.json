@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1697257966
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -187,7 +192,8 @@
 54,
 54,
 54,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -390,7 +396,8 @@
 1696808608,
 1696876041,
 1697080581,
-1697153335
+1697153335,
+1697257966
 ],
 "title": "Good, Better, Best: Case Study Senior Seminar"
 }

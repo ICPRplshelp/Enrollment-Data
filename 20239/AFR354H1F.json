@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 31,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1697257966
+}
+],
 "initialCap": 31
 },
 "enrollmentLogs": [
@@ -190,7 +195,8 @@
 1,
 1,
 1,
-1
+1,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -212,7 +218,7 @@
 "lastName": "Wasike"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -396,7 +402,8 @@
 1696808608,
 1696876041,
 1697080581,
-1697153335
+1697153335,
+1697257966
 ],
 "title": "African Cultures and Development"
 }

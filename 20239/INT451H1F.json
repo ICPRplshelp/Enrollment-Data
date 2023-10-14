@@ -190,13 +190,45 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carrie",
+"lastName": "Proctor"
 },
-"instructors": [],
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+},
+{
+"firstName": "Nathy",
+"lastName": "Nesmon"
+}
+],
+"timing": 1697257966
+}
+]
+},
+"instructors": [
+{
+"firstName": "Carrie",
+"lastName": "Proctor"
+},
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+},
+{
+"firstName": "Nathy",
+"lastName": "Nesmon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -381,7 +413,8 @@
 1696808608,
 1696876041,
 1697080581,
-1697153335
+1697153335,
+1697257966
 ],
 "title": "Arts & Science Internship Program - Professional Work Term"
 }

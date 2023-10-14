@@ -1,0 +1,46 @@
+{
+"code": "HISD03H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1697257966,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
+}
+],
+"timing": 1697257966
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1697257965,
+1697257966
+],
+"title": "Selected Topics in Historical Research"
+}

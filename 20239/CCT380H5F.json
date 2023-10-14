@@ -187,7 +187,8 @@
 39,
 39,
 39,
-39
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -397,7 +398,8 @@
 37,
 37,
 37,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -410,13 +412,22 @@
 }
 ],
 "timing": 1694467025
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ethan",
+"lastName": "Rong"
+}
+],
+"timing": 1697257966
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zohaib",
-"lastName": "Aftab"
+"firstName": "Ethan",
+"lastName": "Rong"
 }
 ],
 "isCancelled": false,
@@ -600,7 +611,8 @@
 1696808608,
 1696876041,
 1697080581,
-1697153335
+1697153335,
+1697257966
 ],
 "title": "Human-Computer Interaction and Communication"
 }

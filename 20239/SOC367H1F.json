@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 72,
+"time": 1697257966
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -185,6 +190,7 @@
 61,
 61,
 61,
+60,
 60,
 60,
 60,
@@ -396,7 +402,8 @@
 1696808608,
 1696876041,
 1697080581,
-1697153335
+1697153335,
+1697257966
 ],
 "title": "Race, Class, and Gender"
 }
