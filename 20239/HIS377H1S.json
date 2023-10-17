@@ -193,6 +193,7 @@
 118,
 118,
 118,
+118,
 118
 ],
 "instructorLog": {
@@ -206,13 +207,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Sayle"
+}
+],
+"timing": 1697572777
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Matthieu",
-"lastName": "Vallieres"
+"firstName": "Timothy",
+"lastName": "Sayle"
 }
 ],
 "isCancelled": false,
@@ -402,7 +412,8 @@
 1697153335,
 1697257966,
 1697312990,
-1697507061
+1697507061,
+1697572777
 ],
 "title": "U.S.A. in the World"
 }

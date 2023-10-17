@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1697572777
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -193,6 +198,7 @@
 45,
 45,
 45,
+46,
 46
 ],
 "instructorLog": {
@@ -402,7 +408,8 @@
 1697153335,
 1697257966,
 1697312990,
-1697507061
+1697507061,
+1697572777
 ],
 "title": "Environmental History"
 }

@@ -193,7 +193,8 @@
 1403,
 1398,
 1398,
-1385
+1385,
+1376
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -210,6 +211,27 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Reid"
+},
+{
+"firstName": "Adam",
+"lastName": "Hincks"
+},
+{
+"firstName": "Ilana",
+"lastName": "MacDonald"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
+}
+],
+"timing": 1697572777
 }
 ]
 },
@@ -221,6 +243,14 @@
 {
 "firstName": "Adam",
 "lastName": "Hincks"
+},
+{
+"firstName": "Ilana",
+"lastName": "MacDonald"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
 }
 ],
 "isCancelled": false,
@@ -410,7 +440,8 @@
 1697153335,
 1697257966,
 1697312990,
-1697507061
+1697507061,
+1697572777
 ],
 "title": "The Sun and Its Neighbours"
 }
