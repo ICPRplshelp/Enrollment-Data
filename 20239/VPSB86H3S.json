@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1697507061
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -183,6 +188,7 @@
 10,
 9,
 10,
+12,
 12,
 12,
 12,
@@ -394,7 +400,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Sculpture II"
 }

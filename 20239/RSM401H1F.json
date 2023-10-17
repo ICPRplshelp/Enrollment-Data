@@ -20,13 +20,29 @@
 8,
 8,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
+"timing": 1697507061
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +57,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Independent Study Course"
 }

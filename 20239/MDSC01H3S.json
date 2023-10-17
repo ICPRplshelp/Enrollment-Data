@@ -5,12 +5,16 @@
 {
 "createdAt": 1696462301,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 35,
 "time": 1697080581
+},
+{
+"newCapacity": 45,
+"time": 1697507061
 }
 ],
 "initialCap": 45
@@ -25,7 +29,8 @@
 26,
 32,
 37,
-37
+37,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -46,7 +51,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Theories in Media Studies"
 }

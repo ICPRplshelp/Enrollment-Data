@@ -189,13 +189,29 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Bongard"
+}
+],
+"timing": 1697507061
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Bongard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -379,7 +395,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Introduction to Community Engaged Learning"
 }

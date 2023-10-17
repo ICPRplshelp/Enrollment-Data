@@ -192,6 +192,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -205,13 +206,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kristian",
+"lastName": "Larsen"
+}
+],
+"timing": 1697507061
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Karim",
-"lastName": "Malik"
+"firstName": "Kristian",
+"lastName": "Larsen"
 }
 ],
 "isCancelled": false,
@@ -400,7 +410,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "GIS Research Project"
 }

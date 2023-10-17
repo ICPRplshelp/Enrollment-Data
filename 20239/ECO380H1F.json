@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1697507061
+}
+],
 "initialCap": 135
 },
 "enrollmentLogs": [
@@ -189,6 +194,7 @@
 131,
 131,
 131,
+130,
 130,
 130,
 130,
@@ -407,6 +413,7 @@
 131,
 131,
 130,
+130,
 130
 ],
 "instructorLog": {
@@ -615,7 +622,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Markets, Competition, and Strategy"
 }

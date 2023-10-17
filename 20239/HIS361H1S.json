@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 96,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1697507061
+}
+],
 "initialCap": 96
 },
 "enrollmentLogs": [
@@ -186,6 +191,7 @@
 44,
 44,
 44,
+45,
 45,
 45,
 45,
@@ -400,7 +406,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "The Holocaust, from 1942"
 }

@@ -197,6 +197,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -210,13 +211,22 @@
 }
 ],
 "timing": 1688850240
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dilip",
+"lastName": "Soman"
+}
+],
+"timing": 1697507061
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kristen",
-"lastName": "Duke"
+"firstName": "Dilip",
+"lastName": "Soman"
 }
 ],
 "isCancelled": false,
@@ -405,7 +415,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Marketing and Behavioural Economics"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 5,
+"time": 1697507061
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -165,6 +170,7 @@
 9,
 9,
 9,
+1,
 1,
 1,
 1,
@@ -394,7 +400,8 @@
 1697080581,
 1697153335,
 1697257966,
-1697312990
+1697312990,
+1697507061
 ],
 "title": "Kinetic Sculpture"
 }
