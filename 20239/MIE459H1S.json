@@ -192,6 +192,7 @@
 114,
 114,
 114,
+114,
 114
 ],
 "instructorLog": {
@@ -205,13 +206,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sharon",
+"lastName": "Ferguson"
+}
+],
+"timing": 1697739390
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Alison",
-"lastName": "Olechowski"
+"firstName": "Sharon",
+"lastName": "Ferguson"
 }
 ],
 "isCancelled": false,
@@ -400,7 +410,8 @@
 1697312990,
 1697507061,
 1697572777,
-1697675063
+1697675063,
+1697739390
 ],
 "title": "Organization Design"
 }

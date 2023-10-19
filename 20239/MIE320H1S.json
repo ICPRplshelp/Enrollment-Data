@@ -192,13 +192,29 @@
 104,
 104,
 104,
+104,
 104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nazanin",
+"lastName": "Khalili"
+}
+],
+"timing": 1697739390
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nazanin",
+"lastName": "Khalili"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -385,7 +401,8 @@
 1697312990,
 1697507061,
 1697572777,
-1697675063
+1697675063,
+1697739390
 ],
 "title": "Mechanics of Solids II"
 }

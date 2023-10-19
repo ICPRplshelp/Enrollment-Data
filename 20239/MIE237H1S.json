@@ -201,13 +201,29 @@
 116,
 116,
 116,
+116,
 116
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Leung"
+}
+],
+"timing": 1697739390
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Leung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -394,7 +410,8 @@
 1697312990,
 1697507061,
 1697572777,
-1697675063
+1697675063,
+1697739390
 ],
 "title": "Statistics"
 }
