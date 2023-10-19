@@ -194,6 +194,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -216,13 +217,22 @@
 }
 ],
 "timing": 1697080581
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Xavier",
+"lastName": "Scott"
+}
+],
+"timing": 1697675063
 }
 ]
 },
 "instructors": [
 {
-"firstName": "XAVIER",
-"lastName": "SCOTT"
+"firstName": "Xavier",
+"lastName": "Scott"
 }
 ],
 "isCancelled": false,
@@ -413,7 +423,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Political Economy and Social Inequality"
 }

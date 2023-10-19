@@ -191,6 +191,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -225,6 +226,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -619,6 +621,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -653,6 +656,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1047,6 +1051,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1081,6 +1086,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1475,6 +1481,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1509,6 +1516,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1903,6 +1911,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1937,6 +1946,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2331,6 +2341,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2545,6 +2556,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2558,13 +2570,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ashley",
+"lastName": "Vandiver"
+}
+],
+"timing": 1697675063
 }
 ]
 },
 "instructors": [
 {
-"firstName": "tviola79@gmail.com",
-"lastName": "Rudolph"
+"firstName": "Ashley",
+"lastName": "Vandiver"
 }
 ],
 "isCancelled": false,
@@ -2579,6 +2600,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2793,6 +2815,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3195,6 +3218,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -3229,6 +3253,7 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3623,6 +3648,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -3830,7 +3856,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Instrumental Performance Class"
 }

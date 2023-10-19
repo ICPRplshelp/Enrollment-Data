@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1697675063
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -190,6 +195,7 @@
 43,
 43,
 43,
+42,
 42,
 42
 ],
@@ -398,7 +404,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Anthropology of Science Fiction"
 }

@@ -196,13 +196,29 @@
 48,
 48,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Constantinou"
+}
+],
+"timing": 1697675063
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Constantinou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -388,7 +404,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Public Management"
 }

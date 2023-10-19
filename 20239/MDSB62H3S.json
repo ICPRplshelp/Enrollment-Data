@@ -184,13 +184,29 @@
 76,
 76,
 75,
+75,
 75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Lobo"
+}
+],
+"timing": 1697675063
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Lobo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -364,7 +380,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Visual Culture and Communication"
 }

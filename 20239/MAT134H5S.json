@@ -191,7 +191,8 @@
 252,
 252,
 251,
-252
+252,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,9 +220,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1697675063
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
@@ -405,7 +411,8 @@
 0,
 0,
 0,
-0
+0,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -604,7 +611,8 @@
 276,
 276,
 271,
-270
+270,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -818,7 +826,8 @@
 209,
 209,
 206,
-207
+207,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1010,7 +1019,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Integral Calculus for Life Sciences"
 }

@@ -191,6 +191,7 @@
 121,
 121,
 121,
+120,
 120
 ],
 "instructorLog": {
@@ -405,6 +406,7 @@
 120,
 120,
 116,
+117,
 117
 ],
 "instructorLog": {
@@ -619,13 +621,29 @@
 85,
 85,
 82,
-82
+82,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samir",
+"lastName": "Hamdi"
+}
+],
+"timing": 1697675063
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samir",
+"lastName": "Hamdi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -811,7 +829,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Statistics with Applied Probability"
 }

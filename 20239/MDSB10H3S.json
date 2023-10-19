@@ -190,13 +190,29 @@
 94,
 94,
 94,
+93,
 93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Chalk"
+}
+],
+"timing": 1697675063
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Chalk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -376,7 +392,8 @@
 1697257966,
 1697312990,
 1697507061,
-1697572777
+1697572777,
+1697675063
 ],
 "title": "Technology, Culture and Society"
 }
