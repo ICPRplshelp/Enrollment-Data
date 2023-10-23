@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 122,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 122,
+"time": 1698104571
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -196,7 +201,8 @@
 122,
 122,
 122,
-122
+122,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -408,7 +414,8 @@
 1697739390,
 1697863311,
 1697928857,
-1697998896
+1697998896,
+1698104571
 ],
 "title": "Being Human: Classic Thought on Self and Society"
 }

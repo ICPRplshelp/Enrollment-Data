@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1698104571
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -199,7 +204,8 @@
 20,
 20,
 20,
-20
+20,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +420,8 @@
 1697739390,
 1697863311,
 1697928857,
-1697998896
+1697998896,
+1698104571
 ],
 "title": "Methods in Genomics and Proteomics"
 }

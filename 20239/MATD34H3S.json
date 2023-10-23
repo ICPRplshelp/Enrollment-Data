@@ -196,13 +196,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
+"timing": 1698104571
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -393,7 +409,8 @@
 1697739390,
 1697863311,
 1697928857,
-1697998896
+1697998896,
+1698104571
 ],
 "title": "Complex Variables II"
 }

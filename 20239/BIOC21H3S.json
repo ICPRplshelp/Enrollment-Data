@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 86,
+"enrollmentCap": 115,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 86,
 "time": 1688672198
+},
+{
+"newCapacity": 115,
+"time": 1698104571
 }
 ],
 "initialCap": 75
@@ -201,7 +205,8 @@
 115,
 114,
 114,
-114
+114,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -413,7 +418,8 @@
 1697739390,
 1697863311,
 1697928857,
-1697998896
+1697998896,
+1698104571
 ],
 "title": "Vertebrate Histology: Cells and Tissues"
 }

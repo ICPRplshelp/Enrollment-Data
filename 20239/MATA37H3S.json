@@ -196,13 +196,29 @@
 265,
 265,
 265,
+265,
 265
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
+"timing": 1698104571
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nikolay",
+"lastName": "Bogachev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -400,7 +416,8 @@
 259,
 258,
 258,
-258
+258,
+257
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -619,6 +636,7 @@
 268,
 268,
 268,
+268,
 268
 ],
 "instructorLog": {
@@ -831,7 +849,8 @@
 1697739390,
 1697863311,
 1697928857,
-1697998896
+1697998896,
+1698104571
 ],
 "title": "Calculus II for Mathematical Sciences"
 }
