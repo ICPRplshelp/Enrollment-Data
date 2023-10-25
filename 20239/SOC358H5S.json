@@ -197,6 +197,7 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
@@ -210,13 +211,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Pritchard"
+}
+],
+"timing": 1698193267
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Yvonne Patricia",
-"lastName": "Sherwood"
+"firstName": "Paul",
+"lastName": "Pritchard"
 }
 ],
 "isCancelled": false,
@@ -410,7 +420,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Indigenous People: Legal Orders & Law"
 }

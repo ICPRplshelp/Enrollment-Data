@@ -1,0 +1,46 @@
+{
+"code": "SOCB22H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1698193267,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Hashemi"
+}
+],
+"timing": 1698193267
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bahar",
+"lastName": "Hashemi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1698193266,
+1698193267
+],
+"title": "Sociology of Gender"
+}

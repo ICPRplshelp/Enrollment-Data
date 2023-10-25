@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1698193267
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -196,6 +201,7 @@
 19,
 19,
 19,
+14,
 14,
 14,
 14,
@@ -416,7 +422,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Algebraic Number Theory"
 }

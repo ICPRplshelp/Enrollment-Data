@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1698193267
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -197,6 +202,7 @@
 62,
 62,
 62,
+64,
 64
 ],
 "instructorLog": {
@@ -410,7 +416,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Introduction to Middle Eastern History"
 }

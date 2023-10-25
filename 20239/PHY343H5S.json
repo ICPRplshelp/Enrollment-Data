@@ -197,13 +197,29 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Seshu",
+"lastName": "Iyengar"
+}
+],
+"timing": 1698193267
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Seshu",
+"lastName": "Iyengar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -395,7 +411,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Classical Mechanics"
 }

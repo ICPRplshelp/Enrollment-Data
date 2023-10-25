@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 450,
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 500,
+"time": 1698193267
+}
+],
 "initialCap": 450
 },
 "enrollmentLogs": [
@@ -197,7 +202,8 @@
 499,
 499,
 499,
-502
+502,
+505
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -410,7 +416,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Introduction to the Study of Religion"
 }

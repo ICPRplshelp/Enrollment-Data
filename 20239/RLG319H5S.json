@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 94,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1692247612
+},
+{
+"newCapacity": 94,
+"time": 1698193267
 }
 ],
 "initialCap": 45
@@ -202,7 +206,8 @@
 95,
 95,
 95,
-95
+95,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -415,7 +420,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Magic, Astrology, and Religion"
 }

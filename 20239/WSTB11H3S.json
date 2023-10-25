@@ -197,13 +197,29 @@
 47,
 47,
 47,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Atiqa",
+"lastName": "Hachimi"
+}
+],
+"timing": 1698193267
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Atiqa",
+"lastName": "Hachimi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -395,7 +411,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Intersections of Inequality"
 }

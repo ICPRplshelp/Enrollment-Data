@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 44,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 44,
+"time": 1698193267
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -179,6 +184,7 @@
 43,
 43,
 43,
+44,
 44,
 44,
 44,
@@ -410,7 +416,8 @@
 1697863311,
 1697928857,
 1697998896,
-1698104571
+1698104571,
+1698193267
 ],
 "title": "Osteological Theory and Methods"
 }
