@@ -198,7 +198,8 @@
 70,
 70,
 71,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -211,13 +212,22 @@
 }
 ],
 "timing": 1691785160
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Girgis"
+}
+],
+"timing": 1698343983
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Laura",
-"lastName": "Sedra"
+"lastName": "Girgis"
 }
 ],
 "isCancelled": false,
@@ -412,7 +422,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Laboratory in Animal Physiology"
 }

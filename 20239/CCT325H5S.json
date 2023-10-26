@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1698343983
+}
+],
 "initialCap": 135
 },
 "enrollmentLogs": [
@@ -198,7 +203,8 @@
 145,
 145,
 145,
-145
+145,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -412,7 +418,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Media Economics II"
 }

@@ -198,13 +198,29 @@
 8,
 8,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseanne",
+"lastName": "Cudjoe"
+}
+],
+"timing": 1698343983
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseanne",
+"lastName": "Cudjoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -397,7 +413,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Media Ethics"
 }

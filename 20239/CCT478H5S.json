@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 50,
 "time": 1692247612
+},
+{
+"newCapacity": 59,
+"time": 1698343983
 }
 ],
 "initialCap": 40
@@ -202,6 +206,7 @@
 55,
 55,
 55,
+52,
 52,
 52
 ],
@@ -417,7 +422,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "UX Design - Prototyping and Evaluation"
 }

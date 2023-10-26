@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1698343983
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -198,7 +203,8 @@
 127,
 127,
 127,
-126
+126,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,12 +232,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 110,
 "time": 1692247612
+},
+{
+"newCapacity": 130,
+"time": 1698343983
 }
 ],
 "initialCap": 100
@@ -424,7 +434,8 @@
 135,
 135,
 135,
-134
+134,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -638,7 +649,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "International Trade Theory"
 }

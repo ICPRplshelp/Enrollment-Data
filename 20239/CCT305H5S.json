@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698343983
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -194,6 +199,7 @@
 59,
 59,
 59,
+60,
 60,
 60,
 60,
@@ -419,7 +425,8 @@
 53,
 53,
 53,
-53
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -633,7 +640,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Design and Implementation of Multimedia Documents (SH)"
 }

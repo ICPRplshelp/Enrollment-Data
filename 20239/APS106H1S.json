@@ -219,7 +219,8 @@
 302,
 302,
 302,
-302
+302,
+301
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,14 +241,23 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Goodfellow"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+}
+],
+"timing": 1698343983
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Mohamad",
-"lastName": "Moosavi"
-},
 {
 "firstName": "Sebastian",
 "lastName": "Goodfellow"
@@ -469,6 +479,7 @@
 159,
 159,
 159,
+159,
 159
 ],
 "instructorLog": {
@@ -482,13 +493,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamad",
+"lastName": "Moosavi"
+}
+],
+"timing": 1698343983
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chris",
-"lastName": "Beck"
+"firstName": "Mohamad",
+"lastName": "Moosavi"
 }
 ],
 "isCancelled": false,
@@ -703,6 +723,7 @@
 131,
 131,
 131,
+131,
 131
 ],
 "instructorLog": {
@@ -720,17 +741,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Chris",
+"lastName": "Beck"
+}
+],
+"timing": 1698343983
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Mohamad",
-"lastName": "Moosavi"
-},
-{
-"firstName": "Sebastian",
-"lastName": "Goodfellow"
+"firstName": "Chris",
+"lastName": "Beck"
 }
 ],
 "isCancelled": false,
@@ -925,7 +951,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Fundamentals of Computer Programming"
 }

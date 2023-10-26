@@ -5,12 +5,16 @@
 {
 "createdAt": 1687464880,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 99,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 90,
 "time": 1692247612
+},
+{
+"newCapacity": 99,
+"time": 1698343983
 }
 ],
 "initialCap": 60
@@ -189,7 +193,8 @@
 99,
 99,
 99,
-99
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -389,7 +394,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Organizational Studies III (DEM)"
 }

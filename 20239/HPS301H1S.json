@@ -111,13 +111,29 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Katz"
+}
+],
+"timing": 1698343983
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Katz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -223,7 +239,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Topics in the History of Science"
 }

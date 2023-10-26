@@ -198,6 +198,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -419,13 +420,29 @@
 26,
 26,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephanie Ann",
+"lastName": "Schwartz"
+}
+],
+"timing": 1698343983
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephanie Ann",
+"lastName": "Schwartz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -624,6 +641,7 @@
 25,
 25,
 25,
+27,
 27,
 27
 ],
@@ -824,7 +842,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Current Topics in Social Psychology"
 }

@@ -198,7 +198,8 @@
 45,
 45,
 46,
-46
+46,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,9 +227,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 93,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 93,
+"time": 1698343983
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -419,7 +425,8 @@
 91,
 91,
 91,
-91
+91,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -633,7 +640,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Digital Marketing I (DEM)"
 }

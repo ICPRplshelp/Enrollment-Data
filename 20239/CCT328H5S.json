@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 75,
 "time": 1692247612
+},
+{
+"newCapacity": 105,
+"time": 1698343983
 }
 ],
 "initialCap": 120
@@ -207,7 +211,8 @@
 101,
 101,
 101,
-100
+100,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -406,7 +411,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Project Management"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1698343983
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -197,6 +202,7 @@
 126,
 126,
 126,
+127,
 127,
 127
 ],
@@ -412,7 +418,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Digital Innovation and Cultural Transformation"
 }

@@ -198,13 +198,29 @@
 39,
 39,
 39,
+39,
 39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gabrielle",
+"lastName": "Forget"
+}
+],
+"timing": 1698343983
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gabrielle",
+"lastName": "Forget"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -397,7 +413,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Intermediate Language Practice: Spoken French"
 }

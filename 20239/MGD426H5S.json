@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1692247612
+},
+{
+"newCapacity": 90,
+"time": 1698343983
 }
 ],
 "initialCap": 50
@@ -191,6 +195,7 @@
 89,
 89,
 89,
+90,
 90,
 90,
 90,
@@ -417,7 +422,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Enterprise Risk Management"
 }

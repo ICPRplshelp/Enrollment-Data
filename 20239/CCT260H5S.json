@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698343983
+}
+],
 "initialCap": 34
 },
 "enrollmentLogs": [
@@ -198,7 +203,8 @@
 38,
 38,
 38,
-38
+38,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,9 +232,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698343983
+}
+],
 "initialCap": 34
 },
 "enrollmentLogs": [
@@ -419,7 +430,8 @@
 41,
 41,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -447,9 +459,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698343983
+}
+],
 "initialCap": 34
 },
 "enrollmentLogs": [
@@ -640,7 +657,8 @@
 43,
 43,
 43,
-44
+44,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -668,9 +686,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 33,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698343983
+}
+],
 "initialCap": 33
 },
 "enrollmentLogs": [
@@ -861,7 +884,8 @@
 37,
 37,
 37,
-38
+38,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1075,7 +1099,8 @@
 1697928857,
 1697998896,
 1698104571,
-1698193267
+1698193267,
+1698343983
 ],
 "title": "Web Culture and Design"
 }
