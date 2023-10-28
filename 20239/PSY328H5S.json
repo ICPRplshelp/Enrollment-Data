@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 130,
 "time": 1693011094
+},
+{
+"newCapacity": 150,
+"time": 1698522144
 }
 ],
 "initialCap": 120
@@ -204,7 +208,8 @@
 161,
 160,
 151,
-151
+151,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -419,7 +424,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Psychology and the Law"
 }

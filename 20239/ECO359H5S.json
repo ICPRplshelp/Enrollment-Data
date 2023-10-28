@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1698522144
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -199,6 +204,7 @@
 93,
 93,
 94,
+95,
 95
 ],
 "instructorLog": {
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Financial Economics II"
 }

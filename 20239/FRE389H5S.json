@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1698522144
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -186,6 +191,7 @@
 31,
 31,
 31,
+32,
 32,
 32,
 32,
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Individual Differences in Second Language Acquisition"
 }

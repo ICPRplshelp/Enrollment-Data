@@ -5,9 +5,14 @@
 {
 "createdAt": 1690549709,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1698522144
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -112,7 +117,8 @@
 104,
 105,
 107,
-107
+107,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -225,7 +231,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Financial Management for Arts Managers"
 }

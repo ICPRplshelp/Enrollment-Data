@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1698522144
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -194,6 +199,7 @@
 39,
 39,
 40,
+39,
 39,
 39,
 39,
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Intermediate Language Practice: Spoken French"
 }

@@ -202,6 +202,7 @@
 160,
 162,
 161,
+162,
 162
 ],
 "instructorLog": {
@@ -215,6 +216,19 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tony",
+"lastName": "Harris"
+},
+{
+"firstName": "Vikrant Krishnarao",
+"lastName": "Bhosle"
+}
+],
+"timing": 1698522144
 }
 ]
 },
@@ -222,6 +236,10 @@
 {
 "firstName": "Tony",
 "lastName": "Harris"
+},
+{
+"firstName": "Vikrant Krishnarao",
+"lastName": "Bhosle"
 }
 ],
 "isCancelled": false,
@@ -420,7 +438,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Advanced Cell Biology"
 }

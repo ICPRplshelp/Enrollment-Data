@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1698522144
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -199,7 +204,8 @@
 34,
 34,
 34,
-34
+34,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Roots of Psychology: A history of the field from the 19th century to the present day"
 }

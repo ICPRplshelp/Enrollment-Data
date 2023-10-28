@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 188,
+"enrollmentCap": 218,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 218,
+"time": 1698522144
+}
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -202,7 +207,8 @@
 280,
 273,
 272,
-270
+270,
+268
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -420,7 +426,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Algebra II"
 }

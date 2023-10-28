@@ -202,13 +202,29 @@
 21,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amel",
+"lastName": "Taibi"
+}
+],
+"timing": 1698522144
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amel",
+"lastName": "Taibi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -405,7 +421,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Nutritional Toxicology"
 }

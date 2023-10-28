@@ -202,13 +202,29 @@
 148,
 148,
 148,
+149,
 149
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denis",
+"lastName": "Collier"
+}
+],
+"timing": 1698522144
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denis",
+"lastName": "Collier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -405,7 +421,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Nutrition, Athletics, Performance and Behaviour"
 }

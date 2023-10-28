@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1698522144
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -198,6 +203,7 @@
 24,
 24,
 24,
+23,
 23,
 23
 ],
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Developmental Psychology Laboratory"
 }

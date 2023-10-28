@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1698522144
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -199,6 +204,7 @@
 72,
 72,
 72,
+72,
 72
 ],
 "instructorLog": {
@@ -227,9 +233,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1698522144
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -421,7 +432,8 @@
 71,
 71,
 71,
-71
+71,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -449,12 +461,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 73,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 73,
 "time": 1695920924
+},
+{
+"newCapacity": 75,
+"time": 1698522144
 }
 ],
 "initialCap": 72
@@ -634,6 +650,7 @@
 73,
 73,
 73,
+72,
 72,
 72,
 72,
@@ -863,7 +880,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "People Management and Organizational Behaviour"
 }

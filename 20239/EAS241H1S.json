@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1698522144
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -202,7 +207,8 @@
 154,
 154,
 153,
-154
+154,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -420,7 +426,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Introduction to Chinese Philosophy"
 }

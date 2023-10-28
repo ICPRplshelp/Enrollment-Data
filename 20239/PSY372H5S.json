@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 71,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 71,
+"time": 1698522144
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -199,7 +204,8 @@
 82,
 82,
 70,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Human Memory: The World within your Mind"
 }

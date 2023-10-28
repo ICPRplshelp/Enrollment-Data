@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1698522144
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -199,7 +204,8 @@
 85,
 85,
 85,
-85
+85,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Fundamentals of User Interface Programming"
 }

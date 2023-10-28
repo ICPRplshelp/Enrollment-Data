@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1698522144
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -199,7 +204,8 @@
 182,
 180,
 180,
-179
+179,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -414,7 +420,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Research Design and Analysis in Psychology II"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 155,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 150,
 "time": 1692120475
+},
+{
+"newCapacity": 155,
+"time": 1698522144
 }
 ],
 "initialCap": 80
@@ -204,7 +208,8 @@
 154,
 155,
 155,
-151
+151,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -428,7 +433,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Becoming a Producer"
 }

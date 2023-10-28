@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 194,
+"enrollmentCap": 214,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 214,
+"time": 1698522144
+}
+],
 "initialCap": 194
 },
 "enrollmentLogs": [
@@ -202,6 +207,7 @@
 231,
 231,
 231,
+233,
 233
 ],
 "instructorLog": {
@@ -432,7 +438,8 @@
 235,
 235,
 234,
-234
+234,
+224
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -650,7 +657,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Introduction to Combinatorics"
 }

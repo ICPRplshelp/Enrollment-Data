@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 170,
+"enrollmentCap": 195,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 195,
+"time": 1698522144
+}
+],
 "initialCap": 170
 },
 "enrollmentLogs": [
@@ -201,6 +206,7 @@
 238,
 238,
 233,
+232,
 232,
 232
 ],
@@ -427,7 +433,8 @@
 84,
 86,
 86,
-88
+88,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -637,7 +644,8 @@
 244,
 240,
 241,
-242
+242,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -855,7 +863,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Concepts in Abstract Mathematics"
 }

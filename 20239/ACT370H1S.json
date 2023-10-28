@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 69,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 69,
 "time": 1689714369
+},
+{
+"newCapacity": 80,
+"time": 1698522144
 }
 ],
 "initialCap": 115
@@ -207,6 +211,7 @@
 74,
 74,
 74,
+74,
 74
 ],
 "instructorLog": {
@@ -389,6 +394,7 @@
 25,
 24,
 24,
+23,
 23,
 23,
 23,
@@ -655,7 +661,8 @@
 1697998896,
 1698104571,
 1698193267,
-1698343983
+1698343983,
+1698522144
 ],
 "title": "Financial Principles for Actuarial Science II"
 }
