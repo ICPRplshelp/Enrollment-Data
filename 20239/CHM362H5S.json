@@ -201,13 +201,29 @@
 84,
 82,
 82,
-82
+82,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian Mihai",
+"lastName": "Rotaru"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian Mihai",
+"lastName": "Rotaru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -403,7 +419,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Metabolism and Bioenergetics"
 }

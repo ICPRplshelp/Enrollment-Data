@@ -124,13 +124,29 @@
 23,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -249,7 +265,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "CCIT Internship I"
 }

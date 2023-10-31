@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1698713363
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -201,7 +206,8 @@
 63,
 63,
 63,
-63
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -418,7 +424,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Minds and Machines"
 }

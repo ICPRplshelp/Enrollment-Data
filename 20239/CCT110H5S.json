@@ -201,6 +201,7 @@
 426,
 428,
 429,
+429,
 429
 ],
 "instructorLog": {
@@ -214,6 +215,19 @@
 }
 ],
 "timing": 1690054076
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steve",
+"lastName": "Szigeti"
+},
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
+"timing": 1698713363
 }
 ]
 },
@@ -221,6 +235,10 @@
 {
 "firstName": "Steve",
 "lastName": "Szigeti"
+},
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
 }
 ],
 "isCancelled": false,
@@ -425,7 +443,8 @@
 424,
 423,
 424,
-424
+424,
+426
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -438,6 +457,19 @@
 }
 ],
 "timing": 1690054076
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steve",
+"lastName": "Szigeti"
+},
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
+"timing": 1698713363
 }
 ]
 },
@@ -445,6 +477,10 @@
 {
 "firstName": "Steve",
 "lastName": "Szigeti"
+},
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
 }
 ],
 "isCancelled": false,
@@ -642,7 +678,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Rhetoric and Media"
 }

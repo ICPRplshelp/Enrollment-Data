@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 175,
+"time": 1698713363
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -201,7 +206,8 @@
 172,
 174,
 174,
-174
+174,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -418,7 +424,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Exploring the Universe"
 }

@@ -204,7 +204,8 @@
 80,
 80,
 66,
-66
+66,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -431,13 +432,29 @@
 0,
 0,
 21,
-21
+21,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Chan"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -636,7 +653,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Health Psychology"
 }

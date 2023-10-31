@@ -201,13 +201,29 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -403,7 +419,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Specialized Prose"
 }

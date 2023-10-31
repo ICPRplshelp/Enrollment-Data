@@ -201,6 +201,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -214,9 +215,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1698713363
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -410,7 +416,8 @@
 134,
 134,
 135,
-135
+135,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -627,7 +634,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Introduction to Discrete Mathematics"
 }

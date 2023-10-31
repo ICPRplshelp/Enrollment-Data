@@ -206,13 +206,29 @@
 65,
 65,
 64,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -420,13 +436,29 @@
 50,
 51,
 52,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -622,7 +654,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Remote Work , Technology and Collaboration"
 }

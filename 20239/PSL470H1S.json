@@ -204,13 +204,37 @@
 76,
 76,
 77,
-77
+77,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
 },
-"instructors": [],
+{
+"firstName": "Vitor",
+"lastName": "Guerra"
+}
+],
+"timing": 1698713363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+},
+{
+"firstName": "Vitor",
+"lastName": "Guerra"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -409,7 +433,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Cardiovascular Physiology"
 }

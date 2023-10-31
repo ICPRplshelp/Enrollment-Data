@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1698713363
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -204,7 +209,8 @@
 17,
 17,
 17,
-17
+17,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -223,6 +229,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -621,7 +628,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Topics in Asian Histories"
 }

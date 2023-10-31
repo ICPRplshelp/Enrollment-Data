@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 187,
+"enrollmentCap": 183,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 187,
 "time": 1695835931
+},
+{
+"newCapacity": 183,
+"time": 1698713363
 }
 ],
 "initialCap": 234
@@ -203,6 +207,7 @@
 185,
 185,
 185,
+183,
 183,
 183,
 183,
@@ -447,7 +452,8 @@
 67,
 66,
 68,
-68
+68,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -664,7 +670,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Advanced Data Analysis in Psychology"
 }

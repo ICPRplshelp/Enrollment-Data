@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1698713363
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -199,6 +204,7 @@
 9,
 9,
 9,
+8,
 8,
 8,
 8
@@ -403,7 +409,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Legal Environment of Business II"
 }

@@ -201,13 +201,29 @@
 66,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -403,7 +419,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Popular Culture and Society"
 }

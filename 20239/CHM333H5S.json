@@ -201,13 +201,29 @@
 61,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Judith",
+"lastName": "Poe"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Judith",
+"lastName": "Poe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -403,7 +419,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Bioinorganic Chemistry"
 }

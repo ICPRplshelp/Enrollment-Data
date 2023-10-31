@@ -214,13 +214,29 @@
 100,
 99,
 100,
-100
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1698713363
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -416,7 +432,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Project Management"
 }

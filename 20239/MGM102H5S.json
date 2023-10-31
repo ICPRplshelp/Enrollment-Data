@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 350,
+"enrollmentCap": 400,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 400,
+"time": 1698713363
+}
+],
 "initialCap": 350
 },
 "enrollmentLogs": [
@@ -201,7 +206,8 @@
 391,
 392,
 390,
-390
+390,
+388
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -403,7 +409,8 @@
 1698193267,
 1698343983,
 1698522144,
-1698606631
+1698606631,
+1698713363
 ],
 "title": "Management in a Changing Environment"
 }
