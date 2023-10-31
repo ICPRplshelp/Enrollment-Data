@@ -202,7 +202,8 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,9 +216,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1698788968
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -412,7 +418,8 @@
 83,
 83,
 83,
-79
+79,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -615,7 +622,8 @@
 1698343983,
 1698522144,
 1698606631,
-1698713363
+1698713363,
+1698788968
 ],
 "title": "Equity and Diversity in Education"
 }

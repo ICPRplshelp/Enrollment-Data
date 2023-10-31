@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1698788968
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -202,7 +207,8 @@
 81,
 82,
 82,
-80
+80,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -405,7 +411,8 @@
 1698343983,
 1698522144,
 1698606631,
-1698713363
+1698713363,
+1698788968
 ],
 "title": "Learning Through the Lifespan"
 }

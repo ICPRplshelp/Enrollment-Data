@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 30,
 "time": 1694100800
+},
+{
+"newCapacity": 31,
+"time": 1698788968
 }
 ],
 "initialCap": 30
@@ -211,7 +215,8 @@
 30,
 30,
 30,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -429,7 +434,8 @@
 1698343983,
 1698522144,
 1698606631,
-1698713363
+1698713363,
+1698788968
 ],
 "title": "Music in North America"
 }

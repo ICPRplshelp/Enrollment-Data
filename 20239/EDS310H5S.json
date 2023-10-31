@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1693623554
+},
+{
+"newCapacity": 100,
+"time": 1698788968
 }
 ],
 "initialCap": 65
@@ -207,7 +211,8 @@
 100,
 101,
 101,
-100
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -410,7 +415,8 @@
 1698343983,
 1698522144,
 1698606631,
-1698713363
+1698713363,
+1698788968
 ],
 "title": "Education in a Global Context"
 }
