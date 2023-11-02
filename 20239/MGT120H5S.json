@@ -204,6 +204,7 @@
 159,
 160,
 160,
+160,
 160
 ],
 "instructorLog": {
@@ -416,7 +417,8 @@
 168,
 168,
 171,
-170
+170,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -628,7 +630,8 @@
 159,
 160,
 162,
-162
+162,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -840,7 +843,8 @@
 168,
 166,
 166,
-164
+164,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -853,12 +857,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1698955219
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1059,7 +1069,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -1257,7 +1267,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Introduction to Financial Accounting"
 }

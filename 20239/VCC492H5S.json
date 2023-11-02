@@ -209,13 +209,29 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Logan"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Logan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -414,7 +430,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Topics in Visual Culture and Communication"
 }

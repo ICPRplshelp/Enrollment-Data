@@ -204,13 +204,29 @@
 51,
 50,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ikjyot Singh",
+"lastName": "Kohli"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ikjyot Singh",
+"lastName": "Kohli"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -409,7 +425,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Thermal Physics"
 }

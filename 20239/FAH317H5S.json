@@ -204,13 +204,29 @@
 41,
 41,
 41,
+41,
 41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Louis",
+"lastName": "Kaplan"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Louis",
+"lastName": "Kaplan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -409,7 +425,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Spirit Photography"
 }

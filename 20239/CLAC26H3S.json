@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1698955219
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -150,6 +155,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -424,7 +430,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Indigeneity and the Classics"
 }

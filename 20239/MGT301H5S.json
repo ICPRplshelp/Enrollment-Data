@@ -204,7 +204,8 @@
 38,
 38,
 38,
-38
+38,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -416,7 +417,8 @@
 47,
 46,
 46,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -429,12 +431,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 44,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1698955219
+}
+],
 "initialCap": 44
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -635,7 +643,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -833,7 +841,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Coding and Data Management for Business Analytics"
 }

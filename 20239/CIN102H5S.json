@@ -213,13 +213,29 @@
 103,
 105,
 105,
+105,
 105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "Marshall"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "Marshall"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -418,7 +434,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Modernity and the Moving Image"
 }

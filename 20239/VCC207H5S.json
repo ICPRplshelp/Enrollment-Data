@@ -204,13 +204,29 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florence",
+"lastName": "Morriello"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florence",
+"lastName": "Morriello"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -409,7 +425,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Urban Sites and Sounds"
 }

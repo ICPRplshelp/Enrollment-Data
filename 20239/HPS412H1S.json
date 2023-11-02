@@ -72,13 +72,29 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fermin Cristoba",
+"lastName": "Fulda de la Garza"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fermin Cristoba",
+"lastName": "Fulda de la Garza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -145,7 +161,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "History of the Biological Sciences"
 }

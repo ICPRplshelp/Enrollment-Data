@@ -207,7 +207,8 @@
 79,
 69,
 69,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -437,13 +438,29 @@
 0,
 16,
 29,
+36,
 36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nelly",
+"lastName": "Matorina"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nelly",
+"lastName": "Matorina"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -645,7 +662,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Human Memory"
 }

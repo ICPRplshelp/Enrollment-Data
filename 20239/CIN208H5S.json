@@ -209,13 +209,37 @@
 72,
 72,
 72,
-74
+74,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dillan",
+"lastName": "Newman"
 },
-"instructors": [],
+{
+"firstName": "Leena Manimekalai",
+"lastName": "Raghupathy"
+}
+],
+"timing": 1698955219
+}
+]
+},
+"instructors": [
+{
+"firstName": "Dillan",
+"lastName": "Newman"
+},
+{
+"firstName": "Leena Manimekalai",
+"lastName": "Raghupathy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -414,7 +438,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "The Films of Abbas Kiarostami: Being and Movement"
 }

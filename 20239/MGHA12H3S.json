@@ -209,13 +209,29 @@
 68,
 67,
 68,
+69,
 69
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SUJAYKUMAR",
+"lastName": "VARDHMANE (NOUTORID)"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SUJAYKUMAR",
+"lastName": "VARDHMANE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -426,6 +442,7 @@
 73,
 74,
 75,
+76,
 76
 ],
 "instructorLog": {
@@ -658,6 +675,7 @@
 72,
 71,
 72,
+73,
 73
 ],
 "instructorLog": {
@@ -890,7 +908,8 @@
 72,
 73,
 73,
-73
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1131,7 +1150,8 @@
 66,
 67,
 68,
-67
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1367,13 +1387,29 @@
 60,
 61,
 62,
+61,
 61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SUJAYKUMAR",
+"lastName": "VARDHMANE (NOUTORID)"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SUJAYKUMAR",
+"lastName": "VARDHMANE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC06"
 }
@@ -1572,7 +1608,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Human Resource Management"
 }

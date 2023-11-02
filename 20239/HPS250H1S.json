@@ -207,13 +207,29 @@
 162,
 163,
 164,
+164,
 164
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bob Feiste Martinus",
+"lastName": "Vos"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bob Feiste Martinus",
+"lastName": "Vos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -415,7 +431,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Introductory Philosophy of Science"
 }

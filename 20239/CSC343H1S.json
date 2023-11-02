@@ -207,6 +207,7 @@
 96,
 98,
 98,
+98,
 98
 ],
 "instructorLog": {
@@ -436,6 +437,7 @@
 93,
 93,
 93,
+92,
 92,
 92
 ],
@@ -667,6 +669,7 @@
 93,
 94,
 93,
+93,
 93
 ],
 "instructorLog": {
@@ -897,7 +900,8 @@
 66,
 66,
 66,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1122,6 +1126,7 @@
 67,
 67,
 67,
+66,
 66,
 66,
 66,
@@ -1357,7 +1362,8 @@
 63,
 63,
 63,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1587,13 +1593,29 @@
 67,
 67,
 67,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -1802,13 +1824,29 @@
 96,
 97,
 96,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Akshay Arun",
+"lastName": "Bapat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -2010,7 +2048,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Introduction to Databases"
 }

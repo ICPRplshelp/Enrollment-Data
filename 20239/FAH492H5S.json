@@ -209,13 +209,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Farrukh",
+"lastName": "Rafiq"
+}
+],
+"timing": 1698955219
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Farrukh",
+"lastName": "Rafiq"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -414,7 +430,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Topics in Modern/Art/Architecture"
 }

@@ -207,6 +207,7 @@
 181,
 187,
 187,
+185,
 185
 ],
 "instructorLog": {
@@ -233,6 +234,19 @@
 }
 ],
 "timing": 1690549709
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pedro",
+"lastName": "Mateo Pedro"
+},
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
+}
+],
+"timing": 1698955219
 }
 ]
 },
@@ -240,6 +254,10 @@
 {
 "firstName": "Pedro",
 "lastName": "Mateo Pedro"
+},
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
 }
 ],
 "isCancelled": false,
@@ -450,6 +468,7 @@
 31,
 29,
 28,
+28,
 28
 ],
 "instructorLog": {
@@ -476,6 +495,19 @@
 }
 ],
 "timing": 1690549709
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pedro",
+"lastName": "Mateo Pedro"
+},
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
+}
+],
+"timing": 1698955219
 }
 ]
 },
@@ -483,6 +515,10 @@
 {
 "firstName": "Pedro",
 "lastName": "Mateo Pedro"
+},
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
 }
 ],
 "isCancelled": false,
@@ -686,7 +722,8 @@
 1698606631,
 1698713363,
 1698788968,
-1698895683
+1698895683,
+1698955219
 ],
 "title": "Introduction to Language"
 }
