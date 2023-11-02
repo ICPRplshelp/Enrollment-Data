@@ -212,13 +212,29 @@
 107,
 107,
 107,
+107,
 107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": ".",
+"lastName": "Mohammed Adam Abbaker Bas"
+}
+],
+"timing": 1698895683
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": ".",
+"lastName": "Mohammed Adam Abbaker Bas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -416,7 +432,8 @@
 1698522144,
 1698606631,
 1698713363,
-1698788968
+1698788968,
+1698895683
 ],
 "title": "Hydraulics and Hydrology"
 }

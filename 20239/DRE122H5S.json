@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1698895683
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -202,6 +207,7 @@
 57,
 57,
 57,
+56,
 56,
 56
 ],
@@ -407,7 +413,8 @@
 1698522144,
 1698606631,
 1698713363,
-1698788968
+1698788968,
+1698895683
 ],
 "title": "Modern and Contemporary Theatre and Drama"
 }

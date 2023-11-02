@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1692226488
+},
+{
+"newCapacity": 105,
+"time": 1698895683
 }
 ],
 "initialCap": 90
@@ -207,6 +211,7 @@
 103,
 103,
 103,
+105,
 105,
 105
 ],
@@ -412,7 +417,8 @@
 1698522144,
 1698606631,
 1698713363,
-1698788968
+1698788968,
+1698895683
 ],
 "title": "Modernity and the Moving Image"
 }
