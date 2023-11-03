@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1699043557
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -206,7 +211,8 @@
 64,
 64,
 65,
-65
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -428,7 +434,8 @@
 1698788968,
 1698895683,
 1698955219,
-1699028649
+1699028649,
+1699043557
 ],
 "title": "Algorithms and Data Structures"
 }
