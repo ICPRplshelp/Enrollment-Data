@@ -208,7 +208,8 @@
 197,
 197,
 197,
-198
+198,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -439,6 +440,7 @@
 198,
 200,
 199,
+202,
 202
 ],
 "instructorLog": {
@@ -670,13 +672,29 @@
 153,
 158,
 161,
+168,
 168
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
+"timing": 1699028649
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -879,7 +897,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Introduction to Social Psychology"
 }

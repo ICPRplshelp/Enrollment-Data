@@ -208,13 +208,29 @@
 177,
 179,
 178,
+179,
 179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jimmy",
+"lastName": "Fraigne"
+}
+],
+"timing": 1699028649
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jimmy",
+"lastName": "Fraigne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -417,7 +433,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Neurobiology of Respiration"
 }

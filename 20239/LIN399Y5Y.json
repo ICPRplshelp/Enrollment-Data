@@ -185,6 +185,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -229,6 +230,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -601,6 +603,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -809,13 +812,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pablo",
+"lastName": "Robles Garcia"
+}
+],
+"timing": 1699028649
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pablo",
+"lastName": "Robles Garcia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -995,7 +1014,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Research Opportunity Program"
 }

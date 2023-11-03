@@ -208,13 +208,29 @@
 25,
 25,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Ascencao"
+}
+],
+"timing": 1699028649
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Ascencao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -417,7 +433,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Art for Social Change"
 }

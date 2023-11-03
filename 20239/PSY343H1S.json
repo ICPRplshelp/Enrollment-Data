@@ -208,7 +208,8 @@
 78,
 77,
 77,
-77
+77,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -439,7 +440,8 @@
 108,
 108,
 108,
-108
+108,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -670,13 +672,29 @@
 65,
 65,
 65,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
+"timing": 1699028649
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -879,7 +897,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Theories of Psychopathology and Psychotherapy"
 }

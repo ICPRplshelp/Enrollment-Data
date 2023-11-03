@@ -208,6 +208,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -246,6 +247,10 @@
 },
 "instructors": [
 {
+"firstName": "Nathan",
+"lastName": "Taback"
+},
+{
 "firstName": "Jessica",
 "lastName": "Gronsbell"
 },
@@ -264,10 +269,6 @@
 {
 "firstName": "Meredith",
 "lastName": "Franklin"
-},
-{
-"firstName": "Nathan",
-"lastName": "Taback"
 }
 ],
 "isCancelled": false,
@@ -472,7 +473,8 @@
 1698713363,
 1698788968,
 1698895683,
-1698955219
+1698955219,
+1699028649
 ],
 "title": "Readings in Statistics"
 }
