@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1699142202
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -203,6 +208,7 @@
 53,
 53,
 53,
+54,
 54,
 54,
 54,
@@ -430,7 +436,8 @@
 1698895683,
 1698955219,
 1699028649,
-1699043557
+1699043557,
+1699142202
 ],
 "title": "Topics in Classical Myth and Literature"
 }
