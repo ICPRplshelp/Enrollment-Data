@@ -215,6 +215,7 @@
 72,
 72,
 72,
+72,
 72
 ],
 "instructorLog": {
@@ -232,6 +233,15 @@
 }
 ],
 "timing": 1698955219
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dillan",
+"lastName": "Newman"
+}
+],
+"timing": 1699302053
 }
 ]
 },
@@ -239,10 +249,6 @@
 {
 "firstName": "Dillan",
 "lastName": "Newman"
-},
-{
-"firstName": "Leena Manimekalai",
-"lastName": "Raghupathy"
 }
 ],
 "isCancelled": false,
@@ -449,7 +455,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "The Films of Abbas Kiarostami: Being and Movement"
 }

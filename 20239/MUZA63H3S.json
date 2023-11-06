@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 18,
+"time": 1699302053
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -207,6 +212,7 @@
 18,
 18,
 18,
+17,
 17,
 17,
 17,
@@ -421,7 +427,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Concert Choir Ib"
 }

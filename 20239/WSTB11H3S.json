@@ -210,7 +210,8 @@
 49,
 49,
 49,
-49
+49,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -223,13 +224,22 @@
 }
 ],
 "timing": 1698193267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Anissa",
+"lastName": "Talahite-Moodley"
+}
+],
+"timing": 1699302053
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Atiqa",
-"lastName": "Hachimi"
+"firstName": "Anissa",
+"lastName": "Talahite-Moodley"
 }
 ],
 "isCancelled": false,
@@ -436,7 +446,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Intersections of Inequality"
 }

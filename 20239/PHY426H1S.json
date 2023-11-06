@@ -213,6 +213,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -271,6 +272,31 @@
 }
 ],
 "timing": 1690054077
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+},
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+},
+{
+"firstName": "Peter",
+"lastName": "Krieger"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Boris",
+"lastName": "Braverman"
+}
+],
+"timing": 1699302053
 }
 ]
 },
@@ -282,10 +308,6 @@
 {
 "firstName": "Stephen",
 "lastName": "Julian"
-},
-{
-"firstName": "Debra",
-"lastName": "Wunch"
 },
 {
 "firstName": "Peter",
@@ -507,7 +529,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Advanced Practical Physics I"
 }

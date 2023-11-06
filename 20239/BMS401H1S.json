@@ -213,6 +213,7 @@
 46,
 46,
 46,
+46,
 46
 ],
 "instructorLog": {
@@ -449,13 +450,29 @@
 24,
 24,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Pontieri"
+}
+],
+"timing": 1699302053
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Pontieri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -670,7 +687,8 @@
 16,
 17,
 17,
-17
+17,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -899,7 +917,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Advanced Topics in Book & Media Cultures"
 }

@@ -215,13 +215,29 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dennis",
+"lastName": "Fernandes"
+}
+],
+"timing": 1699302053
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dennis",
+"lastName": "Fernandes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -426,7 +442,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Statistical Mechanics"
 }

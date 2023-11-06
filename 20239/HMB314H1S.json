@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 96,
+"enrollmentCap": 144,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 144,
+"time": 1699302053
+}
+],
 "initialCap": 96
 },
 "enrollmentLogs": [
@@ -213,7 +218,8 @@
 115,
 115,
 115,
-115
+115,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -442,7 +448,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Laboratory in Human Biology"
 }

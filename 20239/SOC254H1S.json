@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 188,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 150,
 "time": 1690443128
+},
+{
+"newCapacity": 188,
+"time": 1699302053
 }
 ],
 "initialCap": 120
@@ -218,7 +222,8 @@
 191,
 190,
 190,
-190
+190,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -447,7 +452,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Intermediate Qualitative Methods in Sociology"
 }

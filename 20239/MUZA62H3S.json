@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1699302053
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -210,7 +215,8 @@
 25,
 25,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -421,7 +427,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Concert Choir Ia"
 }

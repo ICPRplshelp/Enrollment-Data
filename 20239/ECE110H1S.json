@@ -219,7 +219,8 @@
 162,
 162,
 162,
-162
+162,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +248,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 162,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -265,6 +266,10 @@
 {
 "newCapacity": 162,
 "time": 1691549731
+},
+{
+"newCapacity": 133,
+"time": 1699302053
 }
 ],
 "initialCap": 133
@@ -469,7 +474,8 @@
 135,
 135,
 135,
-135
+135,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,7 +503,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 124,
+"enrollmentCap": 112,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -519,6 +525,10 @@
 {
 "newCapacity": 124,
 "time": 1693527610
+},
+{
+"newCapacity": 112,
+"time": 1699302053
 }
 ],
 "initialCap": 110
@@ -723,7 +733,8 @@
 116,
 116,
 116,
-116
+116,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -751,7 +762,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 142,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -769,6 +780,10 @@
 {
 "newCapacity": 142,
 "time": 1693527610
+},
+{
+"newCapacity": 133,
+"time": 1699302053
 }
 ],
 "initialCap": 125
@@ -957,6 +972,7 @@
 134,
 134,
 134,
+133,
 133,
 133,
 133,
@@ -1001,7 +1017,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 164,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1011,6 +1027,10 @@
 {
 "newCapacity": 164,
 "time": 1689016776
+},
+{
+"newCapacity": 160,
+"time": 1699302053
 }
 ],
 "initialCap": 125
@@ -1215,7 +1235,8 @@
 141,
 141,
 141,
-141
+141,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1243,7 +1264,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 152,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1253,6 +1274,10 @@
 {
 "newCapacity": 152,
 "time": 1689016776
+},
+{
+"newCapacity": 130,
+"time": 1699302053
 }
 ],
 "initialCap": 125
@@ -1457,7 +1482,8 @@
 134,
 134,
 134,
-134
+134,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1683,7 +1709,8 @@
 1699043557,
 1699142202,
 1699212860,
-1699238524
+1699238524,
+1699302053
 ],
 "title": "Electrical Fundamentals"
 }
