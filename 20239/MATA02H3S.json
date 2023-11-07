@@ -212,13 +212,29 @@
 203,
 203,
 203,
-204
+204,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Chrysostomou"
+}
+],
+"timing": 1699388725
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophie",
+"lastName": "Chrysostomou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -425,7 +441,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "The Magic of Numbers"
 }

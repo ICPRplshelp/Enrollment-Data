@@ -215,6 +215,7 @@
 48,
 48,
 49,
+49,
 49
 ],
 "instructorLog": {
@@ -453,6 +454,7 @@
 36,
 36,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -481,9 +483,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1699388725
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -690,6 +697,7 @@
 42,
 42,
 42,
+43,
 43,
 43
 ],
@@ -907,7 +915,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "Intermediate Financial Accounting II"
 }

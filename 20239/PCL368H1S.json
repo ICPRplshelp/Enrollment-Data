@@ -215,6 +215,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -237,15 +238,20 @@
 "lastName": "Hamadanizadeh"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1699388725
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -446,6 +452,7 @@
 61,
 59,
 60,
+61,
 61,
 61,
 61,
@@ -684,7 +691,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "Drug Development Pipeline II: In vivo"
 }

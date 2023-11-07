@@ -215,6 +215,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -245,10 +246,6 @@
 },
 "instructors": [
 {
-"firstName": "Julian",
-"lastName": "Ferguson"
-},
-{
 "firstName": "David",
 "lastName": "Dubins"
 },
@@ -259,6 +256,10 @@
 {
 "firstName": "Ping",
 "lastName": "Lee"
+},
+{
+"firstName": "Julian",
+"lastName": "Ferguson"
 }
 ],
 "isCancelled": false,
@@ -470,7 +471,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "Pharmaceutical Chemistry Laboratory"
 }

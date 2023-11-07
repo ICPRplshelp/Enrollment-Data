@@ -229,7 +229,8 @@
 159,
 159,
 160,
-160
+160,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,6 +473,7 @@
 73,
 73,
 73,
+72,
 72,
 72
 ],
@@ -725,6 +727,7 @@
 117,
 117,
 116,
+116,
 116
 ],
 "instructorLog": {
@@ -738,13 +741,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Howard",
+"lastName": "Ho"
+}
+],
+"timing": 1699388725
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lidan",
-"lastName": "You"
+"firstName": "Howard",
+"lastName": "Ho"
 }
 ],
 "isCancelled": false,
@@ -977,6 +989,7 @@
 130,
 130,
 129,
+128,
 128
 ],
 "instructorLog": {
@@ -1214,6 +1227,7 @@
 141,
 141,
 141,
+140,
 140,
 140,
 140,
@@ -1465,6 +1479,7 @@
 137,
 137,
 136,
+136,
 136
 ],
 "instructorLog": {
@@ -1478,13 +1493,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mahmoud",
+"lastName": "Embabi"
+}
+],
+"timing": 1699388725
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Edmond",
-"lastName": "Young"
+"firstName": "Mahmoud",
+"lastName": "Embabi"
 }
 ],
 "isCancelled": false,
@@ -1693,7 +1717,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "Dynamics"
 }

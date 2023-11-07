@@ -215,13 +215,29 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erol",
+"lastName": "Boran"
+}
+],
+"timing": 1699388725
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erol",
+"lastName": "Boran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -431,7 +447,8 @@
 1699212860,
 1699238524,
 1699302053,
-1699333901
+1699333901,
+1699388725
 ],
 "title": "Independent Study"
 }
