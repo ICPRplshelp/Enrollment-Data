@@ -49,6 +49,7 @@
 7,
 7,
 7,
+6,
 6
 ],
 "instructorLog": {
@@ -62,13 +63,22 @@
 }
 ],
 "timing": 1696278133
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Irving"
+}
+],
+"timing": 1699333901
 }
 ]
 },
 "instructors": [
 {
-"firstName": "STEPHEN",
-"lastName": "IRVING (NOUTORID)"
+"firstName": "Alexander",
+"lastName": "Irving"
 }
 ],
 "isCancelled": false,
@@ -114,7 +124,8 @@
 1699142202,
 1699212860,
 1699238524,
-1699302053
+1699302053,
+1699333901
 ],
 "title": "Curatorial Perspectives II"
 }
