@@ -213,7 +213,8 @@
 33,
 35,
 35,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,13 +227,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pourya",
+"lastName": "Memarpanahi"
+}
+],
+"timing": 1699404106
 }
 ]
 },
 "instructors": [
 {
-"firstName": "James",
-"lastName": "Bremer Jr"
+"firstName": "Pourya",
+"lastName": "Memarpanahi"
 }
 ],
 "isCancelled": false,
@@ -442,7 +452,8 @@
 1699238524,
 1699302053,
 1699333901,
-1699388725
+1699388725,
+1699404106
 ],
 "title": "Introduction to Analysis"
 }

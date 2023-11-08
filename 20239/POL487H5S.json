@@ -213,13 +213,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Semuhi",
+"lastName": "Sinanoglu"
+}
+],
+"timing": 1699404106
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Semuhi",
+"lastName": "Sinanoglu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -427,7 +443,8 @@
 1699238524,
 1699302053,
 1699333901,
-1699388725
+1699388725,
+1699404106
 ],
 "title": "Topics in International Relations"
 }

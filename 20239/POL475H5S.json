@@ -213,13 +213,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michaela",
+"lastName": "Pedersen-Macnab"
+}
+],
+"timing": 1699404106
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michaela",
+"lastName": "Pedersen-Macnab"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -427,7 +443,8 @@
 1699238524,
 1699302053,
 1699333901,
-1699388725
+1699388725,
+1699404106
 ],
 "title": "Global Environmental and Sustainability Politics"
 }

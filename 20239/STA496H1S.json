@@ -216,13 +216,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Gronsbell"
+}
+],
+"timing": 1699404106
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Gronsbell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -433,7 +449,8 @@
 1699238524,
 1699302053,
 1699333901,
-1699388725
+1699388725,
+1699404106
 ],
 "title": "Readings in Statistics"
 }
