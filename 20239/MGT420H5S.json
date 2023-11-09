@@ -214,13 +214,29 @@
 46,
 46,
 46,
-46
+46,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 9,
 9,
 9,
-9
+9,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eckhard",
+"lastName": "Schumann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -651,7 +683,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Critical Thinking, Analysis and Decision Making II"
 }

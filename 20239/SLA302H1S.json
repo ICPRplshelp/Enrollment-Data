@@ -22,13 +22,29 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leonid",
+"lastName": "Livak"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leonid",
+"lastName": "Livak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +61,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "The Imaginary Jew"
 }

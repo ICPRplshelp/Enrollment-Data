@@ -214,13 +214,29 @@
 63,
 63,
 63,
+62,
 62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 70,
 70,
 70,
+69,
 69
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gabor",
+"lastName": "Virag"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -651,7 +683,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Advanced Topics in Corporate Finance"
 }

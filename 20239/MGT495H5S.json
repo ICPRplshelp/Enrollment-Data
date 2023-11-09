@@ -214,13 +214,29 @@
 41,
 41,
 40,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 47,
 47,
 47,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -658,13 +690,29 @@
 16,
 16,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Camille",
+"lastName": "Hebert"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -873,7 +921,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Entrepreneurial Finance and Private Equity"
 }

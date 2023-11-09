@@ -214,13 +214,29 @@
 155,
 156,
 159,
-159
+159,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 169,
 168,
 169,
-169
+169,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -658,13 +690,29 @@
 159,
 157,
 155,
-154
+154,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -880,13 +928,29 @@
 164,
 164,
 164,
-165
+165,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -904,6 +968,7 @@
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1322,7 +1387,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Introduction to Financial Accounting"
 }

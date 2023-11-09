@@ -217,7 +217,8 @@
 19,
 19,
 19,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,7 +458,8 @@
 23,
 23,
 23,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,9 +487,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1699555966
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -697,7 +704,8 @@
 26,
 26,
 26,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -930,7 +938,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Introductory Latin II"
 }

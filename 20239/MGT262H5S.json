@@ -214,13 +214,29 @@
 57,
 57,
 58,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 63,
 64,
 64,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -658,13 +690,29 @@
 27,
 27,
 27,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -682,6 +730,7 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1100,7 +1149,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Psychology at Work"
 }

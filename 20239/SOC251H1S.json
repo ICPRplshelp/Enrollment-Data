@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 149,
+"enrollmentCap": 156,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 149,
 "time": 1690316798
+},
+{
+"newCapacity": 156,
+"time": 1699555966
 }
 ],
 "initialCap": 120
@@ -221,6 +225,7 @@
 176,
 176,
 176,
+174,
 174,
 174
 ],
@@ -455,7 +460,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Contemporary Sociological Theory"
 }

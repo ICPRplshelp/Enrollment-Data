@@ -217,13 +217,29 @@
 152,
 152,
 152,
+152,
 152
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ian",
+"lastName": "Berlot-Attwell"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ian",
+"lastName": "Berlot-Attwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -435,7 +451,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Social and Information Networks"
 }

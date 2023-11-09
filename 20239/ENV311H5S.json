@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 175,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 175,
 "time": 1692120475
+},
+{
+"newCapacity": 180,
+"time": 1699555966
 }
 ],
 "initialCap": 100
@@ -218,6 +222,7 @@
 219,
 219,
 219,
+218,
 218,
 218
 ],
@@ -449,7 +454,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Environmental Issues in the Developing World"
 }

@@ -214,6 +214,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -227,6 +228,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Glenn",
+"lastName": "Hibbard"
+},
+{
+"firstName": "Sarry",
+"lastName": "Al-Turk"
+}
+],
+"timing": 1699555966
 }
 ]
 },
@@ -234,6 +248,10 @@
 {
 "firstName": "Glenn",
 "lastName": "Hibbard"
+},
+{
+"firstName": "Sarry",
+"lastName": "Al-Turk"
 }
 ],
 "isCancelled": false,
@@ -444,7 +462,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Mechanical Behaviour of Materials"
 }

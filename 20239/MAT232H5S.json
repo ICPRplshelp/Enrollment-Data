@@ -214,7 +214,8 @@
 171,
 171,
 172,
-172
+172,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -451,13 +452,29 @@
 0,
 0,
 0,
-0
+0,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas Thomas",
+"lastName": "Fleming"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas Thomas",
+"lastName": "Fleming"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -673,7 +690,8 @@
 163,
 163,
 163,
-163
+163,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -903,7 +921,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Calculus of Several Variables"
 }

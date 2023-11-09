@@ -214,7 +214,8 @@
 95,
 95,
 95,
-95
+95,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -451,13 +452,29 @@
 81,
 81,
 80,
-81
+81,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dev",
+"lastName": "Gokal"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dev",
+"lastName": "Gokal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -672,6 +689,7 @@
 98,
 97,
 96,
+94,
 94,
 94
 ],
@@ -910,6 +928,7 @@
 104,
 104,
 101,
+101,
 101
 ],
 "instructorLog": {
@@ -1147,13 +1166,29 @@
 57,
 58,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bilal Majed",
+"lastName": "Taha"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bilal Majed",
+"lastName": "Taha"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 }
@@ -1362,7 +1397,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Introduction to Machine Learning"
 }

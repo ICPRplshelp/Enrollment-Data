@@ -211,6 +211,7 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -224,13 +225,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Larisa",
+"lastName": "Svirsky"
+}
+],
+"timing": 1699555966
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Rebecca",
-"lastName": "Comay"
+"firstName": "Larisa",
+"lastName": "Svirsky"
 }
 ],
 "isCancelled": false,
@@ -438,7 +448,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Literature and Philosophy"
 }

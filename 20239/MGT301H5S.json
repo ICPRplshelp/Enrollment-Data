@@ -214,13 +214,29 @@
 39,
 39,
 39,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gerhard",
+"lastName": "Trippen"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gerhard",
+"lastName": "Trippen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -436,13 +452,29 @@
 43,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gerhard",
+"lastName": "Trippen"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gerhard",
+"lastName": "Trippen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -460,6 +492,7 @@
 "initialCap": 44
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -878,7 +911,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Coding and Data Management for Business Analytics"
 }

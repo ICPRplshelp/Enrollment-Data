@@ -214,7 +214,8 @@
 69,
 69,
 68,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -227,13 +228,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mathew",
+"lastName": "Montevirgen"
+}
+],
+"timing": 1699555966
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Fernando",
-"lastName": "Avila"
+"firstName": "Mathew",
+"lastName": "Montevirgen"
 }
 ],
 "isCancelled": false,
@@ -444,7 +454,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Sociology of Punishment"
 }

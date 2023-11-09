@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 79,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 79,
+"time": 1699555966
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -216,6 +221,7 @@
 80,
 79,
 79,
+78,
 78,
 78
 ],
@@ -450,7 +456,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Classical Sociological Theory"
 }

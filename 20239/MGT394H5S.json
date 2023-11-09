@@ -219,13 +219,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Manfred",
+"lastName": "Schneider"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Manfred",
+"lastName": "Schneider"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -434,7 +450,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Legal Environment of Business II"
 }

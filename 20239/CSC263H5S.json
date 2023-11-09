@@ -214,7 +214,8 @@
 153,
 153,
 147,
-147
+147,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -451,13 +452,29 @@
 92,
 92,
 92,
-92
+92,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Akshayaram",
+"lastName": "Srinivasan"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Akshayaram",
+"lastName": "Srinivasan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -673,7 +690,8 @@
 152,
 152,
 152,
-152
+152,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -903,7 +921,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Data Structures and Analysis"
 }

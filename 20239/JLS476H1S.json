@@ -217,13 +217,29 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracey Lynn",
+"lastName": "Edelist"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracey Lynn",
+"lastName": "Edelist"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -435,7 +451,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Linguistics in the Workforce: Clinical Practice and Research"
 }

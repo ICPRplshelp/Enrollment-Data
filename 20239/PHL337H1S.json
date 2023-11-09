@@ -217,13 +217,29 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xiaoqiang",
+"lastName": "Han"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xiaoqiang",
+"lastName": "Han"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -435,7 +451,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Classical Chinese Ethics"
 }

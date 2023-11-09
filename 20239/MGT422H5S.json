@@ -214,13 +214,29 @@
 32,
 32,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Khan"
+}
+],
+"timing": 1699555966
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Khan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -429,7 +445,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Advanced IT Audit and Data Analytics"
 }

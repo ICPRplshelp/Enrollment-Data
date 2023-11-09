@@ -217,6 +217,7 @@
 32,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1689608078
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastien",
+"lastName": "Parker"
+}
+],
+"timing": 1699555966
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Maria Sigridur",
-"lastName": "Finnsdottir"
+"firstName": "Sebastien",
+"lastName": "Parker"
 }
 ],
 "isCancelled": false,
@@ -459,7 +469,8 @@
 1699302053,
 1699333901,
 1699388725,
-1699404106
+1699404106,
+1699555966
 ],
 "title": "Comparative Political Sociology (formerly SOC270H1)"
 }
