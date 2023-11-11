@@ -1,0 +1,46 @@
+{
+"code": "RSM401H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1699660943,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Inez T.",
+"lastName": "Blackburn"
+}
+],
+"timing": 1699660943
+}
+]
+},
+"instructors": [
+{
+"firstName": "Inez T.",
+"lastName": "Blackburn"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1699660942,
+1699660943
+],
+"title": "Independent Study Course"
+}

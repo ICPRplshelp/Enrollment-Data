@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 175,
+"time": 1699660943
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -213,6 +218,7 @@
 183,
 183,
 183,
+185,
 185,
 185,
 185
@@ -446,7 +452,8 @@
 1699333901,
 1699388725,
 1699404106,
-1699555966
+1699555966,
+1699660943
 ],
 "title": "Introduction to Islam and Muslim Civilizations"
 }

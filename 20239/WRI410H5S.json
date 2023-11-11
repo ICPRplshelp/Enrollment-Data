@@ -138,13 +138,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
+"timing": 1699660943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -277,7 +293,8 @@
 1699333901,
 1699388725,
 1699404106,
-1699555966
+1699555966,
+1699660943
 ],
 "title": "Professional Writing and Communication Internship 1"
 }

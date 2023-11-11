@@ -215,6 +215,7 @@
 73,
 72,
 72,
+72,
 72
 ],
 "instructorLog": {
@@ -228,13 +229,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Joel",
+"lastName": "Rodgers"
+}
+],
+"timing": 1699660943
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Neal",
-"lastName": "Dolan"
+"firstName": "Joel",
+"lastName": "Rodgers"
 }
 ],
 "isCancelled": false,
@@ -446,7 +456,8 @@
 1699333901,
 1699388725,
 1699404106,
-1699555966
+1699555966,
+1699660943
 ],
 "title": "How to Read a Poem"
 }

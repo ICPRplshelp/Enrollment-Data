@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1699660943
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -215,7 +220,8 @@
 75,
 76,
 76,
-75
+75,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -446,7 +452,8 @@
 1699333901,
 1699388725,
 1699404106,
-1699555966
+1699555966,
+1699660943
 ],
 "title": "Introduction to Religion in the Literary, Visual, and Performing Arts"
 }
