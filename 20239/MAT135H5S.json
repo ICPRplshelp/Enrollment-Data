@@ -218,7 +218,8 @@
 49,
 52,
 52,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,13 +232,22 @@
 }
 ],
 "timing": 1686740321
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
+"timing": 1699913239
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jonathan",
-"lastName": "Herman"
+"firstName": "Pramathanath",
+"lastName": "Sastry"
 }
 ],
 "isCancelled": false,
@@ -459,6 +469,7 @@
 92,
 92,
 92,
+92,
 92
 ],
 "instructorLog": {
@@ -493,6 +504,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -926,7 +938,8 @@
 71,
 73,
 73,
-73
+73,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1160,7 +1173,8 @@
 1699555966,
 1699660943,
 1699746081,
-1699827929
+1699827929,
+1699913239
 ],
 "title": "Differential Calculus"
 }

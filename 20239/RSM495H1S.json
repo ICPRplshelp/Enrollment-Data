@@ -226,13 +226,29 @@
 69,
 68,
 68,
+68,
 68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Jan"
+}
+],
+"timing": 1699913239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paul",
+"lastName": "Jan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -448,7 +464,8 @@
 1699555966,
 1699660943,
 1699746081,
-1699827929
+1699827929,
+1699913239
 ],
 "title": "Management Consulting"
 }

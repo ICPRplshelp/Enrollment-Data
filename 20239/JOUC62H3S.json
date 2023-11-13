@@ -40,13 +40,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Visan"
+}
+],
+"timing": 1699913239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Visan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -81,7 +97,8 @@
 1699555966,
 1699660943,
 1699746081,
-1699827929
+1699827929,
+1699913239
 ],
 "title": "Media, Journalism and Digital Labour"
 }

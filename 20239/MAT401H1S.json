@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1699913239
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -221,7 +226,8 @@
 155,
 151,
 151,
-151
+151,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -458,7 +464,8 @@
 1699555966,
 1699660943,
 1699746081,
-1699827929
+1699827929,
+1699913239
 ],
 "title": "Polynomial Equations and Fields"
 }

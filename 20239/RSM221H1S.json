@@ -221,6 +221,7 @@
 49,
 49,
 49,
+49,
 49
 ],
 "instructorLog": {
@@ -465,7 +466,8 @@
 36,
 37,
 37,
-37
+37,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,12 +495,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 43,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 43,
 "time": 1699388725
+},
+{
+"newCapacity": 42,
+"time": 1699913239
 }
 ],
 "initialCap": 50
@@ -714,13 +720,29 @@
 43,
 43,
 43,
-43
+43,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ralph",
+"lastName": "Tassone"
+}
+],
+"timing": 1699913239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ralph",
+"lastName": "Tassone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -936,7 +958,8 @@
 1699555966,
 1699660943,
 1699746081,
-1699827929
+1699827929,
+1699913239
 ],
 "title": "Intermediate Financial Accounting II"
 }
