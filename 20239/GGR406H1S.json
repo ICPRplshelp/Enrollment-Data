@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1700104371
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -222,6 +227,7 @@
 28,
 28,
 28,
+27,
 27
 ],
 "instructorLog": {
@@ -460,7 +466,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Geomorphology and the Anthropocene"
 }

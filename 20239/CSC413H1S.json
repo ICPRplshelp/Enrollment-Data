@@ -222,13 +222,29 @@
 132,
 132,
 132,
-130
+130,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanjit Singh",
+"lastName": "Kainth"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanjit Singh",
+"lastName": "Kainth"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -452,7 +468,8 @@
 130,
 130,
 130,
-130
+130,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -697,13 +714,29 @@
 38,
 38,
 38,
-38
+38,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanjit Singh",
+"lastName": "Kainth"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanjit Singh",
+"lastName": "Kainth"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 },
@@ -927,7 +960,8 @@
 35,
 35,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1172,7 +1206,8 @@
 41,
 41,
 41,
-41
+41,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1240,6 +1275,7 @@
 12,
 12,
 12,
+0,
 0,
 0,
 0,
@@ -1652,7 +1688,8 @@
 134,
 134,
 134,
-133
+133,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1691,6 +1728,7 @@
 "initialCap": 82
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -2125,7 +2163,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Neural Networks and Deep Learning"
 }

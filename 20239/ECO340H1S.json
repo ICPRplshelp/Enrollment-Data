@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1700104371
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -222,7 +227,8 @@
 43,
 43,
 43,
-44
+44,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -460,7 +466,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Labour Economics: The Distribution of Earnings"
 }

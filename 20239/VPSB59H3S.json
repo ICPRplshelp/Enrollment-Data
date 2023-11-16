@@ -219,6 +219,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1688752277
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marla",
+"lastName": "Hlady"
+}
+],
+"timing": 1700104371
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam David",
-"lastName": "Brown"
+"firstName": "Marla",
+"lastName": "Hlady"
 }
 ],
 "isCancelled": false,
@@ -463,7 +473,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Sculpture I"
 }

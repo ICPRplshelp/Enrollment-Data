@@ -224,6 +224,7 @@
 29,
 29,
 29,
+28,
 28
 ],
 "instructorLog": {
@@ -237,13 +238,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "Cruz"
+}
+],
+"timing": 1700104371
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marla",
-"lastName": "Hlady"
+"firstName": "Patrick",
+"lastName": "Cruz"
 }
 ],
 "isCancelled": false,
@@ -459,7 +469,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Theory and Practice: Art and Materials"
 }

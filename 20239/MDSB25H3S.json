@@ -224,13 +224,29 @@
 101,
 101,
 101,
-102
+102,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lewis",
+"lastName": "Kaye"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lewis",
+"lastName": "Kaye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -444,7 +460,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Political Economy of Media"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 46,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 46,
+"time": 1700104371
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -215,6 +220,7 @@
 45,
 45,
 45,
+46,
 46,
 46,
 46,
@@ -454,7 +460,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Finance, Innovation and the Digital Firm"
 }

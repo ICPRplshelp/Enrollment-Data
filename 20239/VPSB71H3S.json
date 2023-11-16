@@ -219,6 +219,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -232,13 +233,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Adam David",
+"lastName": "Brown"
+}
+],
+"timing": 1700104371
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Alexander",
-"lastName": "Irving"
+"firstName": "Adam David",
+"lastName": "Brown"
 }
 ],
 "isCancelled": false,
@@ -454,7 +464,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Artist Multiples"
 }

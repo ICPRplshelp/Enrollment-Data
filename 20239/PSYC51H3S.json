@@ -1,0 +1,46 @@
+{
+"code": "PSYC51H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1700104371,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+54
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1700104371
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1700104370,
+1700104371
+],
+"title": "Cognitive Neuroscience of Vision"
+}

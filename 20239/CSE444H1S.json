@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1700104371
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -219,6 +224,7 @@
 29,
 29,
 30,
+29,
 29,
 29,
 29,
@@ -460,7 +466,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Anti-Colonization and the Politics of Violence"
 }

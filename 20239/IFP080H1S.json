@@ -5,12 +5,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1700104371
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -229,7 +235,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -445,7 +451,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Information in the Digital Era"
 }

@@ -219,7 +219,8 @@
 202,
 202,
 202,
-198
+198,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -470,7 +471,8 @@
 222,
 222,
 222,
-218
+218,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -712,7 +714,8 @@
 196,
 196,
 196,
-193
+193,
+185
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -954,7 +957,8 @@
 175,
 175,
 175,
-170
+170,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1196,13 +1200,29 @@
 12,
 12,
 12,
-24
+24,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -1423,7 +1443,8 @@
 167,
 167,
 167,
-165
+165,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1665,7 +1686,8 @@
 152,
 152,
 152,
-149
+149,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1907,7 +1929,8 @@
 197,
 197,
 197,
-192
+192,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2149,7 +2172,8 @@
 147,
 147,
 147,
-148
+148,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2376,7 +2400,8 @@
 181,
 181,
 181,
-180
+180,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2603,7 +2628,8 @@
 180,
 180,
 180,
-174
+174,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2646,6 +2672,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3074,7 +3101,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Integral Calculus"
 }

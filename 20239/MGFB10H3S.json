@@ -219,13 +219,29 @@
 48,
 48,
 48,
-49
+49,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Syed",
+"lastName": "Ahmed"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Syed",
+"lastName": "Ahmed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -442,6 +458,7 @@
 62,
 62,
 62,
+63,
 63,
 63,
 63,
@@ -688,6 +705,7 @@
 60,
 60,
 60,
+60,
 60
 ],
 "instructorLog": {
@@ -926,6 +944,7 @@
 63,
 63,
 63,
+64,
 64,
 64,
 64,
@@ -1172,13 +1191,29 @@
 52,
 52,
 52,
-51
+51,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Syed",
+"lastName": "Ahmed"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Syed",
+"lastName": "Ahmed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 }
@@ -1392,7 +1427,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Principles of Finance"
 }

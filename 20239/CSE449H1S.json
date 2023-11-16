@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1700104371
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -222,7 +227,8 @@
 8,
 8,
 8,
-8
+8,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,7 +250,7 @@
 "lastName": "McGuire"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -460,7 +466,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Contemporary Theories in Critical Disability Studies"
 }

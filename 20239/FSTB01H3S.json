@@ -219,13 +219,29 @@
 71,
 71,
 71,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nino",
+"lastName": "Bariola Gonzales"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nino",
+"lastName": "Bariola Gonzales"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -439,7 +455,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Methodologies in Food Studies"
 }

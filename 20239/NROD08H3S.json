@@ -219,13 +219,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eyal",
+"lastName": "Gruntman"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eyal",
+"lastName": "Gruntman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -439,7 +455,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Theoretical Neuroscience"
 }

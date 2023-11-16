@@ -219,6 +219,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -232,13 +233,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Angela",
+"lastName": "Leach (NOUTORID)"
+}
+],
+"timing": 1700104371
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Patrick",
-"lastName": "Cruz"
+"firstName": "Angela",
+"lastName": "Leach (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -454,7 +464,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Drawing I"
 }

@@ -228,13 +228,29 @@
 233,
 233,
 233,
-233
+233,
+235
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alison",
+"lastName": "Olechowski"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alison",
+"lastName": "Olechowski"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -448,7 +464,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Seminar Course: Introduction to Mechanical and Industrial Engineering"
 }

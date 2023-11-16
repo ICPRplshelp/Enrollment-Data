@@ -50,13 +50,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Rockel"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Rockel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -101,7 +117,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Africa and Asia in the First World War"
 }

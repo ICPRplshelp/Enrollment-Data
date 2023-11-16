@@ -219,6 +219,7 @@
 163,
 163,
 163,
+161,
 161
 ],
 "instructorLog": {
@@ -466,7 +467,8 @@
 143,
 143,
 143,
-142
+142,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -708,7 +710,8 @@
 155,
 155,
 155,
-153
+153,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -950,13 +953,29 @@
 142,
 142,
 142,
-143
+143,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -1170,7 +1189,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Integral Calculus for Life Sciences"
 }

@@ -59,13 +59,29 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Pontieri"
+}
+],
+"timing": 1700104371
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Pontieri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +135,8 @@
 1699660943,
 1699746081,
 1699827929,
-1699913239
+1699913239,
+1700104371
 ],
 "title": "Animated Film in Europe"
 }
