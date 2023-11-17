@@ -223,6 +223,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -244,6 +245,27 @@
 }
 ],
 "timing": 1697257966
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carrie",
+"lastName": "Proctor"
+},
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+},
+{
+"firstName": "Nathy",
+"lastName": "Nesmon"
+},
+{
+"firstName": "Bayan",
+"lastName": "Akbik"
+}
+],
+"timing": 1700218698
 }
 ]
 },
@@ -259,6 +281,10 @@
 {
 "firstName": "Nathy",
 "lastName": "Nesmon"
+},
+{
+"firstName": "Bayan",
+"lastName": "Akbik"
 }
 ],
 "isCancelled": false,
@@ -478,7 +504,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "Arts & Science Internship Program - Professional Work Term"
 }

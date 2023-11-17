@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1700218698
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -220,7 +225,8 @@
 78,
 78,
 78,
-78
+78,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -456,7 +462,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "Introduction to Health Information Systems"
 }

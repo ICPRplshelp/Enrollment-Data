@@ -228,7 +228,8 @@
 244,
 244,
 240,
-243
+243,
+241
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,13 +480,29 @@
 240,
 240,
 235,
-238
+238,
+239
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophia",
+"lastName": "Huynh"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophia",
+"lastName": "Huynh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -715,6 +732,7 @@
 238,
 238,
 235,
+238,
 238
 ],
 "instructorLog": {
@@ -966,6 +984,7 @@
 270,
 270,
 267,
+271,
 271
 ],
 "instructorLog": {
@@ -1217,6 +1236,7 @@
 268,
 268,
 265,
+268,
 268
 ],
 "instructorLog": {
@@ -1463,7 +1483,8 @@
 242,
 242,
 237,
-239
+239,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1687,7 +1708,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "Introduction to Computer Science"
 }

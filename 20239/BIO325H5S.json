@@ -220,13 +220,29 @@
 40,
 40,
 40,
-40
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -448,13 +464,29 @@
 45,
 45,
 46,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -676,13 +708,29 @@
 45,
 45,
 45,
-45
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -897,7 +945,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "Biomechanics"
 }

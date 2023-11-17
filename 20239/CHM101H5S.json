@@ -220,13 +220,29 @@
 50,
 50,
 50,
-48
+48,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Tung"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Tung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -441,7 +457,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "The Science of Human Health"
 }

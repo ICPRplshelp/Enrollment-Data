@@ -223,6 +223,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -469,13 +470,29 @@
 28,
 28,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vanessa",
+"lastName": "Oliveira"
+}
+],
+"timing": 1700218698
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vanessa",
+"lastName": "Oliveira"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -693,7 +710,8 @@
 1699746081,
 1699827929,
 1699913239,
-1700104371
+1700104371,
+1700218698
 ],
 "title": "Advanced Topics in Pharmacology and Toxicology"
 }
