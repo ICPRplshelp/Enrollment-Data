@@ -221,13 +221,29 @@
 30,
 30,
 31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
+"timing": 1700264444
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -450,13 +466,29 @@
 61,
 61,
 60,
+60,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
+"timing": 1700264444
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -679,13 +711,29 @@
 45,
 44,
 45,
+45,
 45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
+"timing": 1700264444
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Feng",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -901,7 +949,8 @@
 1699827929,
 1699913239,
 1700104371,
-1700218698
+1700218698,
+1700264444
 ],
 "title": "Data Analytics for Management"
 }

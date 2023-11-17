@@ -221,13 +221,29 @@
 503,
 503,
 504,
-503
+503,
+500
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
+"timing": 1700264444
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -450,13 +466,29 @@
 853,
 856,
 862,
-864
+864,
+869
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
+"timing": 1700264444
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -672,7 +704,8 @@
 1699827929,
 1699913239,
 1700104371,
-1700218698
+1700218698,
+1700264444
 ],
 "title": "Introduction to Planet Earth"
 }

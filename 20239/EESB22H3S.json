@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 10,
 "time": 1689105743
+},
+{
+"newCapacity": 11,
+"time": 1700264444
 }
 ],
 "initialCap": 20
@@ -203,6 +207,7 @@
 9,
 9,
 10,
+11,
 11,
 11,
 11,
@@ -463,7 +468,8 @@
 1699827929,
 1699913239,
 1700104371,
-1700218698
+1700218698,
+1700264444
 ],
 "title": "Environmental Geophysics"
 }

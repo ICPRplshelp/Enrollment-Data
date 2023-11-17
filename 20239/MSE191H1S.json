@@ -230,6 +230,7 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
@@ -243,13 +244,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Liyang",
+"lastName": "Dai-Hattrick"
+}
+],
+"timing": 1700264444
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Scott",
-"lastName": "Ramsay"
+"firstName": "Liyang",
+"lastName": "Dai-Hattrick"
 }
 ],
 "isCancelled": false,
@@ -467,7 +477,8 @@
 1699827929,
 1699913239,
 1700104371,
-1700218698
+1700218698,
+1700264444
 ],
 "title": "Introduction to Materials Science and Engineering"
 }
