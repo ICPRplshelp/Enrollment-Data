@@ -236,6 +236,7 @@
 297,
 297,
 297,
+297,
 297
 ],
 "instructorLog": {
@@ -261,6 +262,27 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+},
+{
+"firstName": "Roger",
+"lastName": "Carrick"
+},
+{
+"firstName": "Jennifer",
+"lastName": "Lofgreen"
+},
+{
+"firstName": "Robert",
+"lastName": "Irish"
+}
+],
+"timing": 1700536705
 }
 ]
 },
@@ -274,8 +296,8 @@
 "lastName": "Carrick"
 },
 {
-"firstName": "Penny",
-"lastName": "Kinnear"
+"firstName": "Jennifer",
+"lastName": "Lofgreen"
 },
 {
 "firstName": "Robert",
@@ -499,7 +521,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Praxis I"
 }

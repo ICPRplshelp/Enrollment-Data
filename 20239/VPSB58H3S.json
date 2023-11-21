@@ -223,13 +223,29 @@
 28,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Midi",
+"lastName": "Onodera"
+}
+],
+"timing": 1700536705
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Midi",
+"lastName": "Onodera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -447,7 +463,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Video I"
 }

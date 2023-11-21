@@ -226,13 +226,29 @@
 45,
 45,
 45,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Darren",
+"lastName": "Kadis"
+}
+],
+"timing": 1700536705
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Darren",
+"lastName": "Kadis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -453,7 +469,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Neural Disorders"
 }

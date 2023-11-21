@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1700536705
+}
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -223,6 +228,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -245,7 +251,7 @@
 "lastName": "Erclik"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -462,7 +468,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Selected Topics in Biology II"
 }

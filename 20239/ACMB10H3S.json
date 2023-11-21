@@ -228,13 +228,29 @@
 63,
 63,
 64,
-64
+64,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maral",
+"lastName": "Aguilera-Moradipour"
+}
+],
+"timing": 1700536705
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maral",
+"lastName": "Aguilera-Moradipour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -452,7 +468,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Equity and Diversity in the Arts"
 }

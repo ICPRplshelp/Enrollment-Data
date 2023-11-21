@@ -223,7 +223,8 @@
 144,
 144,
 143,
-143
+143,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,7 +470,8 @@
 176,
 175,
 175,
-175
+175,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -482,13 +484,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
+}
+],
+"timing": 1700536705
 }
 ]
 },
 "instructors": [
 {
-"firstName": "IRENE",
-"lastName": "HUANG (NOUTORID)"
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -715,6 +726,7 @@
 154,
 155,
 154,
+154,
 154
 ],
 "instructorLog": {
@@ -728,13 +740,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
+}
+],
+"timing": 1700536705
 }
 ]
 },
 "instructors": [
 {
-"firstName": "IRENE",
-"lastName": "HUANG (NOUTORID)"
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -961,7 +982,8 @@
 87,
 88,
 87,
-87
+87,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -974,13 +996,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
+}
+],
+"timing": 1700536705
 }
 ]
 },
 "instructors": [
 {
-"firstName": "IRENE",
-"lastName": "HUANG (NOUTORID)"
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -1200,7 +1231,8 @@
 1700104371,
 1700218698,
 1700264444,
-1700435808
+1700435808,
+1700536705
 ],
 "title": "Introduction to Computer Science II"
 }
