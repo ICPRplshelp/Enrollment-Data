@@ -227,6 +227,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hagos Abrha",
+"lastName": "Abay"
+}
+],
+"timing": 1700710710
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Robert",
-"lastName": "Holmstedt"
+"firstName": "Hagos Abrha",
+"lastName": "Abay"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Intermediate Ge'ez"
 }

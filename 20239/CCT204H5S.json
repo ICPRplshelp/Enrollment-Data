@@ -224,13 +224,29 @@
 89,
 89,
 89,
-89
+89,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -461,13 +477,29 @@
 45,
 45,
 45,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -686,7 +718,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Design Thinking I"
 }

@@ -224,13 +224,29 @@
 46,
 47,
 47,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheri",
+"lastName": "Allain"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheri",
+"lastName": "Allain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -456,13 +472,29 @@
 46,
 47,
 47,
+47,
 47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheri",
+"lastName": "Allain"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheri",
+"lastName": "Allain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -681,7 +713,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Online Advertising and Marketing (SH)"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 53,
 "time": 1698788968
+},
+{
+"newCapacity": 55,
+"time": 1700710710
 }
 ],
 "initialCap": 50
@@ -229,6 +233,7 @@
 54,
 53,
 53,
+54,
 54
 ],
 "instructorLog": {
@@ -454,7 +459,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Essentials of Finance"
 }

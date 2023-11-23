@@ -60,6 +60,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -73,13 +74,22 @@
 }
 ],
 "timing": 1696030622
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Steele"
+}
+],
+"timing": 1700710710
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Avery",
-"lastName": "Ozburn"
+"firstName": "Jeffrey",
+"lastName": "Steele"
 }
 ],
 "isCancelled": false,
@@ -136,7 +146,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Individual Project"
 }

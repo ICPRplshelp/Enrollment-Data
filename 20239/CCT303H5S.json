@@ -224,13 +224,29 @@
 77,
 77,
 77,
-78
+78,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lucas",
+"lastName": "Thung"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lucas",
+"lastName": "Thung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -449,7 +465,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Communicating In and Between Organizations"
 }

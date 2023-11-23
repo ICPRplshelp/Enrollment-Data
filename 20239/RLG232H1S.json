@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1700710710
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -227,7 +232,8 @@
 168,
 168,
 168,
-169
+169,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,13 +246,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Filip",
+"lastName": "Andjelkovic"
+}
+],
+"timing": 1700710710
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sarah",
-"lastName": "Gallant"
+"firstName": "Filip",
+"lastName": "Andjelkovic"
 }
 ],
 "isCancelled": false,
@@ -470,7 +485,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Religion and Film"
 }

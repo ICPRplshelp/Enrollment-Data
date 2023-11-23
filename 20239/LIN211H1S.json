@@ -227,13 +227,29 @@
 139,
 138,
 138,
-137
+137,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -455,7 +471,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "American Sign Language 1"
 }

@@ -1,0 +1,46 @@
+{
+"code": "POLC92H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1700710710,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Renan",
+"lastName": "Levine"
+}
+],
+"timing": 1700710710
+}
+]
+},
+"instructors": [
+{
+"firstName": "Renan",
+"lastName": "Levine"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1700710709,
+1700710710
+],
+"title": "U.S. Government and Politics"
+}

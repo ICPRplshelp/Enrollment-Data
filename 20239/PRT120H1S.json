@@ -227,13 +227,29 @@
 33,
 33,
 33,
-33
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janaina",
+"lastName": "Soares Alves"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janaina",
+"lastName": "Soares Alves"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -455,7 +471,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Portuguese for Spanish Speakers"
 }

@@ -224,13 +224,29 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
+"timing": 1700710710
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laurel",
+"lastName": "Waterman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -449,7 +465,8 @@
 1700218698,
 1700264444,
 1700435808,
-1700536705
+1700536705,
+1700710710
 ],
 "title": "Food and Writing"
 }
