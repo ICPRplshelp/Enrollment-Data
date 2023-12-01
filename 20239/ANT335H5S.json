@@ -1,6 +1,6 @@
 {
 "code": "ANT335H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,7 +225,8 @@
 48,
 48,
 48,
-46
+46,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mustahid",
+"lastName": "Husain"
+}
+],
+"timing": 1701396933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sarah Marleen",
-"lastName": "Hillewaert"
+"firstName": "Mustahid",
+"lastName": "Husain"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701396933
 ],
 "title": "Anthropology of Gender"
 }

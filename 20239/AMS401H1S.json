@@ -1,13 +1,18 @@
 {
 "code": "AMS401H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1689787734,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1701396933
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -152,6 +157,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -174,7 +180,7 @@
 "lastName": "Halpern"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -320,7 +326,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701396933
 ],
 "title": "Topics in American Studies"
 }
