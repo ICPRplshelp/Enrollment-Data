@@ -230,13 +230,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"timing": 1701396000
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -461,7 +477,8 @@
 1701048737,
 1701299430,
 1701381508,
-1701394983
+1701394983,
+1701396000
 ],
 "title": "Supervised Readings"
 }
