@@ -1,6 +1,6 @@
 {
 "code": "RSM462H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -233,13 +233,29 @@
 59,
 59,
 60,
-62
+62,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Indira",
+"lastName": "Somwaru"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Indira",
+"lastName": "Somwaru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -474,13 +490,29 @@
 59,
 59,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Indira",
+"lastName": "Somwaru"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Indira",
+"lastName": "Somwaru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -703,7 +735,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Managing People in the Context of Globalization"
 }

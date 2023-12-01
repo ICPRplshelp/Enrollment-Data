@@ -1,6 +1,6 @@
 {
 "code": "RSM320H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -227,6 +227,7 @@
 45,
 46,
 46,
+47,
 47,
 47
 ],
@@ -470,6 +471,7 @@
 49,
 49,
 49,
+50,
 50,
 50,
 50,
@@ -744,6 +746,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -766,7 +769,7 @@
 "lastName": "Amernic"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -988,7 +991,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Intermediate Financial Accounting III"
 }

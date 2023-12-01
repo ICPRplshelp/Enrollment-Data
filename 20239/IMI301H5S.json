@@ -1,6 +1,6 @@
 {
 "code": "IMI301H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -234,13 +234,29 @@
 53,
 53,
 54,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -460,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Essentials of Finance"
 }

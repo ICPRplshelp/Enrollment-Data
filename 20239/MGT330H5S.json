@@ -1,6 +1,6 @@
 {
 "code": "MGT330H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,7 +225,8 @@
 57,
 57,
 57,
-57
+57,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,13 +474,29 @@
 32,
 32,
 32,
-32
+32,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -699,7 +716,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Investments"
 }

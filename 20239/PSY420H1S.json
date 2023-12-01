@@ -1,6 +1,6 @@
 {
 "code": "PSY420H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 26,
 26,
 26,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,13 +480,29 @@
 22,
 22,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yeeun",
+"lastName": "Lee"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yeeun",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -715,13 +732,29 @@
 24,
 24,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Geoff",
+"lastName": "MacDonald"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Geoff",
+"lastName": "MacDonald"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -951,7 +984,8 @@
 22,
 22,
 22,
-22
+22,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1195,7 +1229,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Social Psychology Seminar"
 }

@@ -1,6 +1,6 @@
 {
 "code": "RSM491H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -233,13 +233,29 @@
 69,
 69,
 69,
-69
+69,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John-Christian",
+"lastName": "Bourque"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John-Christian",
+"lastName": "Bourque"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -462,7 +478,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Global Capital Market Strategy"
 }

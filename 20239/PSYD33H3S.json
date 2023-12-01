@@ -1,6 +1,6 @@
 {
 "code": "PSYD33H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,7 +225,8 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -700,7 +701,8 @@
 21,
 21,
 23,
-23
+23,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -713,13 +715,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Arbour"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SIMONE",
-"lastName": "ARBOUR (NOUTORID)"
+"firstName": "Simone",
+"lastName": "Arbour"
 }
 ],
 "isCancelled": false,
@@ -941,7 +952,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Current Topics in Clinical Psychology"
 }

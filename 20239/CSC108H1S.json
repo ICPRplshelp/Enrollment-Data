@@ -1,6 +1,6 @@
 {
 "code": "CSC108H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -228,13 +228,29 @@
 250,
 250,
 249,
-248
+248,
+256
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fernando",
+"lastName": "Yanez"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fernando",
+"lastName": "Yanez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -464,13 +480,29 @@
 245,
 245,
 245,
-244
+244,
+252
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Di",
+"lastName": "Chen"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Di",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -700,7 +732,8 @@
 286,
 286,
 283,
-283
+283,
+291
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -951,7 +984,8 @@
 283,
 283,
 284,
-283
+283,
+288
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1202,7 +1236,8 @@
 262,
 262,
 260,
-260
+260,
+255
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1453,7 +1488,8 @@
 264,
 264,
 262,
-264
+264,
+265
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1704,7 +1740,8 @@
 287,
 287,
 289,
-288
+288,
+304
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1957,7 +1994,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introduction to Computer Programming"
 }

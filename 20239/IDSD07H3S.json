@@ -1,13 +1,18 @@
 {
 "code": "IDSD07H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 8,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1701397084
+}
+],
 "initialCap": 8
 },
 "enrollmentLogs": [
@@ -225,7 +230,8 @@
 9,
 9,
 9,
-9
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,7 +472,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Extractive Industries in Africa"
 }

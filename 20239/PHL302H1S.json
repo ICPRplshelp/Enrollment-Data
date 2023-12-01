@@ -1,6 +1,6 @@
 {
 "code": "PHL302H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1692226488,
@@ -112,13 +112,29 @@
 23,
 23,
 23,
-23
+23,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rares-Ilie",
+"lastName": "Marinescu"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rares-Ilie",
+"lastName": "Marinescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -225,7 +241,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Ancient Philosophy After Aristotle"
 }

@@ -1,6 +1,6 @@
 {
 "code": "EESB20H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,13 +225,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kirsten VDG",
+"lastName": "Kennedy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -451,7 +467,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Sedimentology and Stratigraphy"
 }

@@ -1,6 +1,6 @@
 {
 "code": "PMDB41H3F",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,6 +225,7 @@
 28,
 28,
 27,
+26,
 26
 ],
 "instructorLog": {
@@ -473,13 +474,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -699,7 +716,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Professional and Legal Issues, Research, Responsibilities and Leadership"
 }

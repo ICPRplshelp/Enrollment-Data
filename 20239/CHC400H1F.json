@@ -1,6 +1,6 @@
 {
 "code": "CHC400H1F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -162,6 +162,7 @@
 5,
 4,
 5,
+4,
 4,
 4,
 4,
@@ -484,6 +485,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -506,7 +508,7 @@
 "lastName": "Stoeber"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 },
 {
@@ -740,6 +742,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -747,7 +750,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -969,7 +972,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Advanced Topics in Christianity and Culture I"
 }

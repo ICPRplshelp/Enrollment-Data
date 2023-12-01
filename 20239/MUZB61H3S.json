@@ -1,6 +1,6 @@
 {
 "code": "MUZB61H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,13 +225,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lynn Catherine",
+"lastName": "Tucker"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lynn Catherine",
+"lastName": "Tucker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -451,7 +467,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Concert Band IIb"
 }

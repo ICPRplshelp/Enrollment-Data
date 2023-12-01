@@ -1,6 +1,6 @@
 {
 "code": "ENV481H1F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -241,6 +241,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -263,7 +264,7 @@
 "lastName": "Kramarz"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -485,7 +486,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Special Topics in the Environment"
 }

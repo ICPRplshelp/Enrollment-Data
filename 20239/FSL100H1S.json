@@ -1,6 +1,6 @@
 {
 "code": "FSL100H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 92,
 92,
 92,
-94
+94,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,13 +480,29 @@
 92,
 92,
 91,
-87
+87,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Caroline",
+"lastName": "Mekhaeil"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Caroline",
+"lastName": "Mekhaeil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -715,13 +732,29 @@
 98,
 98,
 98,
-95
+95,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shahrzad",
+"lastName": "Mirzaei"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shahrzad",
+"lastName": "Mirzaei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -951,13 +984,29 @@
 90,
 90,
 91,
-91
+91,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Myriam",
+"lastName": "Corriveau"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Myriam",
+"lastName": "Corriveau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -1180,7 +1229,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Elementary French I"
 }

@@ -1,6 +1,6 @@
 {
 "code": "JAV130H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARCLA",
 "meetings": [
 {
 "createdAt": 1687561168,
@@ -210,7 +210,8 @@
 25,
 25,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -443,7 +444,8 @@
 21,
 21,
 20,
-21
+21,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -676,7 +678,8 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -909,13 +912,29 @@
 23,
 23,
 23,
-21
+21,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrienne",
+"lastName": "Scott"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrienne",
+"lastName": "Scott"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0104"
 },
@@ -1127,13 +1146,29 @@
 18,
 18,
 18,
-18
+18,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandy",
+"lastName": "Callander"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sandy",
+"lastName": "Callander"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0105"
 },
@@ -1345,13 +1380,29 @@
 25,
 25,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amelia",
+"lastName": "Ehrhardt"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amelia",
+"lastName": "Ehrhardt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0106"
 },
@@ -1562,6 +1613,7 @@
 25,
 25,
 25,
+24,
 24,
 24
 ],
@@ -1796,7 +1848,8 @@
 25,
 25,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2014,13 +2067,29 @@
 25,
 25,
 25,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cason",
+"lastName": "Sharpe"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cason",
+"lastName": "Sharpe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0109"
 },
@@ -2232,13 +2301,29 @@
 25,
 25,
 26,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Ormshaw"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Ormshaw"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0110"
 },
@@ -2447,6 +2532,7 @@
 24,
 25,
 24,
+25,
 25,
 25,
 25,
@@ -2683,7 +2769,8 @@
 25,
 25,
 24,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2916,7 +3003,8 @@
 25,
 25,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3142,7 +3230,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Visual Strategies"
 }

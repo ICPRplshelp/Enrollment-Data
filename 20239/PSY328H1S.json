@@ -1,6 +1,6 @@
 {
 "code": "PSY328H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 81,
 81,
 80,
-80
+80,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -484,6 +485,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -491,7 +493,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -713,7 +715,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Psychology and the Law"
 }

@@ -1,10 +1,10 @@
 {
 "code": "ENGD59H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -225,7 +225,8 @@
 16,
 16,
 17,
-18
+18,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "DuBois"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Neal",
-"lastName": "Dolan"
+"firstName": "Andrew",
+"lastName": "DuBois"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Topics in American Poetry"
 }

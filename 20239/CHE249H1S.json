@@ -1,11 +1,11 @@
 {
 "code": "CHE249H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 145,
+"enrollmentCap": 142,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 145,
 "time": 1689378883
+},
+{
+"newCapacity": 142,
+"time": 1701397084
 }
 ],
 "initialCap": 135
@@ -168,6 +172,7 @@
 134,
 134,
 134,
+132,
 132,
 132,
 132,
@@ -487,7 +492,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Engineering Economic Analysis"
 }

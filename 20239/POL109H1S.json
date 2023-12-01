@@ -1,6 +1,6 @@
 {
 "code": "POL109H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 540,
 540,
 538,
-541
+541,
+547
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1688577945
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Zarnett"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nancy",
-"lastName": "Bertoldi"
+"firstName": "David",
+"lastName": "Zarnett"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Might and Right:  Power and Justice in International Relations"
 }

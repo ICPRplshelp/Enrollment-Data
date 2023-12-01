@@ -1,6 +1,6 @@
 {
 "code": "POL200Y5Y",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,7 +225,8 @@
 190,
 190,
 190,
-190
+190,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,6 +239,19 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Menaka",
+"lastName": "Philips"
+},
+{
+"firstName": "Rachael",
+"lastName": "Desborough"
+}
+],
+"timing": 1701397084
 }
 ]
 },
@@ -245,6 +259,10 @@
 {
 "firstName": "Menaka",
 "lastName": "Philips"
+},
+{
+"firstName": "Rachael",
+"lastName": "Desborough"
 }
 ],
 "isCancelled": false,
@@ -466,7 +484,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Political Theory"
 }

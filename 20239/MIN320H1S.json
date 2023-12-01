@@ -1,6 +1,6 @@
 {
 "code": "MIN320H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,6 +225,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -247,13 +248,22 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "John Paul",
+"lastName": "Harrison"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chonglang",
-"lastName": "Wang"
+"firstName": "John Paul",
+"lastName": "Harrison"
 }
 ],
 "isCancelled": false,
@@ -475,7 +485,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Explosives and Fragmentation in Mining"
 }

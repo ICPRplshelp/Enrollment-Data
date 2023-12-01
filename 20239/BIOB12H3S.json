@@ -1,6 +1,6 @@
 {
 "code": "BIOB12H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,7 +225,8 @@
 228,
 228,
 229,
-229
+229,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam",
-"lastName": "Mott"
+"firstName": "Daman",
+"lastName": "Bawa"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Cell and Molecular Biology Laboratory"
 }

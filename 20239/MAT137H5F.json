@@ -1,6 +1,6 @@
 {
 "code": "MAT137H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -234,7 +234,8 @@
 59,
 59,
 58,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,6 +492,7 @@
 75,
 75,
 74,
+73,
 73
 ],
 "instructorLog": {
@@ -744,6 +746,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -751,7 +754,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -970,7 +973,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Differential Calculus for Mathematical Sciences"
 }

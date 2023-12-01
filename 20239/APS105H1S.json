@@ -1,11 +1,11 @@
 {
 "code": "APS105H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 116,
+"enrollmentCap": 115,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 116,
 "time": 1700536705
+},
+{
+"newCapacity": 115,
+"time": 1701397084
 }
 ],
 "initialCap": 125
@@ -237,6 +241,7 @@
 116,
 116,
 116,
+115,
 115,
 115
 ],
@@ -511,7 +516,8 @@
 140,
 140,
 158,
-158
+158,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -776,6 +782,7 @@
 138,
 138,
 127,
+127,
 127
 ],
 "instructorLog": {
@@ -1037,6 +1044,7 @@
 134,
 134,
 127,
+127,
 127
 ],
 "instructorLog": {
@@ -1278,7 +1286,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Computer Fundamentals"
 }

@@ -1,16 +1,20 @@
 {
 "code": "CCT354H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 105,
 "time": 1692247612
+},
+{
+"newCapacity": 140,
+"time": 1701397084
 }
 ],
 "initialCap": 100
@@ -230,7 +234,8 @@
 138,
 138,
 138,
-138
+138,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -471,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Digital Marketing II (DEM)"
 }

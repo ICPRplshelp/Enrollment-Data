@@ -1,6 +1,6 @@
 {
 "code": "COPC98H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,13 +225,29 @@
 44,
 44,
 44,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -458,13 +474,29 @@
 45,
 45,
 45,
-45
+45,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -684,7 +716,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Integrating Your Work Term Experience Part I"
 }

@@ -1,6 +1,6 @@
 {
 "code": "BIOA02H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,7 +225,8 @@
 351,
 351,
 350,
-348
+348,
+344
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -511,6 +512,7 @@
 499,
 499,
 498,
+500,
 500
 ],
 "instructorLog": {
@@ -568,7 +570,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "ASYNC",
-"enrollmentCap": 206,
+"enrollmentCap": 186,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -582,6 +584,10 @@
 {
 "newCapacity": 206,
 "time": 1695920924
+},
+{
+"newCapacity": 186,
+"time": 1701397084
 }
 ],
 "initialCap": 180
@@ -801,7 +807,8 @@
 191,
 191,
 190,
-185
+185,
+176
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1071,7 +1078,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

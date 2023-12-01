@@ -1,6 +1,6 @@
 {
 "code": "VPSB67H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,13 +225,29 @@
 26,
 26,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jackson",
+"lastName": "Klie"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jackson",
+"lastName": "Klie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -451,7 +467,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Photo I"
 }

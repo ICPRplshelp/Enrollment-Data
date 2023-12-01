@@ -1,6 +1,6 @@
 {
 "code": "PSY341H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,13 +228,29 @@
 82,
 82,
 78,
-69
+69,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -464,13 +480,29 @@
 0,
 0,
 4,
-23
+23,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -693,7 +725,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Psychopathologies of Childhood"
 }

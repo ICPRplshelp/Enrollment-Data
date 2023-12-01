@@ -1,6 +1,6 @@
 {
 "code": "COPB52H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -230,13 +230,45 @@
 186,
 186,
 185,
-185
+185,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
 },
-"instructors": [],
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+},
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1701397084
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+},
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+},
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -472,13 +504,29 @@
 87,
 87,
 87,
-87
+87,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi",
+"lastName": "Abdoun Mohamed"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mimi",
+"lastName": "Abdoun Mohamed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -698,7 +746,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

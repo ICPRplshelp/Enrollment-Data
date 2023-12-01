@@ -1,6 +1,6 @@
 {
 "code": "CSCC11H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,13 +225,29 @@
 56,
 56,
 57,
-58
+58,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mehdy",
+"lastName": "Dousty"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mehdy",
+"lastName": "Dousty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -458,7 +474,8 @@
 80,
 80,
 80,
-81
+81,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -699,7 +716,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introduction to Machine Learning and Data Mining"
 }

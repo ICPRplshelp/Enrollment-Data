@@ -1,6 +1,6 @@
 {
 "code": "BIOD23H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,13 +225,29 @@
 16,
 16,
 18,
-18
+18,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daman",
+"lastName": "Bawa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -451,7 +467,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Special Topics in Cell Biology"
 }

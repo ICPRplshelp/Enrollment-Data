@@ -1,6 +1,6 @@
 {
 "code": "ENV305H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,6 +225,7 @@
 87,
 87,
 87,
+87,
 87
 ],
 "instructorLog": {
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tenley",
+"lastName": "Conway"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Micah Joel",
-"lastName": "Hewer"
+"firstName": "Tenley",
+"lastName": "Conway"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Sustainable Tourism"
 }

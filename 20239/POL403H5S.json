@@ -1,6 +1,6 @@
 {
 "code": "POL403H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,13 +225,29 @@
 21,
 21,
 21,
-21
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sardana",
+"lastName": "Nikolaeva"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sardana",
+"lastName": "Nikolaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -451,7 +467,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Topics in Political Science"
 }

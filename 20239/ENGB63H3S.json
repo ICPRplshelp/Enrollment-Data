@@ -1,6 +1,6 @@
 {
 "code": "ENGB63H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -225,7 +225,8 @@
 25,
 25,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,7 +474,8 @@
 15,
 15,
 16,
-16
+16,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -486,13 +488,22 @@
 }
 ],
 "timing": 1700264444
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sahar",
+"lastName": "Golshan"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SAHAR",
-"lastName": "GOLSHAN (NOUTORID)"
+"firstName": "Sahar",
+"lastName": "Golshan"
 }
 ],
 "isCancelled": false,
@@ -714,7 +725,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Creative Writing: Creative Nonfiction I"
 }

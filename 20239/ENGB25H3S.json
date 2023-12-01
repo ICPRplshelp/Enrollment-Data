@@ -1,13 +1,18 @@
 {
 "code": "ENGB25H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1701397084
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -225,7 +230,8 @@
 54,
 54,
 54,
-54
+54,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,7 +472,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "The Canadian Short Story"
 }

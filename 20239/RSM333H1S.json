@@ -1,6 +1,6 @@
 {
 "code": "RSM333H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -233,7 +233,8 @@
 57,
 57,
 57,
-58
+58,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,7 +490,8 @@
 60,
 60,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -740,7 +742,8 @@
 48,
 48,
 48,
-48
+48,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -981,7 +984,8 @@
 60,
 60,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1237,7 +1241,8 @@
 62,
 62,
 62,
-61
+61,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1265,12 +1270,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1692120475
+},
+{
+"newCapacity": 56,
+"time": 1701397084
 }
 ],
 "initialCap": 50
@@ -1493,6 +1502,7 @@
 55,
 55,
 54,
+55,
 55
 ],
 "instructorLog": {
@@ -1734,7 +1744,8 @@
 58,
 58,
 56,
-56
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1985,7 +1996,8 @@
 30,
 30,
 30,
-30
+30,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2230,6 +2242,7 @@
 52,
 52,
 52,
+51,
 51,
 51,
 51,
@@ -2487,6 +2500,7 @@
 11,
 11,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -2731,7 +2745,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Corporate Finance"
 }

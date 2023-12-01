@@ -1,6 +1,6 @@
 {
 "code": "SAH200H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,6 +225,7 @@
 62,
 62,
 62,
+62,
 62
 ],
 "instructorLog": {
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Aakash Mohanlal",
+"lastName": "Solanki"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Megha Sharma",
-"lastName": "Sehdev"
+"firstName": "Aakash Mohanlal",
+"lastName": "Solanki"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Being Human in South Asia"
 }

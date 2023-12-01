@@ -1,0 +1,46 @@
+{
+"code": "LIN195H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1701397084,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+10
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daphna",
+"lastName": "Heller"
+}
+],
+"timing": 1701397084
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daphna",
+"lastName": "Heller"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1701397083,
+1701397084
+],
+"title": "Babel: Language in the Mind of Speakers"
+}

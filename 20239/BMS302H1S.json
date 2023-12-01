@@ -1,6 +1,6 @@
 {
 "code": "BMS302H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -228,6 +228,7 @@
 67,
 67,
 67,
+68,
 68
 ],
 "instructorLog": {
@@ -479,7 +480,8 @@
 45,
 45,
 45,
-45
+45,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -735,6 +737,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -742,7 +745,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 },
 {
@@ -976,6 +979,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -983,7 +987,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0302"
 }
 ],
@@ -1205,7 +1209,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Special Topics in Book & Media Histories"
 }

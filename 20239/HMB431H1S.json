@@ -1,6 +1,6 @@
 {
 "code": "HMB431H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,6 +228,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Humna",
+"lastName": "Noman"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "YiQing",
-"lastName": "Lu"
+"firstName": "Humna",
+"lastName": "Noman"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Innovation in Genome Engineering and Translational Research"
 }

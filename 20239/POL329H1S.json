@@ -1,6 +1,6 @@
 {
 "code": "POL329H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 108,
 108,
 107,
-107
+107,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Laila",
+"lastName": "Khoshkar"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nancy",
-"lastName": "Bertoldi"
+"firstName": "Laila",
+"lastName": "Khoshkar"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Experiences of Conflict"
 }

@@ -1,0 +1,31 @@
+{
+"code": "MAT396H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1701397084,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1701397083,
+1701397084
+],
+"title": "Independent Reading in Mathematics"
+}

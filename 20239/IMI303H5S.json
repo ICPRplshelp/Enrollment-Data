@@ -1,6 +1,6 @@
 {
 "code": "IMI303H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -230,13 +230,29 @@
 50,
 50,
 51,
-51
+51,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Yousie"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Yousie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -456,7 +472,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Technology Strategy"
 }

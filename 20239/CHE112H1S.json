@@ -1,11 +1,11 @@
 {
 "code": "CHE112H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 363,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -27,6 +27,10 @@
 {
 "newCapacity": 363,
 "time": 1690316798
+},
+{
+"newCapacity": 300,
+"time": 1701397084
 }
 ],
 "initialCap": 250
@@ -246,7 +250,8 @@
 297,
 297,
 297,
-297
+297,
+296
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -487,7 +492,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Physical Chemistry"
 }

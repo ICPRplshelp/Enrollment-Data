@@ -1,11 +1,11 @@
 {
 "code": "MIE191H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 277,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 277,
 "time": 1689016776
+},
+{
+"newCapacity": 240,
+"time": 1701397084
 }
 ],
 "initialCap": 214
@@ -229,6 +233,7 @@
 233,
 233,
 233,
+235,
 235,
 235,
 235,
@@ -475,7 +480,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Seminar Course: Introduction to Mechanical and Industrial Engineering"
 }

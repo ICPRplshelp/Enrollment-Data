@@ -1,6 +1,6 @@
 {
 "code": "WGS355H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,13 +228,29 @@
 55,
 55,
 55,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Valentina",
+"lastName": "Castellini"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Valentina",
+"lastName": "Castellini"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -457,7 +473,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Gendered Labour Around the World"
 }

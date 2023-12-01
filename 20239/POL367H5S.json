@@ -1,6 +1,6 @@
 {
 "code": "POL367H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,7 +225,8 @@
 35,
 35,
 35,
-35
+35,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1687893242
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachael",
+"lastName": "Desborough"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Menaka",
-"lastName": "Philips"
+"firstName": "Rachael",
+"lastName": "Desborough"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Feminist Political Theory"
 }

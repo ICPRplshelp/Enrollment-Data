@@ -1,6 +1,6 @@
 {
 "code": "MAT187H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -234,7 +234,8 @@
 289,
 289,
 289,
-289
+289,
+285
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -273,6 +274,19 @@
 }
 ],
 "timing": 1690054077
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+},
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+}
+],
+"timing": 1701397084
 }
 ]
 },
@@ -282,8 +296,8 @@
 "lastName": "McGregor"
 },
 {
-"firstName": "Ramon Eduardo",
-"lastName": "Ronzon Lavie"
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
 }
 ],
 "isCancelled": false,
@@ -521,7 +535,8 @@
 283,
 283,
 283,
-326
+326,
+323
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -811,7 +826,8 @@
 512,
 512,
 511,
-468
+468,
+466
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1060,7 +1076,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Calculus II"
 }

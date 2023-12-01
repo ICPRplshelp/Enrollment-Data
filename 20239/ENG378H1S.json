@@ -1,13 +1,18 @@
 {
 "code": "ENG378H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1687305253,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 41,
+"time": 1701397084
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -216,7 +221,8 @@
 27,
 27,
 28,
-29
+29,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -433,7 +439,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Special Topics"
 }

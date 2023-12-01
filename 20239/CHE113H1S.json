@@ -1,11 +1,11 @@
 {
 "code": "CHE113H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 178,
+"enrollmentCap": 154,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 178,
 "time": 1689888019
+},
+{
+"newCapacity": 154,
+"time": 1701397084
 }
 ],
 "initialCap": 145
@@ -238,7 +242,8 @@
 154,
 154,
 154,
-154
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,7 +484,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Concepts in Chemical Engineering"
 }

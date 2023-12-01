@@ -1,6 +1,6 @@
 {
 "code": "VPSC93H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -230,7 +230,8 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,13 +253,22 @@
 }
 ],
 "timing": 1688752277
+},
+{
+"instructorsAfter": [
+{
+"firstName": "HELEN",
+"lastName": "CHO (NOUTORID)"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam David",
-"lastName": "Brown"
+"firstName": "HELEN",
+"lastName": "CHO (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Theory and Practice: Art and the Everyday"
 }

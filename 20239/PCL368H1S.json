@@ -1,6 +1,6 @@
 {
 "code": "PCL368H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -11,6 +11,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -250,7 +251,7 @@
 "lastName": "Hamadanizadeh"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -484,7 +485,8 @@
 59,
 59,
 59,
-58
+58,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -728,7 +730,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Drug Development Pipeline II: In vivo"
 }

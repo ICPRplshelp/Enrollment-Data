@@ -1,6 +1,6 @@
 {
 "code": "MGT301H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,7 +225,8 @@
 37,
 37,
 37,
-35
+35,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,7 +474,8 @@
 44,
 44,
 43,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -726,6 +728,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -733,7 +736,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -952,7 +955,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Coding and Data Management for Business Analytics"
 }

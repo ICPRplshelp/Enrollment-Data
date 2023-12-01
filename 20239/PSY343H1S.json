@@ -1,6 +1,6 @@
 {
 "code": "PSY343H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 79,
 79,
 79,
-78
+78,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,6 +242,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+},
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
+"timing": 1701397084
 }
 ]
 },
@@ -248,6 +262,10 @@
 {
 "firstName": "Taryn Elizabeth",
 "lastName": "Grieder"
+},
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
 }
 ],
 "isCancelled": false,
@@ -479,7 +497,8 @@
 108,
 108,
 106,
-107
+107,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -730,7 +749,8 @@
 69,
 69,
 70,
-67
+67,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -974,7 +994,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Theories of Psychopathology and Psychotherapy"
 }

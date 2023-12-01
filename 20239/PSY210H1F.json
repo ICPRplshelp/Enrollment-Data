@@ -1,6 +1,6 @@
 {
 "code": "PSY210H1F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,6 +228,7 @@
 160,
 160,
 154,
+153,
 153
 ],
 "instructorLog": {
@@ -241,6 +242,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Amy",
+"lastName": "Finn"
+},
+{
+"firstName": "Christina",
+"lastName": "Starmans"
+}
+],
+"timing": 1701397084
 }
 ]
 },
@@ -248,6 +262,10 @@
 {
 "firstName": "Amy",
 "lastName": "Finn"
+},
+{
+"firstName": "Christina",
+"lastName": "Starmans"
 }
 ],
 "isCancelled": false,
@@ -479,7 +497,8 @@
 169,
 169,
 169,
-169
+169,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -723,7 +742,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introduction to Developmental Psychology"
 }

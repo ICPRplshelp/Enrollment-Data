@@ -1,16 +1,20 @@
 {
 "code": "GGR274H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1690443128
+},
+{
+"newCapacity": 120,
+"time": 1701397084
 }
 ],
 "initialCap": 150
@@ -233,13 +237,37 @@
 117,
 117,
 117,
+119,
 119
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chunjiang",
+"lastName": "Li"
 },
-"instructors": [],
+{
+"firstName": "Ilya",
+"lastName": "Musabirov"
+}
+],
+"timing": 1701397084
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chunjiang",
+"lastName": "Li"
+},
+{
+"firstName": "Ilya",
+"lastName": "Musabirov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -462,7 +490,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introductory Computation and Data Science for the Social Sciences"
 }

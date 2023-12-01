@@ -1,6 +1,6 @@
 {
 "code": "ECE231H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -234,7 +234,8 @@
 113,
 113,
 113,
-113
+113,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -500,6 +501,7 @@
 95,
 95,
 94,
+94,
 94
 ],
 "instructorLog": {
@@ -528,7 +530,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 136,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -538,6 +540,10 @@
 {
 "newCapacity": 136,
 "time": 1689016776
+},
+{
+"newCapacity": 130,
+"time": 1701397084
 }
 ],
 "initialCap": 130
@@ -757,7 +763,8 @@
 131,
 131,
 131,
-131
+131,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1014,7 +1021,8 @@
 80,
 80,
 80,
-80
+80,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1255,7 +1263,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introductory Electronics"
 }

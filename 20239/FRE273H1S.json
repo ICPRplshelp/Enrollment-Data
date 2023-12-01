@@ -1,6 +1,6 @@
 {
 "code": "FRE273H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -228,7 +228,8 @@
 58,
 58,
 58,
-56
+56,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Loula",
+"lastName": "Abd-elrazak"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "M.",
-"lastName": "Friesner"
+"firstName": "Loula",
+"lastName": "Abd-elrazak"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introduction to the History of the French Language"
 }

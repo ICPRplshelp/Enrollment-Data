@@ -1,6 +1,6 @@
 {
 "code": "MUZA63H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -230,13 +230,29 @@
 18,
 18,
 19,
-19
+19,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "Murray"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "Murray"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -456,7 +472,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Concert Choir Ib"
 }

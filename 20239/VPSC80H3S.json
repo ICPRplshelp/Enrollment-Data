@@ -1,6 +1,6 @@
 {
 "code": "VPSC80H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -230,13 +230,29 @@
 23,
 23,
 23,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hiba",
+"lastName": "Abdallah"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hiba",
+"lastName": "Abdallah"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -456,7 +472,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Digital Publishing"
 }

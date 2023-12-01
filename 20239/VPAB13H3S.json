@@ -1,6 +1,6 @@
 {
 "code": "VPAB13H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1690549709,
@@ -147,13 +147,29 @@
 120,
 120,
 123,
-125
+125,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah Jane",
+"lastName": "Flynn"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah Jane",
+"lastName": "Flynn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -286,7 +302,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Financial Management for Arts Managers"
 }

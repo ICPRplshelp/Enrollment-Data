@@ -1,11 +1,11 @@
 {
 "code": "ESC190H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 342,
+"enrollmentCap": 310,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 342,
 "time": 1689957270
+},
+{
+"newCapacity": 310,
+"time": 1701397084
 }
 ],
 "initialCap": 300
@@ -237,6 +241,7 @@
 309,
 309,
 309,
+310,
 310,
 310
 ],
@@ -479,7 +484,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "COMP. ALGOR. & DATA STRUCTURES"
 }

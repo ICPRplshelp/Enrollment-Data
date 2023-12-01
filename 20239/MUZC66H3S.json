@@ -1,6 +1,6 @@
 {
 "code": "MUZC66H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,13 +225,29 @@
 3,
 3,
 3,
-3
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -402,6 +418,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -699,7 +716,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Small Ensembles IIIa"
 }

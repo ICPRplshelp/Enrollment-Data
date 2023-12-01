@@ -1,6 +1,6 @@
 {
 "code": "ENG198H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -228,7 +228,8 @@
 44,
 44,
 42,
-42
+42,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexandra",
+"lastName": "Bauer"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Audrey",
-"lastName": "Walton"
+"firstName": "Alexandra",
+"lastName": "Bauer"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Monster Encounters: Monsters and the Monstrous in Literature"
 }

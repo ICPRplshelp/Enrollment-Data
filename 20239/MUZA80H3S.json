@@ -1,6 +1,6 @@
 {
 "code": "MUZA80H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -230,7 +230,8 @@
 37,
 37,
 36,
-37
+37,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -483,7 +484,8 @@
 40,
 40,
 39,
-41
+41,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -731,13 +733,29 @@
 36,
 36,
 38,
-39
+39,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -957,7 +975,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Foundations in Musicianship"
 }

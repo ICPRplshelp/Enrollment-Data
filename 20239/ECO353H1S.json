@@ -1,13 +1,18 @@
 {
 "code": "ECO353H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 125,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 97,
+"time": 1701397084
+}
+],
 "initialCap": 125
 },
 "enrollmentLogs": [
@@ -228,7 +233,8 @@
 80,
 80,
 78,
-78
+78,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,7 +485,8 @@
 34,
 34,
 36,
-35
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -723,7 +730,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Special Topics in Economics with Data Analytics"
 }

@@ -1,6 +1,6 @@
 {
 "code": "CSC148H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -233,7 +233,8 @@
 242,
 242,
 239,
-238
+238,
+235
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,7 +490,8 @@
 239,
 239,
 237,
-233
+233,
+228
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -745,7 +747,8 @@
 238,
 238,
 239,
-234
+234,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1001,6 +1004,7 @@
 272,
 272,
 273,
+268,
 268
 ],
 "instructorLog": {
@@ -1257,6 +1261,7 @@
 268,
 268,
 272,
+268,
 268
 ],
 "instructorLog": {
@@ -1508,13 +1513,29 @@
 239,
 239,
 242,
-239
+239,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -1737,7 +1758,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Introduction to Computer Science"
 }

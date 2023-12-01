@@ -1,6 +1,6 @@
 {
 "code": "GGRA02H3F",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -225,6 +225,7 @@
 122,
 122,
 121,
+121,
 121
 ],
 "instructorLog": {
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shalini",
+"lastName": "Mariyathas"
+}
+],
+"timing": 1701397084
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hulya",
-"lastName": "Arik"
+"firstName": "Shalini",
+"lastName": "Mariyathas"
 }
 ],
 "isCancelled": false,
@@ -466,7 +476,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "The Geography of Global Processes"
 }

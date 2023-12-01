@@ -1,6 +1,6 @@
 {
 "code": "IFP020Y1Y",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -233,6 +233,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -240,7 +241,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -394,6 +395,7 @@
 0,
 1,
 14,
+15,
 15,
 15,
 15,
@@ -720,6 +722,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -897,6 +900,7 @@
 1,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -1222,6 +1226,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -1411,6 +1416,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -1729,6 +1735,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1736,7 +1743,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0601"
 },
 {
@@ -1889,6 +1896,7 @@
 0,
 0,
 0,
+14,
 14,
 14,
 14,
@@ -2216,6 +2224,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -2391,6 +2400,7 @@
 0,
 0,
 0,
+14,
 14,
 14,
 14,
@@ -2718,6 +2728,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -2894,6 +2905,7 @@
 0,
 0,
 14,
+15,
 15,
 15,
 15,
@@ -3220,6 +3232,7 @@
 15,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -3409,6 +3422,7 @@
 14,
 14,
 14,
+15,
 15,
 15,
 15,
@@ -3727,6 +3741,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -3734,7 +3749,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0903"
 }
 ],
@@ -3956,7 +3971,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Critical Reading & Writing"
 }

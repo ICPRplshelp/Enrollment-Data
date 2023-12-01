@@ -1,0 +1,46 @@
+{
+"code": "POLD56H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1701397084,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher Brian",
+"lastName": "Cochrane"
+}
+],
+"timing": 1701397084
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher Brian",
+"lastName": "Cochrane"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1701397083,
+1701397084
+],
+"title": "Politics and Computational Social Science"
+}

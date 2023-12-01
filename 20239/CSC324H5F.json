@@ -1,6 +1,6 @@
 {
 "code": "CSC324H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -211,6 +211,7 @@
 73,
 73,
 73,
+72,
 72,
 72,
 72,
@@ -473,6 +474,7 @@
 76,
 76,
 75,
+74,
 74
 ],
 "instructorLog": {
@@ -726,6 +728,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -733,7 +736,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 }
 ],
@@ -952,7 +955,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Principles of Programming Languages"
 }

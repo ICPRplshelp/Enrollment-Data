@@ -1,6 +1,6 @@
 {
 "code": "FSTD01H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1696030622,
@@ -61,13 +61,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"timing": 1701397084
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -123,7 +139,8 @@
 1700264444,
 1700435808,
 1700536705,
-1700710710
+1700710710,
+1701397084
 ],
 "title": "Independent Studies: Senior Research Project"
 }
