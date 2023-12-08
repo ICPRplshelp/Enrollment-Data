@@ -226,7 +226,8 @@
 27,
 28,
 29,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andre",
+"lastName": "Wang"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "YILUN",
-"lastName": "WANG (NOUTORID)"
+"firstName": "Andre",
+"lastName": "Wang"
 }
 ],
 "isCancelled": false,
@@ -475,7 +485,8 @@
 29,
 29,
 30,
-33
+33,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -724,13 +735,29 @@
 29,
 30,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rimma",
+"lastName": "Teper"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rimma",
+"lastName": "Teper"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -951,7 +978,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Current Topics in Social Psychology"
 }

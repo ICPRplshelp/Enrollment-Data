@@ -226,13 +226,29 @@
 61,
 62,
 64,
-63
+63,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph FS",
+"lastName": "Guiyab"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph FS",
+"lastName": "Guiyab"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "The Legal Environment of Business I"
 }

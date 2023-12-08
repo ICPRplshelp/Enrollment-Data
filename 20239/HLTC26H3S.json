@@ -226,6 +226,7 @@
 54,
 56,
 59,
+58,
 58
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shamim",
+"lastName": "Ahmed"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Charles Gordon",
-"lastName": "Trick"
+"firstName": "Shamim",
+"lastName": "Ahmed"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Global Health and Human Biology"
 }

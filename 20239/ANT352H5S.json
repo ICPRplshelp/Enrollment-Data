@@ -228,7 +228,8 @@
 37,
 39,
 39,
-39
+39,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1689599481
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Barac"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Dylan",
-"lastName": "Clark"
+"firstName": "Victor",
+"lastName": "Barac"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700710710,
 1701396933,
 1701397061,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Protest, Power and Authority: Topics in Political Anthropology"
 }

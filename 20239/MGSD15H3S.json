@@ -212,13 +212,29 @@
 34,
 33,
 33,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "EILIA",
+"lastName": "YAZDANIAN (NOUTORID)"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "EILIA",
+"lastName": "YAZDANIAN (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -425,7 +441,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Managing in the Information Economy"
 }

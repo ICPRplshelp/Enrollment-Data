@@ -226,13 +226,29 @@
 35,
 36,
 37,
-38
+38,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jenny",
+"lastName": "Gao"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jenny",
+"lastName": "Gao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Management Control"
 }

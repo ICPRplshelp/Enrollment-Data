@@ -225,7 +225,8 @@
 93,
 93,
 93,
-96
+96,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1697675063
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lewis",
+"lastName": "Kaye"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Alex",
-"lastName": "Chalk"
+"firstName": "Lewis",
+"lastName": "Kaye"
 }
 ],
 "isCancelled": false,
@@ -461,7 +471,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Technology, Culture and Society"
 }

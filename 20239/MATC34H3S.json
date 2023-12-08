@@ -226,7 +226,8 @@
 44,
 44,
 45,
-45
+45,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jacob",
+"lastName": "Kewarth"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "James",
-"lastName": "Bremer Jr"
+"firstName": "Jacob",
+"lastName": "Kewarth"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Complex Variables"
 }

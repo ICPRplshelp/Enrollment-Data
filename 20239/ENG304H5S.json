@@ -226,13 +226,29 @@
 40,
 40,
 40,
-39
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Raby"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Raby"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Seventeenth-Century Poetry"
 }

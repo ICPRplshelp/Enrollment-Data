@@ -207,13 +207,29 @@
 67,
 67,
 67,
+75,
 75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Margarete",
+"lastName": "Von Adamic-Vaight"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Margarete",
+"lastName": "Von Adamic-Vaight"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -415,7 +431,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "ENTREPRENEURSHIP AND SMALL BUS"
 }

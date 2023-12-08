@@ -226,6 +226,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -460,7 +461,8 @@
 105,
 105,
 104,
-108
+108,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,13 +475,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Arnold",
-"lastName": "Rosenbloom"
+"firstName": "Erfan",
+"lastName": "Meskar"
 }
 ],
 "isCancelled": false,
@@ -709,7 +720,8 @@
 109,
 109,
 108,
-109
+109,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -722,13 +734,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Michael",
-"lastName": "Liut"
+"firstName": "Erfan",
+"lastName": "Meskar"
 }
 ],
 "isCancelled": false,
@@ -951,7 +972,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Principles of Computer Networks"
 }

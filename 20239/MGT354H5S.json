@@ -226,13 +226,29 @@
 69,
 68,
 67,
-66
+66,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samah",
+"lastName": "Khalil"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samah",
+"lastName": "Khalil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Consumer Behaviour"
 }

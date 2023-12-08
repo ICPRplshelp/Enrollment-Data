@@ -226,6 +226,7 @@
 18,
 18,
 18,
+17,
 17
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Reza",
+"lastName": "Rahmati"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Charles",
-"lastName": "Jia"
+"firstName": "Reza",
+"lastName": "Rahmati"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Environmental Pathways and Impact Assessment"
 }

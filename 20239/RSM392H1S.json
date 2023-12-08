@@ -229,7 +229,8 @@
 18,
 18,
 18,
-18
+18,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,7 +467,8 @@
 44,
 44,
 45,
-46
+46,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -708,7 +710,8 @@
 55,
 55,
 55,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -945,6 +948,7 @@
 49,
 49,
 49,
+50,
 50
 ],
 "instructorLog": {
@@ -1196,6 +1200,7 @@
 57,
 57,
 56,
+55,
 55,
 55,
 55,
@@ -1459,7 +1464,8 @@
 55,
 55,
 55,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1711,13 +1717,29 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daphne",
+"lastName": "Baldassari"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daphne",
+"lastName": "Baldassari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 }
@@ -1941,7 +1963,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Strategic Management"
 }

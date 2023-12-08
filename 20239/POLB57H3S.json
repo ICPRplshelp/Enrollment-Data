@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 250,
 "time": 1697739390
+},
+{
+"newCapacity": 270,
+"time": 1702022724
 }
 ],
 "initialCap": 230
@@ -231,7 +235,8 @@
 244,
 247,
 247,
-248
+248,
+252
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "The Canadian Constitution and the Charter of Rights"
 }

@@ -229,6 +229,7 @@
 127,
 125,
 126,
+126,
 126
 ],
 "instructorLog": {
@@ -242,6 +243,19 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Haissi",
+"lastName": "Cui"
+},
+{
+"firstName": "Stephanie",
+"lastName": "Sebastiampillai"
+}
+],
+"timing": 1702022724
 }
 ]
 },
@@ -249,6 +263,10 @@
 {
 "firstName": "Haissi",
 "lastName": "Cui"
+},
+{
+"firstName": "Stephanie",
+"lastName": "Sebastiampillai"
 }
 ],
 "isCancelled": false,
@@ -474,7 +492,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Science of the Modern Kitchen"
 }

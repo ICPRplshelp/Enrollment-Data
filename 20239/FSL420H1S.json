@@ -229,7 +229,8 @@
 18,
 18,
 18,
-21
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Ayouti"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marie-Anne",
-"lastName": "Visoi"
+"firstName": "Thomas",
+"lastName": "Ayouti"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Advanced French I"
 }

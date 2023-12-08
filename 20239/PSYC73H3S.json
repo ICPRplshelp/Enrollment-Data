@@ -226,6 +226,7 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Hamdullahpur (NOUTORID)"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Amanda Ann",
-"lastName": "Uliaszek"
+"firstName": "Kevin",
+"lastName": "Hamdullahpur (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Wellness and Resilience Laboratory"
 }

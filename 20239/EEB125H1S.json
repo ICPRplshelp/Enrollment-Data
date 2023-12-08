@@ -234,7 +234,8 @@
 59,
 60,
 60,
-64
+64,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,6 +261,23 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tomomi",
+"lastName": "Parins-Fukuchi"
+},
+{
+"firstName": "Krishnapriya",
+"lastName": "Vishnubhotla"
+},
+{
+"firstName": "Michael jongho",
+"lastName": "Moon"
+}
+],
+"timing": 1702022724
 }
 ]
 },
@@ -271,6 +289,10 @@
 {
 "firstName": "Krishnapriya",
 "lastName": "Vishnubhotla"
+},
+{
+"firstName": "Michael jongho",
+"lastName": "Moon"
 }
 ],
 "isCancelled": false,
@@ -496,7 +518,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introductory Computation and Data Science for the Life and Physical Sciences"
 }

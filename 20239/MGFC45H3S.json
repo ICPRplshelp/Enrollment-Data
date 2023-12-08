@@ -226,13 +226,37 @@
 47,
 46,
 46,
-47
+47,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Chau"
 },
-"instructors": [],
+{
+"firstName": "O.",
+"lastName": "QURESHI (NOUTORID)"
+}
+],
+"timing": 1702022724
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bill",
+"lastName": "Chau"
+},
+{
+"firstName": "O.",
+"lastName": "QURESHI (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -453,7 +477,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Portfolio Management: Theory and Practice"
 }

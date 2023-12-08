@@ -229,13 +229,29 @@
 69,
 69,
 69,
-72
+72,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -466,7 +482,8 @@
 72,
 72,
 71,
-70
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -718,7 +735,8 @@
 42,
 42,
 42,
-40
+40,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -970,13 +988,29 @@
 72,
 72,
 72,
-73
+73,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -1207,13 +1241,29 @@
 31,
 31,
 31,
-33
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1444,13 +1494,29 @@
 37,
 37,
 38,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ralph",
+"lastName": "Tassone"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ralph",
+"lastName": "Tassone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -1674,7 +1740,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introduction to Financial Accounting"
 }

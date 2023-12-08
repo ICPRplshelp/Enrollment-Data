@@ -229,7 +229,8 @@
 68,
 69,
 69,
-65
+65,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,6 +243,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+},
+{
+"firstName": "Carolyn",
+"lastName": "Guay"
+}
+],
+"timing": 1702022724
 }
 ]
 },
@@ -249,6 +263,10 @@
 {
 "firstName": "Taryn Elizabeth",
 "lastName": "Grieder"
+},
+{
+"firstName": "Carolyn",
+"lastName": "Guay"
 }
 ],
 "isCancelled": false,
@@ -481,7 +499,8 @@
 58,
 58,
 58,
-57
+57,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -726,7 +745,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Health Psychology"
 }

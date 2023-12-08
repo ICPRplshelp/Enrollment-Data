@@ -229,7 +229,8 @@
 23,
 23,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Huang"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Boris",
-"lastName": "Babic"
+"firstName": "Alice",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Ethical Issues in Big Data"
 }

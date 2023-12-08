@@ -226,13 +226,29 @@
 40,
 40,
 40,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Thomas"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Thomas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Advanced Audit & Assurance"
 }

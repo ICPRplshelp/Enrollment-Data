@@ -226,7 +226,8 @@
 25,
 26,
 25,
-28
+28,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Raji",
+"lastName": "Soni"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Neal",
-"lastName": "Dolan"
+"firstName": "Raji",
+"lastName": "Soni"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Ethnic Traditions in American Literature"
 }

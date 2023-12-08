@@ -231,7 +231,8 @@
 32,
 32,
 32,
-32
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,13 +245,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Lalani"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Julia",
-"lastName": "Gray"
+"firstName": "Melanie",
+"lastName": "Lalani"
 }
 ],
 "isCancelled": false,
@@ -473,7 +483,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Special Topics in Health Humanities"
 }

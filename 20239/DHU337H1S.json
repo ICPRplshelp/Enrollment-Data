@@ -229,13 +229,29 @@
 11,
 10,
 10,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "DeSilva"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "DeSilva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -459,7 +475,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Historical Archives in the Digital Age"
 }

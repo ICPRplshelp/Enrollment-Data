@@ -226,13 +226,29 @@
 101,
 102,
 102,
-101
+101,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -460,13 +476,29 @@
 99,
 100,
 100,
-101
+101,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -694,13 +726,29 @@
 91,
 90,
 92,
-95
+95,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -921,7 +969,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

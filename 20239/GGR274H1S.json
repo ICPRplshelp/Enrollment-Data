@@ -238,7 +238,8 @@
 117,
 117,
 119,
-119
+119,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,6 +256,23 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Chunjiang",
+"lastName": "Li"
+},
+{
+"firstName": "Ilya",
+"lastName": "Musabirov"
+},
+{
+"firstName": "Michael jongho",
+"lastName": "Moon"
+}
+],
+"timing": 1702022724
 }
 ]
 },
@@ -266,6 +284,10 @@
 {
 "firstName": "Ilya",
 "lastName": "Musabirov"
+},
+{
+"firstName": "Michael jongho",
+"lastName": "Moon"
 }
 ],
 "isCancelled": false,
@@ -491,7 +513,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introductory Computation and Data Science for the Social Sciences"
 }

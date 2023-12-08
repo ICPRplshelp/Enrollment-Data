@@ -231,13 +231,29 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -458,7 +474,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Research Thesis II"
 }

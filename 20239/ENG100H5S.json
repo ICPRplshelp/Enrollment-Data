@@ -226,13 +226,29 @@
 93,
 94,
 94,
-95
+95,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Apala",
+"lastName": "Das"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Apala",
+"lastName": "Das"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -465,7 +481,8 @@
 105,
 105,
 107,
-106
+106,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -714,7 +731,8 @@
 80,
 80,
 81,
-80
+80,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -956,7 +974,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Effective Writing"
 }

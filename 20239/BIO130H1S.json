@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 1314,
+"enrollmentCap": 1344,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1344,
+"time": 1702022724
+}
+],
 "initialCap": 1314
 },
 "enrollmentLogs": [
@@ -229,7 +234,8 @@
 1436,
 1435,
 1433,
-1435
+1435,
+1428
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,6 +495,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -525,9 +532,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1702022724
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -749,7 +761,8 @@
 16,
 18,
 17,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1009,7 +1022,8 @@
 539,
 539,
 534,
-534
+534,
+513
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1254,7 +1268,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Molecular and Cell Biology"
 }

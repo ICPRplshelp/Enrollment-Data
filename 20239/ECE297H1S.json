@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 390,
+"enrollmentCap": 270,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 390,
 "time": 1689016776
+},
+{
+"newCapacity": 270,
+"time": 1702022724
 }
 ],
 "initialCap": 390
@@ -235,7 +239,8 @@
 258,
 258,
 259,
-263
+263,
+262
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +499,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Software Communication and Design"
 }

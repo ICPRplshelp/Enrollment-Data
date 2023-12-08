@@ -229,7 +229,8 @@
 247,
 250,
 241,
-246
+246,
+248
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -481,7 +482,8 @@
 235,
 234,
 233,
-234
+234,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -718,7 +720,8 @@
 225,
 225,
 219,
-206
+206,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -970,7 +973,8 @@
 234,
 235,
 234,
-233
+233,
+235
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1222,7 +1226,8 @@
 235,
 236,
 236,
-233
+233,
+219
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1474,7 +1479,8 @@
 208,
 210,
 209,
-209
+209,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1726,13 +1732,29 @@
 118,
 117,
 117,
-120
+120,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ramon Eduardo",
+"lastName": "Ronzon Lavie"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ramon Eduardo",
+"lastName": "Ronzon Lavie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -1963,13 +1985,29 @@
 68,
 67,
 66,
-63
+63,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xiao",
+"lastName": "Jie"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xiao",
+"lastName": "Jie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 },
@@ -2200,7 +2238,8 @@
 235,
 233,
 237,
-239
+239,
+236
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2452,7 +2491,8 @@
 188,
 183,
 182,
-171
+171,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2704,13 +2744,29 @@
 64,
 60,
 55,
-52
+52,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mayecxiliana",
+"lastName": "Cardenas Montoya"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mayecxiliana",
+"lastName": "Cardenas Montoya"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5202"
 },
@@ -2946,7 +3002,8 @@
 247,
 250,
 249,
-243
+243,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3216,7 +3273,8 @@
 166,
 166,
 163,
-154
+154,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3470,7 +3528,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Calculus II"
 }

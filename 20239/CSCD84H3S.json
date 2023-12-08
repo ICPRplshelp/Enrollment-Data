@@ -231,13 +231,29 @@
 109,
 108,
 109,
-108
+108,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -458,7 +474,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Artificial Intelligence"
 }

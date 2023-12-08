@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 507,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 507,
+"time": 1702022724
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -229,7 +234,8 @@
 598,
 595,
 595,
-597
+597,
+599
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -474,7 +480,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "The Art of Drug Discovery"
 }

@@ -226,13 +226,29 @@
 124,
 125,
 127,
-126
+126,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -460,13 +476,29 @@
 224,
 224,
 226,
+230,
 230
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -687,7 +719,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Managing the Business Organization"
 }

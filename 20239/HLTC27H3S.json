@@ -226,6 +226,7 @@
 62,
 61,
 60,
+61,
 61
 ],
 "instructorLog": {
@@ -475,6 +476,7 @@
 49,
 50,
 50,
+48,
 48
 ],
 "instructorLog": {
@@ -488,13 +490,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ghazal",
-"lastName": "Fazli"
+"firstName": "David Jeffrey",
+"lastName": "Schlueter"
 }
 ],
 "isCancelled": false,
@@ -717,7 +728,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Community Health and Epidemiology"
 }

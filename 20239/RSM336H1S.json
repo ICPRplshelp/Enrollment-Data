@@ -4,10 +4,15 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 50,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1702022724
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -229,6 +234,7 @@
 68,
 68,
 67,
+64,
 64
 ],
 "instructorLog": {
@@ -256,13 +262,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 58,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 58,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -486,7 +496,8 @@
 74,
 74,
 73,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -513,13 +524,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 55,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -743,6 +758,7 @@
 71,
 71,
 70,
+65,
 65
 ],
 "instructorLog": {
@@ -770,13 +786,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 55,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -1000,7 +1020,8 @@
 71,
 72,
 72,
-70
+70,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1027,13 +1048,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 59,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 59,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -1257,7 +1282,8 @@
 77,
 76,
 76,
-74
+74,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1502,7 +1528,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Investments"
 }

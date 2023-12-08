@@ -229,13 +229,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Wilkinson"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Wilkinson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -459,7 +475,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Topics in the study of Classical Culture and Society"
 }

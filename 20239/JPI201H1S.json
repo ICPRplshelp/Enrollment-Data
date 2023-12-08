@@ -4,10 +4,15 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 200,
+"delivery": "SYNC",
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1702022724
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -229,7 +234,8 @@
 227,
 228,
 223,
-225
+225,
+232
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -483,7 +489,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Indigenous Politics in Canada"
 }

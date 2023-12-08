@@ -229,13 +229,29 @@
 12,
 11,
 11,
-10
+10,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sterling",
+"lastName": "Stutz"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sterling",
+"lastName": "Stutz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -459,7 +475,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Socio-Cultural Perspective of the Canadian Jewish Community"
 }

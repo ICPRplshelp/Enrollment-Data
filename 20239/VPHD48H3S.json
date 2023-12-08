@@ -226,6 +226,7 @@
 21,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Banu",
+"lastName": "Kaygusuz Tezel"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Elizabeth",
-"lastName": "Harney"
+"firstName": "Banu",
+"lastName": "Kaygusuz Tezel"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Advanced Seminar in Art History and Visual Culture"
 }

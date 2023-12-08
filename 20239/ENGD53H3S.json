@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 22,
 "time": 1691182978
+},
+{
+"newCapacity": 27,
+"time": 1702022724
 }
 ],
 "initialCap": 20
@@ -231,7 +235,8 @@
 33,
 33,
 33,
-34
+34,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Studies in Popular Genres"
 }

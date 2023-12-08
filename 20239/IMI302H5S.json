@@ -226,13 +226,29 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Duncan",
+"lastName": "Jones"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Duncan",
+"lastName": "Jones"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -460,13 +476,29 @@
 40,
 41,
 41,
-41
+41,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Duncan",
+"lastName": "Jones"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Duncan",
+"lastName": "Jones"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -687,7 +719,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Managing Projects, Operations & Preparing a Business Plan"
 }

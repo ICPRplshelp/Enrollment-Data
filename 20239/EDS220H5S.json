@@ -226,13 +226,29 @@
 76,
 77,
 78,
-77
+77,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Said",
+"lastName": "Sidani"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Said",
+"lastName": "Sidani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -465,13 +481,29 @@
 83,
 85,
 85,
-86
+86,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Said",
+"lastName": "Sidani"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Said",
+"lastName": "Sidani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -692,7 +724,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Equity and Diversity in Education"
 }

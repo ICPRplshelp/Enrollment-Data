@@ -226,6 +226,7 @@
 61,
 60,
 60,
+54,
 54
 ],
 "instructorLog": {
@@ -475,7 +476,8 @@
 61,
 60,
 60,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -724,7 +726,8 @@
 55,
 53,
 53,
-45
+45,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -973,7 +976,8 @@
 63,
 63,
 64,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1222,13 +1226,29 @@
 0,
 0,
 0,
-9
+9,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tarun",
+"lastName": "Dewan"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tarun",
+"lastName": "Dewan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 }
@@ -1449,7 +1469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Marketing Management"
 }

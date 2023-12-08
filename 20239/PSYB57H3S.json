@@ -226,13 +226,29 @@
 229,
 230,
 234,
-231
+231,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dwayne",
+"lastName": "Pare"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dwayne",
+"lastName": "Pare"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -465,13 +481,29 @@
 197,
 196,
 199,
-201
+201,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dwayne",
+"lastName": "Pare"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dwayne",
+"lastName": "Pare"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -692,7 +724,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introduction to Cognitive Psychology"
 }

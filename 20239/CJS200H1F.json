@@ -227,13 +227,29 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -455,7 +471,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introduction to Jewish Thought"
 }

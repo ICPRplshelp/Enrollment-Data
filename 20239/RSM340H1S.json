@@ -234,13 +234,37 @@
 75,
 75,
 75,
+75,
 75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josie",
+"lastName": "Fung"
 },
-"instructors": [],
+{
+"firstName": "Darren",
+"lastName": "Karn"
+}
+],
+"timing": 1702022724
+}
+]
+},
+"instructors": [
+{
+"firstName": "Josie",
+"lastName": "Fung"
+},
+{
+"firstName": "Darren",
+"lastName": "Karn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -464,7 +488,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "The Opposable Mind: Approaches to Integrative Thinking"
 }

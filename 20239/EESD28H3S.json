@@ -87,6 +87,7 @@
 1,
 1,
 1,
+2,
 2
 ],
 "instructorLog": {
@@ -100,13 +101,22 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Neumann"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Tanzina",
-"lastName": "Mohsin"
+"firstName": "Alex",
+"lastName": "Neumann"
 }
 ],
 "isCancelled": false,
@@ -190,7 +200,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Fundamentals of Environmental Modelling"
 }

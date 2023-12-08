@@ -4,13 +4,17 @@
 "meetings": [
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 57,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 57,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -234,7 +238,8 @@
 81,
 81,
 80,
-80
+80,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,13 +266,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 54,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 54,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -491,7 +500,8 @@
 66,
 66,
 66,
-63
+63,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -518,13 +528,17 @@
 },
 {
 "createdAt": 1686549020,
-"delivery": "INPER",
-"enrollmentCap": 54,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 54,
 "time": 1692120475
+},
+{
+"newCapacity": 60,
+"time": 1702022724
 }
 ],
 "initialCap": 50
@@ -748,7 +762,8 @@
 68,
 68,
 68,
-67
+67,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -993,7 +1008,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "International Strategy"
 }

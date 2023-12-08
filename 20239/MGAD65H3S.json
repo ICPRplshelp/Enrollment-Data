@@ -226,13 +226,37 @@
 38,
 38,
 39,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sathees",
+"lastName": "Ratnam"
 },
-"instructors": [],
+{
+"firstName": "Peter",
+"lastName": "Phung"
+}
+],
+"timing": 1702022724
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sathees",
+"lastName": "Ratnam"
+},
+{
+"firstName": "Peter",
+"lastName": "Phung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -453,7 +477,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Canadian Income Taxation II"
 }

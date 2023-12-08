@@ -231,13 +231,29 @@
 123,
 122,
 124,
-123
+123,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melissa",
+"lastName": "Perri"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melissa",
+"lastName": "Perri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -458,7 +474,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Perspectives of Culture, Illness and Healing"
 }

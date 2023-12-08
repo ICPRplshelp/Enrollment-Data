@@ -226,13 +226,29 @@
 126,
 125,
 124,
+122,
 122
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florence",
+"lastName": "Huang"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florence",
+"lastName": "Huang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Cross-Cultural Social Psychology"
 }

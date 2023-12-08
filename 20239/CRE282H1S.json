@@ -34,13 +34,29 @@
 9,
 9,
 9,
-12
+12,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Sol"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Sol"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -69,7 +85,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Emerging Genres in Creative Writing"
 }

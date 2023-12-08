@@ -226,13 +226,29 @@
 23,
 24,
 24,
-26
+26,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -678,13 +694,29 @@
 28,
 30,
 30,
-31
+31,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -912,6 +944,7 @@
 29,
 29,
 28,
+29,
 29
 ],
 "instructorLog": {
@@ -1161,6 +1194,7 @@
 28,
 31,
 31,
+30,
 30
 ],
 "instructorLog": {
@@ -1410,7 +1444,8 @@
 23,
 24,
 25,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1659,7 +1694,8 @@
 20,
 19,
 19,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1904,6 +1940,7 @@
 29,
 28,
 29,
+30,
 30,
 30,
 30,
@@ -2157,7 +2194,8 @@
 27,
 24,
 25,
-26
+26,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2406,6 +2444,7 @@
 30,
 30,
 30,
+29,
 29
 ],
 "instructorLog": {
@@ -2638,6 +2677,7 @@
 26,
 26,
 26,
+25,
 25,
 25,
 25
@@ -3101,7 +3141,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Management Communications"
 }

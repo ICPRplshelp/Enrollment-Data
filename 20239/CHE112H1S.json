@@ -251,7 +251,8 @@
 297,
 297,
 297,
-296
+296,
+295
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -264,6 +265,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Farmer"
+},
+{
+"firstName": "Donald",
+"lastName": "Kirk"
+}
+],
+"timing": 1702022724
 }
 ]
 },
@@ -271,6 +285,10 @@
 {
 "firstName": "Jennifer",
 "lastName": "Farmer"
+},
+{
+"firstName": "Donald",
+"lastName": "Kirk"
 }
 ],
 "isCancelled": false,
@@ -493,7 +511,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Physical Chemistry"
 }

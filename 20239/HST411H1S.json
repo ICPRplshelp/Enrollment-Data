@@ -229,13 +229,29 @@
 34,
 33,
 33,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -459,7 +475,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Political Economy of Health"
 }

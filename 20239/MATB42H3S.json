@@ -226,13 +226,29 @@
 280,
 277,
 275,
-278
+278,
+270
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -453,7 +469,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Techniques of the Calculus of Several Variables II"
 }

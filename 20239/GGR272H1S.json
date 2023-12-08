@@ -229,7 +229,8 @@
 147,
 146,
 148,
-154
+154,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yunpiao",
+"lastName": "Bai"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Karim",
-"lastName": "Malik"
+"firstName": "Yunpiao",
+"lastName": "Bai"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Geographic Information and Mapping I"
 }

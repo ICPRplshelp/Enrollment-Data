@@ -231,13 +231,29 @@
 42,
 43,
 44,
-43
+43,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -470,7 +486,8 @@
 43,
 43,
 45,
-44
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -709,13 +726,29 @@
 43,
 43,
 45,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -948,7 +981,8 @@
 45,
 46,
 47,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -961,13 +995,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Phanikiran",
-"lastName": "Radhakrishnan"
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
 }
 ],
 "isCancelled": false,
@@ -1202,7 +1245,8 @@
 45,
 43,
 45,
-43
+43,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1215,13 +1259,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Phanikiran",
-"lastName": "Radhakrishnan"
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
 }
 ],
 "isCancelled": false,
@@ -1444,7 +1497,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Management Skills"
 }

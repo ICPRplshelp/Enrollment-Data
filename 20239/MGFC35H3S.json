@@ -226,7 +226,8 @@
 54,
 55,
 56,
-51
+51,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -475,7 +476,8 @@
 60,
 60,
 60,
-58
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -724,13 +726,29 @@
 61,
 62,
 62,
-63
+63,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connie Mo Ki",
+"lastName": "Leung"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connie Mo Ki",
+"lastName": "Leung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -951,7 +969,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Investments"
 }

@@ -226,6 +226,7 @@
 92,
 91,
 93,
+95,
 95
 ],
 "instructorLog": {
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Michael",
-"lastName": "Liut"
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
 }
 ],
 "isCancelled": false,
@@ -260,6 +270,7 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -709,6 +720,7 @@
 93,
 93,
 94,
+94,
 94
 ],
 "instructorLog": {
@@ -958,7 +970,8 @@
 91,
 91,
 92,
-94
+94,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1200,7 +1213,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Introduction to Databases"
 }

@@ -229,7 +229,8 @@
 52,
 52,
 52,
-53
+53,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -481,7 +482,8 @@
 59,
 59,
 58,
-58
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -733,7 +735,8 @@
 58,
 58,
 57,
-58
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -985,13 +988,29 @@
 23,
 24,
 24,
-22
+22,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andreas",
+"lastName": "Charitou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -1215,7 +1234,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Management Accounting I"
 }

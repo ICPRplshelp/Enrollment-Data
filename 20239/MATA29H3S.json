@@ -226,7 +226,8 @@
 122,
 119,
 117,
-115
+115,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,13 +240,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "SHUCHITA",
+"lastName": "SHARMA (NOUTORID)"
+}
+],
+"timing": 1702022724
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Natalia",
-"lastName": "Breuss"
+"firstName": "SHUCHITA",
+"lastName": "SHARMA (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -468,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Calculus I for the Life Sciences"
 }

@@ -235,13 +235,29 @@
 52,
 52,
 52,
-55
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Caitlin",
+"lastName": "Gowans"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Caitlin",
+"lastName": "Gowans"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -462,7 +478,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Modern and Contemporary Theatre and Drama"
 }

@@ -229,13 +229,29 @@
 67,
 69,
 70,
-73
+73,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emile",
+"lastName": "Tompa"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emile",
+"lastName": "Tompa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -459,7 +475,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Employment Health"
 }

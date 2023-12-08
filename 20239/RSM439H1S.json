@@ -229,6 +229,7 @@
 62,
 62,
 61,
+59,
 59
 ],
 "instructorLog": {
@@ -481,7 +482,8 @@
 60,
 61,
 61,
-59
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -733,13 +735,29 @@
 38,
 36,
 38,
-38
+38,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Warren",
+"lastName": "Goldblum"
+}
+],
+"timing": 1702022724
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Warren",
+"lastName": "Goldblum"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -963,7 +981,8 @@
 1700435808,
 1700536705,
 1700710710,
-1701397084
+1701397084,
+1702022724
 ],
 "title": "Private Equity and Entrepreneurial Finance"
 }
