@@ -235,7 +235,8 @@
 83,
 84,
 85,
-82
+82,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,13 +494,29 @@
 80,
 79,
 80,
-78
+78,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sedat",
+"lastName": "Ersoy"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sedat",
+"lastName": "Ersoy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -724,7 +741,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Financial Economics II: Corporate Finance"
 }

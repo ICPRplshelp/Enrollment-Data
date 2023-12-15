@@ -235,6 +235,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zhan",
-"lastName": "Su"
+"firstName": "Christopher",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -493,6 +503,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -506,13 +517,22 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zhan",
-"lastName": "Su"
+"firstName": "Christopher",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -739,7 +759,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Physics of Climate"
 }

@@ -235,7 +235,8 @@
 78,
 78,
 80,
-83
+83,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yue Bin",
+"lastName": "Guo"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lisa",
-"lastName": "Mar"
+"firstName": "Yue Bin",
+"lastName": "Guo"
 }
 ],
 "isCancelled": false,
@@ -481,7 +491,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "History of Chinese Diasporas in the Americas"
 }

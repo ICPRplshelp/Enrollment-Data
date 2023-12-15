@@ -227,6 +227,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -249,13 +250,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ghazal",
+"lastName": "Farkhari"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Leah Kathleen",
-"lastName": "Polonenko"
+"firstName": "Ghazal",
+"lastName": "Farkhari"
 }
 ],
 "isCancelled": false,
@@ -479,7 +489,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "[No course title available]"
 }

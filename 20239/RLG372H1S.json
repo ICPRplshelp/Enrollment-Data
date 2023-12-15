@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1702618482
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -230,7 +235,8 @@
 33,
 33,
 33,
-32
+32,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -476,7 +482,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Tibetan Buddhism"
 }

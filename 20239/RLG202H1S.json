@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1702618482
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -230,7 +235,8 @@
 28,
 29,
 27,
-28
+28,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -476,7 +482,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Judaism"
 }

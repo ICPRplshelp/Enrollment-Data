@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1697507061
+},
+{
+"newCapacity": 0,
+"time": 1702618482
 }
 ],
 "initialCap": 30
@@ -235,7 +239,8 @@
 21,
 21,
 21,
-21
+21,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -257,7 +262,7 @@
 "lastName": "Mar"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -481,7 +486,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Oral Histories of Asian Canadians"
 }

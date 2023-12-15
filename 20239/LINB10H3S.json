@@ -227,13 +227,29 @@
 131,
 132,
 130,
+128,
 128
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Kosogorova"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Kosogorova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Morphology"
 }

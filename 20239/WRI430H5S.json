@@ -227,13 +227,29 @@
 20,
 20,
 21,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jill",
+"lastName": "Mahoney"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jill",
+"lastName": "Mahoney"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Journalistic Investigation"
 }

@@ -227,7 +227,8 @@
 32,
 35,
 31,
-29
+29,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,7 +478,8 @@
 40,
 42,
 39,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -490,13 +492,22 @@
 }
 ],
 "timing": 1693011094
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mitchell",
+"lastName": "Johnston"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Daniel",
-"lastName": "Bergman"
+"firstName": "Mitchell",
+"lastName": "Johnston"
 }
 ],
 "isCancelled": false,
@@ -727,6 +738,7 @@
 33,
 34,
 33,
+29,
 29
 ],
 "instructorLog": {
@@ -995,6 +1007,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -1245,7 +1258,8 @@
 26,
 28,
 29,
-29
+29,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1495,7 +1509,8 @@
 33,
 35,
 31,
-28
+28,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1745,7 +1760,8 @@
 30,
 32,
 27,
-27
+27,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1995,7 +2011,8 @@
 0,
 0,
 15,
-27
+27,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2238,7 +2255,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Critical Writing About Literature"
 }

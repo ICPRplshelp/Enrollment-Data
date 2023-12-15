@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 5,
 "time": 1691091680
+},
+{
+"newCapacity": 3,
+"time": 1702618482
 }
 ],
 "initialCap": 8
@@ -231,6 +235,7 @@
 4,
 5,
 5,
+3,
 3,
 3
 ],
@@ -475,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Sufis and Desert Fathers: Mysticism in Late Antiquity and Early Islam"
 }

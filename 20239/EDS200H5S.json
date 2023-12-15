@@ -232,13 +232,29 @@
 86,
 86,
 85,
-89
+89,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carly",
+"lastName": "Prusky"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carly",
+"lastName": "Prusky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -460,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Learning Through the Lifespan"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 205,
+"enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 205,
 "time": 1698104571
+},
+{
+"newCapacity": 230,
+"time": 1702618482
 }
 ],
 "initialCap": 200
@@ -234,7 +238,8 @@
 210,
 210,
 210,
-214
+214,
+220
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,7 +484,8 @@
 1701396933,
 1701397061,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Fantasies, Hoaxes and Misrepresentations of the Ancient World"
 }

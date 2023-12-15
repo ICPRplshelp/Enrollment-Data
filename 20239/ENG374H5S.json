@@ -232,7 +232,8 @@
 24,
 24,
 24,
-24
+24,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,13 +473,29 @@
 25,
 24,
 25,
-26
+26,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna",
+"lastName": "Lee-Popham"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna",
+"lastName": "Lee-Popham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -700,7 +717,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Creative Writing: Prose"
 }

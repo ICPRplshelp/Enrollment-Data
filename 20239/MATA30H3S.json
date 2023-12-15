@@ -227,13 +227,29 @@
 66,
 69,
 71,
-73
+73,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SHUCHITA",
+"lastName": "SHARMA (NOUTORID)"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SHUCHITA",
+"lastName": "SHARMA (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Calculus I for Physical Sciences"
 }

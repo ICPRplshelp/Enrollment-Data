@@ -227,13 +227,29 @@
 40,
 39,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bruno Rafael",
+"lastName": "Veras de Morais e Silva"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bruno Rafael",
+"lastName": "Veras de Morais e Silva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Sexuality, Race, and Gender in Video Games and Gaming Culture"
 }

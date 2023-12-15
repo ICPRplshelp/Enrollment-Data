@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1702618482
+}
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
@@ -230,7 +235,8 @@
 6,
 6,
 6,
-6
+6,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -411,6 +417,7 @@
 6,
 6,
 6,
+5,
 5,
 5,
 5,
@@ -736,7 +743,8 @@
 4,
 3,
 3,
-3
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -989,7 +997,8 @@
 1,
 1,
 1,
-2
+2,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1242,6 +1251,7 @@
 5,
 6,
 6,
+5,
 5
 ],
 "instructorLog": {
@@ -1270,9 +1280,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1702618482
+}
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
@@ -1495,7 +1510,8 @@
 6,
 6,
 6,
-6
+6,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1741,7 +1757,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Japanese I for Students with Prior Background"
 }

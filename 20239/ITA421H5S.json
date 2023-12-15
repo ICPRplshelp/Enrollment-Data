@@ -227,13 +227,29 @@
 8,
 8,
 8,
-8
+8,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Dante's Purgatory and Paradise"
 }

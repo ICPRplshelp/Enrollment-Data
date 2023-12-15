@@ -230,6 +230,7 @@
 35,
 36,
 36,
+35,
 35
 ],
 "instructorLog": {
@@ -468,13 +469,29 @@
 52,
 51,
 51,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rajvinder",
+"lastName": "Sahni"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rajvinder",
+"lastName": "Sahni"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -709,6 +726,7 @@
 61,
 61,
 62,
+63,
 63,
 63,
 63
@@ -957,7 +975,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Legal Environment of Business I"
 }

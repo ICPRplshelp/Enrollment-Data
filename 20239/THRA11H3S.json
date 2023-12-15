@@ -227,6 +227,7 @@
 39,
 38,
 37,
+32,
 32
 ],
 "instructorLog": {
@@ -477,13 +478,29 @@
 37,
 36,
 36,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SCOTT",
+"lastName": "MEALEY (NOUTORID)"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SCOTT",
+"lastName": "MEALEY (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -705,7 +722,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to Performance"
 }

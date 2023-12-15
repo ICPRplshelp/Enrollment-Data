@@ -230,7 +230,8 @@
 250,
 241,
 246,
-248
+248,
+244
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -483,7 +484,8 @@
 234,
 233,
 234,
-233
+233,
+232
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -721,7 +723,8 @@
 225,
 219,
 206,
-195
+195,
+185
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -974,6 +977,7 @@
 235,
 234,
 233,
+235,
 235
 ],
 "instructorLog": {
@@ -1227,7 +1231,8 @@
 236,
 236,
 233,
-219
+219,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1480,7 +1485,8 @@
 210,
 209,
 209,
-200
+200,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1733,7 +1739,8 @@
 117,
 117,
 120,
-118
+118,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1986,7 +1993,8 @@
 67,
 66,
 63,
-62
+62,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2239,7 +2247,8 @@
 233,
 237,
 239,
-236
+236,
+242
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2492,7 +2501,8 @@
 183,
 182,
 171,
-158
+158,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2745,7 +2755,8 @@
 60,
 55,
 52,
-48
+48,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3003,7 +3014,8 @@
 250,
 249,
 243,
-238
+238,
+245
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3274,7 +3286,8 @@
 166,
 163,
 154,
-145
+145,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3296,13 +3309,22 @@
 }
 ],
 "timing": 1691614238
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maximilian",
+"lastName": "Klambauer"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jinan",
-"lastName": "Krayem"
+"firstName": "Maximilian",
+"lastName": "Klambauer"
 }
 ],
 "isCancelled": false,
@@ -3529,7 +3551,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Calculus II"
 }

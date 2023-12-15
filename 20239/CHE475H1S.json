@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1702618482
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -227,6 +232,7 @@
 54,
 54,
 56,
+57,
 57
 ],
 "instructorLog": {
@@ -470,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Biocomposites: Mechanics and Bioinspiration"
 }

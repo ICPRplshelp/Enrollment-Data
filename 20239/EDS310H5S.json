@@ -236,13 +236,29 @@
 103,
 103,
 103,
-105
+105,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leigh-Anne",
+"lastName": "Ingram"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leigh-Anne",
+"lastName": "Ingram"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -464,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Education in a Global Context"
 }

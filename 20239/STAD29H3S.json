@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 117,
+"time": 1702618482
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -227,7 +232,8 @@
 120,
 120,
 119,
-119
+119,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -470,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Statistics for Life & Social Scientists"
 }

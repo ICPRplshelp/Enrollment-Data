@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 122,
+"enrollmentCap": 137,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 137,
+"time": 1702618482
+}
+],
 "initialCap": 122
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 126,
 126,
 128,
+133,
 133
 ],
 "instructorLog": {
@@ -483,7 +489,8 @@
 5,
 5,
 5,
-5
+5,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -729,7 +736,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Health Policy in Canada"
 }

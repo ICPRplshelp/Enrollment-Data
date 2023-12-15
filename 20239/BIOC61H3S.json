@@ -208,13 +208,29 @@
 43,
 43,
 45,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luciana",
+"lastName": "Baruffaldi Yanez"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luciana",
+"lastName": "Baruffaldi Yanez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -417,7 +433,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Community Ecology and Environmental Biology"
 }

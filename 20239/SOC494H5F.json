@@ -98,6 +98,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -219,13 +220,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Philip",
+"lastName": "Goodman"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Philip",
+"lastName": "Goodman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -318,7 +335,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Independent Research in Criminology, Law and Society"
 }

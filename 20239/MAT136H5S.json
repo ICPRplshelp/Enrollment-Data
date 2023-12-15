@@ -227,7 +227,8 @@
 177,
 167,
 156,
-148
+148,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -486,7 +487,8 @@
 202,
 194,
 175,
-156
+156,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -736,7 +738,8 @@
 177,
 171,
 168,
-149
+149,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -986,7 +989,8 @@
 165,
 160,
 140,
-133
+133,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1236,7 +1240,8 @@
 85,
 95,
 129,
-138
+138,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1486,7 +1491,8 @@
 150,
 147,
 145,
-140
+140,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1736,7 +1742,8 @@
 140,
 143,
 140,
-139
+139,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1986,7 +1993,8 @@
 180,
 178,
 165,
-162
+162,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2236,7 +2244,8 @@
 140,
 140,
 139,
-137
+137,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2471,13 +2480,29 @@
 163,
 156,
 145,
-141
+141,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Belal",
+"lastName": "Abuelnasr"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Belal",
+"lastName": "Abuelnasr"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0110"
 },
@@ -2706,7 +2731,8 @@
 163,
 160,
 147,
-143
+143,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2749,6 +2775,7 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3193,7 +3220,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Integral Calculus"
 }

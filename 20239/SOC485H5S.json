@@ -227,6 +227,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -240,6 +241,19 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Philip",
+"lastName": "Goodman"
+},
+{
+"firstName": "Erik",
+"lastName": "Schneiderhan"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -247,6 +261,10 @@
 {
 "firstName": "Philip",
 "lastName": "Goodman"
+},
+{
+"firstName": "Erik",
+"lastName": "Schneiderhan"
 }
 ],
 "isCancelled": false,
@@ -470,7 +488,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Investigation through Study Abroad"
 }

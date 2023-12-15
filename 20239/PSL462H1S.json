@@ -230,13 +230,53 @@
 8,
 8,
 9,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vijay",
+"lastName": "Chauhan"
 },
-"instructors": [],
+{
+"firstName": "Slava",
+"lastName": "Epelman"
+},
+{
+"firstName": "Filio",
+"lastName": "Billia"
+},
+{
+"firstName": "Michael",
+"lastName": "Gollob"
+}
+],
+"timing": 1702618482
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vijay",
+"lastName": "Chauhan"
+},
+{
+"firstName": "Slava",
+"lastName": "Epelman"
+},
+{
+"firstName": "Filio",
+"lastName": "Billia"
+},
+{
+"firstName": "Michael",
+"lastName": "Gollob"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -461,7 +501,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Molecular Aspects of Cardiovascular Function"
 }

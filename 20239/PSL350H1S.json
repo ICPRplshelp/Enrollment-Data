@@ -230,7 +230,8 @@
 156,
 156,
 156,
-152
+152,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,6 +248,27 @@
 }
 ],
 "timing": 1696356062
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jesse",
+"lastName": "Gillis"
+},
+{
+"firstName": "Evgueni (Zhenya)",
+"lastName": "Ivakine"
+},
+{
+"firstName": "Anne",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Allen",
+"lastName": "Teng"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -258,6 +280,14 @@
 {
 "firstName": "Evgueni (Zhenya)",
 "lastName": "Ivakine"
+},
+{
+"firstName": "Anne",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Allen",
+"lastName": "Teng"
 }
 ],
 "isCancelled": false,
@@ -484,7 +514,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Mammalian Molecular Biology"
 }

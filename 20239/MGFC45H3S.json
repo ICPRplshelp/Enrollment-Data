@@ -227,6 +227,7 @@
 46,
 46,
 47,
+50,
 50
 ],
 "instructorLog": {
@@ -244,6 +245,19 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Chau"
+},
+{
+"firstName": "Owais Faisal",
+"lastName": "Qureshi"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -253,8 +267,8 @@
 "lastName": "Chau"
 },
 {
-"firstName": "O.",
-"lastName": "QURESHI (NOUTORID)"
+"firstName": "Owais Faisal",
+"lastName": "Qureshi"
 }
 ],
 "isCancelled": false,
@@ -478,7 +492,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Portfolio Management: Theory and Practice"
 }

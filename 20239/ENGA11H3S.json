@@ -227,7 +227,8 @@
 269,
 264,
 267,
-266
+266,
+267
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Braune"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SEAN",
-"lastName": "BRAUNE (NOUTORID)"
+"firstName": "Sean",
+"lastName": "Braune"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Literature and Film for Our Time: Dawn of the Digital"
 }

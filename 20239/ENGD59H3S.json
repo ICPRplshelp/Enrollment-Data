@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1702618482
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -227,6 +232,7 @@
 17,
 18,
 20,
+21,
 21
 ],
 "instructorLog": {
@@ -479,7 +485,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Topics in American Poetry"
 }

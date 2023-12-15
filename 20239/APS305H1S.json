@@ -227,7 +227,8 @@
 58,
 57,
 59,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,17 +245,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Whitestone"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Andrew James",
-"lastName": "Knox"
-},
-{
-"firstName": "Adam S",
-"lastName": "White"
+"firstName": "James",
+"lastName": "Whitestone"
 }
 ],
 "isCancelled": false,
@@ -478,7 +484,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Energy Policy"
 }

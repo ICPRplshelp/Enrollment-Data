@@ -227,13 +227,29 @@
 27,
 27,
 26,
-27
+27,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mariam",
+"lastName": "Komeili"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mariam",
+"lastName": "Komeili"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Special Topics in Language Disorders in Children"
 }

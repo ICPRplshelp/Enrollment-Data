@@ -227,7 +227,8 @@
 104,
 103,
 105,
-107
+107,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steve",
+"lastName": "Hoffman"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lauren",
-"lastName": "Richter"
+"firstName": "Steve",
+"lastName": "Hoffman"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Classical Sociological Theory"
 }

@@ -227,13 +227,29 @@
 572,
 569,
 560,
-556
+556,
+552
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -462,13 +478,29 @@
 1232,
 1236,
 1250,
-1260
+1260,
+1285
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -690,7 +722,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to Clinical, Developmental, Personality and Social Psychology"
 }

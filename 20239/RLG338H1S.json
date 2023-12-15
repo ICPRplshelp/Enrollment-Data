@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1702618482
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -230,7 +235,8 @@
 25,
 25,
 24,
-24
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -476,7 +482,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Religion and Religiosity in Israel/Palestine"
 }

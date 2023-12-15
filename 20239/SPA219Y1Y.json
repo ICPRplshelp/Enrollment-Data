@@ -230,6 +230,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -247,14 +248,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vanina S.",
+"lastName": "Machado"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Nestor E.",
-"lastName": "Rodriguez"
-},
 {
 "firstName": "Vanina S.",
 "lastName": "Machado"
@@ -484,7 +490,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Academic Spanish"
 }

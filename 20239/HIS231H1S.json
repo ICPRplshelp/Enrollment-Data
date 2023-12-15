@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
-1
+1,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carlie",
+"lastName": "Manners"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carlie",
+"lastName": "Manners"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1702022723,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Revolution and Emancipation in the Colonial Caribbean"
 }

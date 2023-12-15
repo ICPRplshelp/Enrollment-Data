@@ -230,7 +230,8 @@
 26,
 26,
 27,
-27
+27,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,12 +259,16 @@
 {
 "createdAt": 1692247612,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 12,
 "time": 1693242889
+},
+{
+"newCapacity": 15,
+"time": 1702618482
 }
 ],
 "initialCap": 20
@@ -488,7 +493,8 @@
 15,
 15,
 19,
-18
+18,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -734,7 +740,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Seminar in Continental Philosophy"
 }

@@ -230,13 +230,29 @@
 293,
 289,
 293,
-303
+303,
+301
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Classens"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Classens"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -461,7 +477,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Pathways to Sustainability: An Interdisciplinary Approach"
 }

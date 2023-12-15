@@ -230,6 +230,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -383,6 +384,7 @@
 1,
 1,
 1,
+2,
 2,
 2,
 2,
@@ -736,6 +738,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -989,6 +992,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1002,13 +1006,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Owen",
+"lastName": "Meunier"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hang-Sun",
-"lastName": "Kim"
+"firstName": "Owen",
+"lastName": "Meunier"
 }
 ],
 "isCancelled": false,
@@ -1242,6 +1255,7 @@
 0,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1276,6 +1290,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1748,6 +1763,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1922,6 +1938,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -2247,7 +2264,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to German b"
 }

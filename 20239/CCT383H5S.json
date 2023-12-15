@@ -232,13 +232,29 @@
 68,
 67,
 66,
-64
+64,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ava",
+"lastName": "Lew"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ava",
+"lastName": "Lew"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -460,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "The Interactive Society"
 }

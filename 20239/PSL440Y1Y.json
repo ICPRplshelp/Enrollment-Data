@@ -230,6 +230,7 @@
 23,
 23,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -255,6 +256,23 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "William Duncan",
+"lastName": "Hutchison"
+},
+{
+"firstName": "Robert",
+"lastName": "Harrison"
+},
+{
+"firstName": "Maurizio",
+"lastName": "De Pitta"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -264,16 +282,12 @@
 "lastName": "Hutchison"
 },
 {
-"firstName": "Mahan",
-"lastName": "Alavi"
+"firstName": "Robert",
+"lastName": "Harrison"
 },
 {
-"firstName": "Jeremy",
-"lastName": "Sivak"
-},
-{
-"firstName": "John",
-"lastName": "Griffiths"
+"firstName": "Maurizio",
+"lastName": "De Pitta"
 }
 ],
 "isCancelled": false,
@@ -500,7 +514,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Neuroscience I: Systems and Behaviour"
 }

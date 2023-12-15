@@ -227,13 +227,29 @@
 38,
 37,
 34,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -455,7 +471,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Francophone Literature"
 }

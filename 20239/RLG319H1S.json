@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 130,
 "time": 1698193267
+},
+{
+"newCapacity": 150,
+"time": 1702618482
 }
 ],
 "initialCap": 100
@@ -239,7 +243,8 @@
 142,
 140,
 142,
-143
+143,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Death, Dying and Afterlife"
 }

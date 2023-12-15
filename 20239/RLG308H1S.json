@@ -5,9 +5,14 @@
 {
 "createdAt": 1686875065,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1702618482
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -223,6 +228,7 @@
 44,
 44,
 44,
+45,
 45,
 45
 ],
@@ -449,7 +455,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Migration, Religion and City Spaces"
 }

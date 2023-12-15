@@ -230,7 +230,8 @@
 196,
 197,
 197,
-197
+197,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -243,13 +244,22 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zhan",
-"lastName": "Su"
+"firstName": "Nicolas",
+"lastName": "Grisouard"
 }
 ],
 "isCancelled": false,
@@ -488,7 +498,8 @@
 101,
 100,
 102,
-101
+101,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -501,13 +512,22 @@
 }
 ],
 "timing": 1693417997
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zhan",
-"lastName": "Su"
+"firstName": "Nicolas",
+"lastName": "Grisouard"
 }
 ],
 "isCancelled": false,
@@ -734,7 +754,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Electricity and Magnetism"
 }

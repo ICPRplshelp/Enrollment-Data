@@ -227,7 +227,8 @@
 29,
 29,
 30,
-31
+31,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Banu",
+"lastName": "Kaygusuz Tezel"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Julie",
-"lastName": "MacArthur"
+"firstName": "Banu",
+"lastName": "Kaygusuz Tezel"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Screening History"
 }

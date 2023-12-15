@@ -230,13 +230,29 @@
 24,
 25,
 25,
-24
+24,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Celine",
+"lastName": "Henne"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Celine",
+"lastName": "Henne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -461,7 +477,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Seminar in Epistemology"
 }

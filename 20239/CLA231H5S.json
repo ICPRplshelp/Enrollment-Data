@@ -227,7 +227,8 @@
 70,
 71,
 68,
-71
+71,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1697153335
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gianmarco",
+"lastName": "Bianchini"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kale",
-"lastName": "Coghlan"
+"firstName": "Gianmarco",
+"lastName": "Bianchini"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to Roman History"
 }

@@ -227,6 +227,7 @@
 23,
 23,
 25,
+26,
 26
 ],
 "instructorLog": {
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Victoria",
+"lastName": "Pokusaeva"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Tod",
-"lastName": "Thiele"
+"firstName": "Victoria",
+"lastName": "Pokusaeva"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Advanced Topics and Methods in Neural Circuit Analysis"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1702618482
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 1,
 1,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -252,7 +258,7 @@
 "lastName": "Sa Carvalho Pereira"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -476,7 +482,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to Lusophone Literature"
 }

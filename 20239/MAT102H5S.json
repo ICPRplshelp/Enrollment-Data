@@ -227,7 +227,8 @@
 173,
 171,
 160,
-154
+154,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,7 +478,8 @@
 176,
 176,
 167,
-152
+152,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -732,13 +734,29 @@
 57,
 63,
 85,
-104
+104,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -967,7 +985,8 @@
 187,
 185,
 174,
-164
+164,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1210,7 +1229,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introduction to Mathematical Proofs"
 }

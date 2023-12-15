@@ -107,13 +107,29 @@
 94,
 94,
 98,
-100
+100,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chester Norman",
+"lastName": "Scoville"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chester Norman",
+"lastName": "Scoville"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -215,7 +231,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Narrative"
 }

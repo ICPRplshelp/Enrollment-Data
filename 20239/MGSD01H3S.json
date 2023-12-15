@@ -227,6 +227,7 @@
 21,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686875065
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hugh",
+"lastName": "Laurence"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jean-Etienne",
-"lastName": "de Bettignies"
+"firstName": "Hugh",
+"lastName": "Laurence"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Senior Seminar in Strategic Management"
 }

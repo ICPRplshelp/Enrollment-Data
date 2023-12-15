@@ -232,13 +232,29 @@
 62,
 62,
 61,
-62
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mircea",
+"lastName": "Gherghina"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mircea",
+"lastName": "Gherghina"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -460,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Social Data Analytics"
 }

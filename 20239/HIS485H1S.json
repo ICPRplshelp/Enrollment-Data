@@ -235,6 +235,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -263,9 +264,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 11,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1702618482
+}
+],
 "initialCap": 11
 },
 "enrollmentLogs": [
@@ -488,7 +494,8 @@
 22,
 22,
 22,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -734,7 +741,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Topics in Chinese History"
 }

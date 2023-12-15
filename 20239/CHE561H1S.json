@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1702618482
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -227,6 +232,7 @@
 58,
 58,
 58,
+59,
 59
 ],
 "instructorLog": {
@@ -470,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Risk Based Safety Management"
 }

@@ -1,0 +1,31 @@
+{
+"code": "APS064H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1702618482,
+"delivery": "SYNC",
+"enrollmentCap": 999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 999
+},
+"enrollmentLogs": [
+0,
+58
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1702618481,
+1702618482
+],
+"title": "Introduction to Chemistry from a Materials Perspective (APS164 Transfer)"
+}

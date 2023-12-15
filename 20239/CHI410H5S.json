@@ -227,13 +227,29 @@
 12,
 14,
 17,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -246,6 +262,7 @@
 "initialCap": 35
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -690,7 +707,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Modern Chinese Literature Studies"
 }

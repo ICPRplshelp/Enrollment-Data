@@ -1,0 +1,31 @@
+{
+"code": "TMU408H1S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1702618482,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1702618481,
+1702618482
+],
+"title": "Composing for Chamber Ensemble"
+}

@@ -227,6 +227,7 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
@@ -240,13 +241,22 @@
 }
 ],
 "timing": 1686685174
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ghazal",
+"lastName": "Farkhari"
+}
+],
+"timing": 1702618482
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Estefania",
-"lastName": "Rueda-Torres"
+"firstName": "Ghazal",
+"lastName": "Farkhari"
 }
 ],
 "isCancelled": false,
@@ -470,7 +480,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Passport to Placement II"
 }

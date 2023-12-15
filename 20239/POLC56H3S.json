@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1702618482
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -227,7 +232,8 @@
 63,
 63,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -470,7 +476,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Indigenous Politics and Law"
 }

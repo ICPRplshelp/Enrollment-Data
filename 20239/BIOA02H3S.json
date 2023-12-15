@@ -227,7 +227,8 @@
 350,
 348,
 344,
-344
+344,
+346
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -270,13 +271,12 @@
 }
 ],
 "timing": 1690223854
-}
-]
 },
-"instructors": [
 {
-"firstName": "Karolyn",
-"lastName": "Keir"
+"instructorsAfter": [
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
 },
 {
 "firstName": "Stephen",
@@ -285,6 +285,32 @@
 {
 "firstName": "Ivana",
 "lastName": "Stehlik"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+}
+],
+"timing": 1702618482
+}
+]
+},
+"instructors": [
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
 }
 ],
 "isCancelled": false,
@@ -515,6 +541,7 @@
 498,
 500,
 500,
+500,
 500
 ],
 "instructorLog": {
@@ -549,6 +576,27 @@
 }
 ],
 "timing": 1690223854
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -564,6 +612,10 @@
 {
 "firstName": "Karolyn",
 "lastName": "Keir"
+},
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
 }
 ],
 "isCancelled": false,
@@ -811,7 +863,8 @@
 190,
 185,
 176,
-172
+172,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -845,6 +898,27 @@
 }
 ],
 "timing": 1690223854
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -860,6 +934,10 @@
 {
 "firstName": "Karolyn",
 "lastName": "Keir"
+},
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
 }
 ],
 "isCancelled": false,
@@ -1083,7 +1161,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

@@ -227,7 +227,8 @@
 49,
 48,
 49,
-48
+48,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,7 +478,8 @@
 57,
 59,
 58,
-63
+63,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -727,13 +729,29 @@
 66,
 65,
 65,
-64
+64,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tanya",
+"lastName": "Kirsch"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tanya",
+"lastName": "Kirsch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -962,13 +980,29 @@
 41,
 42,
 43,
-38
+38,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Tome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -1197,7 +1231,8 @@
 68,
 68,
 66,
-65
+65,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1447,7 +1482,8 @@
 57,
 57,
 58,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1690,7 +1726,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Business Finance II"
 }

@@ -232,13 +232,29 @@
 37,
 36,
 36,
-36
+36,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -472,13 +488,29 @@
 33,
 32,
 33,
-33
+33,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -707,13 +739,29 @@
 15,
 16,
 13,
-13
+13,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -935,7 +983,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Chinese for Academic Purposes II"
 }

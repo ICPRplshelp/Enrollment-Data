@@ -212,13 +212,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simon",
+"lastName": "Rabyniuk"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simon",
+"lastName": "Rabyniuk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -425,7 +441,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Multidisciplinary Capstone Design Seminar"
 }

@@ -230,7 +230,8 @@
 19,
 19,
 20,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -243,6 +244,19 @@
 }
 ],
 "timing": 1693360633
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tiphaine",
+"lastName": "Lahuec"
+},
+{
+"firstName": "Adriana",
+"lastName": "Brook"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -250,6 +264,10 @@
 {
 "firstName": "Tiphaine",
 "lastName": "Lahuec"
+},
+{
+"firstName": "Adriana",
+"lastName": "Brook"
 }
 ],
 "isCancelled": false,
@@ -483,7 +501,8 @@
 26,
 24,
 25,
-27
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -496,6 +515,19 @@
 }
 ],
 "timing": 1689378883
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Claudia",
+"lastName": "Paparella"
+},
+{
+"firstName": "Adriana",
+"lastName": "Brook"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -503,6 +535,10 @@
 {
 "firstName": "Claudia",
 "lastName": "Paparella"
+},
+{
+"firstName": "Adriana",
+"lastName": "Brook"
 }
 ],
 "isCancelled": false,
@@ -729,7 +765,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Introductory Latin I"
 }

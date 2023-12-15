@@ -227,13 +227,29 @@
 22,
 22,
 18,
-23
+23,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
+"timing": 1702618482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xinliang",
+"lastName": "Jiang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -462,6 +478,7 @@
 8,
 8,
 10,
+2,
 2
 ],
 "instructorLog": {
@@ -690,7 +707,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Business Chinese"
 }

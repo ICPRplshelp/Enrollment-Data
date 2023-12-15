@@ -230,7 +230,8 @@
 36,
 36,
 36,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -243,6 +244,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "S.",
+"lastName": "Trimble"
+},
+{
+"firstName": "Ali",
+"lastName": "Greey"
+}
+],
+"timing": 1702618482
 }
 ]
 },
@@ -250,6 +264,10 @@
 {
 "firstName": "S.",
 "lastName": "Trimble"
+},
+{
+"firstName": "Ali",
+"lastName": "Greey"
 }
 ],
 "isCancelled": false,
@@ -476,7 +494,8 @@
 1700536705,
 1700710710,
 1701397084,
-1702022724
+1702022724,
+1702618482
 ],
 "title": "Special Topic in Women and Gender Studies"
 }
