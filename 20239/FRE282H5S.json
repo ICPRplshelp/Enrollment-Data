@@ -228,13 +228,29 @@
 33,
 32,
 36,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brianna",
+"lastName": "Mullin"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brianna",
+"lastName": "Mullin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -457,7 +473,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Intermediate Language Practice: Written French"
 }

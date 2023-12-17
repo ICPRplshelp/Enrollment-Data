@@ -231,6 +231,7 @@
 26,
 31,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -244,13 +245,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vanbasten",
+"lastName": "de Araujo"
+}
+],
+"timing": 1702856475
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Wafaa",
-"lastName": "Hasan"
+"firstName": "Vanbasten",
+"lastName": "de Araujo"
 }
 ],
 "isCancelled": false,
@@ -478,7 +488,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Gender and Globalization: Transnational Perspectives"
 }

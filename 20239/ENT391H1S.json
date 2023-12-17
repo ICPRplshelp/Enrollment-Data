@@ -231,13 +231,29 @@
 0,
 0,
 2,
-10
+10,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aziz",
+"lastName": "Memon"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aziz",
+"lastName": "Memon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -463,7 +479,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Exploring New Ventures"
 }

@@ -228,6 +228,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -256,9 +257,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 3,
+"enrollmentCap": 6,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 6,
+"time": 1702856475
+}
+],
 "initialCap": 3
 },
 "enrollmentLogs": [
@@ -477,6 +483,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3
@@ -723,7 +730,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Small Ensembles IIa"
 }

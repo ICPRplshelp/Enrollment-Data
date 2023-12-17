@@ -228,6 +228,7 @@
 348,
 344,
 344,
+346,
 346
 ],
 "instructorLog": {
@@ -297,10 +298,6 @@
 },
 "instructors": [
 {
-"firstName": "Terrence Tin",
-"lastName": "Chang"
-},
-{
 "firstName": "Stephen",
 "lastName": "Reid"
 },
@@ -311,6 +308,10 @@
 {
 "firstName": "Karolyn",
 "lastName": "Keir"
+},
+{
+"firstName": "Terrence Tin",
+"lastName": "Chang"
 }
 ],
 "isCancelled": false,
@@ -539,6 +540,7 @@
 499,
 499,
 498,
+500,
 500,
 500,
 500,
@@ -864,7 +866,8 @@
 185,
 176,
 172,
-170
+170,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1162,7 +1165,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

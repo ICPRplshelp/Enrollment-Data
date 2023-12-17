@@ -228,7 +228,8 @@
 241,
 238,
 238,
-234
+234,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,9 +257,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1702856475
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -479,7 +485,8 @@
 235,
 234,
 235,
-229
+229,
+223
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -507,9 +514,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1702856475
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -730,7 +742,8 @@
 249,
 246,
 243,
-234
+234,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -974,7 +987,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Calculus II for Mathematical Sciences"
 }

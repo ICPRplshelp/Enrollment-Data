@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 210,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 210,
+"time": 1702856475
+}
+],
 "initialCap": 175
 },
 "enrollmentLogs": [
@@ -228,7 +233,8 @@
 196,
 194,
 197,
-198
+198,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,7 +478,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "The Magic of Numbers"
 }

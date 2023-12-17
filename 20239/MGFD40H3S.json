@@ -233,13 +233,29 @@
 40,
 40,
 41,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -474,13 +490,29 @@
 41,
 40,
 41,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -715,13 +747,29 @@
 37,
 36,
 37,
+39,
 39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "KIRK",
+"lastName": "VANDEZANDE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -944,7 +992,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Investor Psychology and Behavioural Finance"
 }

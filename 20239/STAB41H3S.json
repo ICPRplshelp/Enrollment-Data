@@ -228,13 +228,29 @@
 49,
 49,
 49,
-47
+47,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "YAN",
+"lastName": "YAN (NOUTORID)"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "YAN",
+"lastName": "YAN (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -457,7 +473,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Financial Derivatives"
 }

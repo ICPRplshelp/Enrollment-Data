@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1702856475
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -231,7 +236,8 @@
 20,
 21,
 21,
-20
+20,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -478,7 +484,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Considering Sustainable Textiles and Fashions in the Age of Climate Crisis"
 }

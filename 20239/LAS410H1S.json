@@ -1,0 +1,31 @@
+{
+"code": "LAS410H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1702856475,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1702856474,
+1702856475
+],
+"title": "Independent Study"
+}

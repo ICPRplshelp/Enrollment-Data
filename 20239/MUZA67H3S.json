@@ -228,6 +228,7 @@
 7,
 8,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -256,9 +257,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1702856475
+}
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
@@ -479,7 +485,8 @@
 6,
 6,
 7,
-7
+7,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -723,7 +730,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Small Ensembles Ib"
 }

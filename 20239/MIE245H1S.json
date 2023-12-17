@@ -237,6 +237,7 @@
 120,
 118,
 118,
+118,
 118
 ],
 "instructorLog": {
@@ -506,6 +507,7 @@
 113,
 113,
 113,
+113,
 113
 ],
 "instructorLog": {
@@ -519,13 +521,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela",
+"lastName": "Rosu"
+}
+],
+"timing": 1702856475
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Merve",
-"lastName": "Bodur"
+"firstName": "Daniela",
+"lastName": "Rosu"
 }
 ],
 "isCancelled": false,
@@ -750,7 +761,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Data Structures & Algorithms"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1702856475
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -231,6 +236,7 @@
 96,
 97,
 95,
+97,
 97
 ],
 "instructorLog": {
@@ -259,9 +265,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1702856475
+}
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -485,6 +496,7 @@
 7,
 7,
 8,
+7,
 7
 ],
 "instructorLog": {
@@ -732,7 +744,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Relativistic Electrodynamics"
 }

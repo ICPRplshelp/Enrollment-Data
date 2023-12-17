@@ -231,13 +231,29 @@
 439,
 446,
 441,
-449
+449,
+448
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fatima Nishreena",
+"lastName": "Nisham"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fatima Nishreena",
+"lastName": "Nisham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -463,7 +479,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Innovation and Entrepreneurship"
 }

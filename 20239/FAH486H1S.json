@@ -231,6 +231,7 @@
 21,
 21,
 22,
+21,
 21
 ],
 "instructorLog": {
@@ -244,6 +245,23 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Fee"
+},
+{
+"firstName": "Fahmida",
+"lastName": "Suleman"
+},
+{
+"firstName": "Deepali",
+"lastName": "Dewan"
+}
+],
+"timing": 1702856475
 }
 ]
 },
@@ -251,6 +269,14 @@
 {
 "firstName": "Sarah",
 "lastName": "Fee"
+},
+{
+"firstName": "Fahmida",
+"lastName": "Suleman"
+},
+{
+"firstName": "Deepali",
+"lastName": "Dewan"
 }
 ],
 "isCancelled": false,
@@ -478,7 +504,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Case Studies at the Royal Ontario Museum"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 44,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 44,
+"time": 1702856475
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -228,7 +233,8 @@
 40,
 42,
 42,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -472,7 +478,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Introduction to Real Analysis"
 }

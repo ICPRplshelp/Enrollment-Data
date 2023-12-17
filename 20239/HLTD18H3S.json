@@ -42,13 +42,29 @@
 8,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morris",
+"lastName": "Manolson"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Morris",
+"lastName": "Manolson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -85,7 +101,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Dental Sciences"
 }

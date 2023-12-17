@@ -228,13 +228,29 @@
 280,
 277,
 277,
-282
+282,
+280
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nnenna",
+"lastName": "Asidianya"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nnenna",
+"lastName": "Asidianya"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -457,7 +473,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Introduction to Statistics for the Social Sciences"
 }

@@ -228,7 +228,8 @@
 109,
 108,
 107,
-105
+105,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -241,13 +242,22 @@
 }
 ],
 "timing": 1700264444
+},
+{
+"instructorsAfter": [
+{
+"firstName": "EDWIN",
+"lastName": "SAFARI (NOUTORID)"
+}
+],
+"timing": 1702856475
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Edwin",
-"lastName": "Safari"
+"firstName": "EDWIN",
+"lastName": "SAFARI (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -472,7 +482,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Environmental Impact Assessment and Auditing"
 }

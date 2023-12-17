@@ -228,13 +228,29 @@
 53,
 50,
 50,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth Ann",
+"lastName": "Cook"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth Ann",
+"lastName": "Cook"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -464,13 +480,29 @@
 18,
 20,
 20,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Amiri"
+}
+],
+"timing": 1702856475
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Amiri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -693,7 +725,8 @@
 1700710710,
 1701397084,
 1702022724,
-1702618482
+1702618482,
+1702856475
 ],
 "title": "Advancing Your Career Exploration Management International Business Part II"
 }
