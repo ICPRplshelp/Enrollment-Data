@@ -232,13 +232,29 @@
 32,
 34,
 33,
-33
+33,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jaclyn",
+"lastName": "Seidman"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jaclyn",
+"lastName": "Seidman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -465,7 +481,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Legal Environment of Business II"
 }

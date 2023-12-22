@@ -246,6 +246,7 @@
 40,
 39,
 41,
+41,
 41
 ],
 "instructorLog": {
@@ -259,13 +260,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "FERDOUS",
+"lastName": "HAQUE (NOUTORID)"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ferdous",
-"lastName": "Haque"
+"firstName": "FERDOUS",
+"lastName": "HAQUE (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -515,7 +525,8 @@
 78,
 79,
 80,
-81
+81,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -528,13 +539,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "FERDOUS",
+"lastName": "HAQUE (NOUTORID)"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ferdous",
-"lastName": "Haque"
+"firstName": "FERDOUS",
+"lastName": "HAQUE (NOUTORID)"
 }
 ],
 "isCancelled": false,
@@ -784,7 +804,8 @@
 83,
 83,
 81,
-82
+82,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1036,7 +1057,8 @@
 83,
 83,
 80,
-80
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1288,7 +1310,8 @@
 83,
 83,
 83,
-83
+83,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1751,7 +1774,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Advancing Your Career Exploration Part II"
 }

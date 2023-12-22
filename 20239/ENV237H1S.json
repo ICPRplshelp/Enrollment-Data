@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 29,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 33,
+"time": 1703274497
+}
+],
 "initialCap": 29
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 33,
 33,
 32,
-32
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,7 +486,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Physics of the Changing Environment A"
 }

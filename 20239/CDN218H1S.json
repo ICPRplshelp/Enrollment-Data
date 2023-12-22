@@ -232,7 +232,8 @@
 21,
 25,
 26,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Lesk"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Siobhan",
-"lastName": "O'Flynn"
+"firstName": "Andrew",
+"lastName": "Lesk"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Voices in Canadian Writing"
 }

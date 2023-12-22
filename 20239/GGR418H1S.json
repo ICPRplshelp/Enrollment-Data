@@ -5,9 +5,14 @@
 {
 "createdAt": 1689600874,
 "delivery": "INPER",
-"enrollmentCap": 26,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1703274497
+}
+],
 "initialCap": 26
 },
 "enrollmentLogs": [
@@ -166,7 +171,8 @@
 19,
 21,
 23,
-23
+23,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -188,7 +194,7 @@
 "lastName": "Prudham"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -348,7 +354,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Geographies of Extraction"
 }

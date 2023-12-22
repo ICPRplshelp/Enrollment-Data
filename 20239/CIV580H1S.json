@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 103,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 103,
+"time": 1703274497
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -228,6 +233,7 @@
 99,
 101,
 103,
+104,
 104,
 104
 ],
@@ -474,7 +480,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Eng & Mgmt of Large Projects"
 }

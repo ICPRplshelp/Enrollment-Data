@@ -229,7 +229,8 @@
 71,
 73,
 81,
-80
+80,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shuchita",
+"lastName": "Sharma"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SHUCHITA",
-"lastName": "SHARMA (NOUTORID)"
+"firstName": "Shuchita",
+"lastName": "Sharma"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Calculus I for Physical Sciences"
 }

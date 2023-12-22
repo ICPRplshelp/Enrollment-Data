@@ -229,13 +229,29 @@
 38,
 39,
 38,
-37
+37,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaleigh",
+"lastName": "Woolford"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaleigh",
+"lastName": "Woolford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -459,7 +475,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Sociolinguistics"
 }

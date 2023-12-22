@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1703274497
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -232,6 +237,7 @@
 45,
 46,
 46,
+46,
 46
 ],
 "instructorLog": {
@@ -254,12 +260,12 @@
 },
 "instructors": [
 {
-"firstName": "Walid",
-"lastName": "Houry"
-},
-{
 "firstName": "James",
 "lastName": "Rini"
+},
+{
+"firstName": "Walid",
+"lastName": "Houry"
 }
 ],
 "isCancelled": false,
@@ -488,7 +494,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Protein Homeostasis"
 }

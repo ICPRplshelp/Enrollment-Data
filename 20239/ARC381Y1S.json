@@ -214,6 +214,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -451,13 +452,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Suzan",
+"lastName": "Ibrahim"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Suzan",
+"lastName": "Ibrahim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -666,7 +683,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Technology Studio IV"
 }

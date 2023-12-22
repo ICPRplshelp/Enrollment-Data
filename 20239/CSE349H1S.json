@@ -232,13 +232,29 @@
 24,
 23,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Miguel",
+"lastName": "Esteban"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Miguel",
+"lastName": "Esteban"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -465,7 +481,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Disability Arts and Culture"
 }

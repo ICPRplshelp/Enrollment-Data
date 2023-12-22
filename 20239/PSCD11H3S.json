@@ -229,6 +229,7 @@
 57,
 51,
 53,
+53,
 53
 ],
 "instructorLog": {
@@ -251,13 +252,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Roberto",
+"lastName": "Verdecchia"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "ROBERTO",
-"lastName": "VERDECCHIA (NOUTORID)"
+"firstName": "Roberto",
+"lastName": "Verdecchia"
 }
 ],
 "isCancelled": false,
@@ -483,7 +493,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Communicating Science: Film, Media, Journalism, and Society"
 }

@@ -232,7 +232,8 @@
 216,
 212,
 217,
-217
+217,
+211
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Zoe",
+"lastName": "Anthony"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ronald",
-"lastName": "Charles"
+"firstName": "Zoe",
+"lastName": "Anthony"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "World Religions"
 }

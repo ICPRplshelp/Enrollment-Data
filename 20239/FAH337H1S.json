@@ -232,7 +232,8 @@
 103,
 104,
 103,
-102
+102,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Colin",
+"lastName": "Murray"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Giancarla",
-"lastName": "Periti"
+"firstName": "Colin",
+"lastName": "Murray"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Rivalry, Imitation and Envy in Italian Renaissance Art"
 }

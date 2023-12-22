@@ -234,13 +234,29 @@
 48,
 50,
 48,
-48
+48,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florence",
+"lastName": "Dery"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florence",
+"lastName": "Dery"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -464,7 +480,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "(Under)development and Health"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "ASYNC",
-"enrollmentCap": 275,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 275,
 "time": 1692247612
+},
+{
+"newCapacity": 300,
+"time": 1703274497
 }
 ],
 "initialCap": 250
@@ -237,7 +241,8 @@
 332,
 333,
 334,
-331
+331,
+336
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "The Physics of Music"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 230,
+"enrollmentCap": 290,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 230,
 "time": 1699555966
+},
+{
+"newCapacity": 290,
+"time": 1703274497
 }
 ],
 "initialCap": 210
@@ -237,7 +241,8 @@
 323,
 327,
 323,
-323
+323,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "The Practice of Statistics I"
 }

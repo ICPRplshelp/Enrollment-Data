@@ -232,7 +232,8 @@
 83,
 82,
 85,
-84
+84,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Eleanor",
+"lastName": "Pontoriero"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Eleanor",
-"lastName": "Weisbaum"
+"lastName": "Pontoriero"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Buddhist Perspectives on Current Social Issues"
 }

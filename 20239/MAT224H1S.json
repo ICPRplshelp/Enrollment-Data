@@ -232,7 +232,8 @@
 216,
 206,
 184,
-184
+184,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -496,13 +497,29 @@
 0,
 24,
 77,
-80
+80,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -736,7 +753,8 @@
 217,
 205,
 188,
-187
+187,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1000,7 +1018,8 @@
 215,
 204,
 186,
-187
+187,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1264,7 +1283,8 @@
 211,
 204,
 180,
-181
+181,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1537,7 +1557,8 @@
 214,
 202,
 181,
-181
+181,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1777,7 +1798,8 @@
 216,
 201,
 181,
-183
+183,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2025,7 +2047,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Linear Algebra II"
 }

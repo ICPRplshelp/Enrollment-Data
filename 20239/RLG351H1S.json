@@ -237,13 +237,29 @@
 96,
 96,
 88,
-88
+88,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lina",
+"lastName": "El Jammal"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lina",
+"lastName": "El Jammal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -470,7 +486,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "The Quran: An Introduction"
 }

@@ -250,7 +250,8 @@
 115,
 115,
 138,
-137
+137,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -531,6 +532,7 @@
 159,
 159,
 161,
+161,
 161
 ],
 "instructorLog": {
@@ -559,7 +561,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 135,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -581,6 +583,10 @@
 {
 "newCapacity": 135,
 "time": 1702618482
+},
+{
+"newCapacity": 140,
+"time": 1703274497
 }
 ],
 "initialCap": 110
@@ -804,7 +810,8 @@
 127,
 127,
 135,
-135
+135,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -832,7 +839,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 127,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -846,6 +853,10 @@
 {
 "newCapacity": 127,
 "time": 1700536705
+},
+{
+"newCapacity": 130,
+"time": 1703274497
 }
 ],
 "initialCap": 120
@@ -1069,7 +1080,8 @@
 127,
 125,
 125,
-126
+126,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1314,7 +1326,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Computer Fundamentals"
 }

@@ -237,7 +237,8 @@
 322,
 319,
 316,
-315
+315,
+316
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -250,6 +251,27 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+},
+{
+"firstName": "David",
+"lastName": "Riddick"
+},
+{
+"firstName": "Alaa",
+"lastName": "Alsaafin"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -257,6 +279,18 @@
 {
 "firstName": "Michelle",
 "lastName": "Arnot"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+},
+{
+"firstName": "David",
+"lastName": "Riddick"
+},
+{
+"firstName": "Alaa",
+"lastName": "Alsaafin"
 }
 ],
 "isCancelled": false,
@@ -497,7 +531,8 @@
 2,
 2,
 2,
-2
+2,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,6 +545,27 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+},
+{
+"firstName": "David",
+"lastName": "Riddick"
+},
+{
+"firstName": "Alaa",
+"lastName": "Alsaafin"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -517,6 +573,18 @@
 {
 "firstName": "Michelle",
 "lastName": "Arnot"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+},
+{
+"firstName": "David",
+"lastName": "Riddick"
+},
+{
+"firstName": "Alaa",
+"lastName": "Alsaafin"
 }
 ],
 "isCancelled": false,
@@ -745,7 +813,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }

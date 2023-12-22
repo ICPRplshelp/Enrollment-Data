@@ -232,6 +232,7 @@
 55,
 54,
 53,
+53,
 53
 ],
 "instructorLog": {
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1687561168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mark Daniel",
+"lastName": "Miller"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Paul",
-"lastName": "Whissell"
+"firstName": "Mark Daniel",
+"lastName": "Miller"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Advanced Research in Meditation, Psychology and Neuroscience"
 }

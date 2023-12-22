@@ -229,7 +229,8 @@
 28,
 27,
 27,
-27
+27,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1689105743
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adriana",
-"lastName": "Grimaldi"
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Queer Italy: Literature and Cinema"
 }

@@ -214,7 +214,8 @@
 103,
 103,
 121,
-123
+123,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -227,13 +228,30 @@
 }
 ],
 "timing": 1689787734
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mariana",
+"lastName": "Leguia Alegria"
+},
+{
+"firstName": "Angus",
+"lastName": "Laurie"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Robert",
-"lastName": "Levit"
+"firstName": "Mariana",
+"lastName": "Leguia Alegria"
+},
+{
+"firstName": "Angus",
+"lastName": "Laurie"
 }
 ],
 "isCancelled": false,
@@ -444,7 +462,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Selected Topics in Urban Design"
 }

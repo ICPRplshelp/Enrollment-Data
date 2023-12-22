@@ -229,7 +229,8 @@
 114,
 113,
 113,
-113
+113,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,6 +243,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Woodall"
+},
+{
+"firstName": "Teri",
+"lastName": "Martin"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -249,6 +263,10 @@
 {
 "firstName": "Karen",
 "lastName": "Woodall"
+},
+{
+"firstName": "Teri",
+"lastName": "Martin"
 }
 ],
 "isCancelled": false,
@@ -474,7 +492,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Best Practices in Forensic Science"
 }

@@ -229,7 +229,8 @@
 19,
 19,
 19,
-19
+19,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -257,9 +258,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 13,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 13,
+"time": 1703274497
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -481,7 +487,8 @@
 16,
 16,
 16,
-16
+16,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -509,9 +516,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1703274497
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -733,7 +745,8 @@
 21,
 22,
 21,
-21
+21,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -761,9 +774,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1703274497
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -985,7 +1003,8 @@
 13,
 13,
 13,
-13
+13,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1237,7 +1256,8 @@
 15,
 15,
 16,
-16
+16,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1271,6 +1291,7 @@
 "initialCap": 22
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1734,7 +1755,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Musical Skills II"
 }

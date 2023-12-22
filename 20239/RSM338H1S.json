@@ -237,6 +237,7 @@
 70,
 69,
 70,
+69,
 69
 ],
 "instructorLog": {
@@ -492,13 +493,29 @@
 51,
 52,
 53,
-52
+52,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zisis",
+"lastName": "Poulos"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zisis",
+"lastName": "Poulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -725,7 +742,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Applications of Machine Learning in Finance"
 }

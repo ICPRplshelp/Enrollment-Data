@@ -232,7 +232,8 @@
 307,
 302,
 309,
-310
+310,
+309
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,6 +246,19 @@
 }
 ],
 "timing": 1690549709
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+},
+{
+"firstName": "Erica",
+"lastName": "Rosenblum"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -252,6 +266,10 @@
 {
 "firstName": "Roya",
 "lastName": "Ghahreman"
+},
+{
+"firstName": "Erica",
+"lastName": "Rosenblum"
 }
 ],
 "isCancelled": false,
@@ -480,7 +498,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Introduction to Physics I"
 }

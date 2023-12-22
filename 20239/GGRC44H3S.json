@@ -229,6 +229,7 @@
 63,
 64,
 66,
+67,
 67
 ],
 "instructorLog": {
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Wendy Barbara",
+"lastName": "Burton"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "WENDY",
-"lastName": "BURTON (NOUTORID)"
+"firstName": "Wendy Barbara",
+"lastName": "Burton"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Environmental Conservation and Sustainable Development"
 }

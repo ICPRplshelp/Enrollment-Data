@@ -229,6 +229,7 @@
 37,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -481,6 +482,7 @@
 36,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -494,13 +496,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Mealey"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "SCOTT",
-"lastName": "MEALEY (NOUTORID)"
+"firstName": "Scott",
+"lastName": "Mealey"
 }
 ],
 "isCancelled": false,
@@ -726,7 +737,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Introduction to Performance"
 }

@@ -229,6 +229,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Desmond",
+"lastName": "van den Berg"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Scott",
-"lastName": "Ramsay"
+"firstName": "Desmond",
+"lastName": "van den Berg"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Introductory Chemistry from a Materials Perspective"
 }

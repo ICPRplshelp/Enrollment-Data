@@ -232,7 +232,8 @@
 1243,
 1247,
 1247,
-1246
+1246,
+1169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -253,21 +254,46 @@
 }
 ],
 "timing": 1691614238
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+},
+{
+"firstName": "Scott",
+"lastName": "Heximer"
+},
+{
+"firstName": "James",
+"lastName": "Scholey"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Douglas",
-"lastName": "Tweed"
-},
-{
-"firstName": "Nohjin",
-"lastName": "Kee"
-},
-{
 "firstName": "Jeff",
 "lastName": "Kroetsch"
+},
+{
+"firstName": "Scott",
+"lastName": "Heximer"
+},
+{
+"firstName": "James",
+"lastName": "Scholey"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
 }
 ],
 "isCancelled": false,
@@ -496,7 +522,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Human Physiology II"
 }

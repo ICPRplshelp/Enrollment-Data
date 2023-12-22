@@ -232,7 +232,8 @@
 136,
 135,
 133,
-132
+132,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1688850240
+},
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Watson"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Catherine",
-"lastName": "Evans"
+"firstName": "William",
+"lastName": "Watson"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Crime and Mind"
 }

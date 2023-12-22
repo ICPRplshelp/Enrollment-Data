@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 108,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 117,
+"time": 1703274497
+}
+],
 "initialCap": 108
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 142,
 140,
 139,
-139
+139,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,7 +486,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Physical Chemistry: The Molecular Viewpoint"
 }

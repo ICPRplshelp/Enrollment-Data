@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1703274497
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -228,6 +233,7 @@
 25,
 25,
 25,
+27,
 27,
 27
 ],
@@ -474,7 +480,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Introduction to Biomolecular Engineering"
 }

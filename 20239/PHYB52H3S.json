@@ -229,7 +229,8 @@
 49,
 48,
 48,
-48
+48,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1698955219
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "McGraw"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ikjyot Singh",
-"lastName": "Kohli"
+"firstName": "Patrick",
+"lastName": "McGraw"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Thermal Physics"
 }

@@ -229,7 +229,8 @@
 152,
 153,
 153,
-151
+151,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +243,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Riddell"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Esmat",
-"lastName": "Elhalaby"
+"firstName": "William",
+"lastName": "Riddell"
 }
 ],
 "isCancelled": false,
@@ -474,7 +484,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Themes in World History II"
 }

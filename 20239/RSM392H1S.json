@@ -232,13 +232,29 @@
 18,
 17,
 16,
-16
+16,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -472,13 +488,29 @@
 46,
 50,
 50,
-50
+50,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -717,13 +749,29 @@
 55,
 54,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -957,7 +1005,8 @@
 50,
 50,
 50,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1217,7 +1266,8 @@
 55,
 55,
 56,
-56
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1477,7 +1527,8 @@
 56,
 55,
 56,
-56
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1732,7 +1783,8 @@
 18,
 18,
 16,
-16
+16,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1980,7 +2032,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Strategic Management"
 }

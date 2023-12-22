@@ -231,13 +231,29 @@
 45,
 45,
 45,
-45
+45,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mariana",
+"lastName": "Dobreva-Holder"
+}
+],
+"timing": 1703274497
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mariana",
+"lastName": "Dobreva-Holder"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -458,7 +474,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Migration, Religion and City Spaces"
 }

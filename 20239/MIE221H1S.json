@@ -238,6 +238,7 @@
 212,
 212,
 213,
+213,
 213
 ],
 "instructorLog": {
@@ -277,6 +278,15 @@
 }
 ],
 "timing": 1700710710
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alison",
+"lastName": "Olechowski"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -284,10 +294,6 @@
 {
 "firstName": "Alison",
 "lastName": "Olechowski"
-},
-{
-"firstName": "Bensiyon",
-"lastName": "Benhabib"
 }
 ],
 "isCancelled": false,
@@ -513,7 +519,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Manufacturing Engineering"
 }

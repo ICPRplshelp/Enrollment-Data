@@ -232,7 +232,8 @@
 99,
 98,
 101,
-101
+101,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,6 +246,35 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+},
+{
+"firstName": "Stavroula",
+"lastName": "Andreopoulos"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Shahrzad",
+"lastName": "Ghazisaeidi"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -252,6 +282,26 @@
 {
 "firstName": "Michelle",
 "lastName": "Arnot"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+},
+{
+"firstName": "Stavroula",
+"lastName": "Andreopoulos"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Shahrzad",
+"lastName": "Ghazisaeidi"
 }
 ],
 "isCancelled": false,
@@ -480,7 +530,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Research Readiness and Advancing Biomedical Discoveries"
 }

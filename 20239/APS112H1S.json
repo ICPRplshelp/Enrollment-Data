@@ -238,7 +238,8 @@
 294,
 294,
 291,
-292
+292,
+294
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,14 +256,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Jason",
-"lastName": "Bazylak"
-},
 {
 "firstName": "Ted",
 "lastName": "Nolan"
@@ -507,7 +513,8 @@
 343,
 340,
 339,
-338
+338,
+331
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -528,6 +535,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -535,10 +555,6 @@
 {
 "firstName": "Tome",
 "lastName": "Kosteski"
-},
-{
-"firstName": "Jason",
-"lastName": "Bazylak"
 },
 {
 "firstName": "Ted",
@@ -551,7 +567,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 468,
+"enrollmentCap": 473,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -573,6 +589,10 @@
 {
 "newCapacity": 468,
 "time": 1697153335
+},
+{
+"newCapacity": 473,
+"time": 1703274497
 }
 ],
 "initialCap": 468
@@ -796,7 +816,8 @@
 468,
 467,
 468,
-468
+468,
+473
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -817,6 +838,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1703274497
 }
 ]
 },
@@ -824,10 +858,6 @@
 {
 "firstName": "Tome",
 "lastName": "Kosteski"
-},
-{
-"firstName": "Jason",
-"lastName": "Bazylak"
 },
 {
 "firstName": "Ted",
@@ -1057,7 +1087,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Engineering Strategies & Practice II"
 }

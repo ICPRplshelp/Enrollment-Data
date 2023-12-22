@@ -229,6 +229,7 @@
 18,
 23,
 21,
+22,
 22
 ],
 "instructorLog": {
@@ -257,9 +258,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1703274497
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -481,14 +487,15 @@
 10,
 2,
 2,
-1
+1,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -711,7 +718,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Business Chinese"
 }

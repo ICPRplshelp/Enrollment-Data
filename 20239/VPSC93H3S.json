@@ -234,6 +234,7 @@
 25,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -265,13 +266,22 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Helen",
+"lastName": "Cho"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "HELEN",
-"lastName": "CHO (NOUTORID)"
+"firstName": "Helen",
+"lastName": "Cho"
 }
 ],
 "isCancelled": false,
@@ -497,7 +507,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Theory and Practice: Art and the Everyday"
 }

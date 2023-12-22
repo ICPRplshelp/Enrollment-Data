@@ -229,6 +229,7 @@
 23,
 22,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -251,13 +252,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kamal",
+"lastName": "Akbari"
+}
+],
+"timing": 1703274497
 }
 ]
 },
 "instructors": [
 {
-"firstName": "KAMAL",
-"lastName": "AKBARI (NOUTORID)"
+"firstName": "Kamal",
+"lastName": "Akbari"
 }
 ],
 "isCancelled": false,
@@ -483,7 +493,8 @@
 1701397084,
 1702022724,
 1702618482,
-1702856475
+1702856475,
+1703274497
 ],
 "title": "Essential Spatial Analysis"
 }
