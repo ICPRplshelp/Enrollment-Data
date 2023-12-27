@@ -233,13 +233,53 @@
 61,
 59,
 60,
-60
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Matthews"
 },
-"instructors": [],
+{
+"firstName": "Isabella",
+"lastName": "Caniggia"
+},
+{
+"firstName": "Mike",
+"lastName": "Seed"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+}
+],
+"timing": 1703654346
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Matthews"
+},
+{
+"firstName": "Isabella",
+"lastName": "Caniggia"
+},
+{
+"firstName": "Mike",
+"lastName": "Seed"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -467,7 +507,8 @@
 1702022724,
 1702618482,
 1702856475,
-1703274497
+1703274497,
+1703654346
 ],
 "title": "Pregnancy and Birth: From Implantation to Newborn Life"
 }
