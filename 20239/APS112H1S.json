@@ -240,7 +240,8 @@
 291,
 292,
 294,
-294
+294,
+301
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -516,7 +517,8 @@
 339,
 338,
 331,
-331
+331,
+329
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -569,7 +571,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 473,
+"enrollmentCap": 474,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -595,6 +597,10 @@
 {
 "newCapacity": 473,
 "time": 1703274497
+},
+{
+"newCapacity": 474,
+"time": 1704138100
 }
 ],
 "initialCap": 468
@@ -820,7 +826,8 @@
 468,
 468,
 473,
-473
+473,
+468
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1092,7 +1099,8 @@
 1702618482,
 1702856475,
 1703274497,
-1703654346
+1703654346,
+1704138100
 ],
 "title": "Engineering Strategies & Practice II"
 }
