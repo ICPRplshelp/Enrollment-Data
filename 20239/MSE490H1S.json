@@ -232,13 +232,37 @@
 46,
 46,
 46,
+46,
 46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Doug",
+"lastName": "Perovic"
 },
-"instructors": [],
+{
+"firstName": "Michel",
+"lastName": "Hache"
+}
+],
+"timing": 1704485730
+}
+]
+},
+"instructors": [
+{
+"firstName": "Doug",
+"lastName": "Perovic"
+},
+{
+"firstName": "Michel",
+"lastName": "Hache"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -465,7 +489,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Professional Ethics and Practice"
 }

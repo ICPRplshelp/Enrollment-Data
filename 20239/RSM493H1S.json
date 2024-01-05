@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 37,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 37,
 "time": 1688577945
+},
+{
+"newCapacity": 40,
+"time": 1704485730
 }
 ],
 "initialCap": 45
@@ -240,7 +244,8 @@
 44,
 45,
 45,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -268,9 +273,14 @@
 {
 "createdAt": 1696030622,
 "delivery": "INPER",
-"enrollmentCap": 38,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1704485730
+}
+],
 "initialCap": 38
 },
 "enrollmentLogs": [
@@ -498,7 +508,8 @@
 46,
 45,
 45,
-45
+45,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -749,7 +760,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Entrepreneurship"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 20,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1704485730
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 32,
 30,
 31,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -495,7 +501,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Gender and Globalization: Transnational Perspectives"
 }

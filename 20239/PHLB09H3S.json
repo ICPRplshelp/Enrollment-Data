@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 450,
+"enrollmentCap": 480,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 450,
 "time": 1687893242
+},
+{
+"newCapacity": 480,
+"time": 1704485730
 }
 ],
 "initialCap": 480
@@ -237,7 +241,8 @@
 469,
 474,
 473,
-471
+471,
+478
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Biomedical Ethics"
 }

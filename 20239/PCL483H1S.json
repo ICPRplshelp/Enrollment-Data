@@ -235,7 +235,8 @@
 32,
 32,
 32,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,6 +278,35 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "J. Peter",
+"lastName": "McPherson"
+},
+{
+"firstName": "Joel",
+"lastName": "Mayer"
+},
+{
+"firstName": "Cindy",
+"lastName": "Woodland"
+},
+{
+"firstName": "David",
+"lastName": "Riddick"
+},
+{
+"firstName": "Domenica",
+"lastName": "Tambasco"
+},
+{
+"firstName": "Jon",
+"lastName": "Arnot"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -302,7 +332,7 @@
 "lastName": "Tambasco"
 },
 {
-"firstName": "Michelle",
+"firstName": "Jon",
 "lastName": "Arnot"
 }
 ],
@@ -535,7 +565,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Interdisciplinary Toxicology"
 }

@@ -232,7 +232,8 @@
 24,
 25,
 24,
-22
+22,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1688059451
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Giulio",
+"lastName": "Leghissa"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam",
-"lastName": "Barker"
+"firstName": "Giulio",
+"lastName": "Leghissa"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Classical Literature I: Poetry"
 }

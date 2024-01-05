@@ -232,13 +232,29 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Soumya",
+"lastName": "Dash"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Soumya",
+"lastName": "Dash"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -465,7 +481,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Fracture and Failure Analysis"
 }

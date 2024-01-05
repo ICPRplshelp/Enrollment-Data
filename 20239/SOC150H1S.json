@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 695,
+"enrollmentCap": 725,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 695,
 "time": 1699302053
+},
+{
+"newCapacity": 725,
+"time": 1704485730
 }
 ],
 "initialCap": 675
@@ -240,7 +244,8 @@
 717,
 721,
 721,
-720
+720,
+716
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -268,9 +273,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 275,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 275,
+"time": 1704485730
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -498,7 +508,8 @@
 281,
 283,
 281,
-282
+282,
+275
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -756,7 +767,8 @@
 15,
 15,
 15,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1007,7 +1019,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Sociological Inquiries"
 }

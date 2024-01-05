@@ -232,6 +232,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Julius",
+"lastName": "Haag"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Camisha",
-"lastName": "Sibblis"
+"firstName": "Julius",
+"lastName": "Haag"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Research Project in Sociology"
 }

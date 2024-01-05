@@ -232,13 +232,29 @@
 32,
 33,
 33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ATANAS",
+"lastName": "BOZDAROV"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ATANAS",
+"lastName": "BOZDAROV"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -472,7 +488,8 @@
 35,
 37,
 37,
-37
+37,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,13 +502,22 @@
 }
 ],
 "timing": 1687373733
+},
+{
+"instructorsAfter": [
+{
+"firstName": "ANN",
+"lastName": "DONAR"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "ATANAS",
-"lastName": "BOZDAROV"
+"firstName": "ANN",
+"lastName": "DONAR"
 }
 ],
 "isCancelled": false,
@@ -727,13 +753,29 @@
 29,
 34,
 34,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ATANAS",
+"lastName": "BOZDAROV"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ATANAS",
+"lastName": "BOZDAROV"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -960,7 +1002,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Design I"
 }

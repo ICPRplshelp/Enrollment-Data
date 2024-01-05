@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 19,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 19,
 "time": 1693527610
+},
+{
+"newCapacity": 20,
+"time": 1704485730
 }
 ],
 "initialCap": 18
@@ -237,7 +241,8 @@
 19,
 19,
 17,
-17
+17,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,7 +515,8 @@
 20,
 19,
 19,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -777,6 +783,7 @@
 19,
 19,
 19,
+18,
 18,
 18,
 18
@@ -1048,7 +1055,8 @@
 17,
 17,
 19,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1312,7 +1320,8 @@
 18,
 19,
 19,
-19
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1585,6 +1594,7 @@
 19,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -1842,7 +1852,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Musical Skills III"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 480,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 450,
+"time": 1704485730
+}
+],
 "initialCap": 480
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 424,
 425,
 428,
-438
+438,
+449
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,7 +495,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Reason and Truth"
 }

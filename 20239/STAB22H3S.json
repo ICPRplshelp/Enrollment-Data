@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 315,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 315,
+"time": 1704485730
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 325,
 334,
 344,
-338
+338,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,9 +266,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 315,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 315,
+"time": 1704485730
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -487,7 +498,8 @@
 322,
 332,
 341,
-336
+336,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -735,7 +747,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Statistics I"
 }

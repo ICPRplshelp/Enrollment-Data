@@ -232,7 +232,8 @@
 17,
 18,
 18,
-18
+18,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,7 +261,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -270,6 +271,10 @@
 {
 "newCapacity": 22,
 "time": 1702022724
+},
+{
+"newCapacity": 24,
+"time": 1704485730
 }
 ],
 "initialCap": 33
@@ -496,7 +501,8 @@
 22,
 22,
 22,
-22
+22,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -524,7 +530,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -534,6 +540,10 @@
 {
 "newCapacity": 10,
 "time": 1703274497
+},
+{
+"newCapacity": 11,
+"time": 1704485730
 }
 ],
 "initialCap": 13
@@ -760,7 +770,8 @@
 16,
 10,
 10,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1024,7 +1035,8 @@
 16,
 18,
 18,
-18
+18,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1288,7 +1300,8 @@
 16,
 18,
 18,
-18
+18,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1552,6 +1565,7 @@
 13,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -1800,7 +1814,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Music Theory II"
 }

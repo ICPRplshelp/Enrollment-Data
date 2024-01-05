@@ -232,6 +232,7 @@
 28,
 28,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -258,6 +259,19 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "RHONDA",
+"lastName": "WEPPLER"
+},
+{
+"firstName": "JORDYN",
+"lastName": "STEWART"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -265,6 +279,10 @@
 {
 "firstName": "RHONDA",
 "lastName": "WEPPLER"
+},
+{
+"firstName": "JORDYN",
+"lastName": "STEWART"
 }
 ],
 "isCancelled": false,
@@ -500,7 +518,8 @@
 37,
 37,
 35,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -755,13 +774,29 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "KEVIN",
+"lastName": "SCHMIDT"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "KEVIN",
+"lastName": "SCHMIDT"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -988,7 +1023,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Sculpture I"
 }

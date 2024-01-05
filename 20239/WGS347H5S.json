@@ -232,7 +232,8 @@
 28,
 29,
 30,
-30
+30,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Deborah",
+"lastName": "Danard"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kristen",
-"lastName": "Bos"
+"firstName": "Deborah",
+"lastName": "Danard"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Indigenous Feminisms and Decolonization"
 }

@@ -16,13 +16,37 @@
 0,
 0,
 0,
-0
+0,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Bisaillon"
 },
-"instructors": [],
+{
+"firstName": "Rachel",
+"lastName": "Silvey"
+}
+],
+"timing": 1704485730
+}
+]
+},
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Bisaillon"
+},
+{
+"firstName": "Rachel",
+"lastName": "Silvey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -33,7 +57,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Special Topics in Contemporary Asian Studies"
 }

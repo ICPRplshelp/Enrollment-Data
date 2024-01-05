@@ -235,13 +235,29 @@
 181,
 185,
 183,
-184
+184,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -478,7 +494,8 @@
 176,
 175,
 175,
-177
+177,
+174
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -736,13 +753,29 @@
 124,
 130,
 132,
-138
+138,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -979,7 +1012,8 @@
 129,
 140,
 149,
-159
+159,
+176
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1230,7 +1264,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Calculus I"
 }

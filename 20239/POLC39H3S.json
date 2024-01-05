@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1699660943
+},
+{
+"newCapacity": 84,
+"time": 1704485730
 }
 ],
 "initialCap": 60
@@ -237,7 +241,8 @@
 80,
 80,
 80,
-81
+81,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Comparative Law and Politics"
 }

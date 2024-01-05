@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 87,
+"enrollmentCap": 89,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 89,
+"time": 1704485730
+}
+],
 "initialCap": 87
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 101,
 100,
 101,
-101
+101,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,9 +269,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1704485730
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -489,6 +500,7 @@
 4,
 4,
 4,
+3,
 3,
 3,
 3,
@@ -744,7 +756,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Time Series Analysis"
 }

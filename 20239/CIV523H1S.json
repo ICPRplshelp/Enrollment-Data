@@ -232,7 +232,8 @@
 15,
 15,
 15,
-16
+16,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,6 +246,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Graeme",
+"lastName": "Skinner"
+},
+{
+"firstName": "Timilehin Ayo",
+"lastName": "Olumuyiwa"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -252,6 +266,10 @@
 {
 "firstName": "Graeme",
 "lastName": "Skinner"
+},
+{
+"firstName": "Timilehin Ayo",
+"lastName": "Olumuyiwa"
 }
 ],
 "isCancelled": false,
@@ -480,7 +498,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Geotechnical Design"
 }

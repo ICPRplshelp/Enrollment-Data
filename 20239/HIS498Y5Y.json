@@ -232,6 +232,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -245,6 +246,19 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Petrakos"
+},
+{
+"firstName": "Mairi",
+"lastName": "Cowan"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -252,6 +266,10 @@
 {
 "firstName": "Christopher",
 "lastName": "Petrakos"
+},
+{
+"firstName": "Mairi",
+"lastName": "Cowan"
 }
 ],
 "isCancelled": false,
@@ -480,7 +498,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Internship in History"
 }

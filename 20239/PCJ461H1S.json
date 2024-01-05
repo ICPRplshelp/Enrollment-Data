@@ -235,6 +235,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "You",
+"lastName": "Zhang"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Paola",
-"lastName": "Salardi"
+"firstName": "You",
+"lastName": "Zhang"
 }
 ],
 "isCancelled": false,
@@ -486,7 +496,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Research Methods in Peace, Conflict and Justice"
 }

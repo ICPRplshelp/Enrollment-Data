@@ -238,9 +238,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 41,
+"time": 1704485730
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -465,7 +470,8 @@
 44,
 42,
 42,
-42
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -713,7 +719,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Management Control Systems"
 }

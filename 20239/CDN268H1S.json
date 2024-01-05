@@ -235,13 +235,29 @@
 50,
 51,
 53,
-55
+55,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Grace",
+"lastName": "Barakat"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Grace",
+"lastName": "Barakat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -471,7 +487,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Canada and Globalization"
 }

@@ -232,7 +232,8 @@
 34,
 35,
 36,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -487,7 +488,8 @@
 40,
 39,
 38,
-37
+37,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -742,6 +744,7 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -755,6 +758,19 @@
 }
 ],
 "timing": 1687373733
+},
+{
+"instructorsAfter": [
+{
+"firstName": "CLAIRE",
+"lastName": "GREENSHAW"
+},
+{
+"firstName": "CHELSEA",
+"lastName": "BRANT"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -762,6 +778,10 @@
 {
 "firstName": "CLAIRE",
 "lastName": "GREENSHAW"
+},
+{
+"firstName": "CHELSEA",
+"lastName": "BRANT"
 }
 ],
 "isCancelled": false,
@@ -997,6 +1017,7 @@
 34,
 37,
 36,
+37,
 37
 ],
 "instructorLog": {
@@ -1023,6 +1044,19 @@
 }
 ],
 "timing": 1689640777
+},
+{
+"instructorsAfter": [
+{
+"firstName": "RHONDA",
+"lastName": "WEPPLER"
+},
+{
+"firstName": "CHELSEA",
+"lastName": "BRANT"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -1030,6 +1064,10 @@
 {
 "firstName": "RHONDA",
 "lastName": "WEPPLER"
+},
+{
+"firstName": "CHELSEA",
+"lastName": "BRANT"
 }
 ],
 "isCancelled": false,
@@ -1258,7 +1296,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Drawing I"
 }

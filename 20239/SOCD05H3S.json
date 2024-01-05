@@ -232,7 +232,8 @@
 20,
 20,
 20,
-20
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Doherty"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Joseph",
-"lastName": "Hermer"
+"firstName": "Jason",
+"lastName": "Doherty"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Advanced Seminar in Criminology and Sociology of Law"
 }

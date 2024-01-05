@@ -235,7 +235,8 @@
 36,
 37,
 35,
-35
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1688577945
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ramya",
+"lastName": "Janandharan"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Larissa",
-"lastName": "Lai"
+"firstName": "Ramya",
+"lastName": "Janandharan"
 }
 ],
 "isCancelled": false,
@@ -486,7 +496,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Canadian Pluralism"
 }

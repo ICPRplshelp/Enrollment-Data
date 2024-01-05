@@ -237,7 +237,8 @@
 29,
 29,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -259,13 +260,22 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pablo",
+"lastName": "Galvez Hernandez"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "PABLO",
-"lastName": "HERNANDEZ (NOUTORID)"
+"firstName": "Pablo",
+"lastName": "Galvez Hernandez"
 }
 ],
 "isCancelled": false,
@@ -494,7 +504,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Comparative Health Policy Systems"
 }

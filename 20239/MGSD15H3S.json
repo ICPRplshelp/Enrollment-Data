@@ -5,9 +5,14 @@
 {
 "createdAt": 1687464881,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 34,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 34,
+"time": 1704485730
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -212,6 +217,7 @@
 34,
 33,
 33,
+34,
 34,
 34,
 34,
@@ -452,7 +458,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Managing in the Information Economy"
 }

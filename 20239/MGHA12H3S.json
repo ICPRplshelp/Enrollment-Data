@@ -237,7 +237,8 @@
 74,
 72,
 73,
-72
+72,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,7 +498,8 @@
 80,
 79,
 79,
-79
+79,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -757,7 +759,8 @@
 76,
 75,
 76,
-77
+77,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1017,7 +1020,8 @@
 78,
 75,
 76,
-75
+75,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1286,6 +1290,7 @@
 73,
 71,
 71,
+71,
 71
 ],
 "instructorLog": {
@@ -1323,9 +1328,14 @@
 {
 "createdAt": 1692120475,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1704485730
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -1550,7 +1560,8 @@
 66,
 64,
 65,
-65
+65,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2035,7 +2046,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Human Resource Management"
 }

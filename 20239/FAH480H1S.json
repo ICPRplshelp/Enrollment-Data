@@ -235,6 +235,7 @@
 14,
 15,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -493,13 +494,29 @@
 5,
 5,
 5,
-6
+6,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emma",
+"lastName": "Landis"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emma",
+"lastName": "Landis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -729,7 +746,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Special Topics in the History of Art and Architecture"
 }

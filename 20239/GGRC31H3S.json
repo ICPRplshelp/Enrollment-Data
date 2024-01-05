@@ -232,6 +232,7 @@
 44,
 43,
 43,
+44,
 44
 ],
 "instructorLog": {
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Xing",
+"lastName": "Su"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hulya",
-"lastName": "Arik"
+"firstName": "Xing",
+"lastName": "Su"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Qualitative Geographical Methods: Place and Ethnography"
 }

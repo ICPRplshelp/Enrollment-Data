@@ -14,13 +14,29 @@
 0,
 1,
 1,
-1
+1,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeannie",
+"lastName": "Miller"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeannie",
+"lastName": "Miller"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -29,7 +45,8 @@
 1703274496,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Love, Battle, and Wit: Classics of Premodern_Arabic Literature"
 }

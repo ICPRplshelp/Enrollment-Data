@@ -235,6 +235,7 @@
 33,
 32,
 33,
+33,
 33
 ],
 "instructorLog": {
@@ -256,6 +257,23 @@
 }
 ],
 "timing": 1691694293
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Kim"
+},
+{
+"firstName": "Spencer",
+"lastName": "Freeman"
+},
+{
+"firstName": "Hyun",
+"lastName": "Lee"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -269,8 +287,8 @@
 "lastName": "Freeman"
 },
 {
-"firstName": "David",
-"lastName": "Andrews"
+"firstName": "Hyun",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -502,7 +520,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Organelles in Cell Function and Death"
 }

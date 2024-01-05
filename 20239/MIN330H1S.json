@@ -232,6 +232,7 @@
 16,
 16,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -245,6 +246,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michel",
+"lastName": "Julien"
+},
+{
+"firstName": "Ryan",
+"lastName": "Van Engen"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -252,6 +266,10 @@
 {
 "firstName": "Michel",
 "lastName": "Julien"
+},
+{
+"firstName": "Ryan",
+"lastName": "Van Engen"
 }
 ],
 "isCancelled": false,
@@ -480,7 +498,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "MINING ENVIRONMENTAL MGMT"
 }

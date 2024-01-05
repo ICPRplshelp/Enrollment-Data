@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1704485730
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 104,
 104,
 104,
-102
+102,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -486,7 +492,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Global Religion and Politics"
 }

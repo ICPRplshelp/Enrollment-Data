@@ -235,13 +235,29 @@
 35,
 36,
 37,
-39
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mariam",
+"lastName": "Olafuyi"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mariam",
+"lastName": "Olafuyi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -478,7 +494,8 @@
 53,
 51,
 51,
-51
+51,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -741,7 +758,8 @@
 63,
 61,
 61,
-62
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -992,7 +1010,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Legal Environment of Business I"
 }

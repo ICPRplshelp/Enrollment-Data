@@ -232,7 +232,8 @@
 59,
 59,
 59,
-60
+60,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -249,17 +250,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vince",
+"lastName": "Arone"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Yuri",
-"lastName": "Lawryshyn"
-},
-{
-"firstName": "Nicole",
-"lastName": "Weckman"
+"firstName": "Vince",
+"lastName": "Arone"
 }
 ],
 "isCancelled": false,
@@ -488,7 +494,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Entrepreneurship and Business for Engineers"
 }

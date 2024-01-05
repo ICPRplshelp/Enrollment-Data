@@ -235,13 +235,29 @@
 82,
 86,
 86,
-85
+85,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Tam"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Tam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -471,7 +487,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "The Politics of Gender and Health"
 }

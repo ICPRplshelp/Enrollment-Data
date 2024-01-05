@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1704485730
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 46,
 47,
 47,
-46
+46,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -486,7 +492,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Comparative Plant Morphology"
 }

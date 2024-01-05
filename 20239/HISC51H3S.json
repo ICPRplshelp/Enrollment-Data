@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1702618482
+},
+{
+"newCapacity": 19,
+"time": 1704485730
 }
 ],
 "initialCap": 25
@@ -237,7 +241,8 @@
 18,
 18,
 19,
-19
+19,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "From Opium to Maximum City: Narrating Political Economy in China and India"
 }

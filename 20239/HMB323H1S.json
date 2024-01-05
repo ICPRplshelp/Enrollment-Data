@@ -240,13 +240,29 @@
 64,
 66,
 66,
-64
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammad Nazmus",
+"lastName": "Sakib"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammad Nazmus",
+"lastName": "Sakib"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -476,7 +492,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Global Health Research"
 }

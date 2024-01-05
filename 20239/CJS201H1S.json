@@ -233,13 +233,29 @@
 45,
 45,
 44,
-45
+45,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -467,7 +483,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Introduction to Jewish Culture"
 }

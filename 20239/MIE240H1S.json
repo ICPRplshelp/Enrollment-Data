@@ -241,6 +241,7 @@
 113,
 113,
 113,
+113,
 113
 ],
 "instructorLog": {
@@ -254,13 +255,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Greg",
+"lastName": "Jamieson"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Myrtede",
-"lastName": "Alfred"
+"firstName": "Greg",
+"lastName": "Jamieson"
 }
 ],
 "isCancelled": false,
@@ -489,7 +499,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Human Factors Engineering"
 }

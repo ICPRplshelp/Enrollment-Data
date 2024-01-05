@@ -218,7 +218,8 @@
 57,
 56,
 57,
-57
+57,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,13 +232,22 @@
 }
 ],
 "timing": 1687464880
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Trisha",
+"lastName": "Mahtani"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Aarthi",
-"lastName": "Ashok"
+"firstName": "Trisha",
+"lastName": "Mahtani"
 }
 ],
 "isCancelled": false,
@@ -452,7 +462,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Cell Biology: Proteins from Life to Death"
 }

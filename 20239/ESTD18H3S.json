@@ -232,6 +232,7 @@
 31,
 28,
 28,
+29,
 29
 ],
 "instructorLog": {
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Klenk"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "James",
-"lastName": "MacLellan"
+"firstName": "Nicole",
+"lastName": "Klenk"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Environmental Studies Seminar Series"
 }

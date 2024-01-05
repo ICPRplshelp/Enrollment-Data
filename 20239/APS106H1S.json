@@ -253,6 +253,7 @@
 307,
 306,
 306,
+305,
 305
 ],
 "instructorLog": {
@@ -306,7 +307,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 115,
+"enrollmentCap": 116,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -340,6 +341,10 @@
 {
 "newCapacity": 115,
 "time": 1704138100
+},
+{
+"newCapacity": 116,
+"time": 1704485730
 }
 ],
 "initialCap": 110
@@ -566,6 +571,7 @@
 110,
 114,
 114,
+115,
 115
 ],
 "instructorLog": {
@@ -603,7 +609,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -633,6 +639,10 @@
 {
 "newCapacity": 120,
 "time": 1702856475
+},
+{
+"newCapacity": 117,
+"time": 1704485730
 }
 ],
 "initialCap": 110
@@ -859,7 +869,8 @@
 112,
 112,
 112,
-112
+112,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1120,7 +1131,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Fundamentals of Computer Programming"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1704485730
+}
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 28,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,7 +486,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Analytical Instrumentation"
 }

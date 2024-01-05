@@ -235,13 +235,29 @@
 45,
 45,
 45,
-45
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -471,7 +487,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Caribbean Foodways Across History, Culture and Diaspora"
 }

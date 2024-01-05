@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1704485730
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 46,
 47,
 47,
-48
+48,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,7 +486,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Corporate Strategy"
 }

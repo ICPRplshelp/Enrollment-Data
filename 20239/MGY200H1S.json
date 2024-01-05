@@ -235,7 +235,8 @@
 128,
 130,
 129,
-129
+129,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,16 +275,16 @@
 },
 "instructors": [
 {
+"firstName": "Xi",
+"lastName": "Huang"
+},
+{
 "firstName": "Peter John",
 "lastName": "Roy"
 },
 {
 "firstName": "Jessica",
 "lastName": "Hill"
-},
-{
-"firstName": "Xi",
-"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -515,7 +516,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "An Introduction to Molecular Genetics and Microbiology"
 }

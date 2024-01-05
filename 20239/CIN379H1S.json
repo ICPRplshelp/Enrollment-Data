@@ -235,13 +235,29 @@
 26,
 27,
 27,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tamas",
+"lastName": "Nagypal"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tamas",
+"lastName": "Nagypal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -471,7 +487,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Hungarian Cinema"
 }

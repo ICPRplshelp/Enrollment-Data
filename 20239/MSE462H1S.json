@@ -217,13 +217,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zheng-Hong",
+"lastName": "Lu"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zheng-Hong",
+"lastName": "Lu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -435,7 +451,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Materials Physics II"
 }

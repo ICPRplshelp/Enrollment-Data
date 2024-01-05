@@ -232,7 +232,8 @@
 60,
 60,
 60,
-61
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1688059451
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dina",
+"lastName": "Fergani"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nada",
-"lastName": "Khalifa"
+"firstName": "Dina",
+"lastName": "Fergani"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "The Making of the Modern Middle East: Islamic History 1300-2000"
 }

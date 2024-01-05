@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1704485730
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -235,6 +240,7 @@
 55,
 57,
 58,
+56,
 56
 ],
 "instructorLog": {
@@ -486,7 +492,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Management Control"
 }

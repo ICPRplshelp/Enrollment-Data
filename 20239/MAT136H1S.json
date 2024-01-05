@@ -235,7 +235,8 @@
 246,
 238,
 237,
-237
+237,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,13 +494,29 @@
 229,
 228,
 228,
-224
+224,
+217
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dimitrios",
+"lastName": "Karslidis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -736,7 +753,8 @@
 184,
 180,
 179,
-178
+178,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -994,7 +1012,8 @@
 236,
 236,
 236,
-237
+237,
+235
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1252,7 +1271,8 @@
 213,
 211,
 208,
-209
+209,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1510,7 +1530,8 @@
 201,
 203,
 199,
-196
+196,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1768,7 +1789,8 @@
 110,
 107,
 108,
-108
+108,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2026,7 +2048,8 @@
 59,
 59,
 58,
-60
+60,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2284,7 +2307,8 @@
 241,
 241,
 240,
-239
+239,
+229
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2542,7 +2566,8 @@
 137,
 132,
 130,
-127
+127,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2800,7 +2825,8 @@
 46,
 43,
 43,
-42
+42,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3063,7 +3089,8 @@
 244,
 248,
 252,
-253
+253,
+242
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3339,7 +3366,8 @@
 135,
 130,
 132,
-130
+130,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3608,7 +3636,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Calculus II"
 }

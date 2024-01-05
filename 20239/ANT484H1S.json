@@ -235,7 +235,8 @@
 19,
 19,
 19,
-19
+19,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1687464880
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander Michael",
+"lastName": "Wolff"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Meredith",
-"lastName": "Evans"
+"firstName": "Alexander Michael",
+"lastName": "Wolff"
 }
 ],
 "isCancelled": false,
@@ -486,7 +496,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Special Topics in Social Cultural Anthropology"
 }

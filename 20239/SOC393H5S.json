@@ -1,0 +1,46 @@
+{
+"code": "SOC393H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1704485730,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Philip",
+"lastName": "Goodman"
+}
+],
+"timing": 1704485730
+}
+]
+},
+"instructors": [
+{
+"firstName": "Philip",
+"lastName": "Goodman"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1704485729,
+1704485730
+],
+"title": "Independent Research in Criminology, Law and Society"
+}

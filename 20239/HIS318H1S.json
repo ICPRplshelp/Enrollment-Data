@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 82,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1702022724
+},
+{
+"newCapacity": 82,
+"time": 1704485730
 }
 ],
 "initialCap": 60
@@ -240,7 +244,8 @@
 74,
 78,
 80,
-81
+81,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,7 +496,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "\"Histories of the \"Wild\" West\""
 }

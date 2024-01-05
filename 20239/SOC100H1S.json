@@ -235,7 +235,8 @@
 39,
 39,
 38,
-37
+37,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,9 +264,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 770,
+"enrollmentCap": 805,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 805,
+"time": 1704485730
+}
+],
 "initialCap": 770
 },
 "enrollmentLogs": [
@@ -493,7 +499,8 @@
 779,
 790,
 791,
-790
+790,
+803
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -744,7 +751,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Introduction to Sociology"
 }

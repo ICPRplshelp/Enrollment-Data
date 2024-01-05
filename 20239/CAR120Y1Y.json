@@ -235,13 +235,37 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anil",
+"lastName": "Persaud"
 },
-"instructors": [],
+{
+"firstName": "Kevin",
+"lastName": "Edmonds"
+}
+],
+"timing": 1704485730
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anil",
+"lastName": "Persaud"
+},
+{
+"firstName": "Kevin",
+"lastName": "Edmonds"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -412,6 +436,7 @@
 4,
 4,
 4,
+5,
 5,
 5,
 5,
@@ -714,7 +739,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Introduction to Caribbean Studies"
 }

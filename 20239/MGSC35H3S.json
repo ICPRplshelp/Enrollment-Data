@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 33,
+"time": 1704485730
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -232,7 +237,8 @@
 39,
 40,
 40,
-39
+39,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -480,7 +486,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Innovation"
 }

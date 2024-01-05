@@ -232,6 +232,7 @@
 20,
 20,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -245,6 +246,19 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Klenk"
+},
+{
+"firstName": "Erin",
+"lastName": "Webster"
+}
+],
+"timing": 1704485730
 }
 ]
 },
@@ -252,6 +266,10 @@
 {
 "firstName": "Nicole",
 "lastName": "Klenk"
+},
+{
+"firstName": "Erin",
+"lastName": "Webster"
 }
 ],
 "isCancelled": false,
@@ -480,7 +498,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Land"
 }

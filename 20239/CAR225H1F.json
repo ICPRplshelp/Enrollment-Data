@@ -235,13 +235,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pablo Demetrio",
+"lastName": "Herrera Veitia"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pablo Demetrio",
+"lastName": "Herrera Veitia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -471,7 +487,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Caribbean Societies"
 }

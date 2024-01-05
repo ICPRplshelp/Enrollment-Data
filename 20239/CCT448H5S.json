@@ -232,7 +232,8 @@
 24,
 23,
 23,
-23
+23,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1691091680
+},
+{
+"instructorsAfter": [
+{
+"firstName": "PAM",
+"lastName": "SHAW"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "JASON",
-"lastName": "MACISSAC"
+"firstName": "PAM",
+"lastName": "SHAW"
 }
 ],
 "isCancelled": false,
@@ -480,7 +490,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Game Design as Problem Solving (SH)"
 }

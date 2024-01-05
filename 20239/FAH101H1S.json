@@ -235,7 +235,8 @@
 410,
 415,
 416,
-422
+422,
+427
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,13 +249,22 @@
 }
 ],
 "timing": 1686620482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Edward",
+"lastName": "Bacal"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Prabhjeet",
-"lastName": "Johal"
+"firstName": "Edward",
+"lastName": "Bacal"
 }
 ],
 "isCancelled": false,
@@ -486,7 +496,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Monuments of Art History"
 }

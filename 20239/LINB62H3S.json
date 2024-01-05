@@ -232,7 +232,8 @@
 54,
 48,
 45,
-40
+40,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +246,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "MARIO",
-"lastName": "PIZZACALLA (NOUTORID)"
+"firstName": "Mario",
+"lastName": "Pizzacalla"
 }
 ],
 "isCancelled": false,
@@ -487,7 +497,8 @@
 0,
 8,
 11,
-16
+16,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -500,13 +511,22 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Mario",
-"lastName": "Pizzacalla (NOUTORID)"
+"lastName": "Pizzacalla"
 }
 ],
 "isCancelled": false,
@@ -735,7 +755,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Structure of American Sign Language"
 }

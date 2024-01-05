@@ -33,13 +33,29 @@
 24,
 27,
 28,
-30
+30,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dylan",
+"lastName": "Clark"
+}
+],
+"timing": 1704485730
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dylan",
+"lastName": "Clark"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -67,7 +83,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Asian Sites, Global Questions, Part 1"
 }

@@ -232,6 +232,7 @@
 52,
 52,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -249,17 +250,22 @@
 }
 ],
 "timing": 1686549020
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michel",
+"lastName": "Hache"
+}
+],
+"timing": 1704485730
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Doug",
-"lastName": "Perovic"
-},
-{
-"firstName": "Scott",
-"lastName": "Ramsay"
+"firstName": "Michel",
+"lastName": "Hache"
 }
 ],
 "isCancelled": false,
@@ -488,7 +494,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Materials Manufac. & Design II"
 }

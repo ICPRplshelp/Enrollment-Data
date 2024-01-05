@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1704485730
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 50,
 46,
 46,
-46
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -572,7 +578,8 @@
 1702856475,
 1703274497,
 1703654346,
-1704138100
+1704138100,
+1704485730
 ],
 "title": "Advanced Physics Laboratory"
 }
