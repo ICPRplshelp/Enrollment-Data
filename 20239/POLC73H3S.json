@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1704787376
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -232,6 +237,7 @@
 60,
 61,
 62,
+63,
 63,
 63
 ],
@@ -482,7 +488,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Modern Political Theory"
 }

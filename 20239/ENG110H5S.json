@@ -113,7 +113,8 @@
 108,
 108,
 110,
-107
+107,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,13 +127,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Brent",
+"lastName": "Wood"
+}
+],
+"timing": 1704787376
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chester Norman",
-"lastName": "Scoville"
+"firstName": "Brent",
+"lastName": "Wood"
 }
 ],
 "isCancelled": false,
@@ -242,7 +252,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Narrative"
 }

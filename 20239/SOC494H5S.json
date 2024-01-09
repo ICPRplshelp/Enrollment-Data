@@ -5,9 +5,14 @@
 {
 "createdAt": 1689624010,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1704787376
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -164,6 +169,7 @@
 2,
 2,
 2,
+5,
 5
 ],
 "instructorLog": {
@@ -344,7 +350,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Independent Research in Criminology, Law and Society"
 }

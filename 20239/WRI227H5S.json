@@ -233,13 +233,29 @@
 38,
 38,
 36,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cate",
+"lastName": "Alexander"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cate",
+"lastName": "Alexander"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -474,13 +490,29 @@
 25,
 25,
 25,
-26
+26,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cate",
+"lastName": "Alexander"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cate",
+"lastName": "Alexander"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -708,7 +740,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Social Media and Content Creation"
 }

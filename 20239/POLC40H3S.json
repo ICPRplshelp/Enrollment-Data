@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 66,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 66,
 "time": 1702618482
+},
+{
+"newCapacity": 70,
+"time": 1704787376
 }
 ],
 "initialCap": 60
@@ -242,7 +246,8 @@
 68,
 66,
 66,
-69
+69,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,7 +496,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Current Topics in Politics"
 }

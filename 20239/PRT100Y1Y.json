@@ -236,6 +236,7 @@
 20,
 20,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -249,6 +250,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vanessa",
+"lastName": "Melo"
+},
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
+}
+],
+"timing": 1704787376
 }
 ]
 },
@@ -256,6 +270,10 @@
 {
 "firstName": "Vanessa",
 "lastName": "Melo"
+},
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
 }
 ],
 "isCancelled": false,
@@ -488,7 +506,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Portuguese for Beginners"
 }

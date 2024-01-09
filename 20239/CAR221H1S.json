@@ -107,13 +107,29 @@
 8,
 8,
 10,
-9
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lee",
+"lastName": "L'Clerc"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lee",
+"lastName": "L'Clerc"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -210,7 +226,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Comparative Caribbean Literature and Visual Culture"
 }

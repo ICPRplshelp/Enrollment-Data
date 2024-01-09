@@ -233,7 +233,8 @@
 128,
 127,
 133,
-137
+137,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,7 +490,8 @@
 133,
 132,
 133,
-137
+137,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,9 +519,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 130,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1704787376
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -745,7 +752,8 @@
 124,
 130,
 134,
-141
+141,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1001,6 +1009,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1029,9 +1038,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 130,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1704787376
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -1257,7 +1271,8 @@
 126,
 130,
 130,
-139
+139,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1506,7 +1521,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Linear Algebra I"
 }

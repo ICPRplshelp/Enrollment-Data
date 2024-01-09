@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 53,
+"time": 1704787376
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 62,
 63,
 64,
-64
+64,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -434,6 +440,7 @@
 4,
 4,
 4,
+3,
 3,
 3,
 3,
@@ -747,7 +754,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Geometry of Curves and Surfaces"
 }

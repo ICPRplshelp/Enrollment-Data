@@ -236,13 +236,29 @@
 3,
 2,
 2,
-2
+2,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -473,7 +489,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Business Portuguese"
 }

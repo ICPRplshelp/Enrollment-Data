@@ -245,6 +245,7 @@
 58,
 58,
 58,
+58,
 58
 ],
 "instructorLog": {
@@ -262,6 +263,23 @@
 }
 ],
 "timing": 1688493602
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Brigitte",
+"lastName": "Lavoie"
+},
+{
+"firstName": "Jessica",
+"lastName": "Hill"
+},
+{
+"firstName": "Erin",
+"lastName": "Styles"
+}
+],
+"timing": 1704787376
 }
 ]
 },
@@ -273,6 +291,10 @@
 {
 "firstName": "Jessica",
 "lastName": "Hill"
+},
+{
+"firstName": "Erin",
+"lastName": "Styles"
 }
 ],
 "isCancelled": false,
@@ -505,7 +527,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Principles of Genetic Analysis I"
 }

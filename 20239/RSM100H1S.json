@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1704787376
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 30,
 29,
 29,
-41
+41,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Introduction to Management"
 }

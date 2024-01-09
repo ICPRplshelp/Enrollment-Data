@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1704787376
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 62,
 62,
 64,
-67
+67,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Feminist Graphic Novels"
 }

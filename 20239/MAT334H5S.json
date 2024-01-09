@@ -238,6 +238,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -251,12 +252,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1687893242
+},
+{
+"newCapacity": 80,
+"time": 1704787376
 }
 ],
 "initialCap": 70
@@ -484,7 +489,8 @@
 90,
 97,
 96,
-95
+95,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -742,7 +748,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Complex Variables"
 }

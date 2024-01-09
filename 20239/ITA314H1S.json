@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 175,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 175,
 "time": 1702618482
+},
+{
+"newCapacity": 200,
+"time": 1704787376
 }
 ],
 "initialCap": 80
@@ -245,13 +249,29 @@
 181,
 185,
 196,
-200
+200,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -482,7 +502,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Italian Design: Fashion, Artistry, Genius"
 }

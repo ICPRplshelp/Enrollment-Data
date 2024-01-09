@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1704787376
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 11,
 11,
 10,
-4
+4,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -258,7 +264,7 @@
 "lastName": "Dickie"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -495,7 +501,8 @@
 14,
 14,
 14,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -754,6 +761,7 @@
 11,
 11,
 12,
+14,
 14
 ],
 "instructorLog": {
@@ -1013,7 +1021,8 @@
 10,
 10,
 10,
-10
+10,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1250,7 +1259,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Advanced Studies Seminar"
 }

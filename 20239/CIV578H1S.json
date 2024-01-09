@@ -242,6 +242,7 @@
 39,
 40,
 40,
+41,
 41
 ],
 "instructorLog": {
@@ -255,6 +256,19 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "De Rose"
+},
+{
+"firstName": "Lori L",
+"lastName": "Ponikvar"
+}
+],
+"timing": 1704787376
 }
 ]
 },
@@ -262,6 +276,10 @@
 {
 "firstName": "David",
 "lastName": "De Rose"
+},
+{
+"firstName": "Lori L",
+"lastName": "Ponikvar"
 }
 ],
 "isCancelled": false,
@@ -491,7 +509,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "DESIGN OF BUILDING ENCLOSURES"
 }

@@ -24,13 +24,29 @@
 60,
 64,
 70,
-73
+73,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Nicola"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Nicola"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -49,7 +65,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Issues in Normative Ethics"
 }

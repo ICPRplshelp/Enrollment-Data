@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 38,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 35,
 "time": 1698895683
+},
+{
+"newCapacity": 38,
+"time": 1704787376
 }
 ],
 "initialCap": 30
@@ -241,7 +245,8 @@
 39,
 39,
 40,
-39
+39,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,7 +515,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Forest Insect Ecology & Management"
 }

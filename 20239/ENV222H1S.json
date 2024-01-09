@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 275,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1704787376
+}
+],
 "initialCap": 275
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 296,
 297,
 297,
-305
+305,
+304
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Pathways to Sustainability: An Interdisciplinary Approach"
 }

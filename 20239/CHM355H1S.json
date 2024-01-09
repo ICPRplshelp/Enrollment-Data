@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 3,
+"enrollmentCap": 4,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 4,
+"time": 1704787376
+}
+],
 "initialCap": 3
 },
 "enrollmentLogs": [
@@ -236,6 +241,7 @@
 3,
 3,
 3,
+4,
 4
 ],
 "instructorLog": {
@@ -272,9 +278,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 62,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1704787376
+}
+],
 "initialCap": 62
 },
 "enrollmentLogs": [
@@ -503,7 +514,8 @@
 40,
 40,
 41,
-42
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -763,7 +775,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Introduction to Inorganic and Polymer Materials Chemistry"
 }

@@ -254,7 +254,8 @@
 306,
 306,
 305,
-305
+305,
+309
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,7 +308,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 116,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -345,6 +346,10 @@
 {
 "newCapacity": 116,
 "time": 1704485730
+},
+{
+"newCapacity": 110,
+"time": 1704787376
 }
 ],
 "initialCap": 110
@@ -572,7 +577,8 @@
 114,
 114,
 115,
-115
+115,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -870,7 +876,8 @@
 112,
 112,
 112,
-113
+113,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1132,7 +1139,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Fundamentals of Computer Programming"
 }

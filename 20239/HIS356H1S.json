@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 88,
+"enrollmentCap": 92,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 88,
 "time": 1704485730
+},
+{
+"newCapacity": 92,
+"time": 1704787376
 }
 ],
 "initialCap": 45
@@ -249,7 +253,8 @@
 86,
 88,
 89,
-90
+90,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -501,7 +506,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "War in Canadian History"
 }

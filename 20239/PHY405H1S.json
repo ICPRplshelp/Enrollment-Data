@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 52,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 52,
+"time": 1704787376
+}
+],
 "initialCap": 48
 },
 "enrollmentLogs": [
@@ -236,6 +241,7 @@
 51,
 51,
 53,
+50,
 50
 ],
 "instructorLog": {
@@ -488,7 +494,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Electronics Lab"
 }

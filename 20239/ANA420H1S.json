@@ -238,13 +238,29 @@
 28,
 28,
 28,
-31
+31,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadia",
+"lastName": "Sachewsky"
+}
+],
+"timing": 1704787376
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadia",
+"lastName": "Sachewsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -477,7 +493,8 @@
 1703274497,
 1703654346,
 1704138100,
-1704485730
+1704485730,
+1704787376
 ],
 "title": "Anatomy of the Stem Cell Niche"
 }
