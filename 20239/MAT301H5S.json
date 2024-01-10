@@ -234,7 +234,8 @@
 99,
 100,
 92,
-89
+89,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,12 +263,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1704874751
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -498,7 +505,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -726,7 +733,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Groups and Symmetries"
 }

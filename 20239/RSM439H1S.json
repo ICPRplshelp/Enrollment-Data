@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1704874751
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -237,7 +242,8 @@
 59,
 58,
 55,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,9 +271,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1704874751
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -497,7 +508,8 @@
 60,
 59,
 57,
-59
+59,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -757,7 +769,8 @@
 48,
 48,
 49,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1010,7 +1023,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Private Equity and Entrepreneurial Finance"
 }

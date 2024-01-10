@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 17,
+"time": 1704874751
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -239,7 +244,8 @@
 4,
 5,
 8,
-10
+10,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Approaches to American Studies"
 }

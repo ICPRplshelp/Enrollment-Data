@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1704874751
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -234,7 +239,8 @@
 15,
 15,
 15,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,7 +497,8 @@
 10,
 10,
 10,
-10
+10,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -670,6 +677,7 @@
 12,
 12,
 12,
+11,
 11,
 11,
 11,
@@ -998,7 +1006,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Keyboard Harmony"
 }

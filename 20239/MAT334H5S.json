@@ -5,17 +5,22 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1687893242
+},
+{
+"newCapacity": 0,
+"time": 1704874751
 }
 ],
 "initialCap": 70
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -246,7 +251,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -490,7 +495,8 @@
 97,
 96,
 95,
-91
+91,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -749,7 +755,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Complex Variables"
 }

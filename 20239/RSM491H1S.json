@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 58,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 58,
 "time": 1692120475
+},
+{
+"newCapacity": 59,
+"time": 1704874751
 }
 ],
 "initialCap": 50
@@ -242,7 +246,8 @@
 68,
 71,
 69,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -495,7 +500,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Global Capital Market Strategy"
 }

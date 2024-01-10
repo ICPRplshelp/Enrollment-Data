@@ -234,7 +234,8 @@
 127,
 133,
 137,
-130
+130,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,7 +492,8 @@
 132,
 133,
 137,
-136
+136,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -753,6 +755,7 @@
 130,
 134,
 141,
+140,
 140
 ],
 "instructorLog": {
@@ -781,12 +784,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1704874751
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1032,7 +1041,7 @@
 "lastName": "Rennet"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0104"
 },
 {
@@ -1272,7 +1281,8 @@
 130,
 130,
 139,
-136
+136,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1522,7 +1532,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Linear Algebra I"
 }

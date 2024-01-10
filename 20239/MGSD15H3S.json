@@ -225,6 +225,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -238,13 +239,22 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Eilia",
+"lastName": "Yazdanian"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "EILIA",
-"lastName": "YAZDANIAN (NOUTORID)"
+"firstName": "Eilia",
+"lastName": "Yazdanian"
 }
 ],
 "isCancelled": false,
@@ -461,7 +471,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Managing in the Information Economy"
 }

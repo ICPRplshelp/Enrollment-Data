@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 250,
+"enrollmentCap": 260,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 250,
 "time": 1704485730
+},
+{
+"newCapacity": 260,
+"time": 1704874751
 }
 ],
 "initialCap": 200
@@ -246,7 +250,8 @@
 243,
 247,
 246,
-260
+260,
+269
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -508,7 +513,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Indigenous Politics in Canada"
 }

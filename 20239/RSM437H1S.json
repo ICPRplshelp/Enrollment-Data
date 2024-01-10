@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1692120475
+},
+{
+"newCapacity": 50,
+"time": 1704874751
 }
 ],
 "initialCap": 45
@@ -242,7 +246,8 @@
 54,
 54,
 52,
-55
+55,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -270,12 +275,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1692120475
+},
+{
+"newCapacity": 50,
+"time": 1704874751
 }
 ],
 "initialCap": 45
@@ -507,7 +516,8 @@
 59,
 58,
 56,
-54
+54,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -535,12 +545,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1692120475
+},
+{
+"newCapacity": 50,
+"time": 1704874751
 }
 ],
 "initialCap": 45
@@ -772,6 +786,7 @@
 52,
 51,
 51,
+50,
 50
 ],
 "instructorLog": {
@@ -800,12 +815,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1692120475
+},
+{
+"newCapacity": 50,
+"time": 1704874751
 }
 ],
 "initialCap": 45
@@ -1037,7 +1056,8 @@
 58,
 57,
 56,
-53
+53,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1065,9 +1085,14 @@
 {
 "createdAt": 1691091680,
 "delivery": "INPER",
-"enrollmentCap": 49,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1704874751
+}
+],
 "initialCap": 49
 },
 "enrollmentLogs": [
@@ -1297,7 +1322,8 @@
 53,
 51,
 51,
-54
+54,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1325,12 +1351,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1692120475
+},
+{
+"newCapacity": 50,
+"time": 1704874751
 }
 ],
 "initialCap": 45
@@ -1562,7 +1592,8 @@
 55,
 54,
 54,
-53
+53,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1815,7 +1846,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "International Finance"
 }

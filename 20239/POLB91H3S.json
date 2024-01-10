@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1704874751
+}
+],
 "initialCap": 175
 },
 "enrollmentLogs": [
@@ -234,6 +239,7 @@
 168,
 173,
 172,
+175,
 175
 ],
 "instructorLog": {
@@ -484,7 +490,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "[No course title available]"
 }

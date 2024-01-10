@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1704874751
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -237,7 +242,8 @@
 74,
 75,
 75,
-78
+78,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -490,7 +496,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "African American History from 1865 to the Present"
 }

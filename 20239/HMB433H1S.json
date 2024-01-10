@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1704874751
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -237,7 +242,8 @@
 36,
 36,
 35,
-36
+36,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -490,7 +496,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Topics in Global Health"
 }

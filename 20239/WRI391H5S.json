@@ -234,13 +234,37 @@
 6,
 6,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
 },
-"instructors": [],
+{
+"firstName": "Beth Malaika",
+"lastName": "Coleman"
+}
+],
+"timing": 1704874751
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Maddalena"
+},
+{
+"firstName": "Beth Malaika",
+"lastName": "Coleman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -469,7 +493,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Independent Studies"
 }

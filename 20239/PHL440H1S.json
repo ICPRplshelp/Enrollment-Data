@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1704874751
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -237,6 +242,7 @@
 38,
 38,
 38,
+35,
 35
 ],
 "instructorLog": {
@@ -507,7 +513,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Clinical Bioethics"
 }

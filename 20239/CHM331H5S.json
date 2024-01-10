@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1704874751
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -234,7 +239,8 @@
 82,
 82,
 78,
-76
+76,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -484,7 +490,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Inorganic Chemistry II: Advanced Inorganic Chemistry"
 }

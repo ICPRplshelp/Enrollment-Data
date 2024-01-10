@@ -64,6 +64,7 @@
 9,
 10,
 9,
+9,
 9
 ],
 "instructorLog": {
@@ -77,13 +78,22 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Liben",
+"lastName": "Gebremikael"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Liben",
-"lastName": "Gebremikael (NOUTORID)"
+"lastName": "Gebremikael"
 }
 ],
 "isCancelled": false,
@@ -144,7 +154,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Special Topics in Health: Advanced Topics in Health and Wellness"
 }

@@ -219,7 +219,8 @@
 26,
 25,
 25,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -455,6 +456,7 @@
 21,
 23,
 26,
+25,
 25,
 25,
 25,
@@ -703,7 +705,8 @@
 17,
 17,
 19,
-22
+22,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -941,6 +944,7 @@
 22,
 24,
 24,
+25,
 25,
 25,
 25,
@@ -1187,6 +1191,7 @@
 24,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -1429,7 +1434,8 @@
 26,
 26,
 26,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1671,7 +1677,8 @@
 25,
 25,
 25,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1913,13 +1920,29 @@
 25,
 26,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zinnia",
+"lastName": "Naqvi"
+}
+],
+"timing": 1704874751
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zinnia",
+"lastName": "Naqvi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0108"
 },
@@ -2140,7 +2163,8 @@
 27,
 27,
 27,
-25
+25,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2382,7 +2406,8 @@
 27,
 27,
 26,
-26
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2623,6 +2648,7 @@
 26,
 26,
 26,
+25,
 25,
 25
 ],
@@ -2866,7 +2892,8 @@
 25,
 25,
 25,
-25
+25,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3108,6 +3135,7 @@
 25,
 27,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -3343,7 +3371,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Visual Strategies"
 }

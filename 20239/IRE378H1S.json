@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 78,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 78,
+"time": 1704874751
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -237,7 +242,8 @@
 76,
 75,
 77,
-77
+77,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -490,7 +496,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Employment Health"
 }

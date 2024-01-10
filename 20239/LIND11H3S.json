@@ -234,7 +234,8 @@
 33,
 34,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,13 +257,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Beauty",
+"lastName": "Umana"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "BEAUTY",
-"lastName": "UMANA (NOUTORID)"
+"firstName": "Beauty",
+"lastName": "Umana"
 }
 ],
 "isCancelled": false,
@@ -493,7 +503,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Advanced Sociolinguistic Theory and Method"
 }

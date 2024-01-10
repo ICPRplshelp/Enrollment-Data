@@ -239,6 +239,7 @@
 19,
 19,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -252,13 +253,22 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Thorpe"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Scott",
-"lastName": "Ramsay"
+"firstName": "Steven",
+"lastName": "Thorpe"
 }
 ],
 "isCancelled": false,
@@ -489,7 +499,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Research Thesis II"
 }

@@ -234,7 +234,8 @@
 141,
 140,
 138,
-137
+137,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -500,7 +501,8 @@
 156,
 155,
 142,
-141
+141,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -757,6 +759,7 @@
 143,
 142,
 136,
+140,
 140
 ],
 "instructorLog": {
@@ -1014,7 +1017,8 @@
 124,
 119,
 102,
-81
+81,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1271,7 +1275,8 @@
 140,
 140,
 134,
-125
+125,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1528,7 +1533,8 @@
 140,
 140,
 134,
-137
+137,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1785,7 +1791,8 @@
 140,
 140,
 138,
-140
+140,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2042,7 +2049,8 @@
 157,
 154,
 145,
-143
+143,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2299,7 +2307,8 @@
 130,
 129,
 121,
-104
+104,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2541,7 +2550,8 @@
 140,
 140,
 133,
-142
+142,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2798,6 +2808,7 @@
 140,
 139,
 136,
+140,
 140
 ],
 "instructorLog": {
@@ -2835,12 +2846,18 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1704874751
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -3071,7 +3088,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0112"
 }
 ],
@@ -3299,7 +3316,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Integral Calculus"
 }

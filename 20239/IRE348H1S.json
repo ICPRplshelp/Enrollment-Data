@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 82,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 82,
+"time": 1704874751
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -237,6 +242,7 @@
 86,
 84,
 85,
+83,
 83
 ],
 "instructorLog": {
@@ -490,7 +496,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Recruitment & Selection"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1688752277,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1704874751
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -208,6 +213,7 @@
 10,
 10,
 11,
+12,
 12
 ],
 "instructorLog": {
@@ -432,7 +438,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Advanced Topics in Religion"
 }

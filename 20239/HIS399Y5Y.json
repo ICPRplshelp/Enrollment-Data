@@ -214,6 +214,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -231,6 +232,23 @@
 }
 ],
 "timing": 1693527610
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Duncan",
+"lastName": "Hill"
+},
+{
+"firstName": "Christopher",
+"lastName": "Petrakos"
+},
+{
+"firstName": "Mairi",
+"lastName": "Cowan"
+}
+],
+"timing": 1704874751
 }
 ]
 },
@@ -242,6 +260,10 @@
 {
 "firstName": "Christopher",
 "lastName": "Petrakos"
+},
+{
+"firstName": "Mairi",
+"lastName": "Cowan"
 }
 ],
 "isCancelled": false,
@@ -452,7 +474,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Research Opportunity Program"
 }

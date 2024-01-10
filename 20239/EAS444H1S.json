@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1704874751
+}
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -236,6 +241,7 @@
 26,
 26,
 26,
+25,
 25,
 25
 ],
@@ -490,7 +496,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "The City, Body and Text in Modern Japanese Literature"
 }

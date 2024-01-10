@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1704874751
+}
+],
 "initialCap": 105
 },
 "enrollmentLogs": [
@@ -234,7 +239,8 @@
 137,
 136,
 131,
-128
+128,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -484,7 +490,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Financial Engineering"
 }

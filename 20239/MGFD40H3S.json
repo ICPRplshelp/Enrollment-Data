@@ -243,7 +243,8 @@
 37,
 36,
 35,
-22
+22,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,13 +257,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kirk",
+"lastName": "Vandezande"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "KIRK",
-"lastName": "VANDEZANDE (NOUTORID)"
+"firstName": "Kirk",
+"lastName": "Vandezande"
 }
 ],
 "isCancelled": false,
@@ -509,6 +519,7 @@
 38,
 39,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -522,13 +533,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kirk",
+"lastName": "Vandezande"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "KIRK",
-"lastName": "VANDEZANDE (NOUTORID)"
+"firstName": "Kirk",
+"lastName": "Vandezande"
 }
 ],
 "isCancelled": false,
@@ -775,7 +795,8 @@
 37,
 38,
 35,
-30
+30,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -788,13 +809,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kirk",
+"lastName": "Vandezande"
+}
+],
+"timing": 1704874751
 }
 ]
 },
 "instructors": [
 {
-"firstName": "KIRK",
-"lastName": "VANDEZANDE (NOUTORID)"
+"firstName": "Kirk",
+"lastName": "Vandezande"
 }
 ],
 "isCancelled": false,
@@ -1025,7 +1055,8 @@
 1703654346,
 1704138100,
 1704485730,
-1704787376
+1704787376,
+1704874751
 ],
 "title": "Investor Psychology and Behavioural Finance"
 }
