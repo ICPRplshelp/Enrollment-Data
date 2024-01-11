@@ -5,12 +5,16 @@
 {
 "createdAt": 1696462301,
 "delivery": "INPER",
-"enrollmentCap": 38,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 38,
 "time": 1697080581
+},
+{
+"newCapacity": 48,
+"time": 1704931495
 }
 ],
 "initialCap": 45
@@ -71,7 +75,8 @@
 40,
 42,
 45,
-44
+44,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,7 +158,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Media, Journalism and Digital Labour"
 }

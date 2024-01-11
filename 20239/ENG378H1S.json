@@ -231,13 +231,29 @@
 34,
 40,
 41,
-41
+41,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Hansen"
+}
+],
+"timing": 1704931495
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Hansen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -458,7 +474,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Special Topics"
 }

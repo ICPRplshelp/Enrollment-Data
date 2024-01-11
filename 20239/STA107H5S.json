@@ -235,7 +235,8 @@
 177,
 178,
 183,
-186
+186,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,7 +494,8 @@
 173,
 176,
 184,
-184
+184,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -751,13 +753,29 @@
 0,
 0,
 0,
-0
+0,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1704931495
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -999,7 +1017,8 @@
 213,
 213,
 214,
-219
+219,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1250,7 +1269,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "An Introduction to Probability and Modelling"
 }

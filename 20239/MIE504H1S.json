@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1702022724
+},
+{
+"newCapacity": 64,
+"time": 1704931495
 }
 ],
 "initialCap": 50
@@ -240,7 +244,8 @@
 72,
 74,
 70,
-70
+70,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -491,7 +496,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Applied Computational Fluid Dynamics"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1704931495
+}
+],
 "initialCap": 12
 },
 "enrollmentLogs": [
@@ -234,6 +239,7 @@
 9,
 9,
 9,
+10,
 10,
 10
 ],
@@ -486,7 +492,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Media Ethics"
 }

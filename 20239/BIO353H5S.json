@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1704931495
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -234,6 +239,7 @@
 9,
 9,
 10,
+7,
 7,
 7
 ],
@@ -486,7 +492,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Plant Development"
 }

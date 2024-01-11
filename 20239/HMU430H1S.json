@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1704931495
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -235,7 +240,8 @@
 15,
 15,
 14,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -486,7 +492,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Topics - Classical Music"
 }

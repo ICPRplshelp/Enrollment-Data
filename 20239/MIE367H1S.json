@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 31,
+"time": 1704931495
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -234,6 +239,7 @@
 27,
 28,
 29,
+31,
 31,
 31
 ],
@@ -486,7 +492,8 @@
 1704138100,
 1704485730,
 1704787376,
-1704874751
+1704874751,
+1704931495
 ],
 "title": "Cases in Operations Research"
 }
