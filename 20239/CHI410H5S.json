@@ -236,6 +236,7 @@
 18,
 17,
 18,
+19,
 19
 ],
 "instructorLog": {
@@ -264,12 +265,18 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1705117414
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -502,7 +509,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -732,7 +739,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Modern Chinese Literature Studies"
 }

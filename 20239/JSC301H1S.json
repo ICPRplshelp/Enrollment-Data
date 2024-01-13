@@ -239,7 +239,8 @@
 13,
 16,
 16,
-16
+16,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,6 +257,19 @@
 }
 ],
 "timing": 1689265858
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carl-Georg",
+"lastName": "Bank"
+},
+{
+"firstName": "David",
+"lastName": "Stone"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -265,7 +279,7 @@
 "lastName": "Bank"
 },
 {
-"firstName": "David Charles",
+"firstName": "David",
 "lastName": "Stone"
 }
 ],
@@ -502,7 +516,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Principles and Practices in Science Education"
 }

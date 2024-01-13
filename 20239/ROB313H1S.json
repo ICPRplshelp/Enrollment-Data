@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1705117414
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 59,
 59,
 59,
-59
+59,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "INTRO TO LEARNING FROM DATA"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 480,
+"enrollmentCap": 488,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 488,
+"time": 1705117414
+}
+],
 "initialCap": 480
 },
 "enrollmentLogs": [
@@ -221,7 +226,8 @@
 706,
 691,
 690,
-686
+686,
+677
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -458,7 +464,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Technologies of Architecture, Landscape, Urbanism, and Art I"
 }

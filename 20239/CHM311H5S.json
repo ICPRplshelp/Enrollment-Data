@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 140,
 "time": 1698343983
+},
+{
+"newCapacity": 150,
+"time": 1705117414
 }
 ],
 "initialCap": 120
@@ -241,6 +245,7 @@
 151,
 149,
 146,
+147,
 147
 ],
 "instructorLog": {
@@ -493,7 +498,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Instrumental Analytical Chemistry"
 }

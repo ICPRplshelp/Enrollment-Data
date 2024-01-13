@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 70,
 "time": 1689016776
+},
+{
+"newCapacity": 90,
+"time": 1705117414
 }
 ],
 "initialCap": 70
@@ -245,7 +249,8 @@
 47,
 48,
 52,
-62
+62,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,7 +502,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Calculus I"
 }

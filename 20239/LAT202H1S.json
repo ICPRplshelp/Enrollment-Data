@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1705117414
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -230,6 +235,7 @@
 17,
 17,
 17,
+16,
 16,
 16,
 16,
@@ -494,7 +500,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Intermediate Latin II"
 }

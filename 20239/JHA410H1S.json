@@ -239,7 +239,8 @@
 163,
 158,
 158,
-157
+157,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,6 +253,19 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Katharine",
+"lastName": "Dunlop"
+},
+{
+"firstName": "Julie Jeannine",
+"lastName": "Ottoy"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -259,6 +273,10 @@
 {
 "firstName": "Katharine",
 "lastName": "Dunlop"
+},
+{
+"firstName": "Julie Jeannine",
+"lastName": "Ottoy"
 }
 ],
 "isCancelled": false,
@@ -494,7 +512,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Clinical Neuroimaging"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 22,
 "time": 1689012607
+},
+{
+"newCapacity": 23,
+"time": 1705117414
 }
 ],
 "initialCap": 20
@@ -232,6 +236,7 @@
 22,
 22,
 21,
+22,
 22,
 22,
 22,
@@ -493,7 +498,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Introduction to Music Therapy"
 }

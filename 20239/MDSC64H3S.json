@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1700104371
+},
+{
+"newCapacity": 70,
+"time": 1705117414
 }
 ],
 "initialCap": 45
@@ -240,6 +244,7 @@
 65,
 65,
 69,
+70,
 70,
 70
 ],
@@ -493,7 +498,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Media and Technology"
 }

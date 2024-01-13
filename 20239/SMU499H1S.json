@@ -1,0 +1,31 @@
+{
+"code": "SMU499H1S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1705117414,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1705117413,
+1705117414
+],
+"title": "Independent Study"
+}

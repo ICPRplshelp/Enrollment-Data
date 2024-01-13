@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 60,
 "time": 1692120475
+},
+{
+"newCapacity": 95,
+"time": 1705117414
 }
 ],
 "initialCap": 45
@@ -245,7 +249,8 @@
 92,
 92,
 92,
-93
+93,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,7 +502,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Media, Identities and Politics"
 }

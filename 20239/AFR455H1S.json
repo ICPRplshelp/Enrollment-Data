@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 27,
+"time": 1705117414
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 26,
 27,
 27,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -498,7 +504,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Conflicts, Negotiations and Peacebuilding in Africa"
 }

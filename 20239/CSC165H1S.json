@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 190,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -244,7 +248,8 @@
 314,
 293,
 292,
-286
+286,
+271
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,12 +277,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 190,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -511,7 +520,8 @@
 300,
 284,
 283,
-280
+280,
+265
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -539,12 +549,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 190,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -778,7 +792,8 @@
 304,
 289,
 291,
-289
+289,
+279
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -806,12 +821,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 190,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -1045,7 +1064,8 @@
 313,
 297,
 296,
-291
+291,
+269
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1300,7 +1320,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Mathematical Expression and Reasoning for Computer Science"
 }

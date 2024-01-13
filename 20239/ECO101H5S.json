@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1705117414
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 328,
 361,
 372,
-368
+368,
+373
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Principles of Microeconomics"
 }

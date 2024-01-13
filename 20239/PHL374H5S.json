@@ -5,9 +5,14 @@
 {
 "createdAt": 1700218698,
 "delivery": "ASYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1705117414
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -27,7 +32,8 @@
 73,
 81,
 83,
-83
+83,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -70,7 +76,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Issues in Normative Ethics"
 }

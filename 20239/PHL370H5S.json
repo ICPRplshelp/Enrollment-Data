@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1705117414
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -236,6 +241,7 @@
 70,
 73,
 75,
+69,
 69
 ],
 "instructorLog": {
@@ -488,7 +494,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Issues in Philosophy of Law"
 }

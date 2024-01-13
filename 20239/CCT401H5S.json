@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1705117414
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -234,6 +239,7 @@
 34,
 34,
 34,
+33,
 33,
 33,
 33
@@ -488,7 +494,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Advanced Thesis Course"
 }

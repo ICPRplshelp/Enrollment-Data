@@ -239,6 +239,7 @@
 42,
 37,
 39,
+38,
 38
 ],
 "instructorLog": {
@@ -265,6 +266,23 @@
 }
 ],
 "timing": 1687305253
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Evans"
+},
+{
+"firstName": "Gerardo",
+"lastName": "Deiuliis"
+},
+{
+"firstName": "Kevin",
+"lastName": "Seymour"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -276,6 +294,10 @@
 {
 "firstName": "Gerardo",
 "lastName": "Deiuliis"
+},
+{
+"firstName": "Kevin",
+"lastName": "Seymour"
 }
 ],
 "isCancelled": false,
@@ -511,7 +533,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Vertebrate Paleontology: Major Transitions in Vertebrate History"
 }

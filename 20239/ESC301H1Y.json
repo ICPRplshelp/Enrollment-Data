@@ -236,6 +236,7 @@
 251,
 251,
 251,
+251,
 251
 ],
 "instructorLog": {
@@ -262,6 +263,15 @@
 }
 ],
 "timing": 1700710710
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -269,10 +279,6 @@
 {
 "firstName": "Morgan",
 "lastName": "Hooper"
-},
-{
-"firstName": "Alis",
-"lastName": "Ekmekci"
 }
 ],
 "isCancelled": false,
@@ -505,7 +511,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Engineering Science Option Seminar"
 }

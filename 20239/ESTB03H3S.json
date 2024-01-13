@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1705117414
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 21,
 20,
 19,
-18
+18,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,7 +511,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Land"
 }

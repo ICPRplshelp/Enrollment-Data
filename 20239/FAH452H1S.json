@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1705117414
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -239,7 +244,8 @@
 18,
 19,
 18,
-16
+16,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Contemporary Indigenous Art in Canada & the United States"
 }

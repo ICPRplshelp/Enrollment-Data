@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1705117414
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -238,6 +243,7 @@
 63,
 62,
 60,
+56,
 56,
 56
 ],
@@ -494,7 +500,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Art and Archaeology of Early China"
 }

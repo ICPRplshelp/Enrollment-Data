@@ -239,7 +239,8 @@
 37,
 36,
 36,
-36
+36,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -501,6 +502,7 @@
 38,
 37,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -760,6 +762,7 @@
 46,
 45,
 45,
+43,
 43,
 43,
 43,
@@ -1030,6 +1033,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -1292,7 +1296,8 @@
 44,
 42,
 41,
-41
+41,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1320,12 +1325,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 36,
+"enrollmentCap": 38,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 36,
 "time": 1704931495
+},
+{
+"newCapacity": 38,
+"time": 1705117414
 }
 ],
 "initialCap": 50
@@ -1559,7 +1568,8 @@
 38,
 36,
 36,
-36
+36,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1814,7 +1824,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Modern Standard Japanese I"
 }

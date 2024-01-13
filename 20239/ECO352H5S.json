@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1698343983
+},
+{
+"newCapacity": 65,
+"time": 1705117414
 }
 ],
 "initialCap": 50
@@ -241,7 +245,8 @@
 72,
 72,
 73,
-69
+69,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -493,7 +498,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Special Topics in Economics"
 }

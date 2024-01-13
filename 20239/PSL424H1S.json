@@ -239,7 +239,8 @@
 37,
 37,
 34,
-33
+33,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -264,6 +265,27 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Denise",
+"lastName": "Belsham"
+},
+{
+"firstName": "Michael",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Caroline",
+"lastName": "Kramer"
+},
+{
+"firstName": "Cynthia Theresa",
+"lastName": "Luk"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -281,8 +303,8 @@
 "lastName": "Kramer"
 },
 {
-"firstName": "Margaret",
-"lastName": "Hahn"
+"firstName": "Cynthia Theresa",
+"lastName": "Luk"
 }
 ],
 "isCancelled": false,
@@ -518,7 +540,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Cellular and Molecular Basis of Endocrine Disorders"
 }

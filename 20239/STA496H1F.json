@@ -239,6 +239,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -272,6 +273,39 @@
 }
 ],
 "timing": 1694137428
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Taback"
+},
+{
+"firstName": "Jessica",
+"lastName": "Gronsbell"
+},
+{
+"firstName": "Scott",
+"lastName": "Schwartz"
+},
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+},
+{
+"firstName": "Luis",
+"lastName": "Seco"
+},
+{
+"firstName": "Dehan",
+"lastName": "Kong"
+},
+{
+"firstName": "Meredith",
+"lastName": "Franklin"
+}
+],
+"timing": 1705117414
 }
 ]
 },
@@ -283,6 +317,10 @@
 {
 "firstName": "Jessica",
 "lastName": "Gronsbell"
+},
+{
+"firstName": "Scott",
+"lastName": "Schwartz"
 },
 {
 "firstName": "Joshua",
@@ -534,7 +572,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Readings in Statistics"
 }

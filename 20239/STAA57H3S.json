@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1705117414
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -236,7 +241,8 @@
 149,
 139,
 133,
-128
+128,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -488,7 +494,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Introduction to Data Science"
 }

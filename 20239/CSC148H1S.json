@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 191,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 191,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -244,7 +248,8 @@
 201,
 195,
 194,
-192
+192,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,12 +277,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 191,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 191,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -511,7 +520,8 @@
 200,
 193,
 193,
-193
+193,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -539,12 +549,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 191,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 191,
 "time": 1688672198
+},
+{
+"newCapacity": 196,
+"time": 1705117414
 }
 ],
 "initialCap": 196
@@ -778,7 +792,8 @@
 195,
 191,
 191,
-191
+191,
+194
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -806,12 +821,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 229,
+"enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 229,
 "time": 1688672198
+},
+{
+"newCapacity": 234,
+"time": 1705117414
 }
 ],
 "initialCap": 234
@@ -1045,7 +1064,8 @@
 229,
 229,
 225,
-223
+223,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1073,12 +1093,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 229,
+"enrollmentCap": 234,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 229,
 "time": 1688672198
+},
+{
+"newCapacity": 234,
+"time": 1705117414
 }
 ],
 "initialCap": 234
@@ -1312,7 +1336,8 @@
 229,
 228,
 221,
-217
+217,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1574,6 +1599,7 @@
 201,
 197,
 196,
+197,
 197
 ],
 "instructorLog": {
@@ -1829,7 +1855,8 @@
 1704485730,
 1704787376,
 1704874751,
-1704931495
+1704931495,
+1705117414
 ],
 "title": "Introduction to Computer Science"
 }
