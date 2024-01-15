@@ -1,6 +1,6 @@
 {
 "code": "ENG374H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -244,13 +244,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ruthwika",
+"lastName": "Buwenpalle"
+}
+],
+"timing": 1705360696
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ruthwika",
+"lastName": "Buwenpalle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -494,6 +510,7 @@
 26,
 25,
 26,
+24,
 24,
 24,
 24
@@ -751,7 +768,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Creative Writing: Prose"
 }

@@ -1,6 +1,6 @@
 {
 "code": "MAT223H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -242,7 +242,8 @@
 151,
 153,
 153,
-153
+153,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -270,9 +271,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 195,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1705360696
+}
+],
 "initialCap": 195
 },
 "enrollmentLogs": [
@@ -504,6 +510,7 @@
 195,
 198,
 195,
+196,
 196,
 196,
 196,
@@ -772,7 +779,8 @@
 161,
 169,
 169,
-169
+169,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1037,7 +1045,8 @@
 195,
 195,
 195,
-195
+195,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1065,9 +1074,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "HYBR",
-"enrollmentCap": 160,
+"enrollmentCap": 163,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 163,
+"time": 1705360696
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -1302,7 +1316,8 @@
 162,
 162,
 162,
-162
+162,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1567,7 +1582,8 @@
 114,
 117,
 117,
-117
+117,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1825,7 +1841,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Linear Algebra I"
 }

@@ -1,13 +1,18 @@
 {
 "code": "CCT285H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 51,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 51,
+"time": 1705360696
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -239,6 +244,7 @@
 50,
 50,
 50,
+50,
 50
 ],
 "instructorLog": {
@@ -267,9 +273,14 @@
 {
 "createdAt": 1698343983,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1705360696
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -501,7 +512,8 @@
 42,
 44,
 44,
-44
+44,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -756,7 +768,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Immersive Environment Design"
 }

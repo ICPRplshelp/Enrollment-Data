@@ -1,6 +1,6 @@
 {
 "code": "PMU354Y1Y",
-"faculty": "UNKNOWN",
+"faculty": "MUSIC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,6 +239,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
@@ -294,10 +295,6 @@
 },
 "instructors": [
 {
-"firstName": "Younggun",
-"lastName": "Kim"
-},
-{
 "firstName": "Steven",
 "lastName": "Philcox"
 },
@@ -312,6 +309,10 @@
 {
 "firstName": "Emily",
 "lastName": "Chiang"
+},
+{
+"firstName": "Younggun",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -478,6 +479,7 @@
 1,
 1,
 1,
+0,
 0,
 0,
 0,
@@ -862,7 +864,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Piano-Inst. Masterclass"
 }

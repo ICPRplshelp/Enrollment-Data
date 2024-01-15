@@ -1,6 +1,6 @@
 {
 "code": "FAH451H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,6 +244,7 @@
 13,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -257,13 +258,22 @@
 }
 ],
 "timing": 1687979256
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Robayo Sheridan"
+}
+],
+"timing": 1705360696
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Christine",
-"lastName": "Shaw"
+"firstName": "Sarah",
+"lastName": "Robayo Sheridan"
 }
 ],
 "isCancelled": false,
@@ -499,7 +509,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Curating Now: Turning Concepts into Curatorial Projects"
 }

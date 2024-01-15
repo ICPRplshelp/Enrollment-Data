@@ -1,6 +1,6 @@
 {
 "code": "WDW152H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -240,6 +240,7 @@
 30,
 28,
 27,
+28,
 28,
 28,
 28
@@ -507,6 +508,7 @@
 27,
 30,
 30,
+30,
 30
 ],
 "instructorLog": {
@@ -772,7 +774,8 @@
 28,
 28,
 28,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1042,6 +1045,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1064,7 +1068,7 @@
 "lastName": "Johnson"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0401"
 }
 ],
@@ -1300,7 +1304,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Order and Disorder II: Problems and Solutions"
 }

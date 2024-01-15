@@ -1,6 +1,6 @@
 {
 "code": "SOC100H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -242,7 +242,8 @@
 34,
 33,
 33,
-33
+33,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -270,7 +271,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 866,
+"enrollmentCap": 876,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -288,6 +289,10 @@
 {
 "newCapacity": 866,
 "time": 1705117414
+},
+{
+"newCapacity": 876,
+"time": 1705360696
 }
 ],
 "initialCap": 770
@@ -524,7 +529,8 @@
 854,
 871,
 871,
-871
+871,
+876
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -782,7 +788,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Introduction to Sociology"
 }

@@ -1,6 +1,6 @@
 {
 "code": "MAT232H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -218,6 +218,7 @@
 103,
 102,
 102,
+101,
 101,
 101,
 101,
@@ -511,6 +512,7 @@
 98,
 98,
 98,
+98,
 98
 ],
 "instructorLog": {
@@ -778,6 +780,7 @@
 99,
 99,
 99,
+99,
 99
 ],
 "instructorLog": {
@@ -1032,6 +1035,7 @@
 119,
 119,
 119,
+118,
 118,
 118,
 118,
@@ -1312,6 +1316,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1319,7 +1324,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -1552,7 +1557,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Calculus of Several Variables"
 }

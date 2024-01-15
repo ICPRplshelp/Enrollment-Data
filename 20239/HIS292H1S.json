@@ -1,16 +1,20 @@
 {
 "code": "HIS292H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 44,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 44,
 "time": 1697507061
+},
+{
+"newCapacity": 45,
+"time": 1705360696
 }
 ],
 "initialCap": 80
@@ -247,7 +251,8 @@
 49,
 47,
 47,
-47
+47,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,7 +510,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Latin America: The National Period (formerly HIS292Y1)"
 }

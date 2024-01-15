@@ -1,6 +1,6 @@
 {
 "code": "HLTC52H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,7 +244,8 @@
 37,
 36,
 36,
-36
+36,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -266,12 +267,21 @@
 }
 ],
 "timing": 1702022724
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mobeen",
+"lastName": "Lalani"
+}
+],
+"timing": 1705360696
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Melanie",
+"firstName": "Mobeen",
 "lastName": "Lalani"
 }
 ],
@@ -508,7 +518,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Special Topics in Health Humanities"
 }

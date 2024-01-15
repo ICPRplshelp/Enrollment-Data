@@ -1,6 +1,6 @@
 {
 "code": "COPB12H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -256,6 +256,7 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
@@ -278,13 +279,22 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ferdous",
+"lastName": "Haque"
+}
+],
+"timing": 1705360696
 }
 ]
 },
 "instructors": [
 {
-"firstName": "FERDOUS",
-"lastName": "HAQUE (NOUTORID)"
+"firstName": "Ferdous",
+"lastName": "Haque"
 }
 ],
 "isCancelled": false,
@@ -544,6 +554,7 @@
 80,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -566,13 +577,22 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ferdous",
+"lastName": "Haque"
+}
+],
+"timing": 1705360696
 }
 ]
 },
 "instructors": [
 {
-"firstName": "FERDOUS",
-"lastName": "HAQUE (NOUTORID)"
+"firstName": "Ferdous",
+"lastName": "Haque"
 }
 ],
 "isCancelled": false,
@@ -830,6 +850,7 @@
 80,
 80,
 80,
+82,
 82,
 82,
 82
@@ -1094,6 +1115,7 @@
 81,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -1356,7 +1378,8 @@
 81,
 80,
 80,
-80
+80,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1829,7 +1852,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Advancing Your Career Exploration Part II"
 }

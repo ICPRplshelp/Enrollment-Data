@@ -1,6 +1,6 @@
 {
 "code": "WGS347H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,7 +239,8 @@
 34,
 36,
 36,
-36
+36,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,13 +262,22 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Deborah",
+"lastName": "Wilson Danard"
+}
+],
+"timing": 1705360696
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Deborah",
-"lastName": "Danard"
+"lastName": "Wilson Danard"
 }
 ],
 "isCancelled": false,
@@ -503,7 +513,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Indigenous Feminisms and Decolonization"
 }

@@ -1,11 +1,11 @@
 {
 "code": "VPAB13H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1690549709,
 "delivery": "INPER",
-"enrollmentCap": 145,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 145,
 "time": 1704874751
+},
+{
+"newCapacity": 160,
+"time": 1705360696
 }
 ],
 "initialCap": 90
@@ -165,7 +169,8 @@
 153,
 155,
 155,
-155
+155,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -333,7 +338,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Financial Management for Arts Managers"
 }

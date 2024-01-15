@@ -1,11 +1,11 @@
 {
 "code": "HISB11H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 74,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 72,
 "time": 1704485730
+},
+{
+"newCapacity": 74,
+"time": 1705360696
 }
 ],
 "initialCap": 60
@@ -252,7 +256,8 @@
 73,
 71,
 71,
-71
+71,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -507,7 +512,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "History and Culture of the Roman World"
 }

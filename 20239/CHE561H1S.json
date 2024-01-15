@@ -1,16 +1,20 @@
 {
 "code": "CHE561H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 42,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 42,
 "time": 1702618482
+},
+{
+"newCapacity": 60,
+"time": 1705360696
 }
 ],
 "initialCap": 40
@@ -244,7 +248,8 @@
 55,
 52,
 52,
-52
+52,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -516,7 +521,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Risk Based Safety Management"
 }

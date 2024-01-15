@@ -1,6 +1,6 @@
 {
 "code": "MGT201H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,6 +244,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -266,7 +267,7 @@
 "lastName": "Yung"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0101"
 },
 {
@@ -506,7 +507,8 @@
 44,
 43,
 43,
-43
+43,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -768,7 +770,8 @@
 23,
 23,
 23,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1023,7 +1026,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Coding for Business"
 }

@@ -1,6 +1,6 @@
 {
 "code": "ENG100H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -227,6 +227,7 @@
 99,
 99,
 99,
+98,
 98,
 98,
 98,
@@ -506,6 +507,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -528,7 +530,7 @@
 "lastName": "Boyd"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 },
 {
@@ -756,6 +758,7 @@
 93,
 93,
 93,
+92,
 92,
 92,
 92,
@@ -1032,7 +1035,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Effective Writing"
 }

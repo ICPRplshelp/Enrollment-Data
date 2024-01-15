@@ -1,6 +1,6 @@
 {
 "code": "MAT202H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,6 +244,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -251,7 +252,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -496,7 +497,8 @@
 145,
 143,
 143,
-143
+143,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -751,7 +753,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Introduction to Discrete Mathematics"
 }

@@ -1,6 +1,6 @@
 {
 "code": "STA258H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,7 +239,8 @@
 107,
 105,
 105,
-105
+105,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -501,7 +502,8 @@
 69,
 71,
 71,
-71
+71,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -529,9 +531,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1705360696
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -761,6 +768,7 @@
 49,
 47,
 46,
+48,
 48,
 48,
 48
@@ -1018,7 +1026,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Statistics with Applied Probability"
 }

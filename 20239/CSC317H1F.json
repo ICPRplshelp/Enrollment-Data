@@ -1,6 +1,6 @@
 {
 "code": "CSC317H1F",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -231,6 +231,7 @@
 85,
 85,
 85,
+83,
 83,
 83,
 83,
@@ -512,6 +513,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -519,7 +521,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 },
 {
@@ -713,6 +715,7 @@
 30,
 30,
 30,
+29,
 29,
 29,
 29,
@@ -1032,6 +1035,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1039,7 +1043,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC2101"
 }
 ],
@@ -1275,7 +1279,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Computer Graphics"
 }

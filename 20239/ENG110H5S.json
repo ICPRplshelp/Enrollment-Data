@@ -1,13 +1,18 @@
 {
 "code": "ENG110H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1692247612,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 88,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 88,
+"time": 1705360696
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -119,7 +124,8 @@
 100,
 92,
 92,
-92
+92,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,7 +269,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Narrative"
 }

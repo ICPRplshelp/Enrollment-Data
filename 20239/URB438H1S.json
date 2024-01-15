@@ -1,13 +1,18 @@
 {
 "code": "URB438H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1692247612,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1705360696
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -114,6 +119,7 @@
 31,
 29,
 29,
+27,
 27,
 27,
 27
@@ -248,7 +254,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Advanced Urban Research Project"
 }

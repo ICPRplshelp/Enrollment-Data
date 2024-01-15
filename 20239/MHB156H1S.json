@@ -1,13 +1,18 @@
 {
 "code": "MHB156H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1705360696
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -240,6 +245,7 @@
 12,
 12,
 12,
+13,
 13,
 13,
 13
@@ -500,7 +506,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Elementary Modern Hebrew II"
 }

@@ -1,6 +1,6 @@
 {
 "code": "MAT224H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,6 +244,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -251,7 +252,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -496,7 +497,8 @@
 44,
 40,
 40,
-40
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -763,7 +765,8 @@
 73,
 76,
 76,
-76
+76,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1018,7 +1021,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Linear Algebra II"
 }

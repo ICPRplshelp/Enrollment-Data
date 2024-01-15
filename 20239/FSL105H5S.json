@@ -1,6 +1,6 @@
 {
 "code": "FSL105H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,13 +239,29 @@
 41,
 43,
 43,
-43
+43,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sima",
+"lastName": "Farsandaj"
+}
+],
+"timing": 1705360696
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sima",
+"lastName": "Farsandaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -479,7 +495,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Functional French-Novice"
 }

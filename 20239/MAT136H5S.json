@@ -1,6 +1,6 @@
 {
 "code": "MAT136H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,7 +239,8 @@
 138,
 133,
 133,
-133
+133,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,6 +511,7 @@
 141,
 141,
 141,
+141,
 141
 ],
 "instructorLog": {
@@ -767,6 +769,7 @@
 143,
 142,
 136,
+140,
 140,
 140,
 140,
@@ -1034,7 +1037,8 @@
 73,
 56,
 56,
-56
+56,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1296,7 +1300,8 @@
 123,
 111,
 111,
-111
+111,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1558,7 +1563,8 @@
 140,
 137,
 137,
-137
+137,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1818,6 +1824,7 @@
 140,
 136,
 140,
+131,
 131,
 131,
 131
@@ -2082,7 +2089,8 @@
 144,
 140,
 140,
-140
+140,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2344,13 +2352,29 @@
 93,
 75,
 75,
-75
+75,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amena",
+"lastName": "Assem Abd-AlQader Mahmoud"
+}
+],
+"timing": 1705360696
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amena",
+"lastName": "Assem Abd-AlQader Mahmoud"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0109"
 },
@@ -2591,7 +2615,8 @@
 140,
 141,
 141,
-141
+141,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2853,7 +2878,8 @@
 138,
 128,
 128,
-128
+128,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3129,6 +3155,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -3136,7 +3163,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0112"
 }
 ],
@@ -3369,7 +3396,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Integral Calculus"
 }

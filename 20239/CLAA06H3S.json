@@ -1,13 +1,18 @@
 {
 "code": "CLAA06H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 258,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 258,
+"time": 1705360696
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -239,7 +244,8 @@
 268,
 258,
 258,
-258
+258,
+256
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Ancient Mythology II: Greece and Rome"
 }

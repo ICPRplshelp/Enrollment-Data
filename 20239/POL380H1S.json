@@ -1,6 +1,6 @@
 {
 "code": "POL380H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -247,6 +247,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -269,7 +270,7 @@
 "lastName": "Wong"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -512,7 +513,8 @@
 76,
 76,
 76,
-76
+76,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -777,7 +779,8 @@
 74,
 74,
 74,
-74
+74,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1035,7 +1038,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Topics in International Politics"
 }

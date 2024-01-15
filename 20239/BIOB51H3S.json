@@ -1,13 +1,18 @@
 {
 "code": "BIOB51H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 500,
+"enrollmentCap": 515,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 515,
+"time": 1705360696
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -239,7 +244,8 @@
 540,
 538,
 538,
-538
+538,
+531
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Evolutionary Biology"
 }

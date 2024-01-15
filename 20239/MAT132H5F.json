@@ -1,6 +1,6 @@
 {
 "code": "MAT132H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,6 +244,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -251,7 +252,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -479,6 +480,7 @@
 108,
 107,
 101,
+93,
 93,
 93,
 93,
@@ -758,6 +760,7 @@
 118,
 118,
 118,
+118,
 118
 ],
 "instructorLog": {
@@ -1020,6 +1023,7 @@
 76,
 76,
 76,
+76,
 76
 ],
 "instructorLog": {
@@ -1270,6 +1274,7 @@
 114,
 111,
 105,
+102,
 102,
 102,
 102,
@@ -1549,6 +1554,7 @@
 117,
 117,
 117,
+117,
 117
 ],
 "instructorLog": {
@@ -1804,7 +1810,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Differential Calculus for Life Sciences"
 }

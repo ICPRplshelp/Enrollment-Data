@@ -1,6 +1,6 @@
 {
 "code": "MGT262H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -237,6 +237,7 @@
 60,
 60,
 59,
+60,
 60,
 60,
 60
@@ -501,7 +502,8 @@
 65,
 66,
 66,
-66
+66,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -763,7 +765,8 @@
 35,
 33,
 33,
-33
+33,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1030,6 +1033,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1037,7 +1041,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0104"
 }
 ],
@@ -1270,7 +1274,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Psychology at Work"
 }

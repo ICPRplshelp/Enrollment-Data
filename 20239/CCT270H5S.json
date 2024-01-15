@@ -1,16 +1,20 @@
 {
 "code": "CCT270H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 85,
 "time": 1698343983
+},
+{
+"newCapacity": 95,
+"time": 1705360696
 }
 ],
 "initialCap": 75
@@ -244,7 +248,8 @@
 96,
 95,
 95,
-95
+95,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -499,7 +504,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Principles in Game Design"
 }

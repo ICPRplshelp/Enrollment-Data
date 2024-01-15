@@ -1,6 +1,6 @@
 {
 "code": "VIS309H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARCLA",
 "meetings": [
 {
 "createdAt": 1687561168,
@@ -229,6 +229,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -236,7 +237,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0101"
 }
 ],
@@ -454,7 +455,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Advanced Printmaking"
 }

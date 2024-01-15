@@ -1,6 +1,6 @@
 {
 "code": "MAT301H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -239,7 +239,8 @@
 87,
 85,
 85,
-85
+85,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -506,6 +507,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -513,7 +515,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -746,7 +748,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Groups and Symmetries"
 }

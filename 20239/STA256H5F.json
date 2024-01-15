@@ -1,6 +1,6 @@
 {
 "code": "STA256H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -227,6 +227,7 @@
 139,
 138,
 136,
+130,
 130,
 130,
 130,
@@ -510,6 +511,7 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructorLog": {
@@ -772,6 +774,7 @@
 134,
 134,
 134,
+134,
 134
 ],
 "instructorLog": {
@@ -1022,6 +1025,7 @@
 131,
 128,
 125,
+117,
 117,
 117,
 117,
@@ -1305,6 +1309,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1312,7 +1317,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -1545,7 +1550,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Probability and Statistics I"
 }

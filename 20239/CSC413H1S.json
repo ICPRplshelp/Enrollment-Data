@@ -1,6 +1,6 @@
 {
 "code": "CSC413H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -240,6 +240,7 @@
 117,
 116,
 113,
+109,
 109,
 109,
 109
@@ -507,6 +508,7 @@
 111,
 108,
 108,
+108,
 108
 ],
 "instructorLog": {
@@ -772,7 +774,8 @@
 32,
 32,
 32,
-32
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1037,7 +1040,8 @@
 29,
 29,
 29,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1299,6 +1303,7 @@
 35,
 33,
 31,
+32,
 32,
 32,
 32,
@@ -1572,6 +1577,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1579,7 +1585,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC2502"
 },
 {
@@ -1822,7 +1828,8 @@
 109,
 106,
 106,
-106
+106,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2092,6 +2099,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -2099,7 +2107,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5201"
 }
 ],
@@ -2335,7 +2343,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Neural Networks and Deep Learning"
 }

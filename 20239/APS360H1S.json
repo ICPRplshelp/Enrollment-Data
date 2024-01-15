@@ -1,6 +1,6 @@
 {
 "code": "APS360H1S",
-"faculty": "UNKNOWN",
+"faculty": "APSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -237,6 +237,7 @@
 100,
 101,
 100,
+103,
 103,
 103,
 103
@@ -501,7 +502,8 @@
 103,
 105,
 105,
-105
+105,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -763,7 +765,8 @@
 100,
 101,
 101,
-101
+101,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1018,7 +1021,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

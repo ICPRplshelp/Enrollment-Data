@@ -1,16 +1,20 @@
 {
 "code": "RSM454H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 78,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1692120475
+},
+{
+"newCapacity": 78,
+"time": 1705360696
 }
 ],
 "initialCap": 50
@@ -245,6 +249,7 @@
 74,
 74,
 75,
+77,
 77,
 77,
 77
@@ -505,7 +510,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Sales and Distribution Strategy"
 }

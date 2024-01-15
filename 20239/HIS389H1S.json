@@ -1,6 +1,6 @@
 {
 "code": "HIS389H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -240,6 +240,7 @@
 13,
 13,
 12,
+14,
 14,
 14,
 14
@@ -507,6 +508,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -514,7 +516,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 },
 {
@@ -757,7 +759,8 @@
 48,
 47,
 47,
-47
+47,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1022,7 +1025,8 @@
 52,
 54,
 54,
-54
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1280,7 +1284,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Topics in History"
 }

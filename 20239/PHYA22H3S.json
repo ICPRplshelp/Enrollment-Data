@@ -1,13 +1,18 @@
 {
 "code": "PHYA22H3S",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 168,
+"enrollmentCap": 147,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 147,
+"time": 1705360696
+}
+],
 "initialCap": 168
 },
 "enrollmentLogs": [
@@ -239,7 +244,8 @@
 139,
 139,
 139,
-139
+139,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +500,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Physics II for the Life Sciences"
 }

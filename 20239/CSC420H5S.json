@@ -1,6 +1,6 @@
 {
 "code": "CSC420H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -248,7 +248,8 @@
 130,
 123,
 123,
-123
+123,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -515,6 +516,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -522,7 +524,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -755,7 +757,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Introduction to Image Understanding"
 }

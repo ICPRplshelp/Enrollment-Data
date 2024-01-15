@@ -1,6 +1,6 @@
 {
 "code": "ANT464H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -16,6 +16,7 @@
 "initialCap": 18
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -269,7 +270,7 @@
 "lastName": "Allen"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -505,7 +506,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Black Ethnographies"
 }

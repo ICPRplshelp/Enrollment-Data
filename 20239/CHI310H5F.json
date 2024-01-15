@@ -1,6 +1,6 @@
 {
 "code": "CHI310H5F",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -224,6 +224,7 @@
 32,
 32,
 32,
+31,
 31,
 31,
 31,
@@ -506,6 +507,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -513,7 +515,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -746,7 +748,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Business Chinese"
 }

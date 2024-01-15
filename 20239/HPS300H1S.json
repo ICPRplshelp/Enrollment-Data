@@ -1,16 +1,20 @@
 {
 "code": "HPS300H1S",
-"faculty": "UNKNOWN",
+"faculty": "ARTSC",
 "meetings": [
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1691091680
+},
+{
+"newCapacity": 95,
+"time": 1705360696
 }
 ],
 "initialCap": 60
@@ -247,7 +251,8 @@
 112,
 112,
 112,
-112
+112,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -505,7 +510,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Topics in History and Philosophy of Science and Technology"
 }

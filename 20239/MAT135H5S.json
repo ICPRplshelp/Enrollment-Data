@@ -1,6 +1,6 @@
 {
 "code": "MAT135H5S",
-"faculty": "UNKNOWN",
+"faculty": "ERIN",
 "meetings": [
 {
 "createdAt": 1686549020,
@@ -244,7 +244,8 @@
 157,
 171,
 171,
-171
+171,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -520,7 +521,8 @@
 161,
 174,
 174,
-174
+174,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -796,6 +798,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -803,7 +806,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 },
 {
@@ -1048,7 +1051,8 @@
 155,
 169,
 169,
-169
+169,
+172
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1303,7 +1307,8 @@
 1704931495,
 1705117414,
 1705231435,
-1705279863
+1705279863,
+1705360696
 ],
 "title": "Differential Calculus"
 }
