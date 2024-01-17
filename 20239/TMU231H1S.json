@@ -240,7 +240,8 @@
 28,
 28,
 28,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,6 +518,7 @@
 29,
 29,
 29,
+31,
 31,
 31,
 31,
@@ -800,6 +802,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -845,9 +848,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 31,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1705460218
+}
+],
 "initialCap": 31
 },
 "enrollmentLogs": [
@@ -1080,7 +1088,8 @@
 31,
 31,
 31,
-31
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1353,7 +1362,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "Music Theory IV"
 }

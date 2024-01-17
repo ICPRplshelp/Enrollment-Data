@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "SYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1705460218
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -243,7 +248,8 @@
 360,
 360,
 360,
-357
+357,
+360
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -502,7 +508,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "Histories of Environmental Change"
 }

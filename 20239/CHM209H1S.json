@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 108,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1705460218
+}
+],
 "initialCap": 108
 },
 "enrollmentLogs": [
@@ -243,7 +248,8 @@
 110,
 110,
 110,
-110
+110,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -519,7 +525,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "Science of the Modern Kitchen"
 }

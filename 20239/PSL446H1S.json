@@ -243,7 +243,8 @@
 32,
 32,
 32,
-32
+32,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,13 +257,46 @@
 }
 ],
 "timing": 1700536705
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Olga Lucia",
+"lastName": "Rojas"
+},
+{
+"firstName": "Luka",
+"lastName": "Milosevic"
+},
+{
+"firstName": "Aylin",
+"lastName": "Reid"
+},
+{
+"firstName": "James",
+"lastName": "Eubanks"
+}
+],
+"timing": 1705460218
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Darren",
-"lastName": "Kadis"
+"firstName": "Olga Lucia",
+"lastName": "Rojas"
+},
+{
+"firstName": "Luka",
+"lastName": "Milosevic"
+},
+{
+"firstName": "Aylin",
+"lastName": "Reid"
+},
+{
+"firstName": "James",
+"lastName": "Eubanks"
 }
 ],
 "isCancelled": false,
@@ -502,7 +536,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "Neural Disorders"
 }

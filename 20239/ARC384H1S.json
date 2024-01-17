@@ -5,9 +5,14 @@
 {
 "createdAt": 1687561168,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1705460218
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -209,7 +214,8 @@
 32,
 32,
 32,
-32
+32,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -434,7 +440,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "Simulation and Data Visualization"
 }

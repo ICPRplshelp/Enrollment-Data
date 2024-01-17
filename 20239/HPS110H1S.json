@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 308,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 308,
+"time": 1705460218
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -243,7 +248,8 @@
 331,
 331,
 331,
-319
+319,
+309
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,7 +516,8 @@
 1705117414,
 1705231435,
 1705279863,
-1705360696
+1705360696,
+1705460218
 ],
 "title": "The Science of Human Nature"
 }
