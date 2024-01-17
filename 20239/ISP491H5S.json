@@ -34,13 +34,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
+"timing": 1705519563
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -69,7 +85,8 @@
 1705279863,
 1705360696,
 1705460218,
-1705476871
+1705476871,
+1705519563
 ],
 "title": "Independent Reading"
 }

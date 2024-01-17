@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 426,
+"enrollmentCap": 427,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 426,
 "time": 1705117414
+},
+{
+"newCapacity": 427,
+"time": 1705519563
 }
 ],
 "initialCap": 400
@@ -250,7 +254,8 @@
 429,
 441,
 440,
-426
+426,
+427
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -511,7 +516,8 @@
 1705279863,
 1705360696,
 1705460218,
-1705476871
+1705476871,
+1705519563
 ],
 "title": "Our home planet"
 }

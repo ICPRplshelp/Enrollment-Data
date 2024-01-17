@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 70,
 "time": 1702618482
+},
+{
+"newCapacity": 75,
+"time": 1705519563
 }
 ],
 "initialCap": 50
@@ -250,7 +254,8 @@
 91,
 87,
 87,
-70
+70,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -511,7 +516,8 @@
 1705279863,
 1705360696,
 1705460218,
-1705476871
+1705476871,
+1705519563
 ],
 "title": "Language and Religion"
 }
