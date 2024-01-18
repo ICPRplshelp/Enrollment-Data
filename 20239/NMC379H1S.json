@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 28,
+"enrollmentCap": 29,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 28,
 "time": 1705460218
+},
+{
+"newCapacity": 29,
+"time": 1705604309
 }
 ],
 "initialCap": 20
@@ -255,7 +259,8 @@
 30,
 29,
 28,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +522,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Capital, Technology, and Utopia in the Modern Middle East"
 }

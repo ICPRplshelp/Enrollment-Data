@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 82,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 82,
 "time": 1698193267
+},
+{
+"newCapacity": 84,
+"time": 1705604309
 }
 ],
 "initialCap": 75
@@ -248,7 +252,8 @@
 86,
 87,
 87,
-85
+85,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -507,7 +512,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Introduction to Christianity"
 }

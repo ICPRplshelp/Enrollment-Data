@@ -246,6 +246,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -259,10 +260,27 @@
 }
 ],
 "timing": 1687979256
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mattia",
+"lastName": "Ragazzoni"
+},
+{
+"firstName": "Rumi",
+"lastName": "Handen"
+}
+],
+"timing": 1705604309
 }
 ]
 },
 "instructors": [
+{
+"firstName": "Mattia",
+"lastName": "Ragazzoni"
+},
 {
 "firstName": "Rumi",
 "lastName": "Handen"
@@ -515,6 +533,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -537,6 +556,19 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ziyu",
+"lastName": "Cheng"
+},
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
+}
+],
+"timing": 1705604309
 }
 ]
 },
@@ -544,6 +576,10 @@
 {
 "firstName": "Ziyu",
 "lastName": "Cheng"
+},
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
 }
 ],
 "isCancelled": false,
@@ -778,6 +814,7 @@
 19,
 19,
 19,
+20,
 20,
 20,
 20,
@@ -1092,6 +1129,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -1353,6 +1391,7 @@
 21,
 21,
 20,
+19,
 19,
 19,
 19,
@@ -1628,6 +1667,7 @@
 20,
 20,
 19,
+18,
 18,
 18,
 18
@@ -1916,6 +1956,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -2139,6 +2180,7 @@
 28,
 28,
 28,
+27,
 27,
 27,
 27,
@@ -2471,6 +2513,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -2741,7 +2784,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Italian Language for Beginners"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1705604309
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -243,6 +248,7 @@
 7,
 7,
 7,
+8,
 8,
 8,
 8,
@@ -508,7 +514,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Russian Literature Between Tradition and Modernity"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -27,6 +27,10 @@
 {
 "newCapacity": 140,
 "time": 1705460218
+},
+{
+"newCapacity": 160,
+"time": 1705604309
 }
 ],
 "initialCap": 80
@@ -264,7 +268,8 @@
 126,
 139,
 139,
-139
+139,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -523,7 +528,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Mechanics"
 }

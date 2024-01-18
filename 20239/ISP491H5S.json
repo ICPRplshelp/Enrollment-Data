@@ -35,6 +35,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -59,6 +60,50 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1705604309,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
@@ -86,7 +131,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Independent Reading"
 }

@@ -246,6 +246,7 @@
 19,
 19,
 15,
+15,
 15
 ],
 "instructorLog": {
@@ -281,16 +282,16 @@
 },
 "instructors": [
 {
-"firstName": "Sarah",
-"lastName": "Fee"
-},
-{
 "firstName": "Fahmida",
 "lastName": "Suleman"
 },
 {
 "firstName": "Deepali",
 "lastName": "Dewan"
+},
+{
+"firstName": "Sarah",
+"lastName": "Fee"
 }
 ],
 "isCancelled": false,
@@ -533,7 +534,8 @@
 1705360696,
 1705460218,
 1705476871,
-1705519563
+1705519563,
+1705604309
 ],
 "title": "Case Studies at the Royal Ontario Museum"
 }
