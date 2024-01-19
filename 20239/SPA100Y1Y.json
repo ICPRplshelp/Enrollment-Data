@@ -247,6 +247,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -534,6 +535,7 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
@@ -801,6 +803,7 @@
 56,
 56,
 56,
+55,
 55,
 55,
 55,
@@ -1095,6 +1098,7 @@
 45,
 45,
 45,
+45,
 45
 ],
 "instructorLog": {
@@ -1365,7 +1369,8 @@
 50,
 50,
 50,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1514,6 +1519,7 @@
 9,
 9,
 9,
+0,
 0,
 0,
 0,
@@ -1903,6 +1909,7 @@
 34,
 34,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -2173,6 +2180,7 @@
 35,
 35,
 34,
+34,
 34
 ],
 "instructorLog": {
@@ -2190,6 +2198,19 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vanina S.",
+"lastName": "Machado"
+},
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
+"timing": 1705689300
 }
 ]
 },
@@ -2199,8 +2220,8 @@
 "lastName": "Machado"
 },
 {
-"firstName": "Petre Marian",
-"lastName": "Ene"
+"firstName": "Kristina",
+"lastName": "Stajic"
 }
 ],
 "isCancelled": false,
@@ -2444,7 +2465,8 @@
 1705460218,
 1705476871,
 1705519563,
-1705604309
+1705604309,
+1705689300
 ],
 "title": "Spanish for Beginners"
 }

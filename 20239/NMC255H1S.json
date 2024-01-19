@@ -5,9 +5,14 @@
 {
 "createdAt": 1703274497,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1705689300
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -26,7 +31,8 @@
 11,
 11,
 12,
-12
+12,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -68,7 +74,8 @@
 1705460218,
 1705476871,
 1705519563,
-1705604309
+1705604309,
+1705689300
 ],
 "title": "Love, Battle, and Wit: Classics of Premodern_Arabic Literature"
 }

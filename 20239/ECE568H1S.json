@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 225,
+"enrollmentCap": 255,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 255,
+"time": 1705689300
+}
+],
 "initialCap": 225
 },
 "enrollmentLogs": [
@@ -244,7 +249,8 @@
 259,
 225,
 225,
-225
+225,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -504,7 +510,8 @@
 1705460218,
 1705476871,
 1705519563,
-1705604309
+1705604309,
+1705689300
 ],
 "title": "Computer Security"
 }

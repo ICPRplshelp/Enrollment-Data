@@ -1,0 +1,46 @@
+{
+"code": "CIV477H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1705689300,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brent",
+"lastName": "Sleep"
+}
+],
+"timing": 1705689300
+}
+]
+},
+"instructors": [
+{
+"firstName": "Brent",
+"lastName": "Sleep"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1705689299,
+1705689300
+],
+"title": "Special Studies in Civil Engineering"
+}

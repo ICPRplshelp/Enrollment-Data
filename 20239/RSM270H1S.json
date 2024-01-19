@@ -247,7 +247,8 @@
 56,
 56,
 60,
-61
+61,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +518,8 @@
 81,
 80,
 80,
-80
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -787,7 +789,8 @@
 40,
 40,
 42,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1057,6 +1060,7 @@
 87,
 80,
 80,
+80,
 80
 ],
 "instructorLog": {
@@ -1085,9 +1089,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1705689300
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -1327,7 +1336,8 @@
 85,
 80,
 80,
-80
+80,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1355,9 +1365,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1705689300
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -1597,7 +1612,8 @@
 84,
 80,
 80,
-80
+80,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1860,7 +1876,8 @@
 1705460218,
 1705476871,
 1705519563,
-1705604309
+1705604309,
+1705689300
 ],
 "title": "Operations Management"
 }

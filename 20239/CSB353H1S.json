@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 153,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 153,
+"time": 1705689300
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -245,6 +250,7 @@
 162,
 160,
 159,
+150,
 150,
 150,
 150
@@ -510,7 +516,8 @@
 1705460218,
 1705476871,
 1705519563,
-1705604309
+1705604309,
+1705689300
 ],
 "title": "Plant-Microorganism Interactions and Plant Immunity"
 }
