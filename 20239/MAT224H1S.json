@@ -248,7 +248,8 @@
 145,
 144,
 139,
-136
+136,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -518,6 +519,7 @@
 100,
 100,
 99,
+100,
 100,
 100,
 100,
@@ -799,7 +801,8 @@
 155,
 155,
 155,
-153
+153,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1079,7 +1082,8 @@
 152,
 154,
 154,
-149
+149,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1356,6 +1360,7 @@
 160,
 157,
 157,
+156,
 156,
 156,
 156,
@@ -1648,13 +1653,29 @@
 119,
 115,
 112,
-111
+111,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco",
+"lastName": "Volpe"
+}
+],
+"timing": 1705779401
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marco",
+"lastName": "Volpe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1904,6 +1925,7 @@
 148,
 146,
 143,
+144,
 144
 ],
 "instructorLog": {
@@ -2168,7 +2190,8 @@
 1705476871,
 1705519563,
 1705604309,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "Linear Algebra II"
 }

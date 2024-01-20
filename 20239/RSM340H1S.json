@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1692120475
+},
+{
+"newCapacity": 65,
+"time": 1705779401
 }
 ],
 "initialCap": 50
@@ -253,7 +257,8 @@
 60,
 60,
 60,
-60
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -525,7 +530,8 @@
 1705476871,
 1705519563,
 1705604309,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "The Opposable Mind: Approaches to Integrative Thinking"
 }

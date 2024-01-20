@@ -1,6 +1,6 @@
 {
 "code": "CHC400H1F",
-"faculty": "ARTSC",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1686549019,
@@ -546,7 +546,7 @@
 "lastName": "Stoeber"
 }
 ],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
@@ -807,7 +807,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0301"
 }
 ],

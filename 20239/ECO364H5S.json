@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 105,
 "time": 1698343983
+},
+{
+"newCapacity": 130,
+"time": 1705779401
 }
 ],
 "initialCap": 100
@@ -250,7 +254,8 @@
 120,
 121,
 120,
-118
+118,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,7 +532,8 @@
 146,
 146,
 144,
-142
+142,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -788,7 +794,8 @@
 1705476871,
 1705519563,
 1705604309,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "International Trade Theory"
 }

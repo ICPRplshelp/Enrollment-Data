@@ -253,6 +253,7 @@
 47,
 48,
 48,
+48,
 48
 ],
 "instructorLog": {
@@ -275,12 +276,12 @@
 },
 "instructors": [
 {
-"firstName": "James",
-"lastName": "Rini"
-},
-{
 "firstName": "Walid",
 "lastName": "Houry"
+},
+{
+"firstName": "James",
+"lastName": "Rini"
 }
 ],
 "isCancelled": false,
@@ -525,7 +526,8 @@
 1705476871,
 1705519563,
 1705604309,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "Protein Homeostasis"
 }

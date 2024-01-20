@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Innocente"
+}
+],
+"timing": 1705779401
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nathan",
+"lastName": "Innocente"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1705689299,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "Independent Research in Sociology"
 }

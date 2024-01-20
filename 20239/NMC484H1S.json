@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1705779401
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -246,6 +251,7 @@
 10,
 9,
 9,
+8,
 8,
 8,
 8
@@ -512,7 +518,8 @@
 1705476871,
 1705519563,
 1705604309,
-1705689300
+1705689300,
+1705779401
 ],
 "title": "Gender Issues in Jewish Law"
 }
