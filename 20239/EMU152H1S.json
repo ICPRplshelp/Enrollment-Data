@@ -252,6 +252,7 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
@@ -265,13 +266,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carlene",
+"lastName": "Brown"
+}
+],
+"timing": 1705975439
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Anita",
-"lastName": "McAlister"
+"firstName": "Carlene",
+"lastName": "Brown"
 }
 ],
 "isCancelled": false,
@@ -527,6 +537,7 @@
 7,
 7,
 7,
+7,
 7
 ],
 "instructorLog": {
@@ -540,13 +551,22 @@
 }
 ],
 "timing": 1686549019
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carlene",
+"lastName": "Brown"
+}
+],
+"timing": 1705975439
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Anita",
-"lastName": "McAlister"
+"firstName": "Carlene",
+"lastName": "Brown"
 }
 ],
 "isCancelled": false,
@@ -790,7 +810,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Inst Class: Trumpet"
 }

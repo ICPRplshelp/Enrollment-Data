@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1705975439
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -251,6 +256,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24
@@ -522,7 +528,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Representations of Intellectuals"
 }

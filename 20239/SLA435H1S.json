@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1705975439
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -249,6 +254,7 @@
 10,
 11,
 11,
+10,
 10,
 10
 ],
@@ -516,7 +522,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Contemporary East European Cinemas"
 }

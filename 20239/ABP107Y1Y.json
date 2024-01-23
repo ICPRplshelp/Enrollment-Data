@@ -259,6 +259,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
@@ -285,6 +286,23 @@
 }
 ],
 "timing": 1698193267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Natalie",
+"lastName": "D'Elia"
+},
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+},
+{
+"firstName": "Sadiyya",
+"lastName": "Parnell-Hendrickson"
+}
+],
+"timing": 1705975439
 }
 ]
 },
@@ -296,6 +314,10 @@
 {
 "firstName": "Lindsey",
 "lastName": "Shorser"
+},
+{
+"firstName": "Sadiyya",
+"lastName": "Parnell-Hendrickson"
 }
 ],
 "isCancelled": false,
@@ -551,7 +573,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Introduction to University Studies in Mathematics"
 }

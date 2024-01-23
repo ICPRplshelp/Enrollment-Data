@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 76,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 76,
+"time": 1705975439
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -245,6 +250,7 @@
 95,
 96,
 92,
+75,
 75,
 75,
 75,
@@ -516,7 +522,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "The Human Microbiome in Health & Disease"
 }

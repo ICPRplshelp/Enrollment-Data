@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549019,
 "delivery": "SYNC",
-"enrollmentCap": 392,
+"enrollmentCap": 390,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 392,
 "time": 1705604309
+},
+{
+"newCapacity": 390,
+"time": 1705975439
 }
 ],
 "initialCap": 390
@@ -258,7 +262,8 @@
 392,
 392,
 392,
-392
+392,
+390
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,7 +532,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Medical Anthropology: an Evolutionary Perspective on Human Health"
 }

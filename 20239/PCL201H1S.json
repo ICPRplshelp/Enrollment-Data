@@ -5,12 +5,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 273,
+"enrollmentCap": 274,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 273,
 "time": 1691785160
+},
+{
+"newCapacity": 274,
+"time": 1705975439
 }
 ],
 "initialCap": 269
@@ -255,6 +259,7 @@
 273,
 273,
 273,
+273,
 273
 ],
 "instructorLog": {
@@ -316,12 +321,16 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 1,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 1,
 "time": 1691785160
+},
+{
+"newCapacity": 0,
+"time": 1705975439
 }
 ],
 "initialCap": 5
@@ -566,6 +575,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -621,7 +631,7 @@
 "lastName": "Alsaafin"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC2001"
 }
 ],
@@ -865,7 +875,8 @@
 1705604309,
 1705689300,
 1705779401,
-1705864898
+1705864898,
+1705975439
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }
