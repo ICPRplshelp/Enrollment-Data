@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1706068854
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -248,6 +253,7 @@
 1,
 1,
 1,
+0,
 0
 ],
 "instructorLog": {
@@ -270,7 +276,7 @@
 "lastName": "Paxton"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -512,7 +518,8 @@
 1705689300,
 1705779401,
 1705864898,
-1705975439
+1705975439,
+1706068854
 ],
 "title": "Special Topics in Writing Studies"
 }

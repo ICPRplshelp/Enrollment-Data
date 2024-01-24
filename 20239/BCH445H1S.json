@@ -251,6 +251,7 @@
 24,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -294,16 +295,16 @@
 },
 "instructors": [
 {
-"firstName": "Hyun",
-"lastName": "Lee"
-},
-{
 "firstName": "Peter",
 "lastName": "Kim"
 },
 {
 "firstName": "Spencer",
 "lastName": "Freeman"
+},
+{
+"firstName": "Hyun",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -551,7 +552,8 @@
 1705689300,
 1705779401,
 1705864898,
-1705975439
+1705975439,
+1706068854
 ],
 "title": "Organelles in Cell Function and Death"
 }

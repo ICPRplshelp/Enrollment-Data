@@ -253,13 +253,37 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Sharma"
 },
-"instructors": [],
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
+"timing": 1706068854
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Sharma"
+},
+{
+"firstName": "Samar Khalid",
+"lastName": "Sabie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -502,7 +526,8 @@
 1705689300,
 1705779401,
 1705864898,
-1705975439
+1705975439,
+1706068854
 ],
 "title": "Individual Project"
 }

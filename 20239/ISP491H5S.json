@@ -40,6 +40,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -103,13 +104,29 @@
 0,
 0,
 0,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanda",
+"lastName": "Paxton"
+}
+],
+"timing": 1706068854
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanda",
+"lastName": "Paxton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -144,7 +161,8 @@
 1705689300,
 1705779401,
 1705864898,
-1705975439
+1705975439,
+1706068854
 ],
 "title": "Independent Reading"
 }
