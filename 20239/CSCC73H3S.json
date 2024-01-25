@@ -250,6 +250,7 @@
 85,
 86,
 85,
+85,
 85
 ],
 "instructorLog": {
@@ -278,9 +279,14 @@
 {
 "createdAt": 1690850247,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1706212720
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -521,6 +527,7 @@
 44,
 44,
 44,
+43,
 43,
 43,
 43
@@ -789,7 +796,8 @@
 1705864898,
 1705975439,
 1706068854,
-1706136434
+1706136434,
+1706212720
 ],
 "title": "Algorithm Design and Analysis"
 }
