@@ -256,6 +256,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -285,6 +286,35 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Roshen",
+"lastName": "Hasan"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1706308322
 }
 ]
 },
@@ -308,6 +338,10 @@
 {
 "firstName": "Andrea Hazel",
 "lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -579,6 +613,7 @@
 241,
 241,
 240,
+240,
 240
 ],
 "instructorLog": {
@@ -608,6 +643,35 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+},
+{
+"firstName": "Roshen",
+"lastName": "Hasan"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1706308322
 }
 ]
 },
@@ -631,6 +695,10 @@
 {
 "firstName": "Andrea Hazel",
 "lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -900,6 +968,7 @@
 262,
 262,
 260,
+259,
 259,
 259,
 259
@@ -1201,7 +1270,8 @@
 1705975439,
 1706068854,
 1706136434,
-1706212720
+1706212720,
+1706308322
 ],
 "title": "Preparing to Compete for your Co-op Work Term"
 }

@@ -256,6 +256,7 @@
 11,
 11,
 11,
+11,
 11
 ],
 "instructorLog": {
@@ -281,6 +282,31 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+},
+{
+"firstName": "Roshen",
+"lastName": "Hasan"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1706308322
 }
 ]
 },
@@ -300,6 +326,10 @@
 {
 "firstName": "Roshen",
 "lastName": "Hasan"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -571,6 +601,7 @@
 497,
 496,
 494,
+494,
 494
 ],
 "instructorLog": {
@@ -596,6 +627,31 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Courtney",
+"lastName": "Jeremiah"
+},
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Roshen",
+"lastName": "Hasan"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1706308322
 }
 ]
 },
@@ -615,6 +671,10 @@
 {
 "firstName": "Roshen",
 "lastName": "Hasan"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -862,7 +922,8 @@
 1705975439,
 1706068854,
 1706136434,
-1706212720
+1706212720,
+1706308322
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }
