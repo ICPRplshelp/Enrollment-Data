@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 41,
+"time": 1706576551
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -249,6 +254,7 @@
 40,
 40,
 39,
+40,
 40,
 40,
 40,
@@ -530,7 +536,8 @@
 1706212720,
 1706308322,
 1706381714,
-1706470412
+1706470412,
+1706576551
 ],
 "title": "Scientific Worldviews of the Renaissance"
 }
