@@ -258,6 +258,7 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
@@ -271,6 +272,19 @@
 }
 ],
 "timing": 1690443128
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Leitch"
+},
+{
+"firstName": "Michael",
+"lastName": "Classens"
+}
+],
+"timing": 1706673260
 }
 ]
 },
@@ -278,6 +292,10 @@
 {
 "firstName": "Jennifer",
 "lastName": "Leitch"
+},
+{
+"firstName": "Michael",
+"lastName": "Classens"
 }
 ],
 "isCancelled": false,
@@ -532,7 +550,8 @@
 1706308322,
 1706381714,
 1706470412,
-1706576551
+1706576551,
+1706673260
 ],
 "title": "Community Research Partnerships in Ethics"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549019,
 "delivery": "INPER",
-"enrollmentCap": 190,
+"enrollmentCap": 188,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 188,
+"time": 1706673260
+}
+],
 "initialCap": 190
 },
 "enrollmentLogs": [
@@ -258,6 +263,7 @@
 188,
 188,
 188,
+187,
 187
 ],
 "instructorLog": {
@@ -532,7 +538,8 @@
 1706308322,
 1706381714,
 1706470412,
-1706576551
+1706576551,
+1706673260
 ],
 "title": "Nonlinear Optimization"
 }

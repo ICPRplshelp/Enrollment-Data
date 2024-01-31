@@ -258,6 +258,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -271,12 +272,21 @@
 }
 ],
 "timing": 1688149610
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa M.",
+"lastName": "Khoo"
+}
+],
+"timing": 1706673260
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lisa",
+"firstName": "Lisa M.",
 "lastName": "Khoo"
 }
 ],
@@ -532,7 +542,8 @@
 1706308322,
 1706381714,
 1706470412,
-1706576551
+1706576551,
+1706673260
 ],
 "title": "Creative Non-Fiction"
 }
