@@ -259,13 +259,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kanta",
+"lastName": "Murali"
+}
+],
+"timing": 1706729774
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kanta",
+"lastName": "Murali"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -519,7 +535,8 @@
 1706381714,
 1706470412,
 1706576551,
-1706673260
+1706673260,
+1706729774
 ],
 "title": "Independent Studies"
 }
