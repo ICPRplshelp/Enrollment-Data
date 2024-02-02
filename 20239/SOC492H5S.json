@@ -189,6 +189,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -202,13 +203,22 @@
 }
 ],
 "timing": 1689640777
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jayne",
+"lastName": "Baker"
+}
+],
+"timing": 1706907640
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Zaheer",
-"lastName": "Baber"
+"firstName": "Jayne",
+"lastName": "Baker"
 }
 ],
 "isCancelled": false,
@@ -394,7 +404,8 @@
 1706576551,
 1706673260,
 1706729774,
-1706781229
+1706781229,
+1706907640
 ],
 "title": "Independent Research in Sociology"
 }
