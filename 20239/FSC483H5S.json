@@ -261,6 +261,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -545,6 +546,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -558,13 +560,22 @@
 }
 ],
 "timing": 1686598375
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Eugene",
+"lastName": "Liscio"
+}
+],
+"timing": 1707173282
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Frank",
-"lastName": "Wendt"
+"firstName": "Eugene",
+"lastName": "Liscio"
 }
 ],
 "isCancelled": false,
@@ -672,6 +683,7 @@
 3,
 3,
 3,
+4,
 4,
 4,
 4,
@@ -1122,6 +1134,7 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
@@ -1260,6 +1273,7 @@
 5,
 5,
 5,
+4,
 4,
 4,
 4,
@@ -1698,6 +1712,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -1975,7 +1990,8 @@
 1706781229,
 1706907640,
 1706995152,
-1707078644
+1707078644,
+1707173282
 ],
 "title": "Collaborative Research Internship"
 }

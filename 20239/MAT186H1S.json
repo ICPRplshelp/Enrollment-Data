@@ -282,6 +282,7 @@
 72,
 71,
 71,
+71,
 71
 ],
 "instructorLog": {
@@ -566,13 +567,29 @@
 36,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shai",
+"lastName": "Cohen"
+}
+],
+"timing": 1707173282
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shai",
+"lastName": "Cohen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -828,7 +845,8 @@
 1706781229,
 1706907640,
 1706995152,
-1707078644
+1707078644,
+1707173282
 ],
 "title": "Calculus I"
 }

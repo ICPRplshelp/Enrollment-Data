@@ -264,6 +264,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -277,13 +278,22 @@
 }
 ],
 "timing": 1691091680
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie Elizabeth",
+"lastName": "Harrington"
+}
+],
+"timing": 1707173282
 }
 ]
 },
 "instructors": [
 {
-"firstName": "M. Cristina",
-"lastName": "Cuervo"
+"firstName": "Sophie Elizabeth",
+"lastName": "Harrington"
 }
 ],
 "isCancelled": false,
@@ -544,7 +554,8 @@
 1706781229,
 1706907640,
 1706995152,
-1707078644
+1707078644,
+1707173282
 ],
 "title": "The Structure of Spanish"
 }

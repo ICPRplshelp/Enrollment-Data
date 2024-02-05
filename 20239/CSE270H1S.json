@@ -269,6 +269,7 @@
 133,
 133,
 133,
+133,
 133
 ],
 "instructorLog": {
@@ -556,13 +557,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stanley",
+"lastName": "Doyle-Wood"
+}
+],
+"timing": 1707173282
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stanley",
+"lastName": "Doyle-Wood"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 }
@@ -821,7 +838,8 @@
 1706781229,
 1706907640,
 1706995152,
-1707078644
+1707078644,
+1707173282
 ],
 "title": "Community Dis/Engagement and Solidarity"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 76,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 76,
+"time": 1707173282
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -261,7 +266,8 @@
 70,
 70,
 70,
-70
+70,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -545,7 +551,8 @@
 71,
 71,
 71,
-71
+71,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -829,7 +836,8 @@
 69,
 69,
 69,
-69
+69,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1113,7 +1121,8 @@
 70,
 70,
 70,
-70
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1390,7 +1399,8 @@
 1706781229,
 1706907640,
 1706995152,
-1707078644
+1707078644,
+1707173282
 ],
 "title": "People Management and Organizational Behaviour"
 }
