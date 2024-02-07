@@ -271,6 +271,7 @@
 329,
 329,
 329,
+328,
 328
 ],
 "instructorLog": {
@@ -297,13 +298,38 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cheryl",
+"lastName": "Runke"
+},
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
+}
+],
+"timing": 1707277914
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ted",
-"lastName": "Nolan"
+"firstName": "Cheryl",
+"lastName": "Runke"
+},
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
 }
 ],
 "isCancelled": false,
@@ -578,6 +604,7 @@
 306,
 306,
 306,
+306,
 306
 ],
 "instructorLog": {
@@ -612,17 +639,38 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
+}
+],
+"timing": 1707277914
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Tome",
-"lastName": "Kosteski"
-},
-{
 "firstName": "Ted",
 "lastName": "Nolan"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
 }
 ],
 "isCancelled": false,
@@ -921,6 +969,7 @@
 438,
 438,
 438,
+438,
 438
 ],
 "instructorLog": {
@@ -955,6 +1004,23 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tome",
+"lastName": "Kosteski"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
+}
+],
+"timing": 1707277914
 }
 ]
 },
@@ -966,6 +1032,10 @@
 {
 "firstName": "Ted",
 "lastName": "Nolan"
+},
+{
+"firstName": "Rubaina",
+"lastName": "Khan"
 }
 ],
 "isCancelled": false,
@@ -1224,7 +1294,8 @@
 1706907640,
 1706995152,
 1707078644,
-1707173282
+1707173282,
+1707277914
 ],
 "title": "Engineering Strategies & Practice II"
 }

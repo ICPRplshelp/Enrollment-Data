@@ -25,13 +25,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
+"timing": 1707277914
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -51,7 +67,8 @@
 1706907640,
 1706995152,
 1707078644,
-1707173282
+1707173282,
+1707277914
 ],
 "title": "Special Topics in Management"
 }

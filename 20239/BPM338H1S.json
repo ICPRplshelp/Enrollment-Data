@@ -265,6 +265,7 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -278,13 +279,22 @@
 }
 ],
 "timing": 1702856475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tenille",
+"lastName": "Chen"
+}
+],
+"timing": 1707277914
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Melanie",
-"lastName": "Viglas"
+"firstName": "Tenille",
+"lastName": "Chen"
 }
 ],
 "isCancelled": false,
@@ -546,7 +556,8 @@
 1706907640,
 1706995152,
 1707078644,
-1707173282
+1707173282,
+1707277914
 ],
 "title": "Exploring Mindful Awareness"
 }
