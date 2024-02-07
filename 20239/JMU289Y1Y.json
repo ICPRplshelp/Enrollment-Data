@@ -263,6 +263,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -558,6 +559,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -571,13 +573,22 @@
 }
 ],
 "timing": 1691614238
+},
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Carn"
+}
+],
+"timing": 1707334584
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Andrew",
-"lastName": "Downing"
+"firstName": "William",
+"lastName": "Carn"
 }
 ],
 "isCancelled": false,
@@ -844,6 +855,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -857,13 +869,22 @@
 }
 ],
 "timing": 1691614238
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Downing"
+}
+],
+"timing": 1707334584
 }
 ]
 },
 "instructors": [
 {
-"firstName": "William",
-"lastName": "Carn"
+"firstName": "Andrew",
+"lastName": "Downing"
 }
 ],
 "isCancelled": false,
@@ -1123,7 +1144,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Jazz Orchestra"
 }

@@ -266,6 +266,7 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
@@ -308,6 +309,23 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hoon-Ki",
+"lastName": "Sung"
+},
+{
+"firstName": "Jennifer",
+"lastName": "Taher"
+},
+{
+"firstName": "Libin",
+"lastName": "Yuan"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -323,10 +341,6 @@
 {
 "firstName": "Libin",
 "lastName": "Yuan"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -589,7 +603,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Metabolic Disorders"
 }

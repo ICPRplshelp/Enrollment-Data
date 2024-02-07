@@ -266,6 +266,7 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
@@ -279,13 +280,22 @@
 }
 ],
 "timing": 1690911423
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Samuel",
+"lastName": "Jambrovic"
+}
+],
+"timing": 1707334584
 }
 ]
 },
 "instructors": [
 {
-"firstName": "M. Cristina",
-"lastName": "Cuervo"
+"firstName": "Samuel",
+"lastName": "Jambrovic"
 }
 ],
 "isCancelled": false,
@@ -548,7 +558,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Introduction to Hispanic Linguistics"
 }

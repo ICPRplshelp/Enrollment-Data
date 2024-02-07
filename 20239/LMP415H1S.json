@@ -266,6 +266,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -292,6 +293,15 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maliha",
+"lastName": "Khara"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -299,10 +309,6 @@
 {
 "firstName": "Maliha",
 "lastName": "Khara"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -565,7 +571,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Forensic Pathobiology"
 }

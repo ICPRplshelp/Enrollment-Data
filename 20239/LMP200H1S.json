@@ -266,6 +266,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -300,6 +301,19 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Lee"
+},
+{
+"firstName": "Douglas",
+"lastName": "Templeton"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -311,10 +325,6 @@
 {
 "firstName": "Douglas",
 "lastName": "Templeton"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -577,7 +587,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Pathobiology of the Cell"
 }

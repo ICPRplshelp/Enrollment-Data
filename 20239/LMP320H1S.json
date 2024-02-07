@@ -266,6 +266,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -308,6 +309,23 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sunit",
+"lastName": "Das"
+},
+{
+"firstName": "Amy",
+"lastName": "Wong"
+},
+{
+"firstName": "Scott",
+"lastName": "Yuzwa"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -323,10 +341,6 @@
 {
 "firstName": "Scott",
 "lastName": "Yuzwa"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -589,7 +603,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Pathobiology of Stem Cells"
 }

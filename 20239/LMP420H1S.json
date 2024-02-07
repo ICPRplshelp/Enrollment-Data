@@ -266,6 +266,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -300,6 +301,19 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Charames"
+},
+{
+"firstName": "Paul",
+"lastName": "Hamel"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -311,10 +325,6 @@
 {
 "firstName": "Paul",
 "lastName": "Hamel"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -577,7 +587,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Cancer Pathogenesis"
 }

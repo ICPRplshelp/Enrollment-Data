@@ -266,6 +266,7 @@
 28,
 28,
 28,
+27,
 27
 ],
 "instructorLog": {
@@ -316,6 +317,27 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Liana",
+"lastName": "Kyriakopoulou"
+},
+{
+"firstName": "Lei",
+"lastName": "Fu"
+},
+{
+"firstName": "Rajeevan",
+"lastName": "Selvaratnam"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Jung"
+}
+],
+"timing": 1707334584
 }
 ]
 },
@@ -335,10 +357,6 @@
 {
 "firstName": "Benjamin",
 "lastName": "Jung"
-},
-{
-"firstName": "Louella",
-"lastName": "D'Cunha"
 }
 ],
 "isCancelled": false,
@@ -601,7 +619,8 @@
 1706995152,
 1707078644,
 1707173282,
-1707277914
+1707277914,
+1707334584
 ],
 "title": "Introduction to the Biochemistry of Human Disease"
 }
