@@ -1,0 +1,46 @@
+{
+"code": "POL303H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kelsey",
+"lastName": "Gordon"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kelsey",
+"lastName": "Gordon"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Women in Western Political Thought"
+}

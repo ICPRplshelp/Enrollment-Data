@@ -1,0 +1,46 @@
+{
+"code": "POL487H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Madison",
+"lastName": "Schramm"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Madison",
+"lastName": "Schramm"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Topics in International Politics II"
+}

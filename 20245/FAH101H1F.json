@@ -1,0 +1,31 @@
+{
+"code": "FAH101H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "ASYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Monuments of Art History"
+}

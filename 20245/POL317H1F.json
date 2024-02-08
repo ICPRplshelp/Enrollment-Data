@@ -1,0 +1,46 @@
+{
+"code": "POL317H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "SYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Donnelly"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Donnelly"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Comparative Public Policy"
+}

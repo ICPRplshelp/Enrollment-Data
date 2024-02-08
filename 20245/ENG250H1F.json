@@ -1,0 +1,46 @@
+{
+"code": "ENG250H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "SYNC",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Rayter"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Rayter"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Introduction to American Literature"
+}

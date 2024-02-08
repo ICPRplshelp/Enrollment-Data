@@ -1,0 +1,46 @@
+{
+"code": "POL305H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Donald",
+"lastName": "Kingsbury"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Donald",
+"lastName": "Kingsbury"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Introduction to Latin American Politics and Societies"
+}

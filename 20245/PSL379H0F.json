@@ -1,0 +1,54 @@
+{
+"code": "PSL379H0F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "SYNC",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+},
+{
+"firstName": "Nesime",
+"lastName": "Askin"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Carin",
+"lastName": "Wittnich"
+},
+{
+"firstName": "Nesime",
+"lastName": "Askin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC3001"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Comparative Marine Mammal Physiology in the Field"
+}

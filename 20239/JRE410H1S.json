@@ -264,7 +264,8 @@
 67,
 67,
 67,
-67
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -551,7 +552,8 @@
 68,
 68,
 68,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -579,9 +581,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1707431343
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -826,6 +833,7 @@
 71,
 71,
 71,
+72,
 72,
 72,
 72,
@@ -1118,7 +1126,8 @@
 1707078644,
 1707173282,
 1707277914,
-1707334584
+1707334584,
+1707431343
 ],
 "title": "Markets and Competitive Strategy"
 }

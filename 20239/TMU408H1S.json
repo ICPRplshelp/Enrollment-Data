@@ -48,13 +48,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Norbert",
+"lastName": "Palej"
+}
+],
+"timing": 1707431343
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Norbert",
+"lastName": "Palej"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -97,7 +113,8 @@
 1707078644,
 1707173282,
 1707277914,
-1707334584
+1707334584,
+1707431343
 ],
 "title": "Composing for Chamber Ensemble"
 }

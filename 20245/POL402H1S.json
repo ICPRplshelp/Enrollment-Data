@@ -1,0 +1,54 @@
+{
+"code": "POL402H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Wagner"
+},
+{
+"firstName": "Logan",
+"lastName": "Gates"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Wagner"
+},
+{
+"firstName": "Logan",
+"lastName": "Gates"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Problems in the Political Thought of the Socratic School (formerly POL402Y1)"
+}

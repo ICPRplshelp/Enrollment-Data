@@ -267,7 +267,8 @@
 1118,
 1116,
 1114,
-1114
+1114,
+1112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -284,6 +285,23 @@
 }
 ],
 "timing": 1688672198
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Reid"
+},
+{
+"firstName": "C. Barth",
+"lastName": "Netterfield"
+},
+{
+"firstName": "Ling Rebecca",
+"lastName": "Lin"
+}
+],
+"timing": 1707431343
 }
 ]
 },
@@ -295,6 +313,10 @@
 {
 "firstName": "C. Barth",
 "lastName": "Netterfield"
+},
+{
+"firstName": "Ling Rebecca",
+"lastName": "Lin"
 }
 ],
 "isCancelled": false,
@@ -558,7 +580,8 @@
 1707078644,
 1707173282,
 1707277914,
-1707334584
+1707334584,
+1707431343
 ],
 "title": "Stars and Galaxies"
 }

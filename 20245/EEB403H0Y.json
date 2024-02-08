@@ -1,0 +1,54 @@
+{
+"code": "EEB403H0Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 18,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 18
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+},
+{
+"firstName": "John",
+"lastName": "Stinchcombe"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+},
+{
+"firstName": "John",
+"lastName": "Stinchcombe"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC3001"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "Tropical Field Biology"
+}

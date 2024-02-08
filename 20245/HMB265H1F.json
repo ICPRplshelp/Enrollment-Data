@@ -1,0 +1,54 @@
+{
+"code": "HMB265H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1707431551,
+"delivery": "INPER",
+"enrollmentCap": 265,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 265
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naomi",
+"lastName": "Levy-Strumpf"
+},
+{
+"firstName": "Alexandra",
+"lastName": "Malinowski"
+}
+],
+"timing": 1707431551
+}
+]
+},
+"instructors": [
+{
+"firstName": "Naomi",
+"lastName": "Levy-Strumpf"
+},
+{
+"firstName": "Alexandra",
+"lastName": "Malinowski"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1707431550,
+1707431551
+],
+"title": "General & Human Genetics"
+}
