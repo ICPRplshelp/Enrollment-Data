@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cynthia",
+"lastName": "Messenger"
+}
+],
+"timing": 1707528364
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cynthia",
+"lastName": "Messenger"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1707431550,
-1707431551
+1707431551,
+1707528364
 ],
 "title": "Introduction to Academic Essay Writing"
 }

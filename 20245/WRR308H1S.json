@@ -12,20 +12,37 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sharon",
+"lastName": "English"
+}
+],
+"timing": 1707528364
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sharon",
+"lastName": "English"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1707431550,
-1707431551
+1707431551,
+1707528364
 ],
 "title": "Selected Topics in Writing and Rhetoric"
 }

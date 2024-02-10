@@ -274,6 +274,7 @@
 113,
 113,
 113,
+113,
 113
 ],
 "instructorLog": {
@@ -287,13 +288,22 @@
 }
 ],
 "timing": 1689105743
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Min Seong",
+"lastName": "Park"
+}
+],
+"timing": 1707527236
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adilbek",
-"lastName": "Kairzhan"
+"firstName": "Min Seong",
+"lastName": "Park"
 }
 ],
 "isCancelled": false,
@@ -554,6 +564,7 @@
 101,
 99,
 99,
+98,
 98,
 98,
 98,
@@ -852,7 +863,8 @@
 1707173282,
 1707277914,
 1707334584,
-1707431343
+1707431343,
+1707527236
 ],
 "title": "Differential Equations"
 }

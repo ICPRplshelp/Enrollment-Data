@@ -268,6 +268,7 @@
 44,
 43,
 43,
+43,
 43
 ],
 "instructorLog": {
@@ -559,6 +560,7 @@
 64,
 64,
 63,
+62,
 62
 ],
 "instructorLog": {
@@ -849,6 +851,7 @@
 61,
 59,
 56,
+55,
 55,
 55
 ],
@@ -1141,6 +1144,7 @@
 63,
 61,
 61,
+60,
 60
 ],
 "instructorLog": {
@@ -1154,13 +1158,22 @@
 }
 ],
 "timing": 1701397084
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Bessler"
+}
+],
+"timing": 1707527236
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Myriam",
-"lastName": "Corriveau"
+"firstName": "Paul",
+"lastName": "Bessler"
 }
 ],
 "isCancelled": false,
@@ -1425,7 +1438,8 @@
 1707173282,
 1707277914,
 1707334584,
-1707431343
+1707431343,
+1707527236
 ],
 "title": "Elementary French I"
 }
