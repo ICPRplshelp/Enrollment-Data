@@ -271,6 +271,7 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
@@ -288,6 +289,15 @@
 }
 ],
 "timing": 1686685175
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Claire",
+"lastName": "Battershill"
+}
+],
+"timing": 1707766820
 }
 ]
 },
@@ -295,10 +305,6 @@
 {
 "firstName": "Claire",
 "lastName": "Battershill"
-},
-{
-"firstName": "Eric",
-"lastName": "Friesen"
 }
 ],
 "isCancelled": false,
@@ -566,7 +572,8 @@
 1707431343,
 1707527236,
 1707595159,
-1707679472
+1707679472,
+1707766820
 ],
 "title": "Artistic Creation and Public Issues"
 }

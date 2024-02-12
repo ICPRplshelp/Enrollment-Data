@@ -5,12 +5,18 @@
 {
 "createdAt": 1707528364,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1707767020
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -18,9 +24,24 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Petros",
+"lastName": "Babasikas"
+}
+],
+"timing": 1707767020
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Petros",
+"lastName": "Babasikas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -29,7 +50,8 @@
 1707528363,
 1707528364,
 1707595354,
-1707679641
+1707679641,
+1707767020
 ],
 "title": "Summer Studio Abroad"
 }

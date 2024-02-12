@@ -5,12 +5,18 @@
 {
 "createdAt": 1707528364,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1707767020
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -18,21 +24,42 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Sealy"
+}
+],
+"timing": 1707767020
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Sealy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1707528364,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1707767020
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -40,9 +67,24 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mauricio",
+"lastName": "Quiros Pacheco"
+}
+],
+"timing": 1707767020
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mauricio",
+"lastName": "Quiros Pacheco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -51,7 +93,8 @@
 1707528363,
 1707528364,
 1707595354,
-1707679641
+1707679641,
+1707767020
 ],
 "title": "Summer Studio Abroad"
 }

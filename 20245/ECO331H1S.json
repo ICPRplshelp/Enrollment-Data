@@ -5,12 +5,18 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1707767020
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -22,7 +28,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -31,7 +37,8 @@
 1707431551,
 1707528364,
 1707595354,
-1707679641
+1707679641,
+1707767020
 ],
 "title": "Behavioural and Experimental Economics"
 }
