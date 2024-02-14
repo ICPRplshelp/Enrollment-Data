@@ -5,9 +5,14 @@
 {
 "createdAt": 1688672198,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1707883037
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
@@ -241,7 +246,8 @@
 0,
 0,
 0,
-0
+0,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -732,7 +738,8 @@
 1707527236,
 1707595159,
 1707679472,
-1707766820
+1707766820,
+1707883037
 ],
 "title": "Multidisciplinary Urban Capstone Project"
 }

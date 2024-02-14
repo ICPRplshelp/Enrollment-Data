@@ -269,7 +269,8 @@
 7,
 7,
 7,
-7
+7,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -288,6 +289,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -823,6 +825,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1100,7 +1103,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1377,7 +1381,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1390,9 +1395,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1707883037
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -1654,7 +1664,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1667,9 +1678,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1707883037
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -1931,7 +1947,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2208,7 +2225,8 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2485,7 +2503,8 @@
 0,
 0,
 0,
-0
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2755,7 +2774,8 @@
 1707527236,
 1707595159,
 1707679472,
-1707766820
+1707766820,
+1707883037
 ],
 "title": "Jazz Applied Music"
 }
