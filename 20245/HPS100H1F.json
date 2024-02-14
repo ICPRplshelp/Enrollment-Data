@@ -5,12 +5,18 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 150,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1707940418
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -24,7 +30,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -35,7 +41,8 @@
 1707595354,
 1707679641,
 1707767020,
-1707883246
+1707883246,
+1707940418
 ],
 "title": "Introduction to History and Philosophy of Science and Technology"
 }
