@@ -5,9 +5,14 @@
 {
 "createdAt": 1686549020,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1708043348
+}
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
@@ -271,7 +276,8 @@
 6,
 6,
 6,
-6
+6,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -558,7 +564,8 @@
 1707679472,
 1707766820,
 1707883037,
-1707940211
+1707940211,
+1708043348
 ],
 "title": "Piano-Vocal Masterclass"
 }

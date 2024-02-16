@@ -271,6 +271,7 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
@@ -284,13 +285,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Thompson"
+}
+],
+"timing": 1708043348
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Richard",
-"lastName": "Greene"
+"firstName": "Andrea",
+"lastName": "Thompson"
 }
 ],
 "isCancelled": false,
@@ -558,7 +568,8 @@
 1707679472,
 1707766820,
 1707883037,
-1707940211
+1707940211,
+1708043348
 ],
 "title": "Creative Writing Workshop"
 }

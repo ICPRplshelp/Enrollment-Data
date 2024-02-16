@@ -271,6 +271,7 @@
 27,
 27,
 27,
+27,
 27
 ],
 "instructorLog": {
@@ -284,13 +285,22 @@
 }
 ],
 "timing": 1690316798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Stafford"
+}
+],
+"timing": 1708043348
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Richard",
-"lastName": "Greene"
+"firstName": "Ryan",
+"lastName": "Stafford"
 }
 ],
 "isCancelled": false,
@@ -558,7 +568,8 @@
 1707679472,
 1707766820,
 1707883037,
-1707940211
+1707940211,
+1708043348
 ],
 "title": "Spy Fiction"
 }
