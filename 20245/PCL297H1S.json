@@ -25,13 +25,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anita",
+"lastName": "Hamadanizadeh"
+}
+],
+"timing": 1708542357
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anita",
+"lastName": "Hamadanizadeh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -51,7 +67,8 @@
 1708271694,
 1708326730,
 1708354419,
-1708410402
+1708410402,
+1708542357
 ],
 "title": "Research Experience in Pharmacology & Toxicology"
 }

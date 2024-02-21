@@ -4,13 +4,14 @@
 "meetings": [
 {
 "createdAt": 1707431551,
-"delivery": "HYBR",
+"delivery": "SYNC",
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -37,13 +38,14 @@
 },
 {
 "createdAt": 1707431551,
-"delivery": "HYBR",
+"delivery": "SYNC",
 "enrollmentCap": 110,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -84,7 +86,8 @@
 1708271694,
 1708326730,
 1708354419,
-1708410402
+1708410402,
+1708542357
 ],
 "title": "Principles of Macroeconomics"
 }

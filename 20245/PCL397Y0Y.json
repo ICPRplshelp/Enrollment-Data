@@ -25,13 +25,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
+"timing": 1708542357
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -51,7 +67,8 @@
 1708271694,
 1708326730,
 1708354419,
-1708410402
+1708410402,
+1708542357
 ],
 "title": "Research Abroad in Pharmacology and Toxicology"
 }

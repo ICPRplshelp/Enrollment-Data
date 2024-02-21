@@ -25,13 +25,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+}
+],
+"timing": 1708542357
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Laposa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -51,7 +67,8 @@
 1708271694,
 1708326730,
 1708354419,
-1708410402
+1708410402,
+1708542357
 ],
 "title": "Project in Toxicology"
 }
