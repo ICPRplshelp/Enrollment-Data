@@ -20,13 +20,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alissa",
+"lastName": "Trotz"
+}
+],
+"timing": 1708634693
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alissa",
+"lastName": "Trotz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +57,8 @@
 1708326730,
 1708354419,
 1708410402,
-1708542357
+1708542357,
+1708634693
 ],
 "title": "Special Topics in Caribbean Studies"
 }

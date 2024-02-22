@@ -279,6 +279,7 @@
 24,
 24,
 24,
+24,
 24
 ],
 "instructorLog": {
@@ -571,6 +572,7 @@
 25,
 25,
 25,
+24,
 24,
 24,
 24,
@@ -892,6 +894,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -905,6 +908,19 @@
 }
 ],
 "timing": 1692247612
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hugh",
+"lastName": "O'Neill"
+},
+{
+"firstName": "Michael",
+"lastName": "Sooriyakumaran"
+}
+],
+"timing": 1708634490
 }
 ]
 },
@@ -912,6 +928,10 @@
 {
 "firstName": "Hugh",
 "lastName": "O'Neill"
+},
+{
+"firstName": "Michael",
+"lastName": "Sooriyakumaran"
 }
 ],
 "isCancelled": false,
@@ -1187,7 +1207,8 @@
 1708326566,
 1708354256,
 1708410244,
-1708542161
+1708542161,
+1708634490
 ],
 "title": "Writing About Movies"
 }

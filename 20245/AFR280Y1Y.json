@@ -26,13 +26,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oswald",
+"lastName": "Almasi"
+}
+],
+"timing": 1708634693
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oswald",
+"lastName": "Almasi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -53,7 +69,8 @@
 1708326730,
 1708354419,
 1708410402,
-1708542357
+1708542357,
+1708634693
 ],
 "title": "Introductory Swahili"
 }

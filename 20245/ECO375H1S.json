@@ -4,13 +4,14 @@
 "meetings": [
 {
 "createdAt": 1707431551,
-"delivery": "SYNC",
+"delivery": "INPER",
 "enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [],
 "initialCap": 75
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -53,7 +54,8 @@
 1708326730,
 1708354419,
 1708410402,
-1708542357
+1708542357,
+1708634693
 ],
 "title": "Applied Econometrics I"
 }
