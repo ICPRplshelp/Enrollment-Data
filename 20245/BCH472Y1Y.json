@@ -28,13 +28,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hue Sun",
+"lastName": "Chan"
+}
+],
+"timing": 1708801567
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hue Sun",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -57,7 +73,8 @@
 1708410402,
 1708542357,
 1708634693,
-1708713606
+1708713606,
+1708801567
 ],
 "title": "Advanced Summer Research Project in Biochemistry"
 }
