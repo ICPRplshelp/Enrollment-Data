@@ -1,0 +1,51 @@
+{
+"code": "COPB51H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1708977829,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1708977829,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1708977828,
+1708977829
+],
+"title": "Preparing to Compete for your Co-op Work Term"
+}

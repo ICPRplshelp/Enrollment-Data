@@ -1,0 +1,71 @@
+{
+"code": "MGAB03H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1708977829,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1708977829,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1708977829,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1708977828,
+1708977829
+],
+"title": "Introductory Management Accounting"
+}
