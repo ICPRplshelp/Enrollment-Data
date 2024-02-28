@@ -5,27 +5,49 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 475,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 475,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
+"timing": 1709093202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Molecular Aspects of Cellular and Genetic Processes"
 }

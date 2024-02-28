@@ -5,67 +5,131 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"timing": 1709093202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"timing": 1709093202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"timing": 1709093202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Introductory Management Accounting"
 }

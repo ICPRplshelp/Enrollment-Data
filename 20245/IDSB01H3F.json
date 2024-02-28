@@ -5,27 +5,49 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Isakson"
+}
+],
+"timing": 1709093202
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Isakson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Political Economy of International Development"
 }

@@ -4,13 +4,19 @@
 "meetings": [
 {
 "createdAt": 1708977829,
-"delivery": "INPER",
-"enrollmentCap": 0,
+"delivery": "ASYNC",
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -24,13 +30,19 @@
 },
 {
 "createdAt": 1708977829,
-"delivery": "INPER",
-"enrollmentCap": 0,
+"delivery": "ASYNC",
+"enrollmentCap": 375,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 375,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -44,13 +56,19 @@
 },
 {
 "createdAt": 1708977829,
-"delivery": "INPER",
-"enrollmentCap": 0,
+"delivery": "ASYNC",
+"enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -65,7 +83,8 @@
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

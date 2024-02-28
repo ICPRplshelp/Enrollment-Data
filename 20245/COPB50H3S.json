@@ -3,6 +3,27 @@
 "faculty": "SCAR",
 "meetings": [
 {
+"createdAt": 1709093202,
+"delivery": "ASYNC",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
 "createdAt": 1708977829,
 "delivery": "INPER",
 "enrollmentCap": 0,
@@ -25,7 +46,8 @@
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

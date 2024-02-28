@@ -4,13 +4,19 @@
 "meetings": [
 {
 "createdAt": 1708977829,
-"delivery": "INPER",
-"enrollmentCap": 0,
+"delivery": "SYNC",
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709093202
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -25,7 +31,8 @@
 ],
 "timeIntervals": [
 1708977828,
-1708977829
+1708977829,
+1709093202
 ],
 "title": "Selected Issues in City Studies"
 }
