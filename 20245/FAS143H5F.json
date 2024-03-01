@@ -12,6 +12,7 @@
 },
 "enrollmentLogs": [
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -25,12 +26,18 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 23,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1709321644
+}
+],
 "initialCap": 23
 },
 "enrollmentLogs": [
+0,
 0,
 0
 ],
@@ -45,7 +52,8 @@
 ],
 "timeIntervals": [
 1709255170,
-1709255171
+1709255171,
+1709321644
 ],
 "title": "Drawing I"
 }
