@@ -19,13 +19,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hamid",
+"lastName": "Shokrollah-Timorabadi"
+}
+],
+"timing": 1709255171
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hamid",
+"lastName": "Shokrollah-Timorabadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -39,7 +55,8 @@
 1708892020,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Computer Fundamentals"
 }

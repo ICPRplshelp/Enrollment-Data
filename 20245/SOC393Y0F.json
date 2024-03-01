@@ -33,6 +33,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -42,6 +43,48 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
+},
+{
+"createdAt": 1709255171,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC3002"
 }
 ],
 "timeIntervals": [
@@ -67,7 +110,8 @@
 1708892020,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Selected Topics in Sociological Research"
 }

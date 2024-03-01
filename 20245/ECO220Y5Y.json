@@ -1,0 +1,31 @@
+{
+"code": "ECO220Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1709255171,
+"delivery": "SYNC",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1709255170,
+1709255171
+],
+"title": "Introduction to Data Analysis and Applied Econometrics"
+}

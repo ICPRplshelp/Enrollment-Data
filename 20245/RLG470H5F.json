@@ -1,0 +1,46 @@
+{
+"code": "RLG470H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1709255171,
+"delivery": "SYNC",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Richardson"
+}
+],
+"timing": 1709255171
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Richardson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1709255170,
+1709255171
+],
+"title": "Advanced Topics in Buddhism"
+}

@@ -1,0 +1,46 @@
+{
+"code": "WGS101H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1709255171,
+"delivery": "INPER",
+"enrollmentCap": 75,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 75
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beverly",
+"lastName": "Bain"
+}
+],
+"timing": 1709255171
+}
+]
+},
+"instructors": [
+{
+"firstName": "Beverly",
+"lastName": "Bain"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1709255170,
+1709255171
+],
+"title": "Introduction to Women and Gender Studies"
+}

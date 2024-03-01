@@ -1,0 +1,51 @@
+{
+"code": "FAS232H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1709255171,
+"delivery": "SYNC",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1709255171,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+}
+],
+"timeIntervals": [
+1709255170,
+1709255171
+],
+"title": "Print Media I"
+}

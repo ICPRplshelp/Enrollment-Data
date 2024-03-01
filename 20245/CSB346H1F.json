@@ -33,13 +33,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jimmy",
+"lastName": "Fraigne"
+}
+],
+"timing": 1709255171
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jimmy",
+"lastName": "Fraigne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -67,7 +83,8 @@
 1708892020,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Neurobiology of Respiration"
 }

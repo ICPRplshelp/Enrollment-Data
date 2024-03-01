@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 12,
 "time": 1709093202
+},
+{
+"newCapacity": 17,
+"time": 1709255171
 }
 ],
 "initialCap": 0
@@ -19,13 +23,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Gervers"
+}
+],
+"timing": 1709255171
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Gervers"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -34,7 +54,8 @@
 1708977828,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Ethiopia: Seeing History"
 }

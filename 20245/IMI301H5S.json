@@ -1,0 +1,46 @@
+{
+"code": "IMI301H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1709255171,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1709255171
+}
+]
+},
+"instructors": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1709255170,
+1709255171
+],
+"title": "Essentials of Finance"
+}

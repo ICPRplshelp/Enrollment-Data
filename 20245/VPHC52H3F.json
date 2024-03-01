@@ -5,17 +5,22 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 12,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 12,
 "time": 1709093202
+},
+{
+"newCapacity": 17,
+"time": 1709255171
 }
 ],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -34,7 +39,8 @@
 1708977828,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Ethiopia: Seeing History"
 }

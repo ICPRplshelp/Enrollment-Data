@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1708977829,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 250,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -16,6 +16,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -34,7 +35,8 @@
 1708977828,
 1708977829,
 1709093202,
-1709102780
+1709102780,
+1709255171
 ],
 "title": "Introduction to Business"
 }
