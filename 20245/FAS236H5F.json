@@ -5,12 +5,18 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 16,
+"time": 1709583002
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -33,7 +39,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Design I"
 }

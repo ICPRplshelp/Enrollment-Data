@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Themistoklis",
+"lastName": "Aravossitas"
+}
+],
+"timing": 1709583002
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Themistoklis",
+"lastName": "Aravossitas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -33,7 +49,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Topics in Comparative Politics"
 }

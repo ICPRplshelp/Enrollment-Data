@@ -16,13 +16,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Richard",
+"lastName": "Teuscher"
 },
-"instructors": [],
+{
+"firstName": "Nikolina",
+"lastName": "Ilic"
+}
+],
+"timing": 1709583002
+}
+]
+},
+"instructors": [
+{
+"firstName": "Richard",
+"lastName": "Teuscher"
+},
+{
+"firstName": "Nikolina",
+"lastName": "Ilic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -33,7 +57,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Research Topic Abroad"
 }

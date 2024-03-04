@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bob",
+"lastName": "Thompson"
+}
+],
+"timing": 1709583002
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bob",
+"lastName": "Thompson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3002"
 }
@@ -33,7 +49,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Topics in Industrial Relations and Human Resources (Summer Abroad Program)"
 }

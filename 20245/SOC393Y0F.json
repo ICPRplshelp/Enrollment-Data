@@ -38,13 +38,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ka Tat",
+"lastName": "Tsang"
 },
-"instructors": [],
+{
+"firstName": "Weiguo",
+"lastName": "Zhang"
+}
+],
+"timing": 1709583002
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ka Tat",
+"lastName": "Tsang"
+},
+{
+"firstName": "Weiguo",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 },
@@ -84,13 +108,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Weiguo",
+"lastName": "Zhang"
 },
-"instructors": [],
+{
+"firstName": "Ka Tat",
+"lastName": "Tsang"
+}
+],
+"timing": 1709583002
+}
+]
+},
+"instructors": [
+{
+"firstName": "Weiguo",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ka Tat",
+"lastName": "Tsang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3002"
 }
@@ -123,7 +171,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Selected Topics in Sociological Research"
 }

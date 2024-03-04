@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth MM",
+"lastName": "Legge"
+}
+],
+"timing": 1709583002
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth MM",
+"lastName": "Legge"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -33,7 +49,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "Studies Abroad in Modern and Contemporary Art and Architecture"
 }

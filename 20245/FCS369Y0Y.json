@@ -16,13 +16,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
+"timing": 1709583002
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rosa Junghwa",
+"lastName": "Hong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -33,7 +49,8 @@
 1709321644,
 1709370711,
 1709410212,
-1709462289
+1709462289,
+1709583002
 ],
 "title": "The Culture of Touraine"
 }
