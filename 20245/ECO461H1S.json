@@ -39,13 +39,29 @@
 8,
 8,
 8,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ataollah",
+"lastName": "Mazaheri"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ataollah",
+"lastName": "Mazaheri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "The Economics of Financial Risk Management"
 }

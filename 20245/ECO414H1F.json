@@ -39,13 +39,29 @@
 45,
 45,
 45,
-63
+63,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adonis",
+"lastName": "Yatchew"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adonis",
+"lastName": "Yatchew"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Energy and Regulation"
 }

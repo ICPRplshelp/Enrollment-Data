@@ -39,13 +39,29 @@
 40,
 40,
 40,
-47
+47,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Martin",
+"lastName": "Burda"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Martin",
+"lastName": "Burda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Forecasting and Time Series Econometrics"
 }

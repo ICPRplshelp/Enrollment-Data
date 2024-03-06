@@ -39,13 +39,29 @@
 57,
 57,
 57,
-68
+68,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathanael",
+"lastName": "Vellekoop"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nathanael",
+"lastName": "Vellekoop"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -86,13 +102,29 @@
 75,
 75,
 75,
-108
+108,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathanael",
+"lastName": "Vellekoop"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nathanael",
+"lastName": "Vellekoop"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -126,7 +158,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Principles of Macroeconomics"
 }

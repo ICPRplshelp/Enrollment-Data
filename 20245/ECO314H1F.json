@@ -39,13 +39,29 @@
 24,
 24,
 24,
-32
+32,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adonis",
+"lastName": "Yatchew"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adonis",
+"lastName": "Yatchew"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Energy and the Environment"
 }

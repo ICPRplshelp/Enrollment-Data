@@ -39,13 +39,29 @@
 7,
 7,
 7,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Special Topics in Economics with Data Analytics"
 }

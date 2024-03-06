@@ -39,13 +39,29 @@
 33,
 33,
 33,
-36
+36,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leonid",
+"lastName": "Kosals"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leonid",
+"lastName": "Kosals"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Advanced Topics in Criminology and Sociolegal Studies"
 }

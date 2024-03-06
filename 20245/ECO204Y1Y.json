@@ -39,13 +39,29 @@
 24,
 24,
 24,
-26
+26,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -79,7 +95,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Microeconomic Theory and Applications (for Commerce)"
 }

@@ -39,13 +39,29 @@
 37,
 37,
 37,
-66
+66,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kripa",
+"lastName": "Freitas"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kripa",
+"lastName": "Freitas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -86,13 +102,29 @@
 35,
 35,
 35,
-50
+50,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kripa",
+"lastName": "Freitas"
+}
+],
+"timing": 1709698075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kripa",
+"lastName": "Freitas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -126,7 +158,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Principles of Microeconomics"
 }

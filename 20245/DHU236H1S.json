@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1709698075
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -39,14 +44,15 @@
 4,
 4,
 4,
-3
+3,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -79,7 +85,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Virtual Worlds: Introduction to Spatial Digital Humanities"
 }

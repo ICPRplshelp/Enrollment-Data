@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 32,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709698075
+}
+],
 "initialCap": 32
 },
 "enrollmentLogs": [
@@ -39,7 +44,8 @@
 21,
 21,
 21,
-32
+32,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -79,7 +85,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1709698075
 ],
 "title": "Inter-University Field Course"
 }
