@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1709839482
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -41,7 +46,8 @@
 24,
 33,
 34,
-35
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +96,8 @@
 2,
 2,
 1,
-1
+1,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -132,7 +139,8 @@
 1709462289,
 1709583002,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "Italian Language for Beginners"
 }

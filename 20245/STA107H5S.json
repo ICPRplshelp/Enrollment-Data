@@ -19,13 +19,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -39,7 +55,8 @@
 1709462289,
 1709583002,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "An Introduction to Probability and Modelling"
 }

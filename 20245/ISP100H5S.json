@@ -19,13 +19,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oguzhan",
+"lastName": "Tekin"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oguzhan",
+"lastName": "Tekin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -38,6 +54,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -73,13 +90,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amanda",
+"lastName": "Paxton"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amanda",
+"lastName": "Paxton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -100,13 +133,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oguzhan",
+"lastName": "Tekin"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oguzhan",
+"lastName": "Tekin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -127,13 +176,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Phoebe",
+"lastName": "Kang"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Phoebe",
+"lastName": "Kang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -146,6 +211,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -181,6 +247,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -200,6 +267,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -228,7 +296,8 @@
 1709462289,
 1709583002,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "Writing for University and Beyond"
 }

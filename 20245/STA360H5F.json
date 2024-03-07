@@ -19,13 +19,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alvaro",
+"lastName": "Nosedal Sanchez"
+}
+],
+"timing": 1709839482
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alvaro",
+"lastName": "Nosedal Sanchez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -39,7 +55,8 @@
 1709462289,
 1709583002,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "Introduction to Bayesian Statistics"
 }

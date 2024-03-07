@@ -5,12 +5,18 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1709839482
+}
+],
 "initialCap": 16
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -51,6 +57,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -71,7 +78,8 @@
 1709462289,
 1709583002,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "Painting I"
 }

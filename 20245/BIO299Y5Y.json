@@ -13,6 +13,7 @@
 "enrollmentLogs": [
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -32,6 +33,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0
@@ -55,6 +57,7 @@
 "enrollmentLogs": [
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -64,12 +67,145 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0501"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0601"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0701"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0702"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0703"
+},
+{
+"createdAt": 1709839482,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0801"
 }
 ],
 "timeIntervals": [
 1709698074,
 1709698075,
-1709732231
+1709732231,
+1709839482
 ],
 "title": "Research Opportunity Program"
 }
