@@ -42,13 +42,29 @@
 12,
 16,
 16,
-17
+17,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lyn",
+"lastName": "Tieu"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lyn",
+"lastName": "Tieu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "The French Language: A Linguistic Introduction"
 }

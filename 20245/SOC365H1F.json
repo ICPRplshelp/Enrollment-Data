@@ -42,13 +42,29 @@
 27,
 31,
 30,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brigid",
+"lastName": "Burke"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brigid",
+"lastName": "Burke"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Gender Relations (formerly SOC365Y1)"
 }

@@ -42,13 +42,29 @@
 33,
 34,
 34,
-34
+34,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Storm Kalyse",
+"lastName": "Jeffers"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Storm Kalyse",
+"lastName": "Jeffers"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Sociology of Crime & Deviance (formerly SOC212Y1)"
 }

@@ -42,13 +42,29 @@
 4,
 6,
 6,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erika",
+"lastName": "Canossini"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erika",
+"lastName": "Canossini"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "New Topics in Sociology"
 }

@@ -41,13 +41,29 @@
 55,
 63,
 62,
-64
+64,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -83,7 +99,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Love, Sex and Desire in French Literature and Cinema"
 }

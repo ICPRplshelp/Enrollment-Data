@@ -20,13 +20,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brett",
+"lastName": "Beston"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brett",
+"lastName": "Beston"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC9999"
 }
@@ -41,7 +57,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Introduction to Neuroscience"
 }

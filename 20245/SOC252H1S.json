@@ -42,13 +42,29 @@
 19,
 23,
 24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastien",
+"lastName": "Parker"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sebastien",
+"lastName": "Parker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Intermediate Quantitative Methods in Sociology"
 }

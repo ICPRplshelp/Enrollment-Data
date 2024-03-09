@@ -42,13 +42,29 @@
 43,
 49,
 49,
-52
+52,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea Mariana",
+"lastName": "Roman Alfaro"
+}
+],
+"timing": 1709952239
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea Mariana",
+"lastName": "Roman Alfaro"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -85,7 +101,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Social Control (formerly SOC212Y1)"
 }

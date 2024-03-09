@@ -20,13 +20,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julius",
+"lastName": "Haag"
 },
-"instructors": [],
+{
+"firstName": "Zachary",
+"lastName": "Richer"
+}
+],
+"timing": 1709952239
+}
+]
+},
+"instructors": [
+{
+"firstName": "Julius",
+"lastName": "Haag"
+},
+{
+"firstName": "Zachary",
+"lastName": "Richer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +65,8 @@
 1709583002,
 1709698075,
 1709732231,
-1709839482
+1709839482,
+1709952239
 ],
 "title": "Introduction to Criminology, Law & Society"
 }
