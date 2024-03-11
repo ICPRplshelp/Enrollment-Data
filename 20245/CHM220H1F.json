@@ -45,13 +45,29 @@
 71,
 73,
 73,
-73
+73,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mima",
+"lastName": "Staikova"
+}
+],
+"timing": 1710193414
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mima",
+"lastName": "Staikova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -91,7 +107,8 @@
 1709839482,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Physical Chemistry for Life Sciences"
 }

@@ -45,7 +45,8 @@
 46,
 50,
 50,
-50
+50,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -58,6 +59,19 @@
 }
 ],
 "timing": 1707431551
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Eugenia",
+"lastName": "Kumacheva"
+},
+{
+"firstName": "Charlie",
+"lastName": "Kivi"
+}
+],
+"timing": 1710193414
 }
 ]
 },
@@ -65,6 +79,10 @@
 {
 "firstName": "Eugenia",
 "lastName": "Kumacheva"
+},
+{
+"firstName": "Charlie",
+"lastName": "Kivi"
 }
 ],
 "isCancelled": false,
@@ -106,7 +124,8 @@
 1709839482,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Chemistry: Physical Principles"
 }

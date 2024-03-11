@@ -14,13 +14,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Boase"
+}
+],
+"timing": 1710193414
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeffrey",
+"lastName": "Boase"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC9999"
 }
@@ -29,7 +45,8 @@
 1709952238,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Augmented Places and Social Media Spaces"
 }

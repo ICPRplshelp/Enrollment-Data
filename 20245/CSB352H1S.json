@@ -45,13 +45,29 @@
 101,
 103,
 103,
-103
+103,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
+}
+],
+"timing": 1710193414
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Abraham Ernest",
+"lastName": "Yang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -91,7 +107,8 @@
 1709839482,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Bioinformatic Methods"
 }

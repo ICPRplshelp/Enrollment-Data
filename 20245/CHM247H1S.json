@@ -45,13 +45,29 @@
 122,
 122,
 122,
-122
+122,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ahlem",
+"lastName": "Bensari"
+}
+],
+"timing": 1710193414
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ahlem",
+"lastName": "Bensari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -91,7 +107,8 @@
 1709839482,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Introductory Organic Chemistry II"
 }

@@ -23,13 +23,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ray",
+"lastName": "Jewett"
+}
+],
+"timing": 1710193414
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ray",
+"lastName": "Jewett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -47,7 +63,8 @@
 1709839482,
 1709952239,
 1710020134,
-1710097457
+1710097457,
+1710193414
 ],
 "title": "Population and Society"
 }
