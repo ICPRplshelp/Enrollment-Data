@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1710261247
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -48,7 +53,8 @@
 11,
 10,
 10,
-10
+10,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +118,8 @@
 1710097457,
 1710193414,
 1710211937,
-1710218213
+1710218213,
+1710261247
 ],
 "title": "Sociology of Sports"
 }

@@ -1,0 +1,31 @@
+{
+"code": "STA314H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1710261247,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1710261246,
+1710261247
+],
+"title": "Statistical Methods for Machine Learning I"
+}

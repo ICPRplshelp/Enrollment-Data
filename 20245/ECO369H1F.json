@@ -48,13 +48,29 @@
 10,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Ugarte"
+}
+],
+"timing": 1710261247
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Karen",
+"lastName": "Ugarte"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -97,7 +113,8 @@
 1710097457,
 1710193414,
 1710211937,
-1710218213
+1710218213,
+1710261247
 ],
 "title": "Health Economics"
 }

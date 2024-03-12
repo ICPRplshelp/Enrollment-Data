@@ -48,7 +48,8 @@
 72,
 73,
 73,
-73
+73,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -57,6 +58,63 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1710261247,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+18
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -97,7 +155,8 @@
 1710097457,
 1710193414,
 1710211937,
-1710218213
+1710218213,
+1710261247
 ],
 "title": "Capital Market Theory"
 }
