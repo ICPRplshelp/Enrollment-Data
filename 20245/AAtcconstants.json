@@ -1,23 +1,80 @@
-[{
-  "faculty": "ARTSC",
-  "importantTimestamps": {
-    "start": 1708488000,
-    "summerPriority": 1709265600,
-    "general": 1709524800,
-    "otherCampus": 1712635200,
-    "fallFirstDay": 1714968000,
-    "fallWaitlistClosed": 1715313600,
-    "fallEnrollmentEnd": 1715572800,
-    "fallDrop": 1717473600,
-    "fallLWD": 1718683200,
-    "winterStart": 1719892800,
-    "winterWaitlistClosed": 1720238400,
-    "winterEnrollmentEnd": 1720497600,
-    "yearDrop": 1721707200,
-    "winterDrop": 1722312000,
-    "winterLWD": 1723521600,
-    "endOfYear": 1724990400,
-    "isSummer": true
+[
+  {
+    "faculty": "ARTSC",
+    "importantTimestamps": {
+      "start": 1708488000,
+      "summerPriority": 1709265600,
+      "general": 1709524800,
+      "otherCampus": 1712635200,
+      "fallFirstDay": 1714968000,
+      "fallWaitlistClosed": 1715313600,
+      "fallEnrollmentEnd": 1715572800,
+      "fallDrop": 1717473600,
+      "fallLWD": 1718683200,
+      "winterStart": 1719892800,
+      "winterWaitlistClosed": 1720238400,
+      "winterEnrollmentEnd": 1720497600,
+      "yearDrop": 1721707200,
+      "winterDrop": 1722312000,
+      "winterLWD": 1723521600,
+      "endOfYear": 1724990400,
+      "isSummer": true
+    }
+  },
+  {
+    "faculty": "SCAR",
+    "importantTimestamps": {
+      "start": 1710388800,
+      "summerPriority": 1711425600,
+      "general": 1712548800,
+      "otherCampus": 1712635200,
+      "fallFirstDay": 1714968000,
+      "fallWaitlistClosed": 1715140800,
+      "fallEnrollmentEnd": 1715486400,
+      "fallDrop": 1717992000,
+      "fallLWD": 1718596800,
+      "winterStart": 1719201600,
+      "winterWaitlistClosed": 1719374400,
+      "winterEnrollmentEnd": 1719892800,
+      "yearDrop": 1721793600,
+      "winterDrop": 1722398400,
+      "winterLWD": 1723003200,
+      "endOfYear": 1724990400,
+      "fall75": null,
+      "fall50": null,
+      "winter75": null,
+      "winter50": null,
+      "year75": null,
+      "year50": null,
+      "isSummer": true
+    }
+  },
+  {
+    "faculty": "ERIN",
+    "importantTimestamps": {
+      "start": 1709870400,
+      "summerPriority": 1710302400,
+      "general": 1711944000,
+      "otherCampus": 1712635200,
+      "fallFirstDay": 1714968000,
+      "fallWaitlistClosed": 1715486400,
+      "fallEnrollmentEnd": 1715486400,
+      "fallDrop": 1717387200,
+      "fallLWD": 1718596800,
+      "winterStart": 1719892800,
+      "winterWaitlistClosed": 1720411200,
+      "winterEnrollmentEnd": 1720411200,
+      "yearDrop": 1721620800,
+      "winterDrop": 1722225600,
+      "winterLWD": 1723435200,
+      "endOfYear": 1724990400,
+      "fall75": null,
+      "fall50": null,
+      "winter75": null,
+      "winter50": null,
+      "year75": null,
+      "year50": null,
+      "isSummer": true
+    }
   }
-}
 ]
