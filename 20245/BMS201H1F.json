@@ -50,13 +50,29 @@
 65,
 65,
 65,
-65
+65,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stacy",
+"lastName": "Reardon"
+}
+],
+"timing": 1710354778
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stacy",
+"lastName": "Reardon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +117,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Information Literacy, Writing, and Research for Book & Media Studies"
 }

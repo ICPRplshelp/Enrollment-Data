@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1710354778
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -50,7 +55,8 @@
 65,
 65,
 66,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -101,7 +107,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Meditation and the Body"
 }

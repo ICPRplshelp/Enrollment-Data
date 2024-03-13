@@ -50,13 +50,29 @@
 78,
 78,
 78,
-78
+78,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Siobhan",
+"lastName": "O'Flynn"
+}
+],
+"timing": 1710354778
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Siobhan",
+"lastName": "O'Flynn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +117,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Introduction to Book & Media Studies"
 }

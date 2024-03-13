@@ -50,13 +50,29 @@
 68,
 68,
 68,
-69
+69,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iris",
+"lastName": "Gildea"
+}
+],
+"timing": 1710354778
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Iris",
+"lastName": "Gildea"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +117,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Media and Trauma"
 }

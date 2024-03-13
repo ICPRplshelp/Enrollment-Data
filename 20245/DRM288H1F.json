@@ -50,13 +50,29 @@
 35,
 35,
 36,
+36,
 36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Block"
+}
+],
+"timing": 1710354778
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Block"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -101,7 +117,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Introduction to Communication"
 }

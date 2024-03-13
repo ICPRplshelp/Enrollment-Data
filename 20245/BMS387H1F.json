@@ -50,13 +50,29 @@
 24,
 24,
 25,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Felan",
+"lastName": "Parker"
+}
+],
+"timing": 1710354778
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Felan",
+"lastName": "Parker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +117,8 @@
 1710211937,
 1710218213,
 1710261247,
-1710299210
+1710299210,
+1710354778
 ],
 "title": "Advertising and Media"
 }
