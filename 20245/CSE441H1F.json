@@ -51,13 +51,29 @@
 29,
 29,
 29,
+30,
 30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandni",
+"lastName": "Desai"
+}
+],
+"timing": 1710439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandni",
+"lastName": "Desai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -103,7 +119,8 @@
 1710218213,
 1710261247,
 1710299210,
-1710354778
+1710354778,
+1710439518
 ],
 "title": "Advanced Topics in Equity Studies"
 }

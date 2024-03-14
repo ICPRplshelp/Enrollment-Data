@@ -51,13 +51,29 @@
 5,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
+"timing": 1710439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yigal",
+"lastName": "Nizri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -103,7 +119,8 @@
 1710218213,
 1710261247,
 1710299210,
-1710354778
+1710354778,
+1710439518
 ],
 "title": "Special Topics in Jewish Studies"
 }

@@ -51,13 +51,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Virginia",
+"lastName": "Shewfelt"
+}
+],
+"timing": 1710439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Virginia",
+"lastName": "Shewfelt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -103,7 +119,8 @@
 1710218213,
 1710261247,
 1710299210,
-1710354778
+1710354778,
+1710439518
 ],
 "title": "Holocaust in Literature (E)"
 }
