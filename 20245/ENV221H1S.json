@@ -56,13 +56,29 @@
 54,
 54,
 54,
-57
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erich",
+"lastName": "Vogt"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erich",
+"lastName": "Vogt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -113,7 +129,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Multidisciplinary Perspectives on Environment"
 }

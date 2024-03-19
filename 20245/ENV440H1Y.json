@@ -56,13 +56,29 @@
 14,
 14,
 14,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Kramarz"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Kramarz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -113,7 +129,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Professional Experience Course"
 }

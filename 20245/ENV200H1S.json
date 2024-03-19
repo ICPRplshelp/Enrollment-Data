@@ -56,13 +56,29 @@
 145,
 145,
 145,
-149
+149,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Romila",
+"lastName": "Verma"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Romila",
+"lastName": "Verma"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -113,7 +129,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Assessing Global Change: Science and the Environment"
 }

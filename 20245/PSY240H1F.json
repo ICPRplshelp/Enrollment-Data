@@ -56,13 +56,29 @@
 54,
 54,
 54,
+58,
 58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -113,7 +129,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Introduction to Abnormal Psychology"
 }

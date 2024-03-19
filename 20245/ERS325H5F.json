@@ -34,13 +34,29 @@
 9,
 9,
 9,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul Allan",
+"lastName": "Ashwell"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paul Allan",
+"lastName": "Ashwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -69,7 +85,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Field Camp I"
 }

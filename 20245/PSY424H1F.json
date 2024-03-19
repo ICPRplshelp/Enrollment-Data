@@ -56,13 +56,29 @@
 26,
 26,
 26,
-26
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
+"timing": 1710876670
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simone",
+"lastName": "Walker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -113,7 +129,8 @@
 1710522913,
 1710612859,
 1710700068,
-1710786407
+1710786407,
+1710876670
 ],
 "title": "Social Psychology of Interpersonal Relationships"
 }
