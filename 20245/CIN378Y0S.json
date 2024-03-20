@@ -35,13 +35,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kass",
+"lastName": "Banning"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kass",
+"lastName": "Banning"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -71,7 +87,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Aspects of National Cinema"
 }

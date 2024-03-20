@@ -57,13 +57,29 @@
 17,
 17,
 17,
-17
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mahmut Mert",
+"lastName": "Orsler"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mahmut Mert",
+"lastName": "Orsler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -115,7 +131,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Special Topics in Cinema as Social and Cultural Practice"
 }

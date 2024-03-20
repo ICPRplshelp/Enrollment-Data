@@ -57,13 +57,29 @@
 33,
 33,
 33,
-32
+32,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jordan",
+"lastName": "Howie"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jordan",
+"lastName": "Howie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -122,15 +138,112 @@
 19,
 19,
 20,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "N.",
+"lastName": "Leduc"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "N.",
+"lastName": "Leduc"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1710961268,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanne",
+"lastName": "Valin"
+}
+],
+"timing": 1710961268
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joanne",
+"lastName": "Valin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC2000"
 },
 {
 "createdAt": 1707431551,
@@ -187,13 +300,29 @@
 57,
 57,
 59,
+60,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracy",
+"lastName": "O'Brien"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracy",
+"lastName": "O'Brien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -245,7 +374,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Effective Writing"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "ASYNC",
-"enrollmentCap": 45,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1710961268
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -57,7 +62,8 @@
 29,
 29,
 28,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,7 +136,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Introductory Swahili"
 }

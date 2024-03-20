@@ -57,13 +57,29 @@
 18,
 18,
 18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniele",
+"lastName": "Iannucci"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniele",
+"lastName": "Iannucci"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +131,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Introduction to Film Study"
 }

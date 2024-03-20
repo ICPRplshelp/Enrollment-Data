@@ -57,13 +57,29 @@
 20,
 20,
 22,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danyse",
+"lastName": "Golick"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danyse",
+"lastName": "Golick"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -122,13 +138,29 @@
 14,
 14,
 14,
+14,
 14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Bennett"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Bennett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -252,13 +284,29 @@
 62,
 62,
 62,
-61
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dustin",
+"lastName": "Meyer"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dustin",
+"lastName": "Meyer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -310,7 +358,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Effective Writing"
 }

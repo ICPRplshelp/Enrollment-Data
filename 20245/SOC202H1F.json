@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 40,
+"enrollmentCap": 57,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 57,
+"time": 1710961268
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -56,6 +61,7 @@
 56,
 56,
 56,
+57,
 57,
 57
 ],
@@ -130,7 +136,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Introduction to Quantitative Methods in Sociology"
 }

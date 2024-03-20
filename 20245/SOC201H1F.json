@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1710961268
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -57,6 +62,7 @@
 60,
 60,
 60,
+62,
 62
 ],
 "instructorLog": {
@@ -130,7 +136,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Classical Sociological Theory"
 }

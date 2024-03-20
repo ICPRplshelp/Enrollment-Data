@@ -57,13 +57,29 @@
 40,
 40,
 40,
+40,
 40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arka",
+"lastName": "Chakraborty"
+}
+],
+"timing": 1710961268
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arka",
+"lastName": "Chakraborty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +131,8 @@
 1710612859,
 1710700068,
 1710786407,
-1710876670
+1710876670,
+1710961268
 ],
 "title": "Introduction to Colonial and postcolonial Writing"
 }
