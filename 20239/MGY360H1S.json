@@ -314,6 +314,7 @@
 35,
 35,
 35,
+35,
 35
 ],
 "instructorLog": {
@@ -331,6 +332,23 @@
 }
 ],
 "timing": 1692120475
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Brenda Jean",
+"lastName": "Andrews"
+},
+{
+"firstName": "Zhaolei",
+"lastName": "Zhang"
+},
+{
+"firstName": "Sarah Anne",
+"lastName": "McClymont"
+}
+],
+"timing": 1711046911
 }
 ]
 },
@@ -342,6 +360,10 @@
 {
 "firstName": "Zhaolei",
 "lastName": "Zhang"
+},
+{
+"firstName": "Sarah Anne",
+"lastName": "McClymont"
 }
 ],
 "isCancelled": false,
@@ -652,7 +674,8 @@
 1710699901,
 1710786241,
 1710876502,
-1710961107
+1710961107,
+1711046911
 ],
 "title": "Whole-Genome Sequencing and Analysis Laboratory"
 }

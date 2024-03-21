@@ -316,6 +316,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -329,13 +330,22 @@
 }
 ],
 "timing": 1699555966
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Thomas"
+}
+],
+"timing": 1711046911
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Eckhard",
-"lastName": "Schumann"
+"firstName": "Peter",
+"lastName": "Thomas"
 }
 ],
 "isCancelled": false,
@@ -643,7 +653,8 @@
 1710699901,
 1710786241,
 1710876502,
-1710961107
+1710961107,
+1711046911
 ],
 "title": "Advanced Accounting"
 }

@@ -314,6 +314,7 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
@@ -331,17 +332,30 @@
 }
 ],
 "timing": 1698713363
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vitor",
+"lastName": "Guerra"
+},
+{
+"firstName": "Kelsey",
+"lastName": "McLaughlin"
+}
+],
+"timing": 1711046911
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Carin",
-"lastName": "Wittnich"
-},
-{
 "firstName": "Vitor",
 "lastName": "Guerra"
+},
+{
+"firstName": "Kelsey",
+"lastName": "McLaughlin"
 }
 ],
 "isCancelled": false,
@@ -652,7 +666,8 @@
 1710699901,
 1710786241,
 1710876502,
-1710961107
+1710961107,
+1711046911
 ],
 "title": "Cardiovascular Physiology"
 }

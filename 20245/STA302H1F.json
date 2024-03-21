@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 275,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 275,
+"time": 1711047078
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -58,7 +63,8 @@
 290,
 294,
 296,
-296
+296,
+297
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -117,7 +123,8 @@
 1710700068,
 1710786407,
 1710876670,
-1710961268
+1710961268,
+1711047078
 ],
 "title": "Methods of Data Analysis I"
 }

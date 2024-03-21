@@ -1,0 +1,31 @@
+{
+"code": "ACMC01H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1711047078,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1711047077,
+1711047078
+],
+"title": "ACMEE Applied Practice I"
+}

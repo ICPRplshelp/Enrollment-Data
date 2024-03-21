@@ -36,13 +36,29 @@
 41,
 42,
 42,
-44
+44,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
+"timing": 1711047078
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -73,7 +89,8 @@
 1710700068,
 1710786407,
 1710876670,
-1710961268
+1710961268,
+1711047078
 ],
 "title": "Italian Award-Winners, Box-Office Hits"
 }

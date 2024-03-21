@@ -58,13 +58,29 @@
 78,
 78,
 78,
-76
+76,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Perley"
+}
+],
+"timing": 1711047078
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Perley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1710700068,
 1710786407,
 1710876670,
-1710961268
+1710961268,
+1711047078
 ],
 "title": "Religion and Film"
 }

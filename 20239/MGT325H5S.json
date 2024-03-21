@@ -311,6 +311,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -328,6 +329,15 @@
 }
 ],
 "timing": 1699555966
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tanya",
+"lastName": "Kirsch"
+}
+],
+"timing": 1711046911
 }
 ]
 },
@@ -335,10 +345,6 @@
 {
 "firstName": "Tanya",
 "lastName": "Kirsch"
-},
-{
-"firstName": "Eckhard",
-"lastName": "Schumann"
 }
 ],
 "isCancelled": false,
@@ -653,6 +659,7 @@
 36,
 36,
 36,
+36,
 36
 ],
 "instructorLog": {
@@ -670,6 +677,15 @@
 }
 ],
 "timing": 1699555966
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tanya",
+"lastName": "Kirsch"
+}
+],
+"timing": 1711046911
 }
 ]
 },
@@ -677,10 +693,6 @@
 {
 "firstName": "Tanya",
 "lastName": "Kirsch"
-},
-{
-"firstName": "Eckhard",
-"lastName": "Schumann"
 }
 ],
 "isCancelled": false,
@@ -988,7 +1000,8 @@
 1710699901,
 1710786241,
 1710876502,
-1710961107
+1710961107,
+1711046911
 ],
 "title": "Critical Thinking, Analysis and Decision Making I"
 }

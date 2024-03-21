@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1711047078
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -58,14 +63,15 @@
 12,
 12,
 12,
-12
+12,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -117,7 +123,8 @@
 1710700068,
 1710786407,
 1710876670,
-1710961268
+1710961268,
+1711047078
 ],
 "title": "Economics of Work and Organizations"
 }
