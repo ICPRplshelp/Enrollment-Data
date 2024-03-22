@@ -59,13 +59,29 @@
 45,
 46,
 45,
+45,
 45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melissande",
+"lastName": "Tomcik"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melissande",
+"lastName": "Tomcik"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +135,8 @@
 1710786407,
 1710876670,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "Latin & Greek in Scientific Terminology"
 }

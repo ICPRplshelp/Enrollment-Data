@@ -318,6 +318,7 @@
 19,
 19,
 19,
+19,
 19
 ],
 "instructorLog": {
@@ -344,14 +345,19 @@
 }
 ],
 "timing": 1692226488
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kristina",
+"lastName": "Lisk"
+}
+],
+"timing": 1711136525
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Dee",
-"lastName": "Ballyk"
-},
 {
 "firstName": "Kristina",
 "lastName": "Lisk"
@@ -669,7 +675,8 @@
 1710786241,
 1710876502,
 1710961107,
-1711046911
+1711046911,
+1711136525
 ],
 "title": "Anatomy Dissection"
 }

@@ -59,13 +59,29 @@
 101,
 102,
 103,
-105
+105,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Whissell"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paul",
+"lastName": "Whissell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +135,8 @@
 1710786407,
 1710876670,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "Introduction to Neuroscience"
 }

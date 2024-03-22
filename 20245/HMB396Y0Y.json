@@ -59,6 +59,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -141,13 +142,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Colleen",
+"lastName": "Dockstader"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Colleen",
+"lastName": "Dockstader"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3002"
 }
@@ -201,7 +218,8 @@
 1710786407,
 1710876670,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "International Research Project in Human Biology"
 }

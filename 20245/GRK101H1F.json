@@ -59,13 +59,29 @@
 10,
 10,
 10,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Ludwig"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Ludwig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +135,8 @@
 1710786407,
 1710876670,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "Introductory Ancient Greek I"
 }

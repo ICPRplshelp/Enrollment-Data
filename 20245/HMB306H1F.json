@@ -13,13 +13,29 @@
 "enrollmentLogs": [
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kerry",
+"lastName": "Bowman"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kerry",
+"lastName": "Bowman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +43,8 @@
 "timeIntervals": [
 1710961267,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "Ethical Considerations in Emerging Technology"
 }

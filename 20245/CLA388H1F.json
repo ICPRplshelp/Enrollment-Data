@@ -59,13 +59,29 @@
 17,
 17,
 17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jacob",
+"lastName": "Sawyer"
+}
+],
+"timing": 1711136686
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jacob",
+"lastName": "Sawyer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -119,7 +135,8 @@
 1710786407,
 1710876670,
 1710961268,
-1711047078
+1711047078,
+1711136686
 ],
 "title": "Classical Antiquity and the Cinema"
 }
