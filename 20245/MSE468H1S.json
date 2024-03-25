@@ -5,12 +5,18 @@
 {
 "createdAt": 1710522913,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1711391554
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -43,7 +49,8 @@
 1711047078,
 1711136686,
 1711231265,
-1711309256
+1711309256,
+1711391554
 ],
 "title": "Additive Manufacturing of Advanced Engineering Materials"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1707528364,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 20,
 "time": 1707767020
+},
+{
+"newCapacity": 30,
+"time": 1711391554
 }
 ],
 "initialCap": 0
@@ -66,7 +70,8 @@
 0,
 15,
 16,
-16
+16,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -143,7 +148,8 @@
 1711047078,
 1711136686,
 1711231265,
-1711309256
+1711309256,
+1711391554
 ],
 "title": "Design Research Internship"
 }

@@ -318,6 +318,7 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
@@ -348,6 +349,27 @@
 }
 ],
 "timing": 1711046911
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vitor",
+"lastName": "Guerra"
+},
+{
+"firstName": "Kelsey",
+"lastName": "McLaughlin"
+},
+{
+"firstName": "Jason",
+"lastName": "Fish"
+},
+{
+"firstName": "Paul",
+"lastName": "Delgado Olguin"
+}
+],
+"timing": 1711391383
 }
 ]
 },
@@ -359,6 +381,14 @@
 {
 "firstName": "Kelsey",
 "lastName": "McLaughlin"
+},
+{
+"firstName": "Jason",
+"lastName": "Fish"
+},
+{
+"firstName": "Paul",
+"lastName": "Delgado Olguin"
 }
 ],
 "isCancelled": false,
@@ -673,7 +703,8 @@
 1711046911,
 1711136525,
 1711231099,
-1711309087
+1711309087,
+1711391383
 ],
 "title": "Cardiovascular Physiology"
 }

@@ -40,13 +40,29 @@
 92,
 93,
 94,
+94,
 94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thottackad",
+"lastName": "Radhakrishnan"
+}
+],
+"timing": 1711391554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thottackad",
+"lastName": "Radhakrishnan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -81,7 +97,8 @@
 1711047078,
 1711136686,
 1711231265,
-1711309256
+1711309256,
+1711391554
 ],
 "title": "Chemical Principles 2"
 }
