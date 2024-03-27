@@ -64,13 +64,29 @@
 151,
 151,
 153,
-155
+155,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yasaman",
+"lastName": "Rohanifar"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yasaman",
+"lastName": "Rohanifar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -129,7 +145,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Software Design"
 }

@@ -64,13 +64,29 @@
 155,
 155,
 158,
-159
+159,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -129,7 +145,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Introduction to Artificial Intelligence"
 }

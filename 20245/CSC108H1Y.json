@@ -64,13 +64,29 @@
 163,
 163,
 169,
-175
+175,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joonho Jonathan",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -129,7 +145,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Introduction to Computer Programming"
 }

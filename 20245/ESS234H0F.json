@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 18,
+"time": 1711566554
+}
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
@@ -64,13 +69,29 @@
 17,
 17,
 17,
-17
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xu",
+"lastName": "Chu"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xu",
+"lastName": "Chu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -129,7 +150,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Introduction to Geological Field Methods"
 }

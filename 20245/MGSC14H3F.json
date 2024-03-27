@@ -50,13 +50,29 @@
 0,
 0,
 0,
-90
+90,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Constantinou"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Constantinou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -96,7 +112,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Management Ethics"
 }

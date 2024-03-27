@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1711566554
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -64,13 +69,29 @@
 10,
 10,
 10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carl-Georg",
+"lastName": "Bank"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carl-Georg",
+"lastName": "Bank"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -129,7 +150,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Field Techniques"
 }

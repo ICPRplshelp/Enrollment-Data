@@ -50,13 +50,29 @@
 0,
 0,
 0,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "DeGagne"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "DeGagne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -96,7 +112,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "The History and Evolution of Reconciliation: The Indian Residential School Settlement"
 }

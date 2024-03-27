@@ -64,13 +64,29 @@
 353,
 353,
 354,
+354,
 354
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Tutty"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Tutty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -129,7 +145,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Confronting Global Change"
 }

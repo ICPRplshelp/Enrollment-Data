@@ -64,13 +64,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
+}
+],
+"timing": 1711566554
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -129,7 +145,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Advanced Geological Field Methods"
 }

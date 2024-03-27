@@ -64,7 +64,8 @@
 109,
 109,
 113,
-114
+114,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,6 +78,19 @@
 }
 ],
 "timing": 1707431551
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jill",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Laurel",
+"lastName": "Duquette"
+}
+],
+"timing": 1711566554
 }
 ]
 },
@@ -84,6 +98,10 @@
 {
 "firstName": "Jill",
 "lastName": "Wheeler"
+},
+{
+"firstName": "Laurel",
+"lastName": "Duquette"
 }
 ],
 "isCancelled": false,
@@ -144,7 +162,8 @@
 1711231265,
 1711309256,
 1711391554,
-1711505160
+1711505160,
+1711566554
 ],
 "title": "Adaptation and Biodiversity"
 }

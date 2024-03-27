@@ -317,13 +317,29 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ZAIN",
+"lastName": "MIAN"
+}
+],
+"timing": 1711566367
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ZAIN",
+"lastName": "MIAN"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -635,7 +651,8 @@
 1711231099,
 1711309087,
 1711391383,
-1711504970
+1711504970,
+1711566367
 ],
 "title": "Introduction to Urdu"
 }
