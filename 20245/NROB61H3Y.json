@@ -49,13 +49,29 @@
 0,
 0,
 0,
-0
+0,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Debra Ann",
+"lastName": "Bercovici"
+}
+],
+"timing": 1711505160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Debra Ann",
+"lastName": "Bercovici"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -94,7 +110,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Neurophysiology"
 }

@@ -49,13 +49,29 @@
 0,
 0,
 0,
-0
+0,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha",
+"lastName": "Hansen"
+}
+],
+"timing": 1711505160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samantha",
+"lastName": "Hansen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -106,13 +122,29 @@
 0,
 0,
 0,
-0
+0,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha",
+"lastName": "Hansen"
+}
+],
+"timing": 1711505160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samantha",
+"lastName": "Hansen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -151,7 +183,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Managing People and Groups in Organizations"
 }

@@ -63,13 +63,29 @@
 52,
 52,
 52,
-52
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amber Gigi",
+"lastName": "Hoi"
+}
+],
+"timing": 1711505160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amber Gigi",
+"lastName": "Hoi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -127,7 +143,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Evolutionary Medicine"
 }

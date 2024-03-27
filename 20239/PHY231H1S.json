@@ -319,6 +319,7 @@
 31,
 31,
 31,
+31,
 31
 ],
 "instructorLog": {
@@ -332,6 +333,19 @@
 }
 ],
 "timing": 1687804745
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Anton",
+"lastName": "Zilman"
+},
+{
+"firstName": "Sidhartha",
+"lastName": "Goyal"
+}
+],
+"timing": 1711504970
 }
 ]
 },
@@ -339,6 +353,10 @@
 {
 "firstName": "Anton",
 "lastName": "Zilman"
+},
+{
+"firstName": "Sidhartha",
+"lastName": "Goyal"
 }
 ],
 "isCancelled": false,
@@ -654,7 +672,8 @@
 1711136525,
 1711231099,
 1711309087,
-1711391383
+1711391383,
+1711504970
 ],
 "title": "Physics of Living Systems"
 }

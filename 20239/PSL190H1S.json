@@ -319,6 +319,7 @@
 29,
 29,
 29,
+29,
 29
 ],
 "instructorLog": {
@@ -332,6 +333,23 @@
 }
 ],
 "timing": 1703274497
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kacey",
+"lastName": "Prentice"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Jaideep",
+"lastName": "Bains"
+}
+],
+"timing": 1711504970
 }
 ]
 },
@@ -339,6 +357,14 @@
 {
 "firstName": "Kacey",
 "lastName": "Prentice"
+},
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Jaideep",
+"lastName": "Bains"
 }
 ],
 "isCancelled": false,
@@ -654,7 +680,8 @@
 1711136525,
 1711231099,
 1711309087,
-1711391383
+1711391383,
+1711504970
 ],
 "title": "Biomedical Research at the Cutting Edge"
 }

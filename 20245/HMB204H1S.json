@@ -63,13 +63,37 @@
 77,
 77,
 77,
+74,
 74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
 },
-"instructors": [],
+{
+"firstName": "James",
+"lastName": "Hong"
+}
+],
+"timing": 1711505160
+}
+]
+},
+"instructors": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
+},
+{
+"firstName": "James",
+"lastName": "Hong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -127,7 +151,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Introduction to Human Biology"
 }

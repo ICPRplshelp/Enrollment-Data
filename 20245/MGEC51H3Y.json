@@ -49,13 +49,29 @@
 0,
 0,
 0,
-0
+0,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1711505160
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -94,7 +110,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Labour Economics I"
 }

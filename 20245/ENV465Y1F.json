@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1711505160
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -60,6 +65,7 @@
 24,
 25,
 25,
+26,
 26,
 26,
 26,
@@ -142,7 +148,8 @@
 1711136686,
 1711231265,
 1711309256,
-1711391554
+1711391554,
+1711505160
 ],
 "title": "Toronto Climate Summer School"
 }
