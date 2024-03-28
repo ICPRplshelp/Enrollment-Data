@@ -43,13 +43,29 @@
 13,
 13,
 13,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aslan",
+"lastName": "Amani"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aslan",
+"lastName": "Amani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -87,7 +103,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Justice and Power in Political Life"
 }

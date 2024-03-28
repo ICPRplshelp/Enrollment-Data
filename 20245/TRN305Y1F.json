@@ -65,13 +65,29 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -131,7 +147,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Basic Principles of Law"
 }

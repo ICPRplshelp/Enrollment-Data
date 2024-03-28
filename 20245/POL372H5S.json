@@ -43,13 +43,29 @@
 26,
 27,
 27,
-28
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Wootten"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Wootten"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -87,7 +103,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Communicating Politics"
 }

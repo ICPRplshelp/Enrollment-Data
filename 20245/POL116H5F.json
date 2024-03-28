@@ -43,13 +43,29 @@
 23,
 23,
 23,
-23
+23,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Martha",
+"lastName": "Balaguera Cuervo"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Martha",
+"lastName": "Balaguera Cuervo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -87,7 +103,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Politics & Social Justice"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "ASYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1711652890
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -43,7 +48,8 @@
 132,
 133,
 136,
-138
+138,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -87,7 +93,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Introduction to Developmental Psychology"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 2,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1711652890
+}
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -39,6 +44,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -175,7 +181,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Tropical Field Biology"
 }

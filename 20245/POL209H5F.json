@@ -43,13 +43,29 @@
 75,
 80,
 81,
-81
+81,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Yaniszewski"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Yaniszewski"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -87,7 +103,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Introduction to International Relations"
 }

@@ -65,13 +65,29 @@
 85,
 88,
 88,
+89,
 89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rhan-Ju",
+"lastName": "Song"
+}
+],
+"timing": 1711652890
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rhan-Ju",
+"lastName": "Song"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -131,7 +147,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "Medical Anthropology: an Evolutionary Perspective on Human Health"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "ASYNC",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1711652890
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -65,7 +70,8 @@
 0,
 0,
 0,
-0
+0,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,7 +137,8 @@
 1711309256,
 1711391554,
 1711505160,
-1711566554
+1711566554,
+1711652890
 ],
 "title": "International Experience I"
 }
