@@ -66,13 +66,29 @@
 56,
 54,
 54,
-53
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -133,7 +149,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Introduction to Quantum Physics"
 }

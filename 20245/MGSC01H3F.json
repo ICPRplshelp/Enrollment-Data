@@ -52,13 +52,29 @@
 0,
 41,
 45,
-46
+46,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francis Junior",
+"lastName": "Olatoye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -100,7 +116,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Corporate Strategy"
 }

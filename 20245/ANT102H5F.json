@@ -44,13 +44,29 @@
 83,
 83,
 86,
-86
+86,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mustahid",
+"lastName": "Husain"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mustahid",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +105,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Introduction to Sociocultural and Linguistic Anthropology"
 }

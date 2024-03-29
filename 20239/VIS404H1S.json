@@ -304,13 +304,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"timing": 1711740074
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -609,7 +625,8 @@
 1711391383,
 1711504970,
 1711566367,
-1711652726
+1711652726,
+1711740074
 ],
 "title": "Independent Studies"
 }

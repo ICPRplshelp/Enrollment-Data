@@ -44,13 +44,29 @@
 54,
 54,
 53,
+52,
 52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Barac"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Victor",
+"lastName": "Barac"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +105,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Sociocultural Anthropology"
 }

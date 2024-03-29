@@ -66,13 +66,29 @@
 57,
 58,
 57,
-56
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amar C.",
+"lastName": "Vutha"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amar C.",
+"lastName": "Vutha"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -133,7 +149,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Classical Mechanics"
 }

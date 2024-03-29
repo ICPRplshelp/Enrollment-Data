@@ -44,13 +44,29 @@
 23,
 23,
 23,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Woodall"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Karen",
+"lastName": "Woodall"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -89,7 +105,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Best Practices in Forensic Science"
 }

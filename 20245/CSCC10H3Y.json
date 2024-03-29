@@ -52,13 +52,29 @@
 0,
 49,
 55,
+56,
 56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naureen",
+"lastName": "Nizam"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Naureen",
+"lastName": "Nizam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -100,7 +116,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Human-Computer Interaction"
 }

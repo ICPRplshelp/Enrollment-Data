@@ -52,13 +52,29 @@
 0,
 13,
 16,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nick",
+"lastName": "Cheng"
+}
+],
+"timing": 1711740263
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nick",
+"lastName": "Cheng"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -100,7 +116,8 @@
 1711391554,
 1711505160,
 1711566554,
-1711652890
+1711652890,
+1711740263
 ],
 "title": "Introduction to the Theory of Computation"
 }
