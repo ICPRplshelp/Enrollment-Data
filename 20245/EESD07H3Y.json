@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 8,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 8,
 "time": 1709093202
+},
+{
+"newCapacity": 3,
+"time": 1711998435
 }
 ],
 "initialCap": 0
@@ -55,7 +59,8 @@
 4,
 4,
 4,
-4
+4,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -106,7 +111,8 @@
 1711652890,
 1711740263,
 1711824427,
-1711914757
+1711914757,
+1711998435
 ],
 "title": "Field Camp II"
 }

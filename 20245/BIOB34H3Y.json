@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1709093202
+},
+{
+"newCapacity": 130,
+"time": 1711998435
 }
 ],
 "initialCap": 0
@@ -55,7 +59,8 @@
 120,
 123,
 122,
-122
+122,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +126,8 @@
 1711652890,
 1711740263,
 1711824427,
-1711914757
+1711914757,
+1711998435
 ],
 "title": "Animal Physiology"
 }
