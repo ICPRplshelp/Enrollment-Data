@@ -56,13 +56,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robin",
+"lastName": "Sacks"
+}
+],
+"timing": 1712113164
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Sacks"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -113,7 +129,8 @@
 1711740263,
 1711824427,
 1711914757,
-1711998435
+1711998435,
+1712113164
 ],
 "title": "Positive Psychology for Engineers"
 }

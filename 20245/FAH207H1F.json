@@ -70,13 +70,29 @@
 107,
 107,
 107,
+109,
 109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "SeungJung",
+"lastName": "Kim"
+}
+],
+"timing": 1712113164
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "SeungJung",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -141,7 +157,8 @@
 1711740263,
 1711824427,
 1711914757,
-1711998435
+1711998435,
+1712113164
 ],
 "title": "Greek and Roman Art and Archaeology"
 }
