@@ -327,6 +327,7 @@
 105,
 105,
 105,
+105,
 105
 ],
 "instructorLog": {
@@ -340,12 +341,21 @@
 }
 ],
 "timing": 1698955219
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bobby",
+"lastName": "Vos"
+}
+],
+"timing": 1712171294
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Bob Feiste Martinus",
+"firstName": "Bobby",
 "lastName": "Vos"
 }
 ],
@@ -670,7 +680,8 @@
 1711824248,
 1711914596,
 1711998270,
-1712112956
+1712112956,
+1712171294
 ],
 "title": "Introductory Philosophy of Science"
 }

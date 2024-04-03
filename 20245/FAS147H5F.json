@@ -49,13 +49,37 @@
 22,
 22,
 22,
-22
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "FACCIPONTE",
+"lastName": "FACCIPONTE"
 },
-"instructors": [],
+{
+"firstName": "KATHLEEN",
+"lastName": "HEARN"
+}
+],
+"timing": 1712171457
+}
+]
+},
+"instructors": [
+{
+"firstName": "FACCIPONTE",
+"lastName": "FACCIPONTE"
+},
+{
+"firstName": "KATHLEEN",
+"lastName": "HEARN"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -106,13 +130,29 @@
 9,
 9,
 18,
+22,
 22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "TONI",
+"lastName": "HAFKENSCHEID"
+}
+],
+"timing": 1712171457
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "TONI",
+"lastName": "HAFKENSCHEID"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -156,7 +196,8 @@
 1711824427,
 1711914757,
 1711998435,
-1712113164
+1712113164,
+1712171457
 ],
 "title": "Photography I"
 }

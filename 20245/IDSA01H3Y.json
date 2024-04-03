@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 120,
 "time": 1709093202
+},
+{
+"newCapacity": 125,
+"time": 1712171457
 }
 ],
 "initialCap": 0
@@ -57,7 +61,8 @@
 116,
 116,
 120,
-124
+124,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -110,7 +115,8 @@
 1711824427,
 1711914757,
 1711998435,
-1712113164
+1712113164,
+1712171457
 ],
 "title": "Introduction to International Development Studies"
 }

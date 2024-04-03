@@ -49,13 +49,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "JOY",
+"lastName": "WONG"
+}
+],
+"timing": 1712171457
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "JOY",
+"lastName": "WONG"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -106,13 +122,29 @@
 26,
 26,
 26,
-27
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "PHOEBE",
+"lastName": "TODD-PARRISH"
+}
+],
+"timing": 1712171457
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "PHOEBE",
+"lastName": "TODD-PARRISH"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -156,7 +188,8 @@
 1711824427,
 1711914757,
 1711998435,
-1712113164
+1712113164,
+1712171457
 ],
 "title": "Print Media I"
 }
