@@ -72,13 +72,29 @@
 26,
 28,
 29,
+29,
 29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Addis"
+}
+],
+"timing": 1712222460
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Addis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -152,13 +168,29 @@
 56,
 57,
 57,
-57
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Addis"
+}
+],
+"timing": 1712222460
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Addis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -225,7 +257,8 @@
 1711914757,
 1711998435,
 1712113164,
-1712171457
+1712171457,
+1712222460
 ],
 "title": "Strategic Management"
 }

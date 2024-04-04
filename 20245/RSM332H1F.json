@@ -72,13 +72,29 @@
 32,
 32,
 33,
+32,
 32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rayomand",
+"lastName": "Daroga"
+}
+],
+"timing": 1712222460
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rayomand",
+"lastName": "Daroga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -152,13 +168,29 @@
 42,
 44,
 43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rayomand",
+"lastName": "Daroga"
+}
+],
+"timing": 1712222460
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rayomand",
+"lastName": "Daroga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -225,7 +257,8 @@
 1711914757,
 1711998435,
 1712113164,
-1712171457
+1712171457,
+1712222460
 ],
 "title": "Capital Market Theory"
 }

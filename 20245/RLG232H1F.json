@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1712222460
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -70,6 +75,7 @@
 72,
 72,
 72,
+73,
 73,
 73,
 73
@@ -160,7 +166,8 @@
 1711914757,
 1711998435,
 1712113164,
-1712171457
+1712171457,
+1712222460
 ],
 "title": "Religion and Film"
 }

@@ -72,13 +72,29 @@
 41,
 39,
 39,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Harry",
+"lastName": "Burke"
+}
+],
+"timing": 1712222460
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Harry",
+"lastName": "Burke"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -145,7 +161,8 @@
 1711914757,
 1711998435,
 1712113164,
-1712171457
+1712171457,
+1712222460
 ],
 "title": "Futures and Options Markets"
 }

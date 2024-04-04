@@ -1,21 +1,26 @@
 {
 "code": "PHLC93H3F",
-"faculty": "UNKNOWN",
+"faculty": "SCAR",
 "meetings": [
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 50,
 "time": 1709093202
+},
+{
+"newCapacity": 35,
+"time": 1712222460
 }
 ],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -46,7 +51,8 @@
 1709370711,
 1709410212,
 1709462289,
-1709583002
+1709583002,
+1712222460
 ],
 "title": "Topics in Political Philosophy"
 }
