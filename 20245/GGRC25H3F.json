@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 80,
+"time": 1712269138
 }
 ],
 "initialCap": 0
@@ -59,13 +63,29 @@
 99,
 101,
 98,
-98
+98,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thembela",
+"lastName": "Kepe"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thembela",
+"lastName": "Kepe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -114,7 +134,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Land Reform and Development"
 }

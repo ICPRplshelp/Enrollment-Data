@@ -73,13 +73,29 @@
 56,
 56,
 57,
-57
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elisa",
+"lastName": "Privitera"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elisa",
+"lastName": "Privitera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -147,7 +163,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Environment, Food and People"
 }

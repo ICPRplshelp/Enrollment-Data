@@ -73,13 +73,29 @@
 19,
 19,
 19,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adriel",
+"lastName": "Weaver"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adriel",
+"lastName": "Weaver"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -147,7 +163,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Criminal Law"
 }

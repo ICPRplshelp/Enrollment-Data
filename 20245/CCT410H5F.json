@@ -51,7 +51,8 @@
 32,
 34,
 35,
-35
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -64,13 +65,22 @@
 }
 ],
 "timing": 1710193414
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Peden"
+}
+],
+"timing": 1712269138
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Steve",
-"lastName": "Szigeti"
+"firstName": "Elizabeth",
+"lastName": "Peden"
 }
 ],
 "isCancelled": false,
@@ -118,7 +128,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "CCIT Internship I"
 }

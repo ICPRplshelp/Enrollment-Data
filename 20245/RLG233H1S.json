@@ -78,13 +78,29 @@
 105,
 105,
 104,
+104,
 104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophia Lucia Maria",
+"lastName": "Omokanye"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophia Lucia Maria",
+"lastName": "Omokanye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -152,7 +168,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Religion and Popular Culture"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1708542357,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1712269138
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -59,7 +64,8 @@
 97,
 98,
 98,
-98
+98,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,7 +140,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Dynamics"
 }

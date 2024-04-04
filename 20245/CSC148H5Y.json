@@ -51,13 +51,29 @@
 180,
 185,
 192,
-192
+192,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -110,13 +126,29 @@
 163,
 172,
 182,
-184
+184,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -162,7 +194,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Introduction to Computer Science"
 }

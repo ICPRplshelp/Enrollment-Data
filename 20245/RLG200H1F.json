@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 70,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1712269138
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -73,13 +78,29 @@
 125,
 122,
 122,
-122
+122,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephanie",
+"lastName": "Duclos-King"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephanie",
+"lastName": "Duclos-King"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -147,7 +168,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "The Study of Religion"
 }

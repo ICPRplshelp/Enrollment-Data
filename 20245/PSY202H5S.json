@@ -51,13 +51,29 @@
 42,
 42,
 42,
-42
+42,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Stollstorff"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Melanie",
+"lastName": "Stollstorff"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -103,7 +119,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Introduction to Quantitative Research in Psychology II"
 }

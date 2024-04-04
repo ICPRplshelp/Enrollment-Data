@@ -5,9 +5,14 @@
 {
 "createdAt": 1708542357,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1712269138
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -59,7 +64,8 @@
 0,
 0,
 0,
-0
+0,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,7 +140,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Positive Psychology for Engineers"
 }

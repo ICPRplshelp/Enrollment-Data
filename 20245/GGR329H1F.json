@@ -73,13 +73,29 @@
 166,
 166,
 165,
-165
+165,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcellinus",
+"lastName": "Essah"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marcellinus",
+"lastName": "Essah"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -147,7 +163,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "The Global Food System"
 }

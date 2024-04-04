@@ -73,13 +73,29 @@
 85,
 85,
 85,
+85,
 85
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ray",
+"lastName": "Jewett"
+}
+],
+"timing": 1712269138
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ray",
+"lastName": "Jewett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -147,7 +163,8 @@
 1711998435,
 1712113164,
 1712171457,
-1712222460
+1712222460,
+1712269138
 ],
 "title": "Geographic Information and Mapping II"
 }
