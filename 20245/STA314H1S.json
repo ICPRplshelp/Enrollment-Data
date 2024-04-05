@@ -37,13 +37,29 @@
 124,
 122,
 122,
-122
+122,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammad Kaviul",
+"lastName": "Khan"
+}
+],
+"timing": 1712348729
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammad Kaviul",
+"lastName": "Khan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -75,7 +91,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "Statistical Methods for Machine Learning I"
 }

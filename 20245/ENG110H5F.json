@@ -52,13 +52,29 @@
 47,
 49,
 49,
-49
+49,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
+"timing": 1712348729
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniela",
+"lastName": "Janes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -105,7 +121,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "Narrative"
 }

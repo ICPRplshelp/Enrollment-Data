@@ -74,13 +74,37 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amy N M",
+"lastName": "Fox"
 },
-"instructors": [],
+{
+"firstName": "Alec",
+"lastName": "McLellan"
+}
+],
+"timing": 1712348729
+}
+]
+},
+"instructors": [
+{
+"firstName": "Amy N M",
+"lastName": "Fox"
+},
+{
+"firstName": "Alec",
+"lastName": "McLellan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -149,7 +173,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "Archaeological Field Methods"
 }

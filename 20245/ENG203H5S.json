@@ -52,13 +52,29 @@
 43,
 45,
 45,
+46,
 46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chris",
+"lastName": "Koenig-Woodyard"
+}
+],
+"timing": 1712348729
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chris",
+"lastName": "Koenig-Woodyard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -105,7 +121,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "British Literature in the World II: Romantic to Contemporary"
 }

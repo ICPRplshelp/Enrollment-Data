@@ -74,7 +74,8 @@
 83,
 84,
 84,
-84
+84,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -87,6 +88,19 @@
 }
 ],
 "timing": 1707431551
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Mustahid",
+"lastName": "Husain"
+}
+],
+"timing": 1712348729
 }
 ]
 },
@@ -94,6 +108,10 @@
 {
 "firstName": "Shawn",
 "lastName": "Lehman"
+},
+{
+"firstName": "Mustahid",
+"lastName": "Husain"
 }
 ],
 "isCancelled": false,
@@ -164,7 +182,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "Introduction to Anthropology"
 }

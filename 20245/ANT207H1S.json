@@ -74,13 +74,29 @@
 23,
 23,
 23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maya",
+"lastName": "El Helou"
+}
+],
+"timing": 1712348729
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maya",
+"lastName": "El Helou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -149,7 +165,8 @@
 1712113164,
 1712171457,
 1712222460,
-1712269138
+1712269138,
+1712348729
 ],
 "title": "Core Concepts in Social and Cultural Anthropology"
 }
