@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 22,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 22,
 "time": 1709093202
+},
+{
+"newCapacity": 26,
+"time": 1712434103
 }
 ],
 "initialCap": 0
@@ -60,6 +64,7 @@
 23,
 23,
 23,
+26,
 26,
 26
 ],
@@ -133,7 +138,8 @@
 1712171457,
 1712222460,
 1712269138,
-1712348729
+1712348729,
+1712434103
 ],
 "title": "Studies in Postmodern Poetry"
 }

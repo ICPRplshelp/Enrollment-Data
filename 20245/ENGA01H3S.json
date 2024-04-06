@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 95,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 95,
 "time": 1709093202
+},
+{
+"newCapacity": 100,
+"time": 1712434103
 }
 ],
 "initialCap": 0
@@ -61,7 +65,8 @@
 203,
 202,
 200,
-201
+201,
+202
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -133,7 +138,8 @@
 1712171457,
 1712222460,
 1712269138,
-1712348729
+1712348729,
+1712434103
 ],
 "title": "What Is Literature?"
 }

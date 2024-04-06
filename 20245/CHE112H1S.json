@@ -1,0 +1,31 @@
+{
+"code": "CHE112H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1712434103,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1712434102,
+1712434103
+],
+"title": "Physical Chemistry"
+}
