@@ -78,13 +78,29 @@
 7,
 7,
 7,
-7
+7,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katerina",
+"lastName": "Apokatanidis"
+}
+],
+"timing": 1712606869
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katerina",
+"lastName": "Apokatanidis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -157,7 +173,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Introductory Ancient Greek II"
 }

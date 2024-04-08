@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1712606869
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -56,7 +61,8 @@
 109,
 109,
 109,
-109
+109,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,7 +119,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Exploring the Universe"
 }

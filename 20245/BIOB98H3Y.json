@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 30,
 "time": 1709093202
+},
+{
+"newCapacity": 45,
+"time": 1712606869
 }
 ],
 "initialCap": 0
@@ -64,7 +68,8 @@
 39,
 40,
 40,
-40
+40,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,7 +144,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Supervised Introductory Research in Biology"
 }

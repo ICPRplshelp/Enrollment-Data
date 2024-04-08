@@ -64,13 +64,29 @@
 68,
 68,
 68,
-68
+68,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
+"timing": 1712606869
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -136,7 +152,8 @@
 63,
 63,
 63,
-63
+63,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -145,6 +162,74 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC02"
+},
+{
+"createdAt": 1712606869,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+14
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
 }
 ],
 "timeIntervals": [
@@ -196,7 +281,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Management Skills"
 }

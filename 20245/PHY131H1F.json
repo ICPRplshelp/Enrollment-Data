@@ -78,13 +78,37 @@
 215,
 215,
 215,
-215
+215,
+217
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tahir",
+"lastName": "Shaaran"
 },
-"instructors": [],
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+}
+],
+"timing": 1712606869
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tahir",
+"lastName": "Shaaran"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -157,7 +181,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Introduction to Physics I"
 }

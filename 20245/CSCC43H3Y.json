@@ -64,7 +64,8 @@
 70,
 72,
 72,
-72
+72,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,13 +78,22 @@
 }
 ],
 "timing": 1712113164
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Quizhen",
+"lastName": "ZHANG"
+}
+],
+"timing": 1712606869
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Irene",
-"lastName": "ZHANG (NOUTORID)"
+"firstName": "Quizhen",
+"lastName": "ZHANG"
 }
 ],
 "isCancelled": false,
@@ -139,7 +149,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Introduction to Databases"
 }

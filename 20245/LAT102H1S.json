@@ -78,13 +78,29 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Georgia",
+"lastName": "Ferentinou"
+}
+],
+"timing": 1712606869
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Georgia",
+"lastName": "Ferentinou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -157,7 +173,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Introductory Latin II"
 }

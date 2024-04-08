@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 45,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1712606869
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -56,7 +61,8 @@
 75,
 75,
 75,
-75
+75,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -128,7 +134,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Latin and Greek in Scientific Terminology"
 }

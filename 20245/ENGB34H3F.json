@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1709093202
+},
+{
+"newCapacity": 50,
+"time": 1712606869
 }
 ],
 "initialCap": 0
@@ -64,7 +68,8 @@
 52,
 53,
 53,
-53
+53,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -124,7 +129,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "The Short Story"
 }

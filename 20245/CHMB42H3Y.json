@@ -64,13 +64,29 @@
 72,
 72,
 72,
-72
+72,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tsuimy",
+"lastName": "Shao"
+}
+],
+"timing": 1712606869
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tsuimy",
+"lastName": "Shao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -124,7 +140,8 @@
 1712348729,
 1712434103,
 1712486161,
-1712519156
+1712519156,
+1712606869
 ],
 "title": "Organic Chemistry II"
 }
