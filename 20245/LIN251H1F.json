@@ -79,13 +79,29 @@
 19,
 19,
 19,
-19
+19,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaleigh",
+"lastName": "Woolford"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaleigh",
+"lastName": "Woolford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -159,7 +175,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Introduction to Sociolinguistics"
 }

@@ -57,13 +57,29 @@
 29,
 29,
 29,
-29
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennet",
+"lastName": "Baumbach"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennet",
+"lastName": "Baumbach"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -115,7 +131,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Experimental Design and Theory"
 }

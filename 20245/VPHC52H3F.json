@@ -69,13 +69,29 @@
 12,
 12,
 12,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Gervers"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Gervers"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -130,7 +146,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Ethiopia: Seeing History"
 }

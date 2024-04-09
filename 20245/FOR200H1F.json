@@ -79,13 +79,29 @@
 100,
 100,
 100,
+102,
 102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juliana",
+"lastName": "Vantellingen"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juliana",
+"lastName": "Vantellingen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -159,7 +175,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Conservation of Canada's Forests"
 }

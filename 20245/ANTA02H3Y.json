@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 120,
 "time": 1709093202
+},
+{
+"newCapacity": 165,
+"time": 1712692790
 }
 ],
 "initialCap": 0
@@ -65,7 +69,8 @@
 164,
 164,
 164,
-160
+160,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,7 +131,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Introduction to Anthropology: Society, Culture and Language"
 }

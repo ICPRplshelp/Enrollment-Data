@@ -79,13 +79,29 @@
 54,
 54,
 54,
-57
+57,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mia",
+"lastName": "Radovanovic"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mia",
+"lastName": "Radovanovic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -159,7 +175,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Introduction to Developmental Psychology"
 }

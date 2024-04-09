@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1712692790
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -57,7 +62,8 @@
 113,
 113,
 113,
-104
+104,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,7 +136,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Regression Analysis"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1709093202
+},
+{
+"newCapacity": 125,
+"time": 1712692790
 }
 ],
 "initialCap": 0
@@ -65,7 +69,8 @@
 105,
 105,
 105,
-105
+105,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,7 +146,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Evolutionary Biology"
 }

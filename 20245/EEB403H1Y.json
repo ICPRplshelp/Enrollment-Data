@@ -5,12 +5,16 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 3,
+"enrollmentCap": 4,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 3,
 "time": 1711652890
+},
+{
+"newCapacity": 4,
+"time": 1712692790
 }
 ],
 "initialCap": 2
@@ -84,7 +88,8 @@
 3,
 3,
 3,
-3
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -208,7 +213,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Tropical Field Biology"
 }

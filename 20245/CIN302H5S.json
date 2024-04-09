@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1712692790
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -57,7 +62,8 @@
 56,
 56,
 56,
-54
+54,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -130,7 +136,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Topics in Cinema Studies"
 }

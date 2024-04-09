@@ -5,9 +5,14 @@
 {
 "createdAt": 1709952239,
 "delivery": "SYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 500,
+"time": 1712692790
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -48,7 +53,8 @@
 351,
 351,
 351,
-360
+360,
+377
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,7 +103,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Listening to Music"
 }

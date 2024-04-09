@@ -57,13 +57,29 @@
 12,
 12,
 12,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Holly",
+"lastName": "Bradley"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Holly",
+"lastName": "Bradley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -115,7 +131,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Language Development"
 }

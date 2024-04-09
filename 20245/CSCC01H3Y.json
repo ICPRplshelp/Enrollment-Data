@@ -65,13 +65,29 @@
 76,
 76,
 76,
-82
+82,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pankaj",
+"lastName": "Agrawal"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pankaj",
+"lastName": "Agrawal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -126,7 +142,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Introduction to Software Engineering"
 }

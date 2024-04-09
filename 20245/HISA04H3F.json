@@ -65,7 +65,8 @@
 63,
 63,
 63,
-67
+67,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,6 +79,19 @@
 }
 ],
 "timing": 1710961268
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Esmat",
+"lastName": "Elhalaby"
+},
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
+}
+],
+"timing": 1712692790
 }
 ]
 },
@@ -85,6 +99,10 @@
 {
 "firstName": "Esmat",
 "lastName": "Elhalaby"
+},
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
 }
 ],
 "isCancelled": false,
@@ -141,7 +159,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Themes in World History I"
 }

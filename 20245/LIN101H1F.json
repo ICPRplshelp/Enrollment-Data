@@ -79,7 +79,8 @@
 85,
 85,
 85,
-91
+91,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -92,13 +93,22 @@
 }
 ],
 "timing": 1707431551
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Zhanao",
+"lastName": "Fu"
+}
+],
+"timing": 1712692790
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Peter",
-"lastName": "Jurgec"
+"firstName": "Zhanao",
+"lastName": "Fu"
 }
 ],
 "isCancelled": false,
@@ -174,7 +184,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Introduction to Linguistics: Sound Structure"
 }

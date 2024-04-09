@@ -79,13 +79,29 @@
 30,
 30,
 30,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jida",
+"lastName": "Jaffan"
+}
+],
+"timing": 1712692790
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jida",
+"lastName": "Jaffan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -159,7 +175,8 @@
 1712434103,
 1712486161,
 1712519156,
-1712606869
+1712606869,
+1712692790
 ],
 "title": "Language Acquisition"
 }
