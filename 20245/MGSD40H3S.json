@@ -66,13 +66,29 @@
 22,
 22,
 23,
-24
+24,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eilia",
+"lastName": "Yazdanian"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eilia",
+"lastName": "Yazdanian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -128,7 +144,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Principles of Corporate Social Responsibility"
 }

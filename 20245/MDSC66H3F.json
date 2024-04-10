@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 95,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 95,
+"time": 1712777310
 }
 ],
 "initialCap": 0
@@ -66,7 +70,8 @@
 115,
 115,
 113,
-112
+112,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -128,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Selfies and the Selfie Culture"
 }

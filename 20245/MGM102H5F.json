@@ -58,13 +58,29 @@
 35,
 35,
 36,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Swanston"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Swanston"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Management in a Changing Environment"
 }

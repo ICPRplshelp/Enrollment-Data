@@ -66,7 +66,8 @@
 36,
 36,
 39,
-44
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -75,6 +76,76 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1712777310,
+"delivery": "SYNC",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -128,7 +199,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Critical Writing About Literature"
 }

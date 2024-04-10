@@ -66,13 +66,29 @@
 135,
 135,
 140,
-149
+149,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Albert Yu Cheong",
+"lastName": "Lai"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Albert Yu Cheong",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -128,7 +144,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Software Tools and Systems Programming"
 }

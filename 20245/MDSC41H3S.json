@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 75,
+"time": 1712777310
 }
 ],
 "initialCap": 0
@@ -66,7 +70,8 @@
 135,
 135,
 135,
-136
+136,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -128,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Media and Popular Culture in East Asia"
 }

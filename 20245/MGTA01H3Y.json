@@ -66,13 +66,29 @@
 175,
 175,
 185,
-189
+189,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arif M.",
+"lastName": "Toor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -128,7 +144,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Introduction to Business"
 }

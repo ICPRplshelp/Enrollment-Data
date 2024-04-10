@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1712777310
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -58,7 +63,8 @@
 54,
 54,
 54,
-53
+53,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -117,7 +123,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "British Literature in the World I: Medieval to Eighteenth-Century"
 }

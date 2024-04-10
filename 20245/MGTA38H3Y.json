@@ -66,13 +66,29 @@
 12,
 12,
 14,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -128,7 +144,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Management Communications"
 }

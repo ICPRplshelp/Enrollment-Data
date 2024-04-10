@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1709093202
+},
+{
+"newCapacity": 100,
+"time": 1712777310
 }
 ],
 "initialCap": 0
@@ -66,7 +70,8 @@
 115,
 115,
 113,
-114
+114,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -128,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "How to Read a Film"
 }

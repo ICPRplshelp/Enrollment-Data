@@ -58,13 +58,29 @@
 85,
 85,
 86,
-82
+82,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Swanston"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Swanston"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Introduction to Management Functions"
 }

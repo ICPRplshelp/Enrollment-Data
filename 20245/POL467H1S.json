@@ -80,13 +80,29 @@
 32,
 32,
 31,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carolina",
+"lastName": "Reyes Marquez"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carolina",
+"lastName": "Reyes Marquez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -161,7 +177,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "The Politics of Immigration and Multiculturalism in Canada"
 }

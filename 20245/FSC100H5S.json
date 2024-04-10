@@ -58,13 +58,29 @@
 45,
 45,
 45,
-47
+47,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shelby",
+"lastName": "Scott"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shelby",
+"lastName": "Scott"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "The Real CSI"
 }

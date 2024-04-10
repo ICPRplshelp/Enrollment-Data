@@ -66,13 +66,29 @@
 119,
 119,
 129,
-134
+134,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Bytautas"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Bytautas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -128,7 +144,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Foundations in Health Studies I"
 }

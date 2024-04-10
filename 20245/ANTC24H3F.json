@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 80,
+"time": 1712777310
 }
 ],
 "initialCap": 0
@@ -66,6 +70,7 @@
 72,
 72,
 74,
+76,
 76
 ],
 "instructorLog": {
@@ -143,7 +148,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Culture, Mental Illness, and Psychiatry"
 }

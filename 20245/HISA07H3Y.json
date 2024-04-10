@@ -70,13 +70,29 @@
 20,
 20,
 20,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracy L.",
+"lastName": "Spurrier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -132,7 +148,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "The Ancient Mediterranean World"
 }

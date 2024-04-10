@@ -58,13 +58,29 @@
 8,
 8,
 8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rafael",
+"lastName": "Chiuzi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Effective Business Practices and Leadership Skills Capstone"
 }

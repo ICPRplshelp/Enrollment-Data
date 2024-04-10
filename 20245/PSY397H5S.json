@@ -58,13 +58,29 @@
 55,
 55,
 55,
+54,
 54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amira",
+"lastName": "Abozaid"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amira",
+"lastName": "Abozaid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -117,7 +133,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Neuroplasticity and Behaviour"
 }

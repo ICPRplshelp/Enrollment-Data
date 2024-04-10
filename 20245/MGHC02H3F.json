@@ -66,7 +66,8 @@
 68,
 68,
 56,
-49
+49,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,13 +156,29 @@
 63,
 63,
 51,
-43
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -224,13 +241,29 @@
 0,
 0,
 14,
-32
+32,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
+"timing": 1712777310
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -286,7 +319,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "Management Skills"
 }

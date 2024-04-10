@@ -70,7 +70,8 @@
 202,
 202,
 205,
-203
+203,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -94,6 +95,76 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1712777310,
+"delivery": "SYNC",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -147,7 +218,8 @@
 1712486161,
 1712519156,
 1712606869,
-1712692790
+1712692790,
+1712777310
 ],
 "title": "What Is Literature?"
 }
