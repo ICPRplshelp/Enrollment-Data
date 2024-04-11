@@ -67,13 +67,29 @@
 17,
 16,
 16,
-15
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -130,7 +146,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Drawing I"
 }

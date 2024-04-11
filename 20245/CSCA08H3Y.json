@@ -67,13 +67,29 @@
 103,
 120,
 131,
-132
+132,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bilal",
+"lastName": "Syed (NOUTORID)"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bilal",
+"lastName": "Syed (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -130,7 +146,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Introduction to Computer Science I"
 }

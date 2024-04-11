@@ -71,13 +71,29 @@
 134,
 136,
 134,
+136,
 136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Ross"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Ross"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -134,7 +150,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Games and Play"
 }

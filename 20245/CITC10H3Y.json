@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 80,
+"time": 1712869788
 }
 ],
 "initialCap": 0
@@ -67,13 +71,29 @@
 81,
 81,
 83,
-83
+83,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Killian",
+"lastName": "McCormack"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Killian",
+"lastName": "McCormack"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -130,7 +150,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Selected Issues in City Studies"
 }

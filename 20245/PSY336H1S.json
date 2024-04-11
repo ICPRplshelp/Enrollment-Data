@@ -81,13 +81,29 @@
 39,
 41,
 50,
-50
+50,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Schwartzman"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Schwartzman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -163,7 +179,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Positive Psychology"
 }

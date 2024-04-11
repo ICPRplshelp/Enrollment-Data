@@ -67,13 +67,29 @@
 10,
 12,
 14,
-14
+14,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yue Bin",
+"lastName": "Guo"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yue Bin",
+"lastName": "Guo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -130,7 +146,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Eating and Drinking Across Global Asia"
 }

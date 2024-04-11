@@ -81,13 +81,29 @@
 78,
 79,
 81,
-82
+82,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -163,7 +179,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Statistics II"
 }

@@ -81,13 +81,29 @@
 53,
 54,
 57,
-57
+57,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carolyn",
+"lastName": "Guay"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carolyn",
+"lastName": "Guay"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -163,7 +179,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Human Memory"
 }

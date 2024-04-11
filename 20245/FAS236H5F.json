@@ -64,7 +64,8 @@
 30,
 29,
 31,
-32
+32,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -88,6 +89,89 @@
 ],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1712869788,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "JORDYN",
+"lastName": "STEWART"
+}
+],
+"timing": 1712869788
+}
+]
+},
+"instructors": [
+{
+"firstName": "JORDYN",
+"lastName": "STEWART"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
 }
 ],
 "timeIntervals": [
@@ -139,7 +223,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Design I"
 }

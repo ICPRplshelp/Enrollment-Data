@@ -81,13 +81,29 @@
 92,
 94,
 96,
-96
+96,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -163,7 +179,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Stem Cell Biology: Developmental Models and Cell- based Therapeutics"
 }

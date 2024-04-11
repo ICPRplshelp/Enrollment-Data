@@ -67,7 +67,8 @@
 136,
 149,
 153,
-151
+151,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +158,8 @@
 146,
 157,
 159,
-158
+158,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -181,6 +183,92 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC02"
+},
+{
+"createdAt": 1712869788,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+41
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1712869788
+}
+]
+},
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
 }
 ],
 "timeIntervals": [
@@ -235,7 +323,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Price Theory: A Mathematical Approach"
 }

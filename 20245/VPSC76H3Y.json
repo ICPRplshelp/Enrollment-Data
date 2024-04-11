@@ -59,13 +59,29 @@
 25,
 27,
 28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vanessa",
+"lastName": "Godden"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vanessa",
+"lastName": "Godden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -119,7 +135,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "The Documentary Image"
 }

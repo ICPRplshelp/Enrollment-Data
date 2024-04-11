@@ -81,13 +81,29 @@
 6,
 6,
 7,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
+"timing": 1712869788
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -163,7 +179,8 @@
 1712519156,
 1712606869,
 1712692790,
-1712777310
+1712777310,
+1712869788
 ],
 "title": "Psychological Research"
 }
