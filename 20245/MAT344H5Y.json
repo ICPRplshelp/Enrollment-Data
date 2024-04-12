@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 75,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1712956140
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -60,6 +65,7 @@
 139,
 145,
 141,
+144,
 144
 ],
 "instructorLog": {
@@ -136,7 +142,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Introduction to Combinatorics"
 }

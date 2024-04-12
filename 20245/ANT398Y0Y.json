@@ -1,0 +1,81 @@
+{
+"code": "ANT398Y0Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1712956140,
+"delivery": "INPER",
+"enrollmentCap": 99,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 99
+},
+"enrollmentLogs": [
+0,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "T. Bence",
+"lastName": "Viola"
+}
+],
+"timing": 1712956140
+}
+]
+},
+"instructors": [
+{
+"firstName": "T. Bence",
+"lastName": "Viola"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1712956140,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Edward",
+"lastName": "Swenson"
+}
+],
+"timing": 1712956140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Edward",
+"lastName": "Swenson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1712956139,
+1712956140
+],
+"title": "Research Excursions"
+}

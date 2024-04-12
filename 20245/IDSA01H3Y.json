@@ -5,7 +5,7 @@
 {
 "createdAt": 1708977829,
 "delivery": "SYNC",
-"enrollmentCap": 125,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 125,
 "time": 1712171457
+},
+{
+"newCapacity": 200,
+"time": 1712956140
 }
 ],
 "initialCap": 0
@@ -72,13 +76,29 @@
 137,
 142,
 145,
-146
+146,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Kocsis (NOUTORID)"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Kocsis (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -136,7 +156,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Introduction to International Development Studies"
 }

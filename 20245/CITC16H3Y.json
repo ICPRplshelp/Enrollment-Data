@@ -68,13 +68,29 @@
 94,
 95,
 94,
+96,
 96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vidya",
+"lastName": "Anderson"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vidya",
+"lastName": "Anderson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -132,7 +148,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Planning and Governing the Metropolis"
 }

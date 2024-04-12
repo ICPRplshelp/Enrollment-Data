@@ -68,7 +68,8 @@
 288,
 287,
 288,
-288
+288,
+290
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,6 +78,83 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1712956140,
+"delivery": "SYNC",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
@@ -137,7 +215,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

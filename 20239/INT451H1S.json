@@ -338,13 +338,29 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+}
+],
+"timing": 1712955982
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -677,7 +693,8 @@
 1712606686,
 1712692601,
 1712777129,
-1712869588
+1712869588,
+1712955982
 ],
 "title": "Arts & Science Internship Program - Professional Work Term"
 }

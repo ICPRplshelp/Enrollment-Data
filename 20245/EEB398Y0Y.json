@@ -1,0 +1,46 @@
+{
+"code": "EEB398Y0Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1712956140,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
+"timing": 1712956140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1712956139,
+1712956140
+],
+"title": "Research Excursions"
+}

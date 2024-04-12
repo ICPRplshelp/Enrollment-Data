@@ -68,13 +68,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kagan",
+"lastName": "Kerman"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kagan",
+"lastName": "Kerman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -132,7 +148,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Directed Research"
 }

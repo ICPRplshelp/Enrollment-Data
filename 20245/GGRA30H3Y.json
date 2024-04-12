@@ -68,13 +68,29 @@
 81,
 82,
 83,
-83
+83,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamal",
+"lastName": "Paudel (NOUTORID)"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kamal",
+"lastName": "Paudel (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -132,7 +148,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Geographic Information Systems (GIS) and Empirical Reasoning"
 }

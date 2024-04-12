@@ -87,6 +87,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -100,6 +101,19 @@
 }
 ],
 "timing": 1710876670
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Soden"
+},
+{
+"firstName": "Rohini",
+"lastName": "Patel"
+}
+],
+"timing": 1712956140
 }
 ]
 },
@@ -107,6 +121,10 @@
 {
 "firstName": "Robert",
 "lastName": "Soden"
+},
+{
+"firstName": "Rohini",
+"lastName": "Patel"
 }
 ],
 "isCancelled": false,
@@ -185,7 +203,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Toronto Climate Summer School"
 }

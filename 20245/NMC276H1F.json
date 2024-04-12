@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1712956140
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -82,7 +87,8 @@
 32,
 32,
 33,
-36
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,7 +186,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Topics in Near & Middle Eastern Civilizations"
 }

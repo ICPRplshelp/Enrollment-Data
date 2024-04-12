@@ -338,13 +338,29 @@
 55,
 55,
 55,
+55,
 55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+}
+],
+"timing": 1712955982
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leneque",
+"lastName": "Carson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -597,6 +613,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -939,6 +956,7 @@
 56,
 55,
 53,
+51,
 51,
 51,
 51,
@@ -1376,6 +1394,7 @@
 54,
 54,
 54,
+54,
 54
 ],
 "instructorLog": {
@@ -1642,6 +1661,7 @@
 53,
 53,
 53,
+54,
 54,
 54,
 54,
@@ -2068,6 +2088,7 @@
 183,
 183,
 183,
+183,
 183
 ],
 "instructorLog": {
@@ -2407,7 +2428,8 @@
 1712606686,
 1712692601,
 1712777129,
-1712869588
+1712869588,
+1712955982
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }

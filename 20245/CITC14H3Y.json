@@ -68,13 +68,29 @@
 40,
 45,
 46,
-48
+48,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kelly",
+"lastName": "Snow"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kelly",
+"lastName": "Snow"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -132,7 +148,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Environmental Planning"
 }

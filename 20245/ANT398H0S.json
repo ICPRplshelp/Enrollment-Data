@@ -1,0 +1,46 @@
+{
+"code": "ANT398H0S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1712956140,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+}
+],
+"timing": 1712956140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1712956139,
+1712956140
+],
+"title": "Research Excursions"
+}

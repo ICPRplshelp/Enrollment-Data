@@ -82,13 +82,29 @@
 173,
 181,
 188,
-194
+194,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Graham"
+}
+],
+"timing": 1712956140
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Graham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -165,7 +181,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Introduction to Classical Mythology"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1708542357,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1712956140
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -68,7 +73,8 @@
 190,
 190,
 189,
-189
+189,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -137,7 +143,8 @@
 1712606869,
 1712692790,
 1712777310,
-1712869788
+1712869788,
+1712956140
 ],
 "title": "Fundamentals of Accounting and Finance"
 }
