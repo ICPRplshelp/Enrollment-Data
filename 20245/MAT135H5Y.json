@@ -61,13 +61,29 @@
 158,
 153,
 154,
+154,
 154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
+"timing": 1713054099
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -123,7 +139,8 @@
 1712692790,
 1712777310,
 1712869788,
-1712956140
+1712956140,
+1713054099
 ],
 "title": "Differential Calculus"
 }
