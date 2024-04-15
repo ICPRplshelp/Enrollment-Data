@@ -71,13 +71,29 @@
 49,
 51,
 51,
-51
+51,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Greenaway"
+}
+],
+"timing": 1713214803
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Greenaway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -138,7 +154,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "The Canadian Constitution and the Charter of Rights"
 }

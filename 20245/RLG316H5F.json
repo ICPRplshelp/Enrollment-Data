@@ -68,13 +68,29 @@
 81,
 79,
 79,
-79
+79,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Demetrios",
+"lastName": "Alibertis"
+}
+],
+"timing": 1713214803
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Demetrios",
+"lastName": "Alibertis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -132,7 +148,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "Religion and Violence"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 24,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1713214803
+}
+],
 "initialCap": 24
 },
 "enrollmentLogs": [
@@ -63,6 +68,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -70,7 +76,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -127,7 +133,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "Physical Evidence and Microscopy"
 }

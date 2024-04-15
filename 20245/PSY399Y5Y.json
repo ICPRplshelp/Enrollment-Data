@@ -41,6 +41,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -90,6 +91,7 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
@@ -109,6 +111,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -188,6 +191,7 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
@@ -201,9 +205,14 @@
 {
 "createdAt": 1710786407,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 6,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 6,
+"time": 1713214803
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -237,7 +246,8 @@
 5,
 5,
 5,
-5
+5,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,6 +281,7 @@
 2,
 2,
 2,
+3,
 3,
 3,
 3,
@@ -335,6 +346,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -354,6 +366,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -433,6 +446,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -452,6 +466,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -531,6 +546,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -580,6 +596,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -599,6 +616,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -678,6 +696,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -697,6 +716,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -776,6 +796,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -807,6 +828,7 @@
 0,
 0,
 0,
+2,
 2,
 2,
 2,
@@ -874,6 +896,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -905,6 +928,7 @@
 0,
 0,
 0,
+4,
 4,
 4,
 4,
@@ -972,6 +996,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1021,6 +1046,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -1040,6 +1066,7 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -1119,6 +1146,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -1153,6 +1181,7 @@
 0,
 0,
 0,
+1,
 1,
 1,
 1,
@@ -1217,6 +1246,7 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
@@ -1259,7 +1289,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "Research Opportunity Program"
 }

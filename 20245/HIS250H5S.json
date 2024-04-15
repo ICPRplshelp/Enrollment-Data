@@ -63,13 +63,29 @@
 37,
 38,
 38,
-38
+38,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Felix",
+"lastName": "Cowan"
+}
+],
+"timing": 1713214803
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Felix",
+"lastName": "Cowan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -127,7 +143,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "Introduction to Russian History"
 }

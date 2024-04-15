@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 70,
 "time": 1709093202
+},
+{
+"newCapacity": 75,
+"time": 1713214803
 }
 ],
 "initialCap": 0
@@ -71,7 +75,8 @@
 70,
 70,
 70,
-70
+70,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,7 +158,8 @@
 1712869788,
 1712956140,
 1713054099,
-1713130062
+1713130062,
+1713214803
 ],
 "title": "Neuroanatomy Laboratory"
 }
