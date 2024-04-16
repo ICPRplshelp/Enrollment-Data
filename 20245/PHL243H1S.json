@@ -86,13 +86,29 @@
 80,
 80,
 80,
-82
+82,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Drusda"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Drusda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Philosophy of Human Sexuality"
 }

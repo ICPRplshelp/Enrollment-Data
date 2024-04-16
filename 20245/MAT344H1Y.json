@@ -86,13 +86,29 @@
 126,
 127,
 127,
-124
+124,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Introduction to Combinatorics"
 }

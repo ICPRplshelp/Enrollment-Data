@@ -64,7 +64,8 @@
 14,
 14,
 14,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,13 +78,22 @@
 }
 ],
 "timing": 1709952239
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Logan"
+}
+],
+"timing": 1713295200
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kate",
-"lastName": "Maddalena"
+"firstName": "Steven",
+"lastName": "Logan"
 }
 ],
 "isCancelled": false,
@@ -144,7 +154,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Writing Futures"
 }

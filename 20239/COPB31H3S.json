@@ -339,6 +339,7 @@
 16,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
@@ -361,13 +362,22 @@
 }
 ],
 "timing": 1702618482
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mira",
+"lastName": "Kanaan"
+}
+],
+"timing": 1713295031
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ghazal",
-"lastName": "Farkhari"
+"firstName": "Mira",
+"lastName": "Kanaan"
 }
 ],
 "isCancelled": false,
@@ -703,7 +713,8 @@
 1712955982,
 1713053881,
 1713129901,
-1713214633
+1713214633,
+1713295031
 ],
 "title": "Passport to Placement II"
 }

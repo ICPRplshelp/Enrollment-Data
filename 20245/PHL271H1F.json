@@ -86,13 +86,29 @@
 88,
 88,
 88,
+92,
 92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jovy",
+"lastName": "Chan"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jovy",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Law and Morality"
 }

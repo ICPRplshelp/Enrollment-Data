@@ -64,13 +64,29 @@
 24,
 24,
 24,
-22
+22,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -129,7 +145,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Human-Computer Interaction and Communication"
 }

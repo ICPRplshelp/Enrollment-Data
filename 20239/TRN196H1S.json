@@ -342,6 +342,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -355,12 +356,21 @@
 }
 ],
 "timing": 1694100800
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Leanne Erin",
+"lastName": "Simpson"
+}
+],
+"timing": 1713295031
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Leanne",
+"firstName": "Leanne Erin",
 "lastName": "Simpson"
 }
 ],
@@ -700,7 +710,8 @@
 1712955982,
 1713053881,
 1713129901,
-1713214633
+1713214633,
+1713295031
 ],
 "title": "Joy and Resistance in Diverse Storytelling"
 }

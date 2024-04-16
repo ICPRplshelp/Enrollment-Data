@@ -86,13 +86,29 @@
 110,
 110,
 110,
+110,
 110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natalie",
+"lastName": "Martin"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Natalie",
+"lastName": "Martin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Bioethics"
 }

@@ -86,13 +86,29 @@
 99,
 99,
 99,
-103
+103,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joaquin",
+"lastName": "Sanchez Garcia"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joaquin",
+"lastName": "Sanchez Garcia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Complex Variables"
 }

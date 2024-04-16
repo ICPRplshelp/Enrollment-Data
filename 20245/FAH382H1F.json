@@ -86,13 +86,29 @@
 37,
 37,
 37,
+37,
 37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rupert",
+"lastName": "Nuttle"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rupert",
+"lastName": "Nuttle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Art Writing"
 }

@@ -86,13 +86,29 @@
 69,
 69,
 69,
-70
+70,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Gatten"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Gatten"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Ancient Philosophy"
 }

@@ -86,13 +86,45 @@
 134,
 134,
 134,
-138
+138,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
 },
-"instructors": [],
+{
+"firstName": "Ilia",
+"lastName": "Kirillov"
+},
+{
+"firstName": "Mikale",
+"lastName": "Reddy"
+}
+],
+"timing": 1713295200
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
+},
+{
+"firstName": "Ilia",
+"lastName": "Kirillov"
+},
+{
+"firstName": "Mikale",
+"lastName": "Reddy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -180,13 +212,29 @@
 177,
 177,
 177,
+173,
 173
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -267,7 +315,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Multivariable Calculus"
 }

@@ -86,13 +86,37 @@
 67,
 67,
 67,
-68
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andriy",
+"lastName": "Bilenkyy"
 },
-"instructors": [],
+{
+"firstName": "Vincent",
+"lastName": "Lee"
+}
+],
+"timing": 1713295200
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andriy",
+"lastName": "Bilenkyy"
+},
+{
+"firstName": "Vincent",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -173,7 +197,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Introduction to Philosophy (Historical)"
 }

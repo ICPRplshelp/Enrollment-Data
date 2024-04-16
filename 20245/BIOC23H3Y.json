@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 48,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 48,
 "time": 1709093202
+},
+{
+"newCapacity": 24,
+"time": 1713295200
 }
 ],
 "initialCap": 0
@@ -72,6 +76,7 @@
 13,
 13,
 13,
+14,
 14
 ],
 "instructorLog": {
@@ -164,7 +169,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Practical Approaches to Biochemistry"
 }

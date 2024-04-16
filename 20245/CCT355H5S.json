@@ -64,13 +64,29 @@
 34,
 34,
 34,
-34
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Virupaksh",
+"lastName": "Agrawal"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Virupaksh",
+"lastName": "Agrawal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -129,7 +145,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Critical Approaches to Innovation (DEM)"
 }

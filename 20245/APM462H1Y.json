@@ -86,13 +86,29 @@
 120,
 120,
 120,
-125
+125,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kirill",
+"lastName": "Kashkan"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kirill",
+"lastName": "Kashkan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -173,7 +189,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Nonlinear Optimization"
 }

@@ -15,6 +15,7 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
@@ -39,6 +40,45 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1713295200,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Gilbert"
+}
+],
+"timing": 1713295200
+}
+]
+},
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Gilbert"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -46,7 +86,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "Research Excursions"
 }

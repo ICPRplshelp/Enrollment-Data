@@ -64,13 +64,29 @@
 20,
 20,
 20,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
+"timing": 1713295200
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -129,7 +145,8 @@
 1712956140,
 1713054099,
 1713130062,
-1713214803
+1713214803,
+1713295200
 ],
 "title": "E-Business Strategies"
 }
