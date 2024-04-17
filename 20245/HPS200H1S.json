@@ -87,13 +87,29 @@
 95,
 95,
 93,
-93
+93,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francesca",
+"lastName": "Elliott"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Francesca",
+"lastName": "Elliott"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -175,7 +191,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Science and Values"
 }

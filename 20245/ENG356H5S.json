@@ -65,13 +65,29 @@
 19,
 19,
 20,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natasha",
+"lastName": "Vashisht"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Natasha",
+"lastName": "Vashisht"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -131,7 +147,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Caribbean Literature"
 }

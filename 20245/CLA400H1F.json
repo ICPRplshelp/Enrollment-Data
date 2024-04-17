@@ -1,0 +1,31 @@
+{
+"code": "CLA400H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1713388874,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713388873,
+1713388874
+],
+"title": "Independent Studies"
+}

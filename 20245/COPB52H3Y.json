@@ -73,13 +73,37 @@
 111,
 111,
 111,
-104
+104,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
 },
-"instructors": [],
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1713388874
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+},
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -154,13 +178,37 @@
 71,
 71,
 71,
+60,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi",
+"lastName": "Abdoun Mohamed"
 },
-"instructors": [],
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1713388874
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mimi",
+"lastName": "Abdoun Mohamed"
+},
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -235,13 +283,29 @@
 21,
 21,
 21,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -304,7 +368,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Managing Your Job Search and Transition to Work"
 }

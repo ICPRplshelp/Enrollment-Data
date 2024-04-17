@@ -70,13 +70,29 @@
 152,
 152,
 149,
-148
+148,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Diana",
+"lastName": "Peragine"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Diana",
+"lastName": "Peragine"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC9999"
 }
@@ -136,7 +152,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Introduction to Developmental Psychology"
 }

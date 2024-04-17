@@ -73,7 +73,8 @@
 85,
 85,
 81,
-79
+79,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,6 +98,98 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC01"
+},
+{
+"createdAt": 1713388874,
+"delivery": "ASYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Helen Xiaoyan",
+"lastName": "Wu"
+}
+],
+"timing": 1713388874
+}
+]
+},
+"instructors": [
+{
+"firstName": "Helen Xiaoyan",
+"lastName": "Wu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
 }
 ],
 "timeIntervals": [
@@ -157,7 +250,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Agri-Food, Cultures, and Translation"
 }

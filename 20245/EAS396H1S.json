@@ -87,13 +87,29 @@
 43,
 43,
 43,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Bowman"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophie",
+"lastName": "Bowman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -175,7 +191,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Special Topics in East Asian Studies"
 }

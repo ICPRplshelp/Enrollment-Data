@@ -87,13 +87,29 @@
 19,
 19,
 18,
-19
+19,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcin",
+"lastName": "Janczak"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marcin",
+"lastName": "Janczak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -175,7 +191,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Intermediate French I"
 }

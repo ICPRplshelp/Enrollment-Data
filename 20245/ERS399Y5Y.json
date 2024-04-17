@@ -39,13 +39,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "Laflamme"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "Laflamme"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -86,13 +102,29 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Semechah",
+"lastName": "Lui"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Semechah",
+"lastName": "Lui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -126,7 +158,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Research Opportunity Program"
 }

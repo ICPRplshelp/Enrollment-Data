@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "ASYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 85,
+"time": 1713388874
 }
 ],
 "initialCap": 0
@@ -44,6 +48,7 @@
 0,
 0,
 0,
+15,
 15,
 15,
 15,
@@ -77,21 +82,40 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1708977829,
 "delivery": "ASYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1709093202
+},
+{
+"newCapacity": 75,
+"time": 1713388874
 }
 ],
 "initialCap": 0
@@ -154,13 +178,29 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -223,7 +263,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Managing Your Ongoing Work Term Job Search"
 }

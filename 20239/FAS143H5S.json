@@ -340,6 +340,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -662,6 +663,7 @@
 22,
 22,
 22,
+21,
 21,
 21,
 21,
@@ -1066,6 +1068,7 @@
 20,
 20,
 20,
+20,
 20
 ],
 "instructorLog": {
@@ -1446,6 +1449,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -1485,14 +1489,19 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "CHELSEA",
+"lastName": "BRANT"
+}
+],
+"timing": 1713388706
 }
 ]
 },
 "instructors": [
-{
-"firstName": "RHONDA",
-"lastName": "WEPPLER"
-},
 {
 "firstName": "CHELSEA",
 "lastName": "BRANT"
@@ -1832,7 +1841,8 @@
 1713053881,
 1713129901,
 1713214633,
-1713295031
+1713295031,
+1713388706
 ],
 "title": "Drawing I"
 }

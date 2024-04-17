@@ -73,13 +73,29 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -154,13 +170,29 @@
 61,
 61,
 61,
+61,
 61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
+"timing": 1713388874
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mobeena",
+"lastName": "Hamid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -223,7 +255,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Integrating Your Work Term Experience II"
 }

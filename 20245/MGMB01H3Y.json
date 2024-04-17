@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1709093202
+},
+{
+"newCapacity": 42,
+"time": 1713388874
 }
 ],
 "initialCap": 0
@@ -73,7 +77,8 @@
 48,
 48,
 49,
-49
+49,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -101,12 +106,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1709093202
+},
+{
+"newCapacity": 42,
+"time": 1713388874
 }
 ],
 "initialCap": 0
@@ -169,7 +178,8 @@
 56,
 56,
 54,
-57
+57,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -197,12 +207,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1709093202
+},
+{
+"newCapacity": 42,
+"time": 1713388874
 }
 ],
 "initialCap": 0
@@ -265,6 +279,7 @@
 48,
 48,
 47,
+48,
 48
 ],
 "instructorLog": {
@@ -304,6 +319,7 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -445,7 +461,8 @@
 1713054099,
 1713130062,
 1713214803,
-1713295200
+1713295200,
+1713388874
 ],
 "title": "Marketing Management"
 }

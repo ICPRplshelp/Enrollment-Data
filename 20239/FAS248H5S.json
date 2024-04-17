@@ -340,6 +340,7 @@
 22,
 22,
 22,
+22,
 22
 ],
 "instructorLog": {
@@ -379,14 +380,19 @@
 }
 ],
 "timing": 1704485730
+},
+{
+"instructorsAfter": [
+{
+"firstName": "JORDYN",
+"lastName": "STEWART"
+}
+],
+"timing": 1713388706
 }
 ]
 },
 "instructors": [
-{
-"firstName": "RHONDA",
-"lastName": "WEPPLER"
-},
 {
 "firstName": "JORDYN",
 "lastName": "STEWART"
@@ -733,6 +739,7 @@
 21,
 21,
 21,
+21,
 21
 ],
 "instructorLog": {
@@ -1002,6 +1009,7 @@
 23,
 23,
 23,
+22,
 22,
 22,
 22,
@@ -1452,7 +1460,8 @@
 1713053881,
 1713129901,
 1713214633,
-1713295031
+1713295031,
+1713388706
 ],
 "title": "Sculpture I"
 }
