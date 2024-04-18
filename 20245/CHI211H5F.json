@@ -66,13 +66,29 @@
 69,
 67,
 67,
+65,
 65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1713448134
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -140,13 +156,29 @@
 71,
 68,
 68,
-63
+63,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1713448134
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -207,7 +239,8 @@
 1713130062,
 1713214803,
 1713295200,
-1713388874
+1713388874,
+1713448134
 ],
 "title": "Chinese for Academic Purposes I"
 }

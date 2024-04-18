@@ -74,13 +74,29 @@
 138,
 140,
 137,
-141
+141,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Li"
+}
+],
+"timing": 1713448134
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -149,7 +165,8 @@
 1713130062,
 1713214803,
 1713295200,
-1713388874
+1713388874,
+1713448134
 ],
 "title": "People Management and Organizational Behaviour"
 }

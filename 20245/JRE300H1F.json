@@ -79,13 +79,29 @@
 188,
 189,
 191,
+188,
 188
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Douglas"
+}
+],
+"timing": 1713448134
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Douglas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -154,7 +170,8 @@
 1713130062,
 1713214803,
 1713295200,
-1713388874
+1713388874,
+1713448134
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

@@ -88,13 +88,29 @@
 24,
 25,
 25,
+26,
 26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Harry",
+"lastName": "Burke"
+}
+],
+"timing": 1713448134
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Harry",
+"lastName": "Burke"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -177,7 +193,8 @@
 1713130062,
 1713214803,
 1713295200,
-1713388874
+1713388874,
+1713448134
 ],
 "title": "Special Topics in Economics"
 }
