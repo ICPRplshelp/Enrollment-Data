@@ -45,13 +45,29 @@
 3,
 3,
 3,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luai",
+"lastName": "Al Labadi"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luai",
+"lastName": "Al Labadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -91,7 +107,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Research Opportunity Program"
 }

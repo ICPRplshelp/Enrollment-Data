@@ -89,13 +89,29 @@
 68,
 68,
 68,
+67,
 67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jona",
+"lastName": "Zyfi"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jona",
+"lastName": "Zyfi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -179,7 +195,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Introduction to Criminology"
 }

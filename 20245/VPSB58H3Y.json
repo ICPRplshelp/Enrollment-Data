@@ -75,13 +75,29 @@
 24,
 24,
 24,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Midi",
+"lastName": "Onodera"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Midi",
+"lastName": "Onodera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -146,7 +162,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Video I"
 }

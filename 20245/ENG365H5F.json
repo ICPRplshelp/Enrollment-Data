@@ -72,13 +72,29 @@
 66,
 65,
 62,
-64
+64,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Windsor"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Windsor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -140,7 +156,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Contemporary American Fiction"
 }

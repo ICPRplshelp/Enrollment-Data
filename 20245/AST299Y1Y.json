@@ -1,0 +1,116 @@
+{
+"code": "AST299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Matzner"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Matzner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ting",
+"lastName": "Li"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ting",
+"lastName": "Li"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joshua",
+"lastName": "Speagle"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+}
+],
+"timeIntervals": [
+1713568983,
+1713568984
+],
+"title": "Research Opportunity Program"
+}

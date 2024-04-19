@@ -89,13 +89,29 @@
 26,
 24,
 25,
-25
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lucile",
+"lastName": "Mulat"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lucile",
+"lastName": "Mulat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -179,7 +195,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Elementary French I"
 }

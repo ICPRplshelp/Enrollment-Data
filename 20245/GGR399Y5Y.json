@@ -37,13 +37,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -82,13 +98,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Olive"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Olive"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -127,13 +159,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -172,13 +220,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Duval"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
@@ -217,13 +281,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tenley",
+"lastName": "Conway"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tenley",
+"lastName": "Conway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -262,13 +342,29 @@
 1,
 1,
 1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Damian",
+"lastName": "Maddalena"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Damian",
+"lastName": "Maddalena"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -307,13 +403,29 @@
 2,
 2,
 2,
+2,
 2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Damian",
+"lastName": "Maddalena"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Damian",
+"lastName": "Maddalena"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0502"
 },
@@ -352,13 +464,29 @@
 4,
 4,
 4,
+4,
 4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ghazal",
+"lastName": "Fazli"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ghazal",
+"lastName": "Fazli"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -397,7 +525,69 @@
 2,
 2,
 2,
+2,
 2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ghazal",
+"lastName": "Fazli"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ghazal",
+"lastName": "Fazli"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0602"
+},
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -405,7 +595,7 @@
 },
 "instructors": [],
 "isCancelled": false,
-"meetingNumber": "LEC0602"
+"meetingNumber": "LEC0701"
 }
 ],
 "timeIntervals": [
@@ -435,7 +625,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Research Opportunity Program"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1708542357,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1713568984
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -75,7 +80,8 @@
 201,
 201,
 198,
-193
+193,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -166,7 +172,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Markets and Competitive Strategy"
 }

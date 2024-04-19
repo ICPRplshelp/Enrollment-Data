@@ -89,13 +89,29 @@
 139,
 138,
 140,
-139
+139,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gael",
+"lastName": "Yomgne Diebou"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gael",
+"lastName": "Yomgne Diebou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -179,7 +195,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Linear Algebra II"
 }

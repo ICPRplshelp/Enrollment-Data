@@ -1,0 +1,81 @@
+{
+"code": "MGY299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Derek",
+"lastName": "Van Der Kooy"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Derek",
+"lastName": "Van Der Kooy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Miguel",
+"lastName": "Ramalho-Santos"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Miguel",
+"lastName": "Ramalho-Santos"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1713568983,
+1713568984
+],
+"title": "Research Opportunity Program"
+}

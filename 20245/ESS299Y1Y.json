@@ -89,13 +89,37 @@
 0,
 0,
 0,
-0
+0,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
 },
-"instructors": [],
+{
+"firstName": "Andrei",
+"lastName": "Swidinsky"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
+},
+{
+"firstName": "Andrei",
+"lastName": "Swidinsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -179,7 +203,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Research Opportunity Program"
 }

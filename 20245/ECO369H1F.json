@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1713568984
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -89,7 +94,8 @@
 20,
 19,
 20,
-21
+21,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -111,7 +117,7 @@
 "lastName": "Ugarte"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -194,7 +200,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Health Economics"
 }

@@ -75,7 +75,8 @@
 187,
 188,
 188,
-187
+187,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -88,13 +89,22 @@
 }
 ],
 "timing": 1711740263
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
+}
+],
+"timing": 1713568984
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kathleen",
-"lastName": "Smith"
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
 }
 ],
 "isCancelled": false,
@@ -161,7 +171,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Techniques of the Calculus of Several Variables I"
 }

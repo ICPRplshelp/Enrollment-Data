@@ -1,0 +1,46 @@
+{
+"code": "POL299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1713568984,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lynette",
+"lastName": "Ong"
+}
+],
+"timing": 1713568984
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lynette",
+"lastName": "Ong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713568983,
+1713568984
+],
+"title": "Research Opportunity Program"
+}

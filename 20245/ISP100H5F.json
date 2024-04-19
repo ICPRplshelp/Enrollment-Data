@@ -67,6 +67,7 @@
 25,
 25,
 25,
+25,
 25
 ],
 "instructorLog": {
@@ -142,7 +143,8 @@
 25,
 25,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,13 +219,29 @@
 25,
 25,
 24,
+25,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Jones"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Jones"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -292,7 +310,8 @@
 25,
 25,
 23,
-24
+24,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -372,6 +391,7 @@
 3,
 1,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -446,6 +466,7 @@
 5,
 5,
 9,
+10,
 10,
 10
 ],
@@ -522,7 +543,8 @@
 15,
 15,
 15,
-15
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -597,7 +619,8 @@
 26,
 26,
 25,
-25
+25,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -672,7 +695,8 @@
 23,
 23,
 23,
-23
+23,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -754,6 +778,7 @@
 25,
 25,
 24,
+25,
 25,
 25,
 25,
@@ -852,6 +877,7 @@
 27,
 26,
 26,
+25,
 25
 ],
 "instructorLog": {
@@ -942,7 +968,8 @@
 16,
 16,
 18,
-18
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1010,7 +1037,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Writing for University and Beyond"
 }

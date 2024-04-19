@@ -89,13 +89,29 @@
 123,
 120,
 120,
-121
+121,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kolby",
+"lastName": "Zinger-Harris"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kolby",
+"lastName": "Zinger-Harris"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -179,7 +195,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Popular Music in North America"
 }

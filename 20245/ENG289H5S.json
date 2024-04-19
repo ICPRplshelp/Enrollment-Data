@@ -67,13 +67,29 @@
 70,
 73,
 72,
-74
+74,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Blair",
+"lastName": "Hurley"
+}
+],
+"timing": 1713568984
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Blair",
+"lastName": "Hurley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -135,7 +151,8 @@
 1713214803,
 1713295200,
 1713388874,
-1713448134
+1713448134,
+1713568984
 ],
 "title": "Creative Writing"
 }
