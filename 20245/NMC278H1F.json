@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1714148047
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -91,13 +96,40 @@
 37,
 37,
 34,
+34,
+34,
+34,
+34,
+35,
+33,
+33,
+33,
+32,
+33,
+34,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samar",
+"lastName": "Abdelgalil"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samar",
+"lastName": "Abdelgalil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -183,7 +215,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Introduction to the Modern Middle East"
 }

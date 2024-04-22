@@ -69,13 +69,40 @@
 54,
 54,
 56,
-56
+56,
+56,
+58,
+52,
+45,
+43,
+43,
+43,
+40,
+39,
+39,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer Junwa",
+"lastName": "Lau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -146,7 +173,19 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+5,
+12,
+16,
+20,
+20,
+26,
+27,
+27,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -216,7 +255,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Chinese for Academic Purposes II"
 }

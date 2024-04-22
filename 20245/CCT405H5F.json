@@ -1,0 +1,35 @@
+{
+"code": "CCT405H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1714664535,
+"delivery": "ASYNC",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1714664534,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Individual Project"
+}

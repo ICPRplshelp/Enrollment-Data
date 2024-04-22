@@ -1,0 +1,60 @@
+{
+"code": "KPE363H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "INPER",
+"enrollmentCap": 220,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 220
+},
+"enrollmentLogs": [
+0,
+118,
+118,
+118,
+118,
+118,
+118,
+118,
+117
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Doug",
+"lastName": "Richards"
+}
+],
+"timing": 1713844697
+}
+]
+},
+"instructors": [
+{
+"firstName": "Doug",
+"lastName": "Richards"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Sport Medicine"
+}

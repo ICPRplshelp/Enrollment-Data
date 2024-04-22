@@ -5,7 +5,7 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 30,
 "time": 1712956140
+},
+{
+"newCapacity": 32,
+"time": 1713897839
 }
 ],
 "initialCap": 30
@@ -100,22 +104,54 @@
 30,
 30,
 31,
-31
+31,
+31,
+32,
+30,
+31,
+32,
+30,
+30,
+27,
+28,
+28,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
 {
 "createdAt": 1712956140,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1713897839
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -199,13 +235,40 @@
 26,
 29,
 30,
-30
+30,
+30,
+28,
+26,
+27,
+27,
+25,
+25,
+25,
+25,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sylvia",
+"lastName": "Gaspari"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sylvia",
+"lastName": "Gaspari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5102"
 },
@@ -295,6 +358,18 @@
 2,
 1,
 1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -395,7 +470,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Italian Language for Beginners"
 }

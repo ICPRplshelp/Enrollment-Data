@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1713844864
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -69,13 +74,40 @@
 78,
 78,
 78,
-78
+78,
+78,
+77,
+73,
+74,
+76,
+77,
+77,
+79,
+76,
+75,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Selepiuc"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +171,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Italian Culture through Fashion"
 }

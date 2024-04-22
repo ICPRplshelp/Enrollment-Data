@@ -1,0 +1,50 @@
+{
+"code": "CHM399Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1714664535,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+}
+],
+"timing": 1714664535
+}
+]
+},
+"instructors": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1714664534,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Research Opportunity Program"
+}

@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1714413817
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -91,22 +96,66 @@
 170,
 167,
 164,
-164
+164,
+164,
+164,
+164,
+159,
+157,
+154,
+147,
+144,
+143,
+141,
+140,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Lauzon"
 },
-"instructors": [],
+{
+"firstName": "Quinlan",
+"lastName": "Lee"
+}
+],
+"timing": 1713987449
+}
+]
+},
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Lauzon"
+},
+{
+"firstName": "Quinlan",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1714240812
+},
+{
+"newCapacity": 140,
+"time": 1714413817
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -190,13 +239,48 @@
 155,
 154,
 153,
-153
+153,
+153,
+152,
+151,
+151,
+149,
+149,
+149,
+137,
+136,
+140,
+140,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alison",
+"lastName": "Cane"
 },
-"instructors": [],
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
+"timing": 1713987449
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alison",
+"lastName": "Cane"
+},
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -282,7 +366,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Introduction to Data Analysis and Applied Econometrics"
 }

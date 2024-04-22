@@ -1,0 +1,77 @@
+{
+"code": "KPE495H1Y",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luc",
+"lastName": "Tremblay"
+}
+],
+"timing": 1713844697
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Luc",
+"lastName": "Tremblay"
+},
+{
+"firstName": "Catherine",
+"lastName": "Amara"
+}
+],
+"timing": 1714496990
+}
+]
+},
+"instructors": [
+{
+"firstName": "Luc",
+"lastName": "Tremblay"
+},
+{
+"firstName": "Catherine",
+"lastName": "Amara"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Independent Study"
+}

@@ -1,0 +1,60 @@
+{
+"code": "KPE431H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abimbola",
+"lastName": "Eke"
+}
+],
+"timing": 1713844697
+}
+]
+},
+"instructors": [
+{
+"firstName": "Abimbola",
+"lastName": "Eke"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Positive Psychology Coaching"
+}

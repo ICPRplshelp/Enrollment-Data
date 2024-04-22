@@ -74,13 +74,40 @@
 55,
 55,
 60,
-60
+60,
+60,
+59,
+60,
+64,
+66,
+65,
+65,
+61,
+61,
+61,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dustin",
+"lastName": "Meyer"
+}
+],
+"timing": 1714065866
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dustin",
+"lastName": "Meyer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -144,7 +171,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "British Literature in the World I: Medieval to Eighteenth-Century"
 }

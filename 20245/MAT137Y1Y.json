@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 172,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 172,
+"time": 1714773602
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -91,7 +96,19 @@
 173,
 174,
 175,
-175
+175,
+175,
+170,
+170,
+168,
+167,
+164,
+164,
+164,
+163,
+163,
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -119,9 +136,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 130,
+"enrollmentCap": 198,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 198,
+"time": 1714773602
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -205,7 +227,19 @@
 200,
 199,
 200,
-200
+200,
+200,
+193,
+190,
+188,
+186,
+186,
+187,
+185,
+184,
+177,
+163,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -312,7 +346,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Calculus with Proofs"
 }

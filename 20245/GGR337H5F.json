@@ -69,13 +69,40 @@
 97,
 97,
 97,
-97
+97,
+97,
+99,
+101,
+100,
+99,
+98,
+99,
+98,
+97,
+95,
+89,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Siyu",
+"lastName": "Wang"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Siyu",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +166,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Environmental Remote Sensing"
 }

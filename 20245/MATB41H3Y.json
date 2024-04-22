@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 185,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 175,
 "time": 1709093202
+},
+{
+"newCapacity": 185,
+"time": 1713987449
 }
 ],
 "initialCap": 0
@@ -77,7 +81,19 @@
 188,
 187,
 188,
-188
+188,
+188,
+184,
+183,
+182,
+180,
+178,
+178,
+180,
+181,
+174,
+174,
+174
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -174,7 +190,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Techniques of the Calculus of Several Variables I"
 }

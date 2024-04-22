@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1713987449
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -69,13 +74,40 @@
 63,
 65,
 66,
-66
+66,
+66,
+70,
+71,
+68,
+70,
+69,
+69,
+68,
+67,
+63,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
+"timing": 1714148047
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Barber"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +171,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Economic Analysis of Law: Part 1"
 }

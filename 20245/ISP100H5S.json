@@ -69,7 +69,19 @@
 28,
 28,
 27,
-27
+27,
+27,
+24,
+25,
+24,
+24,
+24,
+25,
+25,
+25,
+26,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -161,13 +173,40 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+25,
+24,
+24,
+24,
+25,
+25,
+25,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kanika",
+"lastName": "Verma"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -237,6 +276,18 @@
 25,
 26,
 26,
+25,
+25,
+25,
+26,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
 25,
 25
 ],
@@ -330,7 +381,19 @@
 24,
 24,
 24,
-24
+24,
+24,
+24,
+24,
+24,
+23,
+22,
+22,
+23,
+25,
+25,
+23,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -422,7 +485,19 @@
 16,
 16,
 18,
-18
+18,
+18,
+20,
+20,
+19,
+19,
+19,
+19,
+19,
+19,
+20,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -514,13 +589,40 @@
 7,
 7,
 8,
+8,
+8,
+8,
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+8,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Zapotochny"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -591,13 +693,40 @@
 17,
 17,
 18,
-18
+18,
+18,
+17,
+17,
+17,
+16,
+15,
+15,
+16,
+15,
+16,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dulani",
+"lastName": "Suraweera"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dulani",
+"lastName": "Suraweera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -668,7 +797,19 @@
 4,
 4,
 4,
-4
+4,
+4,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -738,7 +879,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Writing for University and Beyond"
 }

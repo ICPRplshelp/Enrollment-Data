@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1714773602
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -91,7 +96,19 @@
 100,
 101,
 102,
-102
+102,
+102,
+100,
+103,
+102,
+103,
+102,
+102,
+98,
+96,
+89,
+87,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -119,9 +136,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 136,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 136,
+"time": 1714773602
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -205,7 +227,19 @@
 135,
 136,
 132,
-132
+132,
+132,
+134,
+131,
+128,
+124,
+120,
+119,
+113,
+111,
+107,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -312,7 +346,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

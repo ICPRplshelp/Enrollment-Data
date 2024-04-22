@@ -1,0 +1,70 @@
+{
+"code": "ESC499Y1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1713987449,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+2,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Romkey"
+},
+{
+"firstName": "Alan",
+"lastName": "Chong"
+}
+],
+"timing": 1714065866
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Romkey"
+},
+{
+"firstName": "Alan",
+"lastName": "Chong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713987448,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Thesis"
+}

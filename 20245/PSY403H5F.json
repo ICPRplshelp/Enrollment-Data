@@ -1,0 +1,33 @@
+{
+"code": "PSY403H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1714773602,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+6,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1714773601,
+1714773602,
+1714836840
+],
+"title": "Individual Project"
+}

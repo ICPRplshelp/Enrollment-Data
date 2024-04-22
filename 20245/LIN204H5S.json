@@ -1,0 +1,49 @@
+{
+"code": "LIN204H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1713897839,
+"delivery": "SYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+15,
+19,
+25,
+26,
+44,
+52,
+54,
+53,
+54
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713897838,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "English Grammar I"
+}

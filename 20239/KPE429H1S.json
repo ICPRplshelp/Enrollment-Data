@@ -1,0 +1,60 @@
+{
+"code": "KPE429H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "SYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+56,
+56,
+56,
+56,
+56,
+56,
+56,
+56
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "VanWiechen"
+}
+],
+"timing": 1713844697
+}
+]
+},
+"instructors": [
+{
+"firstName": "Paul",
+"lastName": "VanWiechen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Sport Management"
+}

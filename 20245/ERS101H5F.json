@@ -69,13 +69,40 @@
 32,
 32,
 35,
-35
+35,
+35,
+33,
+34,
+35,
+36,
+36,
+36,
+37,
+35,
+34,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brendt",
+"lastName": "Hyde"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brendt",
+"lastName": "Hyde"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -139,7 +166,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Planet Earth"
 }

@@ -91,13 +91,77 @@
 206,
 207,
 203,
-203
+203,
+203,
+199,
+200,
+200,
+196,
+195,
+194,
+195,
+195,
+190,
+194,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leo Yvonne",
+"lastName": "Alcorn"
 },
-"instructors": [],
+{
+"firstName": "Ling Rebecca",
+"lastName": "Lin"
+}
+],
+"timing": 1714413817
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Leo Yvonne",
+"lastName": "Alcorn"
+},
+{
+"firstName": "Ling Rebecca",
+"lastName": "Lin"
+},
+{
+"firstName": "Ian",
+"lastName": "Shelton"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
+}
+],
+"timing": 1714773602
+}
+]
+},
+"instructors": [
+{
+"firstName": "Leo Yvonne",
+"lastName": "Alcorn"
+},
+{
+"firstName": "Ling Rebecca",
+"lastName": "Lin"
+},
+{
+"firstName": "Ian",
+"lastName": "Shelton"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -183,7 +247,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "The Sun and Its Neighbours"
 }

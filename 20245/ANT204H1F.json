@@ -5,9 +5,14 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 90,
+"time": 1713987449
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -91,7 +96,19 @@
 88,
 88,
 92,
-92
+92,
+92,
+88,
+86,
+84,
+85,
+86,
+86,
+84,
+86,
+90,
+89,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -198,7 +215,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Social Cultural Anthropology and Global Issues"
 }

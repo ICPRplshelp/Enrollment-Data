@@ -69,13 +69,40 @@
 15,
 13,
 9,
+9,
+9,
+9,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+8,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1714065866
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -146,13 +173,40 @@
 20,
 20,
 19,
-19
+19,
+19,
+18,
+18,
+18,
+18,
+17,
+17,
+17,
+17,
+17,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1714065866
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -216,7 +270,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Design and Implementation of Multimedia Documents"
 }

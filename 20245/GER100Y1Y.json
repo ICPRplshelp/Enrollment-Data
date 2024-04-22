@@ -91,13 +91,48 @@
 13,
 14,
 17,
-17
+17,
+17,
+16,
+15,
+14,
+16,
+17,
+17,
+18,
+18,
+17,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elisabeth",
+"lastName": "Lange"
 },
-"instructors": [],
+{
+"firstName": "John",
+"lastName": "Evjen"
+}
+],
+"timing": 1713987449
+}
+]
+},
+"instructors": [
+{
+"firstName": "Elisabeth",
+"lastName": "Lange"
+},
+{
+"firstName": "John",
+"lastName": "Evjen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -190,13 +225,48 @@
 20,
 18,
 17,
+17,
+17,
+17,
+17,
+18,
+17,
+17,
+17,
+16,
+17,
+17,
+17,
 17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
 },
-"instructors": [],
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1713987449
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -282,7 +352,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Introduction to German"
 }

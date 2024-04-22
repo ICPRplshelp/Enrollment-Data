@@ -1,0 +1,35 @@
+{
+"code": "CSC392H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1714664535,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1714664534,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Computer Science Implementation Project"
+}

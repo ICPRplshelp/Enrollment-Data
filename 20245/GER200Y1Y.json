@@ -91,13 +91,48 @@
 8,
 8,
 9,
-9
+9,
+9,
+9,
+9,
+9,
+10,
+8,
+8,
+8,
+9,
+9,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florian",
+"lastName": "Geddes"
 },
-"instructors": [],
+{
+"firstName": "Rita",
+"lastName": "Laszlo"
+}
+],
+"timing": 1713987449
+}
+]
+},
+"instructors": [
+{
+"firstName": "Florian",
+"lastName": "Geddes"
+},
+{
+"firstName": "Rita",
+"lastName": "Laszlo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -183,7 +218,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Intermediate German 1"
 }

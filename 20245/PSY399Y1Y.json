@@ -91,13 +91,40 @@
 0,
 0,
 0,
-0
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Sommerville"
+}
+],
+"timing": 1713844864
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Sommerville"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -190,13 +217,40 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Corbit"
+}
+],
+"timing": 1713897839
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Corbit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -209,6 +263,18 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -388,6 +454,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -407,6 +485,18 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -586,6 +676,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -605,6 +707,18 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -784,6 +898,18 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -876,7 +1002,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Research Opportunity Program"
 }

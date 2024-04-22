@@ -84,13 +84,40 @@
 7,
 7,
 7,
-7
+7,
+7,
+7,
+7,
+7,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Batiuk"
+}
+],
+"timing": 1713987449
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Batiuk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC3001"
 }
@@ -169,7 +196,19 @@
 1713388874,
 1713448134,
 1713568984,
-1713637966
+1713637966,
+1713746908,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
 ],
 "title": "Field Archaeology"
 }

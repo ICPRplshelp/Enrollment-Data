@@ -1,0 +1,66 @@
+{
+"code": "KPE324H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844864,
+"delivery": "SYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+86,
+84,
+80,
+80,
+79,
+79,
+76,
+76,
+75,
+73,
+73
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noah Benjamin",
+"lastName": "Gentner"
+}
+],
+"timing": 1713844864
+}
+]
+},
+"instructors": [
+{
+"firstName": "Noah Benjamin",
+"lastName": "Gentner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844863,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Advanced Sport Psychology"
+}

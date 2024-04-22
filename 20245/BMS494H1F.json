@@ -1,0 +1,51 @@
+{
+"code": "BMS494H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1713844864,
+"delivery": "SYNC",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844863,
+1713844864,
+1713897839,
+1713987449,
+1714065866,
+1714148047,
+1714240812,
+1714413817,
+1714497177,
+1714664535,
+1714773602,
+1714836840
+],
+"title": "Independent Study in Book and Media Studies"
+}

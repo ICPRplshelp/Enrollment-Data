@@ -1,0 +1,60 @@
+{
+"code": "KPE120H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "HYBR",
+"enrollmentCap": 400,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 400
+},
+"enrollmentLogs": [
+0,
+350,
+350,
+350,
+350,
+350,
+349,
+349,
+349
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Linda",
+"lastName": "Trinh"
+}
+],
+"timing": 1713844697
+}
+]
+},
+"instructors": [
+{
+"firstName": "Linda",
+"lastName": "Trinh"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Foundations of Sport, Exercise and Health Psychology"
+}
