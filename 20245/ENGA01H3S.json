@@ -93,7 +93,20 @@
 122,
 115,
 115,
-115
+115,
+115,
+117,
+120,
+119,
+119,
+119,
+119,
+118,
+117,
+124,
+125,
+126,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -200,13 +213,41 @@
 114,
 108,
 110,
-110
+110,
+110,
+109,
+115,
+114,
+111,
+115,
+115,
+119,
+117,
+120,
+120,
+120,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Stafford"
+}
+],
+"timing": 1715261319
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Stafford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -285,7 +326,20 @@
 1714497177,
 1714664535,
 1714773602,
-1714836840
+1714836840,
+1714920522,
+1715003829,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
 ],
 "title": "What Is Literature?"
 }

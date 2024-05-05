@@ -5,12 +5,24 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 72,
 "time": 1709093202
+},
+{
+"newCapacity": 50,
+"time": 1715109856
+},
+{
+"newCapacity": 49,
+"time": 1715261319
+},
+{
+"newCapacity": 48,
+"time": 1715408907
 }
 ],
 "initialCap": 0
@@ -89,7 +101,20 @@
 53,
 52,
 53,
-53
+53,
+53,
+51,
+50,
+50,
+48,
+48,
+48,
+48,
+48,
+47,
+46,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,7 +214,20 @@
 1714497177,
 1714664535,
 1714773602,
-1714836840
+1714836840,
+1714920522,
+1715003829,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
 ],
 "title": "Cell and Molecular Biology Laboratory"
 }
