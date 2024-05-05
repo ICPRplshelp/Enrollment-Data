@@ -103,13 +103,49 @@
 39,
 38,
 36,
-36
+36,
+36,
+29,
+30,
+29,
+29,
+30,
+30,
+29,
+29,
+30,
+30,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claudia",
+"lastName": "Vasquez-Caicedo Rainero"
 },
-"instructors": [],
+{
+"firstName": "Nayid Jesus",
+"lastName": "Contreras"
+}
+],
+"timing": 1715003829
+}
+]
+},
+"instructors": [
+{
+"firstName": "Claudia",
+"lastName": "Vasquez-Caicedo Rainero"
+},
+{
+"firstName": "Nayid Jesus",
+"lastName": "Contreras"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -214,13 +250,49 @@
 33,
 33,
 32,
-32
+32,
+32,
+29,
+25,
+24,
+21,
+20,
+20,
+22,
+21,
+21,
+21,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catia",
+"lastName": "Dignard"
 },
-"instructors": [],
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
+"timing": 1715003829
+}
+]
+},
+"instructors": [
+{
+"firstName": "Catia",
+"lastName": "Dignard"
+},
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -318,7 +390,20 @@
 1714497177,
 1714664535,
 1714773602,
-1714836840
+1714836840,
+1714920522,
+1715003829,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
 ],
 "title": "Spanish for Beginners"
 }

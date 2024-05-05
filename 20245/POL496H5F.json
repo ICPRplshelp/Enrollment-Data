@@ -1,0 +1,51 @@
+{
+"code": "POL496H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1715109856,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1715109855,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
+],
+"title": "Undergraduate Reading Course"
+}

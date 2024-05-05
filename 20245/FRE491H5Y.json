@@ -14,13 +14,41 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mihaela",
+"lastName": "Pirvulescu"
+}
+],
+"timing": 1715109856
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mihaela",
+"lastName": "Pirvulescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -29,7 +57,20 @@
 1714664534,
 1714664535,
 1714773602,
-1714836840
+1714836840,
+1714920522,
+1715003829,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
 ],
 "title": "Independent Study"
 }

@@ -1,0 +1,66 @@
+{
+"code": "RSM403Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1715109856,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avni Mahesh",
+"lastName": "Shah"
+}
+],
+"timing": 1715109856
+}
+]
+},
+"instructors": [
+{
+"firstName": "Avni Mahesh",
+"lastName": "Shah"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1715109855,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
+],
+"title": "Independent Study Course"
+}

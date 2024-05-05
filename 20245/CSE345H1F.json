@@ -7,7 +7,16 @@
 "delivery": "INPER",
 "enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1715810863
+},
+{
+"newCapacity": 10,
+"time": 1715872956
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -50,7 +59,20 @@
 8,
 8,
 7,
-7
+7,
+7,
+8,
+8,
+9,
+10,
+10,
+10,
+10,
+10,
+10,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,9 +100,14 @@
 {
 "createdAt": 1711566554,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1715872956
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -123,7 +150,20 @@
 8,
 9,
 9,
-9
+9,
+9,
+9,
+10,
+10,
+7,
+8,
+8,
+8,
+8,
+10,
+10,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,7 +229,20 @@
 1714497177,
 1714664535,
 1714773602,
-1714836840
+1714836840,
+1714920522,
+1715003829,
+1715109856,
+1715144858,
+1715261319,
+1715408907,
+1715535607,
+1715609062,
+1715694561,
+1715810863,
+1715872956,
+1715985604,
+1716051835
 ],
 "title": "Equity and Activism in Education"
 }
