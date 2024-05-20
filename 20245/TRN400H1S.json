@@ -1,0 +1,61 @@
+{
+"code": "TRN400H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1716473618,
+"delivery": "ASYNC",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1716473617,
+1716473618,
+1716561695,
+1716655789,
+1716702335,
+1716812433,
+1716874031,
+1717020402,
+1717082694,
+1717166795,
+1717258490,
+1717342768,
+1717422691,
+1717516030,
+1717619641,
+1717685937,
+1717799087
+],
+"title": "Trinity Independent Studies"
+}

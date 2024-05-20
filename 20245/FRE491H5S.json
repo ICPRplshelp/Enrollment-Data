@@ -1,0 +1,64 @@
+{
+"code": "FRE491H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1717020402,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mihaela",
+"lastName": "Pirvulescu"
+}
+],
+"timing": 1717020402
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mihaela",
+"lastName": "Pirvulescu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1717020401,
+1717020402,
+1717082694,
+1717166795,
+1717258490,
+1717342768,
+1717422691,
+1717516030,
+1717619641,
+1717685937,
+1717799087
+],
+"title": "Independent Study"
+}

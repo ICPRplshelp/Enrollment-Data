@@ -116,13 +116,77 @@
 154,
 154,
 155,
-155
+155,
+155,
+155,
+153,
+155,
+156,
+156,
+156,
+156,
+155,
+158,
+163,
+163,
+165,
+165,
+165,
+162,
+162,
+161,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Robert",
+"lastName": "Walmsley"
 },
-"instructors": [],
+{
+"firstName": "Tobias Jean H",
+"lastName": "Geron"
+}
+],
+"timing": 1716473618
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Robert",
+"lastName": "Walmsley"
+},
+{
+"firstName": "Tobias Jean H",
+"lastName": "Geron"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
+}
+],
+"timing": 1716561695
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael Robert",
+"lastName": "Walmsley"
+},
+{
+"firstName": "Tobias Jean H",
+"lastName": "Geron"
+},
+{
+"firstName": "Michael",
+"lastName": "Williams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -233,7 +297,27 @@
 1715810863,
 1715872956,
 1715985604,
-1716051835
+1716051835,
+1716178933,
+1716181616,
+1716223111,
+1716298372,
+1716473618,
+1716561695,
+1716655789,
+1716702335,
+1716812433,
+1716874031,
+1717020402,
+1717082694,
+1717166795,
+1717258490,
+1717342768,
+1717422691,
+1717516030,
+1717619641,
+1717685937,
+1717799087
 ],
 "title": "Stars and Galaxies"
 }
