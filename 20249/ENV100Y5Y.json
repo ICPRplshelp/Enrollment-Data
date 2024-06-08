@@ -1,0 +1,55 @@
+{
+"code": "ENV100Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 1200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC9999"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "The Environment"
+}

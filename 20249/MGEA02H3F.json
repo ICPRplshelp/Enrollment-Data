@@ -1,0 +1,164 @@
+{
+"code": "MGEA02H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+289,
+289,
+288,
+287,
+289,
+289,
+283,
+283
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+307,
+307,
+307,
+307,
+308,
+308,
+304,
+304
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 300
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+89,
+89,
+89,
+91,
+92,
+90,
+91
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jack",
+"lastName": "Parkinson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Introduction to Microeconomics: A Mathematical Approach"
+}

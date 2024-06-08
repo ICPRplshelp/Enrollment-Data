@@ -1,0 +1,66 @@
+{
+"code": "PRA601H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "SYNC",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA101"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Interprofessional Education Option"
+}

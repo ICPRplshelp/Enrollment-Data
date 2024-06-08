@@ -1,0 +1,43 @@
+{
+"code": "BMS411H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1718897516,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718897515,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Advanced Open Topics in Book & Media Studies"
+}

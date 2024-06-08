@@ -1,0 +1,70 @@
+{
+"code": "BME440H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 46,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 46
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+30,
+30,
+31,
+31,
+31,
+31
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leo",
+"lastName": "Chou"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Leo",
+"lastName": "Chou"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Biomedical Engineering Technology and Investigation"
+}

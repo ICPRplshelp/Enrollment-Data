@@ -1,0 +1,56 @@
+{
+"code": "HLTC81H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+5,
+8,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Walter",
+"lastName": "Tavares"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Walter",
+"lastName": "Tavares"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Health Professions and Practice"
+}

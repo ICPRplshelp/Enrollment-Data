@@ -1,0 +1,211 @@
+{
+"code": "PMU391Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anita",
+"lastName": "McAlister"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anita",
+"lastName": "McAlister"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Annalee",
+"lastName": "Patipatanakoon"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Annalee",
+"lastName": "Patipatanakoon"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0201"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eric",
+"lastName": "Hall"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Eric",
+"lastName": "Hall"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0301"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aiyun",
+"lastName": "Huang"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aiyun",
+"lastName": "Huang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0501"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Chamber Music"
+}

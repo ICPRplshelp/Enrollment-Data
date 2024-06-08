@@ -1,0 +1,117 @@
+{
+"code": "ECE421H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 105,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 105
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+67,
+66,
+67,
+67,
+67,
+66
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Papernot"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Papernot"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 105,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 105
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+56,
+56,
+56,
+56,
+56,
+56
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Papernot"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Papernot"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Introduction to Machine Learning"
+}

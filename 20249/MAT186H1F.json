@@ -1,0 +1,324 @@
+{
+"code": "MAT186H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+3,
+166,
+166,
+166,
+166,
+164,
+164,
+164,
+164,
+164,
+164,
+164
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+168
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+5,
+169,
+169,
+169,
+169,
+169,
+169,
+169,
+169,
+168,
+168,
+168
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+5,
+168,
+168,
+168,
+168,
+167,
+167,
+166,
+165,
+165,
+164,
+164
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0104"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+4,
+169,
+169,
+169,
+169,
+168,
+167,
+167,
+170,
+170,
+170,
+170
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0105"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+3,
+168,
+168,
+168,
+168,
+168,
+170,
+170,
+177,
+177,
+177,
+176
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0106"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+7,
+148,
+148,
+146,
+146,
+146,
+146,
+146,
+149,
+149,
+148,
+148
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0107"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+10,
+147,
+147,
+145,
+144,
+144,
+144,
+144,
+146,
+146,
+146,
+145
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0108"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Calculus I"
+}

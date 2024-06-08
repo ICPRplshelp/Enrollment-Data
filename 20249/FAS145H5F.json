@@ -1,0 +1,211 @@
+{
+"code": "FAS145H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 23,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 23
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 23,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 23
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Angela",
+"lastName": "Leach"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 23,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 23
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joy",
+"lastName": "Wong"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joy",
+"lastName": "Wong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0103"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 23,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 23
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Antkowiak"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Antkowiak"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0104"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Painting I"
+}

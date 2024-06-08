@@ -54,13 +54,56 @@
 120,
 120,
 119,
-121
+121,
+121,
+121,
+121,
+121,
+121,
+127,
+127,
+127,
+128,
+128,
+133,
+138,
+140,
+146,
+150,
+154,
+153,
+148,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emilia",
+"lastName": "Melara"
+}
+],
+"timing": 1718315843
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Anujin",
+"lastName": "Munkhbat"
+}
+],
+"timing": 1719500763
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anujin",
+"lastName": "Munkhbat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -109,7 +152,26 @@
 1717516030,
 1717619641,
 1717685937,
-1717799087
+1717799087,
+1717860671,
+1717986408,
+1718028698,
+1718082075,
+1718172142,
+1718315843,
+1718317480,
+1718390934,
+1718464057,
+1718568526,
+1718635193,
+1718693740,
+1718897469,
+1719168705,
+1719239442,
+1719323561,
+1719351318,
+1719441644,
+1719500763
 ],
 "title": "English Grammar I"
 }

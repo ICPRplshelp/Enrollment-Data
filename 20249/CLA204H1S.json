@@ -1,0 +1,164 @@
+{
+"code": "CLA204H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 450,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 450
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katerina",
+"lastName": "Apokatanidis"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Katerina",
+"lastName": "Apokatanidis"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Masse"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jeffrey",
+"lastName": "Masse"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC2501"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 240,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 240
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeffrey",
+"lastName": "Masse"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jeffrey",
+"lastName": "Masse"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Introduction to Classical Mythology"
+}

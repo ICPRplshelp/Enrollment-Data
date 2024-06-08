@@ -1,0 +1,33 @@
+{
+"code": "MDSC01H3S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 65,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982
+],
+"title": "Theories in Media Studies"
+}

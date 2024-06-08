@@ -1,0 +1,164 @@
+{
+"code": "MATA22H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+105,
+100,
+100,
+100,
+100,
+101,
+100,
+100
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Kielstra"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Kielstra"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+267,
+265,
+265,
+263,
+264,
+265,
+260,
+260
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 207,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 207
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+177,
+179,
+180,
+179,
+179,
+178,
+176,
+176
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Kielstra"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Kielstra"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Linear Algebra I for Mathematical Sciences"
+}

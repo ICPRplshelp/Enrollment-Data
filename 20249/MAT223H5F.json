@@ -1,0 +1,243 @@
+{
+"code": "MAT223H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "SYNC",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Rennet"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Rennet"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1718317520,
+"delivery": "HYBR",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jaimal",
+"lastName": "Thind"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jaimal",
+"lastName": "Thind"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0104"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jaimal",
+"lastName": "Thind"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jaimal",
+"lastName": "Thind"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0105"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Linear Algebra I"
+}

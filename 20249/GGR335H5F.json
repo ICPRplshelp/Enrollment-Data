@@ -1,0 +1,70 @@
+{
+"code": "GGR335H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+46
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yuhong",
+"lastName": "He"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yuhong",
+"lastName": "He"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Remote Sensing Applications"
+}

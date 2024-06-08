@@ -1,0 +1,164 @@
+{
+"code": "FAS248H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rhonda",
+"lastName": "Weppler"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rhonda",
+"lastName": "Weppler"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jordyn",
+"lastName": "Stewart"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jordyn",
+"lastName": "Stewart"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lauren",
+"lastName": "Nurse"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lauren",
+"lastName": "Nurse"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0103"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Sculpture I"
+}

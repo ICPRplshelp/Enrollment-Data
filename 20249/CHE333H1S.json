@@ -1,0 +1,83 @@
+{
+"code": "CHE333H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+125,
+125,
+125,
+126,
+125,
+125
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bradley",
+"lastName": "Saville"
+},
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+}
+],
+"timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gisele",
+"lastName": "Azimi"
+}
+],
+"timing": 1719323608
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gisele",
+"lastName": "Azimi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Chemical Reaction Engineering"
+}

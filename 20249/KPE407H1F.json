@@ -1,0 +1,56 @@
+{
+"code": "KPE407H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony Vincent",
+"lastName": "Battaglia"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anthony Vincent",
+"lastName": "Battaglia"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Maltreatment in Youth Sport"
+}

@@ -1,0 +1,180 @@
+{
+"code": "MAT187H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+8,
+491,
+491,
+490,
+490,
+490,
+489,
+489,
+493,
+492,
+493,
+493
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shai",
+"lastName": "Cohen"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Shai",
+"lastName": "Cohen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+12,
+415,
+415,
+415,
+415,
+412,
+413,
+413,
+420,
+420,
+419,
+418
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+},
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+},
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+17,
+397,
+397,
+394,
+393,
+392,
+392,
+391,
+393,
+393,
+392,
+391
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+},
+{
+"firstName": "Camelia",
+"lastName": "Karimian Pour"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+},
+{
+"firstName": "Camelia",
+"lastName": "Karimian Pour"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Calculus II"
+}

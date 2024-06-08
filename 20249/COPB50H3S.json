@@ -1,0 +1,60 @@
+{
+"code": "COPB50H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 645,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 645,
+"time": 1719168759
+}
+],
+"initialCap": 525
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Foundations for Success in Art and Science Co-op"
+}

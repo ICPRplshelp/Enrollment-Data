@@ -1,0 +1,56 @@
+{
+"code": "VPHB50H3F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Harney"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Harney"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796
+],
+"title": "Africa Through the Photographic Lens"
+}

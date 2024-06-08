@@ -1,0 +1,164 @@
+{
+"code": "ECE302H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+110,
+110,
+110,
+110,
+110,
+110
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Parham",
+"lastName": "Aarabi"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Parham",
+"lastName": "Aarabi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+74,
+74,
+74,
+74,
+81,
+80
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Parham",
+"lastName": "Aarabi"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Parham",
+"lastName": "Aarabi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+73,
+73,
+72,
+72,
+75,
+74
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alberto",
+"lastName": "Leon-Garcia"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alberto",
+"lastName": "Leon-Garcia"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Probability and Applications"
+}

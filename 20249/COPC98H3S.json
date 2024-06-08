@@ -1,0 +1,119 @@
+{
+"code": "COPC98H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+95,
+95,
+95,
+95,
+95,
+95,
+94
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+120,
+120,
+120,
+120,
+120,
+120,
+120
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+21,
+21,
+21,
+21,
+21,
+21,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Integrating Your Work Term Experience Part I"
+}

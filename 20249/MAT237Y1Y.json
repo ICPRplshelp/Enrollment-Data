@@ -1,0 +1,211 @@
+{
+"code": "MAT237Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Asif Ali",
+"lastName": "Zaman"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Asif Ali",
+"lastName": "Zaman"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Asif Ali",
+"lastName": "Zaman"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Asif Ali",
+"lastName": "Zaman"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 140,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 140
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Fabian Mario",
+"lastName": "Parsch"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Multivariable Calculus with Proofs"
+}

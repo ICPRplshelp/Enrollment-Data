@@ -1,0 +1,188 @@
+{
+"code": "COPB12H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+90,
+90,
+90,
+90,
+90,
+88,
+88
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+89,
+89,
+89,
+88,
+88,
+86,
+86
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+90,
+90,
+90,
+90,
+90,
+90,
+90
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 92,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 92,
+"time": 1718390982
+}
+],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+92,
+92,
+92,
+92,
+92,
+92,
+91,
+91
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+90,
+90,
+89,
+89,
+89,
+89,
+86,
+86
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC05"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Advancing Your Career Exploration Part II"
+}

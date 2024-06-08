@@ -1,0 +1,236 @@
+{
+"code": "BIOA01H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 349,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 349
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 499,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 499
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "ASYNC",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Karolyn",
+"lastName": "Keir"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Life on Earth: Unifying Principles"
+}

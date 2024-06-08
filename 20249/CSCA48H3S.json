@@ -1,0 +1,211 @@
+{
+"code": "CSCA48H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+105,
+100,
+99,
+99,
+99,
+100,
+99,
+99
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francisco",
+"lastName": "Estrada"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Francisco",
+"lastName": "Estrada"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+143,
+141,
+141,
+139,
+140,
+142,
+140,
+140
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francisco",
+"lastName": "Estrada"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Francisco",
+"lastName": "Estrada"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+150,
+149,
+150,
+150,
+150,
+149,
+147,
+147
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rawad",
+"lastName": "Abou Assi"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rawad",
+"lastName": "Abou Assi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+76,
+79,
+79,
+79,
+79,
+79,
+78,
+78
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcelo",
+"lastName": "Ponce Castro"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marcelo",
+"lastName": "Ponce Castro"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Introduction to Computer Science II"
+}

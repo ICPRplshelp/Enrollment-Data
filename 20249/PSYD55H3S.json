@@ -1,0 +1,99 @@
+{
+"code": "PSYD55H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718897516,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+16,
+17,
+19,
+19
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andy CH",
+"lastName": "Lee"
+}
+],
+"timing": 1718897516
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andy CH",
+"lastName": "Lee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718897516,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+17,
+18,
+19,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andy CH",
+"lastName": "Lee"
+}
+],
+"timing": 1718897516
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andy CH",
+"lastName": "Lee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1718897515,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Functional Magnetic Resonance Imaging Laboratory"
+}

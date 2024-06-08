@@ -1,0 +1,43 @@
+{
+"code": "PSYC39H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718897516,
+"delivery": "INPER",
+"enrollmentCap": 230,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 230
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+36,
+43,
+46,
+46
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1718897515,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Psychology and the Law"
+}

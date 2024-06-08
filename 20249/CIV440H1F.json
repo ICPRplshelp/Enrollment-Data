@@ -1,0 +1,33 @@
+{
+"code": "CIV440H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1719441694,
+"delivery": "INPER",
+"enrollmentCap": 140,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 140
+},
+"enrollmentLogs": [
+0,
+64,
+63
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719441693,
+1719441694,
+1719500812
+],
+"title": "Environmental Impact and Risk Assessment"
+}

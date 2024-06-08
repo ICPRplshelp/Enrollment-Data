@@ -1,0 +1,70 @@
+{
+"code": "BME395H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 42,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 42
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+36,
+36,
+35,
+35,
+35,
+35
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rodrigo",
+"lastName": "Fernandez-Gonzalez"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rodrigo",
+"lastName": "Fernandez-Gonzalez"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Biomedical Systems Engineering II: Cells and Tissues"
+}

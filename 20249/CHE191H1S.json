@@ -1,0 +1,83 @@
+{
+"code": "CHE191H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+8,
+190,
+190,
+190,
+190,
+191,
+191,
+191,
+194,
+194,
+193,
+193
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Cluett"
+},
+{
+"firstName": "Marko",
+"lastName": "Saban"
+}
+],
+"timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Bender"
+}
+],
+"timing": 1719351363
+}
+]
+},
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Bender"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Introduction to Chemical Engineering and Applied Chemistry"
+}

@@ -1,0 +1,79 @@
+{
+"code": "CHE403H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 141,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 138,
+"time": 1718897516
+},
+{
+"newCapacity": 141,
+"time": 1719441694
+}
+],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+137,
+137,
+137,
+138,
+140,
+140
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vladimiros",
+"lastName": "Papangelakis"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vladimiros",
+"lastName": "Papangelakis"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Professional Practice"
+}

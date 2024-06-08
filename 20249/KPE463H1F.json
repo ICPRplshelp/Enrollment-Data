@@ -1,0 +1,56 @@
+{
+"code": "KPE463H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danielle Michelle",
+"lastName": "Lawrence"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Danielle Michelle",
+"lastName": "Lawrence"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Topics in Professional Kinesiology"
+}

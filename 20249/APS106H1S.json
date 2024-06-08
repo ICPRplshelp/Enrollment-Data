@@ -1,0 +1,172 @@
+{
+"code": "APS106H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+16,
+518,
+518,
+518,
+518,
+515,
+516,
+516,
+524,
+524,
+523,
+522
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Goodfellow"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sebastian",
+"lastName": "Goodfellow"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+3,
+176,
+176,
+175,
+175,
+174,
+174,
+174,
+174,
+174,
+174,
+173
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chris",
+"lastName": "Beck"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chris",
+"lastName": "Beck"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+10,
+118,
+118,
+116,
+115,
+115,
+115,
+115,
+115,
+115,
+114,
+114
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamad",
+"lastName": "Moosavi"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mohamad",
+"lastName": "Moosavi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Fundamentals of Computer Programming"
+}

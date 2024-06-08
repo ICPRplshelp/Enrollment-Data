@@ -1,0 +1,37 @@
+{
+"code": "PPG410H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1719323608,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719323607,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Advanced Topics in Public Policy"
+}

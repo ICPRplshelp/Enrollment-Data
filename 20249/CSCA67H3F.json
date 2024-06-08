@@ -1,0 +1,174 @@
+{
+"code": "CSCA67H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1718897516
+}
+],
+"initialCap": 206
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+200,
+197,
+197,
+197,
+196,
+197,
+194,
+194
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1718897516
+}
+],
+"initialCap": 201
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+200,
+198,
+198,
+197,
+198,
+199,
+196,
+196
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+150,
+149,
+150,
+150,
+149,
+148,
+146,
+146
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Molloy"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Molloy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Discrete Mathematics"
+}

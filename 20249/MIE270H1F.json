@@ -1,0 +1,143 @@
+{
+"code": "MIE270H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+39,
+106,
+106,
+106,
+106,
+106,
+105,
+105,
+105,
+105,
+104,
+104
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olivera",
+"lastName": "Kesler"
+},
+{
+"firstName": "Fae",
+"lastName": "Azhari"
+}
+],
+"timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+38,
+107,
+107,
+107,
+106,
+106,
+106,
+106,
+106,
+106,
+106,
+106
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olivera",
+"lastName": "Kesler"
+},
+{
+"firstName": "Fae",
+"lastName": "Azhari"
+}
+],
+"timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Materials Science"
+}

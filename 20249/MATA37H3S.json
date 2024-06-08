@@ -1,0 +1,164 @@
+{
+"code": "MATA37H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+199,
+194,
+194,
+193,
+193,
+194,
+191,
+191
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+151,
+152,
+153,
+152,
+152,
+151,
+149,
+149
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+199,
+198,
+197,
+196,
+198,
+199,
+196,
+196
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Smith"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Calculus II for Mathematical Sciences"
+}

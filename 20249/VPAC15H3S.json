@@ -1,0 +1,56 @@
+{
+"code": "VPAC15H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 90,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 90
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+33,
+36,
+37,
+37
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claudia",
+"lastName": "Sicondolfo"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Claudia",
+"lastName": "Sicondolfo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Cultural Policy"
+}

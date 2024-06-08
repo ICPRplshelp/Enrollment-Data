@@ -1,0 +1,54 @@
+{
+"code": "RLG299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1719500812,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Krista Lynne",
+"lastName": "Barclay"
+},
+{
+"firstName": "Pamela",
+"lastName": "Klassen"
+}
+],
+"timing": 1719500812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Krista Lynne",
+"lastName": "Barclay"
+},
+{
+"firstName": "Pamela",
+"lastName": "Klassen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719500811,
+1719500812
+],
+"title": "Research Opportunity Program"
+}

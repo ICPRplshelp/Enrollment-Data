@@ -1,0 +1,54 @@
+{
+"code": "MDSC41H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1719239492,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+11,
+11,
+11,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ruoyun",
+"lastName": "Bai"
+}
+],
+"timing": 1719239492
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ruoyun",
+"lastName": "Bai"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1719239491,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Media and Popular Culture in East Asia"
+}

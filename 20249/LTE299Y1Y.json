@@ -1,0 +1,151 @@
+{
+"code": "LTE299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1719500812,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Becky",
+"lastName": "Chen"
+}
+],
+"timing": 1719500812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Becky",
+"lastName": "Chen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1719500812,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaja",
+"lastName": "Jasinska"
+}
+],
+"timing": 1719500812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kaja",
+"lastName": "Jasinska"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1719500812,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hance",
+"lastName": "Clarke"
+}
+],
+"timing": 1719500812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hance",
+"lastName": "Clarke"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1719500812,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jamie",
+"lastName": "Feusner"
+}
+],
+"timing": 1719500812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jamie",
+"lastName": "Feusner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0401"
+}
+],
+"timeIntervals": [
+1719500811,
+1719500812
+],
+"title": "Research Opportunity Program"
+}

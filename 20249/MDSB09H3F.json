@@ -1,0 +1,54 @@
+{
+"code": "MDSB09H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1719239492,
+"delivery": "INPER",
+"enrollmentCap": 75,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 75
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alejandro",
+"lastName": "Paz"
+}
+],
+"timing": 1719239492
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alejandro",
+"lastName": "Paz"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1719239491,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Kids These Days:  Youth, Language and Media"
+}

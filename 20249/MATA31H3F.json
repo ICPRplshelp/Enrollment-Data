@@ -1,0 +1,211 @@
+{
+"code": "MATA31H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+175,
+172,
+172,
+172,
+173,
+174,
+172,
+172
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+175,
+173,
+174,
+173,
+173,
+172,
+170,
+170
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+200,
+200,
+199,
+197,
+197,
+198,
+194,
+194
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael Scott",
+"lastName": "Cavers"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Calculus I for Mathematical Sciences"
+}

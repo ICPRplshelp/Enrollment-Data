@@ -1,0 +1,86 @@
+{
+"code": "LMP330H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1718317520,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Irwin"
+},
+{
+"firstName": "Karim",
+"lastName": "Mekhail"
+},
+{
+"firstName": "Bo",
+"lastName": "Wang"
+}
+],
+"timing": 1718317520
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Irwin"
+},
+{
+"firstName": "Karim",
+"lastName": "Mekhail"
+},
+{
+"firstName": "Bo",
+"lastName": "Wang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1718317519,
+1718317520,
+1718390982,
+1718464105,
+1718568575,
+1718635241,
+1718693796,
+1718897516,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Genetic and Computational Modeling in Human Development and Disease"
+}

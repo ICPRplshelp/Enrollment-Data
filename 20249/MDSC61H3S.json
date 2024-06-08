@@ -1,0 +1,56 @@
+{
+"code": "MDSC61H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1719168759,
+"delivery": "INPER",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 70
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+35,
+37,
+38,
+39
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Lobo"
+}
+],
+"timing": 1719168759
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Lobo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1719168758,
+1719168759,
+1719239492,
+1719323608,
+1719351363,
+1719441694,
+1719500812
+],
+"title": "Alternative Media"
+}
