@@ -1,6 +1,6 @@
 {
 "code": "ECO446H1S",
-"faculty": "ARTSC",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1718317520,
@@ -24,6 +24,12 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -31,7 +37,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -49,7 +55,13 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891
 ],
 "title": "Advanced Public Economics"
 }

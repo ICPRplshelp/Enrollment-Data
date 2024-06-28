@@ -24,7 +24,15 @@
 0,
 0,
 4,
-4
+4,
+5,
+5,
+5,
+5,
+5,
+5,
+6,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -56,7 +64,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+3,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -103,13 +119,36 @@
 0,
 0,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+8,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -128,7 +167,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Beginner Italian"
 }

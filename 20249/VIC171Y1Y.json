@@ -24,13 +24,36 @@
 21,
 21,
 21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cory",
+"lastName": "Lewis"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cory",
+"lastName": "Lewis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -49,7 +72,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Methodology, Theory and Practice in the Natural Sciences"
 }

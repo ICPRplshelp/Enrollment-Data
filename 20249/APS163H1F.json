@@ -1,0 +1,45 @@
+{
+"code": "APS163H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1719584180,
+"delivery": "SYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1719584179,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
+],
+"title": "Calculus for Engineers II"
+}

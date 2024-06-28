@@ -24,13 +24,44 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bethany",
+"lastName": "White"
 },
-"instructors": [],
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"timing": 1720005891
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +87,44 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bethany",
+"lastName": "White"
 },
-"instructors": [],
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"timing": 1720005891
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -81,7 +143,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Statistics and Scientific Inquiry in the Life Sciences"
 }

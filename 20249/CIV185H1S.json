@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 168,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 168,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 168,
 168,
 168,
-168
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +62,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Earth Systems Science"
 }

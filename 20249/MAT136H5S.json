@@ -24,13 +24,36 @@
 0,
 0,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,7 +79,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -103,6 +134,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -135,7 +174,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+4,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -182,7 +229,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,7 +284,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -276,6 +339,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -307,6 +378,14 @@
 0,
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1
 ],
@@ -340,7 +419,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -387,7 +474,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -433,6 +528,14 @@
 0,
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1
 ],
@@ -481,6 +584,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -506,7 +617,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Integral Calculus"
 }

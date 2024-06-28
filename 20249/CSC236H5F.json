@@ -24,7 +24,15 @@
 0,
 0,
 11,
-12
+12,
+13,
+15,
+15,
+16,
+16,
+17,
+66,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,13 +79,36 @@
 0,
 0,
 7,
-7
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -103,13 +134,36 @@
 0,
 0,
 1,
-1
+1,
+1,
+2,
+2,
+2,
+2,
+2,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -128,7 +182,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Introduction to the Theory of Computation"
 }

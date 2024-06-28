@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 454,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 454,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 439,
 438,
 438,
-438
+438,
+438,
+438,
+438,
+438,
+438,
+438,
+455,
+453
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,6 +54,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dawn",
+"lastName": "Kilkenny Rocheleau"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
+}
+],
+"timing": 1720104566
 }
 ]
 },
@@ -52,6 +82,10 @@
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
 }
 ],
 "isCancelled": false,
@@ -60,9 +94,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 440,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 440,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -79,7 +118,15 @@
 442,
 442,
 441,
-441
+441,
+441,
+441,
+441,
+441,
+441,
+440,
+440,
+439
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -96,6 +143,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dawn",
+"lastName": "Kilkenny Rocheleau"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
+}
+],
+"timing": 1720104566
 }
 ]
 },
@@ -107,6 +171,10 @@
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
 }
 ],
 "isCancelled": false,
@@ -115,9 +183,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 435,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 435,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -134,7 +207,15 @@
 428,
 428,
 427,
-425
+425,
+425,
+425,
+425,
+425,
+425,
+425,
+424,
+423
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -151,6 +232,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dawn",
+"lastName": "Kilkenny Rocheleau"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
+}
+],
+"timing": 1720104566
 }
 ]
 },
@@ -162,6 +260,10 @@
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
+},
+{
+"firstName": "Mikhail",
+"lastName": "Burke"
 }
 ],
 "isCancelled": false,
@@ -182,7 +284,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Orientation to Engineering"
 }

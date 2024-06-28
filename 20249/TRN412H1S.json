@@ -24,13 +24,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,15 +79,93 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1719840049,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
+"timing": 1720405671
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -81,7 +182,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

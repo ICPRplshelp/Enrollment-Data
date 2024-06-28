@@ -1,0 +1,35 @@
+{
+"code": "GASB05H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1720005891,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1720005890,
+1720005891,
+1720104566,
+1720405671
+],
+"title": "Media and Globalization"
+}

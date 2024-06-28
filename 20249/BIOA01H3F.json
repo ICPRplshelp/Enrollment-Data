@@ -24,7 +24,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+446,
+446
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,7 +103,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+593,
+600
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,9 +163,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "ASYNC",
-"enrollmentCap": 250,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1720104566
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -166,7 +187,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+284,
+316
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -230,7 +259,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Life on Earth: Unifying Principles"
 }

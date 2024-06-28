@@ -24,13 +24,44 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Susan",
+"lastName": "Hill"
 },
-"instructors": [],
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
+"timing": 1720405671
+}
+]
+},
+"instructors": [
+{
+"firstName": "Susan",
+"lastName": "Hill"
+},
+{
+"firstName": "Kevin",
+"lastName": "White"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -43,6 +74,14 @@
 "initialCap": 12
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -81,7 +120,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Introduction to Indigenous Studies: Foundations, History and Politics"
 }

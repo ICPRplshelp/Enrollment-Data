@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 104,
 103,
 103,
-103
+103,
+103,
+103,
+103,
+103,
+103,
+103,
+103,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,9 +65,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -71,7 +89,15 @@
 121,
 121,
 121,
-121
+121,
+121,
+121,
+121,
+121,
+121,
+121,
+121,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -99,9 +125,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 151,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -118,7 +149,15 @@
 143,
 143,
 143,
-143
+143,
+143,
+143,
+143,
+143,
+143,
+143,
+151,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -146,9 +185,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 133,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 133,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -165,7 +209,15 @@
 125,
 125,
 125,
-125
+125,
+125,
+125,
+125,
+125,
+125,
+125,
+133,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -205,7 +257,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Computer Fundamentals"
 }

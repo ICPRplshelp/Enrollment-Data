@@ -24,7 +24,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,7 +79,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -84,6 +100,19 @@
 }
 ],
 "timing": 1719500812
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Samuel",
+"lastName": "Akinbo"
+},
+{
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
+}
+],
+"timing": 1720104566
 }
 ]
 },
@@ -91,6 +120,10 @@
 {
 "firstName": "Samuel",
 "lastName": "Akinbo"
+},
+{
+"firstName": "Suzi",
+"lastName": "Oliveira de Lima"
 }
 ],
 "isCancelled": false,
@@ -142,7 +175,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Research Opportunity Program"
 }

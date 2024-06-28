@@ -29,7 +29,15 @@
 42,
 42,
 42,
-42
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -57,9 +65,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 41,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1720104566
+}
+],
 "initialCap": 41
 },
 "enrollmentLogs": [
@@ -76,7 +89,15 @@
 41,
 41,
 41,
-41
+41,
+41,
+41,
+41,
+40,
+40,
+40,
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -110,6 +131,14 @@
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -163,7 +192,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "International Human Resources"
 }

@@ -24,13 +24,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +79,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -81,7 +127,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Money, Banking and Financial Markets"
 }

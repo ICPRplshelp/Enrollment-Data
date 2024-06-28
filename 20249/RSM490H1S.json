@@ -29,6 +29,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -61,13 +69,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -93,13 +124,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -125,13 +179,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -150,7 +227,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "International Strategy"
 }

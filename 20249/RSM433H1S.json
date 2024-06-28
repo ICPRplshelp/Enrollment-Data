@@ -24,13 +24,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +79,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Claire",
+"lastName": "Celerier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -88,13 +134,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chay",
+"lastName": "Ornthanalai"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chay",
+"lastName": "Ornthanalai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -107,6 +176,14 @@
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -145,7 +222,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Advanced Corporate Finance"
 }

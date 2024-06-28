@@ -24,7 +24,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,7 +79,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -118,7 +134,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,7 +189,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -212,7 +244,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -259,7 +299,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -306,7 +354,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -353,7 +409,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -400,7 +464,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -447,7 +519,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,7 +574,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -541,7 +629,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -588,7 +684,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -635,7 +739,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -682,7 +794,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -729,13 +849,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Suzanne",
+"lastName": "Groppe"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Suzanne",
+"lastName": "Groppe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC1601"
 },
@@ -761,7 +904,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -832,7 +983,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Research Opportunity Program"
 }

@@ -29,7 +29,15 @@
 196,
 197,
 194,
-194
+194,
+194,
+193,
+193,
+193,
+192,
+196,
+201,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -81,7 +89,15 @@
 198,
 199,
 196,
-196
+196,
+196,
+196,
+196,
+193,
+193,
+196,
+200,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -109,9 +125,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 156,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 156,
+"time": 1719925667
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -128,7 +149,15 @@
 149,
 148,
 146,
-146
+146,
+146,
+146,
+146,
+146,
+146,
+156,
+157,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -168,7 +197,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Discrete Mathematics"
 }

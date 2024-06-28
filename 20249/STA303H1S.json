@@ -24,7 +24,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+38,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -56,13 +64,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+119,
+119,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine Suzanne",
+"lastName": "Daignault"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katherine Suzanne",
+"lastName": "Daignault"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -88,13 +119,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+60,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine Suzanne",
+"lastName": "Daignault"
+}
+],
+"timing": 1720104566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katherine Suzanne",
+"lastName": "Daignault"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -113,7 +167,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Methods of Data Analysis II"
 }

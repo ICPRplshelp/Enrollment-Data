@@ -5,12 +5,25 @@
 {
 "createdAt": 1719351363,
 "delivery": "INPER",
-"enrollmentCap": 0,
+"enrollmentCap": 99,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 99,
+"time": 1720005891
+}
+],
 "initialCap": 0
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -21,7 +34,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": true,
+"isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -29,7 +42,15 @@
 1719351362,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Modern Architecture from 1750 to the Present"
 }

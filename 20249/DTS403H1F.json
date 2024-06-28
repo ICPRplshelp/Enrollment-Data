@@ -24,6 +24,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -37,13 +45,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Mucha"
+}
+],
+"timing": 1720005891
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ken",
-"lastName": "MacDonald"
+"firstName": "Matthew",
+"lastName": "Mucha"
 }
 ],
 "isCancelled": false,
@@ -64,7 +81,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Advanced Topics in Diaspora and Transnationalism"
 }

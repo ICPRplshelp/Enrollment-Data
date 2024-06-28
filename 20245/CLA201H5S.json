@@ -5,12 +5,16 @@
 {
 "createdAt": 1709255171,
 "delivery": "SYNC",
-"enrollmentCap": 75,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1712606869
+},
+{
+"newCapacity": 85,
+"time": 1720005843
 }
 ],
 "initialCap": 45
@@ -138,7 +142,15 @@
 86,
 86,
 85,
-84
+84,
+84,
+84,
+84,
+85,
+83,
+83,
+87,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -287,7 +299,15 @@
 1719323561,
 1719351318,
 1719441644,
-1719500763
+1719500763,
+1719584130,
+1719671158,
+1719758269,
+1719840002,
+1719925617,
+1720005843,
+1720104518,
+1720405610
 ],
 "title": "Latin and Greek in Scientific Terminology"
 }

@@ -13,13 +13,36 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ron",
+"lastName": "Levi"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ron",
+"lastName": "Levi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +50,15 @@
 "timeIntervals": [
 1719441693,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Justice Institutions: Crime, Violence, and Insecurity"
 }

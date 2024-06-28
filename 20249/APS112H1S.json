@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 506,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 506,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 493,
 492,
 492,
-492
+492,
+492,
+492,
+492,
+492,
+492,
+492,
+508,
+506
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,9 +89,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -95,7 +113,15 @@
 420,
 420,
 419,
-418
+418,
+418,
+418,
+418,
+418,
+418,
+418,
+418,
+417
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,9 +165,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -158,7 +189,15 @@
 393,
 393,
 392,
-391
+391,
+391,
+391,
+391,
+391,
+391,
+390,
+390,
+390
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -214,7 +253,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Engineering Strategies & Practice II"
 }

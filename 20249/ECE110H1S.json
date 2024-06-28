@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 104,
 103,
 103,
-103
+103,
+103,
+103,
+103,
+103,
+103,
+104,
+104,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,9 +65,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 157,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 157,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -71,7 +89,15 @@
 158,
 158,
 158,
-158
+158,
+158,
+158,
+158,
+158,
+158,
+158,
+158,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -99,9 +125,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 144,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 144,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -118,7 +149,15 @@
 134,
 134,
 134,
-134
+134,
+134,
+134,
+134,
+134,
+134,
+134,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -146,9 +185,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 147,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 147,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -165,22 +209,50 @@
 141,
 141,
 141,
-141
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+147,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Belinda",
+"lastName": "Wang"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Belinda",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 212,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 212,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -194,6 +266,14 @@
 213,
 213,
 213,
+212,
+212,
+212,
+212,
+212,
+212,
+212,
+212,
 212,
 212,
 212,
@@ -225,9 +305,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 134,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 134,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -244,7 +329,15 @@
 137,
 137,
 136,
-135
+135,
+135,
+135,
+135,
+135,
+135,
+134,
+134,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -269,7 +362,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Electrical Fundamentals"
 }

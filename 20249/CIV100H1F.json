@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 217,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 217,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -24,7 +29,15 @@
 207,
 207,
 207,
-207
+207,
+207,
+207,
+207,
+207,
+207,
+207,
+217,
+217
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,9 +65,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 215,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 215,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -71,7 +89,15 @@
 210,
 209,
 209,
-209
+209,
+209,
+209,
+209,
+209,
+209,
+209,
+216,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -99,9 +125,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -115,6 +146,14 @@
 146,
 146,
 146,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
 145,
 145,
 145,
@@ -146,9 +185,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -164,6 +208,14 @@
 147,
 146,
 146,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
 145,
 145
 ],
@@ -193,9 +245,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 149,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 149,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -212,7 +269,15 @@
 150,
 150,
 150,
-150
+150,
+150,
+150,
+150,
+150,
+150,
+149,
+149,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -225,9 +290,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 154,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 154,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -244,6 +314,14 @@
 155,
 155,
 155,
+154,
+154,
+154,
+154,
+154,
+154,
+154,
+154,
 154
 ],
 "instructorLog": {
@@ -272,9 +350,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 148,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 148,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -291,6 +374,14 @@
 149,
 149,
 148,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
 148
 ],
 "instructorLog": {
@@ -304,9 +395,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 144,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 144,
+"time": 1720405671
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -323,7 +419,15 @@
 146,
 146,
 146,
-145
+145,
+145,
+145,
+145,
+145,
+145,
+145,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -348,7 +452,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Mechanics"
 }

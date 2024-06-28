@@ -24,13 +24,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Stoehr"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Stoehr"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +79,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Stoehr"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Stoehr"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -75,6 +121,14 @@
 "initialCap": 56
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -120,13 +174,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -152,13 +229,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -184,13 +284,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -216,13 +339,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
+"timing": 1720005891
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Newman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -241,7 +387,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Organizational Behaviour"
 }

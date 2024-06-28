@@ -5,12 +5,25 @@
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1720104518
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -162,18 +175,31 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1707431551,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1720104518
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -325,7 +351,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -474,7 +500,15 @@
 1719323561,
 1719351318,
 1719441644,
-1719500763
+1719500763,
+1719584130,
+1719671158,
+1719758269,
+1719840002,
+1719925617,
+1720005843,
+1720104518,
+1720405610
 ],
 "title": "Communication in Undergraduate Programs"
 }

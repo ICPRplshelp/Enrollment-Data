@@ -24,7 +24,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,7 +79,15 @@
 0,
 0,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+4,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -118,13 +134,36 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
+"timing": 1720405671
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -150,7 +189,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -197,7 +244,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -216,6 +271,14 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -261,7 +324,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,6 +351,14 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -325,6 +404,14 @@
 0,
 0,
 1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -344,6 +431,14 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -389,6 +484,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -420,6 +523,14 @@
 0,
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1
 ],
@@ -468,7 +579,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -515,6 +634,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -540,7 +667,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "Differential Calculus"
 }

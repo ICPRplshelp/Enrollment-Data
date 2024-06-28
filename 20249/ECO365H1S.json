@@ -29,13 +29,36 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Owen"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Owen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -48,6 +71,14 @@
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -86,7 +117,15 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667,
+1720005891,
+1720104566,
+1720405671
 ],
 "title": "International Monetary Economics"
 }
