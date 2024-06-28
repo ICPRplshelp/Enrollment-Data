@@ -24,6 +24,11 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -46,6 +51,19 @@
 }
 ],
 "timing": 1719351363
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
+},
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
+}
+],
+"timing": 1719584180
 }
 ]
 },
@@ -53,6 +71,10 @@
 {
 "firstName": "Pocholo",
 "lastName": "Umbal"
+},
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
 }
 ],
 "isCancelled": false,
@@ -80,6 +102,11 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -102,6 +129,19 @@
 }
 ],
 "timing": 1719351363
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pocholo",
+"lastName": "Umbal"
+},
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
+}
+],
+"timing": 1719584180
 }
 ]
 },
@@ -109,6 +149,10 @@
 {
 "firstName": "Pocholo",
 "lastName": "Umbal"
+},
+{
+"firstName": "Angelika",
+"lastName": "Kiss"
 }
 ],
 "isCancelled": false,
@@ -129,7 +173,12 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667
 ],
 "title": "Introduction to Linguistics: Sound Structure"
 }

@@ -24,13 +24,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +76,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -75,6 +115,11 @@
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -120,6 +165,11 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -139,6 +189,11 @@
 "initialCap": 150
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -177,7 +232,12 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667
 ],
 "title": "Macroeconomic Theory and Policy"
 }

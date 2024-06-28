@@ -24,13 +24,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -56,13 +76,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -88,13 +128,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florian",
+"lastName": "Dendorfer"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florian",
+"lastName": "Dendorfer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -120,13 +180,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florian",
+"lastName": "Dendorfer"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Florian",
+"lastName": "Dendorfer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -152,13 +232,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -184,13 +284,33 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
+"timing": 1719584180
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ajaz",
+"lastName": "Hussain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -209,7 +329,12 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667
 ],
 "title": "Microeconomic Theory and Applications (for Commerce)"
 }

@@ -24,6 +24,11 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -56,6 +61,11 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -65,6 +75,43 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1719840049,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -81,7 +128,12 @@
 1719323608,
 1719351363,
 1719441694,
-1719500812
+1719500812,
+1719584180,
+1719671210,
+1719758315,
+1719840049,
+1719925667
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }
