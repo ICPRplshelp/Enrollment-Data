@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -37,6 +41,10 @@
 92,
 118,
 118,
+120,
+120,
+120,
+120,
 120
 ],
 "instructorLog": {
@@ -65,12 +73,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -97,6 +109,10 @@
 100,
 117,
 117,
+117,
+116,
+116,
+117,
 117
 ],
 "instructorLog": {
@@ -110,12 +126,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -142,6 +162,10 @@
 189,
 119,
 119,
+117,
+117,
+117,
+117,
 117
 ],
 "instructorLog": {
@@ -170,12 +194,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -202,6 +230,10 @@
 91,
 119,
 119,
+120,
+120,
+120,
+120,
 120
 ],
 "instructorLog": {
@@ -250,7 +282,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Advanced Engineering Mathematics"
 }

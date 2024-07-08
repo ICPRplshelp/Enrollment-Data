@@ -1,0 +1,33 @@
+{
+"code": "CHMD11H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1720654347,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1720654346,
+1720654347,
+1720707748
+],
+"title": "Application of Spectroscopy in Chemical Structure Determination"
+}

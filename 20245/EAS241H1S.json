@@ -5,12 +5,16 @@
 {
 "createdAt": 1707431551,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 81,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1714148047
+},
+{
+"newCapacity": 81,
+"time": 1720533217
 }
 ],
 "initialCap": 45
@@ -168,7 +172,12 @@
 91,
 94,
 93,
-92
+92,
+80,
+80,
+80,
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -347,7 +356,12 @@
 1719925617,
 1720005843,
 1720104518,
-1720405610
+1720405610,
+1720441785,
+1720473889,
+1720533217,
+1720654299,
+1720707702
 ],
 "title": "Introduction to Chinese Philosophy"
 }

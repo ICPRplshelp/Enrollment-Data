@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1720654347
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -32,13 +37,32 @@
 105,
 105,
 105,
+104,
+104,
+104,
+104,
 104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jose",
+"lastName": "Palacios Armesto"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -77,13 +101,32 @@
 106,
 107,
 107,
-106
+106,
+107,
+107,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -110,7 +153,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Differential Equations"
 }

@@ -32,13 +32,32 @@
 8,
 8,
 9,
-10
+10,
+9,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "Laflamme"
+}
+],
+"timing": 1720473937
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "Laflamme"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Introduction to Research in the Chemical and Physical Sciences"
 }

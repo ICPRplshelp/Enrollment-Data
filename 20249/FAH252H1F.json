@@ -1,0 +1,48 @@
+{
+"code": "FAH252H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1720654347,
+"delivery": "INPER",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+15,
+16
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jordan",
+"lastName": "Bear"
+}
+],
+"timing": 1720654347
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jordan",
+"lastName": "Bear"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720654346,
+1720654347,
+1720707748
+],
+"title": "Introduction to the History of Photography"
+}

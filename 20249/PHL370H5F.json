@@ -32,13 +32,32 @@
 38,
 39,
 70,
-77
+77,
+77,
+77,
+82,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brookes",
+"lastName": "Brown"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brookes",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Issues in Philosophy of Law"
 }

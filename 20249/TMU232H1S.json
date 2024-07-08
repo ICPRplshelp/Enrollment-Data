@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 20
@@ -37,7 +41,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+11,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,12 +73,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 20
@@ -97,7 +109,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+9,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,12 +141,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 19
@@ -157,7 +177,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+11,
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -185,12 +209,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 19
@@ -217,7 +245,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+10,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,12 +277,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 19
@@ -277,7 +313,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -305,12 +345,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1720405671
+},
+{
+"newCapacity": 16,
+"time": 1720473937
 }
 ],
 "initialCap": 20
@@ -337,7 +381,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+15,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -385,7 +433,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Musical Skills III"
 }

@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -37,7 +41,11 @@
 91,
 117,
 117,
-118
+118,
+118,
+117,
+115,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,12 +73,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -97,7 +109,11 @@
 100,
 117,
 117,
-116
+116,
+115,
+115,
+115,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,12 +141,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -157,7 +177,11 @@
 188,
 118,
 117,
-114
+114,
+114,
+114,
+115,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -185,12 +209,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -217,7 +245,11 @@
 91,
 120,
 121,
-123
+123,
+123,
+123,
+122,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,7 +297,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Introduction to Mathematical Physics"
 }

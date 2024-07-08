@@ -1,0 +1,48 @@
+{
+"code": "DTS406H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1720654347,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+6,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Mucha"
+}
+],
+"timing": 1720654347
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Mucha"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720654346,
+1720654347,
+1720707748
+],
+"title": "Advanced Topics in Diaspora and Transnationalism"
+}

@@ -32,13 +32,32 @@
 9,
 9,
 24,
-24
+24,
+25,
+25,
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Byeong-Uk",
+"lastName": "Yi"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Byeong-Uk",
+"lastName": "Yi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Metaphysics"
 }

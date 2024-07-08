@@ -37,7 +37,11 @@
 104,
 105,
 105,
-103
+103,
+104,
+104,
+104,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,6 +67,19 @@
 }
 ],
 "timing": 1719168759
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+},
+{
+"firstName": "Nello",
+"lastName": "Sansone"
+}
+],
+"timing": 1720654347
 }
 ]
 },
@@ -70,6 +87,10 @@
 {
 "firstName": "Tobin",
 "lastName": "Filleter"
+},
+{
+"firstName": "Nello",
+"lastName": "Sansone"
 }
 ],
 "isCancelled": false,
@@ -95,6 +116,10 @@
 107,
 107,
 107,
+106,
+106,
+106,
+106,
 106,
 106,
 106,
@@ -136,6 +161,19 @@
 }
 ],
 "timing": 1719168759
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tobin",
+"lastName": "Filleter"
+},
+{
+"firstName": "Nello",
+"lastName": "Sansone"
+}
+],
+"timing": 1720654347
 }
 ]
 },
@@ -143,6 +181,10 @@
 {
 "firstName": "Tobin",
 "lastName": "Filleter"
+},
+{
+"firstName": "Nello",
+"lastName": "Sansone"
 }
 ],
 "isCancelled": false,
@@ -171,7 +213,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Materials Science"
 }

@@ -1,0 +1,37 @@
+{
+"code": "JAV200H1F",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1720473937,
+"delivery": "INPER",
+"enrollmentCap": 375,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 375
+},
+"enrollmentLogs": [
+0,
+4,
+4,
+31,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720473936,
+1720473937,
+1720533269,
+1720654347,
+1720707748
+],
+"title": "Introduction to Critical Theory"
+}

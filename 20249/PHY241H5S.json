@@ -32,13 +32,32 @@
 1,
 1,
 4,
-5
+5,
+5,
+5,
+41,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Virginijus",
+"lastName": "Barzda"
+}
+],
+"timing": 1720473937
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Virginijus",
+"lastName": "Barzda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Electromagnetism"
 }

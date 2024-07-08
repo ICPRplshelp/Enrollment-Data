@@ -32,13 +32,32 @@
 32,
 35,
 58,
-63
+63,
+69,
+69,
+136,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lu-Vada",
+"lastName": "Dunford"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lu-Vada",
+"lastName": "Dunford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Philosophy in Everyday Life"
 }

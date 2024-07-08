@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 146,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 140,
 "time": 1718897516
+},
+{
+"newCapacity": 146,
+"time": 1720473937
 }
 ],
 "initialCap": 120
@@ -37,7 +41,11 @@
 140,
 140,
 140,
-140
+140,
+140,
+140,
+141,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +93,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Integrated System Design"
 }

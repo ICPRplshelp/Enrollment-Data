@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 8,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 8,
 "time": 1719351363
+},
+{
+"newCapacity": 11,
+"time": 1720473937
 }
 ],
 "initialCap": 7
@@ -37,7 +41,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+6,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,12 +73,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9,
 "time": 1719351363
+},
+{
+"newCapacity": 10,
+"time": 1720473937
 }
 ],
 "initialCap": 7
@@ -97,7 +109,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -145,7 +161,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "French Melodie"
 }

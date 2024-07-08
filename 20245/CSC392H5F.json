@@ -5,9 +5,14 @@
 {
 "createdAt": 1714664535,
 "delivery": "INPER",
-"enrollmentCap": 3,
+"enrollmentCap": 8,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 8,
+"time": 1720654299
+}
+],
 "initialCap": 3
 },
 "enrollmentLogs": [
@@ -74,7 +79,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -149,7 +158,11 @@
 1719925617,
 1720005843,
 1720104518,
-1720405610
+1720405610,
+1720473889,
+1720533217,
+1720654299,
+1720707702
 ],
 "title": "Computer Science Implementation Project"
 }

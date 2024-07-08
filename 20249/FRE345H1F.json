@@ -1,0 +1,33 @@
+{
+"code": "FRE345H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1720654347,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+6,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720654346,
+1720654347,
+1720707748
+],
+"title": "Literary Genres"
+}

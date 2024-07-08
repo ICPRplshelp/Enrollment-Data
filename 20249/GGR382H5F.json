@@ -32,7 +32,11 @@
 35,
 35,
 80,
-90
+90,
+94,
+94,
+105,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -45,13 +49,22 @@
 }
 ],
 "timing": 1719351363
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Adams"
+}
+],
+"timing": 1720473937
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Alan",
-"lastName": "Walks"
+"firstName": "Matthew",
+"lastName": "Adams"
 }
 ],
 "isCancelled": false,
@@ -80,7 +93,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Digital Mapping and Principles of Cartography"
 }

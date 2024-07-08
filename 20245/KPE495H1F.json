@@ -82,13 +82,32 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Amara"
+}
+],
+"timing": 1720654299
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Amara"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -165,7 +184,11 @@
 1719925617,
 1720005843,
 1720104518,
-1720405610
+1720405610,
+1720473889,
+1720533217,
+1720654299,
+1720707702
 ],
 "title": "Independent Study"
 }

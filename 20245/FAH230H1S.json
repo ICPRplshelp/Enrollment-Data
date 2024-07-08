@@ -163,13 +163,33 @@
 50,
 51,
 50,
-49
+49,
+49,
+50,
+47,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ariella",
+"lastName": "Minden"
+}
+],
+"timing": 1720654299
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ariella",
+"lastName": "Minden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -327,7 +347,12 @@
 1719925617,
 1720005843,
 1720104518,
-1720405610
+1720405610,
+1720441785,
+1720473889,
+1720533217,
+1720654299,
+1720707702
 ],
 "title": "Renaissance Art and Architecture"
 }

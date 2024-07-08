@@ -1,0 +1,37 @@
+{
+"code": "ARC480H1F1",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1720473937,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+9,
+9,
+9,
+9
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1720473936,
+1720473937,
+1720533269,
+1720654347,
+1720707748
+],
+"title": "Advanced Topics in the Technology of Architecture"
+}

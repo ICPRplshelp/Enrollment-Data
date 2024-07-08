@@ -1,0 +1,37 @@
+{
+"code": "ARC253H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1720473937,
+"delivery": "INPER",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 300
+},
+"enrollmentLogs": [
+0,
+3,
+3,
+11,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720473936,
+1720473937,
+1720533269,
+1720654347,
+1720707748
+],
+"title": "Close Readings in Urban Design"
+}

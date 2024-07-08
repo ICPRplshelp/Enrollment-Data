@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -37,6 +41,10 @@
 92,
 118,
 118,
+120,
+120,
+120,
+120,
 120
 ],
 "instructorLog": {
@@ -65,12 +73,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -97,7 +109,11 @@
 100,
 119,
 119,
-116
+116,
+115,
+115,
+115,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,12 +141,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -157,7 +177,11 @@
 188,
 118,
 118,
-116
+116,
+116,
+116,
+114,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,12 +194,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -202,7 +230,11 @@
 90,
 116,
 116,
-117
+117,
+117,
+117,
+116,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -250,7 +282,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Digital Systems"
 }

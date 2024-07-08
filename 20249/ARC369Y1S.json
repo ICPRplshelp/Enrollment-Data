@@ -1,0 +1,60 @@
+{
+"code": "ARC369Y1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1720473937,
+"delivery": "INPER",
+"enrollmentCap": 36,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 36
+},
+"enrollmentLogs": [
+0,
+11,
+13,
+36,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1720473937,
+"delivery": "INPER",
+"enrollmentCap": 36,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 36
+},
+"enrollmentLogs": [
+0,
+3,
+3,
+27,
+29
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+}
+],
+"timeIntervals": [
+1720473936,
+1720473937,
+1720533269,
+1720654347,
+1720707748
+],
+"title": "Comprehensive Studio III"
+}

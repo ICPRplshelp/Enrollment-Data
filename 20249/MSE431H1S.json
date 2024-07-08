@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 89,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 90,
+"time": 1720473937
+}
+],
 "initialCap": 89
 },
 "enrollmentLogs": [
@@ -32,7 +37,11 @@
 19,
 19,
 19,
-19
+19,
+19,
+19,
+19,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,7 +89,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Forensic Engineering"
 }

@@ -26,13 +26,32 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamran",
+"lastName": "Behdinan"
+}
+],
+"timing": 1720654347
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kamran",
+"lastName": "Behdinan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -53,7 +72,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Multi-Disciplinary Capstone Design"
 }

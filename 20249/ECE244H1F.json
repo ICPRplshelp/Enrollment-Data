@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -37,7 +41,11 @@
 91,
 117,
 118,
-119
+119,
+119,
+118,
+116,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,12 +58,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -82,7 +94,11 @@
 101,
 118,
 119,
-117
+117,
+116,
+116,
+116,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,12 +111,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -127,7 +147,11 @@
 189,
 119,
 118,
-115
+115,
+115,
+115,
+116,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,12 +179,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 9999,
 "time": 1719323608
+},
+{
+"newCapacity": 130,
+"time": 1720654347
 }
 ],
 "initialCap": 130
@@ -187,6 +215,10 @@
 91,
 118,
 118,
+119,
+119,
+119,
+119,
 119
 ],
 "instructorLog": {
@@ -235,7 +267,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Programming Fundamentals"
 }

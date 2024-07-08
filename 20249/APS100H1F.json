@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 454,
+"enrollmentCap": 455,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 454,
 "time": 1720405671
+},
+{
+"newCapacity": 455,
+"time": 1720473937
 }
 ],
 "initialCap": 9999
@@ -37,6 +41,10 @@
 438,
 438,
 455,
+453,
+452,
+452,
+453,
 453
 ],
 "instructorLog": {
@@ -94,12 +102,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 440,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 440,
 "time": 1720405671
+},
+{
+"newCapacity": 450,
+"time": 1720654347
 }
 ],
 "initialCap": 9999
@@ -126,7 +138,11 @@
 441,
 440,
 440,
-439
+439,
+440,
+440,
+444,
+444
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -183,12 +199,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 435,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 435,
 "time": 1720405671
+},
+{
+"newCapacity": 450,
+"time": 1720654347
 }
 ],
 "initialCap": 9999
@@ -215,7 +235,11 @@
 425,
 425,
 424,
-423
+423,
+422,
+422,
+424,
+424
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -292,7 +316,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Orientation to Engineering"
 }

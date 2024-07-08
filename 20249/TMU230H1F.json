@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1720473937
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -32,7 +37,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -87,6 +96,10 @@
 9,
 9,
 9,
+9,
+9,
+9,
+9,
 9
 ],
 "instructorLog": {
@@ -115,9 +128,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1720473937
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -142,7 +160,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+18,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,7 +194,16 @@
 "delivery": "INPER",
 "enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1720473937
+},
+{
+"newCapacity": 20,
+"time": 1720654347
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -197,7 +228,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+19,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,6 +287,10 @@
 9,
 9,
 9,
+9,
+9,
+9,
+9,
 9
 ],
 "instructorLog": {
@@ -280,9 +319,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1720473937
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -307,7 +351,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -355,7 +403,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Music Theory III"
 }

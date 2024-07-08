@@ -32,13 +32,32 @@
 27,
 27,
 35,
-36
+36,
+37,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pierre",
+"lastName": "Desrochers"
+}
+],
+"timing": 1720473937
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pierre",
+"lastName": "Desrochers"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -65,7 +84,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Food and Globalization"
 }

@@ -37,6 +37,10 @@
 110,
 113,
 113,
+113,
+113,
+113,
+113,
 113
 ],
 "instructorLog": {
@@ -54,6 +58,15 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Greg",
+"lastName": "Jamieson"
+}
+],
+"timing": 1720654347
 }
 ]
 },
@@ -61,10 +74,6 @@
 {
 "firstName": "Greg",
 "lastName": "Jamieson"
-},
-{
-"firstName": "Myrtede",
-"lastName": "Alfred"
 }
 ],
 "isCancelled": false,
@@ -93,7 +102,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Human Factors Engineering"
 }

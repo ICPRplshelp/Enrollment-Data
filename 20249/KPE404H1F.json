@@ -25,7 +25,11 @@
 0,
 0,
 0,
-0
+0,
+0,
+109,
+108,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -38,13 +42,22 @@
 }
 ],
 "timing": 1719168759
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Lombardo"
+}
+],
+"timing": 1720654347
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Michael",
-"lastName": "Atkinson"
+"firstName": "Anthony",
+"lastName": "Lombardo"
 }
 ],
 "isCancelled": false,
@@ -66,7 +79,11 @@
 1719925667,
 1720005891,
 1720104566,
-1720405671
+1720405671,
+1720473937,
+1720533269,
+1720654347,
+1720707748
 ],
 "title": "Illness Disease and Physical Culture"
 }
