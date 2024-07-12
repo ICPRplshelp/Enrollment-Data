@@ -1,0 +1,41 @@
+{
+"code": "VIS319H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1720908246,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+28,
+28,
+25,
+25,
+25,
+25
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1720908245,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
+],
+"title": "Defining Landscapes"
+}

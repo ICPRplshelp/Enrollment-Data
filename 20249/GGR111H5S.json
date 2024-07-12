@@ -36,13 +36,35 @@
 72,
 72,
 133,
-135
+135,
+143,
+145,
+145,
+147,
+148,
+148,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
+}
+],
+"timing": 1720908246
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Laliberte"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -71,9 +93,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Human Geography"
 }

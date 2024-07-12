@@ -62,7 +62,14 @@
 0,
 0,
 34,
-34
+34,
+33,
+33,
+33,
+32,
+32,
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -75,6 +82,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Meyerson"
+},
+{
+"firstName": "Alexandra",
+"lastName": "Guerson De Oliveira"
+}
+],
+"timing": 1721142286
 }
 ]
 },
@@ -82,6 +102,10 @@
 {
 "firstName": "Mark",
 "lastName": "Meyerson"
+},
+{
+"firstName": "Alexandra",
+"lastName": "Guerson De Oliveira"
 }
 ],
 "isCancelled": false,
@@ -138,9 +162,16 @@
 1720463880,
 1720464780,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Histories of Violence"
 }

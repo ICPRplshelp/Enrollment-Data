@@ -1,0 +1,43 @@
+{
+"code": "CRI482H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1720794621,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720794620,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
+],
+"title": "Security Governance"
+}

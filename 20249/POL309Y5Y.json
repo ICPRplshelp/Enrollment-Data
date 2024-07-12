@@ -36,13 +36,35 @@
 59,
 60,
 73,
-74
+74,
+75,
+76,
+76,
+80,
+80,
+81,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Richard",
+"lastName": "Day"
+}
+],
+"timing": 1721101170
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Richard",
+"lastName": "Day"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -71,9 +93,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "The State, Planning and Markets"
 }

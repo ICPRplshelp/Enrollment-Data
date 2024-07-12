@@ -1,0 +1,41 @@
+{
+"code": "EST203H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1720908246,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1720908245,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
+],
+"title": "Introduction to Estonian Literature"
+}

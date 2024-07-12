@@ -41,6 +41,13 @@
 521,
 521,
 519,
+519,
+519,
+519,
+519,
+519,
+519,
+519,
 519
 ],
 "instructorLog": {
@@ -54,6 +61,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastian",
+"lastName": "Goodfellow"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+}
+],
+"timing": 1720794621
 }
 ]
 },
@@ -61,6 +81,10 @@
 {
 "firstName": "Sebastian",
 "lastName": "Goodfellow"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
 }
 ],
 "isCancelled": false,
@@ -109,7 +133,14 @@
 173,
 173,
 178,
-178
+178,
+178,
+178,
+178,
+177,
+177,
+177,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,14 +157,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+}
+],
+"timing": 1720794621
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Chris",
-"lastName": "Beck"
-},
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
@@ -181,7 +217,14 @@
 113,
 113,
 112,
-112
+112,
+110,
+109,
+109,
+109,
+109,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,9 +274,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Fundamentals of Computer Programming"
 }

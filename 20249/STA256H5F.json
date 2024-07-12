@@ -36,7 +36,14 @@
 37,
 37,
 175,
-171
+171,
+168,
+167,
+167,
+165,
+165,
+165,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,13 +102,35 @@
 8,
 8,
 123,
-128
+128,
+133,
+134,
+134,
+138,
+138,
+139,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1720794621
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -139,13 +168,35 @@
 18,
 18,
 140,
-149
+149,
+155,
+156,
+156,
+158,
+159,
+159,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
+"timing": 1720794621
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -183,13 +234,35 @@
 11,
 11,
 113,
-118
+118,
+120,
+120,
+120,
+121,
+121,
+121,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
+"timing": 1720794621
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -218,9 +291,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Probability and Statistics I"
 }

@@ -62,7 +62,14 @@
 68,
 70,
 285,
-294
+294,
+292,
+292,
+292,
+326,
+325,
+310,
+310
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,7 +154,14 @@
 53,
 54,
 304,
-311
+311,
+315,
+316,
+316,
+348,
+348,
+344,
+344
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,6 +245,13 @@
 4,
 4,
 4,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
 5,
 5
 ],
@@ -317,6 +338,13 @@
 28,
 28,
 27,
+31,
+31,
+31,
+31,
+31,
+31,
+31,
 31
 ],
 "instructorLog": {
@@ -402,13 +430,35 @@
 57,
 59,
 222,
-224
+224,
+226,
+227,
+227,
+248,
+249,
+244,
+247
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Austin",
+"lastName": "Brown"
+}
+],
+"timing": 1721056392
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Austin",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -463,9 +513,16 @@
 1720463880,
 1720464780,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Methods of Data Analysis I"
 }

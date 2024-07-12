@@ -41,7 +41,14 @@
 452,
 452,
 453,
-453
+453,
+453,
+451,
+451,
+451,
+451,
+450,
+449
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -66,6 +73,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1721101170
 }
 ]
 },
@@ -73,10 +97,6 @@
 {
 "firstName": "Jason",
 "lastName": "Bazylak"
-},
-{
-"firstName": "Benjamin",
-"lastName": "Kinsella"
 },
 {
 "firstName": "Patricia",
@@ -129,7 +149,14 @@
 439,
 439,
 437,
-437
+437,
+435,
+435,
+435,
+435,
+435,
+435,
+435
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,14 +177,9 @@
 }
 ],
 "timing": 1718317520
-}
-]
 },
-"instructors": [
 {
-"firstName": "Jason",
-"lastName": "Bazylak"
-},
+"instructorsAfter": [
 {
 "firstName": "Patricia",
 "lastName": "Sheridan"
@@ -165,6 +187,28 @@
 {
 "firstName": "Ted",
 "lastName": "Nolan"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+}
+],
+"timing": 1721101170
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
 }
 ],
 "isCancelled": false,
@@ -209,7 +253,14 @@
 422,
 422,
 421,
-421
+421,
+420,
+419,
+419,
+417,
+417,
+417,
+416
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,14 +285,9 @@
 }
 ],
 "timing": 1718317520
-}
-]
 },
-"instructors": [
 {
-"firstName": "Jason",
-"lastName": "Bazylak"
-},
+"instructorsAfter": [
 {
 "firstName": "Patricia",
 "lastName": "Sheridan"
@@ -251,8 +297,26 @@
 "lastName": "Nolan"
 },
 {
-"firstName": "Philip",
-"lastName": "Asare"
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+}
+],
+"timing": 1721101170
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+},
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
 }
 ],
 "isCancelled": false,
@@ -283,9 +347,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Engineering Strategies & Practice I"
 }

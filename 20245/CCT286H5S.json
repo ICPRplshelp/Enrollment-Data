@@ -5,9 +5,14 @@
 {
 "createdAt": 1709255171,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1720908183
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -145,6 +150,13 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -152,7 +164,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0101"
 }
 ],
@@ -291,7 +303,14 @@
 1720473889,
 1720533217,
 1720654299,
-1720707702
+1720707702,
+1720794565,
+1720908183,
+1720971654,
+1721056345,
+1721058813,
+1721101123,
+1721142236
 ],
 "title": "Interactive Media Design"
 }

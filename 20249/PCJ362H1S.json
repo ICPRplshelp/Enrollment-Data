@@ -62,6 +62,13 @@
 10,
 10,
 23,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
 24
 ],
 "instructorLog": {
@@ -147,13 +154,35 @@
 0,
 0,
 20,
-20
+20,
+20,
+21,
+21,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kimberley",
+"lastName": "Tavares"
+}
+],
+"timing": 1720908246
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kimberley",
+"lastName": "Tavares"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -208,9 +237,16 @@
 1720463880,
 1720464780,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Experimental learning in PCJ"
 }

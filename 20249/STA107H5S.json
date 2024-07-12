@@ -36,13 +36,35 @@
 2,
 2,
 21,
-20
+20,
+20,
+21,
+21,
+21,
+21,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1720794621
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -80,7 +102,14 @@
 5,
 5,
 16,
-17
+17,
+18,
+18,
+18,
+18,
+18,
+18,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -93,13 +122,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1720794621
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Asal",
-"lastName": "Aslemand"
+"firstName": "Masoud",
+"lastName": "Ataei"
 }
 ],
 "isCancelled": false,
@@ -139,6 +177,13 @@
 4,
 4,
 23,
+25,
+24,
+24,
+24,
+24,
+24,
+24,
 25
 ],
 "instructorLog": {
@@ -173,6 +218,13 @@
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -233,9 +285,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "An Introduction to Probability and Modelling"
 }

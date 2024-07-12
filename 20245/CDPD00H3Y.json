@@ -5,12 +5,16 @@
 {
 "createdAt": 1708977829,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 10,
 "time": 1709093202
+},
+{
+"newCapacity": 20,
+"time": 1721142236
 }
 ],
 "initialCap": 0
@@ -153,7 +157,14 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -302,7 +313,14 @@
 1720473889,
 1720533217,
 1720654299,
-1720707702
+1720707702,
+1720794565,
+1720908183,
+1720971654,
+1721056345,
+1721058813,
+1721101123,
+1721142236
 ],
 "title": "Combined Degree Program Graduate Crs 1"
 }

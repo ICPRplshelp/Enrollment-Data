@@ -45,13 +45,43 @@
 0,
 23,
 23,
+23,
+23,
+23,
+23,
+23,
+23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
 },
-"instructors": [],
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
+"timing": 1721056392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
+},
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -102,13 +132,43 @@
 0,
 23,
 24,
+24,
+24,
+24,
+24,
+24,
+24,
+24,
 24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
 },
-"instructors": [],
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
+"timing": 1721056392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
+},
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -155,13 +215,43 @@
 0,
 6,
 15,
-16
+16,
+16,
+16,
+16,
+19,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
 },
-"instructors": [],
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
+"timing": 1721056392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
+},
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -208,13 +298,43 @@
 0,
 19,
 23,
+23,
+23,
+23,
+23,
+23,
+23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
 },
-"instructors": [],
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
+"timing": 1721056392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Davis-Abraham"
+},
+{
+"firstName": "Wes",
+"lastName": "Khurana"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -243,9 +363,16 @@
 1720104566,
 1720405671,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Music Theory IV"
 }

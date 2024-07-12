@@ -62,13 +62,35 @@
 173,
 183,
 288,
-289
+289,
+288,
+289,
+289,
+353,
+374,
+427,
+434
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Reid"
+}
+],
+"timing": 1721101170
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Reid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -123,9 +145,16 @@
 1720463880,
 1720464780,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Life on Other Worlds"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1720473937,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1720908246
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -15,23 +20,37 @@
 20,
 20,
 29,
-29
+29,
+29,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0101"
 }
 ],
 "timeIntervals": [
 1720473936,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Defining Landscapes"
 }

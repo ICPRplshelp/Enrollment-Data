@@ -62,7 +62,14 @@
 3,
 3,
 9,
-10
+10,
+12,
+12,
+12,
+11,
+11,
+11,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -86,6 +93,106 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1720794621,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+2,
+2,
+3,
+3,
+4,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Fee"
+},
+{
+"firstName": "Deepali",
+"lastName": "Dewan"
+}
+],
+"timing": 1720908246
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Fee"
+},
+{
+"firstName": "Deepali",
+"lastName": "Dewan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -138,9 +245,16 @@
 1720463880,
 1720464780,
 1720473937,
-1720533269,
+1720615800,
 1720654347,
-1720707748
+1720707748,
+1720794621,
+1720908246,
+1720971707,
+1721056392,
+1721058859,
+1721101170,
+1721142286
 ],
 "title": "Case Studies at the Royal Ontario Museum"
 }
