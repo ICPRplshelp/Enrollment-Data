@@ -43,15 +43,138 @@
 81,
 81,
 81,
-80
+80,
+81,
+81,
+81,
+87,
+87,
+87,
+87,
+87,
+87,
+87,
+87,
+86,
+76,
+76,
+68,
+66,
+66,
+67,
+67,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"timing": 1722526122
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1722576376,
+"delivery": "INPER",
+"enrollmentCap": 48,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 48
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+9,
+14,
+16,
+16,
+15,
+15,
+19,
+20
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"timing": 1722576376
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kylie",
+"lastName": "Caraway"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -83,11 +206,32 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
 ],
 "title": "Foundations of Digital Design and Production"
 }

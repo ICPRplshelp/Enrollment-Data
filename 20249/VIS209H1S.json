@@ -1,0 +1,33 @@
+{
+"code": "VIS209H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1723144553,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+21,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1723144552,
+1723144553,
+1723218962
+],
+"title": "Contemporary Printing"
+}

@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1722012642
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -43,7 +48,28 @@
 57,
 57,
 57,
-57
+57,
+56,
+55,
+57,
+55,
+55,
+54,
+54,
+54,
+54,
+54,
+52,
+54,
+54,
+54,
+54,
+51,
+51,
+49,
+49,
+48,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -56,9 +82,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1722012642
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -94,7 +125,28 @@
 74,
 74,
 74,
-73
+73,
+72,
+71,
+72,
+70,
+70,
+67,
+67,
+67,
+67,
+68,
+66,
+67,
+66,
+66,
+66,
+63,
+63,
+60,
+60,
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -122,9 +174,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1722012642
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -160,7 +217,28 @@
 53,
 53,
 53,
-52
+52,
+52,
+53,
+54,
+52,
+52,
+51,
+51,
+51,
+51,
+50,
+51,
+52,
+52,
+52,
+52,
+49,
+49,
+50,
+50,
+49,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -188,9 +266,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 43,
+"time": 1722012642
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -226,7 +309,28 @@
 55,
 55,
 55,
-53
+53,
+52,
+53,
+54,
+54,
+54,
+53,
+53,
+53,
+53,
+53,
+52,
+54,
+54,
+54,
+54,
+51,
+51,
+49,
+49,
+48,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -235,6 +339,78 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC04"
+},
+{
+"createdAt": 1722719730,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+4,
+8,
+10,
+16,
+17
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC05"
 }
 ],
 "timeIntervals": [
@@ -266,11 +442,32 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
 ],
 "title": "Management Skills"
 }

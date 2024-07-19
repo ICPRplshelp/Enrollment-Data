@@ -43,13 +43,49 @@
 124,
 124,
 124,
-124
+124,
+125,
+125,
+125,
+143,
+143,
+127,
+125,
+125,
+125,
+115,
+112,
+111,
+110,
+110,
+102,
+101,
+101,
+101,
+102,
+101,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gong",
+"lastName": "Chen"
+}
+],
+"timing": 1721998510
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gong",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -94,13 +130,49 @@
 118,
 118,
 119,
-120
+120,
+120,
+121,
+121,
+139,
+139,
+119,
+116,
+116,
+116,
+110,
+108,
+105,
+105,
+105,
+99,
+97,
+97,
+97,
+97,
+97,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gong",
+"lastName": "Chen"
+}
+],
+"timing": 1721998510
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gong",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -113,6 +185,27 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -196,13 +289,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+28,
+32,
+32,
+32,
+51,
+55,
+58,
+60,
+60,
+58,
+57,
+57,
+63,
+62,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
+"timing": 1722028599
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angela M.",
+"lastName": "Zavaleta Bernuy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -236,11 +365,32 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
 ],
 "title": "Introduction to Databases"
 }

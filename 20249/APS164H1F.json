@@ -1,0 +1,48 @@
+{
+"code": "APS164H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1723144553,
+"delivery": "ASYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
+"timing": 1723144553
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1723144552,
+1723144553,
+1723218962
+],
+"title": "Introductory Chemistry from a Materials Perspective"
+}

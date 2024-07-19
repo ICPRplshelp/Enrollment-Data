@@ -48,7 +48,28 @@
 148,
 148,
 148,
-148
+148,
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+149,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+147,
+146,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -119,7 +140,28 @@
 153,
 153,
 152,
-151
+151,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,12 +189,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 148,
+"enrollmentCap": 154,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 148,
 "time": 1720405671
+},
+{
+"newCapacity": 154,
+"time": 1721538829
 }
 ],
 "initialCap": 9999
@@ -190,7 +236,28 @@
 147,
 147,
 147,
-147
+147,
+147,
+147,
+147,
+147,
+147,
+147,
+147,
+147,
+147,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -218,12 +285,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 145,
+"enrollmentCap": 151,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 145,
 "time": 1720405671
+},
+{
+"newCapacity": 151,
+"time": 1721538829
 }
 ],
 "initialCap": 9999
@@ -261,7 +332,28 @@
 144,
 144,
 144,
-144
+144,
+143,
+143,
+143,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+140,
+139,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -289,12 +381,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 144,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 144,
 "time": 1720405671
+},
+{
+"newCapacity": 150,
+"time": 1721538829
 }
 ],
 "initialCap": 9999
@@ -332,13 +428,49 @@
 143,
 143,
 143,
-143
+143,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+142,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -388,13 +520,49 @@
 148,
 148,
 148,
-148
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+148,
+147,
+147,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+145,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maziar",
+"lastName": "Farahzad"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maziar",
+"lastName": "Farahzad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -444,25 +612,65 @@
 152,
 152,
 152,
-151
+151,
+151,
+151,
+151,
+151,
+151,
+151,
+151,
+151,
+151,
+151,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Krzysztof",
+"lastName": "Ciosmak"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Krzysztof",
+"lastName": "Ciosmak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 148,
+"enrollmentCap": 154,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 148,
 "time": 1720405671
+},
+{
+"newCapacity": 154,
+"time": 1721538829
 }
 ],
 "initialCap": 9999
@@ -500,7 +708,28 @@
 147,
 147,
 147,
-147
+147,
+149,
+149,
+149,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
+145,
+144,
+144,
+144,
+144,
+143,
+143,
+143,
+143,
+143,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -556,13 +785,49 @@
 119,
 119,
 119,
-119
+119,
+118,
+118,
+118,
+117,
+117,
+117,
+117,
+117,
+117,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
+117,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Geoffrey",
+"lastName": "McGregor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0109"
 }
@@ -596,11 +861,32 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
 ],
 "title": "Linear Algebra"
 }

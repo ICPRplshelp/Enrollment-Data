@@ -43,6 +43,27 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -94,13 +115,49 @@
 3,
 3,
 3,
-3
+3,
+183,
+183,
+182,
+276,
+277,
+277,
+278,
+278,
+278,
+291,
+294,
+228,
+223,
+223,
+219,
+216,
+216,
+212,
+208,
+203,
+202
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -145,13 +202,49 @@
 0,
 0,
 0,
-0
+0,
+186,
+189,
+189,
+273,
+273,
+274,
+275,
+275,
+275,
+286,
+291,
+235,
+234,
+234,
+230,
+227,
+227,
+222,
+220,
+216,
+215
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1721538829
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -196,7 +289,28 @@
 2,
 2,
 2,
-2
+2,
+208,
+210,
+210,
+299,
+300,
+300,
+302,
+302,
+302,
+313,
+318,
+250,
+249,
+249,
+243,
+241,
+241,
+237,
+234,
+228,
+227
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -230,6 +344,27 @@
 "initialCap": 180
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -313,13 +448,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+166,
+170,
+170,
+177,
+180,
+180,
+180,
+182,
+181,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"timing": 1722526122
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
@@ -364,13 +535,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+34,
+38,
+38,
+46,
+48,
+48,
+69,
+81,
+106,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Romina",
+"lastName": "Piunno"
+}
+],
+"timing": 1722526122
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Romina",
+"lastName": "Piunno"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -415,7 +622,28 @@
 0,
 0,
 0,
-0
+0,
+150,
+154,
+157,
+289,
+292,
+292,
+293,
+293,
+293,
+304,
+310,
+236,
+235,
+235,
+229,
+227,
+227,
+221,
+217,
+218,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -470,11 +698,32 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
 ],
 "title": "Introduction to Computer Programming"
 }

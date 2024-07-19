@@ -1,0 +1,48 @@
+{
+"code": "ECO311H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1723144553,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+2,
+13
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zi Yang",
+"lastName": "Kang"
+}
+],
+"timing": 1723144553
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zi Yang",
+"lastName": "Kang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1723144552,
+1723144553,
+1723218962
+],
+"title": "Pricing Strategies"
+}

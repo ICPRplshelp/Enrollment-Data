@@ -1,0 +1,46 @@
+{
+"code": "VPHC54H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1723218962,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Webster"
+}
+],
+"timing": 1723218962
+}
+]
+},
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Webster"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1723218961,
+1723218962
+],
+"title": "Art Writing"
+}

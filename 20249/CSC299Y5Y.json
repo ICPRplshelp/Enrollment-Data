@@ -1,0 +1,66 @@
+{
+"code": "CSC299Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1722363953,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1722526122
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1722363952,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
+],
+"title": "Research Opportunity Program"
+}

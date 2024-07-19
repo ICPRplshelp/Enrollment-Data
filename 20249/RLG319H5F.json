@@ -1,0 +1,49 @@
+{
+"code": "RLG319H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1722526122,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+9,
+9,
+10,
+11,
+11,
+13,
+14,
+14,
+16
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1722526121,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
+],
+"title": "Magic, Astrology, and Religion"
+}

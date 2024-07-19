@@ -1,0 +1,48 @@
+{
+"code": "GASD13H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1723144553,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sidharthan",
+"lastName": "Maunaguru"
+}
+],
+"timing": 1723144553
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sidharthan",
+"lastName": "Maunaguru"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1723144552,
+1723144553,
+1723218962
+],
+"title": "Living within Violence: Exploring South Asia"
+}

@@ -1,0 +1,64 @@
+{
+"code": "ROP299H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1722526122,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kang",
+"lastName": "Lee"
+}
+],
+"timing": 1722526122
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kang",
+"lastName": "Lee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1722526121,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962
+],
+"title": "Research Opportunity Program"
+}

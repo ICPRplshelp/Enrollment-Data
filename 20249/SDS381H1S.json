@@ -1,0 +1,48 @@
+{
+"code": "SDS381H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1723144553,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aeryka",
+"lastName": "Hollis-O'Neil"
+}
+],
+"timing": 1723218962
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aeryka",
+"lastName": "Hollis-O'Neil"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1723144552,
+1723144553,
+1723218962
+],
+"title": "Intro to Trans Studies"
+}
