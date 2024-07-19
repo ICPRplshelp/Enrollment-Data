@@ -1,0 +1,56 @@
+{
+"code": "FSL472H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1724281328,
+"delivery": "ASYNC",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+2,
+2,
+3,
+3,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"timing": 1724423812
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marie-Anne",
+"lastName": "Visoi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1724281327,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
+],
+"title": "Reading and Writing Fiction and Non-Fiction in French"
+}

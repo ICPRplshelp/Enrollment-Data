@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 499,
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 500,
+"time": 1721538829
+}
+],
 "initialCap": 499
 },
 "enrollmentLogs": [
@@ -43,7 +48,44 @@
 532,
 532,
 536,
-535
+535,
+540,
+540,
+539,
+539,
+540,
+540,
+540,
+540,
+540,
+541,
+540,
+540,
+540,
+540,
+541,
+541,
+541,
+539,
+539,
+538,
+540,
+540,
+540,
+543,
+543,
+538,
+536,
+536,
+536,
+536,
+534,
+534,
+531,
+530,
+529,
+529,
+529
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -68,13 +110,34 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Armstrong"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+}
+],
+"timing": 1724281328
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Karolyn",
-"lastName": "Keir"
+"firstName": "Christopher",
+"lastName": "Armstrong"
 },
 {
 "firstName": "Stephen",
@@ -95,9 +158,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 499,
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 500,
+"time": 1721538829
+}
+],
 "initialCap": 499
 },
 "enrollmentLogs": [
@@ -133,7 +201,44 @@
 541,
 541,
 542,
-544
+544,
+546,
+545,
+547,
+552,
+553,
+552,
+552,
+552,
+552,
+552,
+549,
+549,
+549,
+549,
+548,
+549,
+549,
+552,
+553,
+554,
+553,
+552,
+552,
+557,
+556,
+553,
+551,
+551,
+551,
+552,
+552,
+549,
+547,
+545,
+545,
+545,
+537
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -158,6 +263,27 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Christopher",
+"lastName": "Armstrong"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+}
+],
+"timing": 1724281328
 }
 ]
 },
@@ -167,8 +293,8 @@
 "lastName": "Sturge"
 },
 {
-"firstName": "Karolyn",
-"lastName": "Keir"
+"firstName": "Christopher",
+"lastName": "Armstrong"
 },
 {
 "firstName": "Stephen",
@@ -185,9 +311,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "ASYNC",
-"enrollmentCap": 500,
+"enrollmentCap": 512,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 512,
+"time": 1721538829
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -223,13 +354,89 @@
 312,
 312,
 316,
-315
+315,
+334,
+343,
+346,
+380,
+380,
+384,
+384,
+384,
+384,
+388,
+397,
+405,
+406,
+406,
+407,
+412,
+412,
+415,
+418,
+434,
+442,
+441,
+441,
+443,
+444,
+463,
+467,
+470,
+470,
+478,
+481,
+482,
+486,
+489,
+491,
+491,
+493
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Armstrong"
 },
-"instructors": [],
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+}
+],
+"timing": 1724281328
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Armstrong"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 }
@@ -263,11 +470,48 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962,
+1723311777,
+1723396087,
+1723481644,
+1723557106,
+1723736637,
+1723817027,
+1723872256,
+1724019332,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

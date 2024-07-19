@@ -1,0 +1,98 @@
+{
+"code": "CSC299Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1722363953,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1722526122
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1722363952,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962,
+1723311777,
+1723396087,
+1723481644,
+1723557106,
+1723736637,
+1723817027,
+1723872256,
+1724019332,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
+],
+"title": "Research Opportunity Program"
+}

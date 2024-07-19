@@ -5,9 +5,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -43,7 +52,44 @@
 33,
 33,
 33,
-33
+33,
+140,
+140,
+140,
+136,
+137,
+136,
+136,
+136,
+136,
+138,
+138,
+146,
+148,
+148,
+150,
+148,
+148,
+152,
+150,
+158,
+159,
+158,
+158,
+157,
+160,
+164,
+166,
+165,
+165,
+166,
+166,
+168,
+166,
+167,
+167,
+167,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -71,9 +117,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -109,7 +164,44 @@
 29,
 29,
 30,
-29
+29,
+145,
+144,
+145,
+144,
+143,
+143,
+143,
+143,
+143,
+142,
+143,
+142,
+142,
+142,
+143,
+145,
+145,
+148,
+147,
+157,
+159,
+159,
+159,
+162,
+160,
+165,
+166,
+165,
+165,
+164,
+165,
+167,
+165,
+165,
+165,
+165,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -143,6 +235,43 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -226,6 +355,43 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -239,9 +405,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -277,22 +452,83 @@
 23,
 23,
 23,
-24
+24,
+141,
+141,
+142,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+144,
+143,
+143,
+143,
+144,
+145,
+145,
+151,
+150,
+158,
+160,
+160,
+160,
+160,
+159,
+161,
+162,
+162,
+162,
+163,
+162,
+161,
+160,
+160,
+161,
+161,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Waterman"
+}
+],
+"timing": 1724690772
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Waterman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -328,7 +564,44 @@
 19,
 19,
 20,
-21
+21,
+140,
+141,
+142,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+141,
+146,
+146,
+146,
+147,
+146,
+146,
+148,
+147,
+155,
+157,
+157,
+157,
+158,
+157,
+162,
+161,
+162,
+162,
+163,
+163,
+163,
+162,
+162,
+162,
+162,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -356,9 +629,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -394,22 +676,83 @@
 6,
 6,
 6,
-6
+6,
+140,
+140,
+140,
+140,
+140,
+140,
+140,
+140,
+140,
+140,
+139,
+142,
+141,
+141,
+142,
+143,
+143,
+147,
+147,
+160,
+161,
+161,
+161,
+160,
+158,
+162,
+162,
+163,
+163,
+165,
+165,
+165,
+164,
+164,
+164,
+164,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -445,7 +788,44 @@
 8,
 8,
 8,
-8
+8,
+133,
+137,
+138,
+140,
+140,
+140,
+140,
+140,
+140,
+139,
+140,
+140,
+140,
+140,
+142,
+143,
+143,
+148,
+148,
+154,
+155,
+155,
+155,
+158,
+158,
+159,
+160,
+159,
+159,
+159,
+161,
+161,
+160,
+161,
+161,
+161,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,9 +853,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1722719730
+},
+{
+"newCapacity": 150,
+"time": 1724690772
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -511,7 +900,44 @@
 9,
 9,
 9,
-9
+9,
+109,
+118,
+120,
+132,
+134,
+135,
+135,
+135,
+135,
+136,
+133,
+143,
+147,
+147,
+148,
+146,
+146,
+149,
+148,
+152,
+155,
+155,
+155,
+156,
+155,
+159,
+161,
+161,
+161,
+161,
+162,
+163,
+163,
+163,
+163,
+163,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -566,11 +992,48 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962,
+1723311777,
+1723396087,
+1723481644,
+1723557106,
+1723736637,
+1723817027,
+1723872256,
+1724019332,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
 ],
 "title": "Introduction to Mathematical Proofs"
 }

@@ -1,0 +1,65 @@
+{
+"code": "LIN496H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1724074422,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 1,
+"time": 1724169470
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessamyn Leigh",
+"lastName": "Schertz"
+}
+],
+"timing": 1724169470
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jessamyn Leigh",
+"lastName": "Schertz"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1724074421,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
+],
+"title": "Individual Project"
+}

@@ -1,0 +1,43 @@
+{
+"code": "VPSC90H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1724169470,
+"delivery": "INPER",
+"enrollmentCap": 18,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 18
+},
+"enrollmentLogs": [
+0,
+1,
+6,
+8,
+8,
+9,
+9,
+11
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1724169469,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
+],
+"title": "Theory and Practice: Art and Globalization"
+}

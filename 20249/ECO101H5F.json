@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1723736637
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -43,22 +48,79 @@
 74,
 74,
 74,
-74
+74,
+302,
+302,
+305,
+304,
+304,
+303,
+303,
+303,
+303,
+307,
+316,
+324,
+328,
+328,
+328,
+330,
+330,
+334,
+335,
+337,
+337,
+339,
+339,
+338,
+340,
+332,
+327,
+325,
+325,
+325,
+323,
+326,
+327,
+326,
+327,
+327,
+326
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1723736637
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -94,22 +156,79 @@
 16,
 16,
 16,
-17
+17,
+257,
+278,
+281,
+299,
+300,
+300,
+300,
+300,
+300,
+303,
+310,
+314,
+316,
+316,
+317,
+315,
+315,
+322,
+321,
+324,
+324,
+324,
+324,
+324,
+325,
+317,
+317,
+318,
+318,
+323,
+325,
+321,
+325,
+326,
+325,
+325,
+326
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1723736637
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -145,22 +264,79 @@
 27,
 27,
 27,
-27
+27,
+256,
+265,
+267,
+294,
+293,
+296,
+296,
+296,
+296,
+305,
+311,
+317,
+317,
+317,
+315,
+318,
+318,
+322,
+320,
+330,
+329,
+329,
+329,
+325,
+328,
+317,
+321,
+323,
+323,
+326,
+326,
+325,
+326,
+327,
+326,
+326,
+325
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1723736637
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -196,22 +372,79 @@
 44,
 43,
 43,
-43
+43,
+307,
+311,
+311,
+309,
+309,
+309,
+309,
+309,
+309,
+311,
+316,
+319,
+321,
+321,
+319,
+321,
+321,
+326,
+326,
+335,
+337,
+341,
+341,
+349,
+353,
+330,
+332,
+331,
+331,
+334,
+338,
+337,
+336,
+338,
+337,
+337,
+338
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 325,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 325,
+"time": 1723736637
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -247,13 +480,65 @@
 36,
 36,
 37,
-38
+38,
+304,
+306,
+304,
+308,
+308,
+308,
+307,
+307,
+307,
+309,
+313,
+314,
+318,
+318,
+317,
+317,
+317,
+326,
+322,
+328,
+329,
+332,
+332,
+336,
+340,
+328,
+329,
+329,
+329,
+331,
+332,
+335,
+334,
+333,
+335,
+335,
+337
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1723144553
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0202"
 },
@@ -266,6 +551,43 @@
 "initialCap": 300
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -338,11 +660,48 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962,
+1723311777,
+1723396087,
+1723481644,
+1723557106,
+1723736637,
+1723817027,
+1723872256,
+1724019332,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
 ],
 "title": "Principles of Microeconomics"
 }

@@ -43,7 +43,44 @@
 537,
 537,
 539,
-540
+540,
+542,
+541,
+540,
+590,
+590,
+590,
+592,
+592,
+592,
+597,
+602,
+603,
+604,
+604,
+602,
+603,
+603,
+608,
+610,
+616,
+619,
+621,
+621,
+626,
+624,
+625,
+628,
+628,
+628,
+627,
+627,
+627,
+623,
+622,
+623,
+623,
+617
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -68,6 +105,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Heinz-Bernhard",
+"lastName": "Kraatz"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1723557106
 }
 ]
 },
@@ -83,10 +137,6 @@
 {
 "firstName": "Nirusha",
 "lastName": "Thavarajah"
-},
-{
-"firstName": "Sanghyun",
-"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -133,7 +183,44 @@
 539,
 539,
 540,
-540
+540,
+544,
+545,
+542,
+588,
+588,
+588,
+589,
+589,
+589,
+596,
+596,
+600,
+603,
+603,
+603,
+602,
+602,
+601,
+603,
+605,
+610,
+613,
+613,
+617,
+611,
+605,
+606,
+606,
+606,
+610,
+610,
+613,
+611,
+612,
+613,
+613,
+612
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -158,6 +245,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Heinz-Bernhard",
+"lastName": "Kraatz"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1723557106
 }
 ]
 },
@@ -173,10 +277,6 @@
 {
 "firstName": "Nirusha",
 "lastName": "Thavarajah"
-},
-{
-"firstName": "Sanghyun",
-"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -185,9 +285,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "ASYNC",
-"enrollmentCap": 280,
+"enrollmentCap": 290,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 290,
+"time": 1723557106
+}
+],
 "initialCap": 280
 },
 "enrollmentLogs": [
@@ -223,7 +328,44 @@
 210,
 210,
 211,
-210
+210,
+222,
+232,
+232,
+357,
+357,
+357,
+357,
+357,
+357,
+363,
+367,
+371,
+373,
+373,
+372,
+373,
+373,
+376,
+380,
+384,
+387,
+389,
+389,
+390,
+393,
+393,
+395,
+394,
+394,
+397,
+398,
+400,
+400,
+402,
+403,
+403,
+405
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,6 +390,23 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Heinz-Bernhard",
+"lastName": "Kraatz"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1723557106
 }
 ]
 },
@@ -263,10 +422,6 @@
 {
 "firstName": "Nirusha",
 "lastName": "Thavarajah"
-},
-{
-"firstName": "Sanghyun",
-"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -302,11 +457,48 @@
 1720707748,
 1720794621,
 1720908246,
-1720971707,
+1721047800,
 1721056392,
 1721058859,
 1721101170,
-1721142286
+1721142286,
+1721538829,
+1721663064,
+1721998510,
+1722004684,
+1722012642,
+1722028599,
+1722053955,
+1722109043,
+1722183957,
+1722267706,
+1722363953,
+1722526122,
+1722576376,
+1722581653,
+1722611165,
+1722719730,
+1722786044,
+1722876867,
+1722956852,
+1723144553,
+1723218962,
+1723311777,
+1723396087,
+1723481644,
+1723557106,
+1723736637,
+1723817027,
+1723872256,
+1724019332,
+1724074422,
+1724169470,
+1724281328,
+1724340542,
+1724423812,
+1724518115,
+1724631462,
+1724690772
 ],
 "title": "Introductory Chemistry I: Structure and Bonding"
 }
