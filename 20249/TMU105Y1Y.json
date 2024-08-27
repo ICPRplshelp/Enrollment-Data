@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,14 @@
 {
 "newCapacity": 14,
 "time": 1722004684
+},
+{
+"newCapacity": 15,
+"time": 1725122392
+},
+{
+"newCapacity": 16,
+"time": 1725399768
 }
 ],
 "initialCap": 16
@@ -89,7 +97,29 @@
 14,
 14,
 14,
-14
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+15,
+15,
+15,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+14,
+14,
+14,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -117,7 +147,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -127,6 +157,18 @@
 {
 "newCapacity": 14,
 "time": 1722004684
+},
+{
+"newCapacity": 15,
+"time": 1725023693
+},
+{
+"newCapacity": 16,
+"time": 1725122392
+},
+{
+"newCapacity": 17,
+"time": 1725722718
 }
 ],
 "initialCap": 15
@@ -201,7 +243,29 @@
 14,
 14,
 14,
-14
+14,
+14,
+13,
+14,
+15,
+16,
+16,
+15,
+15,
+16,
+16,
+16,
+16,
+16,
+17,
+17,
+17,
+17,
+16,
+16,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,12 +293,20 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 16,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 14,
 "time": 1722004684
+},
+{
+"newCapacity": 15,
+"time": 1725122392
+},
+{
+"newCapacity": 16,
+"time": 1725399768
 }
 ],
 "initialCap": 13
@@ -309,7 +381,29 @@
 14,
 14,
 14,
-14
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+15,
+15,
+15,
+15,
+14,
+15,
+16,
+15,
+15,
+15,
+13,
+14,
+13,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -405,7 +499,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Keyboard Harmony"
 }

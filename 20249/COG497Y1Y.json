@@ -1,0 +1,49 @@
+{
+"code": "COG497Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1725636091,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725636090,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "COG Independent Study"
+}

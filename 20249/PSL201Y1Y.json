@@ -127,13 +127,74 @@
 143,
 144,
 144,
-143
+143,
+145,
+146,
+143,
+142,
+142,
+142,
+143,
+147,
+145,
+148,
+145,
+144,
+140,
+139,
+139,
+142,
+142,
+137,
+137,
+141,
+138,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "French"
 },
-"instructors": [],
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Sandra",
+"lastName": "Pereira"
+},
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
+"timing": 1725983002
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Sandra",
+"lastName": "Pereira"
+},
+{
+"firstName": "Jeff",
+"lastName": "Kroetsch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -255,7 +316,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Basic Human Physiology"
 }

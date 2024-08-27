@@ -5,9 +5,14 @@
 {
 "createdAt": 1720473937,
 "delivery": "INPER",
-"enrollmentCap": 28,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1725023693
+}
+],
 "initialCap": 28
 },
 "enrollmentLogs": [
@@ -59,7 +64,29 @@
 40,
 40,
 40,
-40
+40,
+40,
+40,
+40,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -81,7 +108,7 @@
 "lastName": "Kesik"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -134,7 +161,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Advanced Topics in the Technology of Architecture"
 }

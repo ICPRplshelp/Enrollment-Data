@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1722526122
+},
+{
+"newCapacity": 105,
+"time": 1725023693
 }
 ],
 "initialCap": 75
@@ -85,13 +89,50 @@
 128,
 128,
 128,
-130
+130,
+130,
+130,
+129,
+127,
+129,
+129,
+134,
+133,
+135,
+138,
+138,
+142,
+142,
+143,
+143,
+146,
+139,
+140,
+140,
+138,
+140,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -166,7 +207,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Developing and Managing Communication Campaigns and Projects"
 }

@@ -1,0 +1,80 @@
+{
+"code": "ANT497Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1725399768,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather",
+"lastName": "Miller"
+},
+{
+"firstName": "Monica",
+"lastName": "Ramsey"
+}
+],
+"timing": 1726243094
+}
+]
+},
+"instructors": [
+{
+"firstName": "Heather",
+"lastName": "Miller"
+},
+{
+"firstName": "Monica",
+"lastName": "Ramsey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725399767,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Advanced Independent Study"
+}

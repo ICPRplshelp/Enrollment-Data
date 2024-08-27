@@ -127,7 +127,29 @@
 294,
 292,
 292,
-291
+291,
+291,
+288,
+286,
+287,
+286,
+286,
+285,
+287,
+280,
+270,
+272,
+271,
+267,
+266,
+266,
+259,
+262,
+263,
+260,
+257,
+257,
+257
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,13 +162,22 @@
 }
 ],
 "timing": 1719168759
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Giulio",
+"lastName": "Leghissa"
+}
+],
+"timing": 1725399768
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam",
-"lastName": "Barker"
+"firstName": "Giulio",
+"lastName": "Leghissa"
 }
 ],
 "isCancelled": false,
@@ -155,9 +186,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "ASYNC",
-"enrollmentCap": 450,
+"enrollmentCap": 500,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 500,
+"time": 1725399768
+}
+],
 "initialCap": 450
 },
 "enrollmentLogs": [
@@ -277,7 +313,29 @@
 515,
 517,
 517,
-514
+514,
+514,
+512,
+514,
+514,
+513,
+513,
+509,
+508,
+511,
+512,
+512,
+513,
+515,
+516,
+516,
+515,
+513,
+509,
+504,
+500,
+500,
+500
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -427,7 +485,29 @@
 23,
 23,
 23,
-23
+23,
+24,
+24,
+24,
+23,
+23,
+23,
+24,
+24,
+24,
+23,
+25,
+25,
+25,
+25,
+25,
+22,
+21,
+21,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -440,13 +520,22 @@
 }
 ],
 "timing": 1719168759
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Giulio",
+"lastName": "Leghissa"
+}
+],
+"timing": 1725983002
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Adam",
-"lastName": "Barker"
+"firstName": "Giulio",
+"lastName": "Leghissa"
 }
 ],
 "isCancelled": false,
@@ -570,7 +659,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Introduction to Classical Mythology"
 }

@@ -127,13 +127,50 @@
 408,
 407,
 407,
-407
+407,
+406,
+405,
+404,
+403,
+402,
+402,
+396,
+394,
+392,
+393,
+392,
+392,
+392,
+392,
+392,
+391,
+391,
+391,
+391,
+386,
+385,
+385
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
+"timing": 1726109975
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -262,13 +299,50 @@
 8,
 8,
 8,
-8
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
+"timing": 1726109975
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -390,7 +464,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Introduction to Neuroscience"
 }

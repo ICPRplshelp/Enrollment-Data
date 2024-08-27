@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -89,7 +93,29 @@
 64,
 65,
 65,
-65
+65,
+65,
+65,
+60,
+59,
+59,
+59,
+59,
+59,
+59,
+60,
+60,
+60,
+60,
+59,
+59,
+59,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -117,7 +143,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -127,6 +153,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 62,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -201,7 +231,29 @@
 68,
 67,
 67,
-67
+67,
+67,
+67,
+62,
+62,
+62,
+62,
+63,
+62,
+62,
+63,
+63,
+63,
+64,
+64,
+64,
+65,
+63,
+63,
+62,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,7 +281,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -239,6 +291,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -313,7 +369,29 @@
 66,
 65,
 65,
-64
+64,
+64,
+65,
+59,
+59,
+59,
+59,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+61,
+61,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -341,7 +419,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -351,6 +429,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -425,7 +507,29 @@
 65,
 64,
 64,
-63
+63,
+64,
+64,
+58,
+57,
+57,
+57,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+58,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -453,7 +557,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -463,6 +567,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 61,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -537,7 +645,29 @@
 65,
 65,
 65,
-65
+65,
+65,
+65,
+61,
+61,
+60,
+60,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+59,
+61,
+61,
+61,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -565,7 +695,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -575,6 +705,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -649,7 +783,29 @@
 60,
 60,
 60,
-59
+59,
+59,
+60,
+54,
+53,
+51,
+51,
+45,
+43,
+44,
+42,
+44,
+44,
+43,
+43,
+43,
+41,
+41,
+42,
+44,
+44,
+44,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,13 +818,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cecilia",
+"lastName": "Lam"
+}
+],
+"timing": 1725122392
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Cecilia",
+"lastName": "Lam"
 }
 ],
 "isCancelled": false,
@@ -677,7 +842,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -687,6 +852,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -761,7 +930,29 @@
 65,
 65,
 65,
-65
+65,
+65,
+66,
+54,
+55,
+56,
+56,
+59,
+59,
+58,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -789,7 +980,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -799,6 +990,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -873,7 +1068,29 @@
 63,
 63,
 63,
-65
+65,
+65,
+64,
+53,
+54,
+55,
+55,
+55,
+58,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -901,7 +1118,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -911,6 +1128,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -985,7 +1206,29 @@
 66,
 66,
 66,
-65
+65,
+65,
+65,
+56,
+60,
+60,
+60,
+58,
+58,
+60,
+60,
+58,
+58,
+58,
+58,
+58,
+60,
+59,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -998,13 +1241,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Cecilia",
+"lastName": "Lam"
+}
+],
+"timing": 1725122392
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Cecilia",
+"lastName": "Lam"
 }
 ],
 "isCancelled": false,
@@ -1013,7 +1265,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1023,6 +1275,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 61,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -1097,7 +1353,29 @@
 64,
 64,
 64,
-64
+64,
+64,
+64,
+61,
+60,
+61,
+61,
+60,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1110,13 +1388,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamedhassan M.",
+"lastName": "Hassanali"
+}
+],
+"timing": 1725122392
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Mohamedhassan M.",
+"lastName": "Hassanali"
 }
 ],
 "isCancelled": false,
@@ -1125,7 +1412,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -1135,6 +1422,10 @@
 {
 "newCapacity": 65,
 "time": 1722012642
+},
+{
+"newCapacity": 60,
+"time": 1724946119
 }
 ],
 "initialCap": 65
@@ -1209,7 +1500,29 @@
 64,
 64,
 64,
-64
+64,
+62,
+62,
+55,
+54,
+52,
+52,
+52,
+51,
+50,
+50,
+50,
+50,
+50,
+50,
+50,
+52,
+53,
+58,
+59,
+59,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1222,13 +1535,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamedhassan M.",
+"lastName": "Hassanali"
+}
+],
+"timing": 1725122392
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Mohamedhassan M.",
+"lastName": "Hassanali"
 }
 ],
 "isCancelled": false,
@@ -1305,7 +1627,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Introductory Financial Accounting I"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1720473937,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1724946119
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -59,7 +64,29 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+8,
+8,
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+9,
+9,
+11,
+11,
+11,
+11,
+11,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -146,7 +173,29 @@
 19,
 19,
 19,
-19
+19,
+19,
+19,
+19,
+19,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -159,6 +208,19 @@
 }
 ],
 "timing": 1724281328
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sneha",
+"lastName": "Mandhan"
+},
+{
+"firstName": "Michael",
+"lastName": "Piper"
+}
+],
+"timing": 1725584156
 }
 ]
 },
@@ -166,6 +228,10 @@
 {
 "firstName": "Sneha",
 "lastName": "Mandhan"
+},
+{
+"firstName": "Michael",
+"lastName": "Piper"
 }
 ],
 "isCancelled": false,
@@ -221,7 +287,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Multidisciplinary Urban Capstone Project"
 }

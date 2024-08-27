@@ -1,0 +1,70 @@
+{
+"code": "THRD91H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1725489766,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"timing": 1725489766
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1725489765,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Independent Projects in Theatre and Performance"
+}

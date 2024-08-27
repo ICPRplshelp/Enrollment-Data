@@ -80,13 +80,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+9,
+9,
+83,
+83,
+83,
+83,
+83,
+83,
+83,
+83,
+83,
+81,
+81,
+81,
+81,
+81,
+81,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1725399768
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -168,13 +205,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+36,
+37,
+39,
+40,
+40,
+41,
+41,
+42,
+42,
+43,
+42,
+39,
+39,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
+"timing": 1725399768
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Meskar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -187,6 +261,28 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -337,7 +433,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Principles of Computer Networks"
 }

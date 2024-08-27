@@ -1,0 +1,58 @@
+{
+"code": "ENV497H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1725895695,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Olive"
+}
+],
+"timing": 1725895695
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Olive"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725895694,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Environmental Research Project"
+}

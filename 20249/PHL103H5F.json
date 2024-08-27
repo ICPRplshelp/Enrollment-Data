@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 225,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1725399768
+}
+],
 "initialCap": 225
 },
 "enrollmentLogs": [
@@ -80,13 +85,50 @@
 258,
 259,
 259,
-255
+255,
+261,
+263,
+251,
+242,
+242,
+242,
+244,
+239,
+236,
+233,
+235,
+234,
+235,
+237,
+237,
+239,
+241,
+240,
+239,
+238,
+237,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Logan",
+"lastName": "Fletcher"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Logan",
+"lastName": "Fletcher"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -161,7 +203,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Introduction to Philosophy: Knowledge and Reality"
 }

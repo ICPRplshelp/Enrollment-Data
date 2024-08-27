@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 74,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 74,
+"time": 1725399768
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -80,7 +85,29 @@
 81,
 81,
 81,
-81
+81,
+81,
+81,
+80,
+80,
+79,
+79,
+80,
+79,
+75,
+73,
+75,
+75,
+75,
+75,
+75,
+74,
+72,
+74,
+74,
+74,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +152,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1725399768
+},
+{
+"newCapacity": 75,
+"time": 1726109975
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -200,7 +236,29 @@
 80,
 79,
 79,
-79
+79,
+79,
+79,
+79,
+79,
+78,
+78,
+78,
+78,
+74,
+76,
+75,
+72,
+71,
+71,
+71,
+73,
+73,
+74,
+75,
+74,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -313,7 +371,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

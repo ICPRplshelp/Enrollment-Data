@@ -1,0 +1,103 @@
+{
+"code": "MSE295H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1724886030,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+60,
+60,
+59,
+59,
+59,
+59,
+55,
+55,
+55,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+59,
+59
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+}
+],
+"timing": 1724886030
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+},
+{
+"firstName": "Jennifer",
+"lastName": "Lofgreen"
+}
+],
+"timing": 1724946119
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Ramsay"
+},
+{
+"firstName": "Jennifer",
+"lastName": "Lofgreen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1724886029,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Communications II"
+}

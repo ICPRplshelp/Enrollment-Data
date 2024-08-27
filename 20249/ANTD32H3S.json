@@ -1,0 +1,68 @@
+{
+"code": "ANTD32H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1725549498,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"timing": 1725549498
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "FACULTY"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1725549497,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Advanced Research in Anthropology"
+}

@@ -1,0 +1,82 @@
+{
+"code": "ARC484H1F",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1725023693,
+"delivery": "INPER",
+"enrollmentCap": 28,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 28
+},
+"enrollmentLogs": [
+0,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+39,
+39,
+28,
+28,
+28
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ted",
+"lastName": "Kesik"
+}
+],
+"timing": 1725023693
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ted",
+"lastName": "Kesik"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725023692,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Wood-Frame Construction Tech."
+}

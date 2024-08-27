@@ -59,7 +59,29 @@
 15,
 15,
 15,
-15
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+19,
+19,
+19,
+20,
+19,
+19,
+19,
+19,
+19,
+19,
+20,
+19,
+19,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -72,6 +94,19 @@
 }
 ],
 "timing": 1724281328
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Melanie",
+"lastName": "Gilligan"
+},
+{
+"firstName": "Mahshid",
+"lastName": "Rafiei"
+}
+],
+"timing": 1725895695
 }
 ]
 },
@@ -79,6 +114,10 @@
 {
 "firstName": "Melanie",
 "lastName": "Gilligan"
+},
+{
+"firstName": "Mahshid",
+"lastName": "Rafiei"
 }
 ],
 "isCancelled": false,
@@ -87,12 +126,39 @@
 {
 "createdAt": 1722004684,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1725895695
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -148,7 +214,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0102"
 }
 ],
@@ -201,7 +267,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Installation Art"
 }

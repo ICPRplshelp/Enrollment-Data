@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1725549498
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -127,7 +132,29 @@
 79,
 79,
 79,
-80
+80,
+80,
+80,
+78,
+77,
+77,
+77,
+79,
+81,
+82,
+84,
+83,
+84,
+82,
+81,
+81,
+80,
+77,
+79,
+76,
+73,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,9 +199,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1725549498
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -294,7 +326,29 @@
 77,
 77,
 77,
-76
+76,
+78,
+78,
+79,
+78,
+79,
+79,
+82,
+78,
+78,
+80,
+79,
+77,
+78,
+78,
+78,
+77,
+75,
+76,
+76,
+77,
+77,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -339,9 +393,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1725549498
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -461,7 +520,29 @@
 84,
 84,
 84,
-85
+85,
+85,
+85,
+85,
+86,
+86,
+86,
+85,
+84,
+84,
+83,
+84,
+83,
+82,
+83,
+83,
+81,
+82,
+80,
+78,
+78,
+80,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -621,7 +702,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Practical Physics I"
 }

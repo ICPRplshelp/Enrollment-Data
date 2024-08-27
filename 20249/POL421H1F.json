@@ -1,0 +1,76 @@
+{
+"code": "POL421H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1725299878,
+"delivery": "INPER",
+"enrollmentCap": 4,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 4
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+4,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+4,
+4,
+4,
+4,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kenneth",
+"lastName": "Green"
+}
+],
+"timing": 1725399768
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kenneth",
+"lastName": "Green"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725299877,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Maimonides and His Modern Interpreters"
+}

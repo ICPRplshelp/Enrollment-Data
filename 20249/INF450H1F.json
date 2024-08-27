@@ -1,0 +1,80 @@
+{
+"code": "INF450H1F",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1725122392,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+16,
+16,
+18,
+19,
+19,
+18,
+18,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+18,
+19,
+19,
+19
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sunita",
+"lastName": "Guyadeen"
+}
+],
+"timing": 1725122392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sunita",
+"lastName": "Guyadeen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725122391,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Project Management with Agile"
+}

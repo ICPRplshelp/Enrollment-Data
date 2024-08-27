@@ -127,13 +127,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -262,13 +299,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+12,
+12,
+12,
+12,
+12,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -397,13 +471,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+14,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janine",
+"lastName": "Riviere"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janine",
+"lastName": "Riviere"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -532,22 +643,64 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -667,6 +820,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -674,7 +849,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0202"
 },
 {
@@ -802,13 +977,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -937,13 +1149,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
@@ -1072,13 +1321,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janine",
+"lastName": "Riviere"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janine",
+"lastName": "Riviere"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0303"
 },
@@ -1207,22 +1493,64 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -1342,6 +1670,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1349,7 +1699,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0402"
 },
 {
@@ -1477,13 +1827,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Arlene",
+"lastName": "Samlalsingh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -1612,13 +1999,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Warden-Abrahams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -1747,22 +2171,64 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Charles",
+"lastName": "Wotton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0602"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -1882,6 +2348,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1889,7 +2377,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0701"
 },
 {
@@ -2017,13 +2505,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ai",
+"lastName": "Ishida"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ai",
+"lastName": "Ishida"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0702"
 }
@@ -2145,7 +2670,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Academic Literacies & Identities"
 }

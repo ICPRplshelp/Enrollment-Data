@@ -1,0 +1,80 @@
+{
+"code": "INF353H1S",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1725122392,
+"delivery": "INPER",
+"enrollmentCap": 48,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 48
+},
+"enrollmentLogs": [
+0,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+37,
+37,
+36,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Olivier",
+"lastName": "St-Cyr"
+}
+],
+"timing": 1725122392
+}
+]
+},
+"instructors": [
+{
+"firstName": "Olivier",
+"lastName": "St-Cyr"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1725122391,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
+],
+"title": "Des Stu III: Interactive Sys"
+}

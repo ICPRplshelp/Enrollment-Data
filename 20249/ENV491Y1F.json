@@ -1,0 +1,33 @@
+{
+"code": "ENV491Y1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1726329078,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1726329077,
+1726329078,
+1726417021
+],
+"title": "Independent Studies Project"
+}

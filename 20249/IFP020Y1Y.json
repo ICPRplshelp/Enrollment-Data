@@ -127,13 +127,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+15,
+15,
+15,
+15,
+15,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -262,13 +299,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -397,13 +471,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "McGaughey"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "McGaughey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -532,13 +643,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Pearson-Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
@@ -667,13 +815,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -802,25 +987,89 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+11,
+11,
+11,
+11,
+11,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -944,18 +1193,45 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0601"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1079,7 +1355,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0701"
 },
 {
@@ -1207,13 +1483,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fiore",
+"lastName": "Vescio"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fiore",
+"lastName": "Vescio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0801"
 },
@@ -1342,13 +1655,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+12,
+12,
+12,
+12,
+12,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catrinel",
+"lastName": "Ionescu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0802"
 },
@@ -1477,13 +1827,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+14,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0803"
 },
@@ -1612,13 +1999,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cagri",
+"lastName": "Bilgin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0804"
 },
@@ -1747,22 +2171,64 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Conttia",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0901"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1724886030
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -1882,6 +2348,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1889,7 +2377,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0902"
 },
 {
@@ -2017,13 +2505,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0903"
 }
@@ -2145,7 +2670,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Critical Reading & Writing"
 }

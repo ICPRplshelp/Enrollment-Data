@@ -127,13 +127,66 @@
 46,
 46,
 46,
-46
+46,
+46,
+45,
+45,
+45,
+44,
+44,
+44,
+44,
+44,
+41,
+40,
+39,
+39,
+39,
+39,
+37,
+38,
+37,
+37,
+38,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "Meneghini"
 },
-"instructors": [],
+{
+"firstName": "Jack",
+"lastName": "Greenblatt"
+},
+{
+"firstName": "Eric",
+"lastName": "Campos"
+}
+],
+"timing": 1725399768
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "Meneghini"
+},
+{
+"firstName": "Jack",
+"lastName": "Greenblatt"
+},
+{
+"firstName": "Eric",
+"lastName": "Campos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -255,7 +308,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Regulation of Gene Expression"
 }

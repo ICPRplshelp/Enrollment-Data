@@ -127,7 +127,29 @@
 155,
 152,
 152,
-154
+154,
+157,
+160,
+160,
+160,
+159,
+159,
+167,
+166,
+170,
+179,
+178,
+178,
+177,
+170,
+170,
+171,
+172,
+172,
+171,
+169,
+170,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,6 +162,19 @@
 }
 ],
 "timing": 1723218962
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vivian",
+"lastName": "He"
+},
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+}
+],
+"timing": 1724886030
 }
 ]
 },
@@ -147,6 +182,10 @@
 {
 "firstName": "Vivian",
 "lastName": "He"
+},
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
 }
 ],
 "isCancelled": false,
@@ -277,13 +316,50 @@
 163,
 165,
 165,
-165
+165,
+166,
+163,
+162,
+161,
+161,
+161,
+160,
+160,
+161,
+158,
+156,
+158,
+160,
+157,
+157,
+153,
+160,
+161,
+161,
+160,
+158,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ivan",
+"lastName": "Salgado"
+}
+],
+"timing": 1724772213
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ivan",
+"lastName": "Salgado"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -405,7 +481,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Calculus II"
 }

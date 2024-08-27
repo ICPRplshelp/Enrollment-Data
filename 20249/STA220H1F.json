@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 222,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 222,
+"time": 1725122392
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -127,7 +132,29 @@
 223,
 222,
 222,
-224
+224,
+223,
+228,
+229,
+230,
+224,
+224,
+223,
+226,
+232,
+231,
+234,
+236,
+234,
+234,
+234,
+238,
+237,
+237,
+228,
+222,
+222,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,9 +182,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 235,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1725122392
+},
+{
+"newCapacity": 235,
+"time": 1726243094
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -277,7 +313,29 @@
 220,
 220,
 220,
-223
+223,
+225,
+224,
+225,
+229,
+227,
+227,
+225,
+227,
+230,
+232,
+235,
+233,
+232,
+230,
+230,
+233,
+235,
+233,
+230,
+226,
+227,
+227
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -305,9 +363,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 230,
+"enrollmentCap": 287,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 267,
+"time": 1725122392
+},
+{
+"newCapacity": 287,
+"time": 1726243094
+}
+],
 "initialCap": 230
 },
 "enrollmentLogs": [
@@ -427,7 +494,29 @@
 263,
 262,
 262,
-264
+264,
+265,
+267,
+267,
+268,
+261,
+261,
+271,
+274,
+276,
+272,
+276,
+279,
+282,
+279,
+279,
+284,
+284,
+286,
+277,
+287,
+285,
+285
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -570,7 +659,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "The Practice of Statistics I"
 }

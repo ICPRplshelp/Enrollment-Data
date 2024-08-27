@@ -80,7 +80,29 @@
 28,
 28,
 28,
-28
+28,
+28,
+28,
+26,
+26,
+26,
+26,
+28,
+27,
+28,
+28,
+28,
+29,
+28,
+29,
+29,
+32,
+33,
+32,
+32,
+34,
+34,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -183,7 +205,29 @@
 25,
 24,
 24,
-24
+24,
+24,
+25,
+23,
+24,
+25,
+25,
+25,
+24,
+25,
+25,
+24,
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+25,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -286,13 +330,50 @@
 25,
 24,
 24,
-23
+23,
+22,
+23,
+24,
+24,
+24,
+24,
+22,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+25,
+25,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Maggiacomo"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Maggiacomo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -374,7 +455,29 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+29,
+29,
+29,
+29,
+30,
+29,
+29,
+28,
+28,
+28,
+28,
+29,
+29,
+28,
+29,
+27,
+27,
+26,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -477,13 +580,50 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+23,
+24,
+24,
+24,
+24,
+26,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+27,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathryn",
+"lastName": "Franklin"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathryn",
+"lastName": "Franklin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -565,7 +705,29 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+25,
+25,
+27,
+27,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -668,7 +830,29 @@
 26,
 26,
 26,
-26
+26,
+26,
+26,
+26,
+27,
+26,
+26,
+26,
+26,
+26,
+25,
+25,
+25,
+25,
+26,
+26,
+27,
+26,
+26,
+26,
+26,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -771,7 +955,29 @@
 31,
 31,
 31,
-32
+32,
+32,
+32,
+30,
+29,
+28,
+28,
+29,
+29,
+29,
+32,
+32,
+33,
+33,
+34,
+34,
+35,
+36,
+37,
+37,
+39,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -874,7 +1080,29 @@
 25,
 26,
 26,
-26
+26,
+26,
+25,
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+24,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+27,
+27,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -977,7 +1205,29 @@
 24,
 24,
 24,
-25
+25,
+25,
+25,
+24,
+22,
+21,
+21,
+23,
+23,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1080,13 +1330,50 @@
 22,
 22,
 22,
-25
+25,
+25,
+24,
+22,
+20,
+20,
+20,
+20,
+19,
+21,
+21,
+21,
+21,
+22,
+23,
+23,
+25,
+23,
+22,
+24,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathryn",
+"lastName": "Franklin"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathryn",
+"lastName": "Franklin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0111"
 },
@@ -1168,13 +1455,50 @@
 9,
 10,
 10,
-11
+11,
+13,
+11,
+10,
+11,
+11,
+11,
+13,
+13,
+13,
+13,
+14,
+14,
+14,
+14,
+14,
+22,
+23,
+23,
+24,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Maggiacomo"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Maggiacomo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0112"
 },
@@ -1256,7 +1580,29 @@
 26,
 26,
 26,
-26
+26,
+26,
+26,
+26,
+27,
+26,
+26,
+27,
+27,
+28,
+28,
+28,
+28,
+27,
+27,
+27,
+28,
+26,
+26,
+27,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1359,13 +1705,50 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+23,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leila",
+"lastName": "Farzinpur"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leila",
+"lastName": "Farzinpur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0114"
 },
@@ -1447,13 +1830,50 @@
 24,
 23,
 23,
-23
+23,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marvin",
+"lastName": "Lam"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marvin",
+"lastName": "Lam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0115"
 },
@@ -1535,7 +1955,29 @@
 26,
 26,
 26,
-26
+26,
+26,
+26,
+27,
+27,
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+25,
+26,
+26,
+26,
+26,
+26,
+29,
+30,
+28,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1638,7 +2080,29 @@
 27,
 27,
 27,
-27
+27,
+27,
+27,
+28,
+28,
+27,
+27,
+26,
+26,
+26,
+26,
+27,
+28,
+28,
+27,
+27,
+27,
+28,
+28,
+29,
+31,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1741,7 +2205,29 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+26,
+26,
+24,
+24,
+24,
+25,
+25,
+27,
+26,
+26,
+26,
+26,
+26,
+25,
+26,
+27,
+27,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1844,7 +2330,29 @@
 25,
 25,
 25,
-26
+26,
+26,
+25,
+24,
+24,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+27,
+27,
+27,
+27,
+27,
+30,
+31,
+32,
+31,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1947,7 +2455,29 @@
 26,
 26,
 26,
-27
+27,
+27,
+26,
+24,
+23,
+24,
+24,
+25,
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+25,
+26,
+26,
+26,
+27,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2050,7 +2580,29 @@
 25,
 25,
 25,
-26
+26,
+26,
+25,
+24,
+23,
+22,
+22,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+25,
+25,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2153,13 +2705,50 @@
 23,
 23,
 23,
-21
+21,
+21,
+21,
+21,
+22,
+22,
+22,
+22,
+24,
+23,
+23,
+23,
+23,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leila",
+"lastName": "Farzinpur"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leila",
+"lastName": "Farzinpur"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0122"
 },
@@ -2241,13 +2830,50 @@
 6,
 6,
 6,
-6
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+5,
+8,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+11,
+13,
+14,
+13,
+15,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marvin",
+"lastName": "Lam"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marvin",
+"lastName": "Lam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0123"
 },
@@ -2329,6 +2955,28 @@
 3,
 3,
 3,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+5,
+5,
+3,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+4,
+4,
+4,
+4,
 4
 ],
 "instructorLog": {
@@ -2417,7 +3065,29 @@
 24,
 24,
 24,
-23
+23,
+23,
+23,
+23,
+23,
+24,
+24,
+24,
+24,
+24,
+25,
+25,
+24,
+26,
+25,
+25,
+23,
+25,
+25,
+25,
+27,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2520,7 +3190,29 @@
 12,
 12,
 12,
-13
+13,
+13,
+14,
+13,
+15,
+15,
+15,
+14,
+14,
+14,
+13,
+13,
+13,
+14,
+19,
+19,
+18,
+17,
+19,
+23,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2623,7 +3315,29 @@
 15,
 15,
 15,
-14
+14,
+14,
+14,
+14,
+14,
+15,
+15,
+14,
+14,
+15,
+15,
+16,
+17,
+18,
+21,
+21,
+23,
+24,
+25,
+25,
+26,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2726,7 +3440,29 @@
 26,
 26,
 26,
-26
+26,
+26,
+27,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+27,
+27,
+26,
+26,
+27,
+27,
+26,
+27,
+28,
+28,
+28,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2829,7 +3565,29 @@
 26,
 25,
 25,
-25
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+27,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2932,7 +3690,29 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+24,
+24,
+24,
+24,
+25,
+25,
+25,
+25,
+25,
+26,
+25,
+27,
+27,
+26,
+27,
+28,
+28,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3044,6 +3824,28 @@
 25,
 25,
 25,
+25,
+25,
+25,
+24,
+25,
+24,
+24,
+24,
+25,
+25,
+25,
+25,
+25,
+26,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+25,
 25
 ],
 "instructorLog": {
@@ -3147,7 +3949,29 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+26,
+25,
+26,
+27,
+27,
+28,
+28,
+28,
+28,
+26,
+27,
+29,
+28,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3250,7 +4074,29 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+25,
+25,
+25,
+25,
+27,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3353,7 +4199,29 @@
 12,
 12,
 12,
-12
+12,
+12,
+15,
+16,
+16,
+16,
+16,
+19,
+22,
+22,
+21,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3456,7 +4324,29 @@
 6,
 6,
 6,
-6
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+8,
+9,
+11,
+13,
+14,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3544,13 +4434,50 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+2,
+3,
+3,
+5,
+7,
+8,
+8,
+10,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clare",
+"lastName": "Wall"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clare",
+"lastName": "Wall"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0136"
 },
@@ -3632,7 +4559,29 @@
 24,
 24,
 24,
-25
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+26,
+25,
+25,
+27,
+26,
+27,
+27,
+27,
+28,
+31,
+31,
+33,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3735,7 +4684,29 @@
 8,
 9,
 9,
-9
+9,
+9,
+9,
+10,
+11,
+11,
+11,
+12,
+14,
+16,
+17,
+18,
+17,
+17,
+17,
+17,
+17,
+19,
+25,
+25,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3838,13 +4809,50 @@
 9,
 9,
 9,
-10
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
+11,
+12,
+12,
+11,
+11,
+11,
+12,
+12,
+12,
+13,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan - 'she her'",
+"lastName": "Harris"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Megan - 'she her'",
+"lastName": "Harris"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0139"
 },
@@ -3926,7 +4934,29 @@
 24,
 24,
 24,
-25
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4029,7 +5059,29 @@
 25,
 24,
 24,
-24
+24,
+24,
+25,
+24,
+25,
+25,
+25,
+25,
+24,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+24,
+25,
+26,
+27,
+27,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4132,7 +5184,29 @@
 16,
 15,
 15,
-15
+15,
+15,
+16,
+15,
+17,
+17,
+17,
+20,
+19,
+19,
+24,
+25,
+25,
+25,
+24,
+24,
+25,
+25,
+26,
+26,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4235,7 +5309,29 @@
 25,
 25,
 25,
-26
+26,
+26,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+24,
+25,
+26,
+26,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4338,7 +5434,29 @@
 25,
 25,
 25,
-24
+24,
+24,
+25,
+25,
+24,
+23,
+23,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26,
+25,
+27,
+26,
+26,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4441,7 +5559,29 @@
 13,
 14,
 14,
-14
+14,
+14,
+17,
+17,
+15,
+15,
+15,
+16,
+16,
+16,
+20,
+20,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4544,13 +5684,50 @@
 9,
 9,
 9,
-9
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+11,
+11,
+11,
+11,
+12,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan - 'she her'",
+"lastName": "Harris"
+}
+],
+"timing": 1725489766
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Megan - 'she her'",
+"lastName": "Harris"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0146"
 },
@@ -4632,13 +5809,50 @@
 2,
 3,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+2,
+2,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+5,
+5,
+8,
+8,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clare",
+"lastName": "Wall"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clare",
+"lastName": "Wall"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0147"
 },
@@ -4720,7 +5934,29 @@
 12,
 12,
 12,
-12
+12,
+12,
+12,
+13,
+13,
+13,
+13,
+14,
+15,
+15,
+16,
+16,
+16,
+16,
+16,
+16,
+18,
+18,
+20,
+19,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4823,7 +6059,29 @@
 3,
 3,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+2,
+2,
+2,
+3,
+3,
+3,
+2,
+4,
+4,
+5,
+5,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4926,13 +6184,50 @@
 18,
 18,
 18,
-18
+18,
+18,
+19,
+17,
+16,
+16,
+16,
+16,
+16,
+16,
+18,
+16,
+17,
+17,
+17,
+17,
+20,
+23,
+23,
+24,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tara",
+"lastName": "Al-Hadithy"
+}
+],
+"timing": 1724886030
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tara",
+"lastName": "Al-Hadithy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0150"
 },
@@ -5014,13 +6309,50 @@
 9,
 9,
 9,
-9
+9,
+9,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+11,
+10,
+11,
+11,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
+"timing": 1724886030
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David Leslie",
+"lastName": "Calloway"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0151"
 },
@@ -5102,7 +6434,29 @@
 13,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+14,
+14,
+14,
+15,
+14,
+14,
+13,
+13,
+13,
+15,
+17,
+18,
+18,
+21,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5205,7 +6559,29 @@
 13,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+14,
+12,
+12,
+12,
+12,
+12,
+12,
+14,
+16,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5308,7 +6684,29 @@
 3,
 3,
 3,
-2
+2,
+2,
+2,
+2,
+2,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+5,
+5,
+5,
+6,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5411,7 +6809,29 @@
 3,
 3,
 3,
-3
+3,
+4,
+4,
+4,
+4,
+5,
+5,
+5,
+4,
+4,
+5,
+5,
+6,
+5,
+5,
+5,
+5,
+5,
+6,
+6,
+6,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5424,13 +6844,22 @@
 }
 ],
 "timing": 1723218962
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Shuvera"
+}
+],
+"timing": 1724946119
 }
 ]
 },
 "instructors": [
 {
-"firstName": "David Leslie",
-"lastName": "Calloway"
+"firstName": "Ryan",
+"lastName": "Shuvera"
 }
 ],
 "isCancelled": false,
@@ -5514,13 +6943,50 @@
 6,
 6,
 6,
-6
+6,
+6,
+6,
+5,
+5,
+5,
+5,
+6,
+5,
+5,
+6,
+7,
+8,
+8,
+9,
+9,
+10,
+10,
+12,
+12,
+14,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Shuvera"
+}
+],
+"timing": 1724946119
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Shuvera"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0156"
 },
@@ -5602,7 +7068,29 @@
 6,
 6,
 6,
-6
+6,
+6,
+6,
+6,
+7,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+8,
+7,
+8,
+8,
+8,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5698,7 +7186,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Writing for University and Beyond"
 }

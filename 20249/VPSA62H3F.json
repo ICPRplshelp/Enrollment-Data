@@ -80,7 +80,29 @@
 31,
 31,
 31,
-31
+31,
+30,
+30,
+29,
+29,
+29,
+29,
+30,
+31,
+32,
+32,
+33,
+33,
+31,
+32,
+32,
+33,
+32,
+29,
+20,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -183,13 +205,50 @@
 32,
 32,
 32,
-33
+33,
+32,
+32,
+30,
+30,
+31,
+31,
+31,
+31,
+31,
+29,
+31,
+31,
+30,
+30,
+30,
+29,
+30,
+30,
+20,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam David",
+"lastName": "Brown"
+}
+],
+"timing": 1724886030
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam David",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -271,7 +330,29 @@
 29,
 29,
 29,
-29
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+30,
+31,
+31,
+31,
+30,
+29,
+29,
+28,
+27,
+27,
+20,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -374,13 +455,50 @@
 31,
 31,
 31,
-31
+31,
+31,
+31,
+30,
+30,
+30,
+30,
+31,
+31,
+30,
+31,
+31,
+31,
+29,
+30,
+30,
+30,
+29,
+25,
+20,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lee",
+"lastName": "Goreas"
+}
+],
+"timing": 1724886030
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lee",
+"lastName": "Goreas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 }
@@ -455,7 +573,29 @@
 1724423812,
 1724518115,
 1724631462,
-1724690772
+1724690772,
+1724772213,
+1724886030,
+1724946119,
+1725023693,
+1725122392,
+1725206439,
+1725299878,
+1725367230,
+1725399768,
+1725489766,
+1725549498,
+1725584156,
+1725636091,
+1725722718,
+1725814432,
+1725895695,
+1725983002,
+1726109975,
+1726156528,
+1726243094,
+1726329078,
+1726417021
 ],
 "title": "Foundation Studies in Studio"
 }
