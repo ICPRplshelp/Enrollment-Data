@@ -102,6 +102,7 @@
 500,
 500,
 500,
+500,
 500
 ],
 "instructorLog": {
@@ -261,6 +262,7 @@
 584,
 588,
 579,
+500,
 500,
 500,
 500,
@@ -431,6 +433,7 @@
 290,
 290,
 290,
+290,
 290
 ],
 "instructorLog": {
@@ -478,16 +481,16 @@
 },
 "instructors": [
 {
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+},
+{
 "firstName": "Heinz-Bernhard",
 "lastName": "Kraatz"
 },
 {
 "firstName": "Xiaoan",
 "lastName": "Zhang"
-},
-{
-"firstName": "Nirusha",
-"lastName": "Thavarajah"
 }
 ],
 "isCancelled": false,
@@ -586,7 +589,8 @@
 1726156528,
 1726243094,
 1726329078,
-1726417021
+1726417021,
+1726503974
 ],
 "title": "Introductory Chemistry I: Structure and Bonding"
 }
