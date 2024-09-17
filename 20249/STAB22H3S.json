@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1727240108
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -103,7 +108,24 @@
 335,
 339,
 339,
-337
+337,
+341,
+341,
+342,
+345,
+345,
+335,
+338,
+334,
+337,
+336,
+336,
+336,
+345,
+347,
+347,
+350,
+351
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,9 +153,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1727240108
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -229,7 +256,24 @@
 341,
 341,
 341,
-343
+343,
+347,
+347,
+350,
+355,
+355,
+346,
+350,
+350,
+350,
+350,
+350,
+350,
+352,
+354,
+354,
+355,
+355
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -348,7 +392,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Statistics I"
 }

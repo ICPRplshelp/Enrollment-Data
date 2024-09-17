@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 16,
 "time": 1720473937
+},
+{
+"newCapacity": 17,
+"time": 1727442454
 }
 ],
 "initialCap": 20
@@ -112,6 +116,23 @@
 16,
 16,
 16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
 16
 ],
 "instructorLog": {
@@ -140,7 +161,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -150,6 +171,10 @@
 {
 "newCapacity": 16,
 "time": 1720473937
+},
+{
+"newCapacity": 17,
+"time": 1727442454
 }
 ],
 "initialCap": 20
@@ -247,6 +272,23 @@
 16,
 16,
 16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
 16
 ],
 "instructorLog": {
@@ -275,7 +317,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -285,6 +327,10 @@
 {
 "newCapacity": 16,
 "time": 1720473937
+},
+{
+"newCapacity": 17,
+"time": 1727442454
 }
 ],
 "initialCap": 19
@@ -382,7 +428,24 @@
 16,
 16,
 16,
-16
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -410,7 +473,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -420,6 +483,10 @@
 {
 "newCapacity": 16,
 "time": 1720473937
+},
+{
+"newCapacity": 17,
+"time": 1727442454
 }
 ],
 "initialCap": 19
@@ -517,6 +584,23 @@
 16,
 16,
 16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
 16
 ],
 "instructorLog": {
@@ -545,7 +629,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -555,6 +639,10 @@
 {
 "newCapacity": 16,
 "time": 1720473937
+},
+{
+"newCapacity": 17,
+"time": 1727442454
 }
 ],
 "initialCap": 19
@@ -652,7 +740,24 @@
 16,
 16,
 16,
-16
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -787,6 +892,23 @@
 15,
 15,
 15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
 15
 ],
 "instructorLog": {
@@ -906,7 +1028,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Musical Skills III"
 }

@@ -150,13 +150,45 @@
 377,
 376,
 376,
-371
+371,
+368,
+368,
+368,
+370,
+371,
+379,
+382,
+381,
+381,
+382,
+382,
+382,
+382,
+382,
+380,
+385,
+386
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morris",
+"lastName": "Greenberg"
+}
+],
+"timing": 1727367769
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Morris",
+"lastName": "Greenberg"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -308,7 +340,24 @@
 424,
 423,
 423,
-416
+416,
+413,
+413,
+413,
+417,
+417,
+426,
+427,
+426,
+427,
+428,
+428,
+428,
+428,
+428,
+427,
+431,
+431
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -474,7 +523,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "An Introduction to Statistical Reasoning and Data Science"
 }

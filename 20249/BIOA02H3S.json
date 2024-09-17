@@ -108,7 +108,24 @@
 525,
 527,
 527,
-529
+529,
+525,
+525,
+524,
+525,
+526,
+526,
+527,
+527,
+525,
+528,
+528,
+528,
+527,
+526,
+526,
+524,
+524
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -154,14 +171,9 @@
 }
 ],
 "timing": 1724281328
-}
-]
 },
-"instructors": [
 {
-"firstName": "Christopher",
-"lastName": "Armstrong"
-},
+"instructorsAfter": [
 {
 "firstName": "Stephen",
 "lastName": "Reid"
@@ -173,6 +185,32 @@
 {
 "firstName": "Rachel",
 "lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1727799347
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
 }
 ],
 "isCancelled": false,
@@ -284,7 +322,24 @@
 537,
 539,
 539,
-536
+536,
+539,
+539,
+539,
+540,
+540,
+538,
+539,
+540,
+542,
+541,
+541,
+541,
+541,
+540,
+540,
+538,
+538
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -330,6 +385,27 @@
 }
 ],
 "timing": 1724281328
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1727799347
 }
 ]
 },
@@ -339,16 +415,16 @@
 "lastName": "Sturge"
 },
 {
-"firstName": "Christopher",
-"lastName": "Armstrong"
-},
-{
 "firstName": "Stephen",
 "lastName": "Reid"
 },
 {
 "firstName": "Ivana",
 "lastName": "Stehlik"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
 }
 ],
 "isCancelled": false,
@@ -464,7 +540,24 @@
 538,
 538,
 538,
-539
+539,
+537,
+537,
+538,
+539,
+539,
+538,
+538,
+536,
+538,
+537,
+537,
+537,
+537,
+535,
+535,
+534,
+534
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -489,14 +582,9 @@
 }
 ],
 "timing": 1724281328
-}
-]
 },
-"instructors": [
 {
-"firstName": "Christopher",
-"lastName": "Armstrong"
-},
+"instructorsAfter": [
 {
 "firstName": "Stephen",
 "lastName": "Reid"
@@ -508,6 +596,32 @@
 {
 "firstName": "Rachel",
 "lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1727799347
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
 }
 ],
 "isCancelled": false,
@@ -607,7 +721,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

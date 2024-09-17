@@ -150,13 +150,45 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+25,
+26,
+30,
+32,
+32,
+32,
+32,
+32,
+32,
+35,
+36,
+36,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Saunders"
+}
+],
+"timing": 1727240108
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Saunders"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -308,7 +340,24 @@
 72,
 71,
 71,
-72
+72,
+71,
+71,
+71,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -474,7 +523,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Management Science Modeling with Spreadsheets"
 }

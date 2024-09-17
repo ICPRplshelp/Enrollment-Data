@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1727442454
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -150,7 +155,24 @@
 22,
 23,
 23,
-23
+23,
+23,
+23,
+23,
+23,
+23,
+24,
+24,
+24,
+21,
+21,
+21,
+21,
+22,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,9 +200,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1727442454
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -321,6 +348,23 @@
 22,
 21,
 21,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+23,
+23,
+23,
+23,
+23,
+23,
+23,
+22,
+22,
 22,
 22,
 22
@@ -489,7 +533,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Experimental learning in PCJ"
 }

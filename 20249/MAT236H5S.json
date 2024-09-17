@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1727799347
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -103,22 +108,59 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+64,
+70,
+70,
+78,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas Thomas",
+"lastName": "Fleming"
+}
+],
+"timing": 1727921830
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicholas Thomas",
+"lastName": "Fleming"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1727799347
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -214,7 +256,24 @@
 225,
 226,
 226,
-227
+227,
+227,
+227,
+227,
+227,
+226,
+227,
+225,
+225,
+224,
+224,
+224,
+224,
+161,
+157,
+157,
+151,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -333,7 +392,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Vector Calculus"
 }

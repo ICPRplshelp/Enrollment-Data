@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1727367769
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -103,7 +108,24 @@
 50,
 50,
 50,
-49
+49,
+46,
+46,
+42,
+43,
+42,
+42,
+43,
+43,
+41,
+41,
+41,
+41,
+39,
+38,
+38,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -116,9 +138,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1727367769
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -214,22 +241,59 @@
 53,
 54,
 54,
-54
+54,
+50,
+50,
+46,
+48,
+47,
+46,
+48,
+46,
+48,
+48,
+48,
+48,
+49,
+48,
+48,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leon",
+"lastName": "Lu"
+}
+],
+"timing": 1727303562
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leon",
+"lastName": "Lu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1727367769
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -325,7 +389,24 @@
 55,
 55,
 55,
-55
+55,
+53,
+53,
+48,
+49,
+48,
+48,
+49,
+45,
+44,
+45,
+45,
+45,
+46,
+47,
+47,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -353,9 +434,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1727367769
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -451,7 +537,24 @@
 59,
 59,
 59,
-59
+59,
+56,
+56,
+53,
+54,
+53,
+53,
+54,
+51,
+51,
+50,
+50,
+50,
+48,
+48,
+48,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -570,7 +673,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Web Development and Design I"
 }

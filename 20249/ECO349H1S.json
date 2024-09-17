@@ -150,13 +150,45 @@
 69,
 69,
 69,
-69
+69,
+68,
+68,
+68,
+68,
+68,
+63,
+63,
+64,
+64,
+64,
+64,
+64,
+63,
+64,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
+"timing": 1727303562
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Georgopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -308,13 +340,45 @@
 37,
 37,
 37,
-35
+35,
+35,
+35,
+35,
+34,
+34,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+31,
+31,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "D'Souza"
+}
+],
+"timing": 1727303562
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "D'Souza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -466,13 +530,45 @@
 33,
 33,
 33,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
+"timing": 1727303562
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -617,7 +713,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Money, Banking and Financial Markets"
 }

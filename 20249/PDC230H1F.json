@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1727240108
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -150,7 +155,24 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,9 +200,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1727240108
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -323,7 +350,24 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+15,
+15,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -351,9 +395,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1727240108
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -496,7 +545,24 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -524,9 +590,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1727240108
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -669,7 +740,24 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -697,9 +785,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1727240108
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -842,7 +935,24 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -870,9 +980,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1727240108
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -1015,7 +1130,24 @@
 1,
 1,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+36,
+41,
+48,
+48,
+47,
+47,
+47,
+47,
+47,
+47,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1181,7 +1313,24 @@
 1726243094,
 1726329078,
 1726417021,
-1726503974
+1726503974,
+1726537372,
+1726547100,
+1726580689,
+1726675339,
+1726712241,
+1727240108,
+1727303562,
+1727367769,
+1727442454,
+1727575406,
+1727630138,
+1727676926,
+1727799347,
+1727921830,
+1727960635,
+1728078921,
+1728180413
 ],
 "title": "Arts & Science Internship Program - Maximizing Your Experience"
 }
