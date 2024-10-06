@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1729295367
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -120,13 +125,42 @@
 144,
 144,
 144,
-144
+144,
+144,
+146,
+145,
+146,
+147,
+147,
+147,
+149,
+146,
+145,
+145,
+145,
+145,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ROSHAYA",
+"lastName": "RODNESS (NOUTORID)"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ROSHAYA",
+"lastName": "RODNESS (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -241,7 +275,21 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742,
+1729295367,
+1729355566,
+1729438213,
+1729519983
 ],
 "title": "How to Read a Film"
 }

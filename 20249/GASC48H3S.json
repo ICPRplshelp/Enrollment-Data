@@ -1,0 +1,46 @@
+{
+"code": "GASC48H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1729519983,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
+}
+],
+"timing": 1729519983
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sanchia",
+"lastName": "deSouza"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1729519982,
+1729519983
+],
+"title": "Partition in South Asia"
+}
