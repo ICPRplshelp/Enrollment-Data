@@ -120,7 +120,23 @@
 61,
 61,
 61,
-61
+61,
+61,
+61,
+61,
+62,
+62,
+62,
+62,
+62,
+62,
+61,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,13 +279,44 @@
 50,
 50,
 50,
-50
+50,
+50,
+50,
+53,
+52,
+51,
+51,
+51,
+52,
+52,
+53,
+58,
+58,
+58,
+60,
+60,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -391,13 +438,44 @@
 58,
 58,
 59,
-59
+59,
+59,
+60,
+59,
+58,
+60,
+60,
+60,
+60,
+60,
+60,
+59,
+59,
+59,
+59,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -519,7 +597,23 @@
 62,
 62,
 62,
-62
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+60,
+60,
+60,
+60,
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,7 +756,23 @@
 58,
 58,
 58,
-58
+58,
+58,
+58,
+58,
+59,
+59,
+59,
+59,
+60,
+60,
+60,
+60,
+60,
+60,
+59,
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -696,6 +806,22 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -926,7 +1052,23 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742,
+1729295367,
+1729355566,
+1729438213,
+1729519983,
+1729607146,
+1729723779
 ],
 "title": "Human Resource Management"
 }

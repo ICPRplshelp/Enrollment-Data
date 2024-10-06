@@ -1,0 +1,46 @@
+{
+"code": "HISD16H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1729723779,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anup",
+"lastName": "Grewal"
+}
+],
+"timing": 1729723779
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anup",
+"lastName": "Grewal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1729723778,
+1729723779
+],
+"title": "Socialist Feminism in Global Context"
+}

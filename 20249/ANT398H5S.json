@@ -1,0 +1,70 @@
+{
+"code": "ANT398H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1728572427,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Esteban",
+"lastName": "Parra"
+}
+],
+"timing": 1728702140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Esteban",
+"lastName": "Parra"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1728572426,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742,
+1729295367,
+1729355566,
+1729438213,
+1729519983,
+1729607146,
+1729723779
+],
+"title": "Independent Reading"
+}
