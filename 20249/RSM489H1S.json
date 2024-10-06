@@ -1,0 +1,60 @@
+{
+"code": "RSM489H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1730994050,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+14,
+14,
+14,
+14,
+15,
+15,
+15
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
+"timing": 1731108570
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bernardo",
+"lastName": "Blum"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1730994049,
+1730994050,
+1731108570,
+1731177883,
+1731260563,
+1731338409,
+1731420882,
+1731542060,
+1731593778
+],
+"title": "Business Abroad-International Experiential Learning"
+}

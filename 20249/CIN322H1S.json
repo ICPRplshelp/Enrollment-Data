@@ -1,0 +1,43 @@
+{
+"code": "CIN322H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1731108570,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+22,
+22,
+22,
+21,
+22,
+21,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1731108569,
+1731108570,
+1731177883,
+1731260563,
+1731338409,
+1731420882,
+1731542060,
+1731593778
+],
+"title": "Cult Cinema"
+}

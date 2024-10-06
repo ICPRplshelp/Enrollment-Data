@@ -1,0 +1,86 @@
+{
+"code": "NMC497H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1729723779,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohamad",
+"lastName": "Tavakoli-Targhi"
+}
+],
+"timing": 1730937583
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mohamad",
+"lastName": "Tavakoli-Targhi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1729723778,
+1729723779,
+1729900670,
+1730042827,
+1730125002,
+1730212653,
+1730393055,
+1730501706,
+1730564566,
+1730665658,
+1730733722,
+1730783142,
+1730821884,
+1730937583,
+1730994050,
+1731108570,
+1731177883,
+1731260563,
+1731338409,
+1731420882,
+1731542060,
+1731593778
+],
+"title": "Independent Studies"
+}
