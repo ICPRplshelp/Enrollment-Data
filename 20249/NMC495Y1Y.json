@@ -57,6 +57,16 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -81,6 +91,96 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1729118353,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Miguel Angel",
+"lastName": "Andres Toledo"
+}
+],
+"timing": 1729118353
+}
+]
+},
+"instructors": [
+{
+"firstName": "Miguel Angel",
+"lastName": "Andres Toledo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -130,7 +230,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "Independent Studies"
 }

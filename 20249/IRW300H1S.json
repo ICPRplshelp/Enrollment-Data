@@ -1,0 +1,43 @@
+{
+"code": "IRW300H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1728572427,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+23,
+23,
+23,
+26,
+27,
+27
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1728572426,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
+],
+"title": "Effective Communication and Strategic Writing in Organizations"
+}

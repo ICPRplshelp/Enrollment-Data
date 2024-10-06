@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 220,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 220,
+"time": 1729118353
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -167,7 +172,17 @@
 238,
 236,
 236,
-236
+236,
+236,
+236,
+236,
+236,
+238,
+238,
+238,
+237,
+234,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -350,7 +365,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "World Religions"
 }

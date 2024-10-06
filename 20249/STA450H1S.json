@@ -5,12 +5,27 @@
 {
 "createdAt": 1725023693,
 "delivery": "SYNC",
-"enrollmentCap": 40,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1728572427
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -55,7 +70,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -97,7 +112,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "Topics in Statistics"
 }

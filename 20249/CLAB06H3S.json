@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 62,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 62,
 "time": 1722576376
+},
+{
+"newCapacity": 63,
+"time": 1729118353
 }
 ],
 "initialCap": 60
@@ -125,7 +129,17 @@
 63,
 63,
 63,
-63
+63,
+63,
+62,
+62,
+63,
+63,
+63,
+63,
+63,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,7 +275,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "History and Culture of the Roman World"
 }

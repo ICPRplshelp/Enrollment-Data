@@ -125,6 +125,16 @@
 93,
 93,
 93,
+93,
+93,
+93,
+93,
+93,
+93,
+93,
+93,
+93,
+93,
 93
 ],
 "instructorLog": {
@@ -138,13 +148,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Fatemeh",
+"lastName": "Jazinizadeh"
+}
+],
+"timing": 1729118353
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Pierre",
-"lastName": "Sullivan"
+"firstName": "Fatemeh",
+"lastName": "Jazinizadeh"
 }
 ],
 "isCancelled": false,
@@ -277,7 +296,17 @@
 102,
 102,
 102,
-102
+102,
+102,
+101,
+101,
+101,
+101,
+101,
+101,
+101,
+101,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -425,7 +454,17 @@
 132,
 132,
 131,
-131
+131,
+131,
+130,
+131,
+131,
+130,
+130,
+130,
+130,
+129,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -562,6 +601,16 @@
 107,
 106,
 106,
+105,
+105,
+105,
+105,
+105,
+105,
+105,
+105,
+105,
+105,
 105,
 105,
 105,
@@ -710,13 +759,38 @@
 172,
 172,
 172,
+172,
+172,
+172,
+172,
+172,
+172,
+172,
+172,
+172,
+172,
 172
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fatemeh",
+"lastName": "Jazinizadeh"
+}
+],
+"timing": 1729118353
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fatemeh",
+"lastName": "Jazinizadeh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -832,6 +906,16 @@
 88,
 88,
 88,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
+85,
 85,
 85,
 85,
@@ -964,7 +1048,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "Dynamics"
 }

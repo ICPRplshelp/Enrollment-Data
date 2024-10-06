@@ -120,13 +120,38 @@
 88,
 88,
 88,
-88
+88,
+88,
+88,
+88,
+87,
+82,
+82,
+82,
+83,
+85,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ben",
+"lastName": "Tsang"
+}
+],
+"timing": 1729118353
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ben",
+"lastName": "Tsang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +266,17 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427,
+1728702140,
+1728747796,
+1728839017,
+1729004244,
+1729118353,
+1729171742
 ],
 "title": "Animal Behaviour"
 }
