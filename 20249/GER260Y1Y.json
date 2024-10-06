@@ -167,6 +167,10 @@
 7,
 7,
 7,
+7,
+7,
+7,
+7,
 7
 ],
 "instructorLog": {
@@ -184,6 +188,19 @@
 }
 ],
 "timing": 1721142286
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Miriam",
+"lastName": "Schwartz"
+},
+{
+"firstName": "Jacob",
+"lastName": "Hermant"
+}
+],
+"timing": 1728572427
 }
 ]
 },
@@ -193,8 +210,8 @@
 "lastName": "Schwartz"
 },
 {
-"firstName": "Sophie",
-"lastName": "Edelhart"
+"firstName": "Jacob",
+"lastName": "Hermant"
 }
 ],
 "isCancelled": false,
@@ -358,7 +375,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Elementary Yiddish"
 }

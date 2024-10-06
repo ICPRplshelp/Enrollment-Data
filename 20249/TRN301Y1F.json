@@ -167,13 +167,32 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Leanne Erin",
+"lastName": "Simpson"
+}
+],
+"timing": 1728392227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Leanne Erin",
+"lastName": "Simpson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -335,7 +354,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Trinity Independent Studies"
 }

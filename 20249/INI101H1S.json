@@ -167,6 +167,10 @@
 37,
 37,
 37,
+37,
+37,
+37,
+37,
 37
 ],
 "instructorLog": {
@@ -180,13 +184,22 @@
 }
 ],
 "timing": 1723218962
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hamutal",
+"lastName": "Dotan"
+}
+],
+"timing": 1728572427
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Shawn",
-"lastName": "Micallef"
+"firstName": "Hamutal",
+"lastName": "Dotan"
 }
 ],
 "isCancelled": false,
@@ -350,7 +363,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Blogging the Just City"
 }

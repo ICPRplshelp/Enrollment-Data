@@ -120,13 +120,32 @@
 39,
 39,
 41,
-41
+41,
+41,
+43,
+46,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Elkaim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -248,13 +267,32 @@
 40,
 40,
 40,
-40
+40,
+40,
+41,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Walter",
+"lastName": "Villanueva"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Walter",
+"lastName": "Villanueva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -376,13 +414,32 @@
 47,
 47,
 47,
-47
+47,
+47,
+47,
+49,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Niyosha",
+"lastName": "Keyzad"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Niyosha",
+"lastName": "Keyzad"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -504,13 +561,32 @@
 48,
 46,
 45,
-45
+45,
+45,
+46,
+49,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Bennett"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Bennett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 },
@@ -632,13 +708,32 @@
 40,
 39,
 39,
-39
+39,
+39,
+40,
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Deanna",
+"lastName": "Brook's"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Deanna",
+"lastName": "Brook's"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 }
@@ -753,7 +848,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Critical Writing About Literature"
 }

@@ -120,7 +120,11 @@
 94,
 94,
 94,
-94
+94,
+94,
+94,
+83,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,7 +267,11 @@
 95,
 94,
 95,
-95
+95,
+95,
+95,
+83,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -276,13 +284,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bilal Majed",
+"lastName": "Taha"
+}
+],
+"timing": 1728392227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lisa Chenxue",
-"lastName": "Zhang"
+"firstName": "Bilal Majed",
+"lastName": "Taha"
 }
 ],
 "isCancelled": false,
@@ -406,7 +423,11 @@
 96,
 96,
 97,
-97
+97,
+97,
+97,
+87,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -549,7 +570,11 @@
 99,
 98,
 98,
-98
+98,
+98,
+98,
+88,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -692,13 +717,32 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
+"timing": 1728392227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 }
@@ -813,7 +857,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Introduction to Machine Learning"
 }

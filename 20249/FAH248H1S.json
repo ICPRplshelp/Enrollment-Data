@@ -58,13 +58,32 @@
 14,
 15,
 15,
+15,
+15,
+16,
+16,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -139,7 +158,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Canadian Painting 1665-1960"
 }

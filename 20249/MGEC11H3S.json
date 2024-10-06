@@ -120,6 +120,10 @@
 48,
 48,
 48,
+47,
+47,
+47,
+47,
 47
 ],
 "instructorLog": {
@@ -248,13 +252,32 @@
 49,
 49,
 49,
+49,
+49,
+48,
+48,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Yu"
+}
+],
+"timing": 1728572427
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Victor",
+"lastName": "Yu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -369,7 +392,11 @@
 1727921830,
 1727960635,
 1728078921,
-1728180413
+1728180413,
+1728234013,
+1728311758,
+1728392227,
+1728572427
 ],
 "title": "Introduction to Regression Analysis"
 }
