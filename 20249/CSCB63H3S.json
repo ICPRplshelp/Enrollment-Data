@@ -156,13 +156,48 @@
 120,
 119,
 120,
-120
+120,
+120,
+120,
+120,
+120,
+119,
+122,
+120,
+120,
+120,
+120,
+120,
+120,
+118,
+117,
+119,
+119,
+119,
+116,
+114,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Albert Yu Cheong",
+"lastName": "Lai"
+}
+],
+"timing": 1733239362
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Albert Yu Cheong",
+"lastName": "Lai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -320,13 +355,48 @@
 114,
 114,
 115,
-115
+115,
+114,
+114,
+114,
+114,
+115,
+112,
+113,
+112,
+112,
+112,
+111,
+109,
+110,
+110,
+109,
+109,
+109,
+111,
+113,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1732751971
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -477,7 +547,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Design and Analysis of Data Structures"
 }

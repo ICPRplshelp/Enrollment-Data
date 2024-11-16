@@ -203,7 +203,27 @@
 83,
 82,
 83,
-83
+83,
+83,
+83,
+83,
+85,
+85,
+85,
+86,
+86,
+86,
+86,
+84,
+83,
+81,
+81,
+81,
+81,
+81,
+82,
+82,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -429,13 +449,48 @@
 66,
 65,
 66,
-66
+66,
+66,
+66,
+66,
+66,
+66,
+68,
+67,
+70,
+70,
+70,
+68,
+66,
+62,
+62,
+62,
+62,
+62,
+63,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Will",
+"lastName": "Huggon"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Will",
+"lastName": "Huggon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -640,13 +695,48 @@
 71,
 70,
 72,
-72
+72,
+72,
+72,
+72,
+71,
+71,
+70,
+70,
+70,
+70,
+70,
+69,
+67,
+67,
+67,
+66,
+66,
+66,
+67,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vignash",
+"lastName": "Tharmaratnam"
+}
+],
+"timing": 1732151440
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vignash",
+"lastName": "Tharmaratnam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -844,7 +934,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Positive Psychology"
 }

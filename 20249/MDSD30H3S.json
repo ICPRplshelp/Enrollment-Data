@@ -1,0 +1,33 @@
+{
+"code": "MDSD30H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1733239362,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1733239361,
+1733239362,
+1733324289
+],
+"title": "Senior Seminar: Topics in Media and Institutions"
+}

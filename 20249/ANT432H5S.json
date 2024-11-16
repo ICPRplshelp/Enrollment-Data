@@ -1,0 +1,33 @@
+{
+"code": "ANT432H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1733239362,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1733239361,
+1733239362,
+1733324289
+],
+"title": "Advanced Seminar in Biological Anthropology and Archaeology"
+}

@@ -1,0 +1,59 @@
+{
+"code": "ARC491H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1732151440,
+"delivery": "INPER",
+"enrollmentCap": 28,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 28
+},
+"enrollmentLogs": [
+0,
+0,
+3,
+5,
+5,
+5,
+5,
+5,
+6,
+7,
+8,
+8,
+8,
+8,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1732151439,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
+],
+"title": "Multidisciplinary Capstone Design Seminar"
+}

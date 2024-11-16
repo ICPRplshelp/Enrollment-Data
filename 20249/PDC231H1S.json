@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 13,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 13,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -203,7 +208,27 @@
 13,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+13,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,9 +256,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -429,7 +459,27 @@
 12,
 12,
 12,
-12
+12,
+12,
+12,
+12,
+12,
+12,
+6,
+6,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,9 +507,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -655,7 +710,27 @@
 13,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -683,9 +758,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -881,7 +961,27 @@
 9,
 9,
 9,
-9
+9,
+9,
+9,
+9,
+9,
+9,
+7,
+7,
+7,
+7,
+7,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1107,7 +1207,27 @@
 7,
 7,
 7,
-7
+7,
+7,
+7,
+7,
+7,
+7,
+6,
+6,
+6,
+6,
+6,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1135,9 +1255,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1732151440
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -1333,7 +1458,27 @@
 34,
 34,
 34,
-34
+34,
+34,
+34,
+34,
+35,
+35,
+38,
+38,
+38,
+38,
+38,
+40,
+42,
+42,
+42,
+43,
+43,
+43,
+43,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1552,7 +1697,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }

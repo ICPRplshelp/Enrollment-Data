@@ -1,0 +1,74 @@
+{
+"code": "VIS404H1F",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1732151440,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"timing": 1732151440
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1732151439,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
+],
+"title": "Independent Studies"
+}

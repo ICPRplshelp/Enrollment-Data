@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -203,7 +208,27 @@
 8,
 8,
 8,
-8
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -231,9 +256,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1732151440
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -429,7 +459,27 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+30,
+30,
+31,
+32,
+32,
+32,
+32,
+32,
+32,
+33,
+34,
+34,
+35,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,9 +507,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1732151440
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -655,7 +710,27 @@
 11,
 11,
 11,
-11
+11,
+11,
+11,
+11,
+11,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -881,7 +956,27 @@
 21,
 21,
 21,
-21
+21,
+21,
+21,
+21,
+22,
+22,
+23,
+23,
+23,
+23,
+23,
+23,
+24,
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1100,7 +1195,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Arts & Science Internship Program - Professional Skill Development II"
 }

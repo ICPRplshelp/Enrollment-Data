@@ -156,7 +156,27 @@
 221,
 220,
 221,
-221
+221,
+220,
+220,
+220,
+217,
+217,
+217,
+215,
+212,
+212,
+212,
+210,
+205,
+203,
+202,
+205,
+205,
+205,
+200,
+197,
+197
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,13 +355,48 @@
 237,
 235,
 234,
-234
+234,
+232,
+232,
+232,
+231,
+231,
+230,
+230,
+227,
+227,
+227,
+227,
+221,
+217,
+215,
+214,
+214,
+214,
+210,
+205,
+203
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
+"timing": 1732751971
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -499,7 +554,27 @@
 209,
 207,
 206,
-206
+206,
+205,
+205,
+205,
+205,
+204,
+202,
+202,
+199,
+199,
+199,
+199,
+198,
+197,
+196,
+196,
+196,
+196,
+196,
+194,
+192
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -534,13 +609,22 @@
 }
 ],
 "timing": 1722956852
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1732751971
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Tvalavadze"
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
 }
 ],
 "isCancelled": false,
@@ -700,13 +784,48 @@
 23,
 25,
 28,
-28
+28,
+31,
+31,
+31,
+33,
+33,
+33,
+34,
+35,
+35,
+35,
+37,
+40,
+41,
+41,
+43,
+43,
+43,
+44,
+45,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1732751971
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -857,7 +976,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Integral Calculus for Life Sciences"
 }

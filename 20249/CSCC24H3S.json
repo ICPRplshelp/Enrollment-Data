@@ -156,13 +156,48 @@
 98,
 97,
 97,
-97
+97,
+97,
+97,
+97,
+97,
+97,
+97,
+97,
+98,
+98,
+98,
+100,
+99,
+100,
+100,
+101,
+101,
+101,
+101,
+100,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1732751971
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -320,13 +355,48 @@
 61,
 61,
 61,
-61
+61,
+60,
+60,
+60,
+60,
+59,
+58,
+59,
+58,
+58,
+58,
+58,
+57,
+58,
+57,
+56,
+56,
+56,
+56,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1732751971
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -477,7 +547,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Principles of Programming Languages"
 }

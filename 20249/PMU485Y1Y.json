@@ -156,7 +156,27 @@
 49,
 49,
 49,
-49
+49,
+44,
+44,
+44,
+44,
+44,
+29,
+22,
+15,
+15,
+15,
+15,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -175,6 +195,26 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -339,6 +379,26 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -663,7 +723,27 @@
 0,
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -697,6 +777,26 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1021,6 +1121,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1200,7 +1320,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1234,6 +1374,26 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1558,7 +1718,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1592,6 +1772,26 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1916,6 +2116,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2095,13 +2315,48 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lynda",
+"lastName": "Metelsky"
+}
+],
+"timing": 1732318918
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lynda",
+"lastName": "Metelsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1011"
 },
@@ -2259,7 +2514,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2293,6 +2568,26 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -2617,6 +2912,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2796,13 +3111,48 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Tahara"
+}
+],
+"timing": 1732640029
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Tahara"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1015"
 },
@@ -2960,7 +3310,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -3139,6 +3509,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -3152,12 +3542,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -3482,6 +3897,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -3646,6 +4081,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -3659,12 +4114,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -3838,12 +4318,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -4017,9 +4522,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -4168,7 +4678,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -4196,12 +4726,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -4526,6 +5081,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -4554,12 +5129,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -4884,6 +5484,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -4912,9 +5532,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -5063,7 +5688,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -5091,12 +5736,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -5429,6 +6099,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -5442,12 +6132,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -5621,12 +6336,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -5800,9 +6540,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -5951,7 +6696,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6130,6 +6895,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -6143,12 +6928,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -6322,12 +7132,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -6501,9 +7336,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -6652,7 +7492,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -6831,6 +7691,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -6844,12 +7724,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -7174,6 +8079,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -7187,12 +8112,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -7366,12 +8316,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -7704,6 +8679,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -7717,12 +8712,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -8047,6 +9067,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -8075,12 +9115,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -8405,6 +9470,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -8418,12 +9503,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -8597,12 +9707,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -8776,12 +9911,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -8955,12 +10115,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -9134,9 +10319,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -9285,7 +10475,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -9464,6 +10674,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -9477,12 +10707,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -9656,9 +10911,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -9807,7 +11067,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -9986,6 +11266,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -9999,12 +11299,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -10178,9 +11503,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -10329,7 +11659,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -10357,12 +11707,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -10536,9 +11911,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -10687,7 +12067,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -10866,6 +12266,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -10879,9 +12299,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -11030,7 +12455,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -11209,6 +12654,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -11222,9 +12687,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -11373,7 +12843,27 @@
 0,
 0,
 0,
-0
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -11407,6 +12897,26 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -11716,6 +13226,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -11729,12 +13259,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -11908,9 +13463,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -12059,7 +13619,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -12087,9 +13667,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -12238,7 +13823,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -12417,6 +14022,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -12430,9 +14055,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -12581,7 +14211,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -12615,6 +14265,26 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -12924,6 +14594,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -12937,9 +14627,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -13088,7 +14783,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -13116,12 +14831,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -13295,9 +15035,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -13446,7 +15191,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -13474,9 +15239,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -13625,7 +15395,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -13812,6 +15602,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -13825,12 +15635,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -14155,6 +15990,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -14319,7 +16174,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -14498,6 +16373,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -14511,12 +16406,37 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -14690,9 +16610,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -14841,7 +16766,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -14869,9 +16814,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -15020,7 +16970,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -15048,9 +17018,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -15199,7 +17174,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -15227,12 +17222,37 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -15406,9 +17426,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732206162
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -15557,7 +17582,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -15585,12 +17630,37 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -15764,9 +17834,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -15915,7 +17990,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -15949,6 +18044,26 @@
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -16273,6 +18388,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -16301,9 +18436,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -16452,7 +18592,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -16480,9 +18640,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732640029
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -16631,7 +18796,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -16659,12 +18844,37 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -16846,9 +19056,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1731718508
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -16997,7 +19212,27 @@
 0,
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -17033,9 +19268,14 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -17184,7 +19424,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -17220,12 +19480,37 @@
 {
 "createdAt": 1729295367,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732318918
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -17558,6 +19843,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -17571,9 +19876,14 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -17722,7 +20032,27 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -17766,12 +20096,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -17961,12 +20316,37 @@
 {
 "createdAt": 1728572427,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1732151440
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -18292,7 +20672,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Applied Music & Recital"
 }

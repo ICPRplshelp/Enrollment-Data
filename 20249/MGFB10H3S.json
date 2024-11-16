@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1731718508
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -156,7 +161,27 @@
 66,
 68,
 69,
-69
+69,
+67,
+67,
+67,
+65,
+63,
+62,
+63,
+63,
+63,
+63,
+63,
+64,
+63,
+64,
+62,
+62,
+62,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -184,9 +209,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1731718508
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -335,7 +365,27 @@
 78,
 78,
 80,
-80
+80,
+79,
+79,
+79,
+80,
+80,
+79,
+78,
+78,
+78,
+78,
+77,
+76,
+76,
+75,
+76,
+76,
+76,
+74,
+74,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -363,9 +413,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1731718508
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -514,7 +569,27 @@
 77,
 78,
 76,
-76
+76,
+75,
+75,
+75,
+77,
+76,
+74,
+74,
+74,
+74,
+74,
+73,
+73,
+73,
+74,
+74,
+74,
+74,
+72,
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -542,9 +617,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1731718508
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -693,7 +773,27 @@
 81,
 81,
 82,
-82
+82,
+79,
+79,
+79,
+78,
+76,
+77,
+77,
+77,
+77,
+77,
+76,
+76,
+75,
+75,
+75,
+75,
+75,
+73,
+72,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -721,9 +821,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1731718508
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -872,7 +977,27 @@
 69,
 71,
 71,
-71
+71,
+68,
+68,
+68,
+67,
+66,
+65,
+63,
+64,
+64,
+64,
+64,
+63,
+63,
+64,
+61,
+61,
+61,
+63,
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1044,7 +1169,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Principles of Finance"
 }

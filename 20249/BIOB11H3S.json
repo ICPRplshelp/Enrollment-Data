@@ -156,7 +156,27 @@
 532,
 532,
 533,
-533
+533,
+524,
+524,
+524,
+520,
+517,
+515,
+516,
+514,
+514,
+514,
+511,
+508,
+508,
+508,
+505,
+505,
+505,
+504,
+504,
+503
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -184,9 +204,14 @@
 {
 "createdAt": 1723817027,
 "delivery": "ASYNC",
-"enrollmentCap": 150,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1731718508
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -335,13 +360,48 @@
 164,
 167,
 168,
-169
+169,
+170,
+170,
+170,
+175,
+175,
+175,
+176,
+175,
+175,
+175,
+179,
+180,
+182,
+182,
+184,
+184,
+184,
+185,
+185,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
+"timing": 1733324289
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Bell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -492,7 +552,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Molecular Aspects of Cellular and Genetic Processes"
 }

@@ -156,13 +156,48 @@
 59,
 59,
 60,
-60
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+61,
+61,
+61,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -320,13 +355,48 @@
 95,
 95,
 94,
-94
+94,
+95,
+95,
+95,
+95,
+95,
+94,
+94,
+94,
+94,
+94,
+94,
+94,
+93,
+93,
+92,
+92,
+92,
+92,
+92,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -484,13 +554,48 @@
 99,
 99,
 99,
-99
+99,
+98,
+98,
+98,
+98,
+98,
+97,
+98,
+96,
+96,
+96,
+96,
+97,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mike",
+"lastName": "Xue"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -641,7 +746,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Engineering Economic Analysis & Entrepreneurship"
 }

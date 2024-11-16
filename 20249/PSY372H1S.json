@@ -203,7 +203,27 @@
 62,
 62,
 63,
-64
+64,
+64,
+64,
+64,
+64,
+64,
+63,
+63,
+63,
+63,
+63,
+63,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+57,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -216,13 +236,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
+"timing": 1732151440
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Morgan",
-"lastName": "Barense"
+"firstName": "Moaz",
+"lastName": "Shoura"
 }
 ],
 "isCancelled": false,
@@ -429,13 +458,48 @@
 63,
 63,
 62,
-62
+62,
+62,
+62,
+62,
+62,
+62,
+61,
+61,
+61,
+61,
+61,
+60,
+59,
+59,
+59,
+61,
+61,
+61,
+62,
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -640,13 +704,48 @@
 59,
 59,
 58,
-58
+58,
+59,
+59,
+59,
+60,
+59,
+58,
+58,
+58,
+58,
+58,
+57,
+57,
+57,
+57,
+57,
+57,
+57,
+57,
+53,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nelly",
+"lastName": "Matorina"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nelly",
+"lastName": "Matorina"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -844,7 +943,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Human Memory"
 }

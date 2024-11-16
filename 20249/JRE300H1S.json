@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 82,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 82,
+"time": 1732033133
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -156,7 +161,27 @@
 90,
 90,
 90,
-90
+90,
+91,
+91,
+91,
+90,
+89,
+89,
+90,
+91,
+91,
+91,
+92,
+92,
+93,
+94,
+92,
+92,
+92,
+91,
+91,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -169,13 +194,30 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Patterson"
+},
+{
+"firstName": "Kevin",
+"lastName": "Mott"
+}
+],
+"timing": 1731718508
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Scott",
-"lastName": "Douglas"
+"firstName": "Kate",
+"lastName": "Patterson"
+},
+{
+"firstName": "Kevin",
+"lastName": "Mott"
 }
 ],
 "isCancelled": false,
@@ -184,9 +226,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 82,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 82,
+"time": 1732033133
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -335,7 +382,27 @@
 89,
 89,
 87,
-87
+87,
+88,
+88,
+88,
+87,
+85,
+86,
+86,
+88,
+88,
+88,
+89,
+89,
+92,
+93,
+92,
+92,
+92,
+91,
+91,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -348,13 +415,30 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Patterson"
+},
+{
+"firstName": "Kevin",
+"lastName": "Mott"
+}
+],
+"timing": 1731718508
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Scott",
-"lastName": "Douglas"
+"firstName": "Kate",
+"lastName": "Patterson"
+},
+{
+"firstName": "Kevin",
+"lastName": "Mott"
 }
 ],
 "isCancelled": false,
@@ -514,13 +598,56 @@
 88,
 87,
 86,
-86
+86,
+87,
+87,
+87,
+86,
+74,
+75,
+75,
+77,
+77,
+77,
+78,
+78,
+79,
+79,
+78,
+78,
+78,
+78,
+78,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kate",
+"lastName": "Patterson"
 },
-"instructors": [],
+{
+"firstName": "Kevin",
+"lastName": "Mott"
+}
+],
+"timing": 1731718508
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kate",
+"lastName": "Patterson"
+},
+{
+"firstName": "Kevin",
+"lastName": "Mott"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -671,7 +798,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Fundamentals of Accounting and Finance"
 }

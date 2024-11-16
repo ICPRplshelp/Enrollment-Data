@@ -87,13 +87,48 @@
 39,
 44,
 44,
-44
+44,
+44,
+44,
+44,
+44,
+44,
+46,
+46,
+48,
+48,
+48,
+47,
+46,
+47,
+48,
+47,
+47,
+47,
+46,
+49,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Wolfe"
+}
+],
+"timing": 1732151440
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nathan",
+"lastName": "Wolfe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -175,7 +210,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "utmONE: Special Topics at the Intersection of Social Science and Humanities"
 }

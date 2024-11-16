@@ -156,13 +156,48 @@
 99,
 99,
 100,
-101
+101,
+101,
+101,
+101,
+101,
+101,
+101,
+101,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+98,
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
+"timing": 1732318918
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kaveh",
+"lastName": "Hassani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -320,13 +355,48 @@
 98,
 98,
 97,
-97
+97,
+96,
+96,
+96,
+96,
+95,
+94,
+95,
+96,
+96,
+96,
+95,
+94,
+93,
+94,
+94,
+94,
+94,
+95,
+94,
+94
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -484,13 +554,48 @@
 73,
 73,
 73,
+73,
+73,
+73,
+73,
+73,
+74,
+74,
+74,
+75,
+75,
+75,
+75,
+74,
+74,
+74,
+73,
+73,
+73,
+72,
+73,
 73
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
+"timing": 1731718508
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Justin",
+"lastName": "Beland"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -641,7 +746,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Applied Fundamentals of Deep Learning"
 }

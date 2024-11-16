@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 51,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 51,
+"time": 1732151440
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -202,6 +207,26 @@
 50,
 50,
 50,
+50,
+50,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
 50,
 50
 ],
@@ -429,6 +454,26 @@
 60,
 60,
 60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+61,
+61,
+61,
+62,
+62,
+61,
+61,
+61,
+61,
+61,
+61,
+60,
 60
 ],
 "instructorLog": {
@@ -457,9 +502,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1732151440
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -655,7 +705,27 @@
 47,
 47,
 47,
-47
+47,
+47,
+47,
+47,
+47,
+47,
+48,
+48,
+49,
+49,
+49,
+48,
+47,
+47,
+49,
+49,
+49,
+49,
+49,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -683,9 +753,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1732151440
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -880,6 +955,26 @@
 40,
 40,
 40,
+39,
+39,
+38,
+38,
+38,
+38,
+38,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
 39,
 39
 ],
@@ -1107,7 +1202,27 @@
 43,
 43,
 44,
-44
+44,
+44,
+44,
+44,
+44,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+43,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1135,9 +1250,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 225,
+"enrollmentCap": 175,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 175,
+"time": 1732151440
+}
+],
 "initialCap": 225
 },
 "enrollmentLogs": [
@@ -1333,7 +1453,27 @@
 95,
 95,
 96,
-96
+96,
+97,
+97,
+97,
+97,
+98,
+98,
+98,
+98,
+98,
+98,
+99,
+99,
+101,
+100,
+100,
+100,
+100,
+102,
+102,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1552,7 +1692,27 @@
 1731338409,
 1731420882,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395,
+1733239362,
+1733324289
 ],
 "title": "Arts & Science Internship Program - Essential Skills for ASIP Success"
 }

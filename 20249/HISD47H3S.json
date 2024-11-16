@@ -1,6 +1,6 @@
 {
 "code": "HISD47H3S",
-"faculty": "SCAR",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1731542060,
@@ -13,13 +13,46 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paula",
+"lastName": "Hastings"
+}
+],
+"timing": 1732151440
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Paula",
+"lastName": "Hastings"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -27,7 +60,25 @@
 "timeIntervals": [
 1731542059,
 1731542060,
-1731593778
+1731593778,
+1731718508,
+1731781417,
+1731860447,
+1731945201,
+1732033133,
+1732151440,
+1732206162,
+1732318918,
+1732398325,
+1732474348,
+1732551879,
+1732640029,
+1732751971,
+1732809017,
+1732926728,
+1732982927,
+1733079101,
+1733149395
 ],
 "title": "Cold War Canada in Comparative Contexts"
 }
