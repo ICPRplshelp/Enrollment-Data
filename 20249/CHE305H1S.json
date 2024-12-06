@@ -176,13 +176,43 @@
 59,
 59,
 59,
-59
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+58,
+58,
+58,
+58,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -360,13 +390,43 @@
 61,
 61,
 61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
 61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -537,7 +597,22 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473
 ],
 "title": "Chem Eng & Applied Chem IV"
 }
