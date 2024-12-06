@@ -176,7 +176,12 @@
 68,
 68,
 67,
-66
+66,
+65,
+64,
+64,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,13 +380,33 @@
 22,
 24,
 25,
-25
+25,
+26,
+29,
+29,
+29,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ataollah",
+"lastName": "Mazaheri"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ataollah",
+"lastName": "Mazaheri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -552,7 +577,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Risk Management"
 }

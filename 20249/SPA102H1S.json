@@ -223,7 +223,12 @@
 18,
 19,
 18,
-18
+18,
+18,
+16,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,13 +474,33 @@
 31,
 32,
 33,
+33,
+32,
+33,
+33,
+33,
 33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rodrigo",
+"lastName": "Lichtle Ventosa"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rodrigo",
+"lastName": "Lichtle Ventosa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -688,6 +713,11 @@
 13,
 13,
 13,
+11,
+11,
+11,
+11,
+11,
 11,
 11,
 11,
@@ -931,7 +961,12 @@
 24,
 23,
 22,
-22
+22,
+23,
+23,
+23,
+23,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1162,7 +1197,12 @@
 32,
 32,
 32,
-32
+32,
+31,
+33,
+33,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1393,7 +1433,12 @@
 20,
 20,
 20,
-20
+20,
+20,
+21,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1624,7 +1669,12 @@
 17,
 17,
 18,
-17
+17,
+18,
+17,
+17,
+17,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1848,7 +1898,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Spanish for Beginners II"
 }

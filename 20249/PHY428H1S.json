@@ -228,6 +228,11 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -266,6 +271,14 @@
 },
 "instructors": [
 {
+"firstName": "John",
+"lastName": "Wei"
+},
+{
+"firstName": "Debra",
+"lastName": "Wunch"
+},
+{
 "firstName": "Ania",
 "lastName": "Harlick"
 },
@@ -280,14 +293,6 @@
 {
 "firstName": "Tahir",
 "lastName": "Shaaran"
-},
-{
-"firstName": "John",
-"lastName": "Wei"
-},
-{
-"firstName": "Debra",
-"lastName": "Wunch"
 }
 ],
 "isCancelled": false,
@@ -507,7 +512,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Advanced Practical Physics II"
 }

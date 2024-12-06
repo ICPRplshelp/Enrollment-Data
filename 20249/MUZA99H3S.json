@@ -185,13 +185,33 @@
 725,
 729,
 731,
-737
+737,
+739,
+747,
+747,
+747,
+751
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Quinn",
+"lastName": "Jacobs"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Quinn",
+"lastName": "Jacobs"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -362,7 +382,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Listening to Music"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 36,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -31,6 +31,10 @@
 {
 "newCapacity": 36,
 "time": 1730125002
+},
+{
+"newCapacity": 37,
+"time": 1733527692
 }
 ],
 "initialCap": 0
@@ -201,7 +205,12 @@
 36,
 36,
 36,
-36
+36,
+36,
+37,
+37,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -393,7 +402,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Music under Totalitarianism: Mechanisms of Oppression,Modes of Resistance"
 }

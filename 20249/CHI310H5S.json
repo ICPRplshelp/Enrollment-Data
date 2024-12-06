@@ -176,7 +176,12 @@
 30,
 30,
 29,
-28
+28,
+29,
+29,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -189,12 +194,22 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1733443586
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -367,7 +382,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -537,7 +552,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Chinese for Career Development"
 }

@@ -176,13 +176,33 @@
 23,
 23,
 23,
-23
+23,
+23,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Stafford"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Stafford"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -353,7 +373,12 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609
 ],
 "title": "Topics in Romanticism, 1750-1850"
 }
