@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1734132457
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -223,14 +228,49 @@
 2,
 2,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Howard",
+"lastName": "Lyons"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
-"isCancelled": false,
+"instructors": [
+{
+"firstName": "Howard",
+"lastName": "Lyons"
+}
+],
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -447,7 +487,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Advanced Pension Mathematics"
 }

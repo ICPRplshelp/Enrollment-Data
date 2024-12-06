@@ -223,7 +223,27 @@
 51,
 51,
 51,
-52
+52,
+50,
+50,
+50,
+50,
+50,
+50,
+51,
+52,
+52,
+52,
+52,
+53,
+52,
+52,
+54,
+54,
+54,
+54,
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,13 +489,48 @@
 48,
 49,
 49,
-50
+50,
+51,
+51,
+51,
+51,
+53,
+53,
+53,
+53,
+55,
+55,
+55,
+56,
+56,
+55,
+54,
+53,
+53,
+53,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -700,13 +755,48 @@
 45,
 43,
 43,
+43,
+43,
+43,
+43,
+43,
+43,
+44,
+43,
+43,
+42,
+42,
+42,
+43,
+43,
+43,
+42,
+43,
+43,
+43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -931,13 +1021,48 @@
 54,
 54,
 54,
-54
+54,
+54,
+54,
+54,
+54,
+54,
+55,
+55,
+55,
+55,
+55,
+55,
+54,
+55,
+55,
+55,
+56,
+56,
+56,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Freda",
+"lastName": "Fang"
+}
+],
+"timing": 1734565340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Freda",
+"lastName": "Fang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -1162,13 +1287,48 @@
 53,
 53,
 52,
-52
+52,
+52,
+52,
+52,
+52,
+53,
+53,
+53,
+53,
+53,
+53,
+53,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Freda",
+"lastName": "Fang"
+}
+],
+"timing": 1734565340
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Freda",
+"lastName": "Fang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -1393,7 +1553,27 @@
 57,
 57,
 56,
-56
+56,
+57,
+57,
+56,
+56,
+56,
+57,
+57,
+57,
+55,
+55,
+55,
+56,
+56,
+57,
+57,
+56,
+56,
+56,
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1639,7 +1819,27 @@
 40,
 40,
 40,
-39
+39,
+38,
+37,
+37,
+37,
+37,
+37,
+38,
+37,
+37,
+37,
+37,
+33,
+33,
+33,
+33,
+32,
+32,
+32,
+32,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1885,7 +2085,27 @@
 55,
 56,
 57,
-57
+57,
+58,
+58,
+58,
+58,
+57,
+58,
+56,
+56,
+56,
+56,
+56,
+56,
+55,
+56,
+56,
+56,
+56,
+56,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2124,7 +2344,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Corporate Finance"
 }

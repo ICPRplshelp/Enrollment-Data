@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 300,
 "time": 1733239362
+},
+{
+"newCapacity": 350,
+"time": 1734366108
 }
 ],
 "initialCap": 200
@@ -236,13 +240,48 @@
 280,
 279,
 279,
-280
+280,
+285,
+286,
+286,
+286,
+290,
+297,
+302,
+301,
+301,
+301,
+301,
+301,
+302,
+303,
+304,
+306,
+307,
+307,
+307,
+306
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Letizia",
+"lastName": "Tesi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -460,7 +499,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Italian Design: Fashion, Artistry, Genius"
 }

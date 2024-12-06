@@ -223,13 +223,48 @@
 76,
 75,
 75,
-75
+75,
+75,
+75,
+75,
+75,
+75,
+75,
+76,
+76,
+74,
+74,
+74,
+74,
+73,
+74,
+74,
+74,
+74,
+74,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
+"timing": 1734132457
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -454,13 +489,48 @@
 86,
 85,
 85,
-85
+85,
+85,
+85,
+85,
+85,
+85,
+86,
+86,
+86,
+84,
+84,
+84,
+84,
+82,
+83,
+83,
+83,
+83,
+83,
+83,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
+"timing": 1734132457
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Babineau"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -678,7 +748,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Psychopathologies of Childhood"
 }

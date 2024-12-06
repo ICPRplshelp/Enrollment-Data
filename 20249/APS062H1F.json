@@ -1,0 +1,57 @@
+{
+"code": "APS062H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1733969075,
+"delivery": "INPER",
+"enrollmentCap": 999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+48,
+120,
+120,
+120,
+120,
+120
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1733969074,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
+],
+"title": "Calculus I (APS162 transfer)"
+}

@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1734565340
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -176,7 +181,27 @@
 143,
 143,
 144,
-144
+144,
+145,
+144,
+144,
+144,
+145,
+148,
+146,
+146,
+145,
+145,
+145,
+144,
+149,
+150,
+150,
+150,
+150,
+150,
+151,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -204,9 +229,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1734565340
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -375,7 +405,27 @@
 141,
 143,
 146,
-145
+145,
+143,
+144,
+144,
+144,
+143,
+144,
+148,
+148,
+148,
+148,
+148,
+147,
+149,
+153,
+156,
+155,
+155,
+155,
+153,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -403,9 +453,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1734565340
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -574,7 +629,27 @@
 92,
 103,
 107,
-108
+108,
+114,
+115,
+115,
+115,
+117,
+129,
+133,
+134,
+136,
+136,
+136,
+140,
+145,
+143,
+146,
+151,
+151,
+151,
+151,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -602,9 +677,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1734565340
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -773,7 +853,27 @@
 87,
 87,
 93,
-95
+95,
+99,
+101,
+101,
+101,
+106,
+109,
+110,
+112,
+112,
+112,
+112,
+115,
+124,
+134,
+139,
+141,
+139,
+139,
+144,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -807,6 +907,26 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1149,7 +1269,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Introduction to Mathematical Proofs"
 }

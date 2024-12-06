@@ -223,7 +223,27 @@
 48,
 48,
 47,
-47
+47,
+46,
+45,
+45,
+45,
+45,
+45,
+43,
+43,
+43,
+43,
+43,
+44,
+46,
+45,
+44,
+43,
+43,
+43,
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -245,13 +265,22 @@
 }
 ],
 "timing": 1732033133
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
+"timing": 1733443586
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Salvador",
-"lastName": "Alanis"
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
 }
 ],
 "isCancelled": false,
@@ -478,13 +507,48 @@
 43,
 43,
 42,
+43,
+42,
+42,
+42,
+42,
+41,
+40,
+42,
+42,
+41,
+41,
+41,
+42,
+42,
+40,
+40,
+40,
+40,
+40,
+39,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ohanna",
+"lastName": "Teixeira Barchi Severo"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ohanna",
+"lastName": "Teixeira Barchi Severo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -709,7 +773,27 @@
 53,
 53,
 50,
-51
+51,
+50,
+49,
+49,
+49,
+49,
+51,
+51,
+51,
+49,
+48,
+48,
+50,
+51,
+52,
+52,
+50,
+50,
+50,
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -722,13 +806,22 @@
 }
 ],
 "timing": 1732033133
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Salvador",
+"lastName": "Alanis"
+}
+],
+"timing": 1733443586
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Valeria Andrea",
-"lastName": "Tapia Cruz"
+"firstName": "Salvador",
+"lastName": "Alanis"
 }
 ],
 "isCancelled": false,
@@ -955,7 +1048,27 @@
 47,
 46,
 44,
-43
+43,
+43,
+42,
+42,
+42,
+42,
+42,
+42,
+42,
+39,
+40,
+40,
+41,
+43,
+42,
+43,
+44,
+44,
+44,
+44,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1201,13 +1314,48 @@
 27,
 29,
 28,
-30
+30,
+30,
+31,
+31,
+31,
+35,
+38,
+40,
+40,
+40,
+40,
+40,
+40,
+44,
+44,
+45,
+45,
+45,
+45,
+44,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ohanna",
+"lastName": "Teixeira Barchi Severo"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ohanna",
+"lastName": "Teixeira Barchi Severo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5301"
 }
@@ -1425,7 +1573,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Spanish for Beginners I"
 }

@@ -1,0 +1,54 @@
+{
+"code": "DRM391H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1734729113,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xing",
+"lastName": "Fan"
+}
+],
+"timing": 1734729113
+}
+]
+},
+"instructors": [
+{
+"firstName": "Xing",
+"lastName": "Fan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1734729112,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
+],
+"title": "Independent Studies in Drama, Theatre and Performance Studies"
+}

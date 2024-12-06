@@ -1,0 +1,60 @@
+{
+"code": "RSM401H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1734453147,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kenneth",
+"lastName": "Corts"
+}
+],
+"timing": 1734565340
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kenneth",
+"lastName": "Corts"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1734453146,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
+],
+"title": "Independent Study Course"
+}

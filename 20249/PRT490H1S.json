@@ -1,0 +1,56 @@
+{
+"code": "PRT490H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1734626473,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anabela",
+"lastName": "Alves dos Santos Rato"
+}
+],
+"timing": 1734626473
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anabela",
+"lastName": "Alves dos Santos Rato"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1734626472,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
+],
+"title": "Independent Study"
+}

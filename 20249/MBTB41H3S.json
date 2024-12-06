@@ -1,0 +1,84 @@
+{
+"code": "MBTB41H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1733443586,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1733443586
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1733443585,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
+],
+"title": "Introduction to Audio Engineering"
+}

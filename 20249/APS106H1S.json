@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 522,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 522,
 "time": 1720405671
+},
+{
+"newCapacity": 468,
+"time": 1734132457
 }
 ],
 "initialCap": 9999
@@ -181,7 +185,27 @@
 435,
 435,
 436,
-436
+436,
+395,
+391,
+391,
+391,
+391,
+390,
+390,
+390,
+391,
+391,
+391,
+391,
+369,
+371,
+374,
+380,
+380,
+380,
+380,
+380
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,7 +250,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 187,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -240,6 +264,10 @@
 {
 "newCapacity": 187,
 "time": 1721538829
+},
+{
+"newCapacity": 140,
+"time": 1734132457
 }
 ],
 "initialCap": 9999
@@ -410,7 +438,27 @@
 146,
 146,
 146,
-146
+146,
+134,
+134,
+134,
+134,
+134,
+133,
+133,
+133,
+129,
+129,
+129,
+129,
+129,
+128,
+128,
+128,
+127,
+127,
+127,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -436,13 +484,22 @@
 }
 ],
 "timing": 1720794621
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Kinsella"
+}
+],
+"timing": 1733849323
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chirag",
-"lastName": "Variawa"
+"firstName": "Benjamin",
+"lastName": "Kinsella"
 }
 ],
 "isCancelled": false,
@@ -451,12 +508,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 113,
+"enrollmentCap": 112,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 113,
 "time": 1720405671
+},
+{
+"newCapacity": 112,
+"time": 1734132457
 }
 ],
 "initialCap": 9999
@@ -627,7 +688,27 @@
 88,
 88,
 88,
-87
+87,
+83,
+83,
+83,
+83,
+83,
+83,
+84,
+84,
+89,
+89,
+89,
+89,
+111,
+111,
+111,
+110,
+110,
+110,
+110,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -819,7 +900,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Fundamentals of Computer Programming"
 }

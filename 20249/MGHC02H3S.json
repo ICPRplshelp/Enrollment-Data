@@ -176,13 +176,48 @@
 43,
 42,
 42,
-40
+40,
+40,
+40,
+40,
+40,
+41,
+41,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+39,
+39,
+39,
+40,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -360,6 +395,26 @@
 59,
 58,
 58,
+55,
+55,
+56,
+56,
+56,
+57,
+57,
+55,
+55,
+54,
+54,
+54,
+54,
+54,
+54,
+55,
+55,
+55,
+55,
+55,
 55
 ],
 "instructorLog": {
@@ -559,7 +614,27 @@
 57,
 57,
 57,
-53
+53,
+53,
+53,
+53,
+53,
+54,
+54,
+53,
+53,
+53,
+53,
+53,
+53,
+53,
+53,
+54,
+55,
+55,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -758,6 +833,26 @@
 44,
 43,
 43,
+41,
+39,
+39,
+39,
+39,
+38,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+40,
+40,
+39,
+39,
+39,
+42,
 41
 ],
 "instructorLog": {
@@ -957,13 +1052,48 @@
 45,
 43,
 43,
-41
+41,
+40,
+40,
+40,
+40,
+39,
+38,
+40,
+40,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+37,
+37,
+37,
+35,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Imran",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 },
@@ -1141,13 +1271,48 @@
 34,
 36,
 37,
-40
+40,
+40,
+40,
+40,
+40,
+41,
+41,
+39,
+40,
+39,
+39,
+39,
+38,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC06"
 }
@@ -1318,7 +1483,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Management Skills"
 }

@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1718317520,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 230,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -176,13 +176,48 @@
 327,
 326,
 324,
-326
+326,
+325,
+327,
+327,
+327,
+328,
+332,
+330,
+329,
+327,
+327,
+327,
+323,
+322,
+327,
+328,
+328,
+327,
+327,
+329,
+328
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Clare"
+}
+],
+"timing": 1734970297
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Clare"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -353,7 +388,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Introduction to Statistics for the Social Sciences"
 }

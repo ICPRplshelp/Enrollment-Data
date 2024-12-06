@@ -176,13 +176,48 @@
 43,
 45,
 45,
-45
+45,
+44,
+44,
+44,
+44,
+44,
+45,
+46,
+46,
+46,
+46,
+46,
+47,
+47,
+46,
+46,
+46,
+46,
+46,
+48,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
+"timing": 1733849323
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -360,13 +395,48 @@
 32,
 33,
 34,
-34
+34,
+34,
+34,
+34,
+34,
+34,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+34,
+35,
+35,
+36,
+36,
+36,
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
+"timing": 1733849323
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mario",
+"lastName": "Pizzacalla"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -537,7 +607,27 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340,
+1734626473,
+1734729113,
+1734843078,
+1734889154,
+1734970297,
+1735054305
 ],
 "title": "Structure of American Sign Language"
 }
