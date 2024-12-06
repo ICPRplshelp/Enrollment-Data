@@ -223,7 +223,14 @@
 57,
 56,
 56,
-56
+56,
+56,
+56,
+56,
+56,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,6 +464,13 @@
 61,
 61,
 61,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
 60,
 60,
 60,
@@ -715,6 +729,13 @@
 59,
 60,
 60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
 60
 ],
 "instructorLog": {
@@ -960,6 +981,13 @@
 31,
 31,
 31,
+30,
+30,
+30,
+31,
+31,
+31,
+30,
 30,
 30
 ],
@@ -1207,7 +1235,14 @@
 51,
 51,
 51,
-51
+51,
+50,
+50,
+50,
+50,
+49,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1453,7 +1488,14 @@
 6,
 6,
 6,
-6
+6,
+8,
+8,
+7,
+7,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1699,6 +1741,13 @@
 57,
 58,
 58,
+58,
+58,
+58,
+59,
+59,
+58,
+58,
 58
 ],
 "instructorLog": {
@@ -1727,9 +1776,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1733443586
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -1945,7 +1999,14 @@
 2,
 2,
 3,
-3
+3,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1967,7 +2028,7 @@
 "lastName": "Shvadron"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0801"
 }
 ],
@@ -2184,7 +2245,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Strategic Management"
 }

@@ -223,7 +223,14 @@
 63,
 63,
 64,
-64
+64,
+63,
+63,
+63,
+63,
+65,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,13 +243,22 @@
 }
 ],
 "timing": 1723736637
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Damian",
+"lastName": "Dupuy"
+}
+],
+"timing": 1733527692
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Andrew",
-"lastName": "Kaufman"
+"firstName": "Damian",
+"lastName": "Dupuy"
 }
 ],
 "isCancelled": false,
@@ -462,7 +478,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Remaking the Global Economy"
 }

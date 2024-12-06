@@ -176,13 +176,35 @@
 46,
 45,
 45,
-44
+44,
+43,
+43,
+43,
+43,
+44,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
+"timing": 1733969075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -360,13 +382,35 @@
 62,
 63,
 63,
-64
+64,
+65,
+65,
+65,
+65,
+65,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
+"timing": 1733969075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -544,13 +588,35 @@
 21,
 21,
 21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
 21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
+"timing": 1733969075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Notenboom"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -721,7 +787,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Psychology at Work"
 }

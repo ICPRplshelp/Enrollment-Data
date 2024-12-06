@@ -223,7 +223,14 @@
 124,
 122,
 121,
-121
+121,
+123,
+121,
+121,
+121,
+118,
+119,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,6 +243,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Haissi",
+"lastName": "Cui"
+},
+{
+"firstName": "Yong Jia",
+"lastName": "Bu"
+}
+],
+"timing": 1733849323
 }
 ]
 },
@@ -243,6 +263,10 @@
 {
 "firstName": "Haissi",
 "lastName": "Cui"
+},
+{
+"firstName": "Yong Jia",
+"lastName": "Bu"
 }
 ],
 "isCancelled": false,
@@ -462,7 +486,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Science of the Modern Kitchen"
 }

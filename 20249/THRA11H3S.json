@@ -176,13 +176,35 @@
 27,
 27,
 27,
+28,
+28,
+28,
+28,
+28,
+28,
+28,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Mealey"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Mealey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -360,7 +382,14 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+30,
+30,
+31,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -552,7 +581,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Introduction to Performance"
 }

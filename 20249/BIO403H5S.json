@@ -176,6 +176,13 @@
 33,
 33,
 33,
+33,
+33,
+32,
+32,
+32,
+33,
+33,
 33
 ],
 "instructorLog": {
@@ -375,13 +382,35 @@
 30,
 28,
 28,
-28
+28,
+28,
+27,
+27,
+27,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ishrat",
+"lastName": "Islam"
+}
+],
+"timing": 1733849323
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ishrat",
+"lastName": "Islam"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -552,7 +581,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Developmental Neurobiology"
 }

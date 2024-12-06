@@ -1,0 +1,58 @@
+{
+"code": "MBTB50H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1733443586,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1733443586
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1733443585,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
+],
+"title": "Music Business Fundamentals"
+}

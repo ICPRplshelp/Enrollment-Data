@@ -176,6 +176,13 @@
 96,
 96,
 95,
+95,
+95,
+95,
+95,
+95,
+95,
+95,
 95
 ],
 "instructorLog": {
@@ -189,13 +196,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nazanin",
+"lastName": "Khalili"
+}
+],
+"timing": 1733969075
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hani",
-"lastName": "Naguib"
+"firstName": "Nazanin",
+"lastName": "Khalili"
 }
 ],
 "isCancelled": false,
@@ -368,7 +384,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Mechanics of Solids II"
 }

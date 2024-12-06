@@ -228,13 +228,35 @@
 17,
 16,
 16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Loree",
+"lastName": "Erickson"
+}
+],
+"timing": 1733969075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Loree",
+"lastName": "Erickson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -452,7 +474,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Special Topics in Equity and Solidarity Studies"
 }

@@ -176,13 +176,44 @@
 70,
 70,
 70,
+71,
+70,
+71,
+71,
+71,
+71,
+71,
 71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "VIC",
+"lastName": "DUARTE (NOUTORID)"
+}
+],
+"timing": 1733443586
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Victoria Alexandria",
+"lastName": "Duarte"
+}
+],
+"timing": 1733849323
+}
+]
+},
+"instructors": [
+{
+"firstName": "Victoria Alexandria",
+"lastName": "Duarte"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -353,7 +384,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Canadian Environmental Policy"
 }

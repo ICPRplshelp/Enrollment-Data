@@ -176,13 +176,35 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+30,
+30,
+30,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
+"timing": 1733969075
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Smit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -353,7 +375,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Business Technology Management"
 }

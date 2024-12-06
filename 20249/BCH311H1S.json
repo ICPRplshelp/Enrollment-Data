@@ -223,7 +223,14 @@
 553,
 554,
 553,
-552
+552,
+552,
+549,
+549,
+549,
+551,
+553,
+554
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,6 +243,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stavroula",
+"lastName": "Andreopoulos"
+},
+{
+"firstName": "Jason",
+"lastName": "De Melo"
+}
+],
+"timing": 1733969075
 }
 ]
 },
@@ -243,6 +263,10 @@
 {
 "firstName": "Stavroula",
 "lastName": "Andreopoulos"
+},
+{
+"firstName": "Jason",
+"lastName": "De Melo"
 }
 ],
 "isCancelled": false,
@@ -462,7 +486,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Biochemistry II: Nucleic Acids and Biological Information Flow"
 }

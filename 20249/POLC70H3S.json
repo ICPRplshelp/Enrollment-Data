@@ -176,13 +176,35 @@
 51,
 50,
 50,
-50
+50,
+50,
+53,
+53,
+53,
+53,
+53,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "ELLA",
+"lastName": "STREET (NOUTORID)"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "ELLA",
+"lastName": "STREET (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -353,7 +375,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Political Thought: Democracy, Justice and Power"
 }

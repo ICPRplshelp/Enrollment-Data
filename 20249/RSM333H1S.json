@@ -223,7 +223,14 @@
 51,
 51,
 51,
-52
+52,
+50,
+50,
+50,
+50,
+50,
+50,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -469,13 +476,35 @@
 48,
 49,
 49,
-50
+50,
+51,
+51,
+51,
+51,
+53,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -700,13 +729,35 @@
 45,
 43,
 43,
+43,
+43,
+43,
+43,
+43,
+43,
+44,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lorna",
+"lastName": "Zhong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -931,7 +982,14 @@
 54,
 54,
 54,
-54
+54,
+54,
+54,
+54,
+54,
+54,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1162,7 +1220,14 @@
 53,
 53,
 52,
-52
+52,
+52,
+52,
+52,
+52,
+53,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1393,7 +1458,14 @@
 57,
 57,
 56,
-56
+56,
+57,
+57,
+56,
+56,
+56,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1639,7 +1711,14 @@
 40,
 40,
 40,
-39
+39,
+38,
+37,
+37,
+37,
+37,
+37,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1885,7 +1964,14 @@
 55,
 56,
 57,
-57
+57,
+58,
+58,
+58,
+58,
+57,
+58,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2124,7 +2210,14 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075
 ],
 "title": "Corporate Finance"
 }
