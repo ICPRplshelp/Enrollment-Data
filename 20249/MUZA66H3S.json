@@ -176,13 +176,31 @@
 11,
 11,
 11,
+11,
+11,
+11,
 11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
+"timing": 1733527692
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -360,7 +378,10 @@
 8,
 8,
 8,
-8
+8,
+8,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -552,7 +573,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Small Ensembles Ia"
 }

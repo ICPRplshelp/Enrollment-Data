@@ -176,13 +176,31 @@
 32,
 31,
 31,
-31
+31,
+31,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emilie",
+"lastName": "Jacob"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -353,6 +371,9 @@
 24,
 23,
 26,
+27,
+27,
+27,
 27,
 27,
 27,
@@ -668,7 +689,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Writing About Movies"
 }

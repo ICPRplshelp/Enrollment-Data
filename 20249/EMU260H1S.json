@@ -5,12 +5,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 14,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 15,
 "time": 1725489766
+},
+{
+"newCapacity": 14,
+"time": 1733443586
 }
 ],
 "initialCap": 14
@@ -180,6 +184,9 @@
 15,
 15,
 15,
+14,
+14,
+14,
 14,
 14
 ],
@@ -373,7 +380,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Instrumental: Cello I"
 }

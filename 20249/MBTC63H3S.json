@@ -1,0 +1,50 @@
+{
+"code": "MBTC63H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1733443586,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1733443586
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1733443585,
+1733443586,
+1733527692,
+1733586185
+],
+"title": "Advanced Sound Production and Recording"
+}

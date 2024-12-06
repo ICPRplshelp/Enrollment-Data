@@ -75,13 +75,31 @@
 29,
 31,
 31,
+31,
+31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Reena",
+"lastName": "Khesroof"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Reena",
+"lastName": "Khesroof"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -151,7 +169,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Essentials of Finance and Accounting"
 }

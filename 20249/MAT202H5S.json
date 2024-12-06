@@ -5,12 +5,20 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1733527692
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -183,7 +191,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -365,7 +373,10 @@
 147,
 150,
 150,
-149
+149,
+150,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -557,7 +568,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Introduction to Discrete Mathematics"
 }

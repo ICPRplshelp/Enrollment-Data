@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1733527692
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -176,7 +181,10 @@
 59,
 60,
 61,
-61
+61,
+62,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -368,7 +376,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Exceptionality: Disability and Giftedness"
 }

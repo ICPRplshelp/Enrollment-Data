@@ -176,6 +176,9 @@
 0,
 0,
 1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -189,13 +192,22 @@
 }
 ],
 "timing": 1732033133
+},
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Armstrong"
+}
+],
+"timing": 1733527692
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jumi",
-"lastName": "Shin"
+"firstName": "David",
+"lastName": "Armstrong"
 }
 ],
 "isCancelled": false,
@@ -368,7 +380,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Teaching Opportunity Program in Sciences"
 }

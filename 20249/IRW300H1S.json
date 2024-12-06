@@ -64,13 +64,31 @@
 59,
 59,
 62,
-62
+62,
+65,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rafael",
+"lastName": "Gomez"
+}
+],
+"timing": 1733443586
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rafael",
+"lastName": "Gomez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -129,7 +147,10 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185
 ],
 "title": "Effective Communication and Strategic Writing in Organizations"
 }
