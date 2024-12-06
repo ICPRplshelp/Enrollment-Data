@@ -176,7 +176,21 @@
 46,
 46,
 46,
-46
+46,
+46,
+46,
+46,
+46,
+46,
+46,
+47,
+47,
+47,
+47,
+47,
+48,
+48,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -198,13 +212,22 @@
 }
 ],
 "timing": 1731108570
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Janet",
+"lastName": "Lam"
+}
+],
+"timing": 1734565340
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Vahid",
-"lastName": "Najafi"
+"firstName": "Janet",
+"lastName": "Lam"
 }
 ],
 "isCancelled": false,
@@ -377,7 +400,21 @@
 1733079101,
 1733149395,
 1733239362,
-1733324289
+1733324289,
+1733443586,
+1733527692,
+1733586185,
+1733689633,
+1733755609,
+1733849323,
+1733969075,
+1734019995,
+1734132457,
+1734219315,
+1734293226,
+1734366108,
+1734453147,
+1734565340
 ],
 "title": "Reliability and Maintainability Engineering"
 }
