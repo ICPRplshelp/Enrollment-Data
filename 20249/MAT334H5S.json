@@ -5,12 +5,39 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1736435260
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -203,18 +230,22 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1730501706
+},
+{
+"newCapacity": 105,
+"time": 1736379759
 }
 ],
 "initialCap": 75
@@ -405,7 +436,29 @@
 104,
 104,
 104,
-104
+104,
+104,
+105,
+105,
+104,
+104,
+103,
+102,
+104,
+104,
+104,
+103,
+100,
+99,
+99,
+99,
+99,
+99,
+98,
+99,
+101,
+97,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -617,7 +670,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Complex Variables"
 }

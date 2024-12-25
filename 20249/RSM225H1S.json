@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1736784766
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -243,7 +248,29 @@
 51,
 51,
 51,
-51
+51,
+51,
+52,
+52,
+53,
+54,
+55,
+56,
+55,
+55,
+55,
+57,
+55,
+56,
+56,
+56,
+56,
+56,
+55,
+56,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,9 +298,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1736784766
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -509,7 +541,29 @@
 55,
 55,
 55,
-56
+56,
+56,
+56,
+56,
+55,
+57,
+58,
+59,
+57,
+57,
+57,
+56,
+56,
+56,
+56,
+56,
+56,
+56,
+55,
+55,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -537,9 +591,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1736784766
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -775,7 +834,29 @@
 61,
 61,
 61,
-61
+61,
+61,
+62,
+62,
+62,
+61,
+62,
+63,
+62,
+62,
+62,
+62,
+59,
+59,
+59,
+54,
+54,
+54,
+54,
+56,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1034,7 +1115,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Legal Environment of Business I"
 }

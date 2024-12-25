@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1736877862
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -196,7 +201,29 @@
 40,
 40,
 39,
-40
+40,
+40,
+39,
+39,
+39,
+41,
+42,
+45,
+46,
+46,
+46,
+46,
+46,
+48,
+48,
+5,
+5,
+5,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -209,16 +236,25 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mohannad",
+"lastName": "Abusarah"
+}
+],
+"timing": 1736177323
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Shafique",
-"lastName": "Virani"
+"firstName": "Mohannad",
+"lastName": "Abusarah"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -408,7 +444,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Shi'i Islam"
 }

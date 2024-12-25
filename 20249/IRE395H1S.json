@@ -1,0 +1,68 @@
+{
+"code": "IRE395H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1736177323,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bradley",
+"lastName": "Seward"
+}
+],
+"timing": 1736266475
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bradley",
+"lastName": "Seward"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1736177322,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
+],
+"title": "Independent Study"
+}

@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1736379759
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -196,7 +201,29 @@
 59,
 59,
 60,
-60
+60,
+60,
+58,
+59,
+59,
+61,
+60,
+60,
+63,
+63,
+63,
+63,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+62,
+59,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -224,9 +251,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1736379759
+},
+{
+"newCapacity": 64,
+"time": 1737041151
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -415,7 +451,29 @@
 67,
 67,
 67,
-67
+67,
+67,
+68,
+68,
+68,
+67,
+67,
+68,
+67,
+67,
+67,
+64,
+63,
+58,
+59,
+62,
+62,
+62,
+63,
+63,
+64,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -443,9 +501,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1736379759
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -634,7 +697,29 @@
 65,
 65,
 64,
-64
+64,
+64,
+65,
+65,
+65,
+64,
+64,
+64,
+67,
+67,
+67,
+66,
+64,
+65,
+64,
+64,
+64,
+64,
+63,
+62,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -662,9 +747,18 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1736379759
+},
+{
+"newCapacity": 64,
+"time": 1737041151
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -853,7 +947,29 @@
 61,
 61,
 62,
-62
+62,
+62,
+62,
+62,
+62,
+62,
+61,
+61,
+63,
+63,
+63,
+63,
+62,
+63,
+63,
+64,
+64,
+64,
+63,
+63,
+64,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -881,9 +997,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1736379759
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -1072,7 +1193,29 @@
 60,
 60,
 60,
-60
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+61,
+61,
+62,
+61,
+59,
+59,
+59,
+62,
+62,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1115,6 +1258,24 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1497,7 +1658,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Human Resource Management"
 }

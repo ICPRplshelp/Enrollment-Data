@@ -5,7 +5,7 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 41,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -39,6 +39,10 @@
 {
 "newCapacity": 40,
 "time": 1732926728
+},
+{
+"newCapacity": 41,
+"time": 1736554093
 }
 ],
 "initialCap": 44
@@ -229,7 +233,29 @@
 40,
 40,
 40,
-40
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+40,
+41,
+41,
+41,
+41,
+41,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,13 +268,22 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dennis",
+"lastName": "Lee"
+}
+],
+"timing": 1735961025
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Farzaneh",
-"lastName": "Hemmasi"
+"firstName": "Dennis",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -441,7 +476,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Global Popular Musics"
 }

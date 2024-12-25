@@ -201,6 +201,28 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -229,12 +251,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 160,
 "time": 1730501706
+},
+{
+"newCapacity": 165,
+"time": 1736379759
 }
 ],
 "initialCap": 130
@@ -425,7 +451,29 @@
 179,
 179,
 177,
-177
+177,
+175,
+175,
+175,
+175,
+176,
+176,
+177,
+174,
+174,
+174,
+173,
+173,
+170,
+169,
+167,
+167,
+167,
+167,
+168,
+166,
+168,
+168
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -453,12 +501,39 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1736435260
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -651,13 +726,13 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 },
 {
 "createdAt": 1718317520,
 "delivery": "HYBR",
-"enrollmentCap": 175,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -667,6 +742,10 @@
 {
 "newCapacity": 175,
 "time": 1734626473
+},
+{
+"newCapacity": 180,
+"time": 1736379759
 }
 ],
 "initialCap": 130
@@ -857,7 +936,29 @@
 164,
 164,
 166,
-168
+168,
+172,
+173,
+175,
+176,
+178,
+176,
+177,
+176,
+176,
+176,
+176,
+178,
+178,
+180,
+180,
+180,
+180,
+180,
+178,
+178,
+178,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -885,12 +986,16 @@
 {
 "createdAt": 1718317520,
 "delivery": "SYNC",
-"enrollmentCap": 160,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 160,
 "time": 1730501706
+},
+{
+"newCapacity": 165,
+"time": 1736379759
 }
 ],
 "initialCap": 130
@@ -1081,7 +1186,29 @@
 164,
 164,
 164,
-163
+163,
+161,
+161,
+161,
+161,
+158,
+160,
+162,
+160,
+160,
+160,
+161,
+163,
+166,
+165,
+165,
+165,
+165,
+164,
+169,
+166,
+164,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1293,7 +1420,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Linear Algebra I"
 }

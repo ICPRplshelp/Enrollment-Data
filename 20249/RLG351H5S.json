@@ -1,0 +1,60 @@
+{
+"code": "RLG351H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1736554093,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+43,
+43,
+43,
+47,
+59,
+73,
+71,
+71
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hosam",
+"lastName": "Helal"
+}
+],
+"timing": 1736877862
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hosam",
+"lastName": "Helal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1736554092,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
+],
+"title": "Major Themes in the Study of the Quran"
+}

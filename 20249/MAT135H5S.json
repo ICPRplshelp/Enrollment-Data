@@ -5,9 +5,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1736877862
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -196,22 +201,64 @@
 3,
 3,
 27,
-42
+42,
+46,
+52,
+55,
+58,
+75,
+104,
+129,
+141,
+141,
+141,
+167,
+192,
+196,
+195,
+195,
+195,
+195,
+193,
+189,
+191,
+190,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
+"timing": 1736379759
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1736877862
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -400,7 +447,29 @@
 186,
 186,
 177,
-167
+167,
+168,
+167,
+167,
+167,
+164,
+162,
+162,
+156,
+156,
+156,
+160,
+184,
+190,
+192,
+196,
+196,
+196,
+187,
+187,
+182,
+179,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -428,9 +497,14 @@
 {
 "createdAt": 1718317520,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1736877862
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -619,7 +693,29 @@
 181,
 181,
 169,
-163
+163,
+163,
+162,
+161,
+162,
+158,
+164,
+162,
+157,
+157,
+157,
+167,
+182,
+182,
+182,
+187,
+187,
+187,
+186,
+183,
+186,
+184,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -653,6 +749,28 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1035,7 +1153,29 @@
 1734843078,
 1734889154,
 1734970297,
-1735054305
+1735054305,
+1735148770,
+1735271025,
+1735318229,
+1735407785,
+1735573727,
+1735658985,
+1735830082,
+1735961025,
+1736043987,
+1736100761,
+1736177323,
+1736266475,
+1736379759,
+1736435260,
+1736554093,
+1736613610,
+1736727093,
+1736784766,
+1736877862,
+1737041151,
+1737247060,
+1737313226
 ],
 "title": "Differential Calculus"
 }
