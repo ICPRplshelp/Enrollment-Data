@@ -266,13 +266,43 @@
 33,
 34,
 34,
-34
+34,
+34,
+34,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Evelyn",
+"lastName": "Lambe"
 },
-"instructors": [],
+{
+"firstName": "Brian",
+"lastName": "Cox"
+}
+],
+"timing": 1737475136
+}
+]
+},
+"instructors": [
+{
+"firstName": "Evelyn",
+"lastName": "Lambe"
+},
+{
+"firstName": "Brian",
+"lastName": "Cox"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -533,7 +563,14 @@
 1737041151,
 1737247060,
 1737313226,
-1737349242
+1737349242,
+1737389893,
+1737475136,
+1737647163,
+1737991635,
+1738079910,
+1738204965,
+1738248769
 ],
 "title": "Topics in Cellular, Molecular and Organismic Physiology II"
 }
