@@ -198,13 +198,40 @@
 111,
 107,
 107,
-107
+107,
+107,
+107,
+107,
+106,
+106,
+106,
+106,
+106,
+106,
+105,
+105,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zoe L.",
+"lastName": "Cope"
+}
+],
+"timing": 1737475136
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zoe L.",
+"lastName": "Cope"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -397,7 +424,19 @@
 1737041151,
 1737247060,
 1737313226,
-1737349242
+1737349242,
+1737389893,
+1737475136,
+1737647163,
+1737991635,
+1738079910,
+1738204965,
+1738248769,
+1738438411,
+1738516277,
+1738599321,
+1738677434,
+1738859208
 ],
 "title": "Technologies of Architecture, Landscape, Urbanism, and Art II"
 }
