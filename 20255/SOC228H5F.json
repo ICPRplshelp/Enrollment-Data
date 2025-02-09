@@ -1,0 +1,56 @@
+{
+"code": "SOC228H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "ASYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yvonne Patricia",
+"lastName": "Sherwood"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yvonne Patricia",
+"lastName": "Sherwood"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC9999"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698
+],
+"title": "Introduction to Indigenous Studies"
+}

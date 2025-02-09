@@ -1,0 +1,56 @@
+{
+"code": "FRE282H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Magda",
+"lastName": "Tigchelaar"
+}
+],
+"timing": 1741146523
+}
+]
+},
+"instructors": [
+{
+"firstName": "Magda",
+"lastName": "Tigchelaar"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698
+],
+"title": "Intermediate Language Practice: Written French"
+}

@@ -1,0 +1,56 @@
+{
+"code": "EDS388H5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ji-young",
+"lastName": "Shin"
+}
+],
+"timing": 1741279698
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ji-young",
+"lastName": "Shin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698
+],
+"title": "Experiential Learning Opportunity within the Community"
+}
