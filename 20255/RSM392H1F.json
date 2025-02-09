@@ -1,0 +1,138 @@
+{
+"code": "RSM392H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+10,
+16,
+18,
+23,
+26,
+30,
+34,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alberto",
+"lastName": "Galasso"
+}
+],
+"timing": 1740615610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alberto",
+"lastName": "Galasso"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+51,
+53,
+55,
+59,
+56,
+55,
+56,
+56
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alberto",
+"lastName": "Galasso"
+}
+],
+"timing": 1740615610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alberto",
+"lastName": "Galasso"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Strategic Management"
+}

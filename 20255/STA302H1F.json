@@ -1,0 +1,74 @@
+{
+"code": "STA302H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 304,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 304,
+"time": 1742005934
+}
+],
+"initialCap": 275
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+48,
+223,
+241,
+249,
+265,
+280,
+283,
+287,
+288
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Methods of Data Analysis I"
+}

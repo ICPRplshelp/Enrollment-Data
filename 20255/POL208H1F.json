@@ -1,0 +1,84 @@
+{
+"code": "POL208H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "ASYNC",
+"enrollmentCap": 172,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 172
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+13,
+100,
+113,
+121,
+136,
+145,
+152,
+154,
+156
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Seva",
+"lastName": "Gunitskiy"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Seva",
+"lastName": "Gunitskiy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Introduction to International Relations"
+}

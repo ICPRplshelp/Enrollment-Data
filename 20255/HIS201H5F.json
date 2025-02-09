@@ -1,0 +1,64 @@
+{
+"code": "HIS201H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+22,
+23
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohannad",
+"lastName": "Abusarah"
+}
+],
+"timing": 1741889786
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mohannad",
+"lastName": "Abusarah"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Introduction to Middle Eastern History"
+}

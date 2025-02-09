@@ -1,0 +1,84 @@
+{
+"code": "POL379H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+9,
+9,
+9,
+11,
+13,
+14,
+16,
+16
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Renan",
+"lastName": "Levine"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Renan",
+"lastName": "Levine"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Topics in Comparative Politics III"
+}

@@ -1,0 +1,84 @@
+{
+"code": "SOC351H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+28,
+46,
+48,
+49,
+50,
+51,
+51,
+49,
+49
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jooyoung",
+"lastName": "Lee"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jooyoung",
+"lastName": "Lee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "New Topics in Sociology"
+}

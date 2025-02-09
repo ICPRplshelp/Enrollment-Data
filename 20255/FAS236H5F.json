@@ -1,0 +1,78 @@
+{
+"code": "FAS236H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "SYNC",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+11,
+14
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Design I"
+}

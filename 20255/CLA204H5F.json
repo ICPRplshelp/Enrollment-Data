@@ -1,0 +1,64 @@
+{
+"code": "CLA204H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "SYNC",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+83,
+92
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mareile",
+"lastName": "Haase"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mareile",
+"lastName": "Haase"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Introduction to Classical Mythology"
+}

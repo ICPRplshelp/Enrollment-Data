@@ -1,0 +1,168 @@
+{
+"code": "COPC99H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi Abdoun",
+"lastName": "Abdoun Mohamed"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mimi Abdoun",
+"lastName": "Abdoun Mohamed"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Integrating Your Work Term Experience II"
+}

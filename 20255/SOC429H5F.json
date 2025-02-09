@@ -1,0 +1,64 @@
+{
+"code": "SOC429H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "SYNC",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+13
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Pettinicchio"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Pettinicchio"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Disability, Politics & Society"
+}

@@ -1,0 +1,53 @@
+{
+"code": "APS500H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1740615610,
+"delivery": "SYNC",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740615609,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Negotiations in an Engineering Context"
+}

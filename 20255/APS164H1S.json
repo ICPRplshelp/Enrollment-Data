@@ -1,0 +1,31 @@
+{
+"code": "APS164H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1742005934,
+"delivery": "ASYNC",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1742005933,
+1742005934
+],
+"title": "Introductory Chemistry from a Materials Perspective"
+}

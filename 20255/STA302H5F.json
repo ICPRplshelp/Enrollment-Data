@@ -1,0 +1,64 @@
+{
+"code": "STA302H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 110,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 110
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+50,
+48
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alvaro",
+"lastName": "Nosedal Sanchez"
+}
+],
+"timing": 1741619086
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alvaro",
+"lastName": "Nosedal Sanchez"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934
+],
+"title": "Regression Analysis"
+}
