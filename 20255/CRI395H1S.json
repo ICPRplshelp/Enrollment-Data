@@ -1,0 +1,35 @@
+{
+"code": "CRI395H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1743636217,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1743636216,
+1743636217,
+1743701346,
+1743818498
+],
+"title": "Independent Study"
+}
