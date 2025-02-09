@@ -278,7 +278,12 @@
 88,
 87,
 87,
-87
+87,
+87,
+85,
+84,
+84,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -291,6 +296,27 @@
 }
 ],
 "timing": 1732640029
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shannon",
+"lastName": "Dunn"
+},
+{
+"firstName": "Bryan",
+"lastName": "Coburn"
+},
+{
+"firstName": "Chao",
+"lastName": "Wang"
+},
+{
+"firstName": "Stephen",
+"lastName": "Juvet"
+}
+],
+"timing": 1739464860
 }
 ]
 },
@@ -298,6 +324,18 @@
 {
 "firstName": "Shannon",
 "lastName": "Dunn"
+},
+{
+"firstName": "Bryan",
+"lastName": "Coburn"
+},
+{
+"firstName": "Chao",
+"lastName": "Wang"
+},
+{
+"firstName": "Stephen",
+"lastName": "Juvet"
 }
 ],
 "isCancelled": false,
@@ -572,7 +610,12 @@
 1738516277,
 1738599321,
 1738677434,
-1738859208
+1738859208,
+1739125122,
+1739209085,
+1739292758,
+1739363186,
+1739464860
 ],
 "title": "Clinical Immunology"
 }
