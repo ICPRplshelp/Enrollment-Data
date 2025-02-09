@@ -1,0 +1,48 @@
+{
+"code": "FAH393Y0F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christy",
+"lastName": "Anderson"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christy",
+"lastName": "Anderson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC3001"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198
+],
+"title": "Studies Abroad in Renaissance and Baroque Art and Architecture"
+}

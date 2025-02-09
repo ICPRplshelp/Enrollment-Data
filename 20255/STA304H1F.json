@@ -1,0 +1,33 @@
+{
+"code": "STA304H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198
+],
+"title": "Surveys, Sampling and Observational Data (formerly STA322H1)"
+}

@@ -278,6 +278,14 @@
 117,
 116,
 116,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
+116,
 116
 ],
 "instructorLog": {
@@ -291,6 +299,19 @@
 }
 ],
 "timing": 1718317520
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Landon",
+"lastName": "Edgar"
+},
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
+"timing": 1739589604
 }
 ]
 },
@@ -298,6 +319,10 @@
 {
 "firstName": "Landon",
 "lastName": "Edgar"
+},
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
 }
 ],
 "isCancelled": false,
@@ -572,7 +597,15 @@
 1738516277,
 1738599321,
 1738677434,
-1738859208
+1738859208,
+1739125122,
+1739209085,
+1739292758,
+1739363186,
+1739464860,
+1739589604,
+1739847176,
+1739893224
 ],
 "title": "Systems Pharmacology I"
 }

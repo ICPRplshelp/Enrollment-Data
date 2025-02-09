@@ -278,13 +278,60 @@
 36,
 36,
 36,
-36
+36,
+36,
+35,
+35,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Matthews"
 },
-"instructors": [],
+{
+"firstName": "Isabella",
+"lastName": "Caniggia"
+},
+{
+"firstName": "Amy",
+"lastName": "Wong"
+},
+{
+"firstName": "Oksana",
+"lastName": "Shynlova"
+}
+],
+"timing": 1739464860
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Matthews"
+},
+{
+"firstName": "Isabella",
+"lastName": "Caniggia"
+},
+{
+"firstName": "Amy",
+"lastName": "Wong"
+},
+{
+"firstName": "Oksana",
+"lastName": "Shynlova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -557,7 +604,15 @@
 1738516277,
 1738599321,
 1738677434,
-1738859208
+1738859208,
+1739125122,
+1739209085,
+1739292758,
+1739363186,
+1739464860,
+1739589604,
+1739847176,
+1739893224
 ],
 "title": "Pregnancy and Birth: From Implantation to Newborn Life"
 }

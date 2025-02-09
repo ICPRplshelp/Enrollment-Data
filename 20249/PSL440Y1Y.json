@@ -278,6 +278,14 @@
 17,
 17,
 17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
 17
 ],
 "instructorLog": {
@@ -328,6 +336,27 @@
 }
 ],
 "timing": 1738438411
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Harrison"
+},
+{
+"firstName": "Jeremy",
+"lastName": "Sivak"
+},
+{
+"firstName": "Maurizio",
+"lastName": "De Pitta"
+},
+{
+"firstName": "John",
+"lastName": "Griffiths"
+}
+],
+"timing": 1739464860
 }
 ]
 },
@@ -347,10 +376,6 @@
 {
 "firstName": "John",
 "lastName": "Griffiths"
-},
-{
-"firstName": "Aylin",
-"lastName": "Reid"
 }
 ],
 "isCancelled": false,
@@ -625,7 +650,15 @@
 1738516277,
 1738599321,
 1738677434,
-1738859208
+1738859208,
+1739125122,
+1739209085,
+1739292758,
+1739363186,
+1739464860,
+1739589604,
+1739847176,
+1739893224
 ],
 "title": "Neuroscience I: Systems and Behaviour"
 }
