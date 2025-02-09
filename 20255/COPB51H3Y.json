@@ -1,0 +1,283 @@
+{
+"code": "COPB51H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+183,
+248,
+261,
+269,
+269,
+269,
+279,
+282,
+292,
+295,
+300,
+300,
+300,
+299
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 270,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 270,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+52,
+75,
+82,
+85,
+85,
+85,
+90,
+92,
+94,
+94,
+96,
+96,
+100,
+101
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Laura",
+"lastName": "Jacob"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kiran",
+"lastName": "Heer"
+},
+{
+"firstName": "Laura",
+"lastName": "Jacob"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+23,
+32,
+35,
+35,
+35,
+35,
+36,
+36,
+40,
+40,
+42,
+42,
+41,
+41
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Preparing to Compete for your Work Term"
+}

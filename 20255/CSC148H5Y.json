@@ -1,0 +1,165 @@
+{
+"code": "CSC148H5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+158,
+162,
+162,
+162,
+162,
+161,
+162,
+164,
+165,
+166,
+165,
+165,
+165,
+170,
+170,
+169,
+168,
+162,
+162,
+164,
+163
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"timing": 1741055141
+}
+]
+},
+"instructors": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+46,
+56,
+56,
+64,
+75,
+78,
+80,
+79,
+78,
+81,
+86,
+86,
+86,
+101,
+110,
+123,
+124,
+125,
+125,
+128,
+130
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"timing": 1741055141
+}
+]
+},
+"instructors": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Introduction to Computer Science"
+}

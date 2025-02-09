@@ -1,0 +1,311 @@
+{
+"code": "ENG100H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+6,
+35,
+35,
+34,
+37,
+35,
+35,
+35,
+36,
+36,
+37,
+37,
+38,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+40,
+40,
+41,
+42,
+42,
+42,
+46,
+49
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Austin",
+"lastName": "Long"
+}
+],
+"timing": 1741619086
+}
+]
+},
+"instructors": [
+{
+"firstName": "Austin",
+"lastName": "Long"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+26,
+30,
+30,
+36,
+38,
+36,
+36,
+36,
+36,
+36,
+37,
+37,
+37,
+36,
+36,
+37,
+37,
+37,
+37,
+37,
+37,
+38,
+39,
+38,
+38,
+41,
+42
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC2000"
+},
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+19,
+64,
+64,
+65,
+66,
+61,
+60,
+63,
+62,
+62,
+63,
+65,
+65,
+66,
+66,
+66,
+65,
+65,
+65,
+65,
+64,
+63,
+64,
+65,
+64,
+64,
+65,
+64
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Baldwin"
+}
+],
+"timing": 1741619086
+}
+]
+},
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Baldwin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Effective Writing"
+}

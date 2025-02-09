@@ -1,0 +1,302 @@
+{
+"code": "COPB52H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 375,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 375,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+254,
+254,
+254,
+254,
+254,
+254,
+260,
+260,
+260,
+260,
+260,
+250,
+250,
+250,
+250,
+250,
+250
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+},
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1741018514
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+},
+{
+"firstName": "Goppikka",
+"lastName": "Natkunam"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+},
+{
+"firstName": "Goppikka",
+"lastName": "Natkunam"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 240,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+91,
+91,
+91,
+91,
+91,
+91,
+97,
+97,
+97,
+97,
+97,
+99,
+99,
+99,
+99,
+99,
+99
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi Abdoun",
+"lastName": "Abdoun Mohamed"
+},
+{
+"firstName": "Kate",
+"lastName": "Epp"
+}
+],
+"timing": 1741018514
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1740415423,
+"delivery": "ASYNC",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+22,
+22,
+22,
+22,
+22,
+22
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1741018514
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"timing": 1743636217
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Managing Your Job Search and Transition to the Workplace"
+}

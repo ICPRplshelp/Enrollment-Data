@@ -1,0 +1,85 @@
+{
+"code": "GGRB05H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1742239751,
+"delivery": "SYNC",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 70,
+"time": 1743818498
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+46,
+63,
+73,
+74,
+74,
+74,
+73,
+74,
+68,
+68,
+72,
+72,
+75,
+77
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rajyashree",
+"lastName": "Narayanareddy"
+}
+],
+"timing": 1742239751
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rajyashree",
+"lastName": "Narayanareddy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1742239750,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Urban Geography"
+}

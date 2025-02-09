@@ -1,0 +1,46 @@
+{
+"code": "ESS398H0S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744128897,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
+}
+],
+"timing": 1744128897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Gregory"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744128896,
+1744128897
+],
+"title": "Research Excursions"
+}

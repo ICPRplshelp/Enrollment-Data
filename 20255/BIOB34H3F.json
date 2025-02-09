@@ -1,0 +1,123 @@
+{
+"code": "BIOB34H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "INPER",
+"enrollmentCap": 220,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1741018514
+},
+{
+"newCapacity": 175,
+"time": 1742961315
+},
+{
+"newCapacity": 220,
+"time": 1744128897
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+151,
+184,
+194,
+194,
+194,
+194,
+197,
+198,
+205,
+205,
+206,
+206,
+207,
+206
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Brown"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Brown"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Animal Physiology"
+}

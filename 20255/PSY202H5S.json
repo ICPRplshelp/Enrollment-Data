@@ -1,0 +1,68 @@
+{
+"code": "PSY202H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1743090721,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+1,
+2,
+2,
+2,
+3,
+3,
+8,
+8,
+12,
+12,
+12,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1743701346
+}
+]
+},
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1743090720,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Introduction to Quantitative Research in Psychology II"
+}

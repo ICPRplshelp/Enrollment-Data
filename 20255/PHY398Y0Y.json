@@ -1,0 +1,46 @@
+{
+"code": "PHY398Y0Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744128897,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ziqing",
+"lastName": "Hong"
+}
+],
+"timing": 1744128897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ziqing",
+"lastName": "Hong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744128896,
+1744128897
+],
+"title": "Research Excursions"
+}

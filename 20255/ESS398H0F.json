@@ -1,0 +1,54 @@
+{
+"code": "ESS398H0F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744128897,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carl-Georg",
+"lastName": "Bank"
+},
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+}
+],
+"timing": 1744128897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Carl-Georg",
+"lastName": "Bank"
+},
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744128896,
+1744128897
+],
+"title": "Research Excursions"
+}

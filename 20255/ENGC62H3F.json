@@ -1,0 +1,61 @@
+{
+"code": "ENGC62H3F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "SYNC",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kateri",
+"lastName": "Akiwenzie-Damm"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kateri",
+"lastName": "Akiwenzie-Damm"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514
+],
+"title": "Indigenous Short Stories of Turtle Island"
+}

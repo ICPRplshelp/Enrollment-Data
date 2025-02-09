@@ -1,0 +1,102 @@
+{
+"code": "BIO153H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 72,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 72
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+50,
+52,
+52,
+50,
+55,
+56,
+58,
+58,
+58,
+59,
+58,
+58,
+58,
+58,
+58,
+59,
+57,
+57,
+57,
+57,
+56
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Junyan",
+"lastName": "Zhang"
+}
+],
+"timing": 1744128897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Junyan",
+"lastName": "Zhang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Diversity of Organisms"
+}

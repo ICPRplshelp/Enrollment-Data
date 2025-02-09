@@ -1,0 +1,139 @@
+{
+"code": "SOC202H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 56,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 45,
+"time": 1741619086
+},
+{
+"newCapacity": 50,
+"time": 1742500368
+},
+{
+"newCapacity": 55,
+"time": 1743202869
+},
+{
+"newCapacity": 56,
+"time": 1743818498
+}
+],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+11,
+46,
+52,
+55,
+45,
+49,
+50,
+52,
+50,
+50,
+51,
+50,
+52,
+52,
+53,
+53,
+56,
+55,
+55,
+55,
+55,
+55,
+55,
+54,
+57,
+57,
+57,
+57
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fedor",
+"lastName": "Dokshin"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Fedor",
+"lastName": "Dokshin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Introduction to Quantitative Methods in Sociology"
+}

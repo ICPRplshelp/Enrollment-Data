@@ -1,0 +1,46 @@
+{
+"code": "CRI398H0S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744128897,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamari",
+"lastName": "Clarke"
+}
+],
+"timing": 1744128897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kamari",
+"lastName": "Clarke"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744128896,
+1744128897
+],
+"title": "Research Excusrions"
+}

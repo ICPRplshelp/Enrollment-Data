@@ -1,0 +1,165 @@
+{
+"code": "STA256H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+113,
+124,
+124,
+130,
+140,
+140,
+149,
+150,
+151,
+152,
+151,
+151,
+151,
+148,
+147,
+144,
+145,
+144,
+144,
+143,
+138
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Omidali",
+"lastName": "Aghababaei Jazi"
+}
+],
+"timing": 1741619086
+}
+]
+},
+"instructors": [
+{
+"firstName": "Omidali",
+"lastName": "Aghababaei Jazi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+40,
+38,
+38,
+36,
+37,
+37,
+39,
+40,
+39,
+38,
+38,
+38,
+38,
+39,
+39,
+38,
+38,
+38,
+38,
+40,
+40
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
+"timing": 1741619086
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nishan",
+"lastName": "Mudalige"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897
+],
+"title": "Probability and Statistics I"
+}
