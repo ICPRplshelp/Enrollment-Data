@@ -1,0 +1,45 @@
+{
+"code": "ECO414H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322
+],
+"title": "Energy and Regulation"
+}

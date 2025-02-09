@@ -1,0 +1,45 @@
+{
+"code": "CSC236H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322
+],
+"title": "Introduction to the Theory of Computation"
+}

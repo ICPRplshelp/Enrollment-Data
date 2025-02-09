@@ -1,0 +1,82 @@
+{
+"code": "APS360H1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1740182243
+}
+],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1740182243
+}
+],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322
+],
+"title": "Applied Fundamentals of Deep Learning"
+}
