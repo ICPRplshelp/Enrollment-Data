@@ -1,0 +1,90 @@
+{
+"code": "POL382H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+11,
+21,
+24,
+25,
+29,
+31,
+31,
+31,
+31,
+31,
+33,
+37
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jenna",
+"lastName": "Quelch"
+}
+],
+"timing": 1739847151
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jenna",
+"lastName": "Quelch"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368
+],
+"title": "Topics in Canadian Politics"
+}

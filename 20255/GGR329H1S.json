@@ -1,0 +1,80 @@
+{
+"code": "GGR329H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1739847151,
+"delivery": "SYNC",
+"enrollmentCap": 170,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 170,
+"time": 1741619086
+}
+],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+120,
+248,
+255,
+259,
+264,
+268,
+267,
+270,
+270,
+270,
+275,
+277
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1739847150,
+1739847151,
+1739893198,
+1740026758,
+1740066342,
+1740182243,
+1740291217,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368
+],
+"title": "The Global Food System"
+}

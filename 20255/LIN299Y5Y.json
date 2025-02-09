@@ -1,0 +1,39 @@
+{
+"code": "LIN299Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1741889786,
+"delivery": "ASYNC",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1741889785,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368
+],
+"title": "Research Opportunity Program"
+}

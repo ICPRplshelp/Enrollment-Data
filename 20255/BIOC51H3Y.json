@@ -1,0 +1,66 @@
+{
+"code": "BIOC51H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1741055141,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan Richard",
+"lastName": "Lovejoy"
+}
+],
+"timing": 1741279698
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathan Richard",
+"lastName": "Lovejoy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1741055140,
+1741055141,
+1741102333,
+1741146523,
+1741279698,
+1741619086,
+1741708622,
+1741889786,
+1742005934,
+1742068360,
+1742239751,
+1742500368
+],
+"title": "Tropical Biodiversity Field Course"
+}
