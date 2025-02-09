@@ -1,0 +1,63 @@
+{
+"code": "STAC62H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740501322,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vladimir",
+"lastName": "Vinogradov"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vladimir",
+"lastName": "Vinogradov"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1740501321,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333
+],
+"title": "Probability and Stochastic Processes I"
+}

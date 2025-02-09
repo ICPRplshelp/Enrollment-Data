@@ -1,0 +1,65 @@
+{
+"code": "ENGA01H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1740415423,
+"delivery": "SYNC",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1741018514
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "DuBois"
+}
+],
+"timing": 1741018514
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "DuBois"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1740415422,
+1740415423,
+1740501322,
+1740615610,
+1740670577,
+1740786546,
+1741018514,
+1741055141,
+1741102333
+],
+"title": "What Is Literature?"
+}
