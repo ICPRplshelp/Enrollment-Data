@@ -1,0 +1,46 @@
+{
+"code": "PSY100Y5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dax",
+"lastName": "Urbszat"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "Dax",
+"lastName": "Urbszat"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546
+],
+"title": "Introductory Psychology"
+}

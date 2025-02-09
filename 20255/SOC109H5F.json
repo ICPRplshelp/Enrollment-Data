@@ -1,0 +1,54 @@
+{
+"code": "SOC109H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "SYNC",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 300
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julius",
+"lastName": "Haag"
+},
+{
+"firstName": "Zachary",
+"lastName": "Richer"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "Julius",
+"lastName": "Haag"
+},
+{
+"firstName": "Zachary",
+"lastName": "Richer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546
+],
+"title": "Introduction to Criminology, Law & Society"
+}

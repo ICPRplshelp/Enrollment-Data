@@ -1,0 +1,46 @@
+{
+"code": "SOC330H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1740786546,
+"delivery": "ASYNC",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jerry",
+"lastName": "Flores"
+}
+],
+"timing": 1740786546
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jerry",
+"lastName": "Flores"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC9999"
+}
+],
+"timeIntervals": [
+1740786545,
+1740786546
+],
+"title": "Criminology and Immigration"
+}

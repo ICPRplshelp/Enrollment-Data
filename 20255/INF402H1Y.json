@@ -1,0 +1,35 @@
+{
+"code": "INF402H1Y",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1740615610,
+"delivery": "ASYNC",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1740615609,
+1740615610,
+1740670577,
+1740786546
+],
+"title": "Practicum"
+}
