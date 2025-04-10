@@ -1,0 +1,54 @@
+{
+"code": "PHL299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744733264,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elisa",
+"lastName": "Freschi"
+}
+],
+"timing": 1744733264
+}
+]
+},
+"instructors": [
+{
+"firstName": "Elisa",
+"lastName": "Freschi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744733263,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
+],
+"title": "Research Opportunity Program"
+}

@@ -49,7 +49,17 @@
 17,
 17,
 17,
-17
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+25,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,12 +87,16 @@
 {
 "createdAt": 1740415423,
 "delivery": "ASYNC",
-"enrollmentCap": 90,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 90,
 "time": 1741018514
+},
+{
+"newCapacity": 75,
+"time": 1744411985
 }
 ],
 "initialCap": 0
@@ -121,7 +135,17 @@
 40,
 40,
 40,
-38
+38,
+38,
+38,
+38,
+38,
+38,
+38,
+51,
+51,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -193,7 +217,17 @@
 4,
 4,
 4,
-4
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+6,
+6,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,7 +272,17 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
 ],
 "title": "Integrating Your Work Term Experience Part I"
 }

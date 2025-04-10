@@ -1,0 +1,33 @@
+{
+"code": "ESC499H1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1745008391,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1745008390,
+1745008391,
+1745081340
+],
+"title": "Thesis"
+}

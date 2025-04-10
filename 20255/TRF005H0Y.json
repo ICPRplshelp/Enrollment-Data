@@ -1,0 +1,35 @@
+{
+"code": "TRF005H0Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744902999,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1744902998,
+1744902999,
+1745008391,
+1745081340
+],
+"title": "CIE - Outgoing Exch. Program"
+}

@@ -5,9 +5,14 @@
 {
 "createdAt": 1742005934,
 "delivery": "SYNC",
-"enrollmentCap": 140,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1744639968
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -31,7 +36,17 @@
 0,
 0,
 146,
-172
+172,
+174,
+173,
+173,
+173,
+173,
+175,
+175,
+175,
+173,
+173
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +93,17 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
 ],
 "title": "Ethics & Power in Kinesiology Physical Education and Health Fields"
 }

@@ -49,13 +49,38 @@
 47,
 47,
 47,
-49
+49,
+48,
+49,
+49,
+49,
+49,
+49,
+50,
+50,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1744411985
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -106,13 +131,38 @@
 50,
 50,
 51,
-51
+51,
+51,
+56,
+56,
+56,
+55,
+56,
+56,
+57,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1744411985
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -151,7 +201,17 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
 ],
 "title": "Advanced Data Analysis in Psychology"
 }

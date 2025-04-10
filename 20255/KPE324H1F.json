@@ -5,9 +5,14 @@
 {
 "createdAt": 1742005934,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 90,
+"time": 1744639968
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -31,13 +36,38 @@
 0,
 0,
 79,
-82
+82,
+83,
+84,
+84,
+84,
+83,
+81,
+88,
+88,
+88,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noah Benjamin",
+"lastName": "Gentner"
+}
+],
+"timing": 1744300450
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Noah Benjamin",
+"lastName": "Gentner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -63,7 +93,17 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
 ],
 "title": "Advanced Sport Psychology"
 }

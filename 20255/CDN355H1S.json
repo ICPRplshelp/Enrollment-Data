@@ -50,13 +50,38 @@
 47,
 47,
 48,
-48
+48,
+48,
+48,
+48,
+48,
+48,
+49,
+48,
+49,
+49,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Siobhan",
+"lastName": "O'Flynn"
+}
+],
+"timing": 1744300450
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Siobhan",
+"lastName": "O'Flynn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +126,17 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340
 ],
 "title": "Digital Media, Digital Makers"
 }
