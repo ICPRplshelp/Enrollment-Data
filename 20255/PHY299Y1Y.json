@@ -50,13 +50,47 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Boris",
+"lastName": "Braverman"
+}
+],
+"timing": 1744733264
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Boris",
+"lastName": "Braverman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -108,15 +142,141 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1744733264
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1744733264,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sergio",
+"lastName": "de la Barrera"
+}
+],
+"timing": 1744733264
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sergio",
+"lastName": "de la Barrera"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -159,7 +319,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Research Opportunity Program"
 }

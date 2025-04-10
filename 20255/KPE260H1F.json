@@ -5,9 +5,14 @@
 {
 "createdAt": 1742005934,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1744847358
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -31,13 +36,47 @@
 0,
 0,
 139,
-150
+150,
+153,
+152,
+152,
+152,
+152,
+150,
+149,
+149,
+148,
+148,
+148,
+145,
+145,
+142,
+142,
+145,
+145,
+147,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danny",
+"lastName": "Pincivero"
+}
+],
+"timing": 1744300450
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danny",
+"lastName": "Pincivero"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -63,7 +102,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Human Physiology I"
 }

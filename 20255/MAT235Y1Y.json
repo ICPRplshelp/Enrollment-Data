@@ -50,13 +50,64 @@
 126,
 126,
 129,
-137
+137,
+145,
+154,
+154,
+154,
+156,
+157,
+161,
+158,
+156,
+156,
+156,
+164,
+164,
+165,
+165,
+165,
+165,
+164,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giacomo",
+"lastName": "Bertizzolo"
+}
+],
+"timing": 1744847358
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Giacomo",
+"lastName": "Bertizzolo"
+},
+{
+"firstName": "Mikale",
+"lastName": "Reddy"
+}
+],
+"timing": 1745464815
+}
+]
+},
+"instructors": [
+{
+"firstName": "Giacomo",
+"lastName": "Bertizzolo"
+},
+{
+"firstName": "Mikale",
+"lastName": "Reddy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -108,13 +159,55 @@
 163,
 163,
 165,
-170
+170,
+170,
+169,
+169,
+169,
+167,
+167,
+166,
+165,
+166,
+166,
+166,
+168,
+168,
+167,
+167,
+161,
+161,
+159,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
 },
-"instructors": [],
+{
+"firstName": "Alex",
+"lastName": "Rodriguez"
+}
+],
+"timing": 1744847358
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chun-Kai Kevin",
+"lastName": "Chien"
+},
+{
+"firstName": "Alex",
+"lastName": "Rodriguez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -159,7 +252,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Multivariable Calculus"
 }

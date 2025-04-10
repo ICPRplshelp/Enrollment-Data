@@ -1,0 +1,82 @@
+{
+"code": "ARC395H1S1",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1744300450,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+14,
+14,
+14,
+14,
+14,
+14,
+12,
+12,
+12,
+12,
+14,
+14,
+14,
+14
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Humbi",
+"lastName": "Song"
+}
+],
+"timing": 1744300450
+}
+]
+},
+"instructors": [
+{
+"firstName": "Humbi",
+"lastName": "Song"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0102"
+}
+],
+"timeIntervals": [
+1744300449,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Design Build"
+}

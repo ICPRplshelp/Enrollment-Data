@@ -5,9 +5,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1744847358
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -50,13 +55,47 @@
 47,
 47,
 47,
-50
+50,
+54,
+52,
+52,
+52,
+51,
+52,
+51,
+53,
+54,
+54,
+54,
+55,
+55,
+57,
+57,
+56,
+56,
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Graham",
+"lastName": "Sanders"
+}
+],
+"timing": 1744411985
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Graham",
+"lastName": "Sanders"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -101,7 +140,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Chinese Literature (Song to Qing)"
 }

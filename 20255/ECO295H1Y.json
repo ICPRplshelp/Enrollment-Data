@@ -1,0 +1,66 @@
+{
+"code": "ECO295H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1745008391,
+"delivery": "HYBR",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
+"timing": 1745008391
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1745008390,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Independent Study"
+}

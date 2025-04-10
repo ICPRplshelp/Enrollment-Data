@@ -1,0 +1,60 @@
+{
+"code": "JOUB03H3Y",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1745290883,
+"delivery": "INPER",
+"enrollmentCap": 29,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 29
+},
+"enrollmentLogs": [
+0,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1745290883
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1745290882,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Business of Journalism"
+}

@@ -1,0 +1,216 @@
+{
+"code": "ROP299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1744733264,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+5,
+5,
+5,
+5,
+5,
+5,
+7,
+7,
+7,
+7,
+7,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eunice Eunhee",
+"lastName": "Jang"
+}
+],
+"timing": 1744733264
+}
+]
+},
+"instructors": [
+{
+"firstName": "Eunice Eunhee",
+"lastName": "Jang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1744733264,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jamie",
+"lastName": "Feusner"
+}
+],
+"timing": 1744733264
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jamie",
+"lastName": "Feusner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1744733264,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+6,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yufeng",
+"lastName": "Zhao"
+}
+],
+"timing": 1744733264
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yufeng",
+"lastName": "Zhao"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1745464815,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Becky",
+"lastName": "Chen"
+}
+],
+"timing": 1745464815
+}
+]
+},
+"instructors": [
+{
+"firstName": "Becky",
+"lastName": "Chen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0401"
+}
+],
+"timeIntervals": [
+1744733263,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Research Opportunity Program"
+}

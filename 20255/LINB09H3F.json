@@ -49,13 +49,47 @@
 61,
 61,
 63,
-64
+64,
+63,
+63,
+63,
+63,
+64,
+62,
+61,
+60,
+59,
+59,
+59,
+58,
+58,
+60,
+60,
+58,
+58,
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radu",
+"lastName": "Craioveanu"
+}
+],
+"timing": 1745290883
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radu",
+"lastName": "Craioveanu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -94,7 +128,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Phonetics: The Study of Speech Sounds"
 }

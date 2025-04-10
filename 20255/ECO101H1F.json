@@ -50,13 +50,47 @@
 139,
 139,
 142,
-149
+149,
+162,
+163,
+163,
+163,
+162,
+159,
+159,
+161,
+162,
+161,
+161,
+160,
+160,
+158,
+158,
+154,
+154,
+150,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amy",
+"lastName": "Huang"
+}
+],
+"timing": 1744733264
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amy",
+"lastName": "Huang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -108,13 +142,47 @@
 138,
 138,
 141,
-150
+150,
+156,
+157,
+157,
+157,
+158,
+159,
+160,
+160,
+161,
+160,
+160,
+159,
+159,
+157,
+157,
+153,
+153,
+149,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amy",
+"lastName": "Huang"
+}
+],
+"timing": 1744733264
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amy",
+"lastName": "Huang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -159,7 +227,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Principles of Microeconomics"
 }

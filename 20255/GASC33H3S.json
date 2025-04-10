@@ -5,7 +5,7 @@
 {
 "createdAt": 1740415423,
 "delivery": "SYNC",
-"enrollmentCap": 40,
+"enrollmentCap": 43,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 40,
 "time": 1741889786
+},
+{
+"newCapacity": 43,
+"time": 1744847358
 }
 ],
 "initialCap": 0
@@ -53,13 +57,47 @@
 40,
 40,
 44,
-44
+44,
+43,
+44,
+44,
+44,
+47,
+47,
+51,
+51,
+51,
+51,
+51,
+50,
+50,
+56,
+56,
+55,
+55,
+55,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lan",
+"lastName": "Li"
+}
+],
+"timing": 1745464815
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lan",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -98,7 +136,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Critical Perspectives in Global Buddhism"
 }

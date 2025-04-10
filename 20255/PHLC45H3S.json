@@ -1,0 +1,56 @@
+{
+"code": "PHLC45H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1745464815,
+"delivery": "SYNC",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+7,
+7,
+10,
+16
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Seyed Mohammad",
+"lastName": "Yarandi"
+}
+],
+"timing": 1745464815
+}
+]
+},
+"instructors": [
+{
+"firstName": "Seyed Mohammad",
+"lastName": "Yarandi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1745464814,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Advanced Topics in Philosophy"
+}

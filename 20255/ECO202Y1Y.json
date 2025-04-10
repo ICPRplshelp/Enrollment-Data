@@ -5,9 +5,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1745925704
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -50,7 +55,26 @@
 110,
 110,
 114,
-123
+123,
+127,
+128,
+128,
+128,
+124,
+122,
+118,
+117,
+115,
+115,
+115,
+116,
+116,
+118,
+118,
+117,
+117,
+113,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,6 +87,19 @@
 }
 ],
 "timing": 1740615610
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Olga",
+"lastName": "Denislamova"
+},
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
+"timing": 1744733264
 }
 ]
 },
@@ -70,6 +107,10 @@
 {
 "firstName": "Olga",
 "lastName": "Denislamova"
+},
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
 }
 ],
 "isCancelled": false,
@@ -116,7 +157,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Macroeconomic Theory and Policy"
 }

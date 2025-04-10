@@ -1,0 +1,37 @@
+{
+"code": "EUR495H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1745621587,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1745621586,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Independent Studies"
+}

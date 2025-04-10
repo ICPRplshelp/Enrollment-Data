@@ -50,7 +50,26 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,13 +82,22 @@
 }
 ],
 "timing": 1739847151
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+}
+],
+"timing": 1744733264
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Evelyn",
-"lastName": "Lambe"
+"firstName": "Andrea",
+"lastName": "Jurisicova"
 }
 ],
 "isCancelled": false,
@@ -123,13 +151,47 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denise",
+"lastName": "Belsham"
+}
+],
+"timing": 1744847358
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denise",
+"lastName": "Belsham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -181,13 +243,47 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adria",
+"lastName": "Giacca"
+}
+],
+"timing": 1745464815
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adria",
+"lastName": "Giacca"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -239,13 +335,47 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adria",
+"lastName": "Giacca"
+}
+],
+"timing": 1745925704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adria",
+"lastName": "Giacca"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -290,7 +420,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Research Opportunity Program"
 }

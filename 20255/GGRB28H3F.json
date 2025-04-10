@@ -5,12 +5,16 @@
 {
 "createdAt": 1740415423,
 "delivery": "SYNC",
-"enrollmentCap": 90,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 90,
 "time": 1741018514
+},
+{
+"newCapacity": 120,
+"time": 1744300450
 }
 ],
 "initialCap": 0
@@ -49,13 +53,47 @@
 122,
 122,
 118,
-119
+119,
+121,
+120,
+120,
+120,
+120,
+120,
+118,
+121,
+120,
+121,
+121,
+125,
+125,
+124,
+124,
+123,
+123,
+122,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
+"timing": 1744847358
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -94,7 +132,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Geographies of Disease"
 }

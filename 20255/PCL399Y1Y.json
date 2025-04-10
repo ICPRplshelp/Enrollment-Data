@@ -1,0 +1,56 @@
+{
+"code": "PCL399Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1745464815,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chao",
+"lastName": "Zheng"
+}
+],
+"timing": 1745464815
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chao",
+"lastName": "Zheng"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1745464814,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
+],
+"title": "Research Opportunity Program"
+}

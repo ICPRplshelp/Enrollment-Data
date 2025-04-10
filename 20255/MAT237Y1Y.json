@@ -50,13 +50,64 @@
 46,
 46,
 48,
-50
+50,
+56,
+57,
+57,
+57,
+61,
+62,
+61,
+62,
+63,
+64,
+64,
+68,
+68,
+69,
+69,
+65,
+65,
+64,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Federico",
+"lastName": "Manganello"
+}
+],
+"timing": 1745008391
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Federico",
+"lastName": "Manganello"
+},
+{
+"firstName": "Viram",
+"lastName": "Venkataramani"
+}
+],
+"timing": 1745464815
+}
+]
+},
+"instructors": [
+{
+"firstName": "Federico",
+"lastName": "Manganello"
+},
+{
+"firstName": "Viram",
+"lastName": "Venkataramani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -108,13 +159,64 @@
 102,
 102,
 104,
+111,
+113,
+116,
+116,
+116,
+116,
+115,
+116,
+115,
+114,
+114,
+114,
+110,
+110,
+109,
+109,
+108,
+108,
+110,
 111
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Armanpreet",
+"lastName": "Pannu"
+}
+],
+"timing": 1744847358
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Armanpreet",
+"lastName": "Pannu"
+},
+{
+"firstName": "Yukai",
+"lastName": "Zhang"
+}
+],
+"timing": 1745008391
+}
+]
+},
+"instructors": [
+{
+"firstName": "Armanpreet",
+"lastName": "Pannu"
+},
+{
+"firstName": "Yukai",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -159,7 +261,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Multivariable Calculus with Proofs"
 }

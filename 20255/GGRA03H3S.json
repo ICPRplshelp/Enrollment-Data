@@ -5,7 +5,7 @@
 {
 "createdAt": 1740415423,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 60,
 "time": 1742005934
+},
+{
+"newCapacity": 160,
+"time": 1744300450
 }
 ],
 "initialCap": 0
@@ -53,13 +57,47 @@
 176,
 176,
 173,
-170
+170,
+171,
+177,
+177,
+177,
+176,
+173,
+171,
+176,
+177,
+175,
+175,
+181,
+181,
+180,
+180,
+177,
+177,
+179,
+178
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Killian",
+"lastName": "McCormack"
+}
+],
+"timing": 1744847358
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Killian",
+"lastName": "McCormack"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -98,7 +136,26 @@
 1743818498,
 1743984625,
 1744036902,
-1744128897
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264,
+1744847358,
+1744902999,
+1745008391,
+1745081340,
+1745127019,
+1745290883,
+1745296258,
+1745464815,
+1745473580,
+1745621587,
+1745721614,
+1745856450,
+1745925704
 ],
 "title": "Cities and Environments"
 }
