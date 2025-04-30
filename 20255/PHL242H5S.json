@@ -5,9 +5,14 @@
 {
 "createdAt": 1740786546,
 "delivery": "SYNC",
-"enrollmentCap": 60,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 75,
+"time": 1746546516
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -59,13 +64,38 @@
 74,
 74,
 74,
-73
+73,
+75,
+74,
+67,
+67,
+67,
+70,
+75,
+74,
+72,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josh",
+"lastName": "Brecka"
+}
+],
+"timing": 1746054650
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josh",
+"lastName": "Brecka"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -119,7 +149,17 @@
 1745621587,
 1745721614,
 1745856450,
-1745925704
+1745925704,
+1746054650,
+1746116712,
+1746230363,
+1746296810,
+1746334991,
+1746456976,
+1746546516,
+1746660483,
+1746721349,
+1746838227
 ],
 "title": "Science Fiction and Philosophy"
 }

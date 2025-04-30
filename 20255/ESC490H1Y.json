@@ -1,0 +1,46 @@
+{
+"code": "ESC490H1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1746838227,
+"delivery": "SYNC",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Grant"
+}
+],
+"timing": 1746838227
+}
+]
+},
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Grant"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1746838226,
+1746838227
+],
+"title": "Engineering Science Independent Study"
+}

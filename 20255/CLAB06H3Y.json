@@ -5,7 +5,7 @@
 {
 "createdAt": 1740415423,
 "delivery": "SYNC",
-"enrollmentCap": 58,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -27,6 +27,10 @@
 {
 "newCapacity": 58,
 "time": 1744847358
+},
+{
+"newCapacity": 60,
+"time": 1746230363
 }
 ],
 "initialCap": 0
@@ -84,7 +88,17 @@
 61,
 61,
 62,
-62
+62,
+58,
+60,
+60,
+60,
+60,
+62,
+55,
+58,
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,7 +177,17 @@
 1745621587,
 1745721614,
 1745856450,
-1745925704
+1745925704,
+1746054650,
+1746116712,
+1746230363,
+1746296810,
+1746334991,
+1746456976,
+1746546516,
+1746660483,
+1746721349,
+1746838227
 ],
 "title": "History and Culture of the Roman World"
 }
