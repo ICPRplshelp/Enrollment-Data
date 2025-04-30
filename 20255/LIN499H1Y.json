@@ -1,0 +1,39 @@
+{
+"code": "LIN499H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1747289823,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1747289822,
+1747289823,
+1747376282,
+1747462741,
+1747549203,
+1747635661
+],
+"title": "Individual Project"
+}

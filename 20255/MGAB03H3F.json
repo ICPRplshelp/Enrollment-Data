@@ -5,12 +5,16 @@
 {
 "createdAt": 1740415423,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1741018514
+},
+{
+"newCapacity": 63,
+"time": 1746660483
 }
 ],
 "initialCap": 0
@@ -68,7 +72,27 @@
 68,
 68,
 68,
-67
+67,
+69,
+69,
+66,
+66,
+66,
+66,
+61,
+63,
+63,
+63,
+63,
+63,
+63,
+63,
+63,
+63,
+63,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -96,12 +120,16 @@
 {
 "createdAt": 1740415423,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1741018514
+},
+{
+"newCapacity": 63,
+"time": 1746660483
 }
 ],
 "initialCap": 0
@@ -159,7 +187,27 @@
 69,
 69,
 66,
-64
+64,
+65,
+65,
+63,
+63,
+63,
+65,
+60,
+58,
+58,
+59,
+59,
+59,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -187,12 +235,16 @@
 {
 "createdAt": 1740415423,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 60,
 "time": 1741018514
+},
+{
+"newCapacity": 63,
+"time": 1746660483
 }
 ],
 "initialCap": 0
@@ -250,7 +302,27 @@
 73,
 73,
 71,
-70
+70,
+70,
+70,
+68,
+68,
+68,
+67,
+60,
+62,
+62,
+58,
+58,
+58,
+58,
+58,
+57,
+57,
+57,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -329,7 +401,27 @@
 1745621587,
 1745721614,
 1745856450,
-1745925704
+1745925704,
+1746054650,
+1746116712,
+1746230363,
+1746296810,
+1746334991,
+1746456976,
+1746546516,
+1746660483,
+1746721349,
+1746838227,
+1746920659,
+1746974869,
+1747064529,
+1747101388,
+1747203363,
+1747289823,
+1747376282,
+1747462741,
+1747549203,
+1747635661
 ],
 "title": "Introductory Management Accounting"
 }

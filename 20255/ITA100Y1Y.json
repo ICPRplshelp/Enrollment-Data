@@ -74,6 +74,26 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -87,7 +107,7 @@
 {
 "createdAt": 1739847151,
 "delivery": "SYNC",
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -97,6 +117,10 @@
 {
 "newCapacity": 30,
 "time": 1744733264
+},
+{
+"newCapacity": 31,
+"time": 1746116712
 }
 ],
 "initialCap": 30
@@ -160,7 +184,27 @@
 31,
 31,
 32,
-31
+31,
+31,
+31,
+33,
+33,
+33,
+30,
+29,
+28,
+25,
+24,
+24,
+24,
+23,
+23,
+23,
+23,
+24,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -252,13 +296,48 @@
 32,
 32,
 31,
-29
+29,
+29,
+30,
+32,
+32,
+32,
+30,
+26,
+26,
+27,
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+25,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Valentini"
+}
+],
+"timing": 1746054650
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Valentini"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5102"
 }
@@ -322,7 +401,27 @@
 1745621587,
 1745721614,
 1745856450,
-1745925704
+1745925704,
+1746054650,
+1746116712,
+1746230363,
+1746296810,
+1746334991,
+1746456976,
+1746546516,
+1746660483,
+1746721349,
+1746838227,
+1746920659,
+1746974869,
+1747064529,
+1747101388,
+1747203363,
+1747289823,
+1747376282,
+1747462741,
+1747549203,
+1747635661
 ],
 "title": "Italian Language for Beginners"
 }
