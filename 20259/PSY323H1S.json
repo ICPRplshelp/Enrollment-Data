@@ -1,0 +1,52 @@
+{
+"code": "PSY323H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753452756,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+2,
+2,
+10,
+13
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
+"timing": 1753457578
+}
+]
+},
+"instructors": [
+{
+"firstName": "Malvina",
+"lastName": "Skorska"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753452755,
+1753452756,
+1753453495,
+1753457578,
+1753466246
+],
+"title": "Sex Roles and Behaviour"
+}

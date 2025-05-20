@@ -1,0 +1,37 @@
+{
+"code": "CSC498H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1753452756,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753452755,
+1753452756,
+1753453495,
+1753457578,
+1753466246
+],
+"title": "Topics in Computer Science"
+}

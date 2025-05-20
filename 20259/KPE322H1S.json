@@ -1,0 +1,46 @@
+{
+"code": "KPE322H1S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "HYBR",
+"enrollmentCap": 140,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 140
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lynda",
+"lastName": "Mainwaring"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lynda",
+"lastName": "Mainwaring"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647
+],
+"title": "Psychology of Injury and Rehabilitation"
+}

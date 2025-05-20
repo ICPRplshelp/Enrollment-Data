@@ -1,0 +1,39 @@
+{
+"code": "INF497Y1Y",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1753316503,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753316502,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246
+],
+"title": "Reading Course"
+}
