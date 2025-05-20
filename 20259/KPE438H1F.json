@@ -1,0 +1,46 @@
+{
+"code": "KPE438H1F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maryam",
+"lastName": "Marashi"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Maryam",
+"lastName": "Marashi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647
+],
+"title": "Special Topics in Kinesiology and Physical Education"
+}

@@ -1,0 +1,35 @@
+{
+"code": "INF302H1S",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1752086280,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1752086279,
+1752086280,
+1752241986,
+1752336678
+],
+"title": "Integr Approaches Tech & Soc"
+}

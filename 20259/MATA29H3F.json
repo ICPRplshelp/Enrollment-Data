@@ -1,0 +1,242 @@
+{
+"code": "MATA29H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 234,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 234
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+7,
+7,
+7,
+251,
+252,
+252,
+258,
+260,
+262,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+255,
+253,
+270,
+269
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 300
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+4,
+4,
+4,
+4,
+312,
+314,
+314,
+328,
+330,
+325,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+318,
+317,
+336,
+339
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Parker",
+"lastName": "Glynn-Adey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1752064053
+}
+],
+"initialCap": 195
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+3,
+3,
+3,
+3,
+198,
+199,
+199,
+212,
+211,
+210,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+221,
+223,
+263,
+266
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986,
+1752336678
+],
+"title": "Calculus I for the Life Sciences"
+}

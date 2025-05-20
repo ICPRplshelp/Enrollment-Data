@@ -1,0 +1,183 @@
+{
+"code": "MGFC50H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+52,
+52,
+53,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+54,
+53,
+53
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven John",
+"lastName": "Riddiough"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven John",
+"lastName": "Riddiough"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+21,
+23,
+24,
+25,
+26,
+26,
+26,
+26,
+27,
+27,
+26,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+35,
+37,
+37
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven John",
+"lastName": "Riddiough"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven John",
+"lastName": "Riddiough"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986,
+1752336678
+],
+"title": "International Financial Management"
+}

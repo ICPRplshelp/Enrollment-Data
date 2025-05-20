@@ -1,0 +1,48 @@
+{
+"code": "MATD11H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1752241986,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stefanos",
+"lastName": "Aretakis"
+}
+],
+"timing": 1752241986
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stefanos",
+"lastName": "Aretakis"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1752241985,
+1752241986,
+1752336678
+],
+"title": "Topics in Mathematics"
+}

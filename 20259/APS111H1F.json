@@ -1,0 +1,285 @@
+{
+"code": "APS111H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+453,
+453,
+452,
+443,
+443,
+443,
+466,
+467,
+467,
+467,
+469,
+469,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468,
+468
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+}
+],
+"timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+}
+],
+"timing": 1751644976
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+492,
+492,
+492,
+490,
+489,
+489,
+468,
+468,
+468,
+468,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+471,
+470
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+473,
+472,
+471,
+471,
+471,
+471,
+471,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+470,
+471,
+471
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986,
+1752336678
+],
+"title": "Engineering Strategies & Practice I"
+}
