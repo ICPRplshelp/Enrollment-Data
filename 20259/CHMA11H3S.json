@@ -1,0 +1,567 @@
+{
+"code": "CHMA11H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+668,
+665,
+665,
+675,
+662,
+656,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+658,
+667,
+671,
+671,
+676,
+676,
+676,
+676,
+676,
+676,
+676,
+676,
+676,
+676,
+676,
+677,
+649,
+644,
+642,
+640,
+639,
+639,
+639,
+638,
+638,
+638,
+638,
+638,
+638,
+638,
+638,
+639,
+639,
+634,
+626,
+611,
+604,
+622,
+665,
+665,
+666,
+669,
+672,
+682,
+695,
+702,
+704,
+704,
+709,
+716,
+719,
+725,
+728
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1751259267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"timing": 1752719937
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "SYNC",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+443,
+448,
+448,
+476,
+488,
+501,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+512,
+513,
+534,
+535,
+535,
+545,
+545,
+545,
+545,
+545,
+545,
+545,
+545,
+545,
+545,
+546,
+546,
+525,
+521,
+518,
+517,
+516,
+516,
+516,
+516,
+516,
+516,
+517,
+517,
+516,
+516,
+516,
+516,
+516,
+515,
+512,
+511,
+510,
+523,
+570,
+570,
+571,
+573,
+577,
+593,
+604,
+612,
+611,
+611,
+618,
+622,
+625,
+626,
+630
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1751259267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"timing": 1752719937
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 344,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 382,
+"time": 1752516480
+},
+{
+"newCapacity": 380,
+"time": 1752586262
+},
+{
+"newCapacity": 344,
+"time": 1753105537
+}
+],
+"initialCap": 152
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+170,
+172,
+172,
+175,
+180,
+185,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+197,
+208,
+211,
+211,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+220,
+229,
+248,
+252,
+252,
+252,
+253,
+254,
+254,
+254,
+254,
+254,
+255,
+255,
+255,
+255,
+256,
+262,
+274,
+289,
+300,
+374,
+432,
+432,
+433,
+436,
+440,
+455,
+470,
+481,
+481,
+481,
+486,
+491,
+492,
+495,
+497
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+}
+],
+"timing": 1751259267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"timing": 1752719937
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+},
+{
+"firstName": "Effiette",
+"lastName": "Sauer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986,
+1752336678,
+1752410802,
+1752496726,
+1752498480,
+1752500280,
+1752502080,
+1752503880,
+1752505680,
+1752507480,
+1752509280,
+1752511080,
+1752512880,
+1752514680,
+1752516480,
+1752518280,
+1752586262,
+1752719937,
+1752754896,
+1752755880,
+1752757680,
+1752759480,
+1752761280,
+1752763080,
+1752764880,
+1752766680,
+1752768480,
+1752770280,
+1752772080,
+1752773880,
+1752775680,
+1752777480,
+1752847843,
+1753043988,
+1753105537,
+1753192637,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Introductory Chemistry II: Reactions and Mechanisms"
+}

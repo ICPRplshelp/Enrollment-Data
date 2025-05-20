@@ -1,0 +1,60 @@
+{
+"code": "LIN498H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1754059080,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Troberg"
+}
+],
+"timing": 1754414307
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Troberg"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1754059079,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Individual Project"
+}

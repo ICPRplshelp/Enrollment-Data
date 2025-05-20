@@ -1,0 +1,50 @@
+{
+"code": "IDSD20H3F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ahmed",
+"lastName": "Ilmi"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ahmed",
+"lastName": "Ilmi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241
+],
+"title": "Thinking Conflict, Security, and Development"
+}

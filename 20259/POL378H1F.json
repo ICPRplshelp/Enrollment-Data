@@ -1,0 +1,76 @@
+{
+"code": "POL378H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753316503,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+2,
+2,
+4,
+4,
+5,
+8,
+8,
+9,
+10,
+10,
+11,
+11,
+11,
+14,
+15
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oded David",
+"lastName": "Oron"
+}
+],
+"timing": 1753316503
+}
+]
+},
+"instructors": [
+{
+"firstName": "Oded David",
+"lastName": "Oron"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1753316502,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Topics in Comparative Politics II"
+}

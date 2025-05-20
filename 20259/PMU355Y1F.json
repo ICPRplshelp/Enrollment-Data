@@ -1,0 +1,64 @@
+{
+"code": "PMU355Y1F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 6,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Philcox"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607
+],
+"title": "Piano-Vocal Masterclass"
+}

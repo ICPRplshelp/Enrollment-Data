@@ -1,0 +1,53 @@
+{
+"code": "ARC490Y1Y",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1753466246,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17,
+17
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1753466245,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Multidisciplinary Urban Capstone Project"
+}

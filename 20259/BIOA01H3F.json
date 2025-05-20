@@ -1,0 +1,533 @@
+{
+"code": "BIOA01H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+601,
+600,
+600,
+605,
+577,
+567,
+562,
+562,
+562,
+562,
+561,
+561,
+561,
+560,
+560,
+560,
+560,
+560,
+559,
+565,
+566,
+566,
+568,
+568,
+569,
+569,
+569,
+569,
+569,
+569,
+570,
+570,
+569,
+569,
+569,
+571,
+568,
+569,
+569,
+569,
+569,
+569,
+569,
+569,
+569,
+569,
+568,
+568,
+568,
+567,
+567,
+568,
+567,
+567,
+565,
+566,
+561,
+561,
+561,
+562,
+563,
+567,
+567,
+566,
+568,
+568,
+570,
+570,
+571,
+570,
+570
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+},
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+604,
+602,
+602,
+604,
+587,
+583,
+580,
+580,
+580,
+580,
+580,
+580,
+580,
+579,
+579,
+579,
+579,
+579,
+578,
+583,
+583,
+583,
+587,
+587,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+588,
+587,
+586,
+585,
+585,
+585,
+585,
+585,
+585,
+584,
+584,
+584,
+585,
+585,
+584,
+585,
+584,
+583,
+583,
+580,
+578,
+574,
+574,
+574,
+574,
+574,
+577,
+577,
+576,
+576,
+576,
+575,
+576,
+576,
+577,
+578
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 600,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1750893040
+},
+{
+"newCapacity": 600,
+"time": 1751644976
+}
+],
+"initialCap": 728
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+298,
+313,
+313,
+347,
+394,
+412,
+429,
+430,
+430,
+430,
+431,
+431,
+431,
+432,
+432,
+432,
+432,
+432,
+434,
+504,
+510,
+510,
+524,
+524,
+523,
+523,
+523,
+523,
+523,
+523,
+523,
+523,
+525,
+525,
+525,
+529,
+536,
+542,
+542,
+542,
+543,
+543,
+543,
+545,
+548,
+548,
+549,
+548,
+549,
+549,
+550,
+551,
+556,
+559,
+562,
+589,
+608,
+608,
+609,
+611,
+612,
+624,
+634,
+637,
+638,
+638,
+639,
+639,
+637,
+636,
+642
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "MacIvor"
+},
+{
+"firstName": "Yan",
+"lastName": "Wang"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Aarthi",
+"lastName": "Ashok"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986,
+1752336678,
+1752410802,
+1752496726,
+1752498480,
+1752500280,
+1752502080,
+1752503880,
+1752505680,
+1752507480,
+1752509280,
+1752511080,
+1752512880,
+1752514680,
+1752516480,
+1752518280,
+1752586262,
+1752719937,
+1752754896,
+1752755880,
+1752757680,
+1752759480,
+1752761280,
+1752763080,
+1752764880,
+1752766680,
+1752768480,
+1752770280,
+1752772080,
+1752773880,
+1752775680,
+1752777480,
+1752847843,
+1753043988,
+1753105537,
+1753192637,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Life on Earth: Unifying Principles"
+}

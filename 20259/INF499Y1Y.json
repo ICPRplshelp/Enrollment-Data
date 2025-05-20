@@ -1,0 +1,33 @@
+{
+"code": "INF499Y1Y",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1754521859,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1754521858,
+1754521859,
+1754607709
+],
+"title": "Reading Course"
+}

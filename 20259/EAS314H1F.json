@@ -1,0 +1,47 @@
+{
+"code": "EAS314H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753808614,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+11,
+17,
+18,
+18,
+20,
+20,
+20,
+21,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753808613,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Culture & World After Hiroshima & Nagasaki"
+}

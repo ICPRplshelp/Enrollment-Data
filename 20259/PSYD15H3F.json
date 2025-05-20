@@ -1,0 +1,60 @@
+{
+"code": "PSYD15H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1754059080,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+6,
+7,
+7,
+8,
+9,
+8,
+9,
+9
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shona Melissa",
+"lastName": "Tritt"
+}
+],
+"timing": 1754059080
+}
+]
+},
+"instructors": [
+{
+"firstName": "Shona Melissa",
+"lastName": "Tritt"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1754059079,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Current Topics in Social Psychology"
+}

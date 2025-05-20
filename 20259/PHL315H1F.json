@@ -1,0 +1,100 @@
+{
+"code": "PHL315H1F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2,
+2,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Stang"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Stang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751893680,
+1751894580,
+1751895480,
+1751896380,
+1751897280,
+1751898180,
+1751899080,
+1751899980,
+1751900880,
+1751901780
+],
+"title": "Topics in 19th-Century Philosophy"
+}

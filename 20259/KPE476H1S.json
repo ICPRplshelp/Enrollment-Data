@@ -1,0 +1,46 @@
+{
+"code": "KPE476H1S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danielle Michelle",
+"lastName": "Lawrence"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Danielle Michelle",
+"lastName": "Lawrence"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647
+],
+"title": "Clinical Exercise Programming"
+}

@@ -1,0 +1,82 @@
+{
+"code": "PHYB10H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1753043988,
+"delivery": "INPER",
+"enrollmentCap": 32,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 32
+},
+"enrollmentLogs": [
+0,
+4,
+18,
+19,
+20,
+22,
+22,
+22,
+22,
+22,
+23,
+23,
+27,
+27,
+27,
+28,
+28,
+28,
+28,
+29
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "McGraw"
+}
+],
+"timing": 1753316503
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "McGraw"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1753043987,
+1753043988,
+1753105537,
+1753192637,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Intermediate Physics Laboratory I"
+}

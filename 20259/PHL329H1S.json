@@ -1,0 +1,78 @@
+{
+"code": "PHL329H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753192637,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+3,
+3,
+4,
+5,
+6,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natalie",
+"lastName": "Helberg"
+}
+],
+"timing": 1753316503
+}
+]
+},
+"instructors": [
+{
+"firstName": "Natalie",
+"lastName": "Helberg"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1753192636,
+1753192637,
+1753316503,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800,
+1754245096,
+1754333703,
+1754414307,
+1754452422,
+1754521859,
+1754607709
+],
+"title": "Topics in 20th Century Continental Philosophy"
+}

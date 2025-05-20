@@ -1,0 +1,46 @@
+{
+"code": "KPE372H1S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "INPER",
+"enrollmentCap": 140,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 140
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Burkhart"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Burkhart"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647
+],
+"title": "Injury and Orthopaedic Biomechanics"
+}
