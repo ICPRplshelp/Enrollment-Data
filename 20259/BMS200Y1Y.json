@@ -1,0 +1,58 @@
+{
+"code": "BMS200Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 198,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 198
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francesco",
+"lastName": "Morriello"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Francesco",
+"lastName": "Morriello"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Book & Media Histories"
+}

@@ -1,0 +1,52 @@
+{
+"code": "PHLB11H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750199938,
+"delivery": "INPER",
+"enrollmentCap": 150,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 150
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Kirley"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Kirley"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750199937,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Philosophy of Law"
+}

@@ -1,0 +1,99 @@
+{
+"code": "ECE361H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+67
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shahrokh",
+"lastName": "Valaee"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Shahrokh",
+"lastName": "Valaee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+65
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shahrokh",
+"lastName": "Valaee"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Shahrokh",
+"lastName": "Valaee"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Computer Networks I"
+}

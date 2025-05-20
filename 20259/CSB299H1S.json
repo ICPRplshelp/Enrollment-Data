@@ -1,0 +1,52 @@
+{
+"code": "CSB299H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1750199938,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ritu",
+"lastName": "Sarpal"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ritu",
+"lastName": "Sarpal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1750199937,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Research Opportunity Program"
+}

@@ -1,0 +1,58 @@
+{
+"code": "HMU126H1S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+142,
+142,
+142,
+145,
+145,
+147,
+147
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robin",
+"lastName": "Elliott"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Elliott"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Historical Survey II"
+}

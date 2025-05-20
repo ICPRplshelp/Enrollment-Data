@@ -1,0 +1,140 @@
+{
+"code": "CSC209H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Petersen"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Petersen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rutwa",
+"lastName": "Engineer"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rutwa",
+"lastName": "Engineer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Software Tools and Systems Programming"
+}

@@ -1,0 +1,176 @@
+{
+"code": "CSC207H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marc",
+"lastName": "De Benedetti"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+},
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Arnold",
+"lastName": "Rosenbloom"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1749855952,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Software Design"
+}

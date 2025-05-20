@@ -1,0 +1,258 @@
+{
+"code": "MGHA12H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+},
+{
+"newCapacity": 60,
+"time": 1750199938
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+60,
+60,
+59,
+59
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1749855953
+},
+{
+"newCapacity": 60,
+"time": 1750199938
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+60,
+60,
+60,
+60
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+},
+{
+"newCapacity": 60,
+"time": 1750199938
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+60,
+60,
+60,
+60
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1749855953
+},
+{
+"newCapacity": 60,
+"time": 1750199938
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+60,
+60,
+60,
+60
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samantha Anne",
+"lastName": "Montgomery"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Samantha Anne",
+"lastName": "Montgomery"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC05"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Human Resource Management"
+}

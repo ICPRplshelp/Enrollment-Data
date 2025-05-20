@@ -1,0 +1,37 @@
+{
+"code": "AFSD20H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750199938,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750199937,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Thinking Conflict, Security, and Development"
+}

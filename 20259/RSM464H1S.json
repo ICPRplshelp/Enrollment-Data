@@ -1,0 +1,58 @@
+{
+"code": "RSM464H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 56,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 56
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ann",
+"lastName": "Armstrong"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ann",
+"lastName": "Armstrong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Organization Theory and Its Applications"
+}

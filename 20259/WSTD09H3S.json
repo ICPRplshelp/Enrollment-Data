@@ -1,0 +1,56 @@
+{
+"code": "WSTD09H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Atiqa",
+"lastName": "Hachimi"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Atiqa",
+"lastName": "Hachimi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1749855952,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Race, Gender, and Islamophobia"
+}

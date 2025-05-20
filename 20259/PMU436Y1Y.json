@@ -1,0 +1,99 @@
+{
+"code": "PMU436Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 9,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 8,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 8
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "French Melodie"
+}

@@ -1,0 +1,58 @@
+{
+"code": "PSY280H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "SYNC",
+"enrollmentCap": 215,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 215
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dirk",
+"lastName": "Bernhardt-Walther"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Dirk",
+"lastName": "Bernhardt-Walther"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Introduction to Sensation and Perception"
+}

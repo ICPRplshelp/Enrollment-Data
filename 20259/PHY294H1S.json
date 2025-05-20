@@ -1,0 +1,131 @@
+{
+"code": "PHY294H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 133,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 133
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Matt",
+"lastName": "Russo"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Matt",
+"lastName": "Russo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 133,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 133
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Matt",
+"lastName": "Russo"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Matt",
+"lastName": "Russo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Quantum and Thermal Physics"
+}

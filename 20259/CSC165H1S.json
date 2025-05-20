@@ -1,0 +1,258 @@
+{
+"code": "CSC165H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 164,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 164
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 188,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 188
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Francois",
+"lastName": "Pitt"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gary",
+"lastName": "Baumgartner"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Mathematical Expression and Reasoning for Computer Science"
+}

@@ -1,0 +1,58 @@
+{
+"code": "RLG101H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "SYNC",
+"enrollmentCap": 600,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 600
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ken",
+"lastName": "Derry"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ken",
+"lastName": "Derry"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258
+],
+"title": "Introduction to the Study of Religion"
+}
