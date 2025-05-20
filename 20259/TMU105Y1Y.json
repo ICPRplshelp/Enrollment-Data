@@ -1,0 +1,120 @@
+{
+"code": "TMU105Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 17,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 17
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0201"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 16,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Komisaruk"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0301"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Keyboard Harmony"
+}

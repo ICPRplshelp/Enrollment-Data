@@ -1,0 +1,48 @@
+{
+"code": "CHM372H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "Prosser"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "Prosser"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Techniques in Biological Chemistry I"
+}

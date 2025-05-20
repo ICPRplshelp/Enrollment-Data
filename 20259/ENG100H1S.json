@@ -1,0 +1,48 @@
+{
+"code": "ENG100H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "SYNC",
+"enrollmentCap": 260,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 260
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Deirdre",
+"lastName": "Flynn"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Deirdre",
+"lastName": "Flynn"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Effective Writing"
+}

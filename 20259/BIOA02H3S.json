@@ -1,0 +1,192 @@
+{
+"code": "BIOA02H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+},
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 728,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 728
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Reid"
+},
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Sajeni",
+"lastName": "Mahalingam"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Life on Earth: Form, Function and Interactions"
+}

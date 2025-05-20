@@ -1,0 +1,217 @@
+{
+"code": "MGMA01H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 67,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 67,
+"time": 1749855953
+}
+],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 66,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1749855953
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 66,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1749855953
+}
+],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cindy",
+"lastName": "Chan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 66,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1749855953
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pankaj",
+"lastName": "Aggarwal"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pankaj",
+"lastName": "Aggarwal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 67,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 67,
+"time": 1749855953
+}
+],
+"initialCap": 63
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pankaj",
+"lastName": "Aggarwal"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pankaj",
+"lastName": "Aggarwal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC05"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Principles of Marketing"
+}

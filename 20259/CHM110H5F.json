@@ -1,0 +1,84 @@
+{
+"code": "CHM110H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 460,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 460
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Armstrong"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Armstrong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 460,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 460
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Armstrong"
+}
+],
+"timing": 1749855953
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Armstrong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Chemical Principles 1"
+}

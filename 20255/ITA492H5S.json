@@ -1,0 +1,46 @@
+{
+"code": "ITA492H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1749855890,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
+"timing": 1749855890
+}
+]
+},
+"instructors": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749855889,
+1749855890
+],
+"title": "Senior Project"
+}

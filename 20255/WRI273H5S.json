@@ -5,9 +5,14 @@
 {
 "createdAt": 1740786546,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1749771954
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -79,7 +84,23 @@
 8,
 8,
 8,
-8
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -101,7 +122,7 @@
 "lastName": "Price"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -174,7 +195,23 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232,
+1748208153,
+1748389910,
+1748615140,
+1748828046,
+1748878197,
+1748958812,
+1749076323,
+1749231014,
+1749355024,
+1749532662,
+1749771954,
+1749855890
 ],
 "title": "Specialized Prose"
 }

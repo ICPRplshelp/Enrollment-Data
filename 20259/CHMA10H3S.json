@@ -1,0 +1,85 @@
+{
+"code": "CHMA10H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+},
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+},
+{
+"firstName": "Oleksandr",
+"lastName": "Voznyy"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+},
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+},
+{
+"firstName": "Oleksandr",
+"lastName": "Voznyy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Introductory Chemistry I: Structure and Bonding"
+}

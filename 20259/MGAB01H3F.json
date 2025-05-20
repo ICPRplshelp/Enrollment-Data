@@ -1,0 +1,499 @@
+{
+"code": "MGAB01H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 66,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 66,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ron",
+"lastName": "Shalev"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ron",
+"lastName": "Shalev"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 62,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+}
+],
+"initialCap": 67
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 62,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 63,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1749855953
+}
+],
+"initialCap": 67
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ron",
+"lastName": "Shalev"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ron",
+"lastName": "Shalev"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 62,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+}
+],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC05"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC06"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC07"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1749855953
+}
+],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Down"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC08"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 64,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 64,
+"time": 1749855953
+}
+],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC09"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 62,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC10"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 65,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Liang",
+"lastName": "Chen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC11"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 63,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1749855953
+}
+],
+"initialCap": 68
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC12"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "Introductory Financial Accounting I"
+}

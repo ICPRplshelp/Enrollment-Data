@@ -1,0 +1,116 @@
+{
+"code": "PMA436Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+},
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+},
+{
+"firstName": "Alain",
+"lastName": "Coulombe"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+},
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+},
+{
+"firstName": "Alain",
+"lastName": "Coulombe"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+},
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+},
+{
+"firstName": "Alain",
+"lastName": "Coulombe"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathalie",
+"lastName": "Paulin"
+},
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+},
+{
+"firstName": "Alain",
+"lastName": "Coulombe"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953
+],
+"title": "French Melodie"
+}
