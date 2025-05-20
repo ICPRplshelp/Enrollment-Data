@@ -1,0 +1,33 @@
+{
+"code": "IMI303H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1750893040,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+11,
+13
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1750893039,
+1750893040,
+1751033930
+],
+"title": "Technology Strategy"
+}

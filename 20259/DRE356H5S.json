@@ -1,0 +1,48 @@
+{
+"code": "DRE356H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1750893040,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+3,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Martin",
+"lastName": "Revermann"
+}
+],
+"timing": 1750893040
+}
+]
+},
+"instructors": [
+{
+"firstName": "Martin",
+"lastName": "Revermann"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1750893039,
+1750893040,
+1751033930
+],
+"title": "Theory of Drama"
+}

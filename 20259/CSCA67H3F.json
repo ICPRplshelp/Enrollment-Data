@@ -1,0 +1,211 @@
+{
+"code": "CSCA67H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1750296530
+}
+],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1750296530
+}
+],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+18
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1750296530
+}
+],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Bremer Jr"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Bremer Jr"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1750296530
+}
+],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+25,
+25,
+24,
+23,
+23,
+23,
+23,
+24,
+23
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930
+],
+"title": "Discrete Mathematics"
+}

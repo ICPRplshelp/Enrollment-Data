@@ -1,0 +1,48 @@
+{
+"code": "POLC33H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750893040,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Irma",
+"lastName": "Spahiu"
+}
+],
+"timing": 1750893040
+}
+]
+},
+"instructors": [
+{
+"firstName": "Irma",
+"lastName": "Spahiu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750893039,
+1750893040,
+1751033930
+],
+"title": "Politics of International Human Rights"
+}

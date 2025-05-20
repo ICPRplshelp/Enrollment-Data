@@ -1,0 +1,84 @@
+{
+"code": "CHM151Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 144,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 144
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Rousseaux"
+},
+{
+"firstName": "Douglas",
+"lastName": "Stephan"
+},
+{
+"firstName": "Al-Amin",
+"lastName": "Dhirani"
+}
+],
+"timing": 1750709124
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sophie",
+"lastName": "Rousseaux"
+},
+{
+"firstName": "Douglas",
+"lastName": "Stephan"
+},
+{
+"firstName": "Al-Amin",
+"lastName": "Dhirani"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930
+],
+"title": "Chemistry: The Molecular Science"
+}

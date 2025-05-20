@@ -1,0 +1,48 @@
+{
+"code": "POLC44H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750893040,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oded David",
+"lastName": "Oron"
+}
+],
+"timing": 1750893040
+}
+]
+},
+"instructors": [
+{
+"firstName": "Oded David",
+"lastName": "Oron"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750893039,
+1750893040,
+1751033930
+],
+"title": "Current Topics in Politics II"
+}
