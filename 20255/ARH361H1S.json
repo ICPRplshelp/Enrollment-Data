@@ -1,0 +1,69 @@
+{
+"code": "ARH361H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1748389910,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1748389910,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC3001"
+}
+],
+"timeIntervals": [
+1748389909,
+1748389910,
+1748615140,
+1748828046,
+1748878197,
+1748958812,
+1749076323,
+1749231014
+],
+"title": "Field Archaeology"
+}
