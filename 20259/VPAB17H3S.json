@@ -1,0 +1,47 @@
+{
+"code": "VPAB17H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1753452756,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+17,
+27,
+31,
+36,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1753452755,
+1753452756,
+1753453495,
+1753457578,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800
+],
+"title": "From Principles to Practices in Arts Management"
+}

@@ -1,0 +1,41 @@
+{
+"code": "EAS236H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753466246,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+3,
+2,
+8,
+9,
+13,
+13
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753466245,
+1753466246,
+1753631174,
+1753711196,
+1753808614,
+1754059080,
+1754147800
+],
+"title": "Queer Feminist Literature: Writing in Global Capitalism"
+}

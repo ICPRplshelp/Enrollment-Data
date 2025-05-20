@@ -1,0 +1,48 @@
+{
+"code": "MGED25H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1754059080,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lauren",
+"lastName": "Jones"
+}
+],
+"timing": 1754059080
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lauren",
+"lastName": "Jones"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1754059079,
+1754059080,
+1754147800
+],
+"title": "Advanced Special Topics in Economics"
+}

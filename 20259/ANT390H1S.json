@@ -1,0 +1,50 @@
+{
+"code": "ANT390H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1753808614,
+"delivery": "INPER",
+"enrollmentCap": 65,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 65
+},
+"enrollmentLogs": [
+0,
+3,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eve Ann",
+"lastName": "Smeltzer"
+}
+],
+"timing": 1753808614
+}
+]
+},
+"instructors": [
+{
+"firstName": "Eve Ann",
+"lastName": "Smeltzer"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1753808613,
+1753808614,
+1754059080,
+1754147800
+],
+"title": "Special Topics in Anthropology"
+}
