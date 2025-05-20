@@ -1,0 +1,64 @@
+{
+"code": "WSTC97H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750374170,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Husseina",
+"lastName": "Dinani"
+}
+],
+"timing": 1750374170
+}
+]
+},
+"instructors": [
+{
+"firstName": "Husseina",
+"lastName": "Dinani"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750374169,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Women and Power in Africa"
+}

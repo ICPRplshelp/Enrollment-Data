@@ -1,0 +1,52 @@
+{
+"code": "MBTC75H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1751033930,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1751033930
+}
+]
+},
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1751033929,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Music Journalism"
+}

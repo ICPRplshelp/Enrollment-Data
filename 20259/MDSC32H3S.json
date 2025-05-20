@@ -1,0 +1,62 @@
+{
+"code": "MDSC32H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749855953,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1750776607
+}
+],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+40,
+42,
+44,
+44,
+45,
+45
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1749855952,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Chinese Media and Politics"
+}

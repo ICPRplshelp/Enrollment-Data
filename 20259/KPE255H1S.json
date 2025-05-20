@@ -1,0 +1,48 @@
+{
+"code": "KPE255H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "INPER",
+"enrollmentCap": 220,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 220
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ashley",
+"lastName": "Stirling"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ashley",
+"lastName": "Stirling"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647,
+1751644976
+],
+"title": "Future Workplace Trends and Preparation"
+}

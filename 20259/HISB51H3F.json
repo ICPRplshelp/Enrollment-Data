@@ -1,0 +1,64 @@
+{
+"code": "HISB51H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1750374170,
+"delivery": "INPER",
+"enrollmentCap": 22,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 22
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Husseina",
+"lastName": "Dinani"
+}
+],
+"timing": 1750374170
+}
+]
+},
+"instructors": [
+{
+"firstName": "Husseina",
+"lastName": "Dinani"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1750374169,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Africa from the Colonial Conquests to Independence"
+}

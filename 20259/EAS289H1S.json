@@ -1,0 +1,50 @@
+{
+"code": "EAS289H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1751259267,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yue",
+"lastName": "Meng"
+}
+],
+"timing": 1751259267
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yue",
+"lastName": "Meng"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751259266,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Environment and East Asia"
+}

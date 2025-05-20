@@ -1,0 +1,123 @@
+{
+"code": "JGA305H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 51,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 51
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
+"timing": 1751644976
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
+"timing": 1751644976
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Environmental and Archaeological Geophysics"
+}

@@ -1,0 +1,132 @@
+{
+"code": "MAT292H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 130,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 130
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+105,
+105,
+105,
+105,
+105,
+105,
+104
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vardan",
+"lastName": "Papyan"
+}
+],
+"timing": 1750199938
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vardan",
+"lastName": "Papyan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 127,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 127
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+105,
+105,
+104,
+105,
+105,
+105,
+107
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tristan",
+"lastName": "Collins"
+}
+],
+"timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Murdock",
+"lastName": "Aubry"
+}
+],
+"timing": 1751033930
+}
+]
+},
+"instructors": [
+{
+"firstName": "Murdock",
+"lastName": "Aubry"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Ordinary Differential Equations"
+}

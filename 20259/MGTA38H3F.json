@@ -1,0 +1,603 @@
+{
+"code": "MGTA38H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+34
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1749855953
+},
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+34
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Heathcote"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Heathcote"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC04"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1749855953
+},
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 34
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanna",
+"lastName": "Heathcote"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joanna",
+"lastName": "Heathcote"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC05"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1749855953
+},
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC06"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+31
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC07"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+31
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC08"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1749855953
+},
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+29,
+29,
+28,
+30
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC09"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1749772011
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC10"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1749855953
+},
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+33
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC11"
+},
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1750199938
+}
+],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+30,
+31
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC12"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Management Communications"
+}

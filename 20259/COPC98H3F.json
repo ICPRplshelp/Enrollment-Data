@@ -1,0 +1,199 @@
+{
+"code": "COPC98H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pamela",
+"lastName": "Chan"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nevena",
+"lastName": "Novakovic"
+}
+],
+"timing": 1751033930
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nevena",
+"lastName": "Novakovic"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 125,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 125
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi Abdoun",
+"lastName": "Abdoun Mohamed"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Dinkha"
+}
+],
+"timing": 1751033930
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Dinkha"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1749772011,
+"delivery": "ASYNC",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mimi Abdoun",
+"lastName": "Abdoun Mohamed"
+}
+],
+"timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"timing": 1751033930
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Integrating Your Work Term Experience Part I"
+}

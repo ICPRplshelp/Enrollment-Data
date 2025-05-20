@@ -1,0 +1,58 @@
+{
+"code": "CIV536H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1750709124,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marianne",
+"lastName": "Hatzopoulou"
+}
+],
+"timing": 1751644976
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marianne",
+"lastName": "Hatzopoulou"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1750709123,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Urban Act., Air Poll., & Hlth"
+}

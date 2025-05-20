@@ -1,0 +1,31 @@
+{
+"code": "HUN100Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1751644976,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751644975,
+1751644976
+],
+"title": "Elementary Hungarian"
+}

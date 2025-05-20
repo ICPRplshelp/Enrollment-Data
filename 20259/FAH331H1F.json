@@ -1,0 +1,46 @@
+{
+"code": "FAH331H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1751644976,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eyal",
+"lastName": "Pundik Sagie"
+}
+],
+"timing": 1751644976
+}
+]
+},
+"instructors": [
+{
+"firstName": "Eyal",
+"lastName": "Pundik Sagie"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751644975,
+1751644976
+],
+"title": "Netherlandish Renaissance Art and Culture"
+}

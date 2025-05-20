@@ -1,0 +1,79 @@
+{
+"code": "WSTC30H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1749772011,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1750374170
+}
+],
+"initialCap": 44
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+3,
+3,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Guldana",
+"lastName": "Salimjan"
+}
+],
+"timing": 1750374170
+}
+]
+},
+"instructors": [
+{
+"firstName": "Guldana",
+"lastName": "Salimjan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1749772010,
+1749772011,
+1749855953,
+1750063241,
+1750199938,
+1750296530,
+1750374170,
+1750452258,
+1750634323,
+1750709124,
+1750776607,
+1750893040,
+1751033930,
+1751259267,
+1751412647,
+1751644976
+],
+"title": "Special Topics in Women's and Gender Studies"
+}
