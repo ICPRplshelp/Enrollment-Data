@@ -5,12 +5,16 @@
 {
 "createdAt": 1739847151,
 "delivery": "SYNC",
-"enrollmentCap": 80,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1746838227
+},
+{
+"newCapacity": 90,
+"time": 1748006517
 }
 ],
 "initialCap": 50
@@ -94,7 +98,11 @@
 88,
 89,
 89,
-89
+89,
+91,
+90,
+89,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +207,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "The Politics of Girlhood"
 }

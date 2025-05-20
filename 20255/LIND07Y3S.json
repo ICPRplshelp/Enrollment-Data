@@ -1,0 +1,35 @@
+{
+"code": "LIND07Y3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1747886799,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1747886798,
+1747886799,
+1748006517,
+1748059232
+],
+"title": "Independent Study in Linguistics"
+}

@@ -79,6 +79,10 @@
 62,
 62,
 62,
+62,
+62,
+62,
+62,
 62
 ],
 "instructorLog": {
@@ -92,13 +96,22 @@
 }
 ],
 "timing": 1744128897
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ahmed",
+"lastName": "Ali"
+}
+],
+"timing": 1747886799
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ethan Kyle",
-"lastName": "Lee"
+"firstName": "Ahmed",
+"lastName": "Ali"
 }
 ],
 "isCancelled": false,
@@ -174,7 +187,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Structural Biochemistry"
 }

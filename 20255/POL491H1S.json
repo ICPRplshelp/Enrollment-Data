@@ -5,9 +5,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 23,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 23,
+"time": 1748006517
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -89,7 +94,11 @@
 23,
 23,
 23,
-23
+23,
+23,
+23,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -194,7 +203,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Topics in Canadian Politics II"
 }

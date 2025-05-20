@@ -89,6 +89,10 @@
 46,
 46,
 46,
+46,
+46,
+46,
+45,
 46
 ],
 "instructorLog": {
@@ -201,7 +205,11 @@
 38,
 38,
 38,
-38
+38,
+38,
+40,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,9 +237,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1748059232
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -313,7 +326,11 @@
 10,
 10,
 10,
-10
+10,
+10,
+10,
+10,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,7 +352,7 @@
 "lastName": "Sripati"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
@@ -418,7 +435,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Topics in International Politics"
 }

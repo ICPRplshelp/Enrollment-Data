@@ -5,9 +5,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1748006517
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -89,7 +94,11 @@
 28,
 28,
 28,
-28
+28,
+28,
+28,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -194,7 +203,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Human Security and Intra-state Conflicts in the Global South"
 }

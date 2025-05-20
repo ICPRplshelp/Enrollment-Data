@@ -5,7 +5,7 @@
 {
 "createdAt": 1743202869,
 "delivery": "SYNC",
-"enrollmentCap": 120,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 120,
 "time": 1744733264
+},
+{
+"newCapacity": 125,
+"time": 1748006517
 }
 ],
 "initialCap": 120
@@ -70,6 +74,10 @@
 123,
 124,
 124,
+124,
+125,
+124,
+123,
 124
 ],
 "instructorLog": {
@@ -132,7 +140,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Media and Religion"
 }

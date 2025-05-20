@@ -89,7 +89,11 @@
 20,
 22,
 22,
-22
+22,
+29,
+32,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -102,9 +106,14 @@
 {
 "createdAt": 1739847151,
 "delivery": "SYNC",
-"enrollmentCap": 70,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1747886799
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -186,14 +195,18 @@
 14,
 14,
 14,
-14
+14,
+10,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -276,7 +289,11 @@
 1747376282,
 1747462741,
 1747549203,
-1747635661
+1747635661,
+1747722122,
+1747886799,
+1748006517,
+1748059232
 ],
 "title": "Topics in Near & Middle Eastern Civilizations"
 }
