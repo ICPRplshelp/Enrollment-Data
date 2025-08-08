@@ -120,13 +120,45 @@
 186,
 186,
 188,
-188
+188,
+188,
+189,
+189,
+189,
+189,
+188,
+190,
+189,
+189,
+190,
+191,
+191,
+191,
+192,
+192,
+192,
+192
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,7 +280,24 @@
 202,
 202,
 208,
-208
+208,
+208,
+208,
+208,
+208,
+209,
+209,
+211,
+211,
+211,
+211,
+213,
+216,
+216,
+217,
+217,
+217,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,7 +440,24 @@
 203,
 203,
 205,
-205
+205,
+205,
+206,
+206,
+206,
+206,
+206,
+208,
+209,
+209,
+210,
+211,
+214,
+215,
+215,
+215,
+215,
+216
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -534,13 +600,45 @@
 92,
 92,
 126,
-130
+130,
+132,
+134,
+134,
+134,
+147,
+150,
+153,
+154,
+153,
+156,
+157,
+159,
+160,
+160,
+160,
+160,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -655,7 +753,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Software Tools and Systems Programming"
 }

@@ -1,0 +1,62 @@
+{
+"code": "ARC451H1F3",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1755443698,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+3,
+9,
+10,
+13,
+13,
+13,
+13,
+13,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Nguyen"
+}
+],
+"timing": 1755443698
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Nguyen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1755443697,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Advanced Topics in the History and Theory of Architecture"
+}

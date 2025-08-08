@@ -120,13 +120,45 @@
 93,
 93,
 119,
-122
+122,
+122,
+124,
+124,
+124,
+127,
+127,
+128,
+127,
+127,
+128,
+129,
+128,
+129,
+128,
+128,
+128,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,13 +280,45 @@
 70,
 70,
 89,
-84
+84,
+85,
+86,
+86,
+86,
+88,
+87,
+87,
+87,
+87,
+87,
+87,
+88,
+88,
+88,
+88,
+88,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -376,13 +440,45 @@
 59,
 59,
 59,
-58
+58,
+57,
+57,
+57,
+57,
+57,
+57,
+56,
+56,
+56,
+56,
+55,
+55,
+51,
+50,
+50,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chandra",
+"lastName": "Gummaluru"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -497,7 +593,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Data Structures and Analysis"
 }

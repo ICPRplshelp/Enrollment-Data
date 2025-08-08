@@ -1,0 +1,54 @@
+{
+"code": "ECO421H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1755829503,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zi Yang",
+"lastName": "Kang"
+}
+],
+"timing": 1755905230
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zi Yang",
+"lastName": "Kang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1755829502,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Reading Course, Seminar or Workshop"
+}

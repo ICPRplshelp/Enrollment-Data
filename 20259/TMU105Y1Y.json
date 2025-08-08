@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 16,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 18,
+"time": 1755729570
+}
+],
 "initialCap": 16
 },
 "enrollmentLogs": [
@@ -96,6 +101,23 @@
 15,
 15,
 15,
+15,
+15,
+15,
+15,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+14,
+14,
+15,
+15,
+15,
 15
 ],
 "instructorLog": {
@@ -124,9 +146,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 18,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 18,
+"time": 1755729570
+}
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
@@ -215,7 +242,24 @@
 9,
 9,
 9,
-9
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
+11,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -334,6 +378,17 @@
 4,
 4,
 4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
+4,
 4
 ],
 "instructorLog": {
@@ -446,7 +501,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Keyboard Harmony"
 }

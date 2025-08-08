@@ -96,7 +96,24 @@
 162,
 161,
 161,
-161
+161,
+163,
+163,
+163,
+163,
+163,
+164,
+164,
+164,
+164,
+163,
+163,
+163,
+162,
+162,
+162,
+162,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,6 +232,23 @@
 164,
 164,
 164,
+163,
+165,
+165,
+165,
+165,
+164,
+166,
+166,
+166,
+166,
+165,
+165,
+164,
+163,
+163,
+163,
+163,
 163
 ],
 "instructorLog": {
@@ -334,13 +368,45 @@
 165,
 165,
 164,
+163,
+164,
+164,
+164,
+165,
+163,
+164,
+164,
+164,
+164,
+164,
+164,
+164,
+163,
+163,
+163,
+163,
 163
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eric",
+"lastName": "Hart"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eric",
+"lastName": "Hart"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -438,13 +504,45 @@
 163,
 163,
 163,
-162
+162,
+163,
+163,
+163,
+163,
+163,
+165,
+165,
+165,
+165,
+164,
+164,
+164,
+163,
+163,
+163,
+163,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eric",
+"lastName": "Hart"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eric",
+"lastName": "Hart"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 }
@@ -535,7 +633,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Calculus I for Mathematical Sciences"
 }

@@ -1,0 +1,37 @@
+{
+"code": "CCT431H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1755905230,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1755905229,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Drones, Robots, Artificial Intelligence"
+}

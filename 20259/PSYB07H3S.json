@@ -1,0 +1,64 @@
+{
+"code": "PSYB07H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1755275037,
+"delivery": "INPER",
+"enrollmentCap": 75,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 75
+},
+"enrollmentLogs": [
+0,
+0,
+17,
+25,
+26,
+30,
+33,
+38,
+38,
+38,
+46
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"timing": 1755275037
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marco Agazio",
+"lastName": "Sama"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1755275036,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Data Analysis in Psychology"
+}

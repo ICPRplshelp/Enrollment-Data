@@ -101,13 +101,45 @@
 127,
 125,
 132,
-135
+135,
+138,
+138,
+138,
+138,
+140,
+138,
+136,
+136,
+136,
+140,
+140,
+144,
+146,
+148,
+148,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tracy",
+"lastName": "O'Brien"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tracy",
+"lastName": "O'Brien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -205,13 +237,45 @@
 105,
 105,
 103,
-103
+103,
+103,
+104,
+104,
+104,
+107,
+107,
+106,
+104,
+104,
+101,
+100,
+104,
+105,
+107,
+107,
+107,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natasha",
+"lastName": "Vashisht"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Natasha",
+"lastName": "Vashisht"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -314,13 +378,45 @@
 143,
 148,
 154,
-160
+160,
+161,
+162,
+162,
+162,
+165,
+166,
+166,
+165,
+165,
+169,
+168,
+173,
+176,
+179,
+179,
+179,
+180
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -411,7 +507,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Effective Writing"
 }

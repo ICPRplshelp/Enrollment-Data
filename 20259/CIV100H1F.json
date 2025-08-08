@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -96,7 +101,24 @@
 256,
 256,
 256,
-256
+256,
+256,
+257,
+257,
+257,
+255,
+254,
+253,
+253,
+253,
+253,
+253,
+254,
+254,
+251,
+251,
+251,
+251
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -124,9 +146,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -215,7 +242,24 @@
 250,
 250,
 250,
-250
+250,
+250,
+250,
+250,
+250,
+248,
+245,
+245,
+245,
+245,
+246,
+246,
+245,
+241,
+241,
+241,
+241,
+241
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -243,9 +287,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -334,7 +383,24 @@
 158,
 158,
 158,
-158
+158,
+158,
+158,
+158,
+158,
+156,
+153,
+153,
+153,
+152,
+152,
+152,
+152,
+150,
+149,
+149,
+149,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -362,9 +428,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 354,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 354,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -453,7 +524,24 @@
 146,
 146,
 146,
-146
+146,
+146,
+145,
+145,
+145,
+143,
+142,
+141,
+141,
+141,
+140,
+140,
+140,
+140,
+139,
+139,
+139,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -481,9 +569,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -572,7 +665,24 @@
 153,
 153,
 153,
-153
+153,
+153,
+154,
+154,
+154,
+155,
+155,
+154,
+153,
+152,
+151,
+151,
+150,
+149,
+148,
+148,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -600,9 +710,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -691,7 +806,24 @@
 147,
 147,
 147,
-149
+149,
+149,
+148,
+148,
+148,
+148,
+147,
+147,
+147,
+147,
+147,
+147,
+145,
+145,
+145,
+145,
+145,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -719,9 +851,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 244,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 244,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -810,7 +947,24 @@
 171,
 171,
 171,
-171
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+171,
+170,
+170,
+170,
+169,
+169,
+169,
+169,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -838,9 +992,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -929,13 +1088,45 @@
 127,
 127,
 127,
+127,
+127,
+128,
+128,
+128,
+127,
+127,
+127,
+126,
+126,
+126,
+126,
+127,
+127,
+127,
+127,
+127,
 127
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christian Elena",
+"lastName": "Pavlidis"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christian Elena",
+"lastName": "Pavlidis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 }
@@ -1026,7 +1217,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Mechanics"
 }

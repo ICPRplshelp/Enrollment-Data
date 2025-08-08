@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 810,
+"enrollmentCap": 800,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 800,
+"time": 1755009395
+}
+],
 "initialCap": 810
 },
 "enrollmentLogs": [
@@ -120,7 +125,24 @@
 651,
 650,
 656,
-657
+657,
+657,
+657,
+657,
+663,
+662,
+666,
+666,
+666,
+666,
+672,
+677,
+680,
+686,
+688,
+688,
+688,
+691
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -148,9 +170,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 380,
+"enrollmentCap": 390,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 390,
+"time": 1755009395
+}
+],
 "initialCap": 380
 },
 "enrollmentLogs": [
@@ -263,7 +290,24 @@
 360,
 360,
 387,
-389
+389,
+388,
+386,
+386,
+385,
+390,
+393,
+393,
+396,
+396,
+393,
+392,
+393,
+394,
+392,
+392,
+392,
+395
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -399,7 +443,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Introduction to Physics I"
 }

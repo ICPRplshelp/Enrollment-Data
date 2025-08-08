@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1755829503
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -96,22 +101,59 @@
 118,
 119,
 120,
-120
+120,
+120,
+120,
+120,
+120,
+120,
+120,
+120,
+120,
+120,
+119,
+120,
+120,
+123,
+123,
+123,
+123,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1755829503
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -200,7 +242,24 @@
 118,
 119,
 119,
-118
+118,
+117,
+116,
+116,
+117,
+120,
+120,
+120,
+120,
+120,
+119,
+117,
+118,
+116,
+119,
+119,
+119,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -228,9 +287,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1755829503
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -319,7 +383,24 @@
 123,
 123,
 121,
-122
+122,
+124,
+124,
+124,
+124,
+126,
+124,
+125,
+125,
+125,
+126,
+126,
+125,
+127,
+130,
+130,
+130,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -347,9 +428,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1755829503
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -438,25 +524,79 @@
 78,
 79,
 77,
-80
+80,
+81,
+81,
+81,
+81,
+80,
+81,
+85,
+85,
+85,
+86,
+88,
+87,
+88,
+87,
+87,
+87,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tianyu",
+"lastName": "Zhou"
+}
+],
+"timing": 1755275037
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tianyu",
+"lastName": "Zhou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1755829503
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -639,7 +779,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Calculus of Several Variables"
 }

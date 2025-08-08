@@ -120,13 +120,45 @@
 214,
 214,
 218,
-219
+219,
+220,
+220,
+220,
+220,
+221,
+222,
+221,
+219,
+219,
+214,
+215,
+214,
+213,
+212,
+212,
+212,
+213
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Gammage"
+}
+],
+"timing": 1754759913
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Gammage"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,7 +280,24 @@
 223,
 223,
 223,
-224
+224,
+224,
+224,
+224,
+224,
+226,
+226,
+227,
+226,
+226,
+225,
+226,
+221,
+218,
+219,
+219,
+219,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,13 +440,45 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Gammage"
+}
+],
+"timing": 1754759913
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Gammage"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -512,7 +593,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Groups and Symmetries"
 }

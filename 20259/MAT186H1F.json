@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 244,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 244,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -96,7 +101,24 @@
 171,
 171,
 171,
-171
+171,
+171,
+160,
+160,
+160,
+159,
+157,
+157,
+157,
+157,
+157,
+157,
+158,
+157,
+156,
+156,
+156,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -133,9 +155,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 222,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 222,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -224,7 +251,24 @@
 147,
 147,
 147,
-147
+147,
+147,
+158,
+158,
+158,
+157,
+157,
+157,
+157,
+157,
+157,
+157,
+157,
+157,
+155,
+155,
+155,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -246,13 +290,22 @@
 }
 ],
 "timing": 1751259267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Omar Hassan",
+"lastName": "Alshawa"
+}
+],
+"timing": 1755229936
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Geoffrey",
-"lastName": "McGregor"
+"firstName": "Omar Hassan",
+"lastName": "Alshawa"
 }
 ],
 "isCancelled": false,
@@ -261,9 +314,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -352,7 +410,24 @@
 168,
 168,
 168,
-168
+168,
+168,
+168,
+168,
+168,
+167,
+165,
+165,
+165,
+165,
+165,
+165,
+165,
+165,
+165,
+165,
+165,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -380,9 +455,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 200,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -471,7 +551,24 @@
 173,
 173,
 173,
-173
+173,
+173,
+173,
+173,
+173,
+171,
+167,
+167,
+167,
+166,
+166,
+166,
+166,
+164,
+163,
+163,
+163,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -508,9 +605,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 354,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 354,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -599,7 +701,24 @@
 146,
 146,
 146,
-146
+146,
+146,
+145,
+145,
+145,
+142,
+141,
+140,
+140,
+140,
+139,
+138,
+137,
+137,
+136,
+136,
+136,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -627,9 +746,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 134,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 134,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -718,7 +842,24 @@
 127,
 127,
 127,
-127
+127,
+127,
+128,
+128,
+128,
+129,
+130,
+129,
+128,
+127,
+126,
+126,
+126,
+126,
+125,
+125,
+125,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -755,9 +896,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 278,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 278,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -846,7 +992,24 @@
 146,
 146,
 146,
-148
+148,
+148,
+148,
+148,
+148,
+148,
+147,
+139,
+139,
+139,
+139,
+139,
+137,
+137,
+137,
+137,
+137,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -874,9 +1037,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 168,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 168,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -965,7 +1133,24 @@
 170,
 170,
 170,
-170
+170,
+170,
+169,
+169,
+169,
+169,
+168,
+168,
+168,
+168,
+168,
+168,
+167,
+167,
+167,
+167,
+167,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -993,9 +1178,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -1084,7 +1274,24 @@
 147,
 147,
 147,
-147
+147,
+147,
+149,
+149,
+149,
+148,
+148,
+156,
+156,
+156,
+155,
+155,
+155,
+155,
+155,
+155,
+155,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1196,7 +1403,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Calculus I"
 }

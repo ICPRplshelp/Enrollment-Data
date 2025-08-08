@@ -105,25 +105,61 @@
 173,
 172,
 174,
-180
+180,
+180,
+180,
+180,
+179,
+180,
+180,
+181,
+181,
+184,
+181,
+181,
+182,
+180,
+181,
+181,
+181,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 150,
 "time": 1754059080
+},
+{
+"newCapacity": 180,
+"time": 1755829503
 }
 ],
 "initialCap": 140
@@ -214,7 +250,24 @@
 118,
 121,
 120,
-118
+118,
+119,
+119,
+119,
+121,
+128,
+131,
+132,
+135,
+135,
+137,
+138,
+142,
+145,
+145,
+145,
+145,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -323,13 +376,45 @@
 176,
 176,
 175,
-174
+174,
+174,
+174,
+174,
+174,
+173,
+174,
+173,
+173,
+171,
+172,
+173,
+172,
+172,
+172,
+172,
+172,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammadali",
+"lastName": "Shahiri"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammadali",
+"lastName": "Shahiri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -432,7 +517,24 @@
 170,
 170,
 168,
-167
+167,
+167,
+167,
+167,
+168,
+166,
+164,
+164,
+164,
+160,
+160,
+160,
+159,
+158,
+157,
+157,
+157,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -466,6 +568,23 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -660,13 +779,45 @@
 166,
 165,
 165,
-162
+162,
+160,
+160,
+160,
+162,
+160,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+161,
+160,
+160,
+160,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 }
@@ -757,7 +908,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Differential Calculus for Life Sciences"
 }

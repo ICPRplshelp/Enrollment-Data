@@ -1,0 +1,39 @@
+{
+"code": "MGT401H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1755829503,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1755829502,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Independent Study"
+}

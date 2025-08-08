@@ -1,0 +1,37 @@
+{
+"code": "HLTA02H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1755905230,
+"delivery": "INPER",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+43,
+43,
+43,
+68
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1755905229,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Exploring Health and Society: Theories, Perspectives, and Patterns"
+}

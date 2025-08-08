@@ -96,13 +96,45 @@
 340,
 339,
 339,
-339
+339,
+339,
+341,
+341,
+341,
+343,
+344,
+344,
+344,
+345,
+349,
+350,
+351,
+350,
+351,
+351,
+351,
+351
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anhad",
+"lastName": "Singh"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anhad",
+"lastName": "Singh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -193,7 +225,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Molecular Physiology of Excitable Cells"
 }

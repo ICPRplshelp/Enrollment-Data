@@ -1,6 +1,6 @@
 {
 "code": "ARC451H1F",
-"faculty": "UNKNOWN",
+"faculty": "ARCLA",
 "meetings": [
 {
 "createdAt": 1749772011,
@@ -31,13 +31,37 @@
 0,
 0,
 0,
-0
+0,
+1,
+3,
+3,
+8,
+10,
+11,
+11,
+11,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ijlal",
+"lastName": "Muzaffar"
+}
+],
+"timing": 1756130254
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ijlal",
+"lastName": "Muzaffar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -58,7 +82,16 @@
 1751033930,
 1751259267,
 1751412647,
-1751644976
+1751644976,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Advanced Topics in the History and Theory of Architecture"
 }

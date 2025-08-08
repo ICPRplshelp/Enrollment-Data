@@ -101,7 +101,24 @@
 168,
 168,
 168,
-168
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+169,
+169,
+170,
+168,
+167,
+165,
+164,
+165,
+165,
+165,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -114,13 +131,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Liza",
+"lastName": "Krupsky"
+}
+],
+"timing": 1755530534
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Anya",
-"lastName": "Tafliovich"
+"firstName": "Liza",
+"lastName": "Krupsky"
 }
 ],
 "isCancelled": false,
@@ -225,7 +251,24 @@
 163,
 163,
 163,
-162
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+163,
+164,
+164,
+164,
+164,
+164,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -349,7 +392,24 @@
 152,
 153,
 153,
-154
+154,
+155,
+155,
+155,
+155,
+153,
+156,
+155,
+156,
+159,
+161,
+161,
+160,
+161,
+161,
+161,
+161,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,13 +533,54 @@
 160,
 160,
 159,
-158
+158,
+160,
+160,
+160,
+160,
+160,
+160,
+160,
+160,
+159,
+159,
+160,
+161,
+161,
+162,
+162,
+162,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liza",
+"lastName": "Krupsky"
+}
+],
+"timing": 1755229936
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
+"timing": 1755530534
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anya",
+"lastName": "Tafliovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 }
@@ -570,7 +671,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Discrete Mathematics"
 }

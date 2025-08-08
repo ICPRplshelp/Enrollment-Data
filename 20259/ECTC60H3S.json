@@ -1,0 +1,62 @@
+{
+"code": "ECTC60H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1755443698,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ting",
+"lastName": "Guo"
+}
+],
+"timing": 1755443698
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ting",
+"lastName": "Guo"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1755443697,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
+],
+"title": "Translation and Gender"
+}

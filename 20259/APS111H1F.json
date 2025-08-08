@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 453,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 453,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -96,7 +101,24 @@
 458,
 458,
 458,
-458
+458,
+458,
+458,
+458,
+458,
+455,
+452,
+452,
+452,
+452,
+452,
+437,
+437,
+439,
+437,
+437,
+437,
+437
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -122,6 +144,23 @@
 }
 ],
 "timing": 1751644976
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Jason",
+"lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1754759913
 }
 ]
 },
@@ -133,6 +172,10 @@
 {
 "firstName": "Jason",
 "lastName": "Bazylak"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
 }
 ],
 "isCancelled": false,
@@ -141,9 +184,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -232,7 +280,24 @@
 468,
 468,
 469,
-469
+469,
+469,
+469,
+469,
+469,
+465,
+458,
+456,
+455,
+453,
+451,
+466,
+466,
+464,
+461,
+461,
+461,
+461
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -249,6 +314,23 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1754759913
 }
 ]
 },
@@ -260,6 +342,10 @@
 {
 "firstName": "Philip",
 "lastName": "Asare"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
 }
 ],
 "isCancelled": false,
@@ -268,9 +354,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 468,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 468,
+"time": 1755443698
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -359,7 +450,24 @@
 466,
 466,
 464,
-466
+466,
+466,
+466,
+466,
+466,
+462,
+461,
+461,
+461,
+461,
+460,
+459,
+456,
+456,
+456,
+456,
+456,
+456
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -376,6 +484,23 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Cheryl",
+"lastName": "Runke"
+}
+],
+"timing": 1754759913
 }
 ]
 },
@@ -387,6 +512,10 @@
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
+},
+{
+"firstName": "Cheryl",
+"lastName": "Runke"
 }
 ],
 "isCancelled": false,
@@ -479,7 +608,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Engineering Strategies & Practice I"
 }

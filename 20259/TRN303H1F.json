@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 25,
 "time": 1753452756
+},
+{
+"newCapacity": 26,
+"time": 1755126801
 }
 ],
 "initialCap": 22
@@ -125,7 +129,24 @@
 34,
 34,
 34,
-34
+34,
+34,
+34,
+34,
+34,
+33,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -153,12 +174,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 25,
 "time": 1751892926
+},
+{
+"newCapacity": 27,
+"time": 1755126801
 }
 ],
 "initialCap": 22
@@ -273,7 +298,24 @@
 34,
 34,
 34,
-34
+34,
+34,
+34,
+34,
+34,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -409,7 +451,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Ethics and Society"
 }

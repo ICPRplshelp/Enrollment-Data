@@ -120,13 +120,45 @@
 32,
 32,
 32,
+31,
+30,
+31,
+31,
+31,
+31,
+30,
+30,
+30,
+30,
+30,
+31,
+31,
+31,
+31,
+31,
+31,
 31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katarzyna",
+"lastName": "Peric"
+}
+],
+"timing": 1755729570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katarzyna",
+"lastName": "Peric"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,7 +280,24 @@
 29,
 29,
 30,
-30
+30,
+31,
+31,
+31,
+31,
+31,
+31,
+32,
+32,
+32,
+29,
+29,
+29,
+29,
+29,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,13 +440,45 @@
 20,
 20,
 20,
-20
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+21,
+21,
+21,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Bernier-Wong"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Bernier-Wong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -512,7 +593,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Intermediate French III"
 }

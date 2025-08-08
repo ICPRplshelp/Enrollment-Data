@@ -96,6 +96,23 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -200,13 +217,45 @@
 83,
 82,
 76,
-75
+75,
+74,
+74,
+74,
+77,
+78,
+77,
+75,
+75,
+75,
+75,
+76,
+74,
+75,
+74,
+74,
+74,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pramathanath",
+"lastName": "Sastry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -219,6 +268,23 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -408,7 +474,24 @@
 28,
 26,
 29,
-29
+29,
+29,
+29,
+29,
+29,
+30,
+33,
+32,
+32,
+33,
+33,
+34,
+32,
+32,
+32,
+32,
+32,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,13 +610,45 @@
 28,
 28,
 27,
-27
+27,
+28,
+28,
+28,
+29,
+28,
+29,
+28,
+28,
+28,
+28,
+27,
+27,
+27,
+27,
+27,
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
+"timing": 1755905230
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Janelle Patricia",
+"lastName": "Resch"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 }
@@ -624,7 +739,24 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037,
+1755443698,
+1755530534,
+1755613324,
+1755729570,
+1755829503,
+1755905230,
+1755952604,
+1756072462,
+1756130254
 ],
 "title": "Differential Calculus"
 }
