@@ -125,13 +125,30 @@
 101,
 101,
 105,
-105
+105,
+106,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pierre Philippe",
+"lastName": "Marty"
+}
+],
+"timing": 1754665125
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Pierre Philippe",
+"lastName": "Marty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -246,7 +263,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Impressionism"
 }

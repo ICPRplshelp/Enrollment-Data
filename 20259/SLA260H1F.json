@@ -46,13 +46,30 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Smolyarova"
+}
+],
+"timing": 1754759913
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Smolyarova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -93,7 +110,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Constructing Space: A History of Russian Art and Architecture"
 }

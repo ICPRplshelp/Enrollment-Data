@@ -5,7 +5,7 @@
 {
 "createdAt": 1751644976,
 "delivery": "INPER",
-"enrollmentCap": 61,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 61,
 "time": 1754059080
+},
+{
+"newCapacity": 62,
+"time": 1754759913
 }
 ],
 "initialCap": 50
@@ -99,7 +103,9 @@
 61,
 61,
 61,
-61
+61,
+61,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -182,7 +188,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Information Memory and Culture"
 }

@@ -120,13 +120,38 @@
 19,
 19,
 18,
+18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Dubins"
 },
-"instructors": [],
+{
+"firstName": "Reina",
+"lastName": "Bendayan"
+}
+],
+"timing": 1754759913
+}
+]
+},
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Dubins"
+},
+{
+"firstName": "Reina",
+"lastName": "Bendayan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +266,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Pharmaceutical Chemistry Research"
 }

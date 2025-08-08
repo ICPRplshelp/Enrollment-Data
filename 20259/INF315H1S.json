@@ -5,7 +5,7 @@
 {
 "createdAt": 1751644976,
 "delivery": "INPER",
-"enrollmentCap": 58,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 58,
 "time": 1754059080
+},
+{
+"newCapacity": 59,
+"time": 1754759913
 }
 ],
 "initialCap": 50
@@ -92,6 +96,8 @@
 55,
 55,
 56,
+58,
+58,
 58,
 58,
 58,
@@ -182,7 +188,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Information Practice in Org"
 }

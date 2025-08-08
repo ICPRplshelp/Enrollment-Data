@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "INPER",
-"enrollmentCap": 59,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 59,
 "time": 1752336678
+},
+{
+"newCapacity": 60,
+"time": 1754759913
 }
 ],
 "initialCap": 50
@@ -92,6 +96,8 @@
 71,
 71,
 71,
+70,
+70,
 70
 ],
 "instructorLog": {
@@ -191,7 +197,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Topics in Professional Kinesiology"
 }

@@ -96,7 +96,9 @@
 42,
 42,
 42,
-42
+42,
+42,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -200,13 +202,30 @@
 42,
 42,
 44,
+43,
+43,
 43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Unmi",
+"lastName": "Back"
+}
+],
+"timing": 1754759913
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Unmi",
+"lastName": "Back"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -297,7 +316,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Beginner Korean I"
 }

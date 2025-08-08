@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 30,
 "time": 1750374170
+},
+{
+"newCapacity": 31,
+"time": 1754759913
 }
 ],
 "initialCap": 31
@@ -100,6 +104,8 @@
 30,
 30,
 30,
+31,
+31,
 31,
 31
 ],
@@ -213,7 +219,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Critical Writing and Research for Historians"
 }

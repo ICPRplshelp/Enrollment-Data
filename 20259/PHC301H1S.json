@@ -120,13 +120,46 @@
 38,
 38,
 38,
+38,
+38,
 38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Bonin"
 },
-"instructors": [],
+{
+"firstName": "Carolyn",
+"lastName": "Cummins"
+},
+{
+"firstName": "Dasha",
+"lastName": "Redka"
+}
+],
+"timing": 1754665125
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Bonin"
+},
+{
+"firstName": "Carolyn",
+"lastName": "Cummins"
+},
+{
+"firstName": "Dasha",
+"lastName": "Redka"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +274,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Molecular Pharmacology 2"
 }

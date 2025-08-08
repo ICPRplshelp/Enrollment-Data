@@ -120,6 +120,8 @@
 114,
 114,
 114,
+114,
+114,
 114
 ],
 "instructorLog": {
@@ -272,6 +274,8 @@
 76,
 76,
 75,
+75,
+75,
 75
 ],
 "instructorLog": {
@@ -285,13 +289,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Momo",
+"lastName": "Tanaka"
+}
+],
+"timing": 1754759913
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jonathan",
-"lastName": "Horowitz"
+"firstName": "Momo",
+"lastName": "Tanaka"
 }
 ],
 "isCancelled": false,
@@ -408,7 +421,9 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913
 ],
 "title": "Introduction to Quantitative Methods in Sociology"
 }
