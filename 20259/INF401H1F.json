@@ -5,7 +5,7 @@
 {
 "createdAt": 1751644976,
 "delivery": "INPER",
-"enrollmentCap": 59,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 59,
 "time": 1754059080
+},
+{
+"newCapacity": 60,
+"time": 1754759913
 }
 ],
 "initialCap": 50
@@ -99,13 +103,36 @@
 59,
 59,
 59,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
+59,
 59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carli",
+"lastName": "Fink"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Carli",
+"lastName": "Fink"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -182,7 +209,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "From Classroom to Workplace"
 }

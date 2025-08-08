@@ -7,7 +7,16 @@
 "delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1755009395
+},
+{
+"newCapacity": 70,
+"time": 1755126801
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -120,7 +129,15 @@
 16,
 16,
 17,
-18
+18,
+18,
+18,
+18,
+18,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,7 +273,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Topics in Comparative Politics II"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "INPER",
-"enrollmentCap": 364,
+"enrollmentCap": 366,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 364,
 "time": 1754607709
+},
+{
+"newCapacity": 366,
+"time": 1754759913
 }
 ],
 "initialCap": 400
@@ -92,7 +96,15 @@
 360,
 361,
 361,
-365
+365,
+365,
+366,
+366,
+366,
+369,
+368,
+369,
+368
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +211,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Fundamentals of Human Movement"
 }

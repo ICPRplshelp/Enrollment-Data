@@ -120,13 +120,36 @@
 149,
 149,
 153,
-155
+155,
+155,
+156,
+156,
+156,
+161,
+163,
+165,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yasmine",
+"lastName": "Lucas"
+}
+],
+"timing": 1754665125
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yasmine",
+"lastName": "Lucas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -241,7 +264,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Core Concepts in Social and Cultural Anthropology"
 }

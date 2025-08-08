@@ -101,7 +101,15 @@
 168,
 168,
 168,
-168
+168,
+168,
+168,
+168,
+168,
+168,
+168,
+169,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -225,6 +233,14 @@
 163,
 163,
 163,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
+162,
 162
 ],
 "instructorLog": {
@@ -349,7 +365,15 @@
 152,
 153,
 153,
-154
+154,
+155,
+155,
+155,
+155,
+153,
+156,
+155,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -473,13 +497,36 @@
 160,
 160,
 159,
-158
+158,
+160,
+160,
+160,
+160,
+160,
+160,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Liza",
+"lastName": "Krupsky"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Liza",
+"lastName": "Krupsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 }
@@ -570,7 +617,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Discrete Mathematics"
 }

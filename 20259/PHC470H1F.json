@@ -125,13 +125,36 @@
 18,
 18,
 18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
 18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jillian",
+"lastName": "Kohler"
+}
+],
+"timing": 1754665125
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jillian",
+"lastName": "Kohler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -246,7 +269,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Global Pharmaceutical Policy"
 }

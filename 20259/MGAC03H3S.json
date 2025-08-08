@@ -1,0 +1,50 @@
+{
+"code": "MGAC03H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1755126801,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+14,
+17,
+17
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"timing": 1755126801
+}
+]
+},
+"instructors": [
+{
+"firstName": "George",
+"lastName": "Quan Fun"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1755126800,
+1755126801,
+1755229936,
+1755275037
+],
+"title": "Intermediate Management Accounting"
+}

@@ -96,7 +96,15 @@
 514,
 514,
 514,
-514
+514,
+514,
+513,
+513,
+513,
+508,
+501,
+499,
+498
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,17 +121,30 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1754759913
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Konstantinos",
-"lastName": "Plataniotis"
-},
-{
 "firstName": "Patricia",
 "lastName": "Sheridan"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
 }
 ],
 "isCancelled": false,
@@ -223,7 +244,15 @@
 407,
 407,
 407,
-408
+408,
+408,
+407,
+407,
+407,
+405,
+403,
+403,
+403
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,14 +273,9 @@
 }
 ],
 "timing": 1750199938
-}
-]
 },
-"instructors": [
 {
-"firstName": "Ofer",
-"lastName": "Levi"
-},
+"instructorsAfter": [
 {
 "firstName": "Patricia",
 "lastName": "Sheridan"
@@ -259,6 +283,28 @@
 {
 "firstName": "Chirag",
 "lastName": "Variawa"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
+}
+],
+"timing": 1754759913
+}
+]
+},
+"instructors": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+},
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Ted",
+"lastName": "Nolan"
 }
 ],
 "isCancelled": false,
@@ -358,7 +404,15 @@
 478,
 478,
 478,
-479
+479,
+479,
+481,
+481,
+481,
+479,
+478,
+478,
+478
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,14 +429,19 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Patricia",
+"lastName": "Sheridan"
+}
+],
+"timing": 1754759913
 }
 ]
 },
 "instructors": [
-{
-"firstName": "Konstantinos",
-"lastName": "Plataniotis"
-},
 {
 "firstName": "Patricia",
 "lastName": "Sheridan"
@@ -478,7 +537,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Engineering Strategies & Practice II"
 }

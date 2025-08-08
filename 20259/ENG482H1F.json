@@ -120,6 +120,14 @@
 19,
 19,
 18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
 18
 ],
 "instructorLog": {
@@ -148,9 +156,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 17,
+"time": 1754665125
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -263,7 +276,15 @@
 8,
 8,
 8,
-8
+8,
+8,
+8,
+8,
+8,
+8,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -399,7 +420,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Advanced Studies Seminar"
 }

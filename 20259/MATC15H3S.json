@@ -96,6 +96,14 @@
 32,
 32,
 33,
+34,
+33,
+34,
+34,
+34,
+34,
+34,
+34,
 34
 ],
 "instructorLog": {
@@ -109,13 +117,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vadim Alexandrovich",
+"lastName": "Vologodski"
+}
+],
+"timing": 1755275037
 }
 ]
 },
 "instructors": [
 {
-"firstName": "VADIM",
-"lastName": "VOLOGODSKY (NOUTORID)"
+"firstName": "Vadim Alexandrovich",
+"lastName": "Vologodski"
 }
 ],
 "isCancelled": false,
@@ -208,7 +225,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Introduction to Number Theory"
 }

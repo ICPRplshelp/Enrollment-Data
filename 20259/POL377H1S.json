@@ -7,7 +7,16 @@
 "delivery": "INPER",
 "enrollmentCap": 70,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1755009395
+},
+{
+"newCapacity": 70,
+"time": 1755126801
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -120,7 +129,15 @@
 25,
 25,
 26,
-26
+26,
+26,
+26,
+26,
+29,
+0,
+9,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,7 +280,15 @@
 40,
 40,
 40,
-40
+40,
+40,
+40,
+40,
+41,
+45,
+43,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -406,7 +431,15 @@
 5,
 5,
 5,
-5
+5,
+5,
+5,
+5,
+4,
+10,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,7 +560,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Topics in Comparative Politics I"
 }

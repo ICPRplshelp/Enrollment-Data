@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,14 @@
 {
 "newCapacity": 34,
 "time": 1753808614
+},
+{
+"newCapacity": 36,
+"time": 1755009395
+},
+{
+"newCapacity": 40,
+"time": 1755126801
 }
 ],
 "initialCap": 28
@@ -129,6 +137,14 @@
 77,
 77,
 77,
+77,
+77,
+77,
+77,
+77,
+77,
+76,
+76,
 77
 ],
 "instructorLog": {
@@ -265,7 +281,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Understanding the Role of Pharmacology and Toxicology in Society"
 }

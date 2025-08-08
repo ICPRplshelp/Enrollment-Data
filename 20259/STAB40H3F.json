@@ -13,13 +13,36 @@
 "enrollmentLogs": [
 0,
 0,
-18
+18,
+18,
+18,
+18,
+19,
+20,
+97,
+98,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jenny",
+"lastName": "Gao"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jenny",
+"lastName": "Gao"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -27,7 +50,15 @@
 "timeIntervals": [
 1754521858,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Fundamentals of Investment and Credit"
 }

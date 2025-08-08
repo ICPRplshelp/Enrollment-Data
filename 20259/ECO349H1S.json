@@ -120,7 +120,15 @@
 135,
 135,
 135,
-136
+136,
+136,
+136,
+136,
+136,
+136,
+135,
+135,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,13 +256,36 @@
 102,
 102,
 106,
-104
+104,
+104,
+104,
+104,
+104,
+105,
+108,
+109,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "D'Souza"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "D'Souza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -369,7 +400,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Money, Banking and Financial Markets"
 }

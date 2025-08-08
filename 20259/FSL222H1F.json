@@ -120,13 +120,36 @@
 36,
 36,
 37,
-38
+38,
+38,
+38,
+38,
+38,
+37,
+37,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josiane",
+"lastName": "Loui"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josiane",
+"lastName": "Loui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,13 +271,36 @@
 17,
 17,
 18,
-18
+18,
+18,
+18,
+18,
+18,
+19,
+20,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josiane",
+"lastName": "Loui"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josiane",
+"lastName": "Loui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -376,13 +422,36 @@
 16,
 16,
 16,
-17
+17,
+17,
+18,
+18,
+18,
+18,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josias",
+"lastName": "Maririmba"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josias",
+"lastName": "Maririmba"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -497,7 +566,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Intermediate French II"
 }

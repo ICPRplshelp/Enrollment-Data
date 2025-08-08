@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1755126801
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -96,7 +101,15 @@
 343,
 344,
 340,
-340
+340,
+343,
+344,
+344,
+344,
+336,
+335,
+334,
+334
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -208,7 +221,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Italian Culture through Food"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 273,
+"enrollmentCap": 277,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 277,
+"time": 1755275037
+}
+],
 "initialCap": 273
 },
 "enrollmentLogs": [
@@ -96,7 +101,15 @@
 262,
 263,
 266,
-271
+271,
+272,
+273,
+273,
+273,
+280,
+280,
+282,
+282
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -208,7 +221,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Introduction to International Development Studies"
 }

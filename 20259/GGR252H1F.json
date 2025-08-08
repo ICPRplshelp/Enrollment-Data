@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1755275037
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -120,7 +125,15 @@
 344,
 344,
 348,
-352
+352,
+356,
+356,
+356,
+356,
+360,
+364,
+364,
+362
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,7 +269,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Marketing Geography"
 }

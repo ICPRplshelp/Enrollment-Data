@@ -96,13 +96,36 @@
 35,
 35,
 35,
-35
+35,
+35,
+35,
+35,
+35,
+37,
+36,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -200,13 +223,36 @@
 35,
 35,
 35,
-34
+34,
+34,
+34,
+34,
+35,
+35,
+36,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -304,13 +350,36 @@
 36,
 36,
 36,
-36
+36,
+36,
+36,
+36,
+37,
+37,
+37,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Price"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -408,13 +477,36 @@
 32,
 32,
 33,
-34
+34,
+33,
+34,
+34,
+35,
+35,
+35,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Divya",
+"lastName": "Maharajh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -505,7 +597,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Creative Non-Fiction"
 }

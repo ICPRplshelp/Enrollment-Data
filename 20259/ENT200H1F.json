@@ -120,13 +120,36 @@
 155,
 155,
 158,
-159
+159,
+159,
+159,
+159,
+159,
+158,
+157,
+158,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hong",
+"lastName": "Luo"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hong",
+"lastName": "Luo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,13 +271,36 @@
 164,
 164,
 170,
-173
+173,
+173,
+172,
+172,
+172,
+170,
+167,
+166,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hong",
+"lastName": "Luo"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hong",
+"lastName": "Luo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -369,7 +415,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Introduction to Entrepreneurship"
 }

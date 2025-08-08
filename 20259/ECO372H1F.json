@@ -120,13 +120,36 @@
 122,
 122,
 122,
-121
+121,
+121,
+121,
+121,
+121,
+120,
+119,
+119,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dina",
+"lastName": "O'Brien"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -248,13 +271,36 @@
 118,
 118,
 117,
+116,
+114,
+113,
+113,
+113,
+114,
+114,
+116,
 116
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Paulley"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Paulley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -369,7 +415,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Data Analysis and Applied Econometrics in Practice"
 }

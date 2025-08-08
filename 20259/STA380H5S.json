@@ -86,13 +86,36 @@
 0,
 0,
 4,
-8
+8,
+10,
+10,
+10,
+17,
+18,
+21,
+23,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna",
+"lastName": "Ly"
+}
+],
+"timing": 1754913722
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna",
+"lastName": "Ly"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -173,7 +196,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Computational Statistics"
 }

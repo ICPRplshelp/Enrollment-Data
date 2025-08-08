@@ -96,13 +96,36 @@
 87,
 87,
 88,
-88
+88,
+88,
+88,
+88,
+88,
+87,
+86,
+86,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Roger",
+"lastName": "Burlton"
+}
+],
+"timing": 1755229936
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Roger",
+"lastName": "Burlton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -193,7 +216,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Integrated System Design"
 }

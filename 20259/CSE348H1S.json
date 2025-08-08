@@ -120,6 +120,14 @@
 11,
 11,
 9,
+9,
+8,
+8,
+8,
+8,
+9,
+9,
+9,
 9
 ],
 "instructorLog": {
@@ -263,13 +271,36 @@
 20,
 20,
 20,
-20
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Loree",
+"lastName": "Erickson"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Loree",
+"lastName": "Erickson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -384,7 +415,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Special Topics in Equity Studies"
 }

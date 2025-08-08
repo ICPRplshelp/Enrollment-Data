@@ -120,7 +120,15 @@
 32,
 32,
 32,
-31
+31,
+30,
+31,
+31,
+31,
+31,
+30,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -248,7 +256,15 @@
 29,
 29,
 30,
-30
+30,
+31,
+31,
+31,
+31,
+31,
+31,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -391,13 +407,36 @@
 20,
 20,
 20,
-20
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Bernier-Wong"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Bernier-Wong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -512,7 +551,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Intermediate French III"
 }

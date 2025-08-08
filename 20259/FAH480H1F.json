@@ -120,13 +120,36 @@
 16,
 16,
 16,
+16,
+16,
+16,
+16,
+16,
+17,
+16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shaun",
+"lastName": "Midanik"
+}
+],
+"timing": 1754759913
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shaun",
+"lastName": "Midanik"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -245,6 +268,14 @@
 20,
 20,
 22,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
 21,
 21,
 21,
@@ -384,7 +415,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Special Topics in the History of Art and Architecture"
 }

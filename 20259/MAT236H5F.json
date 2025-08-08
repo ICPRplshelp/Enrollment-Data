@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1755126801
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -96,14 +101,22 @@
 68,
 68,
 48,
-31
+31,
+26,
+25,
+25,
+25,
+24,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -205,7 +218,15 @@
 34,
 34,
 55,
-73
+73,
+81,
+84,
+84,
+82,
+85,
+91,
+92,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -317,7 +338,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Vector Calculus"
 }

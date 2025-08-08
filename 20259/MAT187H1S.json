@@ -96,7 +96,15 @@
 520,
 520,
 519,
-519
+519,
+519,
+518,
+518,
+518,
+513,
+506,
+504,
+503
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -118,6 +126,19 @@
 }
 ],
 "timing": 1751259267
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nischay",
+"lastName": "Reddy"
+},
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
+}
+],
+"timing": 1755229936
 }
 ]
 },
@@ -125,6 +146,10 @@
 {
 "firstName": "Nischay",
 "lastName": "Reddy"
+},
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
 }
 ],
 "isCancelled": false,
@@ -224,7 +249,15 @@
 411,
 411,
 411,
-412
+412,
+412,
+412,
+412,
+412,
+410,
+408,
+408,
+408
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -360,7 +393,15 @@
 475,
 475,
 475,
-476
+476,
+476,
+478,
+478,
+478,
+477,
+477,
+477,
+477
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -373,6 +414,19 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andreas",
+"lastName": "Mandelis"
+},
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
+}
+],
+"timing": 1755229936
 }
 ]
 },
@@ -380,6 +434,10 @@
 {
 "firstName": "Andreas",
 "lastName": "Mandelis"
+},
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
 }
 ],
 "isCancelled": false,
@@ -472,7 +530,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Calculus II"
 }

@@ -96,13 +96,36 @@
 26,
 26,
 26,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lauren",
+"lastName": "Warrington"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lauren",
+"lastName": "Warrington"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -193,7 +216,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Theory and Practice: Art and Materials"
 }

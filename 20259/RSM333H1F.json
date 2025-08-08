@@ -120,7 +120,15 @@
 61,
 61,
 62,
-62
+62,
+62,
+62,
+62,
+62,
+61,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,7 +271,15 @@
 55,
 55,
 55,
-55
+55,
+55,
+55,
+55,
+55,
+54,
+55,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -406,13 +422,36 @@
 50,
 50,
 50,
-50
+50,
+50,
+50,
+50,
+50,
+50,
+52,
+52,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -534,13 +573,36 @@
 50,
 50,
 50,
-50
+50,
+50,
+51,
+51,
+52,
+53,
+54,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
+"timing": 1755009395
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anwar",
+"lastName": "Husain"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -662,7 +724,15 @@
 63,
 63,
 63,
-63
+63,
+63,
+63,
+63,
+63,
+63,
+64,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -805,7 +875,15 @@
 54,
 54,
 54,
-55
+55,
+55,
+55,
+55,
+55,
+55,
+56,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -948,7 +1026,15 @@
 58,
 58,
 57,
-57
+57,
+57,
+57,
+57,
+57,
+56,
+56,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1084,7 +1170,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Corporate Finance"
 }

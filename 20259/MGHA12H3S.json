@@ -105,7 +105,15 @@
 60,
 60,
 62,
-62
+62,
+62,
+62,
+62,
+61,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -224,13 +232,36 @@
 49,
 50,
 50,
-50
+50,
+51,
+51,
+51,
+51,
+51,
+51,
+51,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -337,13 +368,36 @@
 60,
 59,
 59,
-60
+60,
+60,
+60,
+60,
+60,
+59,
+59,
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "John Peter",
+"lastName": "Trougakos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -450,7 +504,15 @@
 60,
 61,
 61,
-61
+61,
+61,
+61,
+61,
+61,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -578,6 +640,14 @@
 60,
 60,
 60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
+60,
 60
 ],
 "instructorLog": {
@@ -612,6 +682,14 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -794,7 +872,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Human Resource Management"
 }

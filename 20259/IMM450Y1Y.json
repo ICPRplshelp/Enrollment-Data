@@ -120,7 +120,15 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+17,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -133,13 +141,35 @@
 }
 ],
 "timing": 1753316503
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ray",
+"lastName": "Amith"
+},
+{
+"firstName": "Tania",
+"lastName": "Watts"
+}
+],
+"timing": 1754759913
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tania",
+"lastName": "Watts"
+}
+],
+"timing": 1755009395
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ray",
-"lastName": "Amith"
+"firstName": "Tania",
+"lastName": "Watts"
 }
 ],
 "isCancelled": false,
@@ -256,7 +286,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Research Project in Immunology"
 }

@@ -120,7 +120,15 @@
 18,
 18,
 19,
-19
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -263,13 +271,36 @@
 15,
 15,
 15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
+15,
 15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christian",
+"lastName": "Spielmann"
+}
+],
+"timing": 1755126801
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christian",
+"lastName": "Spielmann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -384,7 +415,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Special Topics in Economics"
 }

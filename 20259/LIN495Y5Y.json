@@ -1,0 +1,50 @@
+{
+"code": "LIN495Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1755126801,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Avery",
+"lastName": "Ozburn"
+}
+],
+"timing": 1755126801
+}
+]
+},
+"instructors": [
+{
+"firstName": "Avery",
+"lastName": "Ozburn"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1755126800,
+1755126801,
+1755229936,
+1755275037
+],
+"title": "Individual Project"
+}

@@ -96,7 +96,15 @@
 58,
 58,
 57,
-58
+58,
+56,
+56,
+56,
+56,
+57,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -118,13 +126,22 @@
 }
 ],
 "timing": 1751644976
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Toni Mikael",
+"lastName": "Annala"
+}
+],
+"timing": 1755275037
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Toni",
-"lastName": "ANNALA (NOUTORID)"
+"firstName": "Toni Mikael",
+"lastName": "Annala"
 }
 ],
 "isCancelled": false,
@@ -217,7 +234,15 @@
 1754414307,
 1754452422,
 1754521859,
-1754607709
+1754607709,
+1754665125,
+1754759913,
+1754844494,
+1754913722,
+1755009395,
+1755126801,
+1755229936,
+1755275037
 ],
 "title": "Complex Variables"
 }
