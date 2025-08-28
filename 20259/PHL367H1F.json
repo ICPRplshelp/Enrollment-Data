@@ -1,0 +1,84 @@
+{
+"code": "PHL367H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1756354446,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+12,
+13,
+15,
+15,
+16,
+17,
+20,
+21,
+21,
+21,
+23,
+25,
+26,
+24,
+24,
+23,
+24,
+24,
+24,
+23
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simona",
+"lastName": "Vucu"
+}
+],
+"timing": 1756354446
+}
+]
+},
+"instructors": [
+{
+"firstName": "Simona",
+"lastName": "Vucu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1756354445,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Philosophy of Feminism"
+}

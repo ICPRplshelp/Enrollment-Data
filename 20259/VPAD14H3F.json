@@ -1,0 +1,37 @@
+{
+"code": "VPAD14H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1757775140,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1757775139,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Independent Studies in Arts Management"
+}

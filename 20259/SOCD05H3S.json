@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1757473200
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -113,7 +118,27 @@
 21,
 21,
 21,
-22
+22,
+22,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,6 +151,19 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Hermer"
+},
+{
+"firstName": "Michael",
+"lastName": "DeGagne"
+}
+],
+"timing": 1757473200
 }
 ]
 },
@@ -133,6 +171,10 @@
 {
 "firstName": "Joseph",
 "lastName": "Hermer"
+},
+{
+"firstName": "Michael",
+"lastName": "DeGagne"
 }
 ],
 "isCancelled": false,
@@ -242,7 +284,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Advanced Seminar in Criminology and Sociology of Law"
 }

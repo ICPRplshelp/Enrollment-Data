@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757473200
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -113,7 +118,27 @@
 67,
 67,
 67,
-68
+68,
+69,
+71,
+71,
+71,
+70,
+74,
+70,
+72,
+73,
+73,
+73,
+70,
+70,
+63,
+63,
+63,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,9 +166,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757473200
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -249,7 +279,27 @@
 72,
 72,
 72,
-71
+71,
+70,
+74,
+74,
+74,
+71,
+76,
+71,
+72,
+73,
+73,
+73,
+71,
+69,
+63,
+63,
+63,
+63,
+63,
+63,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,9 +327,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757473200
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -385,7 +440,27 @@
 75,
 75,
 75,
-78
+78,
+76,
+75,
+75,
+75,
+72,
+76,
+75,
+76,
+76,
+76,
+76,
+72,
+72,
+63,
+63,
+63,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -413,9 +488,14 @@
 {
 "createdAt": 1755126801,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757473200
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -521,7 +601,27 @@
 66,
 66,
 66,
-68
+68,
+67,
+65,
+65,
+65,
+70,
+71,
+66,
+69,
+70,
+70,
+70,
+68,
+68,
+63,
+63,
+63,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -650,7 +750,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Introductory Management Accounting"
 }

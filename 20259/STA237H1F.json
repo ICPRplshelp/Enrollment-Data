@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 208,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 200,
 "time": 1751913480
+},
+{
+"newCapacity": 208,
+"time": 1757627717
 }
 ],
 "initialCap": 198
@@ -142,7 +146,27 @@
 219,
 219,
 219,
-219
+219,
+216,
+220,
+222,
+222,
+220,
+224,
+231,
+230,
+231,
+231,
+230,
+230,
+231,
+217,
+217,
+208,
+208,
+208,
+208,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,9 +194,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 208,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 208,
+"time": 1757627717
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -302,7 +331,27 @@
 219,
 219,
 219,
-219
+219,
+214,
+219,
+218,
+218,
+216,
+221,
+230,
+229,
+230,
+230,
+234,
+235,
+237,
+222,
+222,
+208,
+208,
+208,
+208,
+207
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -462,7 +511,27 @@
 209,
 209,
 209,
-210
+210,
+208,
+215,
+216,
+216,
+217,
+220,
+228,
+225,
+225,
+225,
+228,
+230,
+230,
+212,
+212,
+200,
+200,
+200,
+198,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -490,9 +559,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 208,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 208,
+"time": 1757627717
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -622,7 +696,27 @@
 210,
 210,
 210,
-211
+211,
+211,
+217,
+217,
+217,
+218,
+221,
+230,
+229,
+229,
+229,
+228,
+228,
+230,
+216,
+216,
+208,
+208,
+208,
+207,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -650,9 +744,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 212,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 212,
+"time": 1757627717
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -782,7 +881,27 @@
 202,
 202,
 202,
-205
+205,
+207,
+210,
+209,
+209,
+211,
+216,
+219,
+220,
+220,
+220,
+222,
+224,
+226,
+217,
+218,
+212,
+212,
+212,
+210,
+210
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -810,9 +929,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 208,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 208,
+"time": 1757627717
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -942,7 +1066,27 @@
 238,
 238,
 238,
-238
+238,
+235,
+236,
+237,
+237,
+232,
+234,
+238,
+236,
+237,
+237,
+237,
+236,
+237,
+220,
+220,
+208,
+208,
+208,
+208,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1095,7 +1239,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Probability, Statistics and Data Analysis I"
 }

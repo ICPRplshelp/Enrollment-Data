@@ -137,13 +137,48 @@
 32,
 32,
 32,
-32
+32,
+33,
+32,
+32,
+32,
+35,
+32,
+30,
+29,
+28,
+28,
+27,
+27,
+27,
+28,
+28,
+28,
+28,
+28,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Josette",
+"lastName": "Rosenzweig Espinal"
+}
+],
+"timing": 1756594932
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Josette",
+"lastName": "Rosenzweig Espinal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -282,13 +317,48 @@
 23,
 23,
 23,
-23
+23,
+23,
+23,
+22,
+22,
+22,
+26,
+26,
+26,
+24,
+24,
+24,
+22,
+21,
+19,
+19,
+19,
+19,
+19,
+19,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -427,13 +497,48 @@
 20,
 20,
 20,
-20
+20,
+20,
+22,
+22,
+22,
+19,
+17,
+18,
+18,
+17,
+17,
+18,
+18,
+18,
+17,
+17,
+17,
+17,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Johann Ch.",
+"lastName": "Kirchenbauer"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Johann Ch.",
+"lastName": "Kirchenbauer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -565,7 +670,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Spanish for Intermediate Speakers I"
 }

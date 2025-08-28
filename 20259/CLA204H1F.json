@@ -137,7 +137,27 @@
 283,
 283,
 283,
-283
+283,
+275,
+273,
+275,
+275,
+275,
+281,
+277,
+277,
+273,
+273,
+267,
+264,
+261,
+258,
+258,
+268,
+268,
+268,
+259,
+254
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,9 +185,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 500,
+"enrollmentCap": 552,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 552,
+"time": 1756354446
+}
+],
 "initialCap": 500
 },
 "enrollmentLogs": [
@@ -297,13 +322,48 @@
 555,
 555,
 555,
-552
+552,
+554,
+561,
+563,
+563,
+572,
+588,
+586,
+587,
+583,
+583,
+577,
+576,
+580,
+581,
+582,
+552,
+552,
+552,
+551,
+548
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Graham"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Graham"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -442,7 +502,27 @@
 25,
 25,
 25,
-27
+27,
+28,
+28,
+28,
+28,
+25,
+24,
+23,
+22,
+23,
+23,
+20,
+19,
+19,
+19,
+19,
+19,
+20,
+20,
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -595,7 +675,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Introduction to Classical Mythology"
 }

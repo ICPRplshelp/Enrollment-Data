@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 61,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 61,
+"time": 1757214921
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -113,7 +118,27 @@
 93,
 93,
 93,
-93
+93,
+93,
+84,
+81,
+81,
+83,
+81,
+79,
+79,
+79,
+79,
+80,
+75,
+75,
+61,
+61,
+61,
+61,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,9 +166,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757023769
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -249,7 +279,27 @@
 78,
 78,
 78,
-78
+78,
+78,
+75,
+75,
+75,
+75,
+75,
+74,
+73,
+73,
+73,
+74,
+73,
+72,
+63,
+63,
+63,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -385,7 +435,27 @@
 85,
 85,
 85,
-85
+85,
+87,
+82,
+80,
+80,
+79,
+78,
+76,
+76,
+76,
+76,
+76,
+73,
+73,
+60,
+60,
+60,
+60,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -413,9 +483,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1757023769
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -521,7 +596,27 @@
 77,
 77,
 77,
-77
+77,
+78,
+74,
+73,
+73,
+74,
+73,
+74,
+74,
+74,
+74,
+74,
+73,
+73,
+63,
+63,
+63,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -650,7 +745,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Intermediate Finance"
 }

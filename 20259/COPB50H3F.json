@@ -5,12 +5,20 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 1130,
+"enrollmentCap": 1295,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 1130,
 "time": 1752719937
+},
+{
+"newCapacity": 1280,
+"time": 1756491397
+},
+{
+"newCapacity": 1295,
+"time": 1756594932
 }
 ],
 "initialCap": 1035
@@ -118,7 +126,27 @@
 1311,
 1311,
 1311,
-1312
+1312,
+1311,
+1295,
+1294,
+1294,
+1305,
+1323,
+1355,
+1358,
+1361,
+1361,
+1372,
+1361,
+1361,
+1294,
+1295,
+1295,
+1295,
+1295,
+1294,
+1295
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -147,6 +175,43 @@
 }
 ],
 "timing": 1751033930
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Laura",
+"lastName": "Jacob"
+},
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+},
+{
+"firstName": "Suzanne Rose",
+"lastName": "Perreira"
+},
+{
+"firstName": "Monika Kanako",
+"lastName": "Saito"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+}
+],
+"timing": 1756491397
 }
 ]
 },
@@ -170,6 +235,18 @@
 {
 "firstName": "Ching-Yee Jolie",
 "lastName": "Chan"
+},
+{
+"firstName": "Suzanne Rose",
+"lastName": "Perreira"
+},
+{
+"firstName": "Monika Kanako",
+"lastName": "Saito"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -279,7 +356,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

@@ -137,13 +137,64 @@
 50,
 50,
 50,
-50
+50,
+51,
+51,
+51,
+51,
+54,
+58,
+62,
+63,
+65,
+65,
+67,
+68,
+68,
+65,
+65,
+65,
+66,
+66,
+68,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "French"
 },
-"instructors": [],
+{
+"firstName": "Enrrico",
+"lastName": "Bloise"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+}
+],
+"timing": 1757775140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Enrrico",
+"lastName": "Bloise"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -275,7 +326,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Reproduction: Development and Function"
 }

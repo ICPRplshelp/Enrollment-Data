@@ -1,0 +1,46 @@
+{
+"code": "ARC399Y1Y",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1758077118,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Petros",
+"lastName": "Babasikas"
+}
+],
+"timing": 1758077118
+}
+]
+},
+"instructors": [
+{
+"firstName": "Petros",
+"lastName": "Babasikas"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1758077117,
+1758077118
+],
+"title": "Research Opportunity Program"
+}

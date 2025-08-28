@@ -1,0 +1,52 @@
+{
+"code": "LIN498H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1757775140,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lingzi",
+"lastName": "Zhuang"
+}
+],
+"timing": 1757775140
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lingzi",
+"lastName": "Zhuang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1757775139,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Individual Project"
+}

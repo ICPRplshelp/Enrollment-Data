@@ -137,13 +137,48 @@
 117,
 117,
 117,
-117
+117,
+116,
+114,
+113,
+113,
+109,
+108,
+105,
+104,
+102,
+102,
+100,
+95,
+93,
+95,
+95,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -287,13 +322,48 @@
 115,
 115,
 115,
-115
+115,
+113,
+112,
+111,
+111,
+108,
+108,
+104,
+102,
+102,
+102,
+98,
+93,
+91,
+94,
+94,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Byrne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -425,7 +495,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "American Sign Language 1"
 }

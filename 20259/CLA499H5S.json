@@ -1,0 +1,62 @@
+{
+"code": "CLA499H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1757473200,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mareile",
+"lastName": "Haase"
+}
+],
+"timing": 1757627717
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mareile",
+"lastName": "Haase"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1757473199,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Independent Reading"
+}

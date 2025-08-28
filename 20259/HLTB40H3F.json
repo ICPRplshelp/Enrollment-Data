@@ -4,7 +4,7 @@
 "meetings": [
 {
 "createdAt": 1749772011,
-"delivery": "INPER",
+"delivery": "SYNC",
 "enrollmentCap": 105,
 "enrollmentCapComplex": {
 "capChanges": [
@@ -118,7 +118,27 @@
 111,
 111,
 111,
-112
+112,
+112,
+109,
+108,
+108,
+112,
+118,
+121,
+119,
+121,
+121,
+123,
+119,
+121,
+105,
+105,
+105,
+105,
+105,
+105,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,13 +151,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jad",
+"lastName": "Sinno"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Walter",
-"lastName": "Tavares"
+"firstName": "Jad",
+"lastName": "Sinno"
 }
 ],
 "isCancelled": false,
@@ -247,7 +276,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Health Policy and Health Systems"
 }

@@ -1,0 +1,62 @@
+{
+"code": "JBC472H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1757473200,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+5,
+6,
+7,
+7,
+7,
+7,
+7,
+7,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
+"timing": 1757473200
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mark Allister",
+"lastName": "Currie"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1757473199,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Seminars in Biotechnology"
+}

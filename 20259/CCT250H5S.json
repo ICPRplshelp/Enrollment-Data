@@ -113,13 +113,48 @@
 64,
 64,
 64,
-64
+64,
+64,
+71,
+71,
+71,
+81,
+86,
+92,
+92,
+74,
+74,
+69,
+67,
+67,
+63,
+63,
+64,
+64,
+64,
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1758077118
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -234,15 +269,206 @@
 29,
 29,
 29,
-28
+28,
+27,
+57,
+57,
+57,
+68,
+75,
+76,
+76,
+57,
+57,
+54,
+56,
+56,
+56,
+56,
+56,
+56,
+56,
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
+"timing": 1758077118
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1757214921,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+24,
+24,
+33,
+41,
+44,
+47,
+47,
+46,
+47,
+47,
+48,
+51
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1758077118
+}
+]
+},
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -348,7 +574,27 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
 ],
 "title": "Foundations of Digital Design and Production"
 }

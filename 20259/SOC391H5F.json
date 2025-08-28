@@ -1,0 +1,64 @@
+{
+"code": "SOC391H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1757342725,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Innocente"
+}
+],
+"timing": 1757342725
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nathan",
+"lastName": "Innocente"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1757342724,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140,
+1757862626,
+1757949566,
+1758077118
+],
+"title": "Independent Research in Sociology"
+}
