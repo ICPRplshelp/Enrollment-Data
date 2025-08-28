@@ -118,13 +118,45 @@
 150,
 150,
 150,
-149
+149,
+143,
+150,
+149,
+149,
+150,
+152,
+150,
+151,
+151,
+151,
+150,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -244,7 +276,24 @@
 153,
 153,
 153,
-151
+151,
+148,
+150,
+150,
+150,
+150,
+151,
+150,
+150,
+151,
+151,
+152,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,12 +321,34 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1757023769
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -387,7 +458,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 },
 {
@@ -506,7 +577,24 @@
 150,
 150,
 150,
-151
+151,
+149,
+147,
+145,
+145,
+150,
+151,
+149,
+149,
+149,
+149,
+150,
+150,
+148,
+148,
+148,
+150,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -643,6 +731,23 @@
 150,
 150,
 150,
+150,
+150,
+150,
+150,
+150,
+148,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+150,
+149,
+149,
 150,
 150,
 150,
@@ -788,6 +893,23 @@
 150,
 150,
 150,
+150,
+146,
+150,
+150,
+150,
+151,
+150,
+152,
+152,
+152,
+152,
+153,
+153,
+153,
+152,
+152,
+150,
 150
 ],
 "instructorLog": {
@@ -929,7 +1051,24 @@
 154,
 154,
 154,
-154
+154,
+151,
+152,
+152,
+152,
+151,
+150,
+155,
+153,
+153,
+153,
+152,
+151,
+153,
+151,
+152,
+152,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1070,7 +1209,24 @@
 149,
 149,
 149,
-148
+148,
+145,
+148,
+149,
+149,
+150,
+150,
+149,
+150,
+148,
+148,
+145,
+148,
+148,
+150,
+150,
+149,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1211,7 +1367,24 @@
 149,
 149,
 149,
-149
+149,
+143,
+143,
+143,
+143,
+150,
+150,
+150,
+151,
+150,
+150,
+150,
+152,
+154,
+151,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1352,7 +1525,24 @@
 169,
 169,
 169,
-168
+168,
+163,
+162,
+162,
+162,
+160,
+159,
+160,
+160,
+160,
+160,
+159,
+155,
+155,
+155,
+156,
+153,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1493,7 +1683,24 @@
 150,
 150,
 150,
-149
+149,
+146,
+147,
+150,
+150,
+150,
+151,
+151,
+150,
+151,
+151,
+149,
+150,
+149,
+150,
+150,
+149,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1638,7 +1845,24 @@
 171,
 171,
 171,
-179
+179,
+173,
+175,
+175,
+175,
+178,
+181,
+182,
+181,
+182,
+182,
+181,
+184,
+182,
+184,
+182,
+183,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1779,13 +2003,45 @@
 116,
 116,
 116,
-115
+115,
+100,
+95,
+94,
+94,
+96,
+96,
+106,
+104,
+107,
+107,
+109,
+107,
+108,
+106,
+105,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Ye"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "William",
+"lastName": "Ye"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0113"
 },
@@ -1905,13 +2161,45 @@
 145,
 145,
 145,
-144
+144,
+134,
+131,
+130,
+130,
+125,
+130,
+139,
+142,
+142,
+142,
+145,
+147,
+146,
+146,
+146,
+148,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0114"
 },
@@ -2031,7 +2319,24 @@
 150,
 150,
 150,
-146
+146,
+141,
+141,
+141,
+141,
+142,
+149,
+150,
+149,
+145,
+145,
+149,
+148,
+149,
+149,
+149,
+149,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2172,13 +2477,45 @@
 150,
 150,
 150,
-149
+149,
+142,
+136,
+136,
+136,
+147,
+150,
+150,
+149,
+149,
+149,
+150,
+148,
+150,
+148,
+149,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shaun",
+"lastName": "Allison"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0116"
 }
@@ -2286,7 +2623,24 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428,
+1757214921,
+1757257247,
+1757342725,
+1757473200,
+1757519736,
+1757627717,
+1757642842,
+1757690862,
+1757775140
 ],
 "title": "Differential Calculus"
 }
