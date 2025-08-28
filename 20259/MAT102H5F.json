@@ -118,7 +118,9 @@
 158,
 158,
 158,
-156
+156,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -259,7 +261,9 @@
 158,
 158,
 158,
-156
+156,
+146,
+145
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -395,13 +399,30 @@
 32,
 32,
 32,
-38
+38,
+50,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -521,13 +542,30 @@
 153,
 153,
 153,
-151
+151,
+141,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Denis",
+"lastName": "Gorodkov"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -651,7 +689,9 @@
 160,
 160,
 160,
-159
+159,
+153,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -792,7 +832,9 @@
 158,
 158,
 158,
-156
+156,
+155,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -933,7 +975,9 @@
 155,
 155,
 155,
-155
+155,
+152,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1074,7 +1118,9 @@
 167,
 167,
 167,
-164
+164,
+159,
+158
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1108,6 +1154,8 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -1324,7 +1372,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Introduction to Mathematical Proofs"
 }

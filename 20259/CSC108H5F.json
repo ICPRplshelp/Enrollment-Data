@@ -5,17 +5,23 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 150,
 "time": 1754059080
+},
+{
+"newCapacity": 0,
+"time": 1756354446
 }
 ],
 "initialCap": 180
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -125,7 +131,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
@@ -244,7 +250,9 @@
 149,
 149,
 149,
-147
+147,
+144,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -385,7 +393,9 @@
 150,
 150,
 150,
-150
+150,
+146,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -526,7 +536,9 @@
 166,
 166,
 166,
-166
+166,
+165,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -667,6 +679,8 @@
 161,
 161,
 161,
+161,
+162,
 161
 ],
 "instructorLog": {
@@ -812,7 +826,9 @@
 154,
 154,
 154,
-154
+154,
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -953,7 +969,9 @@
 144,
 144,
 144,
-146
+146,
+135,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1094,7 +1112,9 @@
 80,
 80,
 80,
-85
+85,
+88,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1223,7 +1243,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Introduction to Computer Programming"
 }

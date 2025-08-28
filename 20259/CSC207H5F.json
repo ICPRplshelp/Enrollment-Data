@@ -112,7 +112,9 @@
 138,
 138,
 138,
-141
+141,
+131,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +142,14 @@
 {
 "createdAt": 1749855953,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1756354446
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -247,6 +254,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -269,7 +278,7 @@
 "lastName": "De Benedetti"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 },
 {
@@ -382,7 +391,9 @@
 160,
 160,
 160,
-161
+161,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +528,9 @@
 131,
 131,
 131,
-133
+133,
+126,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -645,7 +658,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Software Design"
 }

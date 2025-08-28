@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1756354446
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -137,7 +142,9 @@
 121,
 121,
 121,
-124
+124,
+120,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -297,7 +304,9 @@
 33,
 33,
 33,
-33
+33,
+34,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -450,7 +459,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Introduction to Language"
 }

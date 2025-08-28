@@ -137,13 +137,30 @@
 35,
 35,
 35,
-36
+36,
+33,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amel",
+"lastName": "Taibi"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amel",
+"lastName": "Taibi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -275,7 +292,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Diet, Microbiome & Health"
 }

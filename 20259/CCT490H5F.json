@@ -113,6 +113,8 @@
 32,
 32,
 32,
+32,
+32,
 32
 ],
 "instructorLog": {
@@ -126,13 +128,22 @@
 }
 ],
 "timing": 1753316503
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Seemin",
+"lastName": "Syed"
+}
+],
+"timing": 1756491397
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Samar Khalid",
-"lastName": "Sabie"
+"firstName": "Seemin",
+"lastName": "Syed"
 }
 ],
 "isCancelled": false,
@@ -242,7 +253,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Topics in Communication, Culture, Information and Technology"
 }

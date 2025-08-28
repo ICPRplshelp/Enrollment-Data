@@ -142,7 +142,9 @@
 42,
 42,
 42,
-45
+45,
+43,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,6 +309,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -467,7 +471,9 @@
 40,
 40,
 40,
-39
+39,
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -627,13 +633,30 @@
 41,
 41,
 41,
-40
+40,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -772,13 +795,30 @@
 40,
 40,
 40,
-39
+39,
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -917,7 +957,9 @@
 40,
 40,
 40,
-40
+40,
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1077,7 +1119,9 @@
 33,
 33,
 33,
-35
+35,
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1222,7 +1266,9 @@
 7,
 7,
 7,
-7
+7,
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1367,13 +1413,30 @@
 21,
 21,
 21,
-22
+22,
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5301"
 },
@@ -1517,6 +1580,8 @@
 1,
 1,
 1,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1655,7 +1720,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Spanish for Beginners I"
 }

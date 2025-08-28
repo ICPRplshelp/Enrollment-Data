@@ -122,7 +122,9 @@
 181,
 181,
 181,
-183
+183,
+178,
+181
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -267,13 +269,30 @@
 145,
 145,
 145,
-146
+146,
+133,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fauzia",
+"lastName": "Jabeen"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fauzia",
+"lastName": "Jabeen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -393,7 +412,9 @@
 172,
 172,
 172,
-171
+171,
+164,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -534,7 +555,9 @@
 157,
 157,
 157,
-157
+157,
+149,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -568,6 +591,8 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -796,7 +821,9 @@
 160,
 160,
 160,
-161
+161,
+156,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -925,7 +952,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Differential Calculus for Life Sciences"
 }

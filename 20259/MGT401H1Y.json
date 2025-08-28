@@ -5,12 +5,19 @@
 {
 "createdAt": 1755829503,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1756354446
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -23,7 +30,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -33,7 +40,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Independent Study"
 }

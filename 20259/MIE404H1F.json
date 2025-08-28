@@ -113,7 +113,9 @@
 165,
 165,
 165,
-166
+166,
+164,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,13 +128,22 @@
 }
 ],
 "timing": 1754333703
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alireza",
+"lastName": "Siadatan"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Mohammad",
-"lastName": "Hodaei"
+"firstName": "Alireza",
+"lastName": "Siadatan"
 }
 ],
 "isCancelled": false,
@@ -242,7 +253,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Control Systems I"
 }

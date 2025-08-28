@@ -137,6 +137,8 @@
 32,
 32,
 32,
+32,
+33,
 32
 ],
 "instructorLog": {
@@ -282,13 +284,30 @@
 23,
 23,
 23,
+23,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kristina",
+"lastName": "Stajic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -427,13 +446,30 @@
 20,
 20,
 20,
-20
+20,
+20,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Johann Ch.",
+"lastName": "Kirchenbauer"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Johann Ch.",
+"lastName": "Kirchenbauer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -565,7 +601,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Spanish for Intermediate Speakers I"
 }

@@ -127,13 +127,30 @@
 19,
 19,
 19,
-21
+21,
+22,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thorsten Peter",
+"lastName": "Faas"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thorsten Peter",
+"lastName": "Faas"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -255,7 +272,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Topics in Comparative Politics I"
 }

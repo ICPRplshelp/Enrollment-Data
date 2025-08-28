@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 188,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1756354446
+}
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -137,7 +142,9 @@
 195,
 195,
 195,
-197
+197,
+191,
+194
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -290,7 +297,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Personality and Its Transformations"
 }

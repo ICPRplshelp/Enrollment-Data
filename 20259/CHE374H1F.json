@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 215,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 215,
+"time": 1756491397
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
@@ -113,7 +118,9 @@
 194,
 194,
 194,
-194
+194,
+192,
+192
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,7 +249,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Economic Analysis and Decision Making"
 }

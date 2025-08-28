@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -137,7 +142,9 @@
 97,
 97,
 97,
-97
+97,
+82,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,9 +172,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -297,7 +309,9 @@
 89,
 89,
 89,
-89
+89,
+83,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,9 +339,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 71,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 71,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -457,7 +476,9 @@
 98,
 98,
 98,
-98
+98,
+86,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,9 +506,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -617,7 +643,9 @@
 84,
 84,
 84,
-84
+84,
+75,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -645,9 +673,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -777,7 +810,9 @@
 91,
 91,
 91,
-91
+91,
+83,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -937,7 +972,9 @@
 82,
 82,
 82,
-82
+82,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -965,9 +1002,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1097,7 +1139,9 @@
 79,
 79,
 79,
-79
+79,
+75,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1125,9 +1169,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 71,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 71,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1257,7 +1306,9 @@
 80,
 80,
 80,
-80
+80,
+74,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1285,9 +1336,14 @@
 {
 "createdAt": 1753316503,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1417,7 +1473,9 @@
 75,
 75,
 75,
-77
+77,
+74,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1570,7 +1628,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Introduction to Financial Accounting"
 }

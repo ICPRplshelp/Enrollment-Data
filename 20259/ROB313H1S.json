@@ -113,7 +113,9 @@
 48,
 48,
 48,
-48
+48,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -126,13 +128,22 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nick",
+"lastName": "Rhinehart"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Enas",
-"lastName": "Altarawneh"
+"firstName": "Nick",
+"lastName": "Rhinehart"
 }
 ],
 "isCancelled": false,
@@ -242,7 +253,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "INTRO TO LEARNING FROM DATA"
 }

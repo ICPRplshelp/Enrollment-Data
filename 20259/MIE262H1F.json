@@ -113,6 +113,8 @@
 115,
 115,
 115,
+117,
+117,
 117
 ],
 "instructorLog": {
@@ -126,13 +128,22 @@
 }
 ],
 "timing": 1750199938
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Forrest",
+"lastName": "Mayer"
+}
+],
+"timing": 1756491397
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Dionne",
-"lastName": "Aleman"
+"firstName": "Forrest",
+"lastName": "Mayer"
 }
 ],
 "isCancelled": false,
@@ -242,7 +253,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Deterministic Operations Research"
 }

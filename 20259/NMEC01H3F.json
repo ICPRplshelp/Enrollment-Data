@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 51,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 51,
 "time": 1755613324
+},
+{
+"newCapacity": 53,
+"time": 1756354446
 }
 ],
 "initialCap": 50
@@ -118,7 +122,9 @@
 53,
 53,
 53,
-53
+53,
+53,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -368,7 +374,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Theory and Practice of New Media"
 }

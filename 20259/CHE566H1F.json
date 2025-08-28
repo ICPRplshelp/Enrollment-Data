@@ -113,13 +113,30 @@
 63,
 63,
 63,
+64,
+64,
 64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eleodor",
+"lastName": "Nichita"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eleodor",
+"lastName": "Nichita"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +244,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Elements of Nuclear Engineering"
 }

@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "INPER",
-"enrollmentCap": 373,
+"enrollmentCap": 385,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 373,
 "time": 1755613324
+},
+{
+"newCapacity": 385,
+"time": 1756354446
 }
 ],
 "initialCap": 430
@@ -117,6 +121,8 @@
 377,
 377,
 377,
+380,
+381,
 380
 ],
 "instructorLog": {
@@ -233,7 +239,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Physical Activity and Healthy Lifestyles"
 }

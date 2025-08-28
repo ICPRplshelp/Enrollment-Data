@@ -113,6 +113,8 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -181,6 +183,8 @@
 5,
 5,
 5,
+6,
+6,
 6,
 6,
 6,
@@ -385,6 +389,8 @@
 2,
 2,
 2,
+2,
+2,
 2
 ],
 "instructorLog": {
@@ -440,6 +446,8 @@
 0,
 0,
 0,
+1,
+1,
 1,
 1,
 1,
@@ -657,6 +665,8 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -691,6 +701,8 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -929,6 +941,8 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -1065,6 +1079,8 @@
 2,
 2,
 2,
+2,
+2,
 2
 ],
 "instructorLog": {
@@ -1120,6 +1136,8 @@
 0,
 0,
 0,
+2,
+2,
 2,
 2,
 2,
@@ -1346,6 +1364,8 @@
 3,
 3,
 3,
+3,
+3,
 3
 ],
 "instructorLog": {
@@ -1380,6 +1400,8 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -1618,6 +1640,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1631,13 +1655,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Diane",
+"lastName": "Leung"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ashley",
-"lastName": "Vandiver"
+"firstName": "Diane",
+"lastName": "Leung"
 }
 ],
 "isCancelled": false,
@@ -1652,6 +1685,8 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -1890,6 +1925,8 @@
 1,
 1,
 1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -1924,6 +1961,8 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -2170,6 +2209,8 @@
 0,
 0,
 0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2306,6 +2347,8 @@
 2,
 2,
 2,
+2,
+2,
 2
 ],
 "instructorLog": {
@@ -2340,6 +2383,8 @@
 "initialCap": 10
 },
 "enrollmentLogs": [
+0,
+0,
 0,
 0,
 0,
@@ -2571,7 +2616,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Instr Performance Class"
 }

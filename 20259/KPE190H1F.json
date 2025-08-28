@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "INPER",
-"enrollmentCap": 364,
+"enrollmentCap": 375,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 364,
 "time": 1755613324
+},
+{
+"newCapacity": 375,
+"time": 1756354446
 }
 ],
 "initialCap": 400
@@ -109,7 +113,9 @@
 366,
 366,
 366,
-371
+371,
+370,
+369
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -225,7 +231,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Inquiry in Kinesiology and Physical Education"
 }

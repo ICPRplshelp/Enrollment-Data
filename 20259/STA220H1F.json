@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 240,
+"enrollmentCap": 134,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 134,
+"time": 1756354446
+}
+],
 "initialCap": 240
 },
 "enrollmentLogs": [
@@ -137,7 +142,9 @@
 98,
 98,
 98,
-100
+100,
+101,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -296,6 +303,8 @@
 251,
 251,
 251,
+251,
+252,
 251,
 252
 ],
@@ -462,7 +471,9 @@
 207,
 207,
 207,
-206
+206,
+196,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -615,7 +626,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "The Practice of Statistics I"
 }

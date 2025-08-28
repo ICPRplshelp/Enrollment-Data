@@ -113,7 +113,9 @@
 26,
 26,
 26,
-26
+26,
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -139,6 +141,28 @@
 }
 ],
 "timing": 1755829503
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Praneeta",
+"lastName": "Mudliar"
+}
+],
+"timing": 1756354446
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Praneeta",
+"lastName": "Mudliar"
+},
+{
+"firstName": "Lindsay",
+"lastName": "Robinson"
+}
+],
+"timing": 1756491397
 }
 ]
 },
@@ -148,8 +172,8 @@
 "lastName": "Mudliar"
 },
 {
-"firstName": "Sardana",
-"lastName": "Nikolaeva"
+"firstName": "Lindsay",
+"lastName": "Robinson"
 }
 ],
 "isCancelled": false,
@@ -259,7 +283,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Environmental Justice"
 }

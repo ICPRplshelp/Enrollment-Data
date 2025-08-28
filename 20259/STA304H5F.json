@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1756354446
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -113,7 +118,9 @@
 150,
 150,
 150,
-150
+150,
+131,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,9 +148,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1756354446
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -249,7 +261,9 @@
 145,
 145,
 145,
-146
+146,
+130,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -378,7 +392,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Surveys, Sampling and Observational Data"
 }

@@ -137,7 +137,9 @@
 156,
 156,
 156,
-157
+157,
+146,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -297,7 +299,9 @@
 155,
 155,
 155,
-155
+155,
+149,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,7 +461,9 @@
 118,
 118,
 118,
-118
+118,
+113,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -617,6 +623,8 @@
 146,
 146,
 146,
+145,
+141,
 145
 ],
 "instructorLog": {
@@ -777,7 +785,9 @@
 159,
 159,
 159,
-159
+159,
+151,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -937,6 +947,8 @@
 144,
 144,
 144,
+144,
+143,
 144
 ],
 "instructorLog": {
@@ -1082,6 +1094,8 @@
 144,
 144,
 144,
+144,
+141,
 144
 ],
 "instructorLog": {
@@ -1242,7 +1256,9 @@
 144,
 144,
 144,
-144
+144,
+134,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1402,13 +1418,30 @@
 65,
 65,
 65,
-72
+72,
+70,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aleksandr",
+"lastName": "Popkovich"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aleksandr",
+"lastName": "Popkovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -1540,7 +1573,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

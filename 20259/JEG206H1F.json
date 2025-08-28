@@ -137,6 +137,8 @@
 8,
 8,
 8,
+8,
+8,
 8
 ],
 "instructorLog": {
@@ -150,13 +152,30 @@
 }
 ],
 "timing": 1751644976
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Zhou",
+"lastName": "Zang"
+},
+{
+"firstName": "Farbod",
+"lastName": "Tabaei"
+}
+],
+"timing": 1756491397
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jane",
-"lastName": "Liu"
+"firstName": "Zhou",
+"lastName": "Zang"
+},
+{
+"firstName": "Farbod",
+"lastName": "Tabaei"
 }
 ],
 "isCancelled": false,
@@ -290,7 +309,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Intro to Hydrology"
 }

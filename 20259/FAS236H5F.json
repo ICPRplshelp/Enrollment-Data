@@ -113,7 +113,9 @@
 13,
 13,
 13,
-14
+14,
+16,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -249,7 +251,9 @@
 20,
 20,
 20,
-20
+20,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,13 +266,22 @@
 }
 ],
 "timing": 1752761280
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lauren",
+"lastName": "Wickware"
+}
+],
+"timing": 1756491397
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Atanas",
-"lastName": "Bozdarov"
+"firstName": "Lauren",
+"lastName": "Wickware"
 }
 ],
 "isCancelled": false,
@@ -385,7 +398,9 @@
 20,
 20,
 20,
-20
+20,
+20,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -523,7 +538,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Design I"
 }

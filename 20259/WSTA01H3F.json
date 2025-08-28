@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 275,
+"enrollmentCap": 278,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 275,
 "time": 1754521859
+},
+{
+"newCapacity": 278,
+"time": 1756354446
 }
 ],
 "initialCap": 234
@@ -126,7 +130,9 @@
 279,
 279,
 279,
-277
+277,
+283,
+273
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,7 +261,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Introduction to Women's and Gender Studies"
 }

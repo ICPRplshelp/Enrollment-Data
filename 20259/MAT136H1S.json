@@ -137,7 +137,9 @@
 160,
 160,
 160,
-160
+160,
+154,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -297,7 +299,9 @@
 250,
 250,
 250,
-250
+250,
+241,
+245
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,7 +461,9 @@
 256,
 256,
 256,
-255
+255,
+252,
+252
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -611,6 +617,8 @@
 141,
 141,
 141,
+140,
+140,
 140,
 140,
 140,
@@ -777,7 +785,9 @@
 250,
 250,
 250,
-250
+250,
+238,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -937,7 +947,9 @@
 246,
 246,
 246,
-245
+245,
+241,
+242
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1097,7 +1109,9 @@
 249,
 249,
 249,
-250
+250,
+246,
+246
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1242,7 +1256,9 @@
 210,
 210,
 210,
-212
+212,
+203,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1402,7 +1418,9 @@
 240,
 240,
 240,
-239
+239,
+232,
+232
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1562,7 +1580,9 @@
 121,
 121,
 121,
-120
+120,
+116,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1722,7 +1742,9 @@
 243,
 243,
 243,
-241
+241,
+233,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1882,7 +1904,9 @@
 58,
 58,
 58,
-59
+59,
+63,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2042,7 +2066,9 @@
 258,
 258,
 258,
-257
+257,
+252,
+255
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -2202,13 +2228,30 @@
 69,
 69,
 69,
-77
+77,
+79,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elia",
+"lastName": "Portnoy"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elia",
+"lastName": "Portnoy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5401"
 }
@@ -2340,7 +2383,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Calculus II"
 }

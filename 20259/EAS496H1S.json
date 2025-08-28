@@ -137,7 +137,9 @@
 8,
 8,
 8,
-8
+8,
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,6 +152,19 @@
 }
 ],
 "timing": 1750709124
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Erin Yu-Tien",
+"lastName": "Huang"
+},
+{
+"firstName": "Sophie",
+"lastName": "Bowman"
+}
+],
+"timing": 1756491397
 }
 ]
 },
@@ -157,6 +172,10 @@
 {
 "firstName": "Erin Yu-Tien",
 "lastName": "Huang"
+},
+{
+"firstName": "Sophie",
+"lastName": "Bowman"
 }
 ],
 "isCancelled": false,
@@ -290,7 +309,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Advanced Topics in East Asian Studies"
 }

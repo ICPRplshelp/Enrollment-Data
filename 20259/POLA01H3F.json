@@ -113,7 +113,9 @@
 187,
 187,
 187,
-191
+191,
+196,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,9 +143,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 210,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1756354446
+}
+],
 "initialCap": 210
 },
 "enrollmentLogs": [
@@ -249,7 +256,9 @@
 177,
 177,
 177,
-179
+179,
+180,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -385,7 +394,9 @@
 105,
 105,
 105,
-105
+105,
+104,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -514,7 +525,9 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397
 ],
 "title": "Critical Issues in Politics I"
 }
