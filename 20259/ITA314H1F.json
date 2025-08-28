@@ -5,12 +5,20 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 310,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 310,
 "time": 1755729570
+},
+{
+"newCapacity": 330,
+"time": 1756354446
+},
+{
+"newCapacity": 350,
+"time": 1756910335
 }
 ],
 "initialCap": 250
@@ -142,7 +150,15 @@
 320,
 320,
 320,
-322
+322,
+318,
+325,
+327,
+327,
+334,
+355,
+366,
+366
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -295,7 +311,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Italian Design: Fashion, Artistry, Genius"
 }

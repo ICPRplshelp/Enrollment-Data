@@ -1,0 +1,48 @@
+{
+"code": "PHL495H1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1756491397,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 9999,
+"time": 1757023769
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1756491396,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
+],
+"title": "Individual Studies"
+}

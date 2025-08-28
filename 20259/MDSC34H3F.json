@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 37,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 35,
 "time": 1753452756
+},
+{
+"newCapacity": 37,
+"time": 1756354446
 }
 ],
 "initialCap": 15
@@ -118,7 +122,15 @@
 36,
 36,
 36,
-37
+37,
+38,
+36,
+36,
+36,
+36,
+36,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,13 +143,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sherry",
-"lastName": "Yu"
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
 }
 ],
 "isCancelled": false,
@@ -247,7 +268,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Diasporic Media"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1756910335
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -113,7 +118,15 @@
 77,
 77,
 77,
-77
+77,
+76,
+71,
+71,
+71,
+71,
+75,
+75,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,7 +255,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "The Politics of Crime"
 }

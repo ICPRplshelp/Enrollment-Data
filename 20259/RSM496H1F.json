@@ -137,7 +137,15 @@
 42,
 42,
 42,
-42
+42,
+44,
+43,
+44,
+44,
+43,
+45,
+47,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,9 +173,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 47,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1756491397
+}
+],
 "initialCap": 47
 },
 "enrollmentLogs": [
@@ -297,7 +310,15 @@
 49,
 49,
 49,
-49
+49,
+49,
+50,
+50,
+50,
+50,
+51,
+52,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -450,7 +471,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Catastrophic Failure in Organizations"
 }

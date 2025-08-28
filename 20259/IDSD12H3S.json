@@ -80,13 +80,36 @@
 4,
 4,
 4,
-4
+4,
+4,
+4,
+3,
+3,
+3,
+4,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ken",
+"lastName": "MacDonald"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ken",
+"lastName": "MacDonald"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -161,7 +184,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Topics in International Development Studies"
 }

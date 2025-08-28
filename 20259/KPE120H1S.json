@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "INPER",
-"enrollmentCap": 364,
+"enrollmentCap": 375,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 364,
 "time": 1755613324
+},
+{
+"newCapacity": 375,
+"time": 1756354446
 }
 ],
 "initialCap": 430
@@ -109,6 +113,14 @@
 369,
 369,
 369,
+371,
+373,
+372,
+372,
+372,
+371,
+371,
+371,
 371
 ],
 "instructorLog": {
@@ -234,7 +246,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Foundations of Sport, Exercise and Health Psychology"
 }

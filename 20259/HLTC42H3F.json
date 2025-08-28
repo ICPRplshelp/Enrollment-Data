@@ -113,13 +113,36 @@
 59,
 59,
 59,
+60,
+60,
+60,
+60,
+60,
+61,
+63,
+62,
 60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sterling",
+"lastName": "Stutz"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sterling",
+"lastName": "Stutz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -227,7 +250,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Emerging Health Issues and Policy Needs"
 }

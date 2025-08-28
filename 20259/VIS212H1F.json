@@ -113,13 +113,45 @@
 27,
 27,
 27,
+27,
+26,
+26,
+26,
+26,
+25,
+26,
+28,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Turgeon"
+}
+],
+"timing": 1756755690
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Aryen",
+"lastName": "Hoekstra"
+}
+],
+"timing": 1756910335
+}
+]
+},
+"instructors": [
+{
+"firstName": "Aryen",
+"lastName": "Hoekstra"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -234,13 +266,45 @@
 20,
 20,
 20,
-22
+22,
+20,
+20,
+20,
+20,
+21,
+25,
+26,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aryen",
+"lastName": "Hoekstra"
+}
+],
+"timing": 1756755690
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Turgeon"
+}
+],
+"timing": 1756910335
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Turgeon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -348,7 +412,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Colour"
 }

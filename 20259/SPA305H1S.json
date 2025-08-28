@@ -137,13 +137,36 @@
 6,
 6,
 6,
-6
+6,
+5,
+4,
+4,
+4,
+5,
+5,
+7,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natalia Lorena",
+"lastName": "Rigonatto"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Natalia Lorena",
+"lastName": "Rigonatto"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -275,7 +298,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Spanish for Heritage Speakers II"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 47,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1756491397
+}
+],
 "initialCap": 47
 },
 "enrollmentLogs": [
@@ -137,6 +142,14 @@
 52,
 52,
 52,
+51,
+51,
+50,
+50,
+50,
+50,
+50,
+51,
 51
 ],
 "instructorLog": {
@@ -290,7 +303,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Special Topics in Management"
 }

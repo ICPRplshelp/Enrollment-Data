@@ -142,7 +142,15 @@
 42,
 42,
 42,
-45
+45,
+43,
+42,
+42,
+42,
+45,
+43,
+44,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,6 +315,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -467,6 +483,14 @@
 40,
 40,
 40,
+39,
+39,
+40,
+40,
+40,
+41,
+39,
+39,
 39
 ],
 "instructorLog": {
@@ -627,13 +651,36 @@
 41,
 41,
 41,
-40
+40,
+41,
+41,
+40,
+40,
+40,
+39,
+39,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -772,13 +819,36 @@
 40,
 40,
 40,
-39
+39,
+39,
+40,
+40,
+40,
+40,
+41,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -916,6 +986,14 @@
 40,
 40,
 40,
+40,
+40,
+40,
+39,
+39,
+39,
+38,
+41,
 40,
 40
 ],
@@ -1077,13 +1155,36 @@
 33,
 33,
 33,
-35
+35,
+39,
+40,
+40,
+40,
+40,
+37,
+39,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Isidora",
+"lastName": "Cortes-Monroy Gazitua"
+}
+],
+"timing": 1756594932
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Isidora",
+"lastName": "Cortes-Monroy Gazitua"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -1222,13 +1323,36 @@
 7,
 7,
 7,
-7
+7,
+9,
+10,
+10,
+10,
+11,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela Marcela",
+"lastName": "Maldonado Castaneda"
+}
+],
+"timing": 1756594932
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniela Marcela",
+"lastName": "Maldonado Castaneda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -1367,13 +1491,36 @@
 21,
 21,
 21,
-22
+22,
+24,
+23,
+24,
+24,
+26,
+27,
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5301"
 },
@@ -1517,6 +1664,14 @@
 1,
 1,
 1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1655,7 +1810,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Spanish for Beginners I"
 }

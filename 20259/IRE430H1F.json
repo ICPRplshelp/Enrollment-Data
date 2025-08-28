@@ -137,7 +137,15 @@
 73,
 73,
 73,
-73
+73,
+72,
+70,
+71,
+71,
+71,
+73,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,12 +173,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 85,
+"enrollmentCap": 87,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 85,
 "time": 1752719937
+},
+{
+"newCapacity": 87,
+"time": 1756910335
 }
 ],
 "initialCap": 75
@@ -300,6 +312,14 @@
 87,
 87,
 87,
+87,
+87,
+87,
+87,
+89,
+89,
+89,
+89,
 87,
 87,
 87
@@ -455,7 +475,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Canadian Employment Law & the Non-Union Workplace"
 }

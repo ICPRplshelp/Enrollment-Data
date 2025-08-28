@@ -137,13 +137,36 @@
 19,
 19,
 19,
-19
+19,
+17,
+17,
+17,
+17,
+19,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Meg Schlichting",
+"lastName": "Mack"
+}
+],
+"timing": 1756910335
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Meg Schlichting",
+"lastName": "Mack"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -275,7 +298,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Human Memory and Learning Laboratory"
 }

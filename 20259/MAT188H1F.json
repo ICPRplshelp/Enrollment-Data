@@ -118,7 +118,15 @@
 151,
 151,
 151,
-151
+151,
+139,
+139,
+137,
+137,
+137,
+137,
+136,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -268,7 +276,15 @@
 143,
 143,
 143,
-143
+143,
+136,
+136,
+135,
+135,
+135,
+136,
+136,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -409,7 +425,15 @@
 145,
 145,
 145,
-145
+145,
+130,
+129,
+129,
+129,
+129,
+129,
+129,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -550,7 +574,15 @@
 164,
 164,
 164,
-164
+164,
+143,
+143,
+144,
+144,
+144,
+144,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -691,7 +723,15 @@
 159,
 159,
 159,
-159
+159,
+145,
+145,
+143,
+143,
+143,
+144,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -832,7 +872,15 @@
 144,
 144,
 144,
-144
+144,
+126,
+126,
+128,
+128,
+128,
+126,
+126,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -982,7 +1030,15 @@
 164,
 164,
 164,
-164
+164,
+146,
+146,
+146,
+146,
+146,
+146,
+146,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1132,13 +1188,36 @@
 170,
 170,
 170,
-170
+170,
+151,
+151,
+150,
+150,
+150,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nathaniel",
+"lastName": "Sagman"
+}
+],
+"timing": 1757023769
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nathaniel",
+"lastName": "Sagman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0108"
 },
@@ -1258,7 +1337,15 @@
 127,
 127,
 127,
-127
+127,
+110,
+110,
+110,
+110,
+110,
+110,
+111,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1396,7 +1483,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Linear Algebra"
 }

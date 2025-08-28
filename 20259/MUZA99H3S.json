@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 900,
+"enrollmentCap": 1000,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 900,
 "time": 1754452422
+},
+{
+"newCapacity": 1000,
+"time": 1756491397
 }
 ],
 "initialCap": 700
@@ -118,7 +122,15 @@
 965,
 965,
 965,
-972
+972,
+974,
+963,
+969,
+969,
+988,
+1020,
+1042,
+1044
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +244,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Listening to Music"
 }

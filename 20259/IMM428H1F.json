@@ -137,7 +137,15 @@
 56,
 56,
 56,
-56
+56,
+56,
+56,
+55,
+55,
+53,
+53,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,6 +158,27 @@
 }
 ],
 "timing": 1754059080
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alberto",
+"lastName": "Martin"
+},
+{
+"firstName": "Chao",
+"lastName": "Wang"
+},
+{
+"firstName": "Landon",
+"lastName": "Edgar"
+},
+{
+"firstName": "Arthur",
+"lastName": "Mortha"
+}
+],
+"timing": 1757023769
 }
 ]
 },
@@ -157,6 +186,18 @@
 {
 "firstName": "Alberto",
 "lastName": "Martin"
+},
+{
+"firstName": "Chao",
+"lastName": "Wang"
+},
+{
+"firstName": "Landon",
+"lastName": "Edgar"
+},
+{
+"firstName": "Arthur",
+"lastName": "Mortha"
 }
 ],
 "isCancelled": false,
@@ -290,7 +331,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Molecular Immunology"
 }

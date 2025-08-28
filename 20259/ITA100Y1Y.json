@@ -137,13 +137,44 @@
 22,
 22,
 22,
-23
+23,
+21,
+20,
+21,
+21,
+21,
+20,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giulia",
+"lastName": "Guadagni"
 },
-"instructors": [],
+{
+"firstName": "Rumi",
+"lastName": "Handen"
+}
+],
+"timing": 1756354446
+}
+]
+},
+"instructors": [
+{
+"firstName": "Giulia",
+"lastName": "Guadagni"
+},
+{
+"firstName": "Rumi",
+"lastName": "Handen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -282,13 +313,44 @@
 18,
 18,
 18,
-17
+17,
+19,
+20,
+20,
+20,
+19,
+18,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mia Antoinette",
+"lastName": "Lofranco"
 },
-"instructors": [],
+{
+"firstName": "Mattia",
+"lastName": "Ragazzoni"
+}
+],
+"timing": 1756354446
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mia Antoinette",
+"lastName": "Lofranco"
+},
+{
+"firstName": "Mattia",
+"lastName": "Ragazzoni"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -427,13 +489,36 @@
 19,
 19,
 19,
+19,
+20,
+20,
+20,
+20,
+19,
+19,
+19,
 19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beatrice",
+"lastName": "Bruno"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Beatrice",
+"lastName": "Bruno"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -572,13 +657,36 @@
 10,
 10,
 10,
+10,
+10,
+10,
+10,
+10,
+11,
+13,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -717,13 +825,36 @@
 25,
 25,
 25,
-26
+26,
+25,
+27,
+27,
+27,
+27,
+28,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giulia",
+"lastName": "Gaimari"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Giulia",
+"lastName": "Gaimari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -862,13 +993,36 @@
 27,
 27,
 27,
+27,
+24,
+24,
+25,
+25,
+27,
+25,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
+"timing": 1756491397
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -1007,7 +1161,15 @@
 15,
 15,
 15,
-14
+14,
+14,
+13,
+13,
+13,
+14,
+12,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1152,13 +1314,44 @@
 11,
 11,
 11,
-11
+11,
+12,
+13,
+13,
+13,
+12,
+14,
+15,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Annunziata",
+"lastName": "Zevola"
 },
-"instructors": [],
+{
+"firstName": "Andrea",
+"lastName": "Lanza"
+}
+],
+"timing": 1756354446
+}
+]
+},
+"instructors": [
+{
+"firstName": "Annunziata",
+"lastName": "Zevola"
+},
+{
+"firstName": "Andrea",
+"lastName": "Lanza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5401"
 }
@@ -1290,7 +1483,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Italian Language for Beginners"
 }

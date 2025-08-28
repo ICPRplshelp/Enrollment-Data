@@ -118,13 +118,36 @@
 48,
 48,
 48,
-47
+47,
+48,
+46,
+46,
+46,
+47,
+51,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sudharshan",
+"lastName": "Durayappah"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sudharshan",
+"lastName": "Durayappah"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -232,7 +255,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Visualizing Asia"
 }

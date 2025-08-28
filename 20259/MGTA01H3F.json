@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 350,
+"enrollmentCap": 360,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 360,
+"time": 1757023769
+}
+],
 "initialCap": 350
 },
 "enrollmentLogs": [
@@ -113,7 +118,15 @@
 376,
 376,
 376,
-378
+378,
+380,
+361,
+364,
+364,
+369,
+363,
+370,
+369
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -141,9 +154,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 350,
+"enrollmentCap": 355,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 355,
+"time": 1757023769
+}
+],
 "initialCap": 350
 },
 "enrollmentLogs": [
@@ -249,7 +267,15 @@
 362,
 362,
 362,
-362
+362,
+361,
+347,
+346,
+346,
+354,
+353,
+363,
+367
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,13 +288,22 @@
 }
 ],
 "timing": 1754521859
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Brooklynn",
+"lastName": "Zhu"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "T.",
-"lastName": "ZHU (NOUTORID)"
+"firstName": "Brooklynn",
+"lastName": "Zhu"
 }
 ],
 "isCancelled": false,
@@ -378,7 +413,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Introduction to Business"
 }

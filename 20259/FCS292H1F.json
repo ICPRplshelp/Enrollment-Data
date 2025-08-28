@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 210,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,14 @@
 {
 "newCapacity": 300,
 "time": 1755905230
+},
+{
+"newCapacity": 170,
+"time": 1756354446
+},
+{
+"newCapacity": 210,
+"time": 1757023769
 }
 ],
 "initialCap": 60
@@ -146,7 +154,15 @@
 150,
 150,
 150,
-153
+153,
+168,
+178,
+178,
+178,
+192,
+206,
+236,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -299,7 +315,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Love, Sex and Desire in French Literature and Cinema"
 }

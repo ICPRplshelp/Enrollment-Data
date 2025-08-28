@@ -137,6 +137,14 @@
 188,
 188,
 188,
+188,
+188,
+188,
+188,
+188,
+188,
+188,
+187,
 188
 ],
 "instructorLog": {
@@ -165,9 +173,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 188,
+"enrollmentCap": 222,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 222,
+"time": 1757023769
+}
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -297,7 +310,15 @@
 232,
 232,
 232,
-231
+231,
+223,
+219,
+219,
+219,
+215,
+215,
+222,
+225
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,7 +478,15 @@
 173,
 173,
 173,
-171
+171,
+180,
+181,
+182,
+182,
+188,
+187,
+190,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,9 +514,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 188,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1757023769
+}
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -617,7 +651,15 @@
 229,
 229,
 229,
-228
+228,
+222,
+221,
+220,
+220,
+218,
+213,
+203,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -777,7 +819,15 @@
 127,
 127,
 127,
-130
+130,
+123,
+120,
+120,
+120,
+123,
+130,
+120,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -937,7 +987,15 @@
 188,
 188,
 188,
-186
+186,
+188,
+188,
+188,
+188,
+187,
+188,
+186,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1106,7 +1164,15 @@
 81,
 81,
 81,
-82
+82,
+77,
+75,
+75,
+75,
+75,
+74,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1266,7 +1332,15 @@
 120,
 120,
 120,
-126
+126,
+122,
+125,
+125,
+125,
+130,
+141,
+160,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1426,7 +1500,15 @@
 125,
 125,
 125,
-126
+126,
+128,
+132,
+132,
+132,
+133,
+149,
+156,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1579,7 +1661,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Linear Algebra I"
 }

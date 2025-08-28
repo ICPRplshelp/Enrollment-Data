@@ -4,13 +4,21 @@
 "meetings": [
 {
 "createdAt": 1749772011,
-"delivery": "INPER",
-"enrollmentCap": 75,
+"delivery": "ASYNC",
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 75,
 "time": 1750776607
+},
+{
+"newCapacity": 80,
+"time": 1756354446
+},
+{
+"newCapacity": 90,
+"time": 1757023769
 }
 ],
 "initialCap": 80
@@ -118,7 +126,15 @@
 76,
 76,
 76,
-76
+76,
+80,
+77,
+77,
+77,
+80,
+91,
+107,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -131,13 +147,22 @@
 }
 ],
 "timing": 1755905230
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Carina",
+"lastName": "Guzman"
+}
+],
+"timing": 1757023769
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sarah",
-"lastName": "Kleeb"
+"firstName": "Carina",
+"lastName": "Guzman"
 }
 ],
 "isCancelled": false,
@@ -247,7 +272,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Human, Animal, Machine"
 }

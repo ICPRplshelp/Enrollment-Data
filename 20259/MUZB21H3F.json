@@ -118,13 +118,36 @@
 16,
 16,
 16,
-17
+17,
+17,
+17,
+17,
+17,
+16,
+17,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Myrtle",
+"lastName": "Millares"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Myrtle",
+"lastName": "Millares"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -232,7 +255,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Exploring Music in Social and Cultural Contexts"
 }

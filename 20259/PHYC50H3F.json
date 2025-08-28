@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 36,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 36,
 "time": 1753631174
+},
+{
+"newCapacity": 40,
+"time": 1756910335
 }
 ],
 "initialCap": 30
@@ -118,6 +122,14 @@
 37,
 37,
 37,
+37,
+39,
+38,
+38,
+38,
+38,
+39,
+38,
 37
 ],
 "instructorLog": {
@@ -247,7 +259,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Electromagnetic Theory"
 }

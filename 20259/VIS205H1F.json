@@ -113,13 +113,36 @@
 20,
 20,
 20,
-20
+20,
+18,
+18,
+18,
+18,
+18,
+20,
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sukaina",
+"lastName": "Kubba"
+}
+],
+"timing": 1756755690
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sukaina",
+"lastName": "Kubba"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -234,13 +257,36 @@
 17,
 17,
 17,
-17
+17,
+17,
+18,
+18,
+18,
+17,
+17,
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mahshid",
+"lastName": "Rafiei"
+}
+],
+"timing": 1756755690
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mahshid",
+"lastName": "Rafiei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -348,7 +394,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Drawing: Experimental Practices"
 }

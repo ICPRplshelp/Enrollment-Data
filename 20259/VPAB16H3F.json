@@ -5,9 +5,14 @@
 {
 "createdAt": 1750709124,
 "delivery": "SYNC",
-"enrollmentCap": 300,
+"enrollmentCap": 197,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 197,
+"time": 1756354446
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -105,7 +110,15 @@
 188,
 188,
 188,
-190
+190,
+189,
+181,
+182,
+182,
+184,
+188,
+188,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -226,7 +239,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Managing and Leading in Cultural Organizations"
 }

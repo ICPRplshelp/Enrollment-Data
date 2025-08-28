@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 121,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 121,
+"time": 1756594932
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -137,7 +142,15 @@
 121,
 121,
 121,
-124
+124,
+128,
+129,
+130,
+130,
+132,
+130,
+133,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -302,6 +315,14 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -455,7 +476,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Labour Relations"
 }

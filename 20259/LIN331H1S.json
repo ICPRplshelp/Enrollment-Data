@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 44,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 44,
+"time": 1756910335
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -137,7 +142,15 @@
 44,
 44,
 44,
-44
+44,
+43,
+43,
+43,
+43,
+45,
+46,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -290,7 +303,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Syntactic Theory"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -137,7 +142,15 @@
 75,
 75,
 75,
-75
+75,
+74,
+74,
+74,
+74,
+74,
+73,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,9 +178,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -297,7 +315,15 @@
 92,
 92,
 92,
-90
+90,
+81,
+80,
+80,
+80,
+78,
+77,
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,9 +351,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 72,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -457,7 +488,15 @@
 79,
 79,
 79,
-79
+79,
+74,
+73,
+73,
+73,
+74,
+75,
+74,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,9 +524,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -617,7 +661,15 @@
 76,
 76,
 76,
-76
+76,
+73,
+73,
+73,
+73,
+73,
+74,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -645,9 +697,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -777,7 +834,15 @@
 78,
 78,
 78,
-78
+78,
+72,
+73,
+73,
+73,
+71,
+72,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -805,9 +870,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -937,7 +1007,15 @@
 72,
 72,
 72,
-72
+72,
+72,
+69,
+69,
+69,
+69,
+69,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -965,9 +1043,14 @@
 {
 "createdAt": 1753452756,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1097,7 +1180,15 @@
 66,
 66,
 66,
-68
+68,
+67,
+68,
+68,
+68,
+68,
+69,
+69,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1125,9 +1216,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 72,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1257,7 +1353,15 @@
 78,
 78,
 78,
-78
+78,
+75,
+75,
+75,
+75,
+75,
+75,
+75,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1285,9 +1389,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 72,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 72,
+"time": 1756354446
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -1417,7 +1526,15 @@
 69,
 69,
 69,
-70
+70,
+69,
+69,
+69,
+69,
+70,
+68,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1570,7 +1687,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Principles of Marketing"
 }

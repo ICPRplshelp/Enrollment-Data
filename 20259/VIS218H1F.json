@@ -113,13 +113,45 @@
 22,
 22,
 22,
-22
+22,
+21,
+21,
+21,
+21,
+22,
+24,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brandon",
+"lastName": "Brookbank"
+}
+],
+"timing": 1756755690
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1756910335
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -234,13 +266,45 @@
 7,
 7,
 7,
-7
+7,
+7,
+9,
+9,
+9,
+9,
+10,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1756755690
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Brandon",
+"lastName": "Brookbank"
+}
+],
+"timing": 1756910335
+}
+]
+},
+"instructors": [
+{
+"firstName": "Brandon",
+"lastName": "Brookbank"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -348,7 +412,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Photobased (Digital)"
 }

@@ -113,6 +113,14 @@
 29,
 29,
 29,
+30,
+30,
+29,
+29,
+29,
+30,
+31,
+30,
 30
 ],
 "instructorLog": {
@@ -126,13 +134,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Gaughan"
+}
+],
+"timing": 1756354446
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Corinne",
-"lastName": "Beauquis"
+"firstName": "Catherine",
+"lastName": "Gaughan"
 }
 ],
 "isCancelled": false,
@@ -249,7 +266,15 @@
 13,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -378,7 +403,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Language Practice III"
 }

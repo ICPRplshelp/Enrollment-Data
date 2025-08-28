@@ -5,12 +5,20 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 800,
+"enrollmentCap": 785,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 800,
 "time": 1755009395
+},
+{
+"newCapacity": 795,
+"time": 1756354446
+},
+{
+"newCapacity": 785,
+"time": 1757023769
 }
 ],
 "initialCap": 810
@@ -142,7 +150,15 @@
 688,
 688,
 688,
-691
+691,
+673,
+668,
+671,
+671,
+673,
+675,
+672,
+673
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,12 +186,20 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 390,
+"enrollmentCap": 405,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 390,
 "time": 1755009395
+},
+{
+"newCapacity": 395,
+"time": 1756354446
+},
+{
+"newCapacity": 405,
+"time": 1757023769
 }
 ],
 "initialCap": 380
@@ -307,7 +331,15 @@
 392,
 392,
 392,
-395
+395,
+387,
+394,
+393,
+393,
+400,
+399,
+408,
+408
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -460,7 +492,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Introduction to Physics I"
 }

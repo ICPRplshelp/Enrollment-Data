@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 304,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 304,
+"time": 1757023769
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -137,7 +142,15 @@
 390,
 390,
 390,
-388
+388,
+384,
+380,
+380,
+380,
+376,
+364,
+362,
+359
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -290,7 +303,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Drugs & the Brain"
 }

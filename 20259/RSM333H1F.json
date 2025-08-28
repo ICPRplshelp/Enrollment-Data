@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1756491397
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -137,7 +142,15 @@
 62,
 62,
 62,
-62
+62,
+57,
+57,
+57,
+57,
+52,
+53,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -165,9 +178,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1756491397
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -297,7 +315,15 @@
 56,
 56,
 56,
-56
+56,
+52,
+53,
+53,
+53,
+54,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -457,7 +483,15 @@
 54,
 54,
 54,
-53
+53,
+50,
+50,
+48,
+48,
+50,
+48,
+50,
+50
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -485,9 +519,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1756491397
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -617,6 +656,14 @@
 57,
 57,
 57,
+58,
+53,
+54,
+55,
+55,
+57,
+57,
+58,
 58
 ],
 "instructorLog": {
@@ -645,9 +692,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1756491397
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -777,7 +829,15 @@
 64,
 64,
 64,
-64
+64,
+61,
+59,
+59,
+59,
+59,
+60,
+58,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -937,7 +997,15 @@
 59,
 59,
 59,
-59
+59,
+54,
+54,
+54,
+54,
+53,
+52,
+51,
+51
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -965,9 +1033,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1756491397
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -1097,7 +1170,15 @@
 56,
 56,
 56,
-56
+56,
+55,
+55,
+55,
+55,
+55,
+56,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1250,7 +1331,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Corporate Finance"
 }

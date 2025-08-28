@@ -113,13 +113,36 @@
 96,
 96,
 96,
-94
+94,
+89,
+89,
+88,
+88,
+87,
+87,
+89,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ijlal",
+"lastName": "Muzaffar"
+}
+],
+"timing": 1756910335
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ijlal",
+"lastName": "Muzaffar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -227,7 +250,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Global Modernisms"
 }

@@ -137,7 +137,15 @@
 17,
 17,
 17,
-17
+17,
+17,
+17,
+17,
+17,
+16,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -297,13 +305,36 @@
 6,
 6,
 6,
-7
+7,
+7,
+7,
+7,
+7,
+9,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "JULIA",
+"lastName": "CROOME"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "JULIA",
+"lastName": "CROOME"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -440,6 +471,14 @@
 18,
 18,
 18,
+18,
+18,
+18,
+17,
+17,
+17,
+17,
+17,
 18,
 18,
 18
@@ -595,7 +634,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

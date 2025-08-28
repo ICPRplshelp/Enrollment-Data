@@ -5,7 +5,7 @@
 {
 "createdAt": 1751412647,
 "delivery": "SYNC",
-"enrollmentCap": 361,
+"enrollmentCap": 370,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 361,
 "time": 1755613324
+},
+{
+"newCapacity": 370,
+"time": 1756354446
 }
 ],
 "initialCap": 400
@@ -109,7 +113,15 @@
 362,
 362,
 362,
-364
+364,
+364,
+363,
+363,
+363,
+362,
+363,
+362,
+362
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -225,7 +237,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Introduction to Movement Observation and Evaluation"
 }

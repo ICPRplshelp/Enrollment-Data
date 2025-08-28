@@ -123,13 +123,36 @@
 9,
 9,
 9,
-9
+9,
+10,
+9,
+10,
+10,
+8,
+8,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna",
+"lastName": "Szakaly"
+}
+],
+"timing": 1756354446
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna",
+"lastName": "Szakaly"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -247,7 +270,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Elementary Hungarian"
 }

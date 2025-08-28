@@ -5,9 +5,18 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1756491397
+},
+{
+"newCapacity": 150,
+"time": 1757023769
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -113,7 +122,15 @@
 146,
 146,
 146,
-146
+146,
+143,
+142,
+143,
+143,
+145,
+150,
+151,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -242,7 +259,15 @@
 1755905230,
 1755952604,
 1756072462,
-1756130254
+1756130254,
+1756354446,
+1756491397,
+1756594932,
+1756678088,
+1756755690,
+1756910335,
+1757023769,
+1757084428
 ],
 "title": "Probabilistic Reasoning"
 }
