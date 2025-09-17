@@ -133,7 +133,25 @@
 546,
 546,
 546,
-548
+548,
+548,
+549,
+546,
+545,
+545,
+543,
+542,
+542,
+542,
+542,
+542,
+542,
+541,
+541,
+541,
+527,
+527,
+526
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -158,14 +176,9 @@
 }
 ],
 "timing": 1749772011
-}
-]
 },
-"instructors": [
 {
-"firstName": "Stephen",
-"lastName": "Reid"
-},
+"instructorsAfter": [
 {
 "firstName": "Ivana",
 "lastName": "Stehlik"
@@ -175,8 +188,26 @@
 "lastName": "Sturge"
 },
 {
-"firstName": "Sajeni",
-"lastName": "Mahalingam"
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
+}
+],
+"timing": 1758412422
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
 }
 ],
 "isCancelled": false,
@@ -313,7 +344,25 @@
 580,
 580,
 580,
-580
+580,
+580,
+579,
+577,
+575,
+575,
+575,
+575,
+575,
+574,
+574,
+576,
+576,
+575,
+575,
+575,
+561,
+560,
+560
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -338,14 +387,9 @@
 }
 ],
 "timing": 1749772011
-}
-]
 },
-"instructors": [
 {
-"firstName": "Stephen",
-"lastName": "Reid"
-},
+"instructorsAfter": [
 {
 "firstName": "Ivana",
 "lastName": "Stehlik"
@@ -355,8 +399,26 @@
 "lastName": "Sturge"
 },
 {
-"firstName": "Sajeni",
-"lastName": "Mahalingam"
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
+}
+],
+"timing": 1758412422
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
 }
 ],
 "isCancelled": false,
@@ -365,7 +427,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 600,
+"enrollmentCap": 656,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -379,6 +441,10 @@
 {
 "newCapacity": 600,
 "time": 1753452756
+},
+{
+"newCapacity": 656,
+"time": 1759460229
 }
 ],
 "initialCap": 728
@@ -506,7 +572,25 @@
 640,
 640,
 640,
-640
+640,
+640,
+640,
+640,
+641,
+641,
+642,
+640,
+640,
+641,
+641,
+642,
+642,
+642,
+646,
+646,
+646,
+648,
+649
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -531,14 +615,9 @@
 }
 ],
 "timing": 1749772011
-}
-]
 },
-"instructors": [
 {
-"firstName": "Stephen",
-"lastName": "Reid"
-},
+"instructorsAfter": [
 {
 "firstName": "Ivana",
 "lastName": "Stehlik"
@@ -548,8 +627,26 @@
 "lastName": "Sturge"
 },
 {
-"firstName": "Sajeni",
-"lastName": "Mahalingam"
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
+}
+],
+"timing": 1758412422
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ivana",
+"lastName": "Stehlik"
+},
+{
+"firstName": "Rachel",
+"lastName": "Sturge"
+},
+{
+"firstName": "Laura Canales",
+"lastName": "Canales Sanchez"
 }
 ],
 "isCancelled": false,
@@ -679,7 +776,25 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121,
+1759062063,
+1759166123,
+1759285044,
+1759342622,
+1759460229,
+1759511920,
+1759594843
 ],
 "title": "Life on Earth: Form, Function and Interactions"
 }

@@ -138,13 +138,46 @@
 114,
 114,
 114,
-114
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+113,
+113,
+113,
+113,
+113,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Helen",
+"lastName": "Epelbaum"
+}
+],
+"timing": 1759285044
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Helen",
+"lastName": "Epelbaum"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -279,13 +312,46 @@
 99,
 99,
 99,
+99,
+99,
+99,
+99,
+99,
+99,
+99,
+99,
+99,
+98,
+98,
+98,
+98,
+99,
+99,
+99,
+99,
+99,
 99
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Knapik"
+}
+],
+"timing": 1759285044
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Knapik"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -413,7 +479,25 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121,
+1759062063,
+1759166123,
+1759285044,
+1759342622,
+1759460229,
+1759511920,
+1759594843
 ],
 "title": "Differential Equations"
 }
