@@ -1,0 +1,76 @@
+{
+"code": "STAD91H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1759342622,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thibault Christophe",
+"lastName": "Randrianarisoa"
+}
+],
+"timing": 1759342622
+}
+]
+},
+"instructors": [
+{
+"firstName": "Thibault Christophe",
+"lastName": "Randrianarisoa"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1759342621,
+1759342622,
+1759460229,
+1759511920,
+1759594843,
+1759683586,
+1759768905,
+1760046946,
+1760116947,
+1760204640,
+1760287651,
+1760377165,
+1760494400,
+1760550061,
+1760656298,
+1760676034,
+1760806294
+],
+"title": "Topics in Statistics"
+}

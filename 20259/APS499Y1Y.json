@@ -1,0 +1,39 @@
+{
+"code": "APS499Y1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1760494400,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1760494399,
+1760494400,
+1760550061,
+1760656298,
+1760676034,
+1760806294
+],
+"title": "Thesis/Supervised Research"
+}

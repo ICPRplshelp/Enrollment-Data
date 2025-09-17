@@ -1,0 +1,64 @@
+{
+"code": "ISP491H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1760046946,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
+"timing": 1760046946
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Eaton"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1760046945,
+1760046946,
+1760116947,
+1760204640,
+1760287651,
+1760377165,
+1760494400,
+1760550061,
+1760656298,
+1760676034,
+1760806294
+],
+"title": "Independent Reading"
+}
