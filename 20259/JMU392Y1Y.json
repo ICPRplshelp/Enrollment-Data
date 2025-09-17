@@ -133,7 +133,10 @@
 0,
 0,
 0,
-0
+0,
+0,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -152,6 +155,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -430,6 +436,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -586,6 +595,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -599,13 +611,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Hennessy"
+}
+],
+"timing": 1758234212
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Rich",
-"lastName": "Brown"
+"firstName": "Rebecca",
+"lastName": "Hennessy"
 }
 ],
 "isCancelled": false,
@@ -620,6 +641,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -898,6 +922,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1054,6 +1081,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1088,6 +1118,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1375,6 +1408,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1409,6 +1445,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1687,6 +1726,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -1721,6 +1763,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1999,6 +2044,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2155,6 +2203,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2168,13 +2219,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Davidson"
+}
+],
+"timing": 1758234212
 }
 ]
 },
 "instructors": [
 {
-"firstName": "John",
-"lastName": "MacLeod"
+"firstName": "Michael",
+"lastName": "Davidson"
 }
 ],
 "isCancelled": false,
@@ -2189,6 +2249,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -2345,6 +2408,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -2632,6 +2698,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -2666,6 +2735,9 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
 0,
 0,
 0,
@@ -2944,6 +3016,9 @@
 0,
 0,
 0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -3093,7 +3168,10 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570
 ],
 "title": "Small Jazz Ensemble"
 }

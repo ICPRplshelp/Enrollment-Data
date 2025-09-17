@@ -133,13 +133,31 @@
 152,
 152,
 156,
-159
+159,
+159,
+158,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Holly",
+"lastName": "Bradley"
+}
+],
+"timing": 1758234212
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Holly",
+"lastName": "Bradley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -267,7 +285,10 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570
 ],
 "title": "Introduction to Developmental Psychology"
 }

@@ -1,0 +1,48 @@
+{
+"code": "PSY299H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1758234212,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Rule"
+}
+],
+"timing": 1758234212
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Rule"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1758234211,
+1758234212,
+1758297570
+],
+"title": "Research Opportunity Program"
+}

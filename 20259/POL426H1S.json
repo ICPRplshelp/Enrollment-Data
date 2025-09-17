@@ -12,20 +12,41 @@
 },
 "enrollmentLogs": [
 0,
-1
+1,
+1,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lucan Alan",
+"lastName": "Way"
+}
+],
+"timing": 1758234212
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lucan Alan",
+"lastName": "Way"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1758077117,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570
 ],
 "title": "Democracy and Dictatorship"
 }
