@@ -157,7 +157,18 @@
 400,
 400,
 400,
-400
+400,
+400,
+399,
+399,
+400,
+400,
+400,
+400,
+400,
+399,
+399,
+399
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,6 +181,28 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nishanth",
+"lastName": "Lakshman"
+}
+],
+"timing": 1758837616
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dee",
+"lastName": "Ballyk"
+},
+{
+"firstName": "Nishanth",
+"lastName": "Lakshman"
+}
+],
+"timing": 1758994121
 }
 ]
 },
@@ -177,6 +210,10 @@
 {
 "firstName": "Dee",
 "lastName": "Ballyk"
+},
+{
+"firstName": "Nishanth",
+"lastName": "Lakshman"
 }
 ],
 "isCancelled": false,
@@ -330,7 +367,18 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121
 ],
 "title": "Human Anatomy and Histology"
 }

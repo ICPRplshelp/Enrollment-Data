@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 34,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 34,
 "time": 1757473200
+},
+{
+"newCapacity": 35,
+"time": 1758837616
 }
 ],
 "initialCap": 30
@@ -170,6 +174,17 @@
 35,
 35,
 36,
+35,
+35,
+34,
+34,
+34,
+34,
+34,
+34,
+34,
+35,
+35,
 35
 ],
 "instructorLog": {
@@ -343,7 +358,18 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121
 ],
 "title": "Topics in Industrial Relations and Human Resources"
 }

@@ -133,13 +133,39 @@
 501,
 501,
 499,
-498
+498,
+499,
+500,
+501,
+501,
+501,
+501,
+499,
+498,
+500,
+500,
+499
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheng Hua (William)",
+"lastName": "YE (NOUTORID)"
+}
+],
+"timing": 1758994121
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheng Hua (William)",
+"lastName": "YE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -274,13 +300,39 @@
 587,
 587,
 590,
-591
+591,
+589,
+592,
+590,
+589,
+589,
+591,
+590,
+593,
+592,
+592,
+592
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheng Hua (William)",
+"lastName": "YE (NOUTORID)"
+}
+],
+"timing": 1758994121
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheng Hua (William)",
+"lastName": "YE (NOUTORID)"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -408,7 +460,18 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121
 ],
 "title": "Introduction to Planet Earth"
 }

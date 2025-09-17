@@ -157,13 +157,39 @@
 144,
 144,
 144,
-145
+145,
+145,
+148,
+148,
+148,
+148,
+148,
+151,
+151,
+151,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simon",
+"lastName": "Mackenzie"
+}
+],
+"timing": 1758679240
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simon",
+"lastName": "Mackenzie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -315,7 +341,18 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121
 ],
 "title": "The Second World War: A Global History"
 }

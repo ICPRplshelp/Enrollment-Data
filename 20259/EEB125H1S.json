@@ -157,7 +157,18 @@
 94,
 94,
 94,
-94
+94,
+94,
+92,
+92,
+92,
+92,
+91,
+90,
+90,
+90,
+90,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,6 +181,19 @@
 }
 ],
 "timing": 1753316503
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Tomomi",
+"lastName": "Parins-Fukuchi"
+},
+{
+"firstName": "Karen",
+"lastName": "Reid"
+}
+],
+"timing": 1758234212
 }
 ]
 },
@@ -177,6 +201,10 @@
 {
 "firstName": "Tomomi",
 "lastName": "Parins-Fukuchi"
+},
+{
+"firstName": "Karen",
+"lastName": "Reid"
 }
 ],
 "isCancelled": false,
@@ -330,7 +358,18 @@
 1757775140,
 1757862626,
 1757949566,
-1758077118
+1758077118,
+1758122456,
+1758234212,
+1758297570,
+1758412422,
+1758472819,
+1758557792,
+1758679240,
+1758729640,
+1758837616,
+1758898119,
+1758994121
 ],
 "title": "Introductory Computation and Data Science for the Life and Physical Sciences"
 }
