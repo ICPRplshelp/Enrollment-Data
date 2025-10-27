@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1750374170
+},
+{
+"newCapacity": 30,
+"time": 1761852612
 }
 ],
 "initialCap": 44
@@ -171,6 +175,11 @@
 27,
 27,
 27,
+26,
+26,
+26,
+26,
+26,
 26,
 26,
 26,
@@ -361,7 +370,12 @@
 1761153932,
 1761256389,
 1761414237,
-1761498301
+1761498301,
+1761558038,
+1761674621,
+1761742359,
+1761852612,
+1761897610
 ],
 "title": "Special Topics in Women's and Gender Studies"
 }

@@ -1,0 +1,37 @@
+{
+"code": "EUR401H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1761674621,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1761674620,
+1761674621,
+1761742359,
+1761852612,
+1761897610
+],
+"title": "Selected Topics in European Affairs"
+}
