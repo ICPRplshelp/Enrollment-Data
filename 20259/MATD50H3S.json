@@ -1,0 +1,52 @@
+{
+"code": "MATD50H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1762970289,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Kupers"
+}
+],
+"timing": 1762970289
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Kupers"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1762970288,
+1762970289,
+1763082484,
+1763139964,
+1763225441
+],
+"title": "Mathematical Introduction to Game Theory"
+}

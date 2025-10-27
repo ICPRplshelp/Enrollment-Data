@@ -170,7 +170,24 @@
 184,
 187,
 188,
-188
+188,
+188,
+190,
+190,
+191,
+191,
+195,
+195,
+195,
+199,
+202,
+202,
+202,
+198,
+200,
+195,
+194,
+194
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -379,13 +396,61 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+12,
+16,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
 },
-"instructors": [],
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+},
+{
+"firstName": "Oleksandr",
+"lastName": "Voznyy"
+}
+],
+"timing": 1762631986
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nirusha",
+"lastName": "Thavarajah"
+},
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+},
+{
+"firstName": "Oleksandr",
+"lastName": "Voznyy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -550,7 +615,24 @@
 1761153932,
 1761256389,
 1761414237,
-1761498301
+1761498301,
+1761558038,
+1761674621,
+1761742359,
+1761852612,
+1761897610,
+1762065648,
+1762108855,
+1762191808,
+1762314968,
+1762366198,
+1762631986,
+1762704701,
+1762797426,
+1762970289,
+1763082484,
+1763139964,
+1763225441
 ],
 "title": "Introductory Chemistry I: Structure and Bonding"
 }

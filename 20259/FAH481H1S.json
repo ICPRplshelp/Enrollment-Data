@@ -1,0 +1,76 @@
+{
+"code": "FAH481H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1761674621,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
+"timing": 1761674621
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Mace"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1761674620,
+1761674621,
+1761742359,
+1761852612,
+1761897610,
+1762065648,
+1762108855,
+1762191808,
+1762314968,
+1762366198,
+1762631986,
+1762704701,
+1762797426,
+1762970289,
+1763082484,
+1763139964,
+1763225441
+],
+"title": "Internship"
+}

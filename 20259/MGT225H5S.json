@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1762970289
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -170,7 +175,24 @@
 58,
 58,
 58,
-58
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+58,
+57,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -183,9 +205,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 65,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 65,
+"time": 1762970289
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -348,6 +375,23 @@
 71,
 71,
 71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
 71
 ],
 "instructorLog": {
@@ -367,6 +411,23 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -697,7 +758,24 @@
 1761153932,
 1761256389,
 1761414237,
-1761498301
+1761498301,
+1761558038,
+1761674621,
+1761742359,
+1761852612,
+1761897610,
+1762065648,
+1762108855,
+1762191808,
+1762314968,
+1762366198,
+1762631986,
+1762704701,
+1762797426,
+1762970289,
+1763082484,
+1763139964,
+1763225441
 ],
 "title": "Intermediate Accounting II"
 }
