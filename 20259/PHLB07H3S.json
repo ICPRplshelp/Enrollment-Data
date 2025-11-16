@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 150,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1764793589
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -187,7 +192,25 @@
 109,
 111,
 111,
-112
+112,
+112,
+108,
+110,
+109,
+109,
+109,
+109,
+111,
+112,
+113,
+113,
+113,
+113,
+116,
+116,
+114,
+116,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -209,13 +232,31 @@
 }
 ],
 "timing": 1750893040
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Lavigne"
+}
+],
+"timing": 1764126180
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Luzecky"
+}
+],
+"timing": 1764384801
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Caitlin",
-"lastName": "Hamblin"
+"firstName": "Robert",
+"lastName": "Luzecky"
 }
 ],
 "isCancelled": false,
@@ -399,7 +440,25 @@
 1762970289,
 1763082484,
 1763139964,
-1763225441
+1763225441,
+1763315154,
+1763412625,
+1763579655,
+1763686699,
+1763741227,
+1763833155,
+1763933728,
+1764011588,
+1764126180,
+1764245563,
+1764384801,
+1764455422,
+1764533059,
+1764622744,
+1764703483,
+1764793589,
+1764877220,
+1764955586
 ],
 "title": "Ethics"
 }

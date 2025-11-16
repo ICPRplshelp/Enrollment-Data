@@ -1,0 +1,76 @@
+{
+"code": "PHLD09H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1763579655,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+3,
+3,
+3,
+4,
+4,
+4,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elliot",
+"lastName": "Carter"
+}
+],
+"timing": 1763686699
+}
+]
+},
+"instructors": [
+{
+"firstName": "Elliot",
+"lastName": "Carter"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1763579654,
+1763579655,
+1763686699,
+1763741227,
+1763833155,
+1763933728,
+1764011588,
+1764126180,
+1764245563,
+1764384801,
+1764455422,
+1764533059,
+1764622744,
+1764703483,
+1764793589,
+1764877220,
+1764955586
+],
+"title": "Advanced Seminar in Bioethics"
+}

@@ -187,7 +187,25 @@
 162,
 161,
 162,
-163
+163,
+163,
+164,
+162,
+163,
+162,
+163,
+163,
+170,
+169,
+170,
+169,
+169,
+169,
+169,
+166,
+165,
+165,
+165
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -397,7 +415,25 @@
 169,
 171,
 173,
-175
+175,
+175,
+173,
+172,
+174,
+174,
+175,
+175,
+175,
+174,
+176,
+173,
+173,
+173,
+170,
+171,
+174,
+173,
+174
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -607,13 +643,46 @@
 155,
 155,
 156,
-158
+158,
+158,
+158,
+155,
+154,
+153,
+154,
+154,
+152,
+156,
+159,
+155,
+155,
+155,
+153,
+152,
+144,
+147,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
+"timing": 1764793589
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -802,13 +871,46 @@
 161,
 162,
 163,
-165
+165,
+165,
+164,
+163,
+163,
+163,
+163,
+163,
+165,
+164,
+164,
+159,
+159,
+159,
+160,
+160,
+161,
+161,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
+"timing": 1764793589
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathy",
+"lastName": "Falk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -990,7 +1092,25 @@
 1762970289,
 1763082484,
 1763139964,
-1763225441
+1763225441,
+1763315154,
+1763412625,
+1763579655,
+1763686699,
+1763741227,
+1763833155,
+1763933728,
+1764011588,
+1764126180,
+1764245563,
+1764384801,
+1764455422,
+1764533059,
+1764622744,
+1764703483,
+1764793589,
+1764877220,
+1764955586
 ],
 "title": "Introduction to Financial Accounting"
 }

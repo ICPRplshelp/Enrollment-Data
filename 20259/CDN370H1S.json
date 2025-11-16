@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 27,
+"enrollmentCap": 21,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1764793589
+}
+],
 "initialCap": 27
 },
 "enrollmentLogs": [
@@ -211,13 +216,46 @@
 9,
 9,
 9,
-9
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+9,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sophie",
+"lastName": "Feng"
+}
+],
+"timing": 1764793589
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sophie",
+"lastName": "Feng"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -423,7 +461,25 @@
 1762970289,
 1763082484,
 1763139964,
-1763225441
+1763225441,
+1763315154,
+1763412625,
+1763579655,
+1763686699,
+1763741227,
+1763833155,
+1763933728,
+1764011588,
+1764126180,
+1764245563,
+1764384801,
+1764455422,
+1764533059,
+1764622744,
+1764703483,
+1764793589,
+1764877220,
+1764955586
 ],
 "title": "Special Topics in Canadian Studies"
 }
