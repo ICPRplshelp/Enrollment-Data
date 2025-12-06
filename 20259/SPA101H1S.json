@@ -229,7 +229,25 @@
 40,
 41,
 40,
-41
+41,
+42,
+42,
+44,
+44,
+45,
+46,
+46,
+46,
+47,
+46,
+44,
+45,
+45,
+45,
+44,
+44,
+44,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -481,7 +499,25 @@
 41,
 41,
 42,
-42
+42,
+42,
+42,
+43,
+43,
+43,
+44,
+44,
+44,
+44,
+43,
+43,
+46,
+46,
+46,
+46,
+46,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -494,13 +530,22 @@
 }
 ],
 "timing": 1750296530
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Levinstein Rodriguez"
+}
+],
+"timing": 1766537193
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Juan Carlos",
-"lastName": "Rocha Osornio"
+"firstName": "Andrea",
+"lastName": "Levinstein Rodriguez"
 }
 ],
 "isCancelled": false,
@@ -733,7 +778,25 @@
 41,
 42,
 41,
-41
+41,
+41,
+41,
+44,
+44,
+45,
+45,
+46,
+46,
+48,
+47,
+45,
+44,
+44,
+44,
+45,
+43,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -746,13 +809,22 @@
 }
 ],
 "timing": 1750296530
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Granja Hidrobo"
+}
+],
+"timing": 1765669965
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Juan Carlos",
-"lastName": "Rocha Osornio"
+"firstName": "Daniel",
+"lastName": "Granja Hidrobo"
 }
 ],
 "isCancelled": false,
@@ -985,13 +1057,46 @@
 43,
 43,
 38,
-39
+39,
+39,
+39,
+41,
+42,
+43,
+43,
+44,
+44,
+47,
+46,
+45,
+45,
+45,
+45,
+46,
+47,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
+"timing": 1765669965
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Valeria Andrea",
+"lastName": "Tapia Cruz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -1222,13 +1327,46 @@
 42,
 42,
 41,
-39
+39,
+39,
+39,
+40,
+40,
+40,
+40,
+40,
+40,
+42,
+42,
+41,
+39,
+39,
+39,
+42,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Salvador",
+"lastName": "Alanis"
+}
+],
+"timing": 1765669965
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Salvador",
+"lastName": "Alanis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5301"
 }
@@ -1452,7 +1590,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Spanish for Beginners I"
 }

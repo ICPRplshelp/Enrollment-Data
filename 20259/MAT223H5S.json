@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "HYBR",
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1765063077
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -205,7 +210,25 @@
 136,
 137,
 138,
-138
+138,
+137,
+137,
+141,
+140,
+137,
+136,
+136,
+136,
+135,
+138,
+138,
+143,
+143,
+143,
+141,
+146,
+147,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -233,9 +256,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 130,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1765063077
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -433,7 +461,25 @@
 139,
 142,
 141,
-139
+139,
+137,
+137,
+133,
+134,
+135,
+138,
+137,
+137,
+135,
+137,
+138,
+136,
+136,
+136,
+141,
+147,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -661,7 +707,25 @@
 130,
 130,
 130,
-130
+130,
+128,
+128,
+130,
+130,
+130,
+130,
+129,
+129,
+129,
+130,
+130,
+126,
+126,
+126,
+128,
+126,
+127,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -889,7 +953,25 @@
 131,
 130,
 130,
-130
+130,
+129,
+129,
+127,
+125,
+126,
+127,
+125,
+125,
+122,
+124,
+124,
+123,
+123,
+123,
+122,
+120,
+121,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -917,12 +999,35 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1765306299
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1124,7 +1229,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -1323,7 +1428,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Linear Algebra I"
 }

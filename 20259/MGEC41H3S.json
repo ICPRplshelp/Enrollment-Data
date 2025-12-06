@@ -1,6 +1,6 @@
 {
 "code": "MGEC41H3S",
-"faculty": "SCAR",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1749772011,
@@ -205,6 +205,17 @@
 64,
 65,
 65,
+66,
+66,
+66,
+69,
+71,
+70,
+70,
+71,
+71,
+69,
+67,
 66
 ],
 "instructorLog": {
@@ -218,13 +229,22 @@
 }
 ],
 "timing": 1749772011
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Ho"
+}
+],
+"timing": 1765669965
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Aradhya",
-"lastName": "Sood"
+"firstName": "Michael",
+"lastName": "Ho"
 }
 ],
 "isCancelled": false,
@@ -635,7 +655,18 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416
 ],
 "title": "Industrial Organization"
 }

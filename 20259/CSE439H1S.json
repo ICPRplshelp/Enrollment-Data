@@ -1,0 +1,58 @@
+{
+"code": "CSE439H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1766188243,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+6,
+6,
+6,
+6,
+7,
+7,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
+"timing": 1766188243
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1766188242,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
+],
+"title": "Advanced Topics in Equity and Solidarity Studies"
+}

@@ -229,13 +229,46 @@
 38,
 38,
 37,
-37
+37,
+37,
+37,
+38,
+38,
+39,
+39,
+39,
+39,
+39,
+39,
+39,
+38,
+38,
+38,
+38,
+38,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lucile",
+"lastName": "Mulat"
+}
+],
+"timing": 1765940357
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lucile",
+"lastName": "Mulat"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -466,13 +499,46 @@
 36,
 36,
 37,
-37
+37,
+37,
+37,
+37,
+37,
+37,
+37,
+37,
+37,
+36,
+36,
+36,
+36,
+36,
+36,
+36,
+36,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zoe Yi-Ling",
+"lastName": "Chou"
+}
+],
+"timing": 1766188243
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zoe Yi-Ling",
+"lastName": "Chou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -696,7 +762,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Intermediate French IV"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 54,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 54,
+"time": 1765397136
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -205,13 +210,46 @@
 50,
 50,
 52,
-52
+52,
+52,
+52,
+54,
+54,
+54,
+55,
+54,
+54,
+53,
+53,
+53,
+52,
+52,
+52,
+53,
+53,
+53,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Autumn",
+"lastName": "Smith"
+}
+],
+"timing": 1765940357
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Autumn",
+"lastName": "Smith"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -411,7 +449,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Intermediate Acting"
 }

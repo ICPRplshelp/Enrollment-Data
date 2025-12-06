@@ -210,7 +210,25 @@
 251,
 252,
 251,
-251
+251,
+252,
+252,
+251,
+226,
+228,
+228,
+229,
+229,
+229,
+229,
+229,
+226,
+226,
+226,
+226,
+230,
+230,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -238,9 +256,14 @@
 {
 "createdAt": 1760046946,
 "delivery": "ASYNC",
-"enrollmentCap": 17,
+"enrollmentCap": 49,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 49,
+"time": 1765306299
+}
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
@@ -438,13 +461,46 @@
 59,
 59,
 59,
-59
+59,
+59,
+59,
+60,
+59,
+60,
+62,
+62,
+62,
+61,
+65,
+66,
+64,
+64,
+64,
+66,
+66,
+66,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+}
+],
+"timing": 1765669965
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shadi",
+"lastName": "Dalili"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -644,7 +700,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Organic Chemistry I"
 }

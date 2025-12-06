@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1766537193
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -229,7 +234,25 @@
 73,
 73,
 72,
-70
+70,
+70,
+70,
+71,
+71,
+71,
+71,
+72,
+72,
+72,
+71,
+71,
+72,
+72,
+72,
+71,
+72,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -257,9 +280,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1766537193
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -481,7 +509,25 @@
 68,
 68,
 67,
-65
+65,
+65,
+65,
+66,
+66,
+66,
+66,
+66,
+66,
+66,
+64,
+64,
+66,
+66,
+66,
+66,
+67,
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -509,9 +555,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1766537193
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -733,7 +784,25 @@
 69,
 69,
 68,
-67
+67,
+67,
+67,
+68,
+68,
+68,
+67,
+67,
+67,
+67,
+67,
+67,
+68,
+68,
+68,
+68,
+68,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -978,7 +1047,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "International Strategy"
 }

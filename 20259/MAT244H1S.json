@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 200,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1765063077
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -229,7 +234,25 @@
 223,
 222,
 220,
-219
+219,
+218,
+218,
+219,
+220,
+222,
+224,
+225,
+225,
+231,
+231,
+232,
+234,
+234,
+234,
+232,
+230,
+233,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -481,7 +504,25 @@
 225,
 224,
 220,
-220
+220,
+214,
+214,
+212,
+212,
+211,
+211,
+211,
+211,
+213,
+212,
+214,
+215,
+215,
+215,
+214,
+211,
+211,
+212
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -738,13 +779,46 @@
 102,
 100,
 104,
-104
+104,
+104,
+104,
+102,
+103,
+103,
+104,
+102,
+102,
+104,
+105,
+107,
+109,
+109,
+109,
+111,
+110,
+110,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
+"timing": 1766188243
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -975,7 +1049,25 @@
 205,
 205,
 203,
-202
+202,
+197,
+197,
+199,
+198,
+197,
+195,
+195,
+195,
+195,
+195,
+196,
+199,
+199,
+199,
+201,
+198,
+200,
+201
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1227,7 +1319,25 @@
 112,
 111,
 106,
-106
+106,
+102,
+102,
+102,
+102,
+100,
+100,
+100,
+100,
+98,
+102,
+104,
+107,
+107,
+107,
+110,
+110,
+111,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1240,13 +1350,22 @@
 }
 ],
 "timing": 1754759913
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stanislav",
+"lastName": "Balchev"
+}
+],
+"timing": 1766188243
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Mikale",
-"lastName": "Reddy"
+"firstName": "Stanislav",
+"lastName": "Balchev"
 }
 ],
 "isCancelled": false,
@@ -1472,7 +1591,25 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306,
+1765669965,
+1765734856,
+1765821496,
+1765940357,
+1765987416,
+1766188243,
+1766277351,
+1766357692,
+1766436867,
+1766537193,
+1766600751,
+1766688618
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }
