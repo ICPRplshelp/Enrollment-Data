@@ -210,13 +210,34 @@
 116,
 116,
 116,
+116,
+116,
+116,
+116,
+115,
+116,
 116
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vasuki",
+"lastName": "Shanmuganathan"
+}
+],
+"timing": 1765397136
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vasuki",
+"lastName": "Shanmuganathan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -428,7 +449,13 @@
 113,
 113,
 113,
-113
+113,
+113,
+113,
+113,
+113,
+114,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -649,7 +676,13 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306
 ],
 "title": "Contracts and Copyright"
 }

@@ -210,13 +210,90 @@
 465,
 468,
 471,
-473
+473,
+476,
+476,
+482,
+484,
+490,
+490
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
 },
-"instructors": [],
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Laura",
+"lastName": "Jacob"
+},
+{
+"firstName": "Suzanne Rose",
+"lastName": "Perreira"
+},
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+},
+{
+"firstName": "Monika Kanako",
+"lastName": "Saito"
+}
+],
+"timing": 1765306299
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Laura",
+"lastName": "Jacob"
+},
+{
+"firstName": "Suzanne Rose",
+"lastName": "Perreira"
+},
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+},
+{
+"firstName": "Monika Kanako",
+"lastName": "Saito"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -416,7 +493,13 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

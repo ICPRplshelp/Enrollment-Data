@@ -210,13 +210,34 @@
 103,
 103,
 102,
-104
+104,
+103,
+103,
+102,
+103,
+103,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aline",
+"lastName": "Zara"
+}
+],
+"timing": 1765397136
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aline",
+"lastName": "Zara"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -416,7 +437,13 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306
 ],
 "title": "Media, Science and Technology Studies"
 }

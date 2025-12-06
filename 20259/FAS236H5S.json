@@ -205,7 +205,13 @@
 21,
 21,
 21,
-21
+21,
+21,
+21,
+21,
+21,
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -430,6 +436,12 @@
 22,
 22,
 21,
+20,
+20,
+20,
+20,
+20,
+20,
 20,
 20,
 20,
@@ -661,6 +673,12 @@
 19,
 19,
 20,
+20,
+20,
+20,
+20,
+20,
+20,
 20
 ],
 "instructorLog": {
@@ -674,13 +692,22 @@
 }
 ],
 "timing": 1752761280
+},
+{
+"instructorsAfter": [
+{
+"firstName": "RAMEZANI",
+"lastName": "MAHMOUD"
+}
+],
+"timing": 1765397136
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ann",
-"lastName": "Donar"
+"firstName": "RAMEZANI",
+"lastName": "MAHMOUD"
 }
 ],
 "isCancelled": false,
@@ -882,7 +909,13 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306
 ],
 "title": "Design I"
 }

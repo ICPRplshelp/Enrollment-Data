@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 40,
 "time": 1755009395
+},
+{
+"newCapacity": 36,
+"time": 1765063077
 }
 ],
 "initialCap": 60
@@ -210,6 +214,12 @@
 29,
 29,
 27,
+27,
+27,
+27,
+27,
+27,
+26,
 27
 ],
 "instructorLog": {
@@ -431,7 +441,13 @@
 1764703483,
 1764793589,
 1764877220,
-1764955586
+1764955586,
+1765063077,
+1765136123,
+1765224333,
+1765306299,
+1765397136,
+1765485306
 ],
 "title": "Health Professions and Practice"
 }
