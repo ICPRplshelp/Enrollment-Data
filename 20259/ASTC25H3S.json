@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 63,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -23,6 +23,10 @@
 {
 "newCapacity": 63,
 "time": 1766436867
+},
+{
+"newCapacity": 60,
+"time": 1768018456
 }
 ],
 "initialCap": 40
@@ -240,7 +244,14 @@
 63,
 63,
 63,
-63
+63,
+63,
+63,
+61,
+60,
+60,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -479,7 +490,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Astrophysics of Planetary Systems"
 }

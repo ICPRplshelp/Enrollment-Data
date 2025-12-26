@@ -223,7 +223,14 @@
 167,
 164,
 166,
-166
+166,
+166,
+163,
+171,
+169,
+163,
+153,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,9 +258,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 200,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1768018456
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -469,7 +481,14 @@
 210,
 210,
 210,
-209
+209,
+213,
+214,
+220,
+219,
+216,
+212,
+212
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -708,7 +727,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Modern Symbolic Logic"
 }

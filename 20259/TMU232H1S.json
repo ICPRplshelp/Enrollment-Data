@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1756594932
+},
+{
+"newCapacity": 19,
+"time": 1768018456
 }
 ],
 "initialCap": 17
@@ -228,7 +232,14 @@
 18,
 18,
 18,
-18
+18,
+18,
+18,
+18,
+16,
+15,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,9 +267,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 17,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1768018456
+}
+],
 "initialCap": 17
 },
 "enrollmentLogs": [
@@ -474,7 +490,14 @@
 13,
 13,
 13,
-13
+13,
+13,
+12,
+12,
+15,
+17,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -729,6 +752,13 @@
 19,
 19,
 19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
 19
 ],
 "instructorLog": {
@@ -875,6 +905,13 @@
 17,
 17,
 17,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
 18,
 18,
 18,
@@ -1231,7 +1268,14 @@
 17,
 17,
 17,
-17
+17,
+17,
+18,
+18,
+18,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1482,7 +1526,14 @@
 18,
 18,
 18,
-18
+18,
+18,
+18,
+18,
+18,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1721,7 +1772,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Musical Skills III"
 }

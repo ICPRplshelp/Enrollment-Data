@@ -5,7 +5,7 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 41,
+"enrollmentCap": 45,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -19,6 +19,10 @@
 {
 "newCapacity": 41,
 "time": 1764955586
+},
+{
+"newCapacity": 45,
+"time": 1767639798
 }
 ],
 "initialCap": 35
@@ -236,7 +240,14 @@
 40,
 40,
 40,
-40
+40,
+40,
+42,
+43,
+41,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -475,7 +486,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Psycholinguistics: multilingual learners in action"
 }

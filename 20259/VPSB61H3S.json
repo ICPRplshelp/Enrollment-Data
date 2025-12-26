@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1767639798
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+31,
+29,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -462,7 +474,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Painting from Life"
 }

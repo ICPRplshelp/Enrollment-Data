@@ -247,7 +247,14 @@
 33,
 32,
 32,
-30
+30,
+30,
+29,
+29,
+28,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +524,14 @@
 28,
 28,
 29,
-29
+29,
+29,
+29,
+28,
+30,
+27,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -786,6 +800,13 @@
 27,
 28,
 27,
+28,
+28,
+28,
+27,
+27,
+25,
+25,
 28,
 28
 ],
@@ -1057,7 +1078,14 @@
 27,
 27,
 28,
-28
+28,
+29,
+26,
+27,
+28,
+25,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1327,13 +1355,35 @@
 10,
 10,
 10,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
 10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanne",
+"lastName": "Valin"
+}
+],
+"timing": 1767639798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanne",
+"lastName": "Valin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 },
@@ -1582,13 +1632,35 @@
 19,
 19,
 19,
-19
+19,
+19,
+19,
+19,
+19,
+17,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marci",
+"lastName": "Prescott-Brown"
+}
+],
+"timing": 1767639798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marci",
+"lastName": "Prescott-Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2100"
 },
@@ -1837,13 +1909,35 @@
 11,
 11,
 11,
-11
+11,
+11,
+11,
+11,
+11,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Brown"
+}
+],
+"timing": 1767639798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2300"
 }
@@ -2085,7 +2179,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Introduction to Academic Writing"
 }

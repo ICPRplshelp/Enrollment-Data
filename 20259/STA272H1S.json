@@ -252,7 +252,14 @@
 48,
 47,
 48,
-48
+48,
+48,
+49,
+52,
+52,
+52,
+49,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -274,6 +281,19 @@
 }
 ],
 "timing": 1766188243
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Nathan",
+"lastName": "Taback"
+},
+{
+"firstName": "Meredith",
+"lastName": "Franklin"
+}
+],
+"timing": 1767806641
 }
 ]
 },
@@ -281,6 +301,10 @@
 {
 "firstName": "Nathan",
 "lastName": "Taback"
+},
+{
+"firstName": "Meredith",
+"lastName": "Franklin"
 }
 ],
 "isCancelled": false,
@@ -524,7 +548,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Statistical Models for Data Science"
 }

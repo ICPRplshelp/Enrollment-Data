@@ -247,7 +247,14 @@
 70,
 69,
 70,
-71
+71,
+72,
+72,
+72,
+75,
+80,
+67,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,13 +524,35 @@
 3,
 3,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+4,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lucia",
+"lastName": "Dacome"
+}
+],
+"timing": 1767806641
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lucia",
+"lastName": "Dacome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -765,7 +794,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "History of Medicine II"
 }

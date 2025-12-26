@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 400,
+"enrollmentCap": 410,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 410,
+"time": 1768018456
+}
+],
 "initialCap": 400
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 379,
 379,
 379,
-384
+384,
+388,
+401,
+409,
+406,
+411,
+417,
+417
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -462,7 +474,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "English Grammar"
 }

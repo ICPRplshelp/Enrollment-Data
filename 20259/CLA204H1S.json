@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "ASYNC",
-"enrollmentCap": 450,
+"enrollmentCap": 525,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 525,
+"time": 1767806641
+}
+],
 "initialCap": 450
 },
 "enrollmentLogs": [
@@ -247,7 +252,14 @@
 527,
 524,
 522,
-521
+521,
+520,
+524,
+523,
+526,
+525,
+555,
+555
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +529,14 @@
 65,
 65,
 65,
-66
+66,
+66,
+65,
+63,
+60,
+62,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -787,7 +806,14 @@
 245,
 246,
 245,
-245
+245,
+246,
+249,
+249,
+244,
+252,
+241,
+241
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1050,7 +1076,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Introduction to Classical Mythology"
 }

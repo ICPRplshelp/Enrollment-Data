@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1768018456
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -247,7 +252,14 @@
 30,
 30,
 30,
-30
+30,
+30,
+30,
+33,
+33,
+32,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,9 +287,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 870,
+"enrollmentCap": 885,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 885,
+"time": 1768018456
+}
+],
 "initialCap": 870
 },
 "enrollmentLogs": [
@@ -517,7 +534,14 @@
 876,
 877,
 871,
-870
+870,
+872,
+880,
+882,
+887,
+885,
+894,
+894
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -780,7 +804,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

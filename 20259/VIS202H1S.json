@@ -223,7 +223,14 @@
 16,
 16,
 16,
-16
+16,
+16,
+17,
+18,
+20,
+20,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,9 +258,14 @@
 {
 "createdAt": 1755126801,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1767806641
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -469,14 +481,21 @@
 8,
 8,
 8,
-8
+8,
+8,
+7,
+7,
+7,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "PRA0102"
 }
 ],
@@ -693,7 +712,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "The Moving Image"
 }

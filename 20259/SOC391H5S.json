@@ -1,0 +1,52 @@
+{
+"code": "SOC391H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1767639798,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zaheer",
+"lastName": "Baber"
+}
+],
+"timing": 1767639798
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zaheer",
+"lastName": "Baber"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1767639797,
+1767639798,
+1767806641,
+1768018456,
+1768071952
+],
+"title": "Independent Research in Sociology"
+}

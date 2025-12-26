@@ -5,9 +5,18 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 75,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 68,
+"time": 1767806641
+},
+{
+"newCapacity": 75,
+"time": 1768018456
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -222,6 +231,13 @@
 72,
 71,
 73,
+73,
+73,
+73,
+73,
+70,
+70,
+66,
 73,
 73
 ],
@@ -462,7 +478,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "ENGINEERING AND LAW"
 }

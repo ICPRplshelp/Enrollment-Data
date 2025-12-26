@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1767806641
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+88,
+117,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -454,7 +466,14 @@
 154,
 161,
 163,
-168
+168,
+167,
+174,
+184,
+206,
+151,
+143,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -700,7 +719,14 @@
 135,
 145,
 148,
-151
+151,
+150,
+160,
+171,
+187,
+150,
+140,
+140
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -946,7 +972,14 @@
 149,
 149,
 149,
-151
+151,
+153,
+163,
+172,
+189,
+153,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1192,7 +1225,14 @@
 160,
 162,
 164,
-167
+167,
+168,
+172,
+178,
+186,
+153,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1431,7 +1471,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Differential Calculus"
 }

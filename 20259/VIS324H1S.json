@@ -208,13 +208,35 @@
 25,
 25,
 25,
-25
+25,
+25,
+25,
+26,
+25,
+25,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Haseeb",
+"lastName": "Ahmed"
+}
+],
+"timing": 1768018456
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Haseeb",
+"lastName": "Ahmed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -417,7 +439,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "The Aesthetics of Everyday Life"
 }

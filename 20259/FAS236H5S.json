@@ -223,6 +223,13 @@
 20,
 20,
 20,
+21,
+19,
+19,
+20,
+19,
+18,
+21,
 21
 ],
 "instructorLog": {
@@ -469,7 +476,14 @@
 21,
 21,
 21,
-22
+22,
+22,
+22,
+21,
+21,
+18,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -482,13 +496,22 @@
 }
 ],
 "timing": 1752761280
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lauren",
+"lastName": "Wickware"
+}
+],
+"timing": 1767639798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Atanas",
-"lastName": "Bozdarov"
+"firstName": "Lauren",
+"lastName": "Wickware"
 }
 ],
 "isCancelled": false,
@@ -715,7 +738,14 @@
 19,
 20,
 20,
-20
+20,
+20,
+20,
+19,
+18,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -737,13 +767,22 @@
 }
 ],
 "timing": 1765397136
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mahmoud",
+"lastName": "Ramezani"
+}
+],
+"timing": 1767639798
 }
 ]
 },
 "instructors": [
 {
-"firstName": "RAMEZANI",
-"lastName": "MAHMOUD"
+"firstName": "Mahmoud",
+"lastName": "Ramezani"
 }
 ],
 "isCancelled": false,
@@ -963,7 +1002,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Design I"
 }

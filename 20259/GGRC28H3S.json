@@ -223,6 +223,13 @@
 66,
 64,
 64,
+64,
+65,
+65,
+66,
+65,
+69,
+64,
 64
 ],
 "instructorLog": {
@@ -236,13 +243,22 @@
 }
 ],
 "timing": 1766537193
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kara",
+"lastName": "Anderson"
+}
+],
+"timing": 1767806641
 }
 ]
 },
 "instructors": [
 {
 "firstName": "Kara",
-"lastName": "Anderson (NOUTORID)"
+"lastName": "Anderson"
 }
 ],
 "isCancelled": false,
@@ -462,7 +478,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Indigenous Peoples, Environment and Justice"
 }

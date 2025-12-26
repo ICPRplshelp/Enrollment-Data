@@ -256,13 +256,35 @@
 178,
 177,
 177,
-177
+177,
+176,
+178,
+177,
+173,
+161,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ken",
+"lastName": "Shi"
+}
+],
+"timing": 1767639798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ken",
+"lastName": "Shi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -520,13 +542,35 @@
 42,
 42,
 42,
-42
+42,
+42,
+43,
+43,
+42,
+39,
+37,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ken",
+"lastName": "Shi"
+}
+],
+"timing": 1767639798
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ken",
+"lastName": "Shi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -768,7 +812,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Natural Language Computing"
 }

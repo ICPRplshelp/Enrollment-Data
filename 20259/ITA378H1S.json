@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 250,
+"enrollmentCap": 275,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 275,
+"time": 1767806641
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
@@ -247,7 +252,14 @@
 241,
 247,
 250,
-252
+252,
+253,
+253,
+258,
+267,
+297,
+304,
+304
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,7 +522,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Topics in Italian Studies"
 }

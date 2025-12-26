@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 165,
+"enrollmentCap": 200,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 165,
 "time": 1765397136
+},
+{
+"newCapacity": 200,
+"time": 1768018456
 }
 ],
 "initialCap": 150
@@ -228,7 +232,14 @@
 173,
 172,
 172,
-174
+174,
+174,
+175,
+174,
+177,
+181,
+193,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -467,7 +478,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Oceanography"
 }

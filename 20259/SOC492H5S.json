@@ -1,0 +1,52 @@
+{
+"code": "SOC492H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1767639798,
+"delivery": "INPER",
+"enrollmentCap": 8,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 8
+},
+"enrollmentLogs": [
+0,
+8,
+8,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jayne",
+"lastName": "Baker"
+}
+],
+"timing": 1767639798
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jayne",
+"lastName": "Baker"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1767639797,
+1767639798,
+1767806641,
+1768018456,
+1768071952
+],
+"title": "Independent Research in Sociology"
+}

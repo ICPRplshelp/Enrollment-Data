@@ -182,6 +182,13 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -251,6 +258,13 @@
 0,
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1,
 1,
@@ -574,13 +588,35 @@
 1,
 1,
 1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rebecca",
+"lastName": "Wittmann"
+}
+],
+"timing": 1767806641
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rebecca",
+"lastName": "Wittmann"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -748,7 +784,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "History Honours Thesis"
 }

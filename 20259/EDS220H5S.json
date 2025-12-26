@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1767806641
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 75,
 77,
 77,
-76
+76,
+76,
+76,
+80,
+78,
+74,
+77,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,12 +263,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 81,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 81,
 "time": 1761414237
+},
+{
+"newCapacity": 84,
+"time": 1767806641
 }
 ],
 "initialCap": 75
@@ -473,6 +489,13 @@
 91,
 91,
 91,
+91,
+91,
+92,
+91,
+92,
+93,
+92,
 91,
 91
 ],
@@ -713,7 +736,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Equity and Diversity in Education"
 }

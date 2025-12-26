@@ -247,7 +247,14 @@
 40,
 40,
 40,
-39
+39,
+40,
+39,
+38,
+36,
+37,
+34,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -272,6 +279,23 @@
 }
 ],
 "timing": 1754414307
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yun",
+"lastName": "Li"
+},
+{
+"firstName": "Brian",
+"lastName": "Ciruna"
+},
+{
+"firstName": "Paul",
+"lastName": "Delgado Olguin"
+}
+],
+"timing": 1767806641
 }
 ]
 },
@@ -279,10 +303,6 @@
 {
 "firstName": "Yun",
 "lastName": "Li"
-},
-{
-"firstName": "Brent",
-"lastName": "Derry"
 },
 {
 "firstName": "Brian",
@@ -534,7 +554,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Model Systems to Disease"
 }

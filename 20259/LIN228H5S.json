@@ -5,12 +5,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1760046946
+},
+{
+"newCapacity": 60,
+"time": 1767639798
 }
 ],
 "initialCap": 45
@@ -228,7 +232,14 @@
 56,
 56,
 55,
-55
+55,
+55,
+56,
+55,
+57,
+54,
+52,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -467,7 +478,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Phonetics"
 }

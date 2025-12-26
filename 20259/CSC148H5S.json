@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 130,
 129,
 122,
-124
+124,
+124,
+122,
+114,
+100,
+102,
+96,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,9 +263,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -469,7 +486,14 @@
 149,
 150,
 151,
-149
+149,
+149,
+143,
+140,
+145,
+148,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,9 +521,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -715,7 +744,14 @@
 142,
 147,
 152,
-152
+152,
+151,
+156,
+169,
+161,
+161,
+161,
+161
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -743,9 +779,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -961,7 +1002,14 @@
 151,
 145,
 143,
-143
+143,
+143,
+141,
+131,
+127,
+122,
+119,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -989,9 +1037,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 160,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 160,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
@@ -1207,7 +1260,14 @@
 141,
 143,
 144,
-144
+144,
+143,
+149,
+147,
+148,
+153,
+156,
+156
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1235,12 +1295,24 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 180,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1767639798
+}
+],
 "initialCap": 180
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1460,7 +1532,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0106"
 },
 {
@@ -1477,6 +1549,13 @@
 "initialCap": 180
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1913,7 +1992,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Introduction to Computer Science"
 }

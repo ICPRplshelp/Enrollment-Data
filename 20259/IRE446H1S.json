@@ -247,7 +247,14 @@
 40,
 39,
 39,
-39
+39,
+39,
+39,
+39,
+38,
+37,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,12 +282,16 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 33,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 33,
 "time": 1765397136
+},
+{
+"newCapacity": 36,
+"time": 1768018456
 }
 ],
 "initialCap": 25
@@ -522,7 +533,14 @@
 38,
 37,
 37,
-37
+37,
+37,
+38,
+38,
+38,
+36,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -785,7 +803,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Working as an Internal Organizational Consultant"
 }

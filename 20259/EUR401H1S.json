@@ -5,9 +5,14 @@
 {
 "createdAt": 1761674621,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1768018456
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -63,14 +68,21 @@
 1,
 1,
 1,
-1
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -127,7 +139,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Selected Topics in European Affairs"
 }

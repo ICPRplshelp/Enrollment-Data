@@ -223,13 +223,35 @@
 3,
 3,
 3,
-3
+3,
+3,
+4,
+3,
+3,
+3,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
+"timing": 1767806641
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "",
+"lastName": "CENTENNIAL"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -447,7 +469,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Independent Study in Music"
 }

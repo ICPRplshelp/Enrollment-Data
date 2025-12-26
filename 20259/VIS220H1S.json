@@ -223,13 +223,35 @@
 26,
 25,
 25,
-25
+25,
+26,
+26,
+27,
+26,
+27,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gillian",
+"lastName": "Chang"
+}
+],
+"timing": 1767806641
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gillian",
+"lastName": "Chang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -447,7 +469,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Painting and the Subject"
 }

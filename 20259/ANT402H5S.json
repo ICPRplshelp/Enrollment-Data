@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1767806641
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -222,6 +227,13 @@
 33,
 34,
 35,
+36,
+36,
+35,
+35,
+35,
+37,
+36,
 36,
 36
 ],
@@ -471,7 +483,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Wild Nights: Sleep, evolution, and performance in the 21st century"
 }

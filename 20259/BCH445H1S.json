@@ -247,7 +247,14 @@
 32,
 32,
 32,
-32
+32,
+32,
+32,
+32,
+34,
+29,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,6 +267,23 @@
 }
 ],
 "timing": 1752241986
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Kim"
+},
+{
+"firstName": "Jonathon",
+"lastName": "Ditlev"
+},
+{
+"firstName": "Amra",
+"lastName": "Saric"
+}
+],
+"timing": 1767806641
 }
 ]
 },
@@ -267,6 +291,14 @@
 {
 "firstName": "Peter",
 "lastName": "Kim"
+},
+{
+"firstName": "Jonathon",
+"lastName": "Ditlev"
+},
+{
+"firstName": "Amra",
+"lastName": "Saric"
 }
 ],
 "isCancelled": false,
@@ -510,7 +542,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Organelles in Cell Function and Death"
 }

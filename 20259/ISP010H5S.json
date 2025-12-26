@@ -5,12 +5,24 @@
 {
 "createdAt": 1749772011,
 "delivery": "HYBR",
-"enrollmentCap": 80,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1768018456
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -230,7 +242,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC9997"
 },
 {
@@ -454,7 +466,14 @@
 14,
 15,
 16,
-16
+16,
+16,
+18,
+18,
+17,
+21,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -700,7 +719,14 @@
 8,
 8,
 8,
-8
+8,
+7,
+7,
+7,
+6,
+6,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -939,7 +965,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Basics of Writing in English (BoWiE)"
 }

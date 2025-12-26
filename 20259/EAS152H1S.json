@@ -247,6 +247,13 @@
 44,
 44,
 44,
+44,
+44,
+44,
+44,
+44,
+45,
+44,
 44
 ],
 "instructorLog": {
@@ -269,10 +276,36 @@
 }
 ],
 "timing": 1750709124
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yukiko",
+"lastName": "Yoshizumi"
+}
+],
+"timing": 1767639798
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yukiko",
+"lastName": "Yoshizumi"
+},
+{
+"firstName": "Ikuko",
+"lastName": "Komuro-Lee"
+}
+],
+"timing": 1767806641
 }
 ]
 },
 "instructors": [
+{
+"firstName": "Yukiko",
+"lastName": "Yoshizumi"
+},
 {
 "firstName": "Ikuko",
 "lastName": "Komuro-Lee"
@@ -526,7 +559,14 @@
 43,
 43,
 43,
-43
+43,
+43,
+43,
+43,
+41,
+39,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -796,7 +836,14 @@
 35,
 35,
 35,
-35
+35,
+35,
+35,
+35,
+36,
+33,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -1068,7 +1115,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Modern Standard Japanese I-b"
 }

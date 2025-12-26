@@ -5,9 +5,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1767806641
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -223,7 +228,14 @@
 135,
 138,
 141,
-142
+142,
+141,
+141,
+145,
+147,
+140,
+139,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -251,9 +263,18 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 155,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1767806641
+},
+{
+"newCapacity": 155,
+"time": 1768018456
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -469,7 +490,14 @@
 141,
 141,
 141,
-141
+141,
+141,
+141,
+143,
+146,
+146,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -497,9 +525,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1767806641
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -715,7 +748,14 @@
 142,
 143,
 142,
-140
+140,
+140,
+139,
+142,
+146,
+151,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -743,9 +783,14 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1767806641
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -961,7 +1006,14 @@
 132,
 133,
 136,
-142
+142,
+140,
+139,
+143,
+145,
+142,
+143,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -989,12 +1041,24 @@
 {
 "createdAt": 1749772011,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1767639798
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -1214,7 +1278,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0105"
 }
 ],
@@ -1431,7 +1495,14 @@
 1766436867,
 1766537193,
 1766600751,
-1766688618
+1766688618,
+1766774860,
+1767038355,
+1767420725,
+1767639798,
+1767806641,
+1768018456,
+1768071952
 ],
 "title": "Introduction to Mathematical Proofs"
 }
