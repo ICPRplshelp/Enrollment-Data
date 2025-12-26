@@ -1,0 +1,82 @@
+{
+"code": "VIS405H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1769054389,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"timing": 1769054389
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gareth",
+"lastName": "Long"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1769054388,
+1769054389,
+1769137069,
+1769193410,
+1769285629,
+1769370233,
+1769456733,
+1769569993,
+1769613952,
+1769709915,
+1769797689,
+1769885612,
+1769985482,
+1770064201,
+1770167205,
+1770264630,
+1770346393,
+1770437062,
+1770499375,
+1770589053
+],
+"title": "Visual Studies Internship"
+}
