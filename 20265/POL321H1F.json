@@ -1,0 +1,60 @@
+{
+"code": "POL321H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1771355747,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "William",
+"lastName": "Gregson"
+},
+{
+"firstName": "Zachary Martin",
+"lastName": "Hollander"
+}
+],
+"timing": 1771355747
+}
+]
+},
+"instructors": [
+{
+"firstName": "William",
+"lastName": "Gregson"
+},
+{
+"firstName": "Zachary Martin",
+"lastName": "Hollander"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1771355746,
+1771355747,
+1771447177,
+1771531713,
+1771712763
+],
+"title": "Modern Political Thought: Progress Through History"
+}
