@@ -1,0 +1,33 @@
+{
+"code": "TEP444H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1772247537,
+"delivery": "INPER",
+"enrollmentCap": 120,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 120
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1772247536,
+1772247537,
+1772306619
+],
+"title": "Positive Psychology for Engineers"
+}

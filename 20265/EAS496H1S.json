@@ -1,0 +1,37 @@
+{
+"code": "EAS496H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1772078540,
+"delivery": "SYNC",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1772078539,
+1772078540,
+1772164724,
+1772247537,
+1772306619
+],
+"title": "Advanced Topics in East Asian Studies"
+}

@@ -1,0 +1,80 @@
+{
+"code": "PSL300H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1771355747,
+"delivery": "ASYNC",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
+}
+],
+"timing": 1771355747
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nohjin",
+"lastName": "Kee"
+},
+{
+"firstName": "Helen",
+"lastName": "Miliotis"
+},
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1771355746,
+1771355747,
+1771447177,
+1771531713,
+1771712763,
+1771877246,
+1771955839,
+1772078540,
+1772164724,
+1772247537,
+1772306619
+],
+"title": "Human Physiology I"
+}

@@ -1,0 +1,64 @@
+{
+"code": "ENG140Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1771355747,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Johnstone"
+}
+],
+"timing": 1771355747
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Johnstone"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1771355746,
+1771355747,
+1771447177,
+1771531713,
+1771712763,
+1771877246,
+1771955839,
+1772078540,
+1772164724,
+1772247537,
+1772306619
+],
+"title": "Literature for our Time"
+}
