@@ -1,0 +1,144 @@
+{
+"code": "APS112H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniela",
+"lastName": "Galatro"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daniela",
+"lastName": "Galatro"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chirag",
+"lastName": "Variawa"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Konstantinos",
+"lastName": "Plataniotis"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Konstantinos",
+"lastName": "Plataniotis"
+},
+{
+"firstName": "Emily",
+"lastName": "Moore"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Engineering Strategies & Practice II"
+}

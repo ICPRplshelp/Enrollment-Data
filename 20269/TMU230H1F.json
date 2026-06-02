@@ -1,0 +1,238 @@
+{
+"code": "TMU230H1F",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 21,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 21
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1782150373
+}
+],
+"initialCap": 9
+},
+"enrollmentLogs": [
+0,
+0,
+10
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 23,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 23
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 21,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 21
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1782150373
+}
+],
+"initialCap": 9
+},
+"enrollmentLogs": [
+0,
+0,
+10
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0501"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 21,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 21
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Vande Moortele"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0601"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Music Theory III"
+}

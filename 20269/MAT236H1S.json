@@ -1,0 +1,276 @@
+{
+"code": "MAT236H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 155,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 155
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yulun",
+"lastName": "Xu"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yulun",
+"lastName": "Xu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 188,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 188
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julie",
+"lastName": "Desjardins"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Julie",
+"lastName": "Desjardins"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 170,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 170
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 156,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 156
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0501"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 156,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 156
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Obinna Kennedy",
+"lastName": "Idu"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Obinna Kennedy",
+"lastName": "Idu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0601"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 156,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 156
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yi",
+"lastName": "Shan"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yi",
+"lastName": "Shan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0701"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 165,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 165
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maarten",
+"lastName": "Mol"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Maarten",
+"lastName": "Mol"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5201"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Vector Calculus II"
+}

@@ -1,0 +1,48 @@
+{
+"code": "SAH300H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Karen",
+"lastName": "Ruffle"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Karen",
+"lastName": "Ruffle"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Topics in Global South Asia"
+}

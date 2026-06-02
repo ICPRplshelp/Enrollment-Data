@@ -1,0 +1,48 @@
+{
+"code": "ECE431H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hai-Ling",
+"lastName": "Cheng"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hai-Ling",
+"lastName": "Cheng"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Digital Signal Processing"
+}

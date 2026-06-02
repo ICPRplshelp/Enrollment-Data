@@ -1,0 +1,53 @@
+{
+"code": "PMU408H1S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1782150373
+}
+],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Bridge"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Bridge"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Performing as a Freelance Artist in North America"
+}

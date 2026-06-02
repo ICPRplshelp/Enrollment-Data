@@ -1,0 +1,86 @@
+{
+"code": "KPE335H1S",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1751412647,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcus",
+"lastName": "Mazzucco"
+}
+],
+"timing": 1751412647
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marcus",
+"lastName": "Mazzucco"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1751412646,
+1751412647,
+1751644976,
+1751814934,
+1751861324,
+1751892926,
+1751951851,
+1751982356,
+1752064053,
+1752066480,
+1752068280,
+1752070080,
+1752071880,
+1752073680,
+1752075480,
+1752077280,
+1752079080,
+1752080880,
+1752082680,
+1752084480,
+1752086280,
+1752241986
+],
+"title": "Sports Law"
+}

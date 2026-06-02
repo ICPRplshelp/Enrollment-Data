@@ -1,0 +1,84 @@
+{
+"code": "APM306Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Derzko"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Derzko"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicholas",
+"lastName": "Derzko"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicholas",
+"lastName": "Derzko"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5201"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Mathematics and Law"
+}

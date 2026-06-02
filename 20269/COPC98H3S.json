@@ -1,0 +1,105 @@
+{
+"code": "COPC98H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 250,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 250
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Dinkha"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Dinkha"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rachael",
+"lastName": "Miller"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Integrating Your Work Term Experience Part I"
+}

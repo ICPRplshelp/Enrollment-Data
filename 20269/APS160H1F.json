@@ -1,0 +1,31 @@
+{
+"code": "APS160H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1782150373,
+"delivery": "ASYNC",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1782150372,
+1782150373
+],
+"title": "Mechanics"
+}

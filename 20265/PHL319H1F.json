@@ -1,0 +1,94 @@
+{
+"code": "PHL319H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1777048551,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+4,
+5,
+6,
+7,
+14,
+14,
+14,
+15,
+18,
+17,
+17,
+17,
+17,
+15,
+15,
+15,
+15,
+14,
+14,
+14,
+14,
+14
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natalie",
+"lastName": "Helberg"
+}
+],
+"timing": 1777386555
+}
+]
+},
+"instructors": [
+{
+"firstName": "Natalie",
+"lastName": "Helberg"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1777048550,
+1777048551,
+1777131006,
+1777223093,
+1777296571,
+1777386555,
+1777479439,
+1777562808,
+1777653710,
+1777743015,
+1777754233,
+1778065025,
+1778337547,
+1778511490,
+1778589420,
+1778938685,
+1779026788,
+1779626851,
+1779893268,
+1780070554,
+1780368564,
+1780436879,
+1780527691,
+1780823948,
+1781442002,
+1782150338
+],
+"title": "Philosophy and Psychoanalytic Theory"
+}

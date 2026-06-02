@@ -1,0 +1,48 @@
+{
+"code": "FAH207H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Philip",
+"lastName": "Sapirstein"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Philip",
+"lastName": "Sapirstein"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Greek and Roman Art and Archaeology"
+}

@@ -1,0 +1,41 @@
+{
+"code": "EAS496H1F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1771355747,
+"delivery": "SYNC",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1771355746,
+1771355747,
+1771447177,
+1771531713,
+1771712763,
+1771877246,
+1771955839
+],
+"title": "Advanced Topics in East Asian Studies"
+}

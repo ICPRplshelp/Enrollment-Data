@@ -1,0 +1,84 @@
+{
+"code": "PSYD66H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthias",
+"lastName": "Niemeier"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthias",
+"lastName": "Niemeier"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Debra Ann",
+"lastName": "Bercovici"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Debra Ann",
+"lastName": "Bercovici"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Current Topics in Human Brain and Behaviour"
+}

@@ -1,0 +1,53 @@
+{
+"code": "PMU228H1F",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1782150373
+}
+],
+"initialCap": 11
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Monica",
+"lastName": "Whicher"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Monica",
+"lastName": "Whicher"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "English Art Song"
+}

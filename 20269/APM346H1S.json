@@ -1,0 +1,84 @@
+{
+"code": "APM346H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 160,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 160
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kirill",
+"lastName": "Serkh"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kirill",
+"lastName": "Serkh"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 186,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 186
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Victor",
+"lastName": "Ivrii"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Victor",
+"lastName": "Ivrii"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Partial Differential Equations"
+}

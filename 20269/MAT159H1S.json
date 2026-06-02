@@ -1,0 +1,84 @@
+{
+"code": "MAT159H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 196,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 196
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Almut",
+"lastName": "Burchard"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Almut",
+"lastName": "Burchard"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 188,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 188
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Myrto",
+"lastName": "Mavraki"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Myrto",
+"lastName": "Mavraki"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Analysis 1B"
+}

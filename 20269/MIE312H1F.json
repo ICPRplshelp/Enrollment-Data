@@ -1,0 +1,100 @@
+{
+"code": "MIE312H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 112,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 112
+},
+"enrollmentLogs": [
+0,
+0,
+108
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pierre",
+"lastName": "Sullivan"
+},
+{
+"firstName": "Axel",
+"lastName": "Guenther"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pierre",
+"lastName": "Sullivan"
+},
+{
+"firstName": "Axel",
+"lastName": "Guenther"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 112,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 112
+},
+"enrollmentLogs": [
+0,
+0,
+102
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Pierre",
+"lastName": "Sullivan"
+},
+{
+"firstName": "Axel",
+"lastName": "Guenther"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Pierre",
+"lastName": "Sullivan"
+},
+{
+"firstName": "Axel",
+"lastName": "Guenther"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Fluid Mechanics I"
+}

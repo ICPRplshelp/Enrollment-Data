@@ -1,0 +1,101 @@
+{
+"code": "KPE462H1F",
+"faculty": "UNKNOWN",
+"meetings": [
+{
+"createdAt": 1742005934,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1744733264
+}
+],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+4,
+5,
+5,
+5,
+5,
+5,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ira",
+"lastName": "Jacobs"
+}
+],
+"timing": 1742832036
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ira",
+"lastName": "Jacobs"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1742005933,
+1742005934,
+1742068360,
+1742239751,
+1742500368,
+1742706696,
+1742832036,
+1742921339,
+1742961315,
+1743090721,
+1743202869,
+1743268266,
+1743355932,
+1743437882,
+1743504110,
+1743636217,
+1743701346,
+1743818498,
+1743984625,
+1744036902,
+1744128897,
+1744300450,
+1744411985,
+1744504469,
+1744571937,
+1744639968,
+1744733264
+],
+"title": "Human Environmental Exercise Physiology"
+}

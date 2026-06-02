@@ -1,0 +1,60 @@
+{
+"code": "KPE370H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1713844697,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+46,
+46,
+46,
+46,
+46,
+46,
+46,
+46
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timur",
+"lastName": "Taha"
+}
+],
+"timing": 1713844697
+}
+]
+},
+"instructors": [
+{
+"firstName": "Timur",
+"lastName": "Taha"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1713844696,
+1713844697,
+1713897665,
+1713987268,
+1714065688,
+1714147871,
+1714240639,
+1714413640,
+1714496990
+],
+"title": "Science and Practice of Training for Sport Performance"
+}

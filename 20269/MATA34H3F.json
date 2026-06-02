@@ -1,0 +1,120 @@
+{
+"code": "MATA34H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+98
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+79
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 175,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 175
+},
+"enrollmentLogs": [
+0,
+0,
+95
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "LEE",
+"lastName": "VAN BRUSSEL"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Calculus for Management"
+}

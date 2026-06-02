@@ -1,0 +1,33 @@
+{
+"code": "ROB498H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 66,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 66
+},
+"enrollmentLogs": [
+0,
+0,
+64
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "TUT0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Robotics Capstone Design"
+}

@@ -1,0 +1,48 @@
+{
+"code": "ROB521H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 96,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 96
+},
+"enrollmentLogs": [
+0,
+0,
+82
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Waslander"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Steven",
+"lastName": "Waslander"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "MOBILE ROBOTICS AND PERCEPTION"
+}

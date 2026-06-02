@@ -1,0 +1,48 @@
+{
+"code": "ROB301H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 52,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 52
+},
+"enrollmentLogs": [
+0,
+0,
+40
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nick",
+"lastName": "Rhinehart"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nick",
+"lastName": "Rhinehart"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Introduction to Robotics"
+}

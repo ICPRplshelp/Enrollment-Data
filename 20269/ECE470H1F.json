@@ -1,0 +1,48 @@
+{
+"code": "ECE470H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 108,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 108
+},
+"enrollmentLogs": [
+0,
+0,
+102
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mireille",
+"lastName": "Broucke"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mireille",
+"lastName": "Broucke"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Robot Modeling and Control"
+}

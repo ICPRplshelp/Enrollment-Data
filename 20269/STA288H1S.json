@@ -1,0 +1,100 @@
+{
+"code": "STA288H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "HYBR",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "HYBR",
+"enrollmentCap": 200,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 200
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Bethany",
+"lastName": "White"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Statistics and Scientific Inquiry in the Life Sciences"
+}

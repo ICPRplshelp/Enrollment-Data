@@ -1,0 +1,56 @@
+{
+"code": "HPS110H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 300,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 300
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Solovey"
+},
+{
+"firstName": "Marga",
+"lastName": "Vicedo Castello"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Solovey"
+},
+{
+"firstName": "Marga",
+"lastName": "Vicedo Castello"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "The Science of Human Nature"
+}

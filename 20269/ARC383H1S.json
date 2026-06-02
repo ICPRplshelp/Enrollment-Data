@@ -1,0 +1,53 @@
+{
+"code": "ARC383H1S",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1782150373
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Johannes",
+"lastName": "Ibelings"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Johannes",
+"lastName": "Ibelings"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Technologies of Architecture, Landscape, Urbanism, and Art II"
+}

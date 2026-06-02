@@ -1,0 +1,56 @@
+{
+"code": "ESC204H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 266,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 266
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Morgan",
+"lastName": "Hooper"
+},
+{
+"firstName": "Philip",
+"lastName": "Asare"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Praxis III"
+}

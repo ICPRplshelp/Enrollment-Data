@@ -1,0 +1,94 @@
+{
+"code": "PMU129H1S",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 7,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1782150373
+}
+],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 7,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1782150373
+}
+],
+"initialCap": 6
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason",
+"lastName": "Nedecky"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0201"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Italian Vocal Repertoire"
+}

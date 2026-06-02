@@ -1,0 +1,48 @@
+{
+"code": "CHM342H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 96,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 96
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert Alexander",
+"lastName": "Batey"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robert Alexander",
+"lastName": "Batey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Sythetic Organic Chemistry: Fundamental Principles, Methods and Applications in Pharmaceutical and Natural Product Synthesis"
+}

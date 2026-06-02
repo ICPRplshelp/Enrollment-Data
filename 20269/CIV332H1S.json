@@ -1,0 +1,53 @@
+{
+"code": "CIV332H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 127,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 127,
+"time": 1782150373
+}
+],
+"initialCap": 126
+},
+"enrollmentLogs": [
+0,
+0,
+127
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Omar",
+"lastName": "Elsamadisy"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Omar",
+"lastName": "Elsamadisy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Transport II - Performance"
+}

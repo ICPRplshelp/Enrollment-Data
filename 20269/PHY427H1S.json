@@ -1,0 +1,80 @@
+{
+"code": "PHY427H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 32,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 32
+},
+"enrollmentLogs": [
+0,
+0,
+29
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "Pierre",
+"lastName": "Savard"
+},
+{
+"firstName": "Kaley",
+"lastName": "Walker"
+},
+{
+"firstName": "Amar C.",
+"lastName": "Vutha"
+},
+{
+"firstName": "Sergio",
+"lastName": "de la Barrera"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "Pierre",
+"lastName": "Savard"
+},
+{
+"firstName": "Kaley",
+"lastName": "Walker"
+},
+{
+"firstName": "Amar C.",
+"lastName": "Vutha"
+},
+{
+"firstName": "Sergio",
+"lastName": "de la Barrera"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Advanced Physics Laboratory"
+}

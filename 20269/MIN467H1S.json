@@ -1,0 +1,56 @@
+{
+"code": "MIN467H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 21,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 21
+},
+"enrollmentLogs": [
+0,
+0,
+21
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kamran",
+"lastName": "Esmaeili"
+},
+{
+"firstName": "Luis",
+"lastName": "Montielpetro"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kamran",
+"lastName": "Esmaeili"
+},
+{
+"firstName": "Luis",
+"lastName": "Montielpetro"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Mineral Project Design II"
+}

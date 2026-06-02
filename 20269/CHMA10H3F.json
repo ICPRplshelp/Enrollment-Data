@@ -1,0 +1,168 @@
+{
+"code": "CHMA10H3F",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 500,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 500
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 920,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 920
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marco",
+"lastName": "Zimmer-De Iuliis"
+},
+{
+"firstName": "Xiaoan",
+"lastName": "Zhang"
+},
+{
+"firstName": "Ulrich Bernhard",
+"lastName": "Englich"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Introductory Chemistry I: Structure and Bonding"
+}

@@ -1,0 +1,120 @@
+{
+"code": "MGEA06H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+245
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+279
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC02"
+},
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+28
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Iris",
+"lastName": "Au"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Introduction to Macroeconomics: A Mathematical Approach"
+}

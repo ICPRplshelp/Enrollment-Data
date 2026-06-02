@@ -1,0 +1,53 @@
+{
+"code": "ARC465H1S4",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1782150373
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jon",
+"lastName": "Cummings"
+}
+],
+"timing": 1782150373
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jon",
+"lastName": "Cummings"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0104"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Advanced Topics in Architecture"
+}

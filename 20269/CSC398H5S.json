@@ -1,0 +1,31 @@
+{
+"code": "CSC398H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1782150373,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1782150372,
+1782150373
+],
+"title": "Topics in Computer Science"
+}

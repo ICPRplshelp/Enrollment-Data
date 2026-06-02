@@ -1,0 +1,48 @@
+{
+"code": "ECE313H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 61,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 61
+},
+"enrollmentLogs": [
+0,
+0,
+60
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Hooshyar"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Hooshyar"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Energy Systems and Distributed Generation"
+}

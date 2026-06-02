@@ -1,0 +1,48 @@
+{
+"code": "CHE403H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 158,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 158
+},
+"enrollmentLogs": [
+0,
+0,
+158
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vladimiros",
+"lastName": "Papangelakis"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Vladimiros",
+"lastName": "Papangelakis"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Professional Practice"
+}

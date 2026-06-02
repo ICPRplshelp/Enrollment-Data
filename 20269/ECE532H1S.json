@@ -1,0 +1,48 @@
+{
+"code": "ECE532H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 126,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 126
+},
+"enrollmentLogs": [
+0,
+0,
+106
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jason Helge",
+"lastName": "Anderson"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jason Helge",
+"lastName": "Anderson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Digital Systems Design"
+}

@@ -1,0 +1,88 @@
+{
+"code": "PHY427H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Peter",
+"lastName": "Krieger"
+},
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+},
+{
+"firstName": "Young-June",
+"lastName": "Kim"
+},
+{
+"firstName": "Xiang",
+"lastName": "Li"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "William",
+"lastName": "Trischuk"
+},
+{
+"firstName": "Peter",
+"lastName": "Krieger"
+},
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+},
+{
+"firstName": "Young-June",
+"lastName": "Kim"
+},
+{
+"firstName": "Xiang",
+"lastName": "Li"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Advanced Physics Laboratory"
+}

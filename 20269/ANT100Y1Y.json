@@ -1,0 +1,168 @@
+{
+"code": "ANT100Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 488,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 488
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "ASYNC",
+"enrollmentCap": 350,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 350
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Katherine",
+"lastName": "Patton"
+},
+{
+"firstName": "Shawn",
+"lastName": "Lehman"
+},
+{
+"firstName": "Ivan",
+"lastName": "Kalmar"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC2001"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Introduction to Anthropology"
+}

@@ -1,0 +1,43 @@
+{
+"code": "ESC490H1Y",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1780070554,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1780070553,
+1780070554,
+1780368564,
+1780436879,
+1780527691,
+1780823948,
+1781442002,
+1782150338
+],
+"title": "Engineering Science Independent Study"
+}

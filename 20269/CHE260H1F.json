@@ -1,0 +1,56 @@
+{
+"code": "CHE260H1F",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 266,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 266
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+},
+{
+"firstName": "Sanjeev",
+"lastName": "Chandra"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cathy Ya Huei",
+"lastName": "Chin"
+},
+{
+"firstName": "Sanjeev",
+"lastName": "Chandra"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Thermodynamics and Heat Transfer"
+}

@@ -1,0 +1,48 @@
+{
+"code": "MIE313H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 222,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 222
+},
+"enrollmentLogs": [
+0,
+0,
+210
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ali",
+"lastName": "Dolatabadi"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ali",
+"lastName": "Dolatabadi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Heat and Mass Transfer"
+}

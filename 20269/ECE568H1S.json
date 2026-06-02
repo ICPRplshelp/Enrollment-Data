@@ -1,0 +1,84 @@
+{
+"code": "ECE568H1S",
+"faculty": "APSC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 104,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 104
+},
+"enrollmentLogs": [
+0,
+0,
+57
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jianan",
+"lastName": "Yao"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jianan",
+"lastName": "Yao"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 104,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 104
+},
+"enrollmentLogs": [
+0,
+0,
+61
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Courtney",
+"lastName": "Gibson"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Courtney",
+"lastName": "Gibson"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Computer Security"
+}

@@ -1,0 +1,39 @@
+{
+"code": "UNI394H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1780436879,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1780436878,
+1780436879,
+1780527691,
+1780823948,
+1781442002,
+1782150338
+],
+"title": "University College Independent Studies"
+}

@@ -1,0 +1,53 @@
+{
+"code": "PMU272Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 13,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 13,
+"time": 1782150373
+}
+],
+"initialCap": 16
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joe",
+"lastName": "Cullen"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joe",
+"lastName": "Cullen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Steel Pan"
+}

@@ -1,0 +1,53 @@
+{
+"code": "PMU372Y1Y",
+"faculty": "MUSIC",
+"meetings": [
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1782150373
+}
+],
+"initialCap": 0
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Cullen"
+}
+],
+"timing": 1781442026
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joseph",
+"lastName": "Cullen"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0101"
+}
+],
+"timeIntervals": [
+1781442025,
+1781442026,
+1782150373
+],
+"title": "Steel Pan Ensemble"
+}
