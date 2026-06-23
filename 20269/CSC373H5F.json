@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+72,
+72,
+73,
+80,
+80,
+81,
+81,
+82,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+91,
+91,
+92,
+92,
+92,
+93,
+93,
+92,
+91
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -53,6 +101,15 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -69,7 +126,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Algorithm Design and Analysis"
 }

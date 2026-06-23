@@ -5,42 +5,100 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784234377
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+131,
+132,
+164,
+166,
+166,
+166,
+166,
+166,
+167
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tianyi",
+"lastName": "Wang"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tianyi",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784234377
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+41,
+42,
+132,
+136,
+136,
+136,
+140,
+142,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tianyi",
+"lastName": "Wang"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tianyi",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -48,7 +106,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "The Political Economy of Media"
 }

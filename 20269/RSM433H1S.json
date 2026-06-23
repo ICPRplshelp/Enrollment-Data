@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784431933
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+33,
+33,
+54,
+55,
+55,
+54,
+54,
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +55,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784431933
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+27,
+27,
+57,
+56,
+56,
+57,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +113,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+7,
+7,
+19,
+19,
+19,
+19,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +158,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+22,
+22,
+45,
+48,
+48,
+50,
+50,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +203,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+13,
+13,
+37,
+37,
+37,
+37,
+37,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -186,7 +241,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Advanced Corporate Finance"
 }

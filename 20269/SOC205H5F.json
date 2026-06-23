@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+15,
+15,
+17,
+93,
+93,
+93,
+94,
+96,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -26,13 +35,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Paula",
+"lastName": "Maurutto"
+}
+],
+"timing": 1783375107
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Timothy",
-"lastName": "Bryan"
+"firstName": "Paula",
+"lastName": "Maurutto"
 }
 ],
 "isCancelled": false,
@@ -49,7 +67,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+18,
+18,
+22,
+88,
+88,
+89,
+90,
+92,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,13 +89,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Bryan"
+}
+],
+"timing": 1783375107
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Paula",
-"lastName": "Maurutto"
+"firstName": "Timothy",
+"lastName": "Bryan"
 }
 ],
 "isCancelled": false,
@@ -78,7 +114,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Theories in Criminology"
 }

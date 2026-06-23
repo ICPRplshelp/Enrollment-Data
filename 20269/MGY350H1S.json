@@ -5,21 +5,66 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 50,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 50,
+"time": 1783375107
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+11,
+11,
+40,
+41,
+41,
+41,
+41,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yun",
+"lastName": "Li"
 },
-"instructors": [],
+{
+"firstName": "Paul",
+"lastName": "Delgado Olguin"
+},
+{
+"firstName": "Brian",
+"lastName": "Ciruna"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yun",
+"lastName": "Li"
+},
+{
+"firstName": "Paul",
+"lastName": "Delgado Olguin"
+},
+{
+"firstName": "Brian",
+"lastName": "Ciruna"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +72,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Model Systems to Disease"
 }

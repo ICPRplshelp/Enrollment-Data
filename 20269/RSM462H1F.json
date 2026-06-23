@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+27,
+27,
+33,
+33,
+33,
+35,
+36,
+36,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +50,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1783375107
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+20,
+20,
+30,
+29,
+29,
+28,
+30,
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +101,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Managing People in the Context of Globalization"
 }

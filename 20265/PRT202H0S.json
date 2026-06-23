@@ -1,0 +1,47 @@
+{
+"code": "PRT202H0S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783375080,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+3,
+3,
+4,
+4,
+4,
+4,
+4,
+4,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC3001"
+}
+],
+"timeIntervals": [
+1783375079,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
+],
+"title": "Intermediate Portuguese II"
+}

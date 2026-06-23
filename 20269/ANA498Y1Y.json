@@ -13,13 +13,54 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cindi",
+"lastName": "Morshead"
+}
+],
+"timing": 1783375107
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Cindi",
+"lastName": "Morshead"
+},
+{
+"firstName": "Mohamad",
+"lastName": "Khazaei"
+}
+],
+"timing": 1783566943
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cindi",
+"lastName": "Morshead"
+},
+{
+"firstName": "Mohamad",
+"lastName": "Khazaei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +68,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Project in Anatomy"
 }

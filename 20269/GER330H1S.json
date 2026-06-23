@@ -1,0 +1,62 @@
+{
+"code": "GER330H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+3,
+3,
+3,
+3,
+3,
+4,
+4,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ina",
+"lastName": "Karkani"
+}
+],
+"timing": 1783566943
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ina",
+"lastName": "Karkani"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Open Topics in German Studies"
+}

@@ -5,7 +5,7 @@
 {
 "createdAt": 1771355747,
 "delivery": "SYNC",
-"enrollmentCap": 95,
+"enrollmentCap": 96,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -31,6 +31,10 @@
 {
 "newCapacity": 95,
 "time": 1780823948
+},
+{
+"newCapacity": 96,
+"time": 1783783437
 }
 ],
 "initialCap": 50
@@ -124,7 +128,16 @@
 90,
 92,
 91,
-99
+99,
+100,
+100,
+94,
+95,
+95,
+96,
+95,
+90,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -239,7 +252,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Introduction to Social Policy"
 }

@@ -5,12 +5,20 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 311,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 300,
 "time": 1782150373
+},
+{
+"newCapacity": 312,
+"time": 1783375107
+},
+{
+"newCapacity": 311,
+"time": 1783566943
 }
 ],
 "initialCap": 0
@@ -18,7 +26,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+313,
+313,
+311,
+311,
+311,
+311,
+313,
+320,
+321
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -59,7 +76,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+33,
+33,
+47,
+51,
+51,
+52,
+77,
+145,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -88,7 +114,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Technologies of Architecture, Landscape, Urbanism, and Art I"
 }

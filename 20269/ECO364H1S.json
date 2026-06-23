@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+45,
+44,
+121,
+122,
+122,
+121,
+122,
+123,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,7 +43,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+37,
+37,
+83,
+85,
+85,
+87,
+90,
+93,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -47,12 +65,26 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1783375107
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -62,14 +94,23 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC5101"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "International Trade Theory"
 }

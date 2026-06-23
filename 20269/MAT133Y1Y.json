@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+174,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+185,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+149,
+149
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+154,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -142,7 +193,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+106,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+89,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Abhibhav",
+"lastName": "Garg"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Abhibhav",
+"lastName": "Garg"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -199,7 +283,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+55,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -220,13 +313,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+114,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adriano",
+"lastName": "Pacifico"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adriano",
+"lastName": "Pacifico"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -241,13 +358,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+22,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Volk"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Volk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -255,7 +396,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus and Linear Algebra for Commerce"
 }

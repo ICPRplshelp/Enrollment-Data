@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+20,
+72,
+72,
+70,
+70,
+70,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Swales"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Swales"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+8,
+8,
+8,
+8,
+22,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Swales"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Swales"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -48,7 +96,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Marketing Geography"
 }

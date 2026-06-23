@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 270,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 350,
+"time": 1783566943
+}
+],
 "initialCap": 270
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+32,
+32,
+34,
+266,
+266,
+267,
+267,
+304,
+307
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -27,7 +41,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Developmental Psychology"
 }

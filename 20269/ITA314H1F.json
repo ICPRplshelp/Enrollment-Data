@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "SYNC",
-"enrollmentCap": 350,
+"enrollmentCap": 450,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 450,
+"time": 1784234377
+}
+],
 "initialCap": 350
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+231,
+232,
+399,
+406,
+406,
+408,
+448,
+460,
+462
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -27,7 +41,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Italian Design: Fashion, Artistry, Genius"
 }

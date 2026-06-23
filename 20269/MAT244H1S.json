@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+8,
+8,
+40,
+42,
+42,
+45,
+102,
+114,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+7,
+7,
+47,
+51,
+51,
+53,
+206,
+207,
+205
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kasra",
+"lastName": "Rafi"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kasra",
+"lastName": "Rafi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -70,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+6,
+7,
+22,
+22,
+22,
+20,
+69,
+80,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Wenyu",
+"lastName": "Pan"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Wenyu",
+"lastName": "Pan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -91,7 +148,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+13,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +171,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

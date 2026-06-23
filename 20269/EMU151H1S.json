@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 11,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1783375107
+}
+],
 "initialCap": 11
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +55,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1783375107
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+6,
+6,
+6,
+5,
+5,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +106,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Inst Class: Clarinet"
 }

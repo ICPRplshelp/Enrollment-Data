@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+11,
+11,
+12,
+88,
+88,
+93,
+95,
+97,
+97
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+9,
+9,
+11,
+72,
+72,
+73,
+73,
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yevgeny",
+"lastName": "Liokumovich"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yevgeny",
+"lastName": "Liokumovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+14,
+14,
+15,
+125,
+125,
+126,
+125,
+125,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ke",
+"lastName": "Zhang"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ke",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -76,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+4,
+27,
+27,
+28,
+30,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yevgeny",
+"lastName": "Liokumovich"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yevgeny",
+"lastName": "Liokumovich"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -95,6 +191,15 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -111,7 +216,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus of Several Variables I"
 }

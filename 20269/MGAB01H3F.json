@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 64,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 64,
 "time": 1782150373
+},
+{
+"newCapacity": 60,
+"time": 1783375107
 }
 ],
 "initialCap": 63
@@ -18,7 +22,16 @@
 "enrollmentLogs": [
 0,
 0,
-63
+63,
+59,
+59,
+65,
+64,
+64,
+64,
+64,
+71,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -54,6 +67,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -73,6 +95,15 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -101,7 +132,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+64,
+62,
+62,
+62,
+62,
+69,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -129,12 +169,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 61,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 61,
 "time": 1782150373
+},
+{
+"newCapacity": 60,
+"time": 1783375107
 }
 ],
 "initialCap": 60
@@ -142,7 +186,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+58,
+58,
+64,
+64,
+64,
+65,
+65,
+71,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,12 +223,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 61,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 61,
 "time": 1782150373
+},
+{
+"newCapacity": 60,
+"time": 1783375107
 }
 ],
 "initialCap": 63
@@ -183,7 +240,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+62,
+64,
+64,
+65,
+65,
+71,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -219,7 +285,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+59,
+64,
+64,
+64,
+64,
+69,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,7 +335,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+58,
+58,
+63,
+63,
+63,
+64,
+64,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,7 +385,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+62,
+63,
+63,
+64,
+64,
+64,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,6 +428,15 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -378,7 +480,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+60,
+62,
+62,
+62,
+62,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -419,7 +530,16 @@
 "enrollmentLogs": [
 0,
 0,
-60
+60,
+60,
+60,
+62,
+63,
+63,
+63,
+63,
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -448,7 +568,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introductory Financial Accounting I"
 }

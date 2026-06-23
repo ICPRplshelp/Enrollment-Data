@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+23,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+2,
+2,
+2,
+3,
+59,
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+7,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,15 +140,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784431933
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+2,
+4,
+4,
+4,
+4,
+56,
+57,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +198,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+26,
+25,
+25,
+27,
+96,
+94,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -193,7 +243,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+53,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -229,7 +288,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+8,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -265,7 +333,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+24,
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -301,7 +378,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+80,
+80,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -337,7 +423,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+7,
+7,
+7,
+10,
+73,
+74,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -365,15 +460,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 47,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784431933
+}
+],
 "initialCap": 47
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+5,
+5,
+5,
+5,
+58,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -409,7 +518,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+6,
+6,
+6,
+7,
+80,
+81,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -438,7 +556,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Management Accounting I"
 }

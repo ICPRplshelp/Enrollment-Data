@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+20,
+21,
+21,
+22,
+71,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+63,
+65,
+65,
+64,
+74,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+57,
+57,
+57,
+58,
+74,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+7,
+7,
+7,
+7,
+16,
+17,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
+"timing": 1783994610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -142,13 +193,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+7,
+7,
+7,
+7,
+18,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
+"timing": 1783994610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -163,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+19,
+18,
+18,
+17,
+42,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
+"timing": 1783994610
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Filippo",
+"lastName": "Cavaleri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -184,7 +283,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+13,
+13,
+13,
+16,
+70,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -220,7 +328,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+26,
+26,
+26,
+26,
+38,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,7 +373,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+7,
+7,
+7,
+7,
+26,
+26,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -285,7 +411,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Capital Market Theory"
 }

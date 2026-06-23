@@ -1,0 +1,62 @@
+{
+"code": "KPE161H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 360,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 360
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+341,
+346
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timur",
+"lastName": "Taha"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Timur",
+"lastName": "Taha"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Fitness: Principles & Practice"
+}

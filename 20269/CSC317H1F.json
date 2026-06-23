@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+14,
+15,
+48,
+53,
+53,
+52,
+52,
+52,
+52
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+26,
+25,
+48,
+45,
+45,
+45,
+46,
+47,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Panuelos"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jonathan",
+"lastName": "Panuelos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -70,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-23
+23,
+22,
+22,
+34,
+35,
+35,
+35,
+35,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -99,7 +141,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Computer Graphics"
 }

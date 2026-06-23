@@ -5,12 +5,16 @@
 {
 "createdAt": 1772585699,
 "delivery": "SYNC",
-"enrollmentCap": 57,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 57,
 "time": 1775594179
+},
+{
+"newCapacity": 58,
+"time": 1783566920
 }
 ],
 "initialCap": 45
@@ -92,7 +96,16 @@
 63,
 62,
 63,
-66
+66,
+58,
+58,
+57,
+58,
+58,
+58,
+57,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +208,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Topics in History"
 }

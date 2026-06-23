@@ -5,84 +5,232 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1784431933
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+24,
+25,
+25,
+28,
+72,
+79,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
 },
-"instructors": [],
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1784431933
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+22,
+24,
+24,
+26,
+77,
+86,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
 },
-"instructors": [],
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1784431933
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+6,
+6,
+46,
+48,
+48,
+53,
+90,
+97,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
 },
-"instructors": [],
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1784431933
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+9,
+9,
+43,
+41,
+41,
+42,
+81,
+89,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
 },
-"instructors": [],
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Christopher",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -90,7 +238,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Practical Physics I"
 }

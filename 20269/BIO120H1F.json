@@ -13,13 +13,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+309,
+300,
+300,
+293,
+313,
+1382,
+1413
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
 },
-"instructors": [],
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+},
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +66,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
 },
-"instructors": [],
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+},
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 },
@@ -55,13 +119,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Mahler"
 },
-"instructors": [],
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+},
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2002"
 },
@@ -76,13 +172,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+2,
+2,
+2,
+3,
+8,
+186,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
 },
-"instructors": [],
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Megan",
+"lastName": "Frederickson"
+},
+{
+"firstName": "Luke",
+"lastName": "Mahler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -90,7 +218,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Adaptation and Biodiversity"
 }

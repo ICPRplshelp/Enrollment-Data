@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+19,
+19,
+28,
+28,
+28,
+29,
+96,
+102,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shannon",
+"lastName": "Liu"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shannon",
+"lastName": "Liu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+42,
+42,
+89,
+92,
+92,
+91,
+119,
+122,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shannon",
+"lastName": "Liu"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shannon",
+"lastName": "Liu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -48,7 +96,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Entrepreneurial Strategy"
 }

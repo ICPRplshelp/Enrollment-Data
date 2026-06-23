@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+53,
+53,
+100,
+103,
+103,
+103,
+110,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Walton"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matthew",
+"lastName": "Walton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +51,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Global Politics and Global Political Thought"
 }

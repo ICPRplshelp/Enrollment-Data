@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+41,
+41,
+41,
+42,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thiago Rodrigues",
+"lastName": "Augusto Rodrigues"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thiago Rodrigues",
+"lastName": "Augusto Rodrigues"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +51,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Innovative Technologies and Organizations in Global Energy Systems"
 }

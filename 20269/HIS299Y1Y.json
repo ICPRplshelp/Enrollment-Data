@@ -1,0 +1,105 @@
+{
+"code": "HIS299Y1Y",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heidi",
+"lastName": "Bohaker"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Heidi",
+"lastName": "Bohaker"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+3
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Mori"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Mori"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Research Opportunity Program"
+}

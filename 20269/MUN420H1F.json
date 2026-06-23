@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+20,
+20,
+22,
+23,
+23,
+23,
+23,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vasu",
+"lastName": "Daggupaty"
+}
+],
+"timing": 1783566943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vasu",
+"lastName": "Daggupaty"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+16,
+16,
+17,
+13,
+13,
+14,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Damian",
+"lastName": "Dupuy"
+}
+],
+"timing": 1783566943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Damian",
+"lastName": "Dupuy"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -48,7 +96,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Public Policy Capstone"
 }

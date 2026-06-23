@@ -1,0 +1,47 @@
+{
+"code": "INF314H1S",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+44,
+44,
+44,
+44,
+43,
+46,
+46
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Information Memory and Culture"
+}

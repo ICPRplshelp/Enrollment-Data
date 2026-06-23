@@ -5,21 +5,50 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1783375107
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+26,
+26,
+92,
+93,
+93,
+94,
+94,
+96,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Triadafilos",
+"lastName": "Triadafilopoulos"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Triadafilos",
+"lastName": "Triadafilopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +56,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Public Policy"
 }

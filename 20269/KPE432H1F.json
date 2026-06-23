@@ -1,0 +1,62 @@
+{
+"code": "KPE432H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+59,
+60
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcus",
+"lastName": "Mazzucco"
+}
+],
+"timing": 1783783493
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marcus",
+"lastName": "Mazzucco"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Legal Aspects of Sport Recreation and Kinesiology"
+}

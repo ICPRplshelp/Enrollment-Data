@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+42,
+42,
+42,
+44,
+173,
+188,
+191
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,7 +43,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+40,
+39,
+39,
+40,
+263,
+275,
+276
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,7 +73,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+38,
+41,
+41,
+42,
+212,
+236,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+7,
+7,
+35,
+39,
+39,
+38,
+137,
+144,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -89,12 +125,21 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Michael jongho",
+"lastName": "Moon"
+}
+],
+"timing": 1783783493
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Nathalie",
+"firstName": "Michael jongho",
 "lastName": "Moon"
 }
 ],
@@ -105,7 +150,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Probability, Statistics and Data Analysis II"
 }

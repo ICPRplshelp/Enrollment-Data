@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+4,
+5,
+5,
+5,
+5,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maryam",
+"lastName": "Khaqan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -32,6 +56,15 @@
 "initialCap": 90
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -48,7 +81,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Integral Calculus of Several Variables for Mathematical Sciences"
 }

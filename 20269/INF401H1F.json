@@ -1,0 +1,62 @@
+{
+"code": "INF401H1F",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+46,
+46,
+46,
+46,
+45,
+48,
+48
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Carli",
+"lastName": "Fink"
+}
+],
+"timing": 1784234377
+}
+]
+},
+"instructors": [
+{
+"firstName": "Carli",
+"lastName": "Fink"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "From Classroom to Workplace"
+}

@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+18,
+19,
+19,
+23,
+207,
+199,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Lagziel"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Lagziel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+3,
+3,
+3,
+4,
+170,
+169,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+6,
+6,
+6,
+8,
+146,
+157,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nazanin",
+"lastName": "Khazra"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -76,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+6,
+5,
+5,
+5,
+86,
+93,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -97,13 +193,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+9,
+10,
+10,
+10,
+107,
+111,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -118,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+2,
+28,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Turner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -132,7 +276,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Microeconomic Theory and Applications (for Commerce)"
 }

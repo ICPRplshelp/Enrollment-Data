@@ -12,20 +12,53 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+9,
+9,
+9,
+12,
+12,
+12,
+12,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Preeia",
+"lastName": "Surajbali"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Preeia",
+"lastName": "Surajbali"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
 ],
 "timeIntervals": [
 1782150372,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Creating Stories for Social Change"
 }

@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+133,
+123,
+123,
+119,
+118,
+224,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+177,
+172,
+172,
+169,
+167,
+235,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -70,13 +88,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+58,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -91,7 +133,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+109,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,7 +178,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+17,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,13 +223,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+25,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gavin",
+"lastName": "Hurd"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gavin",
+"lastName": "Hurd"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -184,7 +268,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+57,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -205,13 +298,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Oliver",
+"lastName": "Scott Pankratz"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Oliver",
+"lastName": "Scott Pankratz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -219,7 +336,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus I for Life Sciences"
 }

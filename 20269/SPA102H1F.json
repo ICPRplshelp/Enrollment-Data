@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Manuel",
+"lastName": "Ramirez-Salazar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Juan Carlos",
+"lastName": "Rocha Osornio"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -55,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -69,7 +126,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Spanish for Beginners II"
 }

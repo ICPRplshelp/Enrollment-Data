@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 325,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1783375107
+}
+],
 "initialCap": 325
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+306,
+311
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +55,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 325,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1783375107
+}
+],
 "initialCap": 325
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+336,
+335
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,15 +105,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 325,
+"enrollmentCap": 300,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 300,
+"time": 1783375107
+}
+],
 "initialCap": 325
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+233,
+246
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -114,7 +156,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Management"
 }

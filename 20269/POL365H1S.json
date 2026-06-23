@@ -1,0 +1,56 @@
+{
+"code": "POL365H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783783493,
+"delivery": "INPER",
+"enrollmentCap": 70,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 70
+},
+"enrollmentLogs": [
+0,
+4,
+4,
+6,
+20,
+23,
+23
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Semra",
+"lastName": "Sevi"
+}
+],
+"timing": 1783783493
+}
+]
+},
+"instructors": [
+{
+"firstName": "Semra",
+"lastName": "Sevi"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783783492,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Political Representation"
+}

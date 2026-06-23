@@ -99,7 +99,16 @@
 301,
 304,
 300,
-298
+298,
+285,
+285,
+280,
+280,
+280,
+280,
+277,
+265,
+263
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -116,17 +125,51 @@
 }
 ],
 "timing": 1771355747
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sobia",
+"lastName": "Iqbal"
+},
+{
+"firstName": "Sandra",
+"lastName": "Pereira"
+}
+],
+"timing": 1783566920
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sobia",
+"lastName": "Iqbal"
+},
+{
+"firstName": "Sandra",
+"lastName": "Pereira"
+},
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
+}
+],
+"timing": 1783994585
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chirag",
-"lastName": "Vaswani"
+"firstName": "Sobia",
+"lastName": "Iqbal"
 },
 {
 "firstName": "Sandra",
 "lastName": "Pereira"
+},
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
 }
 ],
 "isCancelled": false,
@@ -222,7 +265,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Human Physiology II"
 }

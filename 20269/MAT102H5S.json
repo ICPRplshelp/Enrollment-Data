@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+13,
+13,
+13,
+12,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,13 +43,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+8,
+8,
+8,
+9,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Holden"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Holden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,13 +88,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+4,
+8,
+8,
+8,
+8,
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Holden"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Holden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -74,6 +131,15 @@
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -97,13 +163,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+5,
+5,
+4,
+4,
+34,
+37
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Timothy",
+"lastName": "Yusun"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Timothy",
+"lastName": "Yusun"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 }
@@ -111,7 +201,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Mathematical Proofs"
 }

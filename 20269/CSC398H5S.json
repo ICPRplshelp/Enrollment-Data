@@ -12,20 +12,53 @@
 },
 "enrollmentLogs": [
 0,
-0
+0,
+22,
+22,
+34,
+36,
+36,
+38,
+39,
+40,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joshua",
+"lastName": "Jung"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joshua",
+"lastName": "Jung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
 ],
 "timeIntervals": [
 1782150372,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Topics in Computer Science"
 }

@@ -5,15 +5,33 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 27,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1783375107
+},
+{
+"newCapacity": 27,
+"time": 1783783493
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+23,
+24,
+26,
+27,
+27,
+27,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +59,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1783375107
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -77,15 +109,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1783375107
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+9,
+9,
+9,
+11,
+12,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -113,15 +159,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1783375107
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+22,
+21,
+26,
+25,
+25,
+26,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +210,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Music Theory IV"
 }

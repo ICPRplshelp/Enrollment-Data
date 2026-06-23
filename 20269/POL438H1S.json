@@ -1,0 +1,56 @@
+{
+"code": "POL438H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783783493,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
+"timing": 1784234377
+}
+]
+},
+"instructors": [
+{
+"firstName": "Connor",
+"lastName": "Ewing"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783783492,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Topics in Comparative Politics I"
+}

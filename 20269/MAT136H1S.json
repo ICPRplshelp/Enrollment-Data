@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4,
+164,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,7 +43,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+2,
+2,
+2,
+4,
+216,
+215
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -70,13 +88,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+253,
+252
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Devin",
+"lastName": "Hensley"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -91,7 +133,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+235,
+236
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,7 +178,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+106,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -163,7 +223,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+186,
+173,
+173,
+168,
+167,
+253,
+251
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -199,7 +268,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+121,
+117,
+117,
+115,
+116,
+263,
+261
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -235,7 +313,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+182,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -256,7 +343,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+215,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -292,7 +388,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+129,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -328,7 +433,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+76,
+78
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -364,7 +478,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+30,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -385,13 +508,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+40,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Roy",
+"lastName": "Shalev"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Roy",
+"lastName": "Shalev"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5202"
 },
@@ -406,7 +553,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+73,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -420,7 +576,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus II"
 }

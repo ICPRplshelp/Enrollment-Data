@@ -5,12 +5,76 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1783994610
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+19,
+18,
+18,
+18,
+18,
+19,
+19
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nouman",
+"lastName": "Ashraf"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nouman",
+"lastName": "Ashraf"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 0,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1783994610
+}
+],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -20,14 +84,23 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
-"meetingNumber": "LEC0101"
+"isCancelled": true,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "The Art and Literature of Leadership 2"
 }

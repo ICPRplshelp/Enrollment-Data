@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+10,
+10,
+25,
+28,
+28,
+28,
+49,
+233,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+7,
+7,
+7,
+7,
+13,
+130,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samarendra Chandan Bind",
+"lastName": "Dash"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samarendra Chandan Bind",
+"lastName": "Dash"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -70,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+9,
+11,
+11,
+11,
+26,
+158,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -106,7 +148,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+11,
+12,
+12,
+12,
+35,
+202,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +193,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+16,
+17,
+17,
+18,
+33,
+234,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -178,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+9,
+10,
+10,
+9,
+15,
+107,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naaz",
+"lastName": "Sibia"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Naaz",
+"lastName": "Sibia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -199,7 +283,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+18,
+19,
+19,
+21,
+52,
+217,
+218
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -235,7 +328,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+20,
+20,
+20,
+20,
+57,
+236,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -271,7 +373,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+4,
+4,
+4,
+6,
+17,
+131,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -307,13 +418,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+13,
+13,
+13,
+13,
+26,
+119,
+126
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Patrick",
+"lastName": "Lee"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Patrick",
+"lastName": "Lee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -321,7 +456,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Computer Programming"
 }

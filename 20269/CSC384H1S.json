@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+26,
+26,
+75,
+75,
+75,
+76,
+81,
+80,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+30,
+30,
+100,
+109,
+109,
+106,
+111,
+111,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,13 +80,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Aameri"
+}
+],
+"timing": 1784234377
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kuldeep Singh",
-"lastName": "Meel"
+"firstName": "Bahar",
+"lastName": "Aameri"
 }
 ],
 "isCancelled": false,
@@ -85,7 +112,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+15,
+15,
+56,
+56,
+56,
+56,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -98,13 +134,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Aameri"
+}
+],
+"timing": 1784234377
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kuldeep Singh",
-"lastName": "Meel"
+"firstName": "Bahar",
+"lastName": "Aameri"
 }
 ],
 "isCancelled": false,
@@ -121,7 +166,16 @@
 "enrollmentLogs": [
 0,
 0,
-31
+31,
+32,
+32,
+74,
+78,
+78,
+79,
+81,
+81,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -134,13 +188,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Bahar",
+"lastName": "Aameri"
+}
+],
+"timing": 1784234377
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Kuldeep Singh",
-"lastName": "Meel"
+"firstName": "Bahar",
+"lastName": "Aameri"
 }
 ],
 "isCancelled": false,
@@ -157,7 +220,16 @@
 "enrollmentLogs": [
 0,
 0,
-120
+120,
+118,
+118,
+142,
+148,
+148,
+148,
+148,
+149,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -186,7 +258,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Artificial Intelligence"
 }

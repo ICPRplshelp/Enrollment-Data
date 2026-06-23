@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1783375107
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+28,
+28,
+57,
+54,
+54,
+53,
+106,
+117,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -42,7 +56,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Heroes of the Classical World"
 }

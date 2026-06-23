@@ -13,34 +13,87 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+8,
+8,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Thywissen"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph",
+"lastName": "Thywissen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 6,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 9,
+"time": 1783566943
+}
+],
 "initialCap": 6
 },
 "enrollmentLogs": [
 0,
 0,
-6
+6,
+6,
+6,
+10,
+10,
+10,
+10,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph",
+"lastName": "Thywissen"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph",
+"lastName": "Thywissen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -48,7 +101,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Laser Physics"
 }

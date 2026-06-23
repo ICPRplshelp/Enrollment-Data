@@ -1,0 +1,56 @@
+{
+"code": "KPE438H1F",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1783783493,
+"delivery": "INPER",
+"enrollmentCap": 35,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 35
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+41,
+41
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samira",
+"lastName": "Sunderji"
+}
+],
+"timing": 1783783493
+}
+]
+},
+"instructors": [
+{
+"firstName": "Samira",
+"lastName": "Sunderji"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783783492,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Special Topics in Kinesiology and Physical Education"
+}

@@ -1,0 +1,62 @@
+{
+"code": "AFR370H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+7,
+7,
+25,
+26,
+26,
+26,
+40,
+47,
+47
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Safia",
+"lastName": "Aidid"
+}
+],
+"timing": 1783783493
+}
+]
+},
+"instructors": [
+{
+"firstName": "Safia",
+"lastName": "Aidid"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Anticolonialism, Radicalism and Revolutions in Africa"
+}

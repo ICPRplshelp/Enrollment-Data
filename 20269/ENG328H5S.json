@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+62,
+62,
+63,
+70,
+70,
+71,
+68,
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -22,12 +31,51 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1783994610,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+31,
+32
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Writing for Games and Narrative Design"
 }

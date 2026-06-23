@@ -1,6 +1,6 @@
 {
 "code": "ECE390H1S",
-"faculty": "APSC",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1781442026,
@@ -13,7 +13,9 @@
 "enrollmentLogs": [
 0,
 0,
-137
+137,
+134,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -42,7 +44,9 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690
 ],
 "title": "Embedded Systems and Technologies"
 }

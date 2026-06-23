@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 77,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 77,
 "time": 1782150373
+},
+{
+"newCapacity": 80,
+"time": 1783375107
 }
 ],
 "initialCap": 70
@@ -18,7 +22,16 @@
 "enrollmentLogs": [
 0,
 0,
-74
+74,
+79,
+79,
+77,
+76,
+76,
+76,
+76,
+74,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -47,7 +60,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Capstone Design"
 }

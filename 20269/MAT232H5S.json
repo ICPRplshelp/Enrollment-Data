@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+9,
+9,
+9,
+46,
+46,
+46,
+45,
+52,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+6,
+6,
+6,
+35,
+35,
+36,
+36,
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+5,
+42,
+42,
+42,
+43,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -74,6 +146,15 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -90,7 +171,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus of Several Variables I"
 }

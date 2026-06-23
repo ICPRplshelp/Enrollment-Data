@@ -1,0 +1,47 @@
+{
+"code": "FRE319H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+6,
+6,
+10,
+10,
+10,
+11,
+11,
+11,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Laughter and Thought in French Renaissance Literature"
+}

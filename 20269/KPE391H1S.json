@@ -1,0 +1,62 @@
+{
+"code": "KPE391H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 380,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 380
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+232,
+232
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Asma A",
+"lastName": "Khalil"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Asma A",
+"lastName": "Khalil"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Research Design and Evaluation Qualitative Approaches"
+}

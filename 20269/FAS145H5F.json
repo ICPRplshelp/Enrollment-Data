@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+4,
+4,
+4,
+4,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "A",
+"lastName": "Leach"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "A",
+"lastName": "Leach"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+4,
+10,
+10,
+10,
+10,
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "A",
+"lastName": "Leach"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "A",
+"lastName": "Leach"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -55,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+3,
+3,
+3,
+3,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -69,7 +126,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Painting I"
 }

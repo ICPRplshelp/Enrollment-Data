@@ -5,14 +5,28 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 21,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1783375107
+}
+],
 "initialCap": 21
 },
 "enrollmentLogs": [
 0,
 0,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
+21,
 21
 ],
 "instructorLog": {
@@ -50,7 +64,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Mineral Project Design I"
 }

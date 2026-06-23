@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-98
+98,
+101,
+101,
+168,
+169,
+169,
+169,
+170,
+175,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -26,13 +35,22 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
+}
+],
+"timing": 1784431933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "LEE",
-"lastName": "VAN BRUSSEL"
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
 }
 ],
 "isCancelled": false,
@@ -49,7 +67,16 @@
 "enrollmentLogs": [
 0,
 0,
-79
+79,
+85,
+85,
+100,
+102,
+102,
+105,
+106,
+118,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,13 +89,22 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
+}
+],
+"timing": 1784431933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "LEE",
-"lastName": "VAN BRUSSEL"
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
 }
 ],
 "isCancelled": false,
@@ -85,7 +121,16 @@
 "enrollmentLogs": [
 0,
 0,
-95
+95,
+92,
+92,
+142,
+144,
+144,
+143,
+144,
+157,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -98,13 +143,22 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
+}
+],
+"timing": 1784431933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "LEE",
-"lastName": "VAN BRUSSEL"
+"firstName": "Lee Walter",
+"lastName": "van Brussel"
 }
 ],
 "isCancelled": false,
@@ -114,7 +168,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus for Management"
 }

@@ -5,42 +5,100 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 127,
+"time": 1783566943
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-110
+110,
+110,
+110,
+128,
+129,
+129,
+130,
+130,
+132,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Singer"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Singer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 127,
+"time": 1783566943
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-88
+88,
+99,
+99,
+133,
+134,
+134,
+135,
+135,
+135,
+135
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alex",
+"lastName": "Singer"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alex",
+"lastName": "Singer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -48,7 +106,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Computer Hardware"
 }

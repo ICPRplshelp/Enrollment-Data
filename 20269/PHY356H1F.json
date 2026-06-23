@@ -5,42 +5,104 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 178,
+"enrollmentCap": 208,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 208,
+"time": 1784234377
+}
+],
 "initialCap": 178
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+62,
+62,
+188,
+197,
+197,
+198,
+205,
+210,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Luke"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Luke"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 33,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1783566943
+},
+{
+"newCapacity": 33,
+"time": 1784234377
+}
+],
 "initialCap": 18
 },
 "enrollmentLogs": [
 0,
 0,
-18
+18,
+18,
+18,
+34,
+34,
+34,
+34,
+34,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "Luke"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "Luke"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -48,7 +110,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Quantum Mechanics I"
 }

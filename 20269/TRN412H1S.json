@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Wynne"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+10,
+10,
+12,
+13,
+13,
+13,
+14,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julia",
+"lastName": "Croome"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Julia",
+"lastName": "Croome"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -55,25 +103,63 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+20,
+20,
+20,
+21,
+21,
+21,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "David",
+"lastName": "Hughes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1783375107
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -83,14 +169,23 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0401"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Seminar in Ethics, Society, and Law"
 }

@@ -3,6 +3,51 @@
 "faculty": "ARTSC",
 "meetings": [
 {
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+4,
+5,
+5,
+5,
+5,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Craig",
+"lastName": "Smith"
+}
+],
+"timing": 1783783493
+}
+]
+},
+"instructors": [
+{
+"firstName": "Craig",
+"lastName": "Smith"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC2501"
+},
+{
 "createdAt": 1781442026,
 "delivery": "INPER",
 "enrollmentCap": 25,
@@ -27,7 +72,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Institutions and Public Policy for Engineers"
 }

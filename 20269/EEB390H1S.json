@@ -13,13 +13,53 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+16,
+16,
+28,
+28,
+28,
+28,
+32,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gerardo",
+"lastName": "Deiuliis"
 },
-"instructors": [],
+{
+"firstName": "David",
+"lastName": "Evans"
+},
+{
+"firstName": "Ashley",
+"lastName": "Reynolds"
+}
+],
+"timing": 1783994610
+}
+]
+},
+"instructors": [
+{
+"firstName": "Gerardo",
+"lastName": "Deiuliis"
+},
+{
+"firstName": "David",
+"lastName": "Evans"
+},
+{
+"firstName": "Ashley",
+"lastName": "Reynolds"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +67,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Vertebrate Paleontology: Major Transitions in Vertebrate History"
 }

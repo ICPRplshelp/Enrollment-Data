@@ -1,0 +1,43 @@
+{
+"code": "CAR329H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1783566943,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+4,
+5,
+5,
+5,
+6,
+6,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783566942,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Special Topics in Caribbean Studies"
+}

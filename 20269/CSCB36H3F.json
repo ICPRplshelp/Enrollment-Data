@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+16,
+16,
+19,
+18,
+73,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -26,13 +35,22 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dima",
+"lastName": "Paramonov"
+}
+],
+"timing": 1784431933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "DMITRY",
-"lastName": "PARAMONOV"
+"firstName": "Dima",
+"lastName": "Paramonov"
 }
 ],
 "isCancelled": false,
@@ -49,7 +67,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+7,
+7,
+7,
+8,
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,13 +89,22 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Dima",
+"lastName": "Paramonov"
+}
+],
+"timing": 1784431933
 }
 ]
 },
 "instructors": [
 {
-"firstName": "DMITRY",
-"lastName": "PARAMONOV"
+"firstName": "Dima",
+"lastName": "Paramonov"
 }
 ],
 "isCancelled": false,
@@ -78,7 +114,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to the Theory of Computation"
 }

@@ -5,15 +5,33 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 113,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1783375107
+},
+{
+"newCapacity": 85,
+"time": 1784234377
+}
+],
 "initialCap": 113
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+9,
+9,
+48,
+52,
+52,
+53,
+53,
+71,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -42,7 +60,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introducing Global Asia and its Histories"
 }

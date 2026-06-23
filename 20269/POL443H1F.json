@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+18,
+18,
+18,
+19,
+19,
+19,
+19,
+20,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dan",
+"lastName": "Breznitz"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dan",
+"lastName": "Breznitz"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -48,7 +81,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Topics in Comparative Politics II"
 }

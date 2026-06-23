@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 132,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 132,
+"time": 1783566943
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+109,
+109,
+130,
+132,
+132,
+132,
+132,
+132,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +55,33 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1783566943
+},
+{
+"newCapacity": 127,
+"time": 1783783493
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+110,
+110,
+119,
+118,
+118,
+118,
+118,
+119,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +110,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Differential Equations"
 }

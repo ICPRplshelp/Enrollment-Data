@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+3,
+3,
+4,
+4,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rhonda",
+"lastName": "Weppler"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rhonda",
+"lastName": "Weppler"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+2,
+2,
+8,
+8,
+8,
+8,
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Schmidt"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Schmidt"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+5,
+5,
+5,
+5,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jordyn",
+"lastName": "Stewart"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jordyn",
+"lastName": "Stewart"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -69,7 +141,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Sculpture I"
 }

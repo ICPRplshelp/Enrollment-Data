@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+34,
+33,
+33,
+32,
+34,
+201,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xiaoyue",
+"lastName": "Cui"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xiaoyue",
+"lastName": "Cui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+101,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,7 +88,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+59,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,7 +118,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+70,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+34,
+32,
+32,
+32,
+34,
+149,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maximilian",
+"lastName": "Klambauer"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maximilian",
+"lastName": "Klambauer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -118,13 +193,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+34,
+34,
+34,
+33,
+34,
+237,
+234
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Boris",
+"lastName": "Khesin"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Boris",
+"lastName": "Khesin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -139,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+2,
+185,
+193
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kyle",
+"lastName": "Bower"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kyle",
+"lastName": "Bower"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 },
@@ -160,13 +283,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+66,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yitong",
+"lastName": "Wang"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yitong",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -174,7 +321,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calculus I with Proofs"
 }

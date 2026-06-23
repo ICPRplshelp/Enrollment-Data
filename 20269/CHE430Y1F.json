@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 160,
 "time": 1782150373
+},
+{
+"newCapacity": 170,
+"time": 1783375107
 }
 ],
 "initialCap": 158
@@ -18,7 +22,16 @@
 "enrollmentLogs": [
 0,
 0,
-159
+159,
+156,
+156,
+156,
+156,
+156,
+156,
+156,
+151,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,7 +68,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Chemical Plant Design"
 }

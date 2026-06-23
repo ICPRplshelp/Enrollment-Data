@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 85,
+"time": 1784431933
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+33,
+33,
+32,
+82,
+82,
+84,
+84,
+85,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -42,7 +56,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Public Policy in Canada"
 }

@@ -13,6 +13,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -32,6 +41,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -70,6 +88,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -106,13 +133,37 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
+"timing": 1783566943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -125,6 +176,15 @@
 "initialCap": 2
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -163,13 +223,37 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+}
+],
+"timing": 1783566943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -182,6 +266,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -213,7 +306,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to German b"
 }

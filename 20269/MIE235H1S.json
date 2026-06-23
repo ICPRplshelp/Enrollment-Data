@@ -5,15 +5,37 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 138,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1783375107
+},
+{
+"newCapacity": 150,
+"time": 1783566943
+},
+{
+"newCapacity": 138,
+"time": 1783783493
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+113,
+113,
+138,
+138,
+138,
+138,
+138,
+138,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +63,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1783375107
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+119,
+119,
+120,
+124,
+124,
+124,
+125,
+130,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +114,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Numerical Analysis and Computatational Methods"
 }

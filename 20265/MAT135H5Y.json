@@ -87,7 +87,16 @@
 94,
 94,
 91,
-86
+86,
+84,
+84,
+82,
+81,
+81,
+81,
+81,
+81,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -115,12 +124,26 @@
 {
 "createdAt": 1772585699,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1783375080
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -204,7 +227,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -285,7 +308,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Differential Calculus"
 }

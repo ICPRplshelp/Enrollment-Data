@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784431933
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+56,
+52,
+60,
+60,
+60,
+63,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +63,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+58,
+57,
+67,
+67,
+67,
+66,
+66,
+65,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +108,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+46,
+51,
+68,
+68,
+68,
+67,
+67,
+67,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -114,7 +146,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Advanced Corporate Finance"
 }

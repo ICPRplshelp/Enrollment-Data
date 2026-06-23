@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+101,
+101,
+105,
+105,
+105,
+105,
+105,
+105,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -26,6 +35,19 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1783994610
 }
 ]
 },
@@ -33,6 +55,10 @@
 {
 "firstName": "R. J. Dwayne",
 "lastName": "Miller"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
 }
 ],
 "isCancelled": false,
@@ -49,7 +75,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+98,
+98,
+98,
+98,
+98,
+98,
+98,
+98,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,6 +97,19 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "R. J. Dwayne",
+"lastName": "Miller"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1783994610
 }
 ]
 },
@@ -69,6 +117,10 @@
 {
 "firstName": "R. J. Dwayne",
 "lastName": "Miller"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
 }
 ],
 "isCancelled": false,
@@ -78,7 +130,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Quantum and Thermal Physics"
 }

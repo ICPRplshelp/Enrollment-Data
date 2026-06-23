@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+81,
+81,
+81,
+89,
+89,
+89,
+87,
+86,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joshua",
+"lastName": "Jung"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joshua",
+"lastName": "Jung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+10,
+10,
+13,
+17,
+17,
+18,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+72,
+72,
+73,
+81,
+81,
+82,
+81,
+80,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -76,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+19,
+19,
+21,
+33,
+33,
+34,
+34,
+35,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mai Ha",
+"lastName": "Vu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -97,13 +193,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+17,
+17,
+17,
+27,
+27,
+27,
+27,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lisa Chenxue",
+"lastName": "Zhang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -116,6 +236,15 @@
 "initialCap": 80
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -132,7 +261,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Machine Learning"
 }

@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+10,
+10,
+10,
+10,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,13 +43,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+12,
+12,
+12,
+12,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chiu-Hung",
+"lastName": "Chen"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Chiu-Hung",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -55,7 +88,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+8,
+8,
+8,
+8,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,7 +118,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+5,
+5,
+5,
+5,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +141,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Chinese for Academic Purposes II"
 }

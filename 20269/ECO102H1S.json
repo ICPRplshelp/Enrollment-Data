@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+374,
+385
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,7 +43,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+474,
+474
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,13 +73,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+34,
+34,
+34,
+34,
+40,
+538,
+537
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -76,13 +118,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+10,
+490,
+499
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tyler",
+"lastName": "Paul"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -97,7 +163,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+10,
+26,
+26,
+24,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -118,7 +193,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+298,
+321
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -132,7 +216,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Principles of Macroeconomics"
 }

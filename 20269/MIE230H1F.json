@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 131,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 131,
+"time": 1783566943
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+108,
+108,
+129,
+128,
+128,
+129,
+129,
+128,
+128
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -41,15 +55,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1783566943
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+110,
+110,
+120,
+120,
+120,
+119,
+119,
+120,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -78,7 +106,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Calc III: Engineering Analysis"
 }

@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-3
+3,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -46,17 +55,12 @@
 }
 ],
 "timing": 1781442026
-}
-]
 },
-"instructors": [
+{
+"instructorsAfter": [
 {
 "firstName": "Robin",
 "lastName": "Marjoribanks"
-},
-{
-"firstName": "William",
-"lastName": "Trischuk"
 },
 {
 "firstName": "Peter",
@@ -71,8 +75,34 @@
 "lastName": "Kim"
 },
 {
-"firstName": "Xiang",
-"lastName": "Li"
+"firstName": "Joseph",
+"lastName": "Thywissen"
+}
+],
+"timing": 1784234377
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "Peter",
+"lastName": "Krieger"
+},
+{
+"firstName": "Stephen",
+"lastName": "Julian"
+},
+{
+"firstName": "Young-June",
+"lastName": "Kim"
+},
+{
+"firstName": "Joseph",
+"lastName": "Thywissen"
 }
 ],
 "isCancelled": false,
@@ -82,7 +112,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Advanced Physics Laboratory"
 }

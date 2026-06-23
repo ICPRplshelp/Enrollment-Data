@@ -13,13 +13,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+27,
+27,
+46,
+47,
+47,
+46,
+104,
+430,
+446
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "O'Neill"
 },
-"instructors": [],
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Morgan",
+"lastName": "O'Neill"
+},
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +66,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+39,
+39,
+85,
+86,
+86,
+88,
+151,
+224,
+230
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morgan",
+"lastName": "O'Neill"
 },
-"instructors": [],
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Morgan",
+"lastName": "O'Neill"
+},
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -48,7 +112,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Physics II"
 }

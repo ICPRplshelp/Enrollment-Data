@@ -5,15 +5,33 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1783952570
+},
+{
+"newCapacity": 130,
+"time": 1784234377
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+39,
+39,
+39,
+90,
+90,
+93,
+94,
+127,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -27,7 +45,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "The Video Essay"
 }

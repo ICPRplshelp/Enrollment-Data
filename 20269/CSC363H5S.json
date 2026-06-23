@@ -13,6 +13,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -34,13 +43,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+97,
+97,
+98,
+105,
+105,
+107,
+108,
+110,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammad",
+"lastName": "Mahmoud"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammad",
+"lastName": "Mahmoud"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,13 +88,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+86,
+86,
+89,
+96,
+96,
+97,
+96,
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mohammad",
+"lastName": "Mahmoud"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mohammad",
+"lastName": "Mahmoud"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -69,7 +126,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Computational Complexity and Computability"
 }

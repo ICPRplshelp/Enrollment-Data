@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1783375107
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+144,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -26,15 +40,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1783375107
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+247,
+245
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,15 +90,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 250,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1783375107
+}
+],
 "initialCap": 250
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+219,
+227
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -84,7 +126,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "An Introduction to Statistical Reasoning and Data Science"
 }

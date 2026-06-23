@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+8,
+8,
+8,
+27,
+27,
+27,
+27,
+206,
+221
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+5,
+37,
+37,
+39,
+39,
+203,
+210
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Wesslen"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Wesslen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -55,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+12,
+12,
+12,
+12,
+182,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,13 +133,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+6,
+6,
+6,
+6,
+166,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Wesslen"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria",
+"lastName": "Wesslen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -97,13 +178,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+9,
+9,
+9,
+9,
+176,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Tvalavadze"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -118,6 +223,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -130,7 +244,7 @@
 },
 {
 "createdAt": 1781442026,
-"delivery": "SYNC",
+"delivery": "HYBR",
 "enrollmentCap": 140,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -139,13 +253,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+6,
+6,
+6,
+16,
+16,
+16,
+17,
+177,
+185
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jonathan",
+"lastName": "Herman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
@@ -158,6 +296,15 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -181,6 +328,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -200,6 +356,15 @@
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -223,13 +388,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+3,
+8,
+8,
+9,
+9,
+180,
+186
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0111"
 },
@@ -244,13 +433,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+15,
+15,
+16,
+15,
+177,
+185
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
+"timing": 1783952570
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadya",
+"lastName": "Askaripour"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0112"
 }
@@ -258,7 +471,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Integral Calculus"
 }

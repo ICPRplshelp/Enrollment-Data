@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+11,
+11,
+11,
+12,
+12,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +148,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+12,
+12,
+11,
+12,
+12,
+12,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -145,12 +181,111 @@
 ],
 "isCancelled": false,
 "meetingNumber": "PRA0401"
+},
+{
+"createdAt": 1783566943,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+6,
+8,
+8,
+8,
+10,
+12,
+12
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0501"
+},
+{
+"createdAt": 1783566943,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+3,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0601"
+},
+{
+"createdAt": 1783566943,
+"delivery": "INPER",
+"enrollmentCap": 12,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 12
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0701"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Keyboard Skills"
 }

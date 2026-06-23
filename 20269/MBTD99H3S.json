@@ -1,0 +1,35 @@
+{
+"code": "MBTD99H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1783994610,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+9,
+10,
+10
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1783994609,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Field Placement"
+}

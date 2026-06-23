@@ -13,13 +13,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+4,
+8,
+8,
+8,
+8,
+10,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Lise",
+"lastName": "Beaudry"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Lise",
+"lastName": "Beaudry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -34,13 +58,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+4,
+10,
+10,
+10,
+10,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Toni",
+"lastName": "Hafkenscheid"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Toni",
+"lastName": "Hafkenscheid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -55,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+3,
+9,
+9,
+9,
+8,
+12,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Toni",
+"lastName": "Hafkenscheid"
+}
+],
+"timing": 1783783493
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Toni",
+"lastName": "Hafkenscheid"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 }
@@ -69,7 +141,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Photography I"
 }

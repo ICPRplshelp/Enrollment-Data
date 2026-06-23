@@ -5,21 +5,94 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 9,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 6,
+"time": 1783566943
+},
+{
+"newCapacity": 9,
+"time": 1784431933
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+6,
+6,
+6,
+6,
+6,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
 },
-"instructors": [],
+{
+"firstName": "Xiang",
+"lastName": "Li"
+},
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "Pierre",
+"lastName": "Savard"
+},
+{
+"firstName": "Chen",
+"lastName": "Wang"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+},
+{
+"firstName": "Xiang",
+"lastName": "Li"
+},
+{
+"firstName": "Robin",
+"lastName": "Marjoribanks"
+},
+{
+"firstName": "Pierre",
+"lastName": "Savard"
+},
+{
+"firstName": "Chen",
+"lastName": "Wang"
+},
+{
+"firstName": "John",
+"lastName": "Wei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +100,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Advanced Practical Physics I"
 }

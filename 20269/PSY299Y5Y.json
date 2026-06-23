@@ -13,6 +13,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -34,7 +43,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -53,6 +71,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -76,6 +103,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -95,6 +131,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -118,6 +163,15 @@
 "enrollmentLogs": [
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1
 ],
 "instructorLog": {
@@ -139,7 +193,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -160,7 +223,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -181,7 +253,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +283,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -223,7 +313,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -244,6 +343,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -257,15 +365,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1783375107
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
 0,
 0,
-1
+1,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -284,6 +406,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -307,6 +438,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -326,6 +466,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -349,7 +498,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -368,6 +526,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -391,6 +558,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -410,6 +586,15 @@
 "initialCap": 5
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+1,
+1,
+1,
+0,
+0,
+0,
 0,
 0,
 0
@@ -433,6 +618,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -454,6 +648,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -468,7 +671,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Research Opportunity Program"
 }

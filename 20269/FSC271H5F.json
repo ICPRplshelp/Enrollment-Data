@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+21,
+21,
+21,
+131,
+131,
+132,
+135,
+138,
+138
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -22,12 +31,51 @@
 "instructors": [],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1784431933,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Ethics and Professionalism in Forensic Science"
 }

@@ -13,6 +13,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -32,6 +41,15 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0
@@ -55,6 +73,15 @@
 "enrollmentLogs": [
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -76,13 +103,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+1,
+1,
+3,
+4,
+4,
+4,
+5,
+22,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -97,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+3,
+3,
+3,
+3,
+7,
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cynthia",
+"lastName": "Messenger"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cynthia",
+"lastName": "Messenger"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -118,13 +193,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 },
@@ -139,13 +238,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+5,
+5,
+3,
+3,
+3,
+6,
+30,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Vikki",
+"lastName": "Visvis"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Vikki",
+"lastName": "Visvis"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 }
@@ -153,7 +276,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to Academic Writing"
 }

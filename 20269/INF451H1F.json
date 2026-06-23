@@ -1,0 +1,52 @@
+{
+"code": "INF451H1F",
+"faculty": "FIS",
+"meetings": [
+{
+"createdAt": 1783375107,
+"delivery": "INPER",
+"enrollmentCap": 56,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1783566943
+}
+],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+47,
+48,
+48,
+48,
+48,
+48,
+48
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1783375106,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
+],
+"title": "Des Stu IV: Info Visualization"
+}

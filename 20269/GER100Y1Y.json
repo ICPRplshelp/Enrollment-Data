@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+2,
+2,
+4,
+5,
+5,
+4,
+8,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+2,
+2,
+2,
+2,
+8,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -62,6 +80,19 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maria",
+"lastName": "Harutyunyan"
+},
+{
+"firstName": "Angela",
+"lastName": "Heinisch"
+}
+],
+"timing": 1783566943
 }
 ]
 },
@@ -69,6 +100,10 @@
 {
 "firstName": "Maria",
 "lastName": "Harutyunyan"
+},
+{
+"firstName": "Angela",
+"lastName": "Heinisch"
 }
 ],
 "isCancelled": false,
@@ -85,7 +120,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+4,
+4,
+3,
+3,
+3,
+3,
+4,
+11,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -98,6 +142,19 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Somaia",
+"lastName": "Mostafa"
+},
+{
+"firstName": "EVA",
+"lastName": "SCHEICER"
+}
+],
+"timing": 1783566943
 }
 ]
 },
@@ -105,6 +162,10 @@
 {
 "firstName": "Somaia",
 "lastName": "Mostafa"
+},
+{
+"firstName": "EVA",
+"lastName": "SCHEICER"
 }
 ],
 "isCancelled": false,
@@ -121,13 +182,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+2,
+2,
+2,
+3,
+4,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "RUDY",
+"lastName": "YUAN"
 },
-"instructors": [],
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
+"timing": 1783566943
+}
+]
+},
+"instructors": [
+{
+"firstName": "RUDY",
+"lastName": "YUAN"
+},
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -142,7 +235,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -186,13 +288,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+6,
+6,
+6,
+6,
+9,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+}
+],
+"timing": 1783566943
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -207,7 +333,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+4,
+5,
+5,
+6,
+15,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -236,7 +371,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Introduction to German"
 }

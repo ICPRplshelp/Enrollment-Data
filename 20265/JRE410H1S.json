@@ -5,9 +5,14 @@
 {
 "createdAt": 1772247537,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 90,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 90,
+"time": 1783375080
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -91,7 +96,16 @@
 80,
 81,
 85,
-85
+85,
+82,
+82,
+82,
+81,
+81,
+81,
+80,
+79,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -198,7 +212,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Markets and Competitive Strategy"
 }

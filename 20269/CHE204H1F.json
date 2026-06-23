@@ -5,15 +5,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 104,
+"time": 1783375107
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+100,
+100,
+99,
+98,
+98,
+98,
+98,
+99,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,15 +63,29 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 104,
+"time": 1783375107
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+98,
+98,
+98,
+98,
+98,
+98,
+98,
+98,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -94,7 +122,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Chem Eng & Applied Chem I"
 }

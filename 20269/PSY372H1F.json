@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+17,
+18,
+52,
+54,
+54,
+55,
+57,
+56,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -34,13 +43,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+5,
+4,
+14,
+13,
+13,
+12,
+14,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shikang",
+"lastName": "Peng"
+}
+],
+"timing": 1783375107
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shikang",
+"lastName": "Peng"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -48,7 +81,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Human Memory"
 }

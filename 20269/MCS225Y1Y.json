@@ -13,13 +13,45 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+3,
+3,
+13,
+13,
+13,
+13,
+26,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nkem",
+"lastName": "Ike"
 },
-"instructors": [],
+{
+"firstName": "Rebecca",
+"lastName": "Woods"
+}
+],
+"timing": 1783375107
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nkem",
+"lastName": "Ike"
+},
+{
+"firstName": "Rebecca",
+"lastName": "Woods"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -27,7 +59,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "A History of the World in Objects and Signs"
 }

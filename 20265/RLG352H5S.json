@@ -5,12 +5,16 @@
 {
 "createdAt": 1772585699,
 "delivery": "SYNC",
-"enrollmentCap": 74,
+"enrollmentCap": 85,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 74,
 "time": 1775594179
+},
+{
+"newCapacity": 85,
+"time": 1783566920
 }
 ],
 "initialCap": 45
@@ -92,7 +96,16 @@
 84,
 87,
 86,
-88
+88,
+85,
+85,
+85,
+82,
+82,
+82,
+82,
+83,
+83
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +208,16 @@
 1780527691,
 1780823948,
 1781442002,
-1782150338
+1782150338,
+1783375080,
+1783403669,
+1783566920,
+1783783437,
+1783816477,
+1783837110,
+1783994585,
+1784234356,
+1784431908
 ],
 "title": "Jews and Muslims: The Medieval Encounter"
 }

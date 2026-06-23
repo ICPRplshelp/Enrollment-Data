@@ -13,7 +13,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+100,
+100,
+102,
+102,
+102,
+102,
+102,
+103,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -49,7 +58,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+100,
+100,
+102,
+102,
+102,
+102,
+102,
+102,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,7 +103,16 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,13 +148,37 @@
 "enrollmentLogs": [
 0,
 0,
-0
+0,
+111,
+111,
+109,
+109,
+109,
+109,
+109,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Li",
+"lastName": "Qian"
+}
+],
+"timing": 1784234377
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Li",
+"lastName": "Qian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -135,7 +186,16 @@
 "timeIntervals": [
 1781442025,
 1781442026,
-1782150373
+1782150373,
+1783375107,
+1783403690,
+1783566943,
+1783783493,
+1783816505,
+1783952570,
+1783994610,
+1784234377,
+1784431933
 ],
 "title": "Signals and Systems"
 }
