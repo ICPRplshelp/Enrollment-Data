@@ -1,0 +1,50 @@
+{
+"code": "KPE417H1S",
+"faculty": "FPEH",
+"meetings": [
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 38,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 38
+},
+"enrollmentLogs": [
+0,
+43,
+46,
+45
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zeana",
+"lastName": "Hamdonah"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zeana",
+"lastName": "Hamdonah"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1788312167,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Special Topics in Kinesiology and Physical Education"
+}

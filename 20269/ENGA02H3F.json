@@ -22,13 +22,39 @@
 28,
 28,
 43,
-44
+44,
+44,
+46,
+47,
+47,
+48,
+49,
+52,
+40,
+40,
+35,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph Scott",
+"lastName": "McLaughlin"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph Scott",
+"lastName": "McLaughlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,13 +78,39 @@
 27,
 27,
 44,
-44
+44,
+46,
+45,
+47,
+47,
+46,
+48,
+56,
+47,
+45,
+37,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kyle",
+"lastName": "Kinaschuk"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kyle",
+"lastName": "Kinaschuk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -82,13 +134,39 @@
 35,
 35,
 58,
-60
+60,
+68,
+69,
+69,
+69,
+72,
+75,
+82,
+75,
+67,
+61,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sara",
+"lastName": "Ameri Mahabadi"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sara",
+"lastName": "Ameri Mahabadi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -112,13 +190,39 @@
 20,
 21,
 40,
-42
+42,
+43,
+44,
+46,
+46,
+45,
+46,
+48,
+40,
+34,
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Walter",
+"lastName": "Villanueva"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Walter",
+"lastName": "Villanueva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 },
@@ -142,15 +246,97 @@
 27,
 27,
 39,
-41
+41,
+44,
+44,
+46,
+46,
+47,
+45,
+45,
+39,
+38,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
+},
+{
+"createdAt": 1786729205,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+25,
+36,
+34,
+34
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sarah",
+"lastName": "Howden"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC06"
 }
 ],
 "timeIntervals": [
@@ -165,7 +351,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Critical Writing About Literature"
 }

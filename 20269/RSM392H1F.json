@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 67,
 66,
 67,
-67
+67,
+68,
+69,
+68,
+68,
+71,
+71,
+71,
+70,
+67,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 71,
 72,
 72,
-71
+71,
+70,
+71,
+71,
+71,
+72,
+72,
+72,
+72,
+69,
+68,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +127,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -112,7 +149,18 @@
 83,
 83,
 83,
-82
+82,
+77,
+79,
+79,
+79,
+80,
+77,
+76,
+76,
+72,
+69,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +188,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -157,22 +210,57 @@
 63,
 63,
 63,
-63
+63,
+61,
+61,
+61,
+61,
+61,
+61,
+60,
+61,
+59,
+58,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brooklynn",
+"lastName": "Zhu"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brooklynn",
+"lastName": "Zhu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 53,
+"time": 1784439518
+},
+{
+"newCapacity": 59,
+"time": 1788312168
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -187,7 +275,18 @@
 69,
 70,
 70,
-69
+69,
+65,
+64,
+64,
+64,
+64,
+63,
+63,
+63,
+67,
+65,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,9 +314,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 53,
+"time": 1784439518
+},
+{
+"newCapacity": 59,
+"time": 1788312168
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -232,6 +340,17 @@
 65,
 65,
 65,
+64,
+62,
+62,
+62,
+62,
+62,
+62,
+63,
+63,
+64,
+64,
 64
 ],
 "instructorLog": {
@@ -260,9 +379,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -277,7 +401,18 @@
 63,
 63,
 63,
-61
+61,
+61,
+62,
+61,
+61,
+62,
+62,
+63,
+63,
+61,
+59,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -305,9 +440,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1788312168
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -322,13 +462,39 @@
 61,
 62,
 62,
-62
+62,
+61,
+61,
+61,
+61,
+62,
+60,
+61,
+62,
+59,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brooklynn",
+"lastName": "Zhu"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brooklynn",
+"lastName": "Zhu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -345,7 +511,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Strategic Management"
 }

@@ -22,13 +22,39 @@
 42,
 43,
 41,
-41
+41,
+45,
+45,
+46,
+46,
+50,
+54,
+59,
+60,
+60,
+60,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 86,
 86,
 87,
-88
+88,
+90,
+91,
+93,
+93,
+101,
+105,
+109,
+106,
+105,
+102,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +134,39 @@
 55,
 55,
 58,
-58
+58,
+60,
+60,
+59,
+59,
+75,
+85,
+94,
+102,
+103,
+102,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kathleen",
+"lastName": "Yu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -105,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Microeconomic Theory and Applications (for Commerce and Management)"
 }

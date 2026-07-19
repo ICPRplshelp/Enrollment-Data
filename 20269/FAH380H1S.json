@@ -22,13 +22,39 @@
 16,
 17,
 17,
-16
+16,
+17,
+19,
+19,
+19,
+20,
+22,
+20,
+25,
+23,
+23,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephanie",
+"lastName": "Azzarello"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephanie",
+"lastName": "Azzarello"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,74 @@
 9,
 14,
 15,
-15
+15,
+15,
+16,
+15,
+15,
+16,
+17,
+18,
+19,
+19,
+19,
+19
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Ratte"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Ratte"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1786729205,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+19,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +153,7 @@
 },
 "instructors": [],
 "isCancelled": false,
-"meetingNumber": "LEC0201"
+"meetingNumber": "LEC0301"
 }
 ],
 "timeIntervals": [
@@ -75,7 +168,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Special Topics in Art History"
 }

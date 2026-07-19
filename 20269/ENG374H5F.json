@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1786729205
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -22,22 +27,53 @@
 46,
 46,
 25,
-25
+25,
+27,
+28,
+30,
+30,
+30,
+29,
+31,
+33,
+33,
+31,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ruthvika Rao",
+"lastName": "Bowenpalle"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ruthvika Rao",
+"lastName": "Bowenpalle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1784234377,
 "delivery": "SYNC",
-"enrollmentCap": 25,
+"enrollmentCap": 30,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 30,
+"time": 1786729205
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -52,13 +88,39 @@
 0,
 0,
 20,
-20
+20,
+27,
+28,
+28,
+28,
+29,
+29,
+28,
+33,
+33,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anum",
+"lastName": "Asi"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anum",
+"lastName": "Asi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +137,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Creative Writing: Prose"
 }

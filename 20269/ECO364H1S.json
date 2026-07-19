@@ -22,13 +22,39 @@
 121,
 122,
 123,
-123
+123,
+122,
+122,
+126,
+126,
+125,
+126,
+126,
+128,
+124,
+126,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Morrow"
+}
+],
+"timing": 1785194573
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Morrow"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 87,
 90,
 93,
-95
+95,
+95,
+96,
+97,
+97,
+103,
+105,
+111,
+115,
+117,
+117,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Morrow"
+}
+],
+"timing": 1785194573
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Morrow"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -76,6 +128,17 @@
 "initialCap": 120
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -110,7 +173,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "International Trade Theory"
 }

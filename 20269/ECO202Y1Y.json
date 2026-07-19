@@ -22,7 +22,18 @@
 54,
 126,
 136,
-138
+138,
+140,
+166,
+167,
+167,
+168,
+166,
+166,
+165,
+162,
+156,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 37,
 84,
 84,
-84
+84,
+83,
+131,
+140,
+140,
+144,
+152,
+154,
+158,
+160,
+149,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +134,18 @@
 28,
 66,
 69,
-68
+68,
+72,
+123,
+135,
+135,
+139,
+152,
+155,
+159,
+158,
+146,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,13 +190,39 @@
 13,
 24,
 28,
-28
+28,
+29,
+56,
+59,
+59,
+59,
+66,
+71,
+75,
+72,
+68,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -187,13 +246,39 @@
 20,
 44,
 43,
-43
+43,
+43,
+64,
+68,
+68,
+69,
+73,
+78,
+80,
+82,
+81,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 }
@@ -210,7 +295,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Macroeconomic Theory and Policy"
 }

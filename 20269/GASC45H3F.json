@@ -5,9 +5,14 @@
 {
 "createdAt": 1782150373,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 36,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 36,
+"time": 1788312168
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -21,13 +26,39 @@
 8,
 8,
 8,
-8
+8,
+15,
+19,
+22,
+22,
+25,
+30,
+30,
+34,
+37,
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ran",
+"lastName": "Deng"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ran",
+"lastName": "Deng"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -43,7 +74,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Film and Popular Cultures in East Asia"
 }

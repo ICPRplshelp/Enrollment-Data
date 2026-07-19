@@ -22,6 +22,17 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -61,13 +72,39 @@
 36,
 36,
 43,
-43
+43,
+42,
+42,
+41,
+41,
+41,
+41,
+33,
+32,
+33,
+32,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 },
@@ -96,13 +133,39 @@
 32,
 32,
 38,
-38
+38,
+38,
+38,
+37,
+37,
+37,
+38,
+32,
+31,
+33,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -126,7 +189,18 @@
 36,
 36,
 46,
-46
+46,
+47,
+48,
+47,
+47,
+47,
+47,
+37,
+35,
+37,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -171,7 +245,18 @@
 38,
 38,
 47,
-47
+47,
+46,
+46,
+45,
+45,
+46,
+46,
+37,
+37,
+37,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -221,7 +306,18 @@
 33,
 33,
 39,
-39
+39,
+38,
+39,
+38,
+38,
+38,
+40,
+32,
+32,
+32,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -234,13 +330,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Visan"
+}
+],
+"timing": 1786148704
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Laura",
+"lastName": "Visan"
 }
 ],
 "isCancelled": false,
@@ -271,7 +376,18 @@
 31,
 31,
 34,
-34
+34,
+35,
+35,
+36,
+36,
+36,
+38,
+32,
+33,
+34,
+31,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -284,13 +400,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1786148704
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
 }
 ],
 "isCancelled": false,
@@ -321,7 +446,18 @@
 31,
 31,
 39,
-39
+39,
+38,
+38,
+38,
+38,
+38,
+38,
+31,
+31,
+33,
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -371,13 +507,39 @@
 34,
 34,
 37,
-37
+37,
+38,
+38,
+37,
+37,
+37,
+37,
+33,
+33,
+35,
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC09"
 },
@@ -406,7 +568,18 @@
 34,
 34,
 35,
-35
+35,
+36,
+36,
+35,
+35,
+35,
+35,
+33,
+33,
+35,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -419,13 +592,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1786148704
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sandra",
-"lastName": "Daga"
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
 }
 ],
 "isCancelled": false,
@@ -460,13 +642,39 @@
 33,
 33,
 37,
-37
+37,
+37,
+37,
+36,
+36,
+36,
+37,
+32,
+30,
+32,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sandra",
+"lastName": "Daga"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC11"
 },
@@ -479,6 +687,17 @@
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -513,7 +732,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Management Communications"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 170,
+"time": 1788312168
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
@@ -22,13 +27,39 @@
 132,
 132,
 133,
-134
+134,
+134,
+173,
+171,
+171,
+172,
+172,
+171,
+171,
+167,
+169,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Basil",
+"lastName": "Hubbard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Pharmacodynamic Principles"
 }

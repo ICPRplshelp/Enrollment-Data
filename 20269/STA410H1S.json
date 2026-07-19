@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 102,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 102,
+"time": 1787374227
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 79,
 81,
 83,
-85
+85,
+82,
+97,
+103,
+103,
+105,
+116,
+117,
+118,
+117,
+116,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9,
+"enrollmentCap": 7,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1787374227
+}
+],
 "initialCap": 9
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 7,
 7,
 8,
-8
+8,
+8,
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+7,
+7,
+7
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +137,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Statistical Computation"
 }

@@ -22,6 +22,17 @@
 12,
 12,
 12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
 12
 ],
 "instructorLog": {
@@ -59,6 +70,17 @@
 0,
 0,
 0,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
 12,
 12,
 12,
@@ -112,6 +134,17 @@
 12,
 12,
 12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
 12
 ],
 "instructorLog": {
@@ -152,6 +185,17 @@
 12,
 12,
 11,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+11,
+11,
+12,
 12,
 12,
 12,
@@ -202,13 +246,39 @@
 8,
 10,
 12,
+12,
+12,
+12,
+12,
+12,
+12,
+12,
+11,
+12,
+12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0501"
 },
@@ -232,13 +302,39 @@
 2,
 2,
 3,
-4
+4,
+5,
+5,
+5,
+5,
+6,
+9,
+11,
+11,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0601"
 },
@@ -262,13 +358,39 @@
 0,
 0,
 0,
-0
+0,
+1,
+1,
+1,
+1,
+1,
+2,
+4,
+4,
+5,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0701"
 }
@@ -285,7 +407,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Keyboard Skills"
 }

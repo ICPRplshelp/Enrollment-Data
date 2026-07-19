@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 65,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 80,
+"time": 1786729205
+}
+],
 "initialCap": 65
 },
 "enrollmentLogs": [
@@ -22,13 +27,39 @@
 23,
 23,
 61,
-63
+63,
+72,
+73,
+70,
+70,
+74,
+76,
+78,
+79,
+83,
+80,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Godwin Iretomiwa",
+"lastName": "Simon"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Godwin Iretomiwa",
+"lastName": "Simon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -45,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Media and Globalization"
 }

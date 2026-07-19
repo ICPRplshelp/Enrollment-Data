@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1787374227
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 2,
 2,
 234,
-235
+235,
+231,
+259,
+257,
+257,
+256,
+260,
+258,
+253,
+255,
+256,
+256
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 220,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1787374227
+}
+],
 "initialCap": 220
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 0,
 0,
 177,
-184
+184,
+188,
+264,
+260,
+260,
+260,
+258,
+256,
+254,
+245,
+244,
+244
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,22 +144,53 @@
 30,
 28,
 98,
-101
+101,
+104,
+162,
+174,
+174,
+180,
+190,
+191,
+190,
+188,
+188,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
 {
 "createdAt": 1781442026,
 "delivery": "SYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 64,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 64,
+"time": 1787374227
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -142,22 +205,53 @@
 1,
 1,
 15,
-16
+16,
+16,
+55,
+56,
+56,
+55,
+59,
+64,
+65,
+66,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kevin",
+"lastName": "Watmough"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kevin",
+"lastName": "Watmough"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0302"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 188,
+"enrollmentCap": 196,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 196,
+"time": 1787374227
+}
+],
 "initialCap": 188
 },
 "enrollmentLogs": [
@@ -172,7 +266,18 @@
 2,
 2,
 154,
-162
+162,
+171,
+207,
+211,
+211,
+209,
+207,
+206,
+202,
+197,
+198,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,7 +322,18 @@
 0,
 0,
 38,
-42
+42,
+40,
+127,
+142,
+142,
+155,
+182,
+189,
+189,
+189,
+187,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,13 +378,39 @@
 0,
 0,
 6,
-7
+7,
+7,
+23,
+26,
+26,
+30,
+32,
+48,
+57,
+66,
+66,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Rolf"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice",
+"lastName": "Rolf"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0502"
 },
@@ -292,13 +434,39 @@
 1,
 1,
 44,
-46
+46,
+48,
+87,
+101,
+101,
+106,
+114,
+129,
+137,
+144,
+150,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brinda",
+"lastName": "Venkataramani"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brinda",
+"lastName": "Venkataramani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -322,13 +490,39 @@
 0,
 0,
 27,
-26
+26,
+29,
+70,
+82,
+82,
+90,
+107,
+122,
+130,
+145,
+143,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Simone",
+"lastName": "Coccia"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Simone",
+"lastName": "Coccia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -345,7 +539,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Linear Algebra I"
 }

@@ -22,13 +22,63 @@
 8,
 49,
 50,
-50
+50,
+50,
+52,
+52,
+52,
+52,
+51,
+51,
+51,
+49,
+49,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Craig",
+"lastName": "Smibert"
 },
-"instructors": [],
+{
+"firstName": "Karen",
+"lastName": "Maxwell"
+},
+{
+"firstName": "Sian",
+"lastName": "Patterson"
+},
+{
+"firstName": "Joel",
+"lastName": "Watts"
+}
+],
+"timing": 1786148704
+}
+]
+},
+"instructors": [
+{
+"firstName": "Craig",
+"lastName": "Smibert"
+},
+{
+"firstName": "Karen",
+"lastName": "Maxwell"
+},
+{
+"firstName": "Sian",
+"lastName": "Patterson"
+},
+{
+"firstName": "Joel",
+"lastName": "Watts"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +95,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Biochemistry"
 }

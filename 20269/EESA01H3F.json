@@ -22,7 +22,18 @@
 346,
 347,
 497,
-499
+499,
+505,
+505,
+510,
+510,
+511,
+519,
+525,
+505,
+511,
+500,
+504
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+37,
+73,
+65,
+66
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Martin"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adam",
+"lastName": "Martin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Environmental Science"
 }

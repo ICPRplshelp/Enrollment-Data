@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 84,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 84,
+"time": 1788466516
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 90,
 94,
 97,
-98
+98,
+96,
+96,
+96,
+96,
+96,
+97,
+95,
+97,
+95,
+95,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +51,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ania",
+"lastName": "Harlick"
+},
+{
+"firstName": "Xiaoyang",
+"lastName": "Chen"
+}
+],
+"timing": 1785689566
 }
 ]
 },
@@ -42,6 +71,10 @@
 {
 "firstName": "Ania",
 "lastName": "Harlick"
+},
+{
+"firstName": "Xiaoyang",
+"lastName": "Chen"
 }
 ],
 "isCancelled": false,
@@ -60,7 +93,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Practical Physics II"
 }

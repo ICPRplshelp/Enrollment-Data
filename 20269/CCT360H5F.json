@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 52,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1786729205
 }
 ],
 "initialCap": 57
@@ -27,13 +31,39 @@
 40,
 40,
 40,
-40
+40,
+52,
+52,
+54,
+54,
+52,
+52,
+49,
+51,
+49,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nimrah",
+"lastName": "Syed"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nimrah",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -62,13 +92,39 @@
 80,
 80,
 78,
-78
+78,
+75,
+75,
+75,
+75,
+75,
+76,
+73,
+72,
+71,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nimrah",
+"lastName": "Syed"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nimrah",
+"lastName": "Syed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -92,25 +148,55 @@
 64,
 64,
 64,
-64
+64,
+61,
+61,
+61,
+61,
+61,
+62,
+62,
+60,
+61,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gayan",
+"lastName": "Gamage Don"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gayan",
+"lastName": "Gamage Don"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 52,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1786729205
 }
 ],
 "initialCap": 57
@@ -127,13 +213,39 @@
 40,
 40,
 40,
-40
+40,
+44,
+43,
+44,
+44,
+46,
+47,
+48,
+50,
+56,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gayan",
+"lastName": "Gamage Don"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gayan",
+"lastName": "Gamage Don"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0104"
 }
@@ -150,7 +262,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Web Development and Design II"
 }

@@ -22,7 +22,18 @@
 5,
 6,
 7,
-7
+7,
+7,
+8,
+8,
+8,
+9,
+9,
+11,
+11,
+11,
+11,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -48,17 +59,30 @@
 }
 ],
 "timing": 1783566943
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Felix",
-"lastName": "Roessler"
-},
-{
 "firstName": "Antonio",
 "lastName": "Vivone"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
 }
 ],
 "isCancelled": false,
@@ -84,7 +108,18 @@
 3,
 5,
 6,
-6
+6,
+7,
+6,
+6,
+6,
+6,
+7,
+7,
+7,
+11,
+11,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,6 +132,32 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1786729205
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+},
+{
+"firstName": "Felix",
+"lastName": "Roessler"
+}
+],
+"timing": 1788312168
 }
 ]
 },
@@ -104,6 +165,10 @@
 {
 "firstName": "Lisa",
 "lastName": "Lackner"
+},
+{
+"firstName": "Felix",
+"lastName": "Roessler"
 }
 ],
 "isCancelled": false,
@@ -122,7 +187,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Intermediate German 2"
 }

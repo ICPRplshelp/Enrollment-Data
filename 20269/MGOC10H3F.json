@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 78,
 79,
 87,
-87
+87,
+81,
+81,
+80,
+80,
+79,
+64,
+63,
+63,
+61,
+60,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 78,
 79,
 88,
-87
+87,
+78,
+77,
+74,
+74,
+71,
+62,
+65,
+64,
+63,
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +127,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -112,7 +149,18 @@
 75,
 76,
 83,
-82
+82,
+75,
+75,
+73,
+73,
+70,
+63,
+63,
+62,
+61,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +188,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -157,7 +210,18 @@
 76,
 77,
 84,
-84
+84,
+75,
+75,
+73,
+73,
+70,
+62,
+62,
+63,
+65,
+61,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +259,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Analytics for Decision Making"
 }

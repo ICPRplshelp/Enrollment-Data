@@ -22,13 +22,47 @@
 202,
 604,
 618,
-620
+620,
+619,
+603,
+599,
+599,
+596,
+595,
+599,
+600,
+578,
+579,
+579
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "McCourt"
 },
-"instructors": [],
+{
+"firstName": "David",
+"lastName": "Guttman"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "McCourt"
+},
+{
+"firstName": "David",
+"lastName": "Guttman"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +79,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Concepts in Genetics"
 }

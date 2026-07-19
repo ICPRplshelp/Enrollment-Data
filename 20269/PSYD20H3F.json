@@ -22,7 +22,18 @@
 34,
 34,
 34,
-30
+30,
+30,
+31,
+30,
+30,
+28,
+29,
+27,
+28,
+26,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -48,6 +59,15 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Cirelli"
+}
+],
+"timing": 1785689566
 }
 ]
 },
@@ -55,10 +75,6 @@
 {
 "firstName": "Laura",
 "lastName": "Cirelli"
-},
-{
-"firstName": "Anna Michelle",
-"lastName": "McPhee"
 }
 ],
 "isCancelled": false,
@@ -67,9 +83,14 @@
 {
 "createdAt": 1782150373,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 24,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 24,
+"time": 1785689566
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -84,13 +105,39 @@
 26,
 26,
 27,
+27,
+23,
+23,
+24,
+24,
+26,
+27,
+26,
+27,
+27,
+27,
 27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anna Michelle",
+"lastName": "McPhee"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -107,7 +154,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Current Topics in Developmental Psychology"
 }

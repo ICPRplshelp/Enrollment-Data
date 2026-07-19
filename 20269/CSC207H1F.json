@@ -22,7 +22,18 @@
 15,
 111,
 113,
-113
+113,
+113,
+154,
+158,
+158,
+159,
+160,
+160,
+158,
+153,
+152,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 17,
 90,
 92,
-92
+92,
+95,
+144,
+151,
+151,
+149,
+152,
+149,
+151,
+150,
+151,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +102,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jack",
-"lastName": "Sun"
+"firstName": "Lindsey",
+"lastName": "Shorser"
 }
 ],
 "isCancelled": false,
@@ -112,7 +143,18 @@
 50,
 118,
 119,
-121
+121,
+119,
+150,
+155,
+155,
+163,
+175,
+178,
+177,
+171,
+172,
+174
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +199,18 @@
 12,
 151,
 157,
-158
+158,
+158,
+182,
+183,
+183,
+183,
+183,
+181,
+180,
+181,
+182,
+182
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +255,18 @@
 11,
 38,
 40,
-40
+40,
+40,
+68,
+74,
+74,
+77,
+87,
+86,
+88,
+88,
+89,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,13 +279,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Sun"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lindsey",
-"lastName": "Shorser"
+"firstName": "Jack",
+"lastName": "Sun"
 }
 ],
 "isCancelled": false,
@@ -240,7 +313,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Software Design"
 }

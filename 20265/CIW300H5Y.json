@@ -5,7 +5,7 @@
 {
 "createdAt": 1775763155,
 "delivery": "INPER",
-"enrollmentCap": 124,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -39,6 +39,10 @@
 {
 "newCapacity": 124,
 "time": 1783566920
+},
+{
+"newCapacity": 125,
+"time": 1786148676
 }
 ],
 "initialCap": 91
@@ -93,7 +97,14 @@
 124,
 124,
 124,
-124
+124,
+124,
+124,
+124,
+124,
+124,
+125,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -154,7 +165,14 @@
 1783837110,
 1783994585,
 1784234356,
-1784431908
+1784431908,
+1784439489,
+1784695638,
+1785194551,
+1785238553,
+1785689526,
+1786148676,
+1786729157
 ],
 "title": "Co-op Internship Work Experience"
 }

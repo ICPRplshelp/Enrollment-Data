@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 359,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 359,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 372,
 371,
 370,
-370
+370,
+367,
+366,
+364,
+364,
+363,
+359,
+359,
+354,
+343,
+325,
+325
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -68,7 +84,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Molecules and Materials"
 }

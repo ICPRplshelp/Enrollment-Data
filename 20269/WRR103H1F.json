@@ -22,7 +22,18 @@
 4,
 5,
 29,
-30
+30,
+30,
+30,
+30,
+30,
+29,
+30,
+29,
+28,
+26,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 8,
 11,
 33,
-32
+32,
+32,
+30,
+31,
+31,
+30,
+27,
+27,
+28,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +134,18 @@
 1,
 5,
 33,
-32
+32,
+33,
+32,
+31,
+31,
+30,
+30,
+29,
+30,
+28,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +190,18 @@
 1,
 7,
 28,
-27
+27,
+28,
+30,
+31,
+31,
+27,
+27,
+26,
+26,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -181,6 +225,62 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
+},
+{
+"createdAt": 1785689566,
+"delivery": "INPER",
+"enrollmentCap": 25,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 25
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+14,
+18,
+21,
+23,
+22,
+24
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Williams"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0501"
 }
 ],
 "timeIntervals": [
@@ -195,7 +295,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Academic Writing"
 }

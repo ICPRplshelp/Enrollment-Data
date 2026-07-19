@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 46,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 46,
+"time": 1788626451
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 29,
 29,
 30,
-30
+30,
+31,
+31,
+32,
+32,
+31,
+36,
+36,
+39,
+41,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +83,18 @@
 23,
 23,
 23,
-23
+23,
+23,
+25,
+23,
+23,
+26,
+27,
+28,
+27,
+35,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +107,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Erin Leigh",
+"lastName": "Courtice"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Molly",
-"lastName": "Metz"
+"firstName": "Erin Leigh",
+"lastName": "Courtice"
 }
 ],
 "isCancelled": false,
@@ -112,7 +148,18 @@
 30,
 30,
 31,
-31
+31,
+31,
+34,
+36,
+36,
+35,
+37,
+36,
+36,
+31,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +197,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Social Psychology of Interpersonal Relationships"
 }

@@ -5,9 +5,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 2,
+"enrollmentCap": 5,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1784439518
+},
+{
+"newCapacity": 5,
+"time": 1788312168
+}
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -22,7 +31,18 @@
 1,
 1,
 1,
-2
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+4,
+4,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -46,6 +66,126 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina",
+"lastName": "Lamparter"
+},
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christina",
+"lastName": "Lamparter"
+},
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
 }
 ],
 "timeIntervals": [
@@ -60,7 +200,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Advanced Independent Project"
 }

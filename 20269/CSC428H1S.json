@@ -22,7 +22,18 @@
 42,
 42,
 42,
-41
+41,
+42,
+45,
+46,
+46,
+46,
+54,
+52,
+51,
+51,
+52,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +61,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -67,7 +83,18 @@
 5,
 5,
 5,
-5
+5,
+5,
+5,
+4,
+4,
+4,
+4,
+4,
+2,
+2,
+2,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +122,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 87,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 87,
+"time": 1787374227
+}
+],
 "initialCap": 85
 },
 "enrollmentLogs": [
@@ -112,7 +144,18 @@
 60,
 60,
 63,
-64
+64,
+64,
+67,
+68,
+68,
+68,
+76,
+71,
+69,
+72,
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +193,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Human-Computer Interaction"
 }

@@ -22,7 +22,18 @@
 0,
 0,
 144,
-145
+145,
+177,
+179,
+184,
+184,
+201,
+180,
+170,
+167,
+160,
+157,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 0,
 0,
 111,
-112
+112,
+170,
+174,
+180,
+180,
+194,
+171,
+168,
+161,
+161,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rutwa",
+"lastName": "Engineer"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rutwa",
+"lastName": "Engineer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -97,19 +134,45 @@
 0,
 0,
 51,
-55
+55,
+147,
+156,
+170,
+170,
+191,
+179,
+167,
+161,
+158,
+145,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Romina",
+"lastName": "Piunno"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Romina",
+"lastName": "Piunno"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
 {
 "createdAt": 1781442026,
-"delivery": "SYNC",
+"delivery": "INPER",
 "enrollmentCap": 160,
 "enrollmentCapComplex": {
 "capChanges": [],
@@ -127,13 +190,39 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+46,
+77,
+110,
+121,
+106,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Saba",
+"lastName": "Sadatamin"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Saba",
+"lastName": "Sadatamin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -150,7 +239,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Computer Programming"
 }

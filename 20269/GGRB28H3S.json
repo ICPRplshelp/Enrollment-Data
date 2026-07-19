@@ -22,13 +22,39 @@
 27,
 27,
 73,
-74
+74,
+71,
+71,
+74,
+74,
+72,
+78,
+79,
+82,
+86,
+81,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Majeed"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -45,7 +71,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Geographies of Disease: Beyond Epidemiology"
 }

@@ -1,0 +1,43 @@
+{
+"code": "HIS350H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1785689566,
+"delivery": "SYNC",
+"enrollmentCap": 45,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 45
+},
+"enrollmentLogs": [
+0,
+15,
+18,
+21,
+21,
+22,
+26,
+27
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1785689565,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Topics in European Histories"
+}

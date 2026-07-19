@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1788466516
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 95,
 95,
 111,
-114
+114,
+125,
+126,
+128,
+128,
+127,
+120,
+120,
+113,
+111,
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1788466516
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 80,
 80,
 92,
-94
+94,
+101,
+101,
+103,
+103,
+104,
+100,
+100,
+96,
+95,
+83,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +127,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1788466516
+}
+],
 "initialCap": 80
 },
 "enrollmentLogs": [
@@ -112,7 +149,18 @@
 45,
 45,
 91,
-93
+93,
+103,
+104,
+107,
+107,
+110,
+109,
+111,
+104,
+102,
+90,
+87
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +198,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Numerical Algorithms for Computational Mathematics"
 }

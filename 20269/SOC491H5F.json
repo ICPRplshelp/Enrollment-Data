@@ -1,0 +1,58 @@
+{
+"code": "SOC491H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1785689566,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kristin Victoria",
+"lastName": "Plys"
+}
+],
+"timing": 1786729205
+}
+]
+},
+"instructors": [
+{
+"firstName": "Kristin Victoria",
+"lastName": "Plys"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1785689565,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Independent Research in Sociology"
+}

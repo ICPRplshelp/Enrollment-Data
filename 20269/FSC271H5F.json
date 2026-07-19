@@ -22,13 +22,39 @@
 132,
 135,
 138,
-138
+138,
+97,
+95,
+95,
+95,
+96,
+93,
+92,
+90,
+89,
+89,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Tessarolo"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Tessarolo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 0,
 0,
 0,
-0
+0,
+47,
+49,
+49,
+49,
+54,
+59,
+60,
+62,
+66,
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eman",
+"lastName": "Faisal"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eman",
+"lastName": "Faisal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Ethics and Professionalism in Forensic Science"
 }

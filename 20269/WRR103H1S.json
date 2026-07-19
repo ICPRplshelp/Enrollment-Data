@@ -5,12 +5,28 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1785689566
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -26,21 +42,52 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marci",
+"lastName": "Prescott-Brown"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
-"isCancelled": false,
+"instructors": [
+{
+"firstName": "Marci",
+"lastName": "Prescott-Brown"
+}
+],
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1785689566
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -59,18 +106,34 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1785689566
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -86,10 +149,25 @@
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer  Nicol",
+"lastName": "Ross"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
-"isCancelled": false,
+"instructors": [
+{
+"firstName": "Jennifer  Nicol",
+"lastName": "Ross"
+}
+],
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 },
 {
@@ -112,7 +190,18 @@
 4,
 5,
 22,
-27
+27,
+28,
+26,
+27,
+27,
+30,
+29,
+30,
+31,
+31,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +246,18 @@
 3,
 7,
 29,
-30
+30,
+30,
+30,
+31,
+31,
+31,
+31,
+31,
+33,
+34,
+33,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +302,18 @@
 1,
 1,
 18,
-18
+18,
+23,
+26,
+26,
+26,
+28,
+27,
+28,
+30,
+27,
+27,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +358,18 @@
 3,
 6,
 30,
-32
+32,
+29,
+27,
+27,
+27,
+28,
+28,
+28,
+29,
+30,
+28,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -285,7 +407,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Academic Writing"
 }

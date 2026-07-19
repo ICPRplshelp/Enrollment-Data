@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 270,
+"enrollmentCap": 283,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 283,
+"time": 1787374227
+}
+],
 "initialCap": 270
 },
 "enrollmentLogs": [
@@ -22,13 +27,39 @@
 42,
 91,
 173,
-175
+175,
+179,
+179,
+178,
+178,
+195,
+205,
+212,
+225,
+244,
+244,
+253
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elliott",
+"lastName": "Fuller"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elliott",
+"lastName": "Fuller"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,22 +83,53 @@
 242,
 384,
 481,
-486
+486,
+497,
+515,
+532,
+532,
+617,
+704,
+723,
+730,
+732,
+738,
+744
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dylan Ray",
+"lastName": "McKibban"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Dylan Ray",
+"lastName": "McKibban"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 17,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 17,
+"time": 1787374227
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -82,13 +144,39 @@
 28,
 29,
 29,
-29
+29,
+29,
+30,
+30,
+30,
+19,
+17,
+17,
+16,
+17,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elliott",
+"lastName": "Fuller"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elliott",
+"lastName": "Fuller"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -105,7 +193,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Classical Mythology"
 }

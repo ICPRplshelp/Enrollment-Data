@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 74,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 74,
+"time": 1787374227
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 28,
 30,
 30,
-30
+30,
+30,
+32,
+33,
+33,
+36,
+37,
+40,
+39,
+38,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 15,
+"enrollmentCap": 11,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 11,
+"time": 1787374227
+}
+],
 "initialCap": 15
 },
 "enrollmentLogs": [
@@ -64,6 +85,17 @@
 12,
 12,
 12,
+11,
+11,
+11,
+11,
+10,
+10,
+10,
+10,
+11,
+11,
+11,
 11,
 11,
 11,
@@ -105,7 +137,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Quantum Materials: from Atoms to Crystals"
 }

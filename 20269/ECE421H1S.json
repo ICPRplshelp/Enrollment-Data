@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 115,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 115,
+"time": 1784695665
+}
+],
 "initialCap": 105
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 114,
 114,
 116,
-117
+117,
+118,
+115,
+115,
+115,
+115,
+115,
+114,
+112,
+113,
+113,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -58,9 +74,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 105,
+"enrollmentCap": 115,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 115,
+"time": 1784695665
+}
+],
 "initialCap": 105
 },
 "enrollmentLogs": [
@@ -75,7 +96,18 @@
 111,
 112,
 113,
-114
+114,
+116,
+112,
+113,
+113,
+112,
+113,
+109,
+107,
+106,
+103,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +153,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Machine Learning"
 }

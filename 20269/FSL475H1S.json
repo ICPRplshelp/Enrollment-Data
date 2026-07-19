@@ -1,0 +1,48 @@
+{
+"code": "FSL475H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1788466516,
+"delivery": "INPER",
+"enrollmentCap": 14,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 14
+},
+"enrollmentLogs": [
+0,
+1,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastien",
+"lastName": "Sacre"
+}
+],
+"timing": 1788466516
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sebastien",
+"lastName": "Sacre"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1788466515,
+1788466516,
+1788626451
+],
+"title": "Creative Writing in French"
+}

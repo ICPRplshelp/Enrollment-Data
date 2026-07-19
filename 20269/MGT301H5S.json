@@ -22,13 +22,39 @@
 18,
 18,
 18,
-18
+18,
+18,
+18,
+18,
+18,
+20,
+22,
+23,
+25,
+29,
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 43,
 43,
 43,
-43
+43,
+46,
+46,
+46,
+46,
+47,
+46,
+45,
+44,
+45,
+43,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +134,39 @@
 48,
 48,
 48,
-48
+48,
+48,
+48,
+48,
+48,
+50,
+49,
+48,
+48,
+48,
+47,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Heather Lynn",
+"lastName": "Bone"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -105,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Coding and Data Management for Business Analytics"
 }

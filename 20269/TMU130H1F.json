@@ -22,6 +22,17 @@
 21,
 21,
 21,
+21,
+21,
+21,
+21,
+21,
+21,
+20,
+20,
+20,
+20,
+18,
 21
 ],
 "instructorLog": {
@@ -50,9 +61,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1788626451
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -67,7 +83,18 @@
 22,
 22,
 22,
-22
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+22,
+21,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +122,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 22,
+"enrollmentCap": 26,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 26,
+"time": 1788626451
+}
+],
 "initialCap": 22
 },
 "enrollmentLogs": [
@@ -112,7 +144,18 @@
 20,
 20,
 20,
-20
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+21,
+21,
+20,
+20,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -162,6 +205,17 @@
 26,
 26,
 26,
+26,
+26,
+26,
+26,
+26,
+26,
+24,
+24,
+24,
+23,
+24,
 26
 ],
 "instructorLog": {
@@ -212,6 +266,17 @@
 23,
 23,
 23,
+23,
+23,
+23,
+23,
+23,
+26,
+27,
+27,
+27,
+26,
+27,
 23
 ],
 "instructorLog": {
@@ -257,13 +322,39 @@
 8,
 8,
 11,
-11
+11,
+11,
+11,
+11,
+11,
+11,
+11,
+12,
+13,
+15,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Gabriella",
+"lastName": "Vici"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Gabriella",
+"lastName": "Vici"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 }
@@ -280,7 +371,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Music Theory I"
 }

@@ -22,7 +22,18 @@
 1,
 1,
 1,
-1
+1,
+1,
+1,
+1,
+1,
+0,
+0,
+0,
+12,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -39,6 +50,15 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "John",
+"lastName": "Rowe"
+}
+],
+"timing": 1787374227
 }
 ]
 },
@@ -46,10 +66,6 @@
 {
 "firstName": "John",
 "lastName": "Rowe"
-},
-{
-"firstName": "Melissa",
-"lastName": "Morlidge"
 }
 ],
 "isCancelled": false,
@@ -75,7 +91,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+18,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -120,7 +147,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+18,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -133,13 +171,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Sabbir",
+"lastName": "Saiyed"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Ronald",
-"lastName": "Hofmann"
+"firstName": "Sabbir",
+"lastName": "Saiyed"
 }
 ],
 "isCancelled": false,
@@ -165,7 +212,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+8,
+8,
+8,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -210,7 +268,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+14,
+12,
+12,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,7 +324,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+13,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -268,13 +348,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Ronald",
+"lastName": "Hofmann"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Sabbir",
-"lastName": "Saiyed"
+"firstName": "Ronald",
+"lastName": "Hofmann"
 }
 ],
 "isCancelled": false,
@@ -293,7 +382,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Group Design Project"
 }

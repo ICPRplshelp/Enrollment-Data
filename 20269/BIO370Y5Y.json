@@ -22,13 +22,56 @@
 146,
 147,
 145,
-146
+146,
+145,
+144,
+144,
+144,
+143,
+143,
+144,
+142,
+138,
+134,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marcus",
+"lastName": "Dillon"
+}
+],
+"timing": 1786148704
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Marcus",
+"lastName": "Dillon"
+},
+{
+"firstName": "Sloane",
+"lastName": "Patry"
+}
+],
+"timing": 1787374227
+}
+]
+},
+"instructors": [
+{
+"firstName": "Marcus",
+"lastName": "Dillon"
+},
+{
+"firstName": "Sloane",
+"lastName": "Patry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +88,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Microbiology"
 }

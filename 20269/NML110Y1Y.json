@@ -22,13 +22,39 @@
 3,
 8,
 14,
-15
+15,
+16,
+15,
+15,
+15,
+17,
+20,
+19,
+19,
+13,
+14,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rand",
+"lastName": "Saleh"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rand",
+"lastName": "Saleh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 7,
 13,
 13,
-13
+13,
+13,
+13,
+13,
+13,
+14,
+14,
+14,
+16,
+17,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +117,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "HYBR",
-"enrollmentCap": 28,
+"enrollmentCap": 29,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 29,
+"time": 1787374227
+}
+],
 "initialCap": 28
 },
 "enrollmentLogs": [
@@ -97,7 +139,18 @@
 8,
 10,
 14,
-15
+15,
+15,
+14,
+15,
+15,
+17,
+16,
+19,
+22,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +178,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "HYBR",
-"enrollmentCap": 2,
+"enrollmentCap": 1,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1,
+"time": 1787374227
+}
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -140,6 +198,17 @@
 0,
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1,
 1
@@ -180,7 +249,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Elementary Standard Arabic"
 }

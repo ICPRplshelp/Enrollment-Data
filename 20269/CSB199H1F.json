@@ -22,13 +22,39 @@
 0,
 0,
 44,
-46
+46,
+45,
+46,
+43,
+43,
+46,
+47,
+48,
+46,
+44,
+44,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Berleth"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Berleth"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 1,
 1,
 58,
-57
+57,
+54,
+52,
+49,
+49,
+50,
+50,
+49,
+47,
+49,
+48,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Berleth"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Berleth"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Biotechnology and Society"
 }

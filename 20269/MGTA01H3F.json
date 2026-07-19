@@ -22,13 +22,39 @@
 324,
 327,
 366,
-365
+365,
+350,
+350,
+350,
+350,
+350,
+354,
+353,
+360,
+369,
+354,
+355
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria S.",
+"lastName": "Shibaeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,13 +78,39 @@
 167,
 169,
 249,
-253
+253,
+255,
+260,
+278,
+278,
+291,
+317,
+336,
+352,
+366,
+347,
+350
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samin",
+"lastName": "Shaaban Nejad Lajeva"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samin",
+"lastName": "Shaaban Nejad Lajeva"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Business"
 }

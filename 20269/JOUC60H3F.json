@@ -5,12 +5,20 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1784234377
+},
+{
+"newCapacity": 20,
+"time": 1784439518
+},
+{
+"newCapacity": 22,
+"time": 1788312168
 }
 ],
 "initialCap": 15
@@ -27,13 +35,39 @@
 16,
 18,
 18,
-19
+19,
+19,
+20,
+20,
+20,
+20,
+20,
+20,
+21,
+21,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -50,7 +84,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Diasporic Media"
 }

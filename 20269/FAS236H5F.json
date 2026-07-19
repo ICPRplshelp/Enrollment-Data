@@ -22,7 +22,18 @@
 3,
 3,
 5,
-5
+5,
+11,
+11,
+14,
+14,
+15,
+16,
+15,
+16,
+17,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 2,
 2,
 6,
-6
+6,
+11,
+11,
+12,
+12,
+12,
+14,
+11,
+12,
+12,
+13,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +102,22 @@
 }
 ],
 "timing": 1783783493
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Rowan",
+"lastName": "Lynch"
+}
+],
+"timing": 1788466516
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lauren",
-"lastName": "Wickware"
+"firstName": "Rowan",
+"lastName": "Lynch"
 }
 ],
 "isCancelled": false,
@@ -112,7 +143,18 @@
 6,
 6,
 10,
-10
+10,
+12,
+13,
+14,
+14,
+13,
+17,
+17,
+14,
+16,
+17,
+17
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,13 +167,22 @@
 }
 ],
 "timing": 1783783493
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Mahmoud",
+"lastName": "Ramezani"
+}
+],
+"timing": 1788466516
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jordyn",
-"lastName": "Stewart"
+"firstName": "Mahmoud",
+"lastName": "Ramezani"
 }
 ],
 "isCancelled": false,
@@ -150,7 +201,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Design I"
 }

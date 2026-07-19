@@ -1,0 +1,64 @@
+{
+"code": "CSC415H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1784695665,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+77,
+78,
+78,
+73,
+73,
+72
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ameya",
+"lastName": "Pore"
+}
+],
+"timing": 1786148704
+}
+]
+},
+"instructors": [
+{
+"firstName": "Ameya",
+"lastName": "Pore"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1784695664,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Introduction to Reinforcement Learning"
+}

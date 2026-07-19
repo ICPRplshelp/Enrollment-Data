@@ -22,13 +22,48 @@
 12,
 13,
 16,
-15
+15,
+15,
+21,
+21,
+21,
+24,
+24,
+24,
+25,
+25,
+25,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Loula",
+"lastName": "Abd-elrazak"
+}
+],
+"timing": 1786148704
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Brianna",
+"lastName": "Mullin"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Brianna",
+"lastName": "Mullin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +80,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Intermediate French IV"
 }

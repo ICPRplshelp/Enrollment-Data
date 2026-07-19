@@ -22,13 +22,39 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+12,
+31,
+25,
+25,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -52,13 +78,48 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+18,
+21,
+21,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher",
+"lastName": "Ramsaroop"
+}
+],
+"timing": 1786148704
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Lindsay",
+"lastName": "Cavanaugh"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Lindsay",
+"lastName": "Cavanaugh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5102"
 }
@@ -75,7 +136,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Community Engaged Learning: Critical and Creative Perspectives on the Non-Profit Sector"
 }

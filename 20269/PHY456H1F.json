@@ -5,9 +5,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 82,
+"enrollmentCap": 93,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 86,
+"time": 1786148704
+},
+{
+"newCapacity": 93,
+"time": 1788466516
+}
+],
 "initialCap": 82
 },
 "enrollmentLogs": [
@@ -22,7 +31,18 @@
 84,
 85,
 85,
-85
+85,
+85,
+86,
+86,
+86,
+89,
+92,
+91,
+93,
+93,
+93,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +70,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 6,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 6,
+"time": 1786148704
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -67,7 +92,18 @@
 9,
 9,
 9,
-9
+9,
+8,
+8,
+8,
+8,
+6,
+6,
+6,
+6,
+6,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +141,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Quantum Mechanics II"
 }

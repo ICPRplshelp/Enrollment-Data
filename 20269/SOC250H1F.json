@@ -5,9 +5,26 @@
 {
 "createdAt": 1781442026,
 "delivery": "SYNC",
-"enrollmentCap": 150,
+"enrollmentCap": 170,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 155,
+"time": 1786729205
+},
+{
+"newCapacity": 160,
+"time": 1787374227
+},
+{
+"newCapacity": 165,
+"time": 1788312168
+},
+{
+"newCapacity": 170,
+"time": 1788626451
+}
+],
 "initialCap": 150
 },
 "enrollmentLogs": [
@@ -22,7 +39,18 @@
 88,
 124,
 126,
-126
+126,
+134,
+142,
+148,
+148,
+155,
+158,
+165,
+170,
+175,
+173,
+177
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +88,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Sociology of Religion"
 }

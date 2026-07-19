@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1788312168
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 11,
 24,
 28,
-28
+28,
+30,
+30,
+29,
+29,
+29,
+31,
+33,
+32,
+29,
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +83,39 @@
 3,
 16,
 22,
-21
+21,
+25,
+21,
+20,
+20,
+23,
+26,
+25,
+24,
+25,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel Fernando",
+"lastName": "Pazmino Alvarez"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel Fernando",
+"lastName": "Pazmino Alvarez"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -96,6 +138,17 @@
 0,
 2,
 2,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -125,7 +178,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Spanish for Intermediate Speakers I"
 }

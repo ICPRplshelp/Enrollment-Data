@@ -22,7 +22,18 @@
 20,
 20,
 19,
-19
+19,
+19,
+18,
+18,
+18,
+18,
+18,
+18,
+17,
+16,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,13 +63,39 @@
 19,
 18,
 18,
-18
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+18,
+17,
+15,
+16,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joy",
+"lastName": "Fitzgibbon"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joy",
+"lastName": "Fitzgibbon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -76,6 +113,17 @@
 "initialCap": 16
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -117,13 +165,39 @@
 18,
 18,
 19,
-19
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+17,
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "LeRoux-Rutledge"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "LeRoux-Rutledge"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -140,7 +214,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Selected Topics in International Studies"
 }

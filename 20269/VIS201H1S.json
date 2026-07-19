@@ -27,13 +27,39 @@
 6,
 14,
 19,
-19
+19,
+18,
+17,
+18,
+18,
+20,
+22,
+22,
+22,
+26,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Katie",
+"lastName": "Lyle"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Katie",
+"lastName": "Lyle"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 }
@@ -50,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Painting: Methods & Materials"
 }

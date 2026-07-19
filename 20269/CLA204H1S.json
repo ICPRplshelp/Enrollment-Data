@@ -22,22 +22,53 @@
 217,
 333,
 491,
-506
+506,
+529,
+581,
+604,
+604,
+712,
+723,
+734,
+732,
+722,
+722,
+726
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jacob",
+"lastName": "Dvorak"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jacob",
+"lastName": "Dvorak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1787374227
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -52,22 +83,53 @@
 105,
 105,
 107,
-108
+108,
+109,
+109,
+113,
+113,
+60,
+60,
+59,
+59,
+59,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 240,
+"enrollmentCap": 242,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 242,
+"time": 1787374227
+}
+],
 "initialCap": 240
 },
 "enrollmentLogs": [
@@ -82,13 +144,39 @@
 26,
 56,
 143,
-147
+147,
+153,
+161,
+161,
+161,
+201,
+212,
+218,
+230,
+236,
+240,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -105,7 +193,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Classical Mythology"
 }

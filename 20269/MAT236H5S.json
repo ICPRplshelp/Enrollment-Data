@@ -22,7 +22,18 @@
 101,
 102,
 105,
-107
+107,
+122,
+122,
+121,
+121,
+118,
+115,
+117,
+111,
+112,
+111,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,13 +63,39 @@
 52,
 51,
 51,
-50
+50,
+53,
+54,
+57,
+57,
+65,
+71,
+80,
+79,
+88,
+88,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amir",
+"lastName": "Vig"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amir",
+"lastName": "Vig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -71,6 +108,17 @@
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -105,7 +153,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Calculus of Several Variables II"
 }

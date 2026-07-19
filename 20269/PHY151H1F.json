@@ -22,7 +22,18 @@
 5,
 26,
 459,
-475
+475,
+489,
+490,
+491,
+491,
+485,
+478,
+446,
+436,
+416,
+418,
+415
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -54,6 +65,70 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1786729205,
+"delivery": "ASYNC",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+35,
+42,
+51,
+53,
+57
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+},
+{
+"firstName": "Jason",
+"lastName": "Harlow"
+}
+],
+"timing": 1786729205
+}
+]
+},
+"instructors": [
+{
+"firstName": "Nicolas",
+"lastName": "Grisouard"
+},
+{
+"firstName": "Jason",
+"lastName": "Harlow"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -68,7 +143,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Foundations of Physics I"
 }

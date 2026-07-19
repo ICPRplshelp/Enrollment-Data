@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 1165,
+"enrollmentCap": 1173,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1173,
+"time": 1787374227
+}
+],
 "initialCap": 1165
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 47,
 59,
 852,
-885
+885,
+915,
+961,
+977,
+977,
+1014,
+1062,
+1084,
+1098,
+1091,
+1089,
+1087
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +83,18 @@
 7,
 10,
 267,
-271
+271,
+283,
+356,
+383,
+383,
+394,
+425,
+434,
+442,
+458,
+470,
+483
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +139,18 @@
 0,
 0,
 10,
-10
+10,
+10,
+12,
+13,
+13,
+16,
+17,
+16,
+16,
+15,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +178,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 10,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 2,
+"time": 1787374227
+}
+],
 "initialCap": 10
 },
 "enrollmentLogs": [
@@ -157,7 +200,18 @@
 7,
 7,
 7,
-7
+7,
+7,
+7,
+8,
+8,
+4,
+2,
+2,
+2,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,6 +256,17 @@
 0,
 0,
 1,
+2,
+3,
+2,
+2,
+2,
+2,
+1,
+1,
+1,
+1,
+1,
 2
 ],
 "instructorLog": {
@@ -240,7 +305,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Sociology I: Sociological Perspectives"
 }

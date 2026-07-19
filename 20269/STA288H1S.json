@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "HYBR",
-"enrollmentCap": 200,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1788312168
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 57,
 294,
 304,
-305
+305,
+268,
+268,
+262,
+262,
+262,
+262,
+254,
+255,
+209,
+208,
+208
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -56,11 +72,57 @@
 "meetingNumber": "LEC0101"
 },
 {
-"createdAt": 1781442026,
+"createdAt": 1788312168,
 "delivery": "HYBR",
-"enrollmentCap": 200,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
 "capChanges": [],
+"initialCap": 180
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+60,
+68,
+71
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1781442026,
+"delivery": "HYBR",
+"enrollmentCap": 180,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1788312168
+}
+],
 "initialCap": 200
 },
 "enrollmentLogs": [
@@ -75,7 +137,18 @@
 31,
 227,
 249,
-251
+251,
+236,
+241,
+240,
+240,
+240,
+239,
+230,
+234,
+190,
+190,
+190
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -121,7 +194,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Statistics and Scientific Inquiry in the Life Sciences"
 }

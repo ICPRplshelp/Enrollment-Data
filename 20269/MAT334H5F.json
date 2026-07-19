@@ -22,13 +22,39 @@
 61,
 60,
 56,
-56
+56,
+68,
+69,
+70,
+70,
+66,
+74,
+75,
+72,
+72,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexander",
+"lastName": "Wang"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alexander",
+"lastName": "Wang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 7,
 10,
 6,
-6
+6,
+9,
+9,
+10,
+10,
+11,
+12,
+18,
+21,
+23,
+21,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Complex Variables"
 }

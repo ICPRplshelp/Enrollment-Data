@@ -22,7 +22,18 @@
 63,
 64,
 82,
-82
+82,
+77,
+77,
+77,
+77,
+77,
+76,
+71,
+69,
+68,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 63,
 63,
 77,
-77
+77,
+75,
+75,
+75,
+75,
+72,
+69,
+66,
+64,
+63,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,13 +134,39 @@
 61,
 61,
 75,
-75
+75,
+74,
+74,
+74,
+74,
+74,
+72,
+68,
+66,
+64,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sujaykumar",
+"lastName": "Vardhmane"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sujaykumar",
+"lastName": "Vardhmane"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
@@ -131,6 +179,17 @@
 "initialCap": 60
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -172,7 +231,18 @@
 61,
 62,
 71,
-71
+71,
+69,
+68,
+68,
+68,
+67,
+67,
+66,
+62,
+61,
+54,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -210,7 +280,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Human Resource Management"
 }

@@ -22,13 +22,47 @@
 293,
 1360,
 1366,
-1375
+1375,
+1384,
+1410,
+1415,
+1415,
+1436,
+1448,
+1449,
+1451,
+1440,
+1440,
+1439
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sian",
+"lastName": "Patterson"
 },
-"instructors": [],
+{
+"firstName": "Jason",
+"lastName": "De Melo"
+}
+],
+"timing": 1786148704
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sian",
+"lastName": "Patterson"
+},
+{
+"firstName": "Jason",
+"lastName": "De Melo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +79,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Biochemistry I: Proteins, Lipids and Metabolism"
 }

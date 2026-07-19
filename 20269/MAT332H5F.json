@@ -27,13 +27,39 @@
 94,
 94,
 95,
-95
+95,
+105,
+106,
+108,
+108,
+107,
+115,
+117,
+116,
+110,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giovanni",
+"lastName": "Canestrari"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Giovanni",
+"lastName": "Canestrari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -50,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Nonlinear Dynamics and Chaos"
 }

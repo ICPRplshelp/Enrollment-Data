@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 282,
+"enrollmentCap": 283,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 283,
+"time": 1787374227
+}
+],
 "initialCap": 282
 },
 "enrollmentLogs": [
@@ -22,22 +27,53 @@
 12,
 158,
 158,
-158
+158,
+158,
+252,
+265,
+265,
+269,
+270,
+276,
+279,
+278,
+279,
+279
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 3,
+"enrollmentCap": 1,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1,
+"time": 1787374227
+}
+],
 "initialCap": 3
 },
 "enrollmentLogs": [
@@ -52,13 +88,39 @@
 2,
 2,
 2,
-2
+2,
+2,
+2,
+2,
+2,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "Arnot"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -75,7 +137,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Pharmacology and Pharmacokinetic Principles"
 }

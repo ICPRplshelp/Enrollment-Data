@@ -22,13 +22,47 @@
 41,
 43,
 45,
-45
+45,
+46,
+44,
+46,
+46,
+44,
+45,
+44,
+46,
+45,
+44,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Todd",
+"lastName": "Orrett"
 },
-"instructors": [],
+{
+"firstName": "Nick",
+"lastName": "Charters"
+}
+],
+"timing": 1788466516
+}
+]
+},
+"instructors": [
+{
+"firstName": "Todd",
+"lastName": "Orrett"
+},
+{
+"firstName": "Nick",
+"lastName": "Charters"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +79,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Reserving Methods For Property & Casualty Insurance"
 }

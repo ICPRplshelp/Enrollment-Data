@@ -22,7 +22,18 @@
 46,
 46,
 244,
-242
+242,
+239,
+240,
+240,
+240,
+240,
+237,
+237,
+233,
+234,
+231,
+233
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 8,
 8,
 125,
-132
+132,
+146,
+147,
+148,
+148,
+157,
+166,
+171,
+176,
+177,
+167,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Tatiana",
+"lastName": "Hessami Pilehrood"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Techniques of the Calculus of Several Variables I"
 }

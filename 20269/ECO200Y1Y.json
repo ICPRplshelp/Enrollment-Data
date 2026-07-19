@@ -22,7 +22,18 @@
 16,
 56,
 55,
-55
+55,
+57,
+100,
+108,
+108,
+111,
+117,
+126,
+123,
+120,
+108,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 38,
 128,
 133,
-133
+133,
+134,
+178,
+178,
+178,
+181,
+186,
+184,
+185,
+180,
+178,
+179
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -97,7 +134,18 @@
 10,
 31,
 34,
-34
+34,
+36,
+75,
+80,
+80,
+82,
+86,
+88,
+86,
+88,
+81,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +190,18 @@
 7,
 20,
 20,
-20
+20,
+21,
+48,
+50,
+50,
+51,
+56,
+58,
+59,
+64,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -187,13 +246,39 @@
 20,
 70,
 76,
-76
+76,
+76,
+139,
+152,
+152,
+159,
+162,
+167,
+170,
+172,
+169,
+170
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Anjomshoa"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -210,7 +295,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Microeconomic Theory"
 }

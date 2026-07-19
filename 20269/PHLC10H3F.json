@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1788312168
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 46,
 47,
 66,
-66
+66,
+67,
+66,
+66,
+66,
+67,
+71,
+76,
+81,
+86,
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Topics in Bioethics"
 }

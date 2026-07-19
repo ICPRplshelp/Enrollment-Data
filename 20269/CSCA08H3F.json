@@ -22,7 +22,18 @@
 65,
 65,
 74,
-75
+75,
+109,
+109,
+108,
+108,
+109,
+109,
+108,
+111,
+108,
+107,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 105,
 105,
 107,
-108
+108,
+120,
+121,
+120,
+120,
+120,
+122,
+120,
+117,
+115,
+111,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +102,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Edward",
-"lastName": "Lee"
+"firstName": "Purva Rajendra",
+"lastName": "Gawde"
 }
 ],
 "isCancelled": false,
@@ -112,7 +143,18 @@
 76,
 76,
 88,
-87
+87,
+108,
+108,
+108,
+108,
+107,
+109,
+110,
+110,
+107,
+106,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +199,18 @@
 17,
 17,
 24,
-25
+25,
+42,
+44,
+49,
+49,
+52,
+63,
+69,
+76,
+80,
+74,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,13 +223,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Purva Rajendra",
-"lastName": "Gawde"
+"firstName": "Yiqing Irene",
+"lastName": "Huang"
 }
 ],
 "isCancelled": false,
@@ -202,7 +264,18 @@
 42,
 42,
 46,
-46
+46,
+69,
+73,
+76,
+76,
+80,
+84,
+88,
+96,
+101,
+100,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +320,18 @@
 57,
 57,
 67,
-68
+68,
+100,
+101,
+105,
+105,
+105,
+105,
+105,
+106,
+105,
+103,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,13 +344,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Edward",
+"lastName": "Lee"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Yiqing Irene",
-"lastName": "Huang"
+"firstName": "Edward",
+"lastName": "Lee"
 }
 ],
 "isCancelled": false,
@@ -285,7 +378,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Computer Science I"
 }

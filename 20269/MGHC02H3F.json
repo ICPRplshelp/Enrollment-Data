@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1786729205
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -22,22 +27,53 @@
 21,
 21,
 44,
-45
+45,
+45,
+45,
+47,
+47,
+46,
+46,
+44,
+43,
+43,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1786729205
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -52,7 +88,18 @@
 56,
 56,
 60,
-60
+60,
+57,
+57,
+57,
+57,
+54,
+55,
+54,
+52,
+47,
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +127,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1786729205
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -97,22 +149,53 @@
 34,
 35,
 49,
-49
+49,
+49,
+49,
+48,
+48,
+47,
+45,
+46,
+44,
+43,
+42,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC03"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1786729205
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -127,22 +210,53 @@
 14,
 13,
 44,
-44
+44,
+44,
+44,
+45,
+45,
+45,
+47,
+43,
+45,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Clara",
+"lastName": "Addo-Bekoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC04"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1786729205
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -157,13 +271,39 @@
 9,
 9,
 31,
-30
+30,
+31,
+29,
+30,
+30,
+34,
+36,
+37,
+35,
+37,
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shraddha",
+"lastName": "Wilfred"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC05"
 }
@@ -180,7 +320,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Management Skills"
 }

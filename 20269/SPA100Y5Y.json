@@ -22,13 +22,39 @@
 13,
 13,
 33,
+34,
+36,
+35,
+36,
+36,
+39,
+36,
+39,
+37,
+36,
+32,
 34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 10,
 10,
 25,
-25
+25,
+32,
+32,
+34,
+34,
+31,
+33,
+33,
+38,
+35,
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +134,39 @@
 3,
 3,
 18,
+20,
+19,
+18,
+19,
+19,
+16,
+15,
+16,
+16,
+19,
+20,
 20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aga",
+"lastName": "Bijos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -105,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Spanish for Beginners"
 }

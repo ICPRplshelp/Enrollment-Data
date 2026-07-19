@@ -27,7 +27,18 @@
 311,
 320,
 331,
-332
+332,
+333,
+335,
+333,
+333,
+332,
+330,
+333,
+328,
+304,
+306,
+306
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -40,6 +51,19 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Paul Howard",
+"lastName": "Harrison"
+},
+{
+"firstName": "Sean Nicholas",
+"lastName": "Lamb"
+}
+],
+"timing": 1788466516
 }
 ]
 },
@@ -47,6 +71,10 @@
 {
 "firstName": "Paul Howard",
 "lastName": "Harrison"
+},
+{
+"firstName": "Sean Nicholas",
+"lastName": "Lamb"
 }
 ],
 "isCancelled": false,
@@ -65,7 +93,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Computation and Design"
 }

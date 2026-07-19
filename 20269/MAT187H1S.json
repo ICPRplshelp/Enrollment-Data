@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 168,
 168,
 167,
-167
+167,
+166,
+166,
+166,
+166,
+167,
+166,
+166,
+165,
+165,
+153,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,9 +51,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 223,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 223,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -52,7 +73,18 @@
 225,
 225,
 224,
-224
+224,
+224,
+224,
+224,
+224,
+225,
+223,
+223,
+218,
+211,
+196,
+195
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +112,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 246,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 246,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -97,7 +134,18 @@
 245,
 245,
 244,
-243
+243,
+243,
+243,
+244,
+244,
+244,
+244,
+245,
+242,
+236,
+220,
+220
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +173,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 261,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 261,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -142,7 +195,18 @@
 266,
 266,
 266,
-266
+266,
+264,
+264,
+264,
+264,
+264,
+262,
+260,
+257,
+253,
+239,
+241
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,9 +234,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 223,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 223,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -187,7 +256,18 @@
 226,
 226,
 224,
-225
+225,
+224,
+224,
+223,
+223,
+224,
+222,
+222,
+217,
+214,
+201,
+202
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,9 +295,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 222,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 222,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -232,7 +317,18 @@
 228,
 227,
 227,
-225
+225,
+225,
+225,
+224,
+224,
+222,
+221,
+222,
+220,
+216,
+200,
+198
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -270,7 +366,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Calculus II"
 }

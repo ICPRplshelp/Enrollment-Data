@@ -5,7 +5,7 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 26,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 26,
 "time": 1783375107
+},
+{
+"newCapacity": 25,
+"time": 1785194573
 }
 ],
 "initialCap": 0
@@ -31,20 +35,46 @@
 27,
 28,
 28,
-29
+29,
+31,
+31,
+27,
+27,
+28,
+27,
+29,
+28,
+23,
+21,
+21
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "June",
+"lastName": "Pak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 26,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -54,6 +84,10 @@
 {
 "newCapacity": 26,
 "time": 1783375107
+},
+{
+"newCapacity": 25,
+"time": 1785689566
 }
 ],
 "initialCap": 0
@@ -70,13 +104,39 @@
 26,
 27,
 27,
-27
+27,
+28,
+28,
+26,
+26,
+26,
+23,
+26,
+26,
+21,
+23,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Helen Liene",
+"lastName": "Dreifelds"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Helen Liene",
+"lastName": "Dreifelds"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -93,7 +153,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Visual Strategies"
 }

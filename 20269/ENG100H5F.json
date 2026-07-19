@@ -22,7 +22,18 @@
 33,
 32,
 102,
-101
+101,
+107,
+107,
+105,
+105,
+105,
+116,
+122,
+122,
+126,
+120,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 33,
 34,
 95,
-102
+102,
+109,
+112,
+112,
+112,
+113,
+119,
+120,
+123,
+125,
+118,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +134,18 @@
 17,
 17,
 70,
-76
+76,
+82,
+84,
+88,
+88,
+99,
+101,
+108,
+102,
+107,
+101,
+99
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,13 +190,39 @@
 97,
 96,
 128,
-126
+126,
+128,
+130,
+126,
+126,
+120,
+124,
+122,
+123,
+121,
+117,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joseph Scott",
+"lastName": "McLaughlin"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joseph Scott",
+"lastName": "McLaughlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -180,7 +239,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Effective Writing"
 }

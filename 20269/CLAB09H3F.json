@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 14,
+"enrollmentCap": 12,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 12,
+"time": 1784439518
+}
+],
 "initialCap": 14
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 7,
 7,
 10,
-10
+10,
+12,
+12,
+12,
+12,
+12,
+12,
+13,
+13,
+12,
+12,
+11
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,13 +51,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Drew",
+"lastName": "Davis"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Suleyman",
-"lastName": "Dost"
+"firstName": "Drew",
+"lastName": "Davis"
 }
 ],
 "isCancelled": false,
@@ -60,7 +85,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Between Two Empires: The World of Late Antiquity"
 }

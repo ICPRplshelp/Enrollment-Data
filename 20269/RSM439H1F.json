@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1788312168
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 63,
 63,
 63,
-62
+62,
+62,
+67,
+67,
+67,
+64,
+63,
+62,
+62,
+62,
+61,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +83,18 @@
 35,
 35,
 35,
-35
+35,
+32,
+38,
+42,
+42,
+44,
+46,
+47,
+43,
+43,
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +139,18 @@
 25,
 25,
 25,
-25
+25,
+24,
+24,
+24,
+24,
+25,
+24,
+24,
+24,
+24,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +195,18 @@
 20,
 20,
 20,
-20
+20,
+19,
+23,
+23,
+23,
+24,
+24,
+24,
+24,
+22,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +244,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Private Equity and Entrepreneurial Finance"
 }

@@ -22,7 +22,18 @@
 64,
 131,
 162,
-166
+166,
+165,
+289,
+308,
+308,
+307,
+309,
+310,
+322,
+329,
+331,
+332
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 47,
 88,
 103,
-105
+105,
+113,
+213,
+228,
+228,
+254,
+291,
+305,
+317,
+320,
+323,
+326
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Berntson"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Berntson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -97,13 +134,39 @@
 34,
 56,
 81,
-84
+84,
+91,
+214,
+227,
+227,
+224,
+225,
+233,
+233,
+227,
+231,
+228
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Berntson"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Berntson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -120,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Modern Symbolic Logic"
 }

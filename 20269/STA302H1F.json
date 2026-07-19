@@ -22,7 +22,18 @@
 172,
 185,
 192,
-192
+192,
+186,
+174,
+183,
+183,
+182,
+179,
+179,
+183,
+174,
+166,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 176,
 192,
 200,
-201
+201,
+171,
+172,
+175,
+175,
+174,
+181,
+179,
+176,
+167,
+169,
+166
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +117,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 225,
+"enrollmentCap": 240,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 240,
+"time": 1787374227
+}
+],
 "initialCap": 225
 },
 "enrollmentLogs": [
@@ -112,7 +139,18 @@
 185,
 199,
 204,
-206
+206,
+181,
+192,
+190,
+190,
+197,
+208,
+210,
+207,
+198,
+199,
+201
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,6 +195,17 @@
 5,
 5,
 5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
+5,
 5
 ],
 "instructorLog": {
@@ -185,9 +234,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 15,
+"time": 1787374227
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -202,7 +256,18 @@
 16,
 16,
 16,
-16
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+15,
+15,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +312,18 @@
 269,
 278,
 286,
-287
+287,
+254,
+263,
+265,
+265,
+265,
+265,
+265,
+266,
+254,
+252,
+254
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -285,7 +361,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Methods of Data Analysis I"
 }

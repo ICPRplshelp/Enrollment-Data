@@ -22,13 +22,39 @@
 45,
 128,
 140,
-141
+141,
+144,
+161,
+168,
+168,
+168,
+170,
+169,
+179,
+186,
+184,
+184
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Polina",
+"lastName": "Baron"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Polina",
+"lastName": "Baron"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 62,
 170,
 188,
-191
+191,
+191,
+191,
+197,
+197,
+200,
+216,
+222,
+225,
+223,
+219,
+219
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +117,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 165,
+"enrollmentCap": 185,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 185,
+"time": 1787374227
+}
+],
 "initialCap": 165
 },
 "enrollmentLogs": [
@@ -97,7 +139,18 @@
 106,
 187,
 188,
-188
+188,
+188,
+195,
+196,
+196,
+196,
+194,
+194,
+195,
+194,
+187,
+189
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +195,18 @@
 63,
 160,
 180,
-181
+181,
+181,
+191,
+199,
+199,
+201,
+201,
+203,
+201,
+196,
+196,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,7 +244,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Ordinary Differential Equations"
 }

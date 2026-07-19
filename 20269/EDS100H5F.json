@@ -22,13 +22,39 @@
 0,
 0,
 101,
-99
+99,
+142,
+151,
+155,
+155,
+165,
+171,
+179,
+190,
+206,
+201,
+203
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 0,
 0,
 80,
-84
+84,
+108,
+115,
+121,
+121,
+125,
+124,
+129,
+135,
+148,
+140,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +134,39 @@
 0,
 0,
 47,
-47
+47,
+61,
+61,
+61,
+61,
+69,
+75,
+85,
+91,
+92,
+93,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ilan",
+"lastName": "Danjoux"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -105,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Education Studies"
 }

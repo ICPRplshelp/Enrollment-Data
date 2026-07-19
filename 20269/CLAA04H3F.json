@@ -5,9 +5,38 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 126,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 136,
+"time": 1784439518
+},
+{
+"newCapacity": 130,
+"time": 1784695665
+},
+{
+"newCapacity": 133,
+"time": 1785194573
+},
+{
+"newCapacity": 140,
+"time": 1786148704
+},
+{
+"newCapacity": 150,
+"time": 1787374227
+},
+{
+"newCapacity": 157,
+"time": 1788312168
+},
+{
+"newCapacity": 161,
+"time": 1788466516
+}
+],
 "initialCap": 126
 },
 "enrollmentLogs": [
@@ -22,7 +51,18 @@
 79,
 81,
 116,
-119
+119,
+122,
+123,
+128,
+128,
+132,
+136,
+143,
+149,
+160,
+155,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +100,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "The Ancient Mediterranean World"
 }

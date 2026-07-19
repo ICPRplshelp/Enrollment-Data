@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 124,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 124,
+"time": 1787374227
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 39,
 39,
 38,
-38
+38,
+38,
+50,
+53,
+53,
+56,
+63,
+60,
+58,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 122,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 122,
+"time": 1787374227
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 59,
 62,
 65,
-64
+64,
+63,
+75,
+79,
+79,
+80,
+97,
+102,
+105,
+103,
+102,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,14 +127,30 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 1,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
 0,
 0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
 1,
 1,
 1,
@@ -140,9 +188,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -157,7 +210,18 @@
 3,
 3,
 3,
-3
+3,
+3,
+3,
+3,
+3,
+3,
+3,
+2,
+4,
+4,
+4,
+4
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +259,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "The Design of Interactive Computational Media"
 }

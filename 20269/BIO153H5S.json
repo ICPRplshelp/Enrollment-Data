@@ -22,13 +22,39 @@
 9,
 8,
 360,
-364
+364,
+403,
+407,
+407,
+407,
+418,
+431,
+442,
+452,
+456,
+447,
+447
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 9,
 10,
 401,
-406
+406,
+483,
+489,
+496,
+496,
+500,
+501,
+500,
+500,
+499,
+492,
+497
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christoph",
+"lastName": "Richter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Diversity of Organisms"
 }

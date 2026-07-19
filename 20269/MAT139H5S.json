@@ -22,7 +22,18 @@
 13,
 13,
 124,
-126
+126,
+148,
+149,
+149,
+149,
+153,
+152,
+156,
+156,
+155,
+142,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 7,
 7,
 118,
-120
+120,
+132,
+132,
+132,
+132,
+137,
+135,
+136,
+143,
+143,
+133,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +134,18 @@
 10,
 9,
 115,
-116
+116,
+131,
+132,
+133,
+133,
+137,
+137,
+143,
+145,
+143,
+134,
+133
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,6 +190,17 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -187,13 +231,39 @@
 2,
 2,
 104,
-105
+105,
+123,
+124,
+125,
+125,
+125,
+127,
+131,
+137,
+138,
+132,
+130
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ood",
+"lastName": "Shabtai"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ood",
+"lastName": "Shabtai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
@@ -217,13 +287,39 @@
 2,
 2,
 104,
-105
+105,
+124,
+124,
+125,
+125,
+126,
+127,
+133,
+139,
+135,
+133,
+131
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ood",
+"lastName": "Shabtai"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ood",
+"lastName": "Shabtai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 }
@@ -240,7 +336,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Integral Calculus for Mathematical Sciences"
 }

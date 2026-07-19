@@ -22,13 +22,47 @@
 165,
 196,
 201,
-203
+203,
+206,
+231,
+235,
+235,
+237,
+239,
+238,
+237,
+238,
+238,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
 },
-"instructors": [],
+{
+"firstName": "Felix",
+"lastName": "Gunawan"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Naijin",
+"lastName": "Li"
+},
+{
+"firstName": "Felix",
+"lastName": "Gunawan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +79,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Stem Cell Biology: Developmental Models and Cell- based Therapeutics"
 }

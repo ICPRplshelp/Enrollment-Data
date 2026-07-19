@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 175,
+"enrollmentCap": 178,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 178,
+"time": 1787374227
+}
+],
 "initialCap": 175
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 118,
 134,
 134,
-135
+135,
+137,
+143,
+142,
+142,
+142,
+145,
+150,
+156,
+149,
+148,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +83,18 @@
 152,
 165,
 169,
-171
+171,
+172,
+175,
+176,
+176,
+178,
+181,
+177,
+178,
+177,
+175,
+176
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +122,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 2,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 2,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -106,6 +138,17 @@
 0,
 0,
 0,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
 2,
 2,
 2,
@@ -150,7 +193,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Groups and Symmetries"
 }

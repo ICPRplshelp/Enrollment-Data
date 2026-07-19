@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1788312168
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 17,
 26,
 37,
-37
+37,
+38,
+36,
+38,
+38,
+38,
+40,
+41,
+42,
+40,
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,13 +51,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Alexandra",
+"lastName": "Calzavara"
+}
+],
+"timing": 1788626451
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Joseph",
-"lastName": "Berkovitz"
+"firstName": "Alexandra",
+"lastName": "Calzavara"
 }
 ],
 "isCancelled": false,
@@ -60,7 +85,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Science, Paradoxes, and Knowledge"
 }

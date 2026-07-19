@@ -22,13 +22,39 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+82,
+74,
+76,
+76,
+75,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Akshay",
+"lastName": "Gadi Patil"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Akshay",
+"lastName": "Gadi Patil"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 186,
 185,
 184,
-183
+183,
+196,
+198,
+198,
+198,
+205,
+92,
+78,
+77,
+78,
+76,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,6 +113,62 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
+},
+{
+"createdAt": 1786148704,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+41,
+67,
+71,
+72,
+73,
+73
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"timing": 1786729205
+}
+]
+},
+"instructors": [
+{
+"firstName": "Randy",
+"lastName": "Hickey"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0103"
 }
 ],
 "timeIntervals": [
@@ -90,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Neural Networks and Deep Learning"
 }

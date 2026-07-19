@@ -5,7 +5,7 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 126,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 130,
 "time": 1783375107
+},
+{
+"newCapacity": 126,
+"time": 1784439518
 }
 ],
 "initialCap": 126
@@ -31,13 +35,47 @@
 123,
 123,
 123,
-123
+123,
+122,
+122,
+122,
+122,
+122,
+122,
+122,
+122,
+123,
+122,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Florence",
+"lastName": "Udenby"
 },
-"instructors": [],
+{
+"firstName": "Omar Ali Abdallah",
+"lastName": "Abdelazeem"
+}
+],
+"timing": 1788466516
+}
+]
+},
+"instructors": [
+{
+"firstName": "Florence",
+"lastName": "Udenby"
+},
+{
+"firstName": "Omar Ali Abdallah",
+"lastName": "Abdelazeem"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -54,7 +92,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Municipal Engineering"
 }

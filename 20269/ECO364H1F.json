@@ -27,6 +27,17 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -57,13 +68,39 @@
 100,
 103,
 103,
-104
+104,
+104,
+119,
+123,
+123,
+125,
+124,
+122,
+120,
+121,
+122,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amatus",
+"lastName": "Jafri"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amatus",
+"lastName": "Jafri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -87,13 +124,39 @@
 122,
 123,
 122,
-121
+121,
+121,
+121,
+126,
+126,
+130,
+129,
+120,
+122,
+122,
+122,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amatus",
+"lastName": "Jafri"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amatus",
+"lastName": "Jafri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -110,7 +173,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "International Trade Theory"
 }

@@ -22,13 +22,48 @@
 318,
 385,
 414,
-413
+413,
+410,
+398,
+399,
+399,
+400,
+405,
+404,
+399,
+388,
+385,
+384
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dennis",
+"lastName": "Lee"
+}
+],
+"timing": 1785689566
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Brown"
+}
+],
+"timing": 1788626451
+}
+]
+},
+"instructors": [
+{
+"firstName": "Hannah",
+"lastName": "Brown"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +80,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "The World of Popular Music"
 }

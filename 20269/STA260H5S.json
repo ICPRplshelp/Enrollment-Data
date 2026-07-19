@@ -22,7 +22,18 @@
 166,
 165,
 165,
-166
+166,
+160,
+161,
+160,
+160,
+160,
+160,
+161,
+160,
+162,
+159,
+159
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 103,
 106,
 122,
-127
+127,
+137,
+137,
+143,
+143,
+146,
+157,
+160,
+160,
+162,
+155,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,13 +134,39 @@
 109,
 111,
 114,
-114
+114,
+124,
+125,
+124,
+124,
+129,
+131,
+142,
+156,
+158,
+155,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Isaac",
+"lastName": "Gibbs"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Isaac",
+"lastName": "Gibbs"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -135,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Probability and Statistics II"
 }

@@ -1,0 +1,58 @@
+{
+"code": "DRM491H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1785689566,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+2,
+2,
+2,
+2,
+2,
+2,
+2
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Banuta",
+"lastName": "Rubess"
+}
+],
+"timing": 1786148704
+}
+]
+},
+"instructors": [
+{
+"firstName": "Banuta",
+"lastName": "Rubess"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1785689565,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Independent Studies in Drama, Theatre and Performance Studies"
+}

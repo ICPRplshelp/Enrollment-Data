@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 61,
 61,
 61,
-61
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+62,
+62,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,9 +51,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 168,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 168,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -52,7 +73,18 @@
 168,
 168,
 167,
-166
+166,
+166,
+166,
+166,
+166,
+166,
+166,
+167,
+167,
+162,
+151,
+151
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +112,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 152,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 152,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -97,7 +134,18 @@
 154,
 154,
 154,
-155
+155,
+154,
+154,
+154,
+154,
+154,
+153,
+152,
+151,
+148,
+140,
+142
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +173,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 128,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 128,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -142,7 +195,18 @@
 129,
 129,
 129,
-129
+129,
+129,
+129,
+129,
+129,
+129,
+128,
+128,
+126,
+123,
+117,
+116
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,9 +234,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 161,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 161,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -187,7 +256,18 @@
 166,
 166,
 164,
-164
+164,
+163,
+163,
+163,
+163,
+163,
+161,
+161,
+158,
+157,
+146,
+147
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,9 +295,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 145,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 145,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -232,7 +317,18 @@
 147,
 147,
 147,
-146
+146,
+146,
+146,
+145,
+145,
+145,
+144,
+145,
+145,
+143,
+136,
+136
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,9 +356,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 140,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 140,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -277,7 +378,18 @@
 142,
 141,
 141,
-140
+140,
+140,
+140,
+140,
+140,
+139,
+139,
+140,
+140,
+137,
+126,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -315,7 +427,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Electrical Fundamentals"
 }

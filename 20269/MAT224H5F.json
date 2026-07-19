@@ -27,7 +27,18 @@
 102,
 102,
 108,
-110
+110,
+108,
+109,
+110,
+110,
+111,
+114,
+115,
+114,
+118,
+111,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,12 +66,28 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1786729205
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -79,7 +106,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0102"
 }
 ],
@@ -95,7 +122,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Linear Algebra II"
 }

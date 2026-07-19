@@ -1,0 +1,50 @@
+{
+"code": "MGT401H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anthony",
+"lastName": "Wensley"
+}
+],
+"timing": 1788626451
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anthony",
+"lastName": "Wensley"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1788312167,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Supervised Reading Course on an Approved Subject"
+}

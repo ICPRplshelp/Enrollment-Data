@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 80,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 70,
 "time": 1784234377
+},
+{
+"newCapacity": 80,
+"time": 1787374227
 }
 ],
 "initialCap": 50
@@ -27,7 +31,18 @@
 72,
 73,
 78,
-81
+81,
+82,
+83,
+85,
+85,
+85,
+83,
+82,
+82,
+89,
+85,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,7 +80,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Interactive Storytelling and Worldmaking"
 }

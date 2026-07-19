@@ -22,13 +22,39 @@
 30,
 247,
 269,
-269
+269,
+237,
+243,
+241,
+241,
+238,
+234,
+234,
+223,
+222,
+222,
+221
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kagba",
+"lastName": "Suaray"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kagba",
+"lastName": "Suaray"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 31,
 200,
 217,
-218
+218,
+200,
+234,
+228,
+228,
+230,
+227,
+228,
+220,
+226,
+225,
+223
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kagba",
+"lastName": "Suaray"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kagba",
+"lastName": "Suaray"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -82,7 +134,18 @@
 20,
 147,
 161,
-165
+165,
+138,
+166,
+177,
+177,
+188,
+202,
+208,
+194,
+209,
+218,
+221
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -127,7 +190,18 @@
 16,
 202,
 211,
-210
+210,
+174,
+220,
+220,
+220,
+222,
+220,
+220,
+213,
+221,
+220,
+222
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,7 +246,18 @@
 15,
 108,
 121,
-120
+120,
+76,
+109,
+113,
+113,
+114,
+124,
+124,
+111,
+115,
+117,
+122
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,7 +302,18 @@
 12,
 123,
 135,
-138
+138,
+88,
+122,
+136,
+136,
+139,
+150,
+152,
+146,
+158,
+159,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -255,7 +351,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Probability, Statistics and Data Analysis I"
 }

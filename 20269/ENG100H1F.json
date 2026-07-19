@@ -22,7 +22,18 @@
 2,
 9,
 190,
-194
+194,
+198,
+287,
+298,
+298,
+318,
+323,
+324,
+327,
+318,
+316,
+315
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 0,
 0,
 88,
-94
+94,
+100,
+136,
+145,
+145,
+166,
+169,
+172,
+174,
+166,
+166,
+163
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
+"timing": 1784695665
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nicole",
+"lastName": "Dufoe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 }
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Effective Writing"
 }

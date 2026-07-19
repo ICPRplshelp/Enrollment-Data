@@ -22,13 +22,39 @@
 12,
 13,
 217,
-223
+223,
+347,
+359,
+364,
+364,
+377,
+395,
+400,
+401,
+400,
+391,
+389
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nahoko",
+"lastName": "Kameo"
+}
+],
+"timing": 1788466516
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nahoko",
+"lastName": "Kameo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 6,
 6,
 76,
-80
+80,
+138,
+145,
+151,
+151,
+166,
+179,
+193,
+213,
+220,
+213,
+211
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nahoko",
+"lastName": "Kameo"
+}
+],
+"timing": 1788466516
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nahoko",
+"lastName": "Kameo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Rhetoric and Media"
 }

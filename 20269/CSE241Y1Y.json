@@ -22,13 +22,52 @@
 18,
 31,
 34,
-35
+35,
+35,
+35,
+37,
+37,
+40,
+39,
+40,
+39,
+40,
+43,
+44
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anne",
+"lastName": "McGuire"
 },
-"instructors": [],
+{
+"firstName": "Aparna",
+"lastName": "Menon"
+}
+],
+"timing": 1786148704
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Anne",
+"lastName": "McGuire"
+}
+],
+"timing": 1787374227
+}
+]
+},
+"instructors": [
+{
+"firstName": "Anne",
+"lastName": "McGuire"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +84,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Critical Disability Studies"
 }

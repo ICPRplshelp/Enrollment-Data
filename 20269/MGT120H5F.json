@@ -22,13 +22,39 @@
 1,
 1,
 36,
-40
+40,
+59,
+63,
+71,
+71,
+94,
+108,
+117,
+121,
+121,
+112,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 2,
 2,
 82,
-84
+84,
+124,
+125,
+126,
+126,
+135,
+127,
+124,
+121,
+120,
+116,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +134,39 @@
 0,
 0,
 38,
-38
+38,
+53,
+53,
+57,
+57,
+64,
+73,
+80,
+91,
+108,
+104,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 },
@@ -112,13 +190,39 @@
 1,
 1,
 56,
-57
+57,
+85,
+86,
+89,
+89,
+108,
+120,
+120,
+123,
+120,
+118,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Catherine",
+"lastName": "Seguin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -135,7 +239,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Financial Accounting"
 }

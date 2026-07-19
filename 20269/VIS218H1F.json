@@ -27,13 +27,48 @@
 22,
 26,
 29,
-29
+29,
+28,
+27,
+28,
+28,
+28,
+27,
+27,
+28,
+25,
+25,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zinnia",
+"lastName": "Naqvi"
+}
+],
+"timing": 1787374227
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -62,13 +97,48 @@
 13,
 16,
 16,
-16
+16,
+13,
+13,
+12,
+12,
+12,
+13,
+13,
+15,
+14,
+15,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sam",
+"lastName": "Cotter"
+}
+],
+"timing": 1787374227
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Zinnia",
+"lastName": "Naqvi"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Zinnia",
+"lastName": "Naqvi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -85,7 +155,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Photobased (Digital)"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 104,
+"time": 1784695665
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 111,
 111,
 112,
-112
+112,
+110,
+109,
+108,
+108,
+108,
+108,
+110,
+111,
+107,
+104,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 104,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 104,
+"time": 1784695665
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 111,
 110,
 110,
-110
+110,
+107,
+106,
+107,
+107,
+109,
+106,
+108,
+109,
+108,
+108,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +137,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Operating Systems"
 }

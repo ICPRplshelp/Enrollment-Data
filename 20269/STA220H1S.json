@@ -22,13 +22,39 @@
 23,
 112,
 135,
-134
+134,
+138,
+134,
+134,
+134,
+138,
+136,
+138,
+137,
+141,
+142,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yidan",
+"lastName": "Cui"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yidan",
+"lastName": "Cui"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 52,
 146,
 168,
-170
+170,
+168,
+159,
+158,
+158,
+169,
+174,
+183,
+186,
+183,
+182,
+183
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "The Practice of Statistics I"
 }

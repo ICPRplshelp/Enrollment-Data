@@ -22,7 +22,18 @@
 1,
 2,
 14,
-14
+14,
+15,
+28,
+31,
+31,
+34,
+38,
+40,
+44,
+43,
+45,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 1,
 5,
 15,
-15
+15,
+15,
+22,
+26,
+26,
+31,
+37,
+36,
+40,
+42,
+45,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +117,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1788626451
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -112,7 +139,18 @@
 0,
 0,
 9,
-9
+9,
+8,
+15,
+17,
+17,
+18,
+19,
+21,
+20,
+18,
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +178,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 50,
+"enrollmentCap": 25,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 25,
+"time": 1788626451
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -157,7 +200,18 @@
 0,
 4,
 10,
-10
+10,
+10,
+23,
+25,
+25,
+26,
+27,
+26,
+25,
+23,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +256,18 @@
 2,
 7,
 18,
-19
+19,
+19,
+33,
+32,
+32,
+37,
+40,
+42,
+43,
+48,
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -240,7 +305,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Modern Standard Korean I"
 }

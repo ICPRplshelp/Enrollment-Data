@@ -22,13 +22,39 @@
 5,
 7,
 15,
-15
+15,
+15,
+16,
+16,
+16,
+16,
+16,
+16,
+16,
+15,
+15,
+14
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 3,
 9,
 14,
-15
+15,
+15,
+15,
+15,
+15,
+14,
+14,
+15,
+16,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Giulia",
+"lastName": "Guadagni"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Giulia",
+"lastName": "Guadagni"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -82,13 +134,39 @@
 5,
 9,
 25,
+25,
+24,
+23,
+23,
+23,
+24,
+26,
+26,
+25,
+23,
+24,
 25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Annunziata",
+"lastName": "Zevola"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Annunziata",
+"lastName": "Zevola"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -112,13 +190,39 @@
 3,
 6,
 9,
-9
+9,
+9,
+11,
+13,
+13,
+15,
+19,
+20,
+25,
+25,
+24,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Zanobi"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marina",
+"lastName": "Zanobi"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -142,13 +246,39 @@
 4,
 5,
 9,
-9
+9,
+10,
+8,
+9,
+9,
+12,
+12,
+12,
+14,
+18,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Maria Laura",
+"lastName": "Mosco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5201"
 },
@@ -172,7 +302,18 @@
 2,
 7,
 16,
-16
+16,
+18,
+18,
+20,
+20,
+26,
+28,
+30,
+30,
+28,
+26,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -210,7 +351,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Italian Language for Beginners"
 }

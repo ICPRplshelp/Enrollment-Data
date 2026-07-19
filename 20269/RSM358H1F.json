@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1788312168
 }
 ],
 "initialCap": 47
@@ -27,7 +31,18 @@
 61,
 62,
 62,
-62
+62,
+62,
+61,
+61,
+61,
+60,
+60,
+60,
+60,
+58,
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,12 +70,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1788312168
 }
 ],
 "initialCap": 47
@@ -77,7 +96,18 @@
 66,
 68,
 67,
-62
+62,
+62,
+63,
+64,
+64,
+63,
+64,
+62,
+59,
+55,
+57,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -115,7 +145,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Foundations of AI for Management"
 }

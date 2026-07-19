@@ -22,13 +22,39 @@
 48,
 47,
 47,
-48
+48,
+95,
+98,
+101,
+101,
+104,
+111,
+118,
+113,
+98,
+97,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Uzma",
+"lastName": "Maroof"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Uzma",
+"lastName": "Maroof"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 96,
 96,
 99,
-99
+99,
+174,
+176,
+177,
+177,
+178,
+170,
+169,
+165,
+162,
+160,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,12 +117,28 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 160,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1788312168
+}
+],
 "initialCap": 160
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -104,7 +157,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0103"
 },
 {
@@ -127,13 +180,39 @@
 29,
 29,
 29,
-29
+29,
+66,
+68,
+71,
+71,
+80,
+80,
+81,
+86,
+84,
+86,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Dixon"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 }
@@ -150,7 +229,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Software Design"
 }

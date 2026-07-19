@@ -27,13 +27,39 @@
 25,
 25,
 26,
-26
+26,
+23,
+22,
+23,
+23,
+26,
+30,
+31,
+35,
+38,
+38,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice Nahyeon",
+"lastName": "Kim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -50,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Diasporic Media"
 }

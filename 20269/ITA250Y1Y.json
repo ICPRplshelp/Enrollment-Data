@@ -22,22 +22,53 @@
 10,
 15,
 16,
-16
+16,
+17,
+16,
+16,
+16,
+22,
+22,
+23,
+21,
+21,
+22,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mia Antoinette",
+"lastName": "Lofranco"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mia Antoinette",
+"lastName": "Lofranco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 35,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 35,
+"time": 1788312168
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -52,13 +83,39 @@
 10,
 22,
 28,
-28
+28,
+29,
+30,
+30,
+30,
+34,
+34,
+34,
+35,
+33,
+34,
+33
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rachel Ann",
+"lastName": "Grasso"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -75,7 +132,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Intermediate Italian"
 }

@@ -22,13 +22,39 @@
 37,
 37,
 79,
-79
+79,
+106,
+110,
+114,
+114,
+122,
+132,
+129,
+132,
+142,
+139,
+137
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hanista",
+"lastName": "Premachandran"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hanista",
+"lastName": "Premachandran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,13 +78,39 @@
 53,
 54,
 91,
-92
+92,
+141,
+144,
+150,
+150,
+154,
+167,
+180,
+190,
+200,
+197,
+200
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Hanista",
+"lastName": "Premachandran"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Hanista",
+"lastName": "Premachandran"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Behaviour Modification"
 }

@@ -1,0 +1,56 @@
+{
+"code": "MGAC01H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1786148704,
+"delivery": "INPER",
+"enrollmentCap": 40,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 40
+},
+"enrollmentLogs": [
+0,
+21,
+30,
+33,
+32,
+33,
+36
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Douglas",
+"lastName": "Kong"
+}
+],
+"timing": 1786148704
+}
+]
+},
+"instructors": [
+{
+"firstName": "Douglas",
+"lastName": "Kong"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1786148703,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Intermediate Financial Accounting I"
+}

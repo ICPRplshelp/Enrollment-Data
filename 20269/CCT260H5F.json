@@ -22,7 +22,18 @@
 14,
 14,
 14,
-14
+14,
+14,
+15,
+15,
+15,
+16,
+16,
+19,
+20,
+35,
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 66,
 66,
 67,
-67
+67,
+68,
+68,
+69,
+69,
+69,
+69,
+69,
+71,
+74,
+71,
+71
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Angie",
+"lastName": "Cappiello"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Angie",
+"lastName": "Cappiello"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -97,13 +134,39 @@
 25,
 25,
 28,
-28
+28,
+27,
+27,
+28,
+28,
+26,
+30,
+30,
+29,
+47,
+50,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Benjamin",
+"lastName": "Ginzberg"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Benjamin",
+"lastName": "Ginzberg"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0103"
 },
@@ -127,13 +190,39 @@
 22,
 22,
 22,
-22
+22,
+24,
+24,
+26,
+26,
+26,
+21,
+20,
+20,
+30,
+29,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Varsha",
+"lastName": "Hemrajani"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Varsha",
+"lastName": "Hemrajani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0104"
 }
@@ -150,7 +239,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Web Development and Design I"
 }

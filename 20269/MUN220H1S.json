@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 110,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 127,
+"time": 1787374227
+}
+],
 "initialCap": 110
 },
 "enrollmentLogs": [
@@ -22,22 +27,53 @@
 25,
 44,
 45,
-45
+45,
+46,
+57,
+60,
+60,
+60,
+62,
+61,
+65,
+66,
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mark",
+"lastName": "Duggan"
+}
+],
+"timing": 1788626451
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mark",
+"lastName": "Duggan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 20,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1787374227
+}
+],
 "initialCap": 20
 },
 "enrollmentLogs": [
@@ -52,7 +88,18 @@
 4,
 4,
 4,
-4
+4,
+4,
+4,
+4,
+4,
+3,
+3,
+3,
+3,
+3,
+3,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -75,7 +122,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Economic Policy in the Industrialized World"
 }

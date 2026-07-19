@@ -22,7 +22,18 @@
 31,
 61,
 159,
-160
+160,
+167,
+169,
+172,
+172,
+180,
+188,
+192,
+195,
+182,
+184,
+187
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +46,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+}
+],
+"timing": 1785689566
 }
 ]
 },
@@ -42,6 +66,10 @@
 {
 "firstName": "Matthew",
 "lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
 }
 ],
 "isCancelled": false,
@@ -60,7 +88,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Physics I"
 }

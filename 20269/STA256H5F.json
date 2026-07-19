@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -22,22 +27,53 @@
 138,
 137,
 147,
-149
+149,
+152,
+154,
+156,
+156,
+163,
+160,
+160,
+154,
+154,
+148,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Masoud",
+"lastName": "Ataei"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -52,7 +88,18 @@
 126,
 128,
 140,
-143
+143,
+153,
+153,
+155,
+155,
+161,
+157,
+158,
+150,
+155,
+149,
+148
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +127,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -97,7 +149,18 @@
 125,
 125,
 138,
-142
+142,
+132,
+133,
+135,
+135,
+142,
+139,
+136,
+135,
+132,
+128,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +188,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -142,7 +210,18 @@
 124,
 126,
 130,
-134
+134,
+129,
+129,
+132,
+132,
+141,
+137,
+135,
+135,
+132,
+126,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,7 +259,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Probability and Statistics I"
 }

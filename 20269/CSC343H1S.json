@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 103,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 103,
+"time": 1787374227
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 41,
 73,
 74,
-74
+74,
+75,
+83,
+83,
+83,
+85,
+110,
+112,
+100,
+100,
+102,
+103
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 97,
+"time": 1787374227
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 75,
 84,
 83,
-83
+83,
+82,
+84,
+87,
+87,
+87,
+111,
+111,
+97,
+100,
+99,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +112,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Diane",
-"lastName": "Horton"
+"firstName": "Marina",
+"lastName": "Tawfik"
 }
 ],
 "isCancelled": false,
@@ -95,9 +136,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 97,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 97,
+"time": 1787374227
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -112,7 +158,18 @@
 68,
 77,
 78,
-78
+78,
+76,
+82,
+83,
+83,
+84,
+110,
+110,
+94,
+94,
+97,
+96
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,13 +182,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Diane",
+"lastName": "Horton"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Tawfik"
+"firstName": "Diane",
+"lastName": "Horton"
 }
 ],
 "isCancelled": false,
@@ -140,9 +206,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 22,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 22,
+"time": 1787374227
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -157,7 +228,18 @@
 24,
 23,
 23,
-23
+23,
+23,
+23,
+22,
+22,
+23,
+22,
+22,
+22,
+21,
+21,
+22
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -185,9 +267,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1787374227
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -202,7 +289,18 @@
 32,
 31,
 31,
-31
+31,
+30,
+30,
+30,
+30,
+27,
+27,
+27,
+27,
+27,
+27,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,13 +313,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Diane",
-"lastName": "Horton"
+"firstName": "Marina",
+"lastName": "Tawfik"
 }
 ],
 "isCancelled": false,
@@ -230,9 +337,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 28,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 28,
+"time": 1787374227
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -247,7 +359,18 @@
 32,
 32,
 32,
-32
+32,
+32,
+32,
+32,
+32,
+30,
+30,
+28,
+28,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -260,13 +383,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Diane",
+"lastName": "Horton"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Tawfik"
+"firstName": "Diane",
+"lastName": "Horton"
 }
 ],
 "isCancelled": false,
@@ -275,9 +407,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1788312168
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -292,7 +429,18 @@
 33,
 33,
 35,
-35
+35,
+35,
+35,
+35,
+35,
+38,
+39,
+40,
+43,
+40,
+40,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -320,9 +468,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 75,
+"enrollmentCap": 83,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 83,
+"time": 1788312168
+}
+],
 "initialCap": 75
 },
 "enrollmentLogs": [
@@ -337,7 +490,18 @@
 32,
 39,
 40,
-40
+40,
+39,
+62,
+66,
+66,
+75,
+111,
+112,
+89,
+88,
+87,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,7 +539,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to Databases"
 }

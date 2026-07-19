@@ -22,7 +22,18 @@
 105,
 105,
 105,
-105
+105,
+105,
+104,
+103,
+103,
+96,
+94,
+94,
+94,
+93,
+92,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 106,
 106,
 106,
-106
+106,
+106,
+106,
+106,
+106,
+96,
+95,
+92,
+91,
+89,
+87,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,13 +134,39 @@
 141,
 142,
 143,
-142
+142,
+144,
+144,
+145,
+145,
+132,
+132,
+128,
+129,
+128,
+124,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jessica",
+"lastName": "Li"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jessica",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -135,7 +183,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "People Management and Organizational Behaviour"
 }

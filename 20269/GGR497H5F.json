@@ -1,0 +1,52 @@
+{
+"code": "GGR497H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1787374227,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea",
+"lastName": "Rishworth"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrea",
+"lastName": "Rishworth"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1787374226,
+1787374227,
+1788312168,
+1788466516,
+1788626451
+],
+"title": "Human Geography Independent Research Project"
+}

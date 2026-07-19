@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 245,
+"enrollmentCap": 250,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 250,
+"time": 1788312168
+}
+],
 "initialCap": 245
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 89,
 161,
 191,
-193
+193,
+203,
+212,
+213,
+213,
+221,
+230,
+237,
+244,
+250,
+247,
+242
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 10,
+"time": 1788312168
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -67,6 +88,17 @@
 8,
 8,
 8,
+8,
+8,
+8,
+7,
+7,
+7,
+7,
+8,
+8,
+9,
+9,
 8
 ],
 "instructorLog": {
@@ -90,7 +122,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Science and Values"
 }

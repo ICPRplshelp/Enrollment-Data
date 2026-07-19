@@ -22,22 +22,53 @@
 33,
 32,
 200,
-199
+199,
+261,
+266,
+267,
+267,
+268,
+263,
+253,
+257,
+260,
+237,
+237
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 570,
+"enrollmentCap": 520,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 520,
+"time": 1786729205
+}
+],
 "initialCap": 570
 },
 "enrollmentLogs": [
@@ -52,13 +83,39 @@
 37,
 39,
 138,
-141
+141,
+379,
+397,
+415,
+415,
+437,
+486,
+521,
+544,
+551,
+527,
+532
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Moaz",
+"lastName": "Shoura"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -75,7 +132,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Methods in Psychological Science"
 }

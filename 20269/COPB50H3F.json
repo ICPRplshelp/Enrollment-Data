@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 1295,
+"enrollmentCap": 1302,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 1302,
+"time": 1788312168
+}
+],
 "initialCap": 1295
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 1074,
 1077,
 1138,
-1139
+1139,
+1169,
+1180,
+1185,
+1185,
+1192,
+1218,
+1250,
+1280,
+1302,
+1283,
+1296
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -51,29 +67,83 @@
 }
 ],
 "timing": 1781442026
-}
-]
 },
-"instructors": [
 {
-"firstName": "Suzanne Rose",
-"lastName": "Perreira"
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
 },
 {
 "firstName": "Andrea Hazel",
 "lastName": "Lott"
 },
 {
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+},
+{
 "firstName": "Saira",
 "lastName": "Banu"
 },
 {
-"firstName": "Monika Kanako",
-"lastName": "Saito"
+"firstName": "Maryam",
+"lastName": "Nehrir"
 },
 {
 "firstName": "Ching-Yee Jolie",
 "lastName": "Chan"
+}
+],
+"timing": 1786148704
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Maryam",
+"lastName": "Nehrir"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Andrew",
+"lastName": "Kowalchuk"
+},
+{
+"firstName": "Andrea Hazel",
+"lastName": "Lott"
+},
+{
+"firstName": "Katie Y.R.",
+"lastName": "Li"
+},
+{
+"firstName": "Saira",
+"lastName": "Banu"
+},
+{
+"firstName": "Maryam",
+"lastName": "Nehrir"
 }
 ],
 "isCancelled": false,
@@ -92,7 +162,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

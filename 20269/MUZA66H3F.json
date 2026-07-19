@@ -22,13 +22,39 @@
 24,
 24,
 31,
-31
+31,
+30,
+31,
+31,
+31,
+31,
+30,
+24,
+23,
+21,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Adrian",
+"lastName": "Berry"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,7 +78,18 @@
 20,
 21,
 27,
-27
+27,
+26,
+25,
+24,
+24,
+25,
+25,
+20,
+19,
+16,
+17,
+16
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -76,6 +113,67 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC02"
+},
+{
+"createdAt": 1785689566,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 20,
+"time": 1787374227
+}
+],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+9,
+11,
+14,
+15,
+18
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Dinitha",
+"lastName": "Vithanage"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Dinitha",
+"lastName": "Vithanage"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC03"
 }
 ],
 "timeIntervals": [
@@ -90,7 +188,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Small Ensembles Ia"
 }

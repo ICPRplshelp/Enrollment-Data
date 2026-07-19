@@ -5,12 +5,20 @@
 {
 "createdAt": 1781442026,
 "delivery": "SYNC",
-"enrollmentCap": 100,
+"enrollmentCap": 165,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 100,
 "time": 1783994610
+},
+{
+"newCapacity": 150,
+"time": 1786148704
+},
+{
+"newCapacity": 165,
+"time": 1787374227
 }
 ],
 "initialCap": 120
@@ -27,13 +35,39 @@
 61,
 60,
 155,
-153
+153,
+152,
+151,
+152,
+152,
+155,
+155,
+156,
+164,
+162,
+155,
+157
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sarah Jane",
+"lastName": "Flynn"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sarah Jane",
+"lastName": "Flynn"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -71,7 +105,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Financial Management for Arts Managers"
 }

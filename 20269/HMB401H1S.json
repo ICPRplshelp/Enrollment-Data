@@ -22,13 +22,39 @@
 50,
 51,
 52,
-52
+52,
+52,
+52,
+51,
+51,
+52,
+50,
+50,
+49,
+47,
+47,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Nadia",
+"lastName": "Sachewsky"
+}
+],
+"timing": 1785194573
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Nadia",
+"lastName": "Sachewsky"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +71,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Biomedical Advances & Technologies"
 }

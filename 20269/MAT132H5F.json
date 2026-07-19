@@ -22,22 +22,53 @@
 12,
 13,
 106,
-108
+108,
+109,
+108,
+107,
+107,
+111,
+114,
+115,
+118,
+111,
+107,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erfan",
+"lastName": "Nazari Zahraei Motlagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1788312168
+}
+],
 "initialCap": 140
 },
 "enrollmentLogs": [
@@ -52,7 +83,18 @@
 34,
 35,
 156,
-155
+155,
+155,
+154,
+153,
+153,
+153,
+153,
+151,
+148,
+150,
+150,
+150
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,7 +139,18 @@
 10,
 10,
 140,
-141
+141,
+145,
+145,
+142,
+142,
+142,
+141,
+140,
+140,
+140,
+135,
+134
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,13 +195,39 @@
 8,
 8,
 80,
-81
+81,
+85,
+90,
+96,
+96,
+101,
+102,
+104,
+110,
+115,
+106,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Comlan Edmond",
+"lastName": "Koudjinan"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Comlan Edmond",
+"lastName": "Koudjinan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0104"
 },
@@ -172,30 +251,71 @@
 5,
 5,
 125,
-129
+129,
+139,
+140,
+142,
+142,
+140,
+140,
+140,
+140,
+140,
+137,
+139
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amir",
+"lastName": "Vig"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Amir",
+"lastName": "Vig"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0105"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 130,
 "time": 1783375107
+},
+{
+"newCapacity": 0,
+"time": 1788312168
 }
 ],
 "initialCap": 140
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -214,7 +334,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0106"
 }
 ],
@@ -230,7 +350,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Differential Calculus for Life Sciences"
 }

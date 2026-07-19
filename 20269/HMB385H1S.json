@@ -27,13 +27,39 @@
 288,
 289,
 285,
-288
+288,
+292,
+297,
+298,
+298,
+301,
+297,
+297,
+297,
+297,
+300,
+299
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Haley",
+"lastName": "Zubyk"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Haley",
+"lastName": "Zubyk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -50,7 +76,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "The Human Microbiome in Health & Disease"
 }

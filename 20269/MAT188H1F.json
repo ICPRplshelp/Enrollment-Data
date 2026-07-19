@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 180,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 180,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 183,
 183,
 181,
-181
+181,
+180,
+180,
+180,
+180,
+181,
+180,
+180,
+177,
+174,
+155,
+154
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +66,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 186,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 186,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -67,7 +88,18 @@
 188,
 188,
 187,
-187
+187,
+187,
+187,
+187,
+187,
+187,
+185,
+185,
+182,
+176,
+170,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +112,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Shai",
+"lastName": "Cohen"
+}
+],
+"timing": 1787374227
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Schinella",
-"lastName": "D'Souza"
+"firstName": "Shai",
+"lastName": "Cohen"
 }
 ],
 "isCancelled": false,
@@ -95,9 +136,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 184,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 184,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -112,7 +158,18 @@
 187,
 187,
 187,
-187
+187,
+185,
+185,
+185,
+185,
+185,
+184,
+183,
+181,
+178,
+169,
+169
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +197,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 178,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 178,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -157,7 +219,18 @@
 179,
 179,
 178,
-177
+177,
+177,
+177,
+177,
+177,
+177,
+176,
+177,
+175,
+173,
+162,
+162
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,13 +243,31 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
+}
+],
+"timing": 1787374227
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Narmada",
+"lastName": "Varadarajan"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Shai",
-"lastName": "Cohen"
+"firstName": "Narmada",
+"lastName": "Varadarajan"
 }
 ],
 "isCancelled": false,
@@ -185,9 +276,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 126,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 126,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -202,7 +298,18 @@
 125,
 124,
 124,
-124
+124,
+124,
+124,
+125,
+125,
+125,
+125,
+126,
+124,
+119,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -230,9 +337,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 110,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 110,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -247,22 +359,53 @@
 114,
 114,
 113,
-113
+113,
+112,
+112,
+111,
+111,
+112,
+110,
+110,
+109,
+106,
+100,
+101
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sean",
+"lastName": "Uppal"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0106"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 124,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 124,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -277,22 +420,53 @@
 124,
 124,
 124,
-124
+124,
+124,
+124,
+124,
+124,
+124,
+124,
+124,
+123,
+122,
+114,
+114
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Schinella",
+"lastName": "D'Souza"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0107"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 120,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 120,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -307,7 +481,18 @@
 126,
 126,
 124,
-123
+123,
+123,
+123,
+122,
+122,
+122,
+120,
+120,
+119,
+117,
+108,
+108
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -335,9 +520,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 9999,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1786729205
+}
+],
 "initialCap": 9999
 },
 "enrollmentLogs": [
@@ -352,7 +542,18 @@
 133,
 132,
 132,
-131
+131,
+131,
+131,
+131,
+131,
+129,
+128,
+129,
+128,
+127,
+120,
+120
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -390,7 +591,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Linear Algebra"
 }

@@ -22,13 +22,39 @@
 11,
 15,
 17,
-19
+19,
+20,
+21,
+21,
+21,
+21,
+25,
+27,
+26,
+31,
+29,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Anaisa",
+"lastName": "Silva Gordino"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 7,
 11,
 22,
-22
+22,
+21,
+25,
+27,
+27,
+29,
+30,
+29,
+30,
+31,
+33,
+32
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Douglas",
+"lastName": "Cubas Severo"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Douglas",
+"lastName": "Cubas Severo"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Portuguese for Beginners I"
 }

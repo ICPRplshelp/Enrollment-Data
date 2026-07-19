@@ -22,13 +22,47 @@
 294,
 305,
 1283,
-1317
+1317,
+1340,
+1450,
+1470,
+1470,
+1490,
+1508,
+1515,
+1516,
+1496,
+1507,
+1505
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
 },
-"instructors": [],
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
+},
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +86,47 @@
 0,
 0,
 8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+8,
+7,
+8,
 8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
 },
-"instructors": [],
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
+},
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2000"
 },
@@ -82,13 +150,47 @@
 0,
 0,
 22,
+23,
+23,
+25,
+25,
+25,
+25,
+25,
+23,
+24,
+22,
+23,
 23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
 },
-"instructors": [],
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Daphne",
+"lastName": "Goring"
+},
+{
+"firstName": "John Anthony",
+"lastName": "Calarco"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2002"
 },
@@ -112,13 +214,39 @@
 1,
 10,
 242,
-245
+245,
+251,
+439,
+458,
+458,
+511,
+528,
+528,
+532,
+535,
+537,
+539
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -135,7 +263,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Molecular and Cell Biology"
 }

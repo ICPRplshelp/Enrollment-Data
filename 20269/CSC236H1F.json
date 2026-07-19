@@ -22,7 +22,18 @@
 22,
 90,
 97,
-97
+97,
+96,
+124,
+128,
+128,
+130,
+133,
+138,
+142,
+140,
+140,
+143
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +78,18 @@
 32,
 160,
 161,
-161
+161,
+161,
+169,
+168,
+168,
+167,
+170,
+170,
+168,
+164,
+164,
+164
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +134,18 @@
 21,
 58,
 62,
-63
+63,
+63,
+96,
+102,
+102,
+107,
+116,
+114,
+112,
+118,
+119,
+118
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +190,18 @@
 40,
 156,
 157,
-159
+159,
+159,
+168,
+167,
+167,
+167,
+167,
+167,
+165,
+160,
+159,
+160
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,13 +246,39 @@
 15,
 57,
 58,
-58
+58,
+59,
+88,
+89,
+89,
+95,
+107,
+108,
+107,
+105,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jeremy",
+"lastName": "Ko"
+}
+],
+"timing": 1788466516
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jeremy",
+"lastName": "Ko"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -225,7 +295,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Introduction to the Theory of Computation"
 }

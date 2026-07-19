@@ -22,13 +22,39 @@
 8,
 8,
 9,
-9
+9,
+16,
+23,
+25,
+25,
+31,
+33,
+36,
+39,
+44,
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Luke",
+"lastName": "Russell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -52,13 +78,39 @@
 23,
 23,
 24,
-24
+24,
+41,
+42,
+43,
+43,
+44,
+45,
+45,
+45,
+44,
+44,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aditi",
+"lastName": "Bhatia"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aditi",
+"lastName": "Bhatia"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 }
@@ -75,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Human-Computer Interaction and Communication"
 }

@@ -22,7 +22,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+45,
+45,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -52,7 +63,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+45,
+45,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -82,7 +104,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+45,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +145,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+43,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +186,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+43,
+43,
+43
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -172,7 +227,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+43,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +268,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+42,
+40,
+40,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +309,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+43,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,7 +350,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+40,
+40,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -292,7 +391,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+43,
+41,
+41,
+41
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -322,7 +432,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+42,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -352,7 +473,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+44,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -382,7 +514,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+40,
+39,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -412,7 +555,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+40,
+38,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -425,9 +579,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 48,
+"time": 1786729205
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -442,7 +601,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+48,
+48,
+48,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -455,9 +625,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 48,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 48,
+"time": 1786729205
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -472,7 +647,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+48,
+46,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -502,7 +688,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+45,
+45,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -532,7 +729,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+45,
+45,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -545,9 +753,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 46,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 46,
+"time": 1786729205
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -562,7 +775,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+45,
+46,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -575,9 +799,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 45,
+"enrollmentCap": 46,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 46,
+"time": 1786729205
+}
+],
 "initialCap": 45
 },
 "enrollmentLogs": [
@@ -592,7 +821,18 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+46,
+46,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -615,7 +855,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "First-Year Learning Community"
 }

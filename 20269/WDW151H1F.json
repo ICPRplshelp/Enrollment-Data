@@ -22,13 +22,39 @@
 0,
 1,
 28,
+28,
+28,
+27,
+27,
+27,
+27,
+27,
+28,
+27,
+27,
+27,
 28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +78,39 @@
 4,
 4,
 22,
-25
+25,
+25,
+25,
+25,
+25,
+25,
+25,
+26,
+26,
+25,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -82,13 +134,39 @@
 4,
 4,
 30,
-30
+30,
+31,
+30,
+30,
+30,
+30,
+29,
+30,
+29,
+27,
+27,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Beth",
+"lastName": "Fischer"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -112,13 +190,39 @@
 4,
 4,
 7,
-7
+7,
+7,
+7,
+7,
+7,
+18,
+22,
+26,
+30,
+28,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jon",
+"lastName": "Johnson"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jon",
+"lastName": "Johnson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 }
@@ -135,7 +239,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Order and Disorder I: Issues and Perspectives"
 }

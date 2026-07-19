@@ -22,7 +22,18 @@
 119,
 118,
 224,
-222
+222,
+221,
+220,
+221,
+221,
+225,
+229,
+226,
+223,
+216,
+214,
+214
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +78,39 @@
 169,
 167,
 235,
+237,
+237,
+237,
+236,
+236,
+241,
+239,
+239,
+236,
+237,
+237,
 237
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jiaqi",
+"lastName": "Fu"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jiaqi",
+"lastName": "Fu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -97,7 +134,18 @@
 0,
 0,
 58,
-61
+61,
+72,
+73,
+78,
+78,
+196,
+225,
+225,
+225,
+224,
+225,
+225
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,7 +190,18 @@
 0,
 0,
 109,
-111
+111,
+121,
+121,
+125,
+125,
+205,
+208,
+207,
+204,
+201,
+201,
+199
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -187,7 +246,18 @@
 0,
 0,
 17,
-21
+21,
+22,
+22,
+22,
+22,
+36,
+45,
+47,
+47,
+44,
+45,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +302,18 @@
 0,
 0,
 25,
-28
+28,
+29,
+29,
+29,
+29,
+72,
+88,
+88,
+86,
+92,
+92,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,13 +358,39 @@
 0,
 0,
 57,
-62
+62,
+63,
+64,
+63,
+63,
+102,
+116,
+122,
+128,
+134,
+138,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alan",
+"lastName": "Riquier"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alan",
+"lastName": "Riquier"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 },
@@ -307,7 +414,18 @@
 0,
 0,
 21,
-22
+22,
+22,
+23,
+24,
+24,
+41,
+46,
+49,
+49,
+85,
+83,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,7 +463,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Calculus I for Life Sciences"
 }

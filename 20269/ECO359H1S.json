@@ -22,13 +22,39 @@
 25,
 27,
 29,
-29
+29,
+29,
+79,
+84,
+84,
+89,
+94,
+95,
+93,
+94,
+94,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
+"timing": 1786729205
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yiming",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +78,18 @@
 17,
 19,
 19,
-20
+20,
+20,
+65,
+73,
+73,
+72,
+74,
+74,
+74,
+71,
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +127,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Financial Economics II: Corporate Finance"
 }

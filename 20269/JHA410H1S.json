@@ -22,13 +22,48 @@
 167,
 167,
 168,
-169
+169,
+169,
+197,
+201,
+201,
+200,
+199,
+198,
+194,
+190,
+188,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea Angelo",
+"lastName": "Cortinois"
+}
+],
+"timing": 1784439518
 },
-"instructors": [],
+{
+"instructorsAfter": [
+{
+"firstName": "Colleen",
+"lastName": "Dockstader"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Colleen",
+"lastName": "Dockstader"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +80,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Clinical Neuroimaging"
 }

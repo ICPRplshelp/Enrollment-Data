@@ -22,13 +22,47 @@
 107,
 106,
 106,
-106
+106,
+106,
+106,
+106,
+106,
+105,
+109,
+109,
+109,
+109,
+109,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Karine",
+"lastName": "Ung"
 },
-"instructors": [],
+{
+"firstName": "Noah Zijie",
+"lastName": "Qu"
+}
+],
+"timing": 1785689566
+}
+]
+},
+"instructors": [
+{
+"firstName": "Karine",
+"lastName": "Ung"
+},
+{
+"firstName": "Noah Zijie",
+"lastName": "Qu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +79,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Foundations of Cognitive Psychology"
 }

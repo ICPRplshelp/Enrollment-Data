@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 94,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 94,
+"time": 1787374227
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -22,7 +27,18 @@
 52,
 52,
 52,
-52
+52,
+52,
+59,
+58,
+58,
+59,
+70,
+69,
+69,
+63,
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +83,18 @@
 45,
 46,
 47,
-47
+47,
+46,
+50,
+51,
+51,
+49,
+53,
+52,
+50,
+54,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +122,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 35,
+"enrollmentCap": 31,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 31,
+"time": 1787374227
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -112,7 +144,18 @@
 35,
 35,
 35,
-35
+35,
+33,
+33,
+33,
+33,
+32,
+32,
+32,
+30,
+30,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -150,7 +193,18 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451
 ],
 "title": "Computer Graphics"
 }
