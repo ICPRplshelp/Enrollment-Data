@@ -1,0 +1,35 @@
+{
+"code": "PHL241H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1793225469,
+"delivery": "INPER",
+"enrollmentCap": 80,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 80
+},
+"enrollmentLogs": [
+0,
+9,
+13,
+16
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1793225468,
+1793225469,
+1793716466,
+1794265466
+],
+"title": "Ethics of Artificial Intelligence"
+}

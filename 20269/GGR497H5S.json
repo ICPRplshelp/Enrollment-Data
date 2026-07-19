@@ -1,0 +1,48 @@
+{
+"code": "GGR497H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1793716466,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
+"timing": 1793716466
+}
+]
+},
+"instructors": [
+{
+"firstName": "Tingting",
+"lastName": "Zhu"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1793716465,
+1793716466,
+1794265466
+],
+"title": "Human Geography Independent Research Project"
+}

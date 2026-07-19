@@ -1,0 +1,50 @@
+{
+"code": "HIS299H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1793225469,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+3,
+4,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yvon",
+"lastName": "Wang"
+}
+],
+"timing": 1793225469
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yvon",
+"lastName": "Wang"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1793225468,
+1793225469,
+1793716466,
+1794265466
+],
+"title": "Research Opportunity Program"
+}

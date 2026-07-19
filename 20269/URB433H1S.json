@@ -1,0 +1,35 @@
+{
+"code": "URB433H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1793225469,
+"delivery": "INPER",
+"enrollmentCap": 29,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 29
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+4
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1793225468,
+1793225469,
+1793716466,
+1794265466
+],
+"title": "Special Topics in Urban Studies"
+}

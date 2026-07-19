@@ -22,7 +22,100 @@
 581,
 584,
 588,
-590
+590,
+597,
+596,
+599,
+599,
+603,
+600,
+602,
+604,
+607,
+601,
+600,
+601,
+601,
+603,
+603,
+604,
+601,
+601,
+604,
+605,
+602,
+596,
+585,
+523
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joshua",
+"lastName": "Krupp"
+}
+],
+"timing": 1787374227
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joshua",
+"lastName": "Krupp"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1793225469,
+"delivery": "INPER",
+"enrollmentCap": 100,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 100
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+69
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -30,7 +123,7 @@
 },
 "instructors": [],
 "isCancelled": false,
-"meetingNumber": "LEC0101"
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
@@ -45,7 +138,31 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679,
+1793225469,
+1793716466,
+1794265466
 ],
 "title": "Introductory Genetics"
 }

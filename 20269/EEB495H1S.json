@@ -22,6 +22,30 @@
 14,
 14,
 15,
+15,
+15,
+16,
+17,
+17,
+17,
+17,
+18,
+19,
+17,
+18,
+18,
+17,
+17,
+18,
+18,
+17,
+17,
+17,
+17,
+16,
+16,
+16,
+15,
 15
 ],
 "instructorLog": {
@@ -54,6 +78,75 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1793225469,
+"delivery": "INPER",
+"enrollmentCap": 15,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 15
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+2,
+3,
+6
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Scott",
+"lastName": "McCain"
+}
+],
+"timing": 1793225469
+}
+]
+},
+"instructors": [
+{
+"firstName": "Scott",
+"lastName": "McCain"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
 }
 ],
 "timeIntervals": [
@@ -68,7 +161,31 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679,
+1793225469,
+1793716466,
+1794265466
 ],
 "title": "Seminar in Ecology and Evolutionary Biology"
 }
