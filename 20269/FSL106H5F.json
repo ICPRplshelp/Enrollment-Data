@@ -22,13 +22,29 @@
 7,
 7,
 13,
-11
+11,
+8
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sima",
+"lastName": "Farsandaj"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sima",
+"lastName": "Farsandaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Functional French-Advanced Beginner"
 }

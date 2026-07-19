@@ -22,13 +22,29 @@
 2,
 3,
 4,
+3,
 3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Letticia",
+"lastName": "Cosbert Miller"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Letticia",
+"lastName": "Cosbert Miller"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introductory Latin II"
 }

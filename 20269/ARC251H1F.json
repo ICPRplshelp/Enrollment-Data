@@ -27,13 +27,29 @@
 9,
 181,
 195,
-202
+202,
+204
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Levit"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Levit"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -50,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Close Readings in Architecture"
 }

@@ -22,7 +22,8 @@
 81,
 82,
 82,
-85
+85,
+86
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,13 +36,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Kristin Victoria",
+"lastName": "Plys"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Steve",
-"lastName": "Hoffman"
+"firstName": "Kristin Victoria",
+"lastName": "Plys"
 }
 ],
 "isCancelled": false,
@@ -67,7 +77,8 @@
 38,
 39,
 42,
-42
+42,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +91,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steve",
+"lastName": "Hoffman"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lauren",
-"lastName": "Richter"
+"firstName": "Steve",
+"lastName": "Hoffman"
 }
 ],
 "isCancelled": false,
@@ -105,7 +125,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Classical Sociological Theory"
 }

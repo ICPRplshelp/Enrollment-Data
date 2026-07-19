@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 169,
 169,
 166,
-167
+167,
+175
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +56,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1784439518
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -67,7 +78,8 @@
 129,
 128,
 128,
-132
+132,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +107,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1784439518
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -112,7 +129,8 @@
 69,
 74,
 101,
-106
+106,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,7 +153,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Statistics with Applied Probability"
 }

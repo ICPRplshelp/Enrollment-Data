@@ -22,6 +22,7 @@
 6,
 6,
 6,
+6,
 6
 ],
 "instructorLog": {
@@ -35,6 +36,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Atom",
+"lastName": "Egoyan"
+},
+{
+"firstName": "Alberto",
+"lastName": "Zambenedetti"
+}
+],
+"timing": 1784439518
 }
 ]
 },
@@ -42,6 +56,10 @@
 {
 "firstName": "Atom",
 "lastName": "Egoyan"
+},
+{
+"firstName": "Alberto",
+"lastName": "Zambenedetti"
 }
 ],
 "isCancelled": false,
@@ -60,7 +78,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Screenwriting"
 }

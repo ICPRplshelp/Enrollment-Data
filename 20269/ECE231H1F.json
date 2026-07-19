@@ -22,6 +22,7 @@
 112,
 112,
 113,
+112,
 112
 ],
 "instructorLog": {
@@ -50,9 +51,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -62,6 +68,7 @@
 106,
 106,
 107,
+108,
 108,
 108,
 108,
@@ -95,9 +102,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -106,6 +118,7 @@
 0,
 112,
 112,
+113,
 113,
 113,
 113,
@@ -140,9 +153,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -157,7 +175,8 @@
 107,
 107,
 107,
-108
+108,
+113
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +214,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introductory Electronics"
 }

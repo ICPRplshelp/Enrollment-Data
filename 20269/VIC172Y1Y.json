@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 25,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1784439518
+}
+],
 "initialCap": 25
 },
 "enrollmentLogs": [
@@ -21,6 +26,7 @@
 19,
 19,
 19,
+18,
 18,
 18
 ],
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Physical Sciences Today"
 }

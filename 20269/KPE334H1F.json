@@ -20,13 +20,29 @@
 0,
 0,
 199,
-200
+200,
+203
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Matt",
+"lastName": "Heffernan"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Matt",
+"lastName": "Heffernan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +57,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Adapted Physical Activity"
 }

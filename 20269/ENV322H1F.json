@@ -22,13 +22,29 @@
 54,
 62,
 66,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Shardul",
+"lastName": "Tiwari"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Shardul",
+"lastName": "Tiwari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "International Environmental Policy"
 }

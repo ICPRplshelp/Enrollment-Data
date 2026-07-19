@@ -22,13 +22,29 @@
 17,
 17,
 19,
-19
+19,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Thomas",
+"lastName": "Meulendyk"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Thomas",
+"lastName": "Meulendyk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Exploration Geophysics"
 }

@@ -35,6 +35,7 @@
 138,
 138,
 138,
+138,
 138
 ],
 "instructorLog": {
@@ -63,12 +64,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 130,
 "time": 1783375107
+},
+{
+"newCapacity": 129,
+"time": 1784439518
 }
 ],
 "initialCap": 110
@@ -85,7 +90,8 @@
 124,
 125,
 130,
-130
+130,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -123,7 +129,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Numerical Analysis and Computatational Methods"
 }

@@ -22,13 +22,37 @@
 11,
 11,
 12,
-12
+12,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Agata",
+"lastName": "Gapinska-Serwin"
 },
-"instructors": [],
+{
+"firstName": "Lindsey Katherine",
+"lastName": "Fiddes"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Agata",
+"lastName": "Gapinska-Serwin"
+},
+{
+"firstName": "Lindsey Katherine",
+"lastName": "Fiddes"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +69,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Physical Evidence and Microscopy"
 }

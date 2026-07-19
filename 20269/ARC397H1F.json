@@ -1,0 +1,31 @@
+{
+"code": "ARC397H1F",
+"faculty": "ARCLA",
+"meetings": [
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1784439517,
+1784439518
+],
+"title": "Independent Study"
+}

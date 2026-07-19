@@ -22,13 +22,37 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Franco",
+"lastName": "Taverna"
 },
-"instructors": [],
+{
+"firstName": "Leanne",
+"lastName": "De Souza-Kenney"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Franco",
+"lastName": "Taverna"
+},
+{
+"firstName": "Leanne",
+"lastName": "De Souza-Kenney"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +69,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Health in Community"
 }

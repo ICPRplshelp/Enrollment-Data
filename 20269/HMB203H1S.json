@@ -22,13 +22,29 @@
 14,
 55,
 55,
-54
+54,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrea Angelo",
+"lastName": "Cortinois"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrea Angelo",
+"lastName": "Cortinois"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introduction to Global Health"
 }

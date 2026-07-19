@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 100,
 100,
 101,
-101
+101,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +56,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -67,6 +78,7 @@
 106,
 106,
 105,
+104,
 104
 ],
 "instructorLog": {
@@ -95,9 +107,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -112,7 +129,8 @@
 116,
 116,
 116,
-116
+116,
+117
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +175,8 @@
 110,
 110,
 110,
-110
+110,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +214,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Electric and Magnetic Fields"
 }

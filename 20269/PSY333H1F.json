@@ -22,13 +22,29 @@
 35,
 37,
 38,
-38
+38,
+35
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +68,29 @@
 22,
 22,
 26,
-27
+27,
+25
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Taryn Elizabeth",
+"lastName": "Grieder"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -75,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Health Psychology"
 }

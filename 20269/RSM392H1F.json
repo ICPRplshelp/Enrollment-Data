@@ -22,7 +22,8 @@
 67,
 66,
 67,
-67
+67,
+68
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +68,8 @@
 71,
 72,
 72,
-71
+71,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,7 +114,8 @@
 83,
 83,
 83,
-82
+82,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +160,8 @@
 63,
 63,
 63,
-63
+63,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,9 +174,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 53,
+"time": 1784439518
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -187,7 +196,8 @@
 69,
 70,
 70,
-69
+69,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,9 +225,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 53,
+"time": 1784439518
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -232,7 +247,8 @@
 65,
 65,
 65,
-64
+64,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,6 +293,7 @@
 63,
 63,
 63,
+61,
 61
 ],
 "instructorLog": {
@@ -322,7 +339,8 @@
 61,
 62,
 62,
-62
+62,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,7 +363,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Strategic Management"
 }

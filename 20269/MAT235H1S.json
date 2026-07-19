@@ -22,6 +22,7 @@
 11,
 49,
 52,
+52,
 52
 ],
 "instructorLog": {
@@ -67,13 +68,29 @@
 12,
 38,
 39,
-40
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Faidon",
+"lastName": "Andriopoulos"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Faidon",
+"lastName": "Andriopoulos"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -90,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Vector Calculus I"
 }

@@ -22,7 +22,8 @@
 15,
 42,
 102,
-103
+103,
+105
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +36,19 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Edward",
+"lastName": "Banning"
+},
+{
+"firstName": "John",
+"lastName": "Creese"
+}
+],
+"timing": 1784439518
 }
 ]
 },
@@ -42,6 +56,10 @@
 {
 "firstName": "Edward",
 "lastName": "Banning"
+},
+{
+"firstName": "John",
+"lastName": "Creese"
 }
 ],
 "isCancelled": false,
@@ -60,7 +78,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introduction to Archaeology"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -17,6 +22,7 @@
 102,
 102,
 106,
+105,
 105,
 105,
 105,
@@ -67,6 +73,7 @@
 97,
 97,
 97,
+97,
 97
 ],
 "instructorLog": {
@@ -105,7 +112,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Ordinary Differential Equations"
 }

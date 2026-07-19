@@ -22,13 +22,29 @@
 24,
 28,
 29,
-28
+28,
+27
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ryan",
+"lastName": "Persadie"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ryan",
+"lastName": "Persadie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Studies in Queer and Trans"
 }

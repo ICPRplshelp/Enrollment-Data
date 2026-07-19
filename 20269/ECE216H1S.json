@@ -22,7 +22,8 @@
 102,
 102,
 103,
-103
+103,
+106
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +51,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -67,6 +73,7 @@
 102,
 102,
 102,
+101,
 101
 ],
 "instructorLog": {
@@ -95,15 +102,21 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
 0,
 0,
 0,
+114,
 114,
 114,
 114,
@@ -140,9 +153,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -157,7 +175,8 @@
 109,
 109,
 109,
-109
+109,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +214,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Signals and Systems"
 }

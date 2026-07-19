@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 90,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1784439518
+}
+],
 "initialCap": 90
 },
 "enrollmentLogs": [
@@ -22,6 +27,7 @@
 89,
 90,
 103,
+105,
 105
 ],
 "instructorLog": {
@@ -67,6 +73,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -90,7 +97,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Linear Algebra II"
 }

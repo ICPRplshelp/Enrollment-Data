@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 18,
+"enrollmentCap": 20,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 18,
 "time": 1784234377
+},
+{
+"newCapacity": 20,
+"time": 1784439518
 }
 ],
 "initialCap": 15
@@ -27,6 +31,7 @@
 16,
 18,
 18,
+19,
 19
 ],
 "instructorLog": {
@@ -50,7 +55,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Diasporic Media"
 }

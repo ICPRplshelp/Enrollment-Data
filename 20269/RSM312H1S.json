@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1784439518
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 6,
 6,
 6,
-6
+6,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -44,7 +50,7 @@
 "lastName": "Soberman"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0101"
 }
 ],
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Special Topics in Management"
 }

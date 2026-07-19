@@ -22,13 +22,29 @@
 217,
 333,
 491,
-506
+506,
+529
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jacob",
+"lastName": "Dvorak"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jacob",
+"lastName": "Dvorak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +68,29 @@
 105,
 105,
 107,
-108
+108,
+109
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2501"
 },
@@ -82,13 +114,29 @@
 26,
 56,
 143,
-147
+147,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Grace Chandler",
+"lastName": "Caldwell"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -105,7 +153,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introduction to Classical Mythology"
 }

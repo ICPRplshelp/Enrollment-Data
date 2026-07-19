@@ -22,7 +22,8 @@
 41,
 73,
 74,
-74
+74,
+75
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +68,8 @@
 75,
 84,
 83,
-83
+83,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +82,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Diane",
-"lastName": "Horton"
+"firstName": "Marina",
+"lastName": "Tawfik"
 }
 ],
 "isCancelled": false,
@@ -112,7 +123,8 @@
 68,
 77,
 78,
-78
+78,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,13 +137,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Diane",
+"lastName": "Horton"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Tawfik"
+"firstName": "Diane",
+"lastName": "Horton"
 }
 ],
 "isCancelled": false,
@@ -155,6 +176,7 @@
 24,
 24,
 24,
+23,
 23,
 23,
 23
@@ -202,7 +224,8 @@
 32,
 31,
 31,
-31
+31,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,13 +238,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Marina",
+"lastName": "Tawfik"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Diane",
-"lastName": "Horton"
+"firstName": "Marina",
+"lastName": "Tawfik"
 }
 ],
 "isCancelled": false,
@@ -247,6 +279,7 @@
 32,
 32,
 32,
+32,
 32
 ],
 "instructorLog": {
@@ -260,13 +293,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Diane",
+"lastName": "Horton"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Tawfik"
+"firstName": "Diane",
+"lastName": "Horton"
 }
 ],
 "isCancelled": false,
@@ -291,6 +333,7 @@
 31,
 33,
 33,
+35,
 35,
 35
 ],
@@ -337,7 +380,8 @@
 32,
 39,
 40,
-40
+40,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -375,7 +419,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introduction to Databases"
 }

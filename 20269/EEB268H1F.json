@@ -22,13 +22,29 @@
 35,
 57,
 59,
-60
+60,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cedric",
+"lastName": "Ndinga Muniania"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Cedric",
+"lastName": "Ndinga Muniania"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Plant and Microbial Diversity"
 }

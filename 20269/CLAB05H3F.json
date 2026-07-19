@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1784439518
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 43,
 43,
 61,
-62
+62,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "History and Culture of the Greek World"
 }

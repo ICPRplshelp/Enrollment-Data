@@ -22,7 +22,8 @@
 16,
 17,
 36,
-36
+36,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +68,8 @@
 10,
 10,
 21,
-21
+21,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,6 +82,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Teresa",
+"lastName": "Lobalsamo"
+},
+{
+"firstName": "Simona",
+"lastName": "Di Martino"
+}
+],
+"timing": 1784439518
 }
 ]
 },
@@ -87,6 +102,10 @@
 {
 "firstName": "Teresa",
 "lastName": "Lobalsamo"
+},
+{
+"firstName": "Simona",
+"lastName": "Di Martino"
 }
 ],
 "isCancelled": false,
@@ -112,6 +131,7 @@
 14,
 14,
 32,
+33,
 33
 ],
 "instructorLog": {
@@ -150,7 +170,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Beginner Italian"
 }

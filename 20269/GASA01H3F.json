@@ -5,7 +5,7 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 85,
+"enrollmentCap": 79,
 "enrollmentCapComplex": {
 "capChanges": [
 {
@@ -15,6 +15,10 @@
 {
 "newCapacity": 85,
 "time": 1784234377
+},
+{
+"newCapacity": 79,
+"time": 1784439518
 }
 ],
 "initialCap": 113
@@ -31,6 +35,7 @@
 53,
 53,
 71,
+73,
 73
 ],
 "instructorLog": {
@@ -69,7 +74,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Introducing Global Asia and its Histories"
 }

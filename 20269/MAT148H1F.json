@@ -22,7 +22,8 @@
 32,
 34,
 201,
-199
+199,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +68,8 @@
 0,
 0,
 101,
-112
+112,
+125
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,13 +99,29 @@
 0,
 1,
 59,
-66
+66,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jorge Antonio",
+"lastName": "Cruz Chapital"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jorge Antonio",
+"lastName": "Cruz Chapital"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -127,13 +145,29 @@
 0,
 2,
 70,
-74
+74,
+80
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mary",
+"lastName": "Pugh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mary",
+"lastName": "Pugh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -157,7 +191,8 @@
 32,
 34,
 149,
-151
+151,
+176
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +237,8 @@
 33,
 34,
 237,
-234
+234,
+228
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +283,8 @@
 1,
 2,
 185,
-193
+193,
+196
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -292,7 +329,8 @@
 0,
 1,
 66,
-68
+68,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -330,7 +368,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Calculus I with Proofs"
 }

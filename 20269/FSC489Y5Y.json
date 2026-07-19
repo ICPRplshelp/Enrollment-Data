@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 2,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1784439518
+}
+],
 "initialCap": 2
 },
 "enrollmentLogs": [
@@ -22,6 +27,7 @@
 1,
 1,
 1,
+2,
 2
 ],
 "instructorLog": {
@@ -46,6 +52,52 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 3,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 3
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "James",
+"lastName": "Morrow"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0102"
 }
 ],
 "timeIntervals": [
@@ -60,7 +112,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Advanced Independent Project"
 }

@@ -31,13 +31,29 @@
 95,
 95,
 94,
-94
+94,
+93
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Haley",
+"lastName": "Zubyk"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Haley",
+"lastName": "Zubyk"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -54,7 +70,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "AIDS: A Global Perspective"
 }

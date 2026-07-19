@@ -22,13 +22,29 @@
 26,
 69,
 87,
-87
+87,
+90
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Georgia",
+"lastName": "Ferentinou"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Georgia",
+"lastName": "Ferentinou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Sex, Death, and Poetry"
 }

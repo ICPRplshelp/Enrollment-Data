@@ -25,13 +25,29 @@
 47,
 47,
 47,
-47
+47,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Julia",
+"lastName": "Gallucci"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Julia",
+"lastName": "Gallucci"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -46,7 +62,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Data Analytics"
 }

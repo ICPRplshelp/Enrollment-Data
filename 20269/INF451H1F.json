@@ -25,13 +25,29 @@
 48,
 48,
 48,
-48
+48,
+47
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Eliza",
+"lastName": "Pertigkiozoglou"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Eliza",
+"lastName": "Pertigkiozoglou"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -46,7 +62,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Des Stu IV: Info Visualization"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 121,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 121,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 71,
 116,
 120,
-120
+120,
+121
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Effective Communication and Strategic Writing in Organizations"
 }

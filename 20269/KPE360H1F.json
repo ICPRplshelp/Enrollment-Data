@@ -20,13 +20,29 @@
 0,
 0,
 96,
-98
+98,
+100
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Danny",
+"lastName": "Pincivero"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Danny",
+"lastName": "Pincivero"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -41,7 +57,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Advanced Cardiorespiratory Physiology"
 }

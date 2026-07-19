@@ -22,13 +22,29 @@
 0,
 0,
 35,
-35
+35,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Theo Oguzhan",
+"lastName": "Tekin"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Theo Oguzhan",
+"lastName": "Tekin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +68,29 @@
 0,
 0,
 37,
-37
+37,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Erin",
+"lastName": "Vearncombe"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "utmONE Scholars: Special Topics at the Intersection of Social Science and Humanities"
 }

@@ -22,13 +22,37 @@
 158,
 163,
 165,
+168,
 168
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Natasha",
+"lastName": "Nanwa"
 },
-"instructors": [],
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Natasha",
+"lastName": "Nanwa"
+},
+{
+"firstName": "Gracia Yunruo",
+"lastName": "Dong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +69,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Epidemiology of Health & Disease"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 178,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1784439518
+}
+],
 "initialCap": 178
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 202,
 217,
 222,
-222
+222,
+225
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -61,6 +67,7 @@
 26,
 26,
 26,
+26,
 26
 ],
 "instructorLog": {
@@ -84,7 +91,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Advanced Classical Mechanics"
 }

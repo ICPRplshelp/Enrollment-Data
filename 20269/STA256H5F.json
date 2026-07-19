@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 138,
 137,
 147,
-149
+149,
+152
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,9 +41,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 150,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 150,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -52,7 +63,8 @@
 126,
 128,
 140,
-143
+143,
+153
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,9 +92,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -97,7 +114,8 @@
 125,
 125,
 138,
-142
+142,
+132
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,9 +143,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 130,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 130,
+"time": 1784439518
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -142,7 +165,8 @@
 124,
 126,
 130,
-134
+134,
+129
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -180,7 +204,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Probability and Statistics I"
 }

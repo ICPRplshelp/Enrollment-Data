@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 100,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 100,
+"time": 1784439518
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 73,
 74,
 92,
-90
+90,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -45,7 +51,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Effective Writing in the Sciences"
 }

@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 32,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 32,
+"time": 1784439518
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -22,6 +27,7 @@
 20,
 20,
 28,
+30,
 30
 ],
 "instructorLog": {
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Between Two Empires: The World of Late Antiquity"
 }

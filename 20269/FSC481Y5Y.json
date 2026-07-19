@@ -22,7 +22,8 @@
 12,
 12,
 13,
-14
+14,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +36,19 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vivienne",
+"lastName": "Luk"
+},
+{
+"firstName": "Noor",
+"lastName": "Abbas"
+}
+],
+"timing": 1784439518
 }
 ]
 },
@@ -42,6 +56,10 @@
 {
 "firstName": "Vivienne",
 "lastName": "Luk"
+},
+{
+"firstName": "Noor",
+"lastName": "Abbas"
 }
 ],
 "isCancelled": false,
@@ -60,7 +78,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Internship in Forensic Science"
 }

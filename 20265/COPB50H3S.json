@@ -109,13 +109,29 @@
 53,
 53,
 53,
+53,
 53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+}
+],
+"timing": 1784439489
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ching-Yee Jolie",
+"lastName": "Chan"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -214,7 +230,8 @@
 1783837110,
 1783994585,
 1784234356,
-1784431908
+1784431908,
+1784439489
 ],
 "title": "Foundations for Success in Art and Science Co-op"
 }

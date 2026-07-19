@@ -22,13 +22,37 @@
 84,
 83,
 85,
+83,
 83
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
 },
-"instructors": [],
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
+},
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,13 +76,37 @@
 44,
 45,
 46,
-52
+52,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
 },
-"instructors": [],
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Cho Yin",
+"lastName": "Yong"
+},
+{
+"firstName": "Aleksander",
+"lastName": "Bodurri"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC02"
 }
@@ -75,7 +123,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Engineering Large Software Systems"
 }

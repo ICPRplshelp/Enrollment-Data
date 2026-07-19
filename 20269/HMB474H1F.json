@@ -27,13 +27,37 @@
 117,
 117,
 120,
-120
+120,
+115
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Morris",
+"lastName": "Manolson"
 },
-"instructors": [],
+{
+"firstName": "Karina",
+"lastName": "Carneiro"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Morris",
+"lastName": "Manolson"
+},
+{
+"firstName": "Karina",
+"lastName": "Carneiro"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -50,7 +74,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Dental Sciences"
 }

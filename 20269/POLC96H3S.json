@@ -1,0 +1,46 @@
+{
+"code": "POLC96H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 60,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 60
+},
+"enrollmentLogs": [
+0,
+7
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paul",
+"lastName": "Kingston"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Paul",
+"lastName": "Kingston"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1784439517,
+1784439518
+],
+"title": "State Formation and Authoritarianism in the Middle East"
+}

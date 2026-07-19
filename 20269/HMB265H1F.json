@@ -22,13 +22,37 @@
 225,
 1038,
 1074,
-1077
+1077,
+1086
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alexandra",
+"lastName": "Malinowski"
 },
-"instructors": [],
+{
+"firstName": "Belinda",
+"lastName": "Chang"
+}
+],
+"timing": 1784439518
+}
+]
+},
+"instructors": [
+{
+"firstName": "Alexandra",
+"lastName": "Malinowski"
+},
+{
+"firstName": "Belinda",
+"lastName": "Chang"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +69,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "General & Human Genetics"
 }

@@ -22,6 +22,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -59,6 +60,7 @@
 0,
 0,
 0,
+12,
 12,
 12,
 12,
@@ -112,6 +114,7 @@
 12,
 12,
 12,
+12,
 12
 ],
 "instructorLog": {
@@ -152,6 +155,7 @@
 12,
 12,
 11,
+12,
 12,
 12,
 12,
@@ -202,13 +206,29 @@
 8,
 10,
 12,
+12,
 12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0501"
 },
@@ -232,13 +252,29 @@
 2,
 2,
 3,
-4
+4,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0601"
 },
@@ -262,13 +298,29 @@
 0,
 0,
 0,
-0
+0,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brian",
+"lastName": "McDonagh"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0701"
 }
@@ -285,7 +337,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Keyboard Skills"
 }

@@ -22,13 +22,29 @@
 400,
 476,
 486,
-488
+488,
+490
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +68,29 @@
 5,
 5,
 5,
+5,
 5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Bill",
+"lastName": "Ju"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -75,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Cellular and Molecular Neurobiology of the Synapse"
 }

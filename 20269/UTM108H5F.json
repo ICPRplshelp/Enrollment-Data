@@ -22,13 +22,29 @@
 1,
 1,
 56,
-56
+56,
+67
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheliza",
+"lastName": "Ibrahim"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sheliza",
+"lastName": "Ibrahim"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -41,6 +57,7 @@
 "initialCap": 25
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -75,7 +92,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "utmONE: Special Topics at the Intersection of Science and Social Science"
 }

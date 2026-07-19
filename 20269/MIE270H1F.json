@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 140,
+"enrollmentCap": 127,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 140,
 "time": 1783375107
+},
+{
+"newCapacity": 127,
+"time": 1784439518
 }
 ],
 "initialCap": 110
@@ -27,7 +31,8 @@
 129,
 129,
 128,
-128
+128,
+127
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -85,6 +90,7 @@
 122,
 122,
 123,
+123,
 123
 ],
 "instructorLog": {
@@ -131,7 +137,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Materials Science"
 }

@@ -22,13 +22,29 @@
 0,
 4,
 164,
-162
+162,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Xiao",
+"lastName": "Zhong"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Xiao",
+"lastName": "Zhong"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +68,8 @@
 2,
 4,
 216,
-215
+215,
+203
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,7 +114,8 @@
 0,
 2,
 253,
-252
+252,
+250
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -142,6 +160,7 @@
 0,
 3,
 235,
+236,
 236
 ],
 "instructorLog": {
@@ -187,7 +206,8 @@
 0,
 0,
 106,
-114
+114,
+124
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -232,7 +252,8 @@
 168,
 167,
 253,
-251
+251,
+248
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,7 +298,8 @@
 115,
 116,
 263,
-261
+261,
+259
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -322,13 +344,29 @@
 0,
 1,
 182,
-218
+218,
+240
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jiaqi",
+"lastName": "Fu"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jiaqi",
+"lastName": "Fu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0701"
 },
@@ -352,7 +390,8 @@
 0,
 0,
 215,
-218
+218,
+213
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -397,7 +436,8 @@
 0,
 0,
 129,
-133
+133,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -442,7 +482,8 @@
 0,
 1,
 76,
-78
+78,
+84
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -487,7 +528,8 @@
 0,
 0,
 30,
-28
+28,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -517,7 +559,8 @@
 0,
 0,
 40,
-42
+42,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -562,7 +605,8 @@
 0,
 1,
 73,
-79
+79,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -585,7 +629,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Calculus II"
 }

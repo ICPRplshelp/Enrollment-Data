@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 155,
+"enrollmentCap": 156,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 155,
 "time": 1783375107
+},
+{
+"newCapacity": 156,
+"time": 1784439518
 }
 ],
 "initialCap": 150
@@ -27,7 +31,8 @@
 152,
 152,
 153,
-153
+153,
+155
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,7 +70,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Chemical Reaction Engineering"
 }

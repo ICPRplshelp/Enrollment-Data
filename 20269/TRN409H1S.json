@@ -27,6 +27,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -57,13 +58,29 @@
 13,
 12,
 12,
+13,
 13
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Daniel",
+"lastName": "Manulak"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Daniel",
+"lastName": "Manulak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
@@ -81,6 +98,7 @@
 "initialCap": 16
 },
 "enrollmentLogs": [
+0,
 0,
 0,
 0,
@@ -122,13 +140,29 @@
 15,
 16,
 16,
+16,
 16
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "LeRoux-Rutledge"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "LeRoux-Rutledge"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0401"
 },
@@ -151,6 +185,7 @@
 1,
 6,
 8,
+10,
 10,
 10
 ],
@@ -187,6 +222,7 @@
 0,
 0,
 0,
+0,
 0
 ],
 "instructorLog": {
@@ -210,7 +246,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Selected Topics in International Studies"
 }

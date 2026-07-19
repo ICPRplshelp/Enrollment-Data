@@ -22,7 +22,8 @@
 1,
 23,
 26,
-26
+26,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,6 +68,7 @@
 3,
 59,
 61,
+60,
 60
 ],
 "instructorLog": {
@@ -111,6 +113,7 @@
 1,
 1,
 7,
+8,
 8,
 8
 ],
@@ -162,7 +165,8 @@
 4,
 56,
 57,
-56
+56,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -207,7 +211,8 @@
 27,
 96,
 94,
-89
+89,
+85
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -235,9 +240,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784439518
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -252,7 +262,8 @@
 0,
 53,
 53,
-53
+53,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -297,7 +308,8 @@
 1,
 8,
 9,
-9
+9,
+10
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -342,7 +354,8 @@
 0,
 24,
 29,
-30
+30,
+31
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -387,7 +400,8 @@
 3,
 80,
 80,
-78
+78,
+79
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -432,7 +446,8 @@
 10,
 73,
 74,
-72
+72,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -482,7 +497,8 @@
 5,
 58,
 59,
-59
+59,
+61
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -527,7 +543,8 @@
 7,
 80,
 81,
-79
+79,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -551,6 +568,37 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC1201"
+},
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
 }
 ],
 "timeIntervals": [
@@ -565,7 +613,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Management Accounting I"
 }

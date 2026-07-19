@@ -22,7 +22,8 @@
 82,
 80,
 80,
-80
+80,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -48,6 +49,37 @@
 "meetingNumber": "LEC0101"
 },
 {
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 53,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 53
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+26
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
 "createdAt": 1781442026,
 "delivery": "INPER",
 "enrollmentCap": 52,
@@ -67,7 +99,8 @@
 74,
 73,
 73,
-74
+74,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +138,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Sustainable Finance"
 }

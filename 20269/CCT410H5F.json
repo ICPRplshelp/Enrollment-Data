@@ -22,13 +22,29 @@
 51,
 50,
 49,
+49,
 49
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Radha",
+"lastName": "Maharaj"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +68,8 @@
 53,
 52,
 50,
-50
+50,
+49
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "CCIT Internship I"
 }

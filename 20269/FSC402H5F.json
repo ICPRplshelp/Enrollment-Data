@@ -27,13 +27,29 @@
 50,
 50,
 49,
-49
+49,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Zachary",
+"lastName": "Currie"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Zachary",
+"lastName": "Currie"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -50,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Forensic Toxicology"
 }

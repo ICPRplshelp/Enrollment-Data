@@ -22,13 +22,29 @@
 44,
 44,
 56,
-57
+57,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Edwin",
+"lastName": "Safari"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Edwin",
+"lastName": "Safari"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -45,7 +61,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Environmental Impact Assessment and Auditing"
 }

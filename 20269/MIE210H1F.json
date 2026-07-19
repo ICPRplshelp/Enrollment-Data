@@ -35,7 +35,8 @@
 250,
 250,
 145,
-145
+145,
+146
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -63,9 +64,14 @@
 {
 "createdAt": 1783375107,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -80,7 +86,8 @@
 3,
 3,
 108,
-108
+108,
+107
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -103,7 +110,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Thermodynamics"
 }

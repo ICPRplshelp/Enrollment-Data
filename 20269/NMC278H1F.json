@@ -22,7 +22,8 @@
 19,
 39,
 41,
-41
+41,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +36,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Adrien",
+"lastName": "Zakar"
+},
+{
+"firstName": "Negar",
+"lastName": "Banisafar"
+}
+],
+"timing": 1784439518
 }
 ]
 },
@@ -42,6 +56,10 @@
 {
 "firstName": "Adrien",
 "lastName": "Zakar"
+},
+{
+"firstName": "Negar",
+"lastName": "Banisafar"
 }
 ],
 "isCancelled": false,
@@ -60,7 +78,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Modern Middle East: A Historical Introduction"
 }

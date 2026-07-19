@@ -22,13 +22,29 @@
 8,
 8,
 23,
-25
+25,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Laura",
+"lastName": "Taylor"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Laura",
+"lastName": "Taylor"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC9998"
 },
@@ -52,13 +68,29 @@
 1,
 1,
 1,
-2
+2,
+3
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Theo Oguzhan",
+"lastName": "Tekin"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Theo Oguzhan",
+"lastName": "Tekin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC9999"
 }
@@ -75,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Basics of Writing in English (BoWiE)"
 }

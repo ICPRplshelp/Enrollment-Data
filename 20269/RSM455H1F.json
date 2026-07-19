@@ -22,7 +22,8 @@
 26,
 26,
 27,
-27
+27,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +51,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 42,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1784439518
+}
+],
 "initialCap": 42
 },
 "enrollmentLogs": [
@@ -67,7 +73,8 @@
 12,
 12,
 12,
-12
+12,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -89,7 +96,7 @@
 "lastName": "Mehta"
 }
 ],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0201"
 }
 ],
@@ -105,7 +112,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Pricing"
 }

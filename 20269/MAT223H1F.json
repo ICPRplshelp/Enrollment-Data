@@ -22,7 +22,8 @@
 2,
 2,
 234,
-235
+235,
+231
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,7 +68,8 @@
 0,
 0,
 177,
-184
+184,
+188
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -112,13 +114,29 @@
 30,
 28,
 98,
-101
+101,
+104
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Noha",
+"lastName": "Elgarem"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -142,6 +160,7 @@
 1,
 1,
 15,
+16,
 16
 ],
 "instructorLog": {
@@ -172,7 +191,8 @@
 2,
 2,
 154,
-162
+162,
+171
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -217,7 +237,8 @@
 0,
 0,
 38,
-42
+42,
+40
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -262,13 +283,29 @@
 0,
 0,
 6,
+7,
 7
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Alice",
+"lastName": "Rolf"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Alice",
+"lastName": "Rolf"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0502"
 },
@@ -292,13 +329,29 @@
 1,
 1,
 44,
-46
+46,
+48
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Brinda",
+"lastName": "Venkataramani"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Brinda",
+"lastName": "Venkataramani"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0601"
 },
@@ -322,7 +375,8 @@
 0,
 0,
 27,
-26
+26,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -345,7 +399,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Linear Algebra I"
 }

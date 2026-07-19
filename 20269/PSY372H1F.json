@@ -22,13 +22,29 @@
 55,
 57,
 56,
+57,
 57
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +68,8 @@
 12,
 14,
 14,
-14
+14,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -90,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Human Memory"
 }

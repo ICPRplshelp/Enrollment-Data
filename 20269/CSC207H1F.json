@@ -22,6 +22,7 @@
 15,
 111,
 113,
+113,
 113
 ],
 "instructorLog": {
@@ -67,7 +68,8 @@
 17,
 90,
 92,
-92
+92,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +82,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lindsey",
+"lastName": "Shorser"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Jack",
-"lastName": "Sun"
+"firstName": "Lindsey",
+"lastName": "Shorser"
 }
 ],
 "isCancelled": false,
@@ -112,7 +123,8 @@
 50,
 118,
 119,
-121
+121,
+119
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,6 +169,7 @@
 12,
 151,
 157,
+158,
 158
 ],
 "instructorLog": {
@@ -202,6 +215,7 @@
 11,
 38,
 40,
+40,
 40
 ],
 "instructorLog": {
@@ -215,13 +229,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jack",
+"lastName": "Sun"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Lindsey",
-"lastName": "Shorser"
+"firstName": "Jack",
+"lastName": "Sun"
 }
 ],
 "isCancelled": false,
@@ -240,7 +263,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Software Design"
 }

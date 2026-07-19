@@ -22,7 +22,8 @@
 58,
 59,
 60,
-60
+60,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -67,13 +68,29 @@
 9,
 9,
 9,
+9,
 9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christine Millicent",
+"lastName": "Burton"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -90,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Cognitive Neuroscience"
 }

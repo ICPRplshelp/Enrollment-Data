@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 127,
+"enrollmentCap": 117,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 117,
+"time": 1784439518
+}
+],
 "initialCap": 127
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 82,
 84,
 102,
-105
+105,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -60,7 +66,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "The Ancient Mediterranean World"
 }

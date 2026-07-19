@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 255,
+"enrollmentCap": 285,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 285,
+"time": 1784439518
+}
+],
 "initialCap": 255
 },
 "enrollmentLogs": [
@@ -22,7 +27,8 @@
 217,
 219,
 273,
-274
+274,
+279
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -45,7 +51,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Ancient Mythology II: Greece and Rome"
 }

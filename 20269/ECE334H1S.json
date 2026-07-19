@@ -22,6 +22,7 @@
 111,
 110,
 112,
+111,
 111
 ],
 "instructorLog": {
@@ -67,13 +68,29 @@
 108,
 109,
 111,
-111
+111,
+112
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Glenn",
+"lastName": "Gulak"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Glenn",
+"lastName": "Gulak"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -90,7 +107,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Digital Electronics"
 }

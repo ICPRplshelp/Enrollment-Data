@@ -22,13 +22,29 @@
 0,
 0,
 18,
-18
+18,
+34
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Margaret",
+"lastName": "Karrass"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Margaret",
+"lastName": "Karrass"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +68,29 @@
 0,
 0,
 12,
-13
+13,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Margaret",
+"lastName": "Karrass"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Margaret",
+"lastName": "Karrass"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,13 +114,29 @@
 0,
 0,
 4,
-4
+4,
+12
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Andrijana",
+"lastName": "Burazin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0103"
 }
@@ -105,7 +153,8 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518
 ],
 "title": "Numeracy for University and Beyond"
 }
