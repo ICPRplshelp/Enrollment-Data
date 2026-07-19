@@ -1,0 +1,54 @@
+{
+"code": "PHL496H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1790202095,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Nagel"
+}
+],
+"timing": 1790642175
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Nagel"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1790202094,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679
+],
+"title": "Individual Studies"
+}

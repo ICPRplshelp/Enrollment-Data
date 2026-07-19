@@ -1,13 +1,18 @@
 {
 "code": "FSL475H1F",
-"faculty": "ARTSC",
+"faculty": "UNKNOWN",
 "meetings": [
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 14,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 14,
+"time": 1786729205
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -22,13 +27,37 @@
 4,
 4,
 4,
-4
+4,
+4,
+4,
+3,
+3,
+4,
+6,
+6,
+7,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sebastien",
+"lastName": "Sacre"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Sebastien",
+"lastName": "Sacre"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +74,16 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168
 ],
 "title": "Creative Writing in French"
 }

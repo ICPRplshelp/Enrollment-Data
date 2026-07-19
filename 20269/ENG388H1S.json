@@ -1,0 +1,56 @@
+{
+"code": "ENG388H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+21,
+25,
+25,
+27,
+26,
+26
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "George Elliott",
+"lastName": "Clarke"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "George Elliott",
+"lastName": "Clarke"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1789843674,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679
+],
+"title": "Creative Writing: Poetry"
+}

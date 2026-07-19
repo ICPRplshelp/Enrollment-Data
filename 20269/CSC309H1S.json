@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 3,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 3,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -22,7 +27,28 @@
 5,
 5,
 5,
-5
+5,
+4,
+4,
+4,
+4,
+3,
+3,
+3,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+2,
+1,
+1,
+1,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,9 +61,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1787374227
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -52,7 +83,28 @@
 3,
 2,
 2,
-2
+2,
+2,
+2,
+2,
+2,
+1,
+1,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,9 +117,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 122,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 122,
+"time": 1787374227
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -82,7 +139,28 @@
 75,
 79,
 80,
-81
+81,
+82,
+88,
+88,
+88,
+90,
+108,
+104,
+100,
+101,
+99,
+98,
+98,
+97,
+99,
+99,
+95,
+94,
+94,
+93,
+93,
+92
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +173,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 120,
+"enrollmentCap": 125,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 125,
+"time": 1787374227
+}
+],
 "initialCap": 120
 },
 "enrollmentLogs": [
@@ -112,7 +195,28 @@
 82,
 84,
 86,
-85
+85,
+84,
+91,
+97,
+97,
+98,
+107,
+109,
+112,
+111,
+113,
+113,
+113,
+116,
+117,
+117,
+117,
+116,
+116,
+118,
+124,
+123
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -135,7 +239,28 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679
 ],
 "title": "Programming on the Web"
 }

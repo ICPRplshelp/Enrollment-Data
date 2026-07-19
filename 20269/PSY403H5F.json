@@ -22,13 +22,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -52,13 +88,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
@@ -82,13 +154,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iva",
+"lastName": "Zovkic"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Iva",
+"lastName": "Zovkic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0201"
 },
@@ -112,13 +220,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Loren",
+"lastName": "Martin"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Loren",
+"lastName": "Martin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0301"
 },
@@ -131,6 +275,27 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -172,15 +337,117 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanne Mee Hae",
+"lastName": "Chung"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Joanne Mee Hae",
+"lastName": "Chung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0401"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Joanne Mee Hae",
+"lastName": "Chung"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Joanne Mee Hae",
+"lastName": "Chung"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0402"
 },
 {
 "createdAt": 1781442026,
@@ -202,13 +469,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0501"
 },
@@ -221,6 +524,27 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -262,13 +586,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0601"
 },
@@ -292,13 +652,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0602"
 },
@@ -322,13 +718,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0603"
 },
@@ -352,13 +784,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jennifer",
+"lastName": "Stellar"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0604"
 },
@@ -382,13 +850,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Ulrich",
+"lastName": "Schimmack"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Ulrich",
+"lastName": "Schimmack"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0701"
 },
@@ -401,6 +905,27 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -442,15 +967,117 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Gerlai"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Gerlai"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0801"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Robert",
+"lastName": "Gerlai"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Robert",
+"lastName": "Gerlai"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0802"
 },
 {
 "createdAt": 1781442026,
@@ -472,13 +1099,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Samuel",
+"lastName": "Ronfard"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Samuel",
+"lastName": "Ronfard"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0901"
 },
@@ -502,13 +1165,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1001"
 },
@@ -532,15 +1231,183 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1002"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA1003"
+},
+{
+"createdAt": 1790202095,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1790202095
+}
+]
+},
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA1004"
 },
 {
 "createdAt": 1781442026,
@@ -562,13 +1429,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Impett"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Impett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1101"
 },
@@ -592,13 +1495,49 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Emily",
+"lastName": "Impett"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Emily",
+"lastName": "Impett"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA1102"
 },
@@ -622,7 +1561,28 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -641,6 +1601,27 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -682,6 +1663,27 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -701,6 +1703,27 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -742,7 +1765,94 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Priscilla",
+"lastName": "Fung"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Priscilla",
+"lastName": "Fung"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA1301"
+},
+{
+"createdAt": 1791480811,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -750,7 +1860,7 @@
 },
 "instructors": [],
 "isCancelled": false,
-"meetingNumber": "PRA1301"
+"meetingNumber": "PRA1401"
 }
 ],
 "timeIntervals": [
@@ -765,7 +1875,28 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679
 ],
 "title": "Individual Project"
 }

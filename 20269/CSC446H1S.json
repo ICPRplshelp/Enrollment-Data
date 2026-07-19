@@ -1,0 +1,33 @@
+{
+"code": "CSC446H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1791480811,
+"delivery": "INPER",
+"enrollmentCap": 10,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 10
+},
+"enrollmentLogs": [
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1791480810,
+1791480811,
+1792068679
+],
+"title": "Computational Methods for Partial Differential Equations"
+}

@@ -1,0 +1,48 @@
+{
+"code": "WGS335H1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1791480811,
+"delivery": "SYNC",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+18,
+24
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Judith",
+"lastName": "Taylor"
+}
+],
+"timing": 1791480811
+}
+]
+},
+"instructors": [
+{
+"firstName": "Judith",
+"lastName": "Taylor"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1791480810,
+1791480811,
+1792068679
+],
+"title": "Special Topic in Women and Gender Studies"
+}

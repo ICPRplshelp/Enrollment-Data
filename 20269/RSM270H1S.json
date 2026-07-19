@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 71,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 71,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -22,7 +27,28 @@
 1,
 32,
 34,
-34
+34,
+34,
+34,
+34,
+34,
+36,
+38,
+39,
+39,
+39,
+46,
+45,
+47,
+48,
+55,
+55,
+62,
+62,
+62,
+62,
+62,
+65
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,13 +61,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1792068679
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Feng",
-"lastName": "Lu"
+"firstName": "Hansheng",
+"lastName": "Jiang"
 }
 ],
 "isCancelled": false,
@@ -50,9 +85,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -67,7 +107,28 @@
 6,
 86,
 87,
-88
+88,
+89,
+87,
+85,
+85,
+84,
+83,
+83,
+82,
+80,
+83,
+82,
+80,
+80,
+80,
+80,
+83,
+82,
+82,
+82,
+82,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,13 +141,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1792068679
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Feng",
-"lastName": "Lu"
+"firstName": "Hansheng",
+"lastName": "Jiang"
 }
 ],
 "isCancelled": false,
@@ -95,9 +165,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -112,7 +187,28 @@
 4,
 77,
 73,
-73
+73,
+73,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+71,
+73,
+75,
+75,
+76,
+76,
+76,
+74,
+73,
+73,
+73,
+74,
+74
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,13 +221,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hansheng",
+"lastName": "Jiang"
+}
+],
+"timing": 1792068679
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Feng",
-"lastName": "Lu"
+"firstName": "Hansheng",
+"lastName": "Jiang"
 }
 ],
 "isCancelled": false,
@@ -140,9 +245,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -157,7 +267,28 @@
 13,
 79,
 81,
-82
+82,
+81,
+79,
+79,
+79,
+79,
+80,
+79,
+77,
+74,
+77,
+79,
+81,
+81,
+79,
+79,
+76,
+79,
+79,
+79,
+77,
+77
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -170,13 +301,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Saunders"
+}
+],
+"timing": 1792068679
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hansheng",
-"lastName": "Jiang"
+"firstName": "Adam",
+"lastName": "Saunders"
 }
 ],
 "isCancelled": false,
@@ -185,9 +325,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -202,7 +347,28 @@
 13,
 94,
 91,
-91
+91,
+91,
+87,
+87,
+87,
+87,
+88,
+88,
+87,
+84,
+85,
+88,
+87,
+86,
+85,
+85,
+81,
+82,
+82,
+82,
+81,
+82
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -215,13 +381,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Adam",
+"lastName": "Saunders"
+}
+],
+"timing": 1792068679
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Hansheng",
-"lastName": "Jiang"
+"firstName": "Adam",
+"lastName": "Saunders"
 }
 ],
 "isCancelled": false,
@@ -247,7 +422,28 @@
 2,
 24,
 30,
-30
+30,
+30,
+31,
+31,
+31,
+32,
+33,
+32,
+32,
+31,
+40,
+45,
+47,
+49,
+53,
+53,
+51,
+50,
+50,
+51,
+55,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -277,7 +473,28 @@
 4,
 79,
 81,
-81
+81,
+81,
+78,
+79,
+79,
+78,
+78,
+78,
+77,
+76,
+77,
+77,
+77,
+78,
+77,
+77,
+74,
+72,
+72,
+73,
+73,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -315,7 +532,28 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194,
+1790642175,
+1791480811,
+1792068679
 ],
 "title": "Operations Management"
 }
