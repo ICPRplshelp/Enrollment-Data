@@ -22,13 +22,46 @@
 8,
 8,
 195,
-211
+211,
+299,
+309,
+319,
+319,
+349,
+374,
+391,
+399,
+414,
+395,
+393,
+400,
+402,
+408,
+408,
+403,
+401,
+401
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +85,46 @@
 15,
 15,
 453,
-454
+454,
+495,
+497,
+497,
+497,
+499,
+493,
+483,
+480,
+477,
+469,
+471,
+461,
+465,
+457,
+457,
+450,
+448,
+448
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Otto",
+"lastName": "Yung"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 }
@@ -75,7 +141,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Introduction to Management Functions"
 }

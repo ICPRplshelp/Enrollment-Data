@@ -1,0 +1,49 @@
+{
+"code": "ANTD06H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 24,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 24
+},
+"enrollmentLogs": [
+0,
+4,
+5,
+7,
+7,
+9,
+8,
+8,
+8,
+8,
+8
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1788312167,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Reading Ethnography"
+}

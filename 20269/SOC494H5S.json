@@ -1,0 +1,78 @@
+{
+"code": "SOC494H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 5,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 5
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1789179152,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1788312167,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Independent Research in Criminology, Law and Society"
+}

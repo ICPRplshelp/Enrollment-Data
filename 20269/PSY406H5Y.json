@@ -22,13 +22,46 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0101"
 },
@@ -52,17 +85,224 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0102"
 },
 {
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0103"
+},
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Christina M Vanden Bosc",
+"lastName": "der Nederlanden"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0104"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "PRA0105"
+},
+{
 "createdAt": 1781442026,
 "delivery": "INPER",
 "enrollmentCap": 1,
@@ -82,18 +322,51 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0201"
 },
 {
-"createdAt": 1781442026,
+"createdAt": 1789843675,
 "delivery": "INPER",
 "enrollmentCap": 1,
 "enrollmentCapComplex": {
@@ -112,15 +385,48 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Elizabeth",
+"lastName": "Johnson"
+}
+],
 "isCancelled": false,
-"meetingNumber": "PRA0301"
+"meetingNumber": "PRA0202"
 },
 {
 "createdAt": 1781442026,
@@ -142,13 +448,172 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1789843675
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0301"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Keisuke",
+"lastName": "Fukuda"
+}
+],
+"isCancelled": false,
+"meetingNumber": "PRA0302"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Iva",
+"lastName": "Zovkic"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Iva",
+"lastName": "Zovkic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "PRA0401"
 },
@@ -161,6 +626,24 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -202,6 +685,24 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -221,6 +722,24 @@
 "initialCap": 1
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -262,6 +781,24 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -285,7 +822,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Individual Project"
 }

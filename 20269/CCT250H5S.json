@@ -22,13 +22,46 @@
 54,
 54,
 57,
-57
+57,
+61,
+61,
+60,
+60,
+60,
+61,
+63,
+60,
+74,
+73,
+71,
+73,
+72,
+69,
+69,
+72,
+76,
+76
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Stephen",
+"lastName": "Surlin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +85,25 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+5,
+10,
+12,
+15,
+29,
+29,
+40,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -82,13 +133,46 @@
 16,
 16,
 17,
-17
+17,
+21,
+21,
+23,
+23,
+25,
+25,
+26,
+27,
+56,
+56,
+56,
+57,
+57,
+58,
+58,
+62,
+64,
+64
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aranya",
+"lastName": "Khurana"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aranya",
+"lastName": "Khurana"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 }
@@ -105,7 +189,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Foundations of Digital Design and Production"
 }

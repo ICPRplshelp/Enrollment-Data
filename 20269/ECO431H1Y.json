@@ -22,15 +22,111 @@
 0,
 0,
 0,
-0
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+2,
+2,
+2
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yanyou",
+"lastName": "Chen"
+}
+],
+"timing": 1789179152
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Yanyou",
+"lastName": "Chen"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Yoram",
+"lastName": "Halevy"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Yoram",
+"lastName": "Halevy"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
 }
 ],
 "timeIntervals": [
@@ -45,7 +141,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Reading Course or Thesis"
 }

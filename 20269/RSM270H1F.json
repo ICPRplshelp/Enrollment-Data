@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 10,
 32,
 35,
-36
+36,
+37,
+38,
+40,
+40,
+41,
+40,
+40,
+39,
+42,
+57,
+69,
+74,
+75,
+78,
+78,
+73,
+72,
+72
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +73,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -67,7 +95,25 @@
 24,
 64,
 67,
-68
+68,
+70,
+70,
+70,
+70,
+69,
+70,
+72,
+74,
+71,
+74,
+74,
+76,
+79,
+79,
+79,
+73,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +141,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 70,
+"enrollmentCap": 73,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 73,
+"time": 1789179152
+}
+],
 "initialCap": 70
 },
 "enrollmentLogs": [
@@ -112,7 +163,25 @@
 12,
 72,
 72,
-72
+72,
+72,
+72,
+71,
+71,
+73,
+73,
+73,
+73,
+73,
+75,
+76,
+76,
+80,
+79,
+79,
+73,
+73,
+73
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +226,25 @@
 12,
 58,
 60,
-60
+60,
+64,
+66,
+70,
+70,
+70,
+71,
+73,
+74,
+71,
+71,
+73,
+74,
+75,
+77,
+77,
+70,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +289,25 @@
 15,
 48,
 48,
-48
+48,
+49,
+57,
+57,
+57,
+57,
+54,
+53,
+55,
+61,
+71,
+71,
+74,
+78,
+81,
+81,
+70,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +352,25 @@
 18,
 44,
 47,
-47
+47,
+45,
+46,
+45,
+45,
+45,
+51,
+49,
+50,
+52,
+55,
+59,
+72,
+77,
+77,
+77,
+70,
+70,
+70
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -285,7 +408,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Operations Management"
 }

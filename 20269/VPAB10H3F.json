@@ -5,12 +5,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 80,
+"enrollmentCap": 82,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 80,
 "time": 1784234377
+},
+{
+"newCapacity": 82,
+"time": 1789843675
 }
 ],
 "initialCap": 130
@@ -27,7 +31,25 @@
 0,
 0,
 22,
-29
+29,
+40,
+42,
+46,
+46,
+54,
+60,
+72,
+78,
+75,
+75,
+76,
+81,
+82,
+83,
+83,
+81,
+81,
+81
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -40,13 +62,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Vasuki",
+"lastName": "Shanmuganathan"
+}
+],
+"timing": 1786729205
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Claudia",
-"lastName": "Sicondolfo"
+"firstName": "Vasuki",
+"lastName": "Shanmuganathan"
 }
 ],
 "isCancelled": false,
@@ -65,7 +96,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Equity and Inclusivity in Arts and Media Organizations"
 }

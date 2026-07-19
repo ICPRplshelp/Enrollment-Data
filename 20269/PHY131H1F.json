@@ -5,9 +5,30 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 780,
+"enrollmentCap": 700,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 760,
+"time": 1785689566
+},
+{
+"newCapacity": 736,
+"time": 1786729205
+},
+{
+"newCapacity": 731,
+"time": 1787374227
+},
+{
+"newCapacity": 726,
+"time": 1788312168
+},
+{
+"newCapacity": 700,
+"time": 1789843675
+}
+],
 "initialCap": 780
 },
 "enrollmentLogs": [
@@ -22,7 +43,25 @@
 38,
 122,
 540,
-563
+563,
+605,
+623,
+629,
+629,
+668,
+707,
+703,
+708,
+687,
+694,
+685,
+691,
+682,
+661,
+661,
+629,
+621,
+621
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +74,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+}
+],
+"timing": 1785689566
 }
 ]
 },
@@ -42,6 +94,10 @@
 {
 "firstName": "Matthew",
 "lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
 }
 ],
 "isCancelled": false,
@@ -50,9 +106,30 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 246,
+"enrollmentCap": 326,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 266,
+"time": 1785689566
+},
+{
+"newCapacity": 290,
+"time": 1786729205
+},
+{
+"newCapacity": 295,
+"time": 1787374227
+},
+{
+"newCapacity": 300,
+"time": 1788312168
+},
+{
+"newCapacity": 326,
+"time": 1789843675
+}
+],
 "initialCap": 246
 },
 "enrollmentLogs": [
@@ -67,7 +144,25 @@
 95,
 171,
 250,
-248
+248,
+246,
+254,
+256,
+256,
+268,
+279,
+296,
+298,
+299,
+299,
+300,
+302,
+300,
+305,
+305,
+315,
+313,
+313
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,6 +175,19 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Matthew",
+"lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
+}
+],
+"timing": 1785689566
 }
 ]
 },
@@ -87,6 +195,10 @@
 {
 "firstName": "Matthew",
 "lastName": "Robbins"
+},
+{
+"firstName": "Roya",
+"lastName": "Ghahreman"
 }
 ],
 "isCancelled": false,
@@ -105,7 +217,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Introduction to Physics I"
 }

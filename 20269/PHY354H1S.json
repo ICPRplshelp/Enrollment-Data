@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 178,
+"enrollmentCap": 225,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 225,
+"time": 1784439518
+}
+],
 "initialCap": 178
 },
 "enrollmentLogs": [
@@ -22,13 +27,46 @@
 202,
 217,
 222,
-222
+222,
+225,
+229,
+231,
+231,
+232,
+234,
+234,
+235,
+238,
+236,
+238,
+238,
+239,
+238,
+238,
+238,
+238,
+238
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Love"
+}
+],
+"timing": 1789179152
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Love"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -61,13 +99,46 @@
 26,
 26,
 26,
-26
+26,
+26,
+26,
+25,
+25,
+26,
+26,
+26,
+26,
+26,
+26,
+27,
+27,
+27,
+27,
+27,
+24,
+23,
+23
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Peter",
+"lastName": "Love"
+}
+],
+"timing": 1789179152
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Peter",
+"lastName": "Love"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -84,7 +155,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Advanced Classical Mechanics"
 }

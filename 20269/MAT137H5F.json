@@ -22,7 +22,25 @@
 11,
 10,
 102,
-100
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+100,
+101,
+97,
+96,
+94,
+92,
+91,
+95,
+95,
+90,
+89,
+89
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -66,6 +84,24 @@
 9,
 10,
 10,
+100,
+100,
+102,
+100,
+100,
+100,
+101,
+100,
+103,
+104,
+100,
+100,
+98,
+100,
+100,
+99,
+99,
+98,
 100,
 100
 ],
@@ -112,7 +148,25 @@
 2,
 2,
 69,
-72
+72,
+89,
+92,
+90,
+90,
+92,
+95,
+100,
+101,
+99,
+94,
+93,
+95,
+95,
+91,
+91,
+89,
+88,
+88
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +194,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 105,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 105,
+"time": 1788312168
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
@@ -157,7 +216,25 @@
 4,
 4,
 93,
-92
+92,
+99,
+100,
+100,
+100,
+99,
+98,
+101,
+100,
+105,
+101,
+102,
+102,
+97,
+98,
+98,
+101,
+102,
+102
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -202,7 +279,25 @@
 3,
 3,
 78,
-81
+81,
+91,
+90,
+95,
+95,
+99,
+100,
+101,
+100,
+100,
+97,
+97,
+100,
+99,
+100,
+100,
+100,
+98,
+98
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -247,7 +342,25 @@
 2,
 2,
 103,
-102
+102,
+100,
+100,
+100,
+100,
+100,
+100,
+101,
+102,
+100,
+99,
+99,
+101,
+100,
+100,
+100,
+100,
+95,
+95
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -275,12 +388,35 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1788312168
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -299,18 +435,41 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0107"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 100,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1788312168
+}
+],
 "initialCap": 100
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -329,7 +488,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0108"
 }
 ],
@@ -345,7 +504,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Differential Calculus for Mathematical Sciences"
 }

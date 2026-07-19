@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1788312168
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 82,
 80,
 80,
-80
+80,
+60,
+61,
+61,
+61,
+61,
+61,
+61,
+60,
+59,
+58,
+58,
+58,
+59,
+60,
+60,
+56,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -48,11 +71,79 @@
 "meetingNumber": "LEC0101"
 },
 {
-"createdAt": 1781442026,
+"createdAt": 1784439518,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 53,
 "enrollmentCapComplex": {
 "capChanges": [],
+"initialCap": 53
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+26,
+26,
+27,
+27,
+28,
+34,
+35,
+35,
+41,
+41,
+41,
+43,
+44,
+54,
+54,
+53,
+52,
+52
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jan",
+"lastName": "Mahrt-Smith"
+}
+],
+"timing": 1784695665
+}
+]
+},
+"instructors": [
+{
+"firstName": "Jan",
+"lastName": "Mahrt-Smith"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1781442026,
+"delivery": "INPER",
+"enrollmentCap": 55,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1789843675
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -67,7 +158,25 @@
 74,
 73,
 73,
-74
+74,
+64,
+63,
+62,
+62,
+62,
+55,
+55,
+55,
+52,
+54,
+54,
+54,
+54,
+55,
+55,
+55,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -105,7 +214,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Sustainable Finance"
 }

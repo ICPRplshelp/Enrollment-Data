@@ -1,0 +1,111 @@
+{
+"code": "ISP490Y5Y",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1787374227,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michael",
+"lastName": "DeBraga"
+}
+],
+"timing": 1788900897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michael",
+"lastName": "DeBraga"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1787374227,
+"delivery": "INPER",
+"enrollmentCap": 1,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 1
+},
+"enrollmentLogs": [
+0,
+1,
+0,
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Sheila",
+"lastName": "Batacharya"
+}
+],
+"timing": 1788900897
+}
+]
+},
+"instructors": [
+{
+"firstName": "Sheila",
+"lastName": "Batacharya"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+}
+],
+"timeIntervals": [
+1787374226,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Independent Reading"
+}

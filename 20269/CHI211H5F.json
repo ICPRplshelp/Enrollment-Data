@@ -22,13 +22,46 @@
 6,
 6,
 28,
+29,
+33,
+31,
+32,
+32,
+36,
+38,
+42,
+40,
+41,
+39,
+37,
+38,
+41,
+48,
+48,
+46,
+29,
 29
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,7 +85,25 @@
 12,
 12,
 33,
-33
+33,
+33,
+34,
+33,
+33,
+35,
+38,
+41,
+43,
+44,
+38,
+38,
+37,
+37,
+47,
+47,
+42,
+26,
+26
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -97,13 +148,46 @@
 7,
 7,
 30,
-29
+29,
+31,
+31,
+31,
+31,
+32,
+37,
+41,
+42,
+42,
+40,
+39,
+39,
+39,
+46,
+46,
+42,
+28,
+28
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0301"
 },
@@ -127,7 +211,25 @@
 5,
 5,
 12,
-12
+12,
+30,
+30,
+31,
+31,
+32,
+37,
+41,
+43,
+42,
+37,
+37,
+38,
+38,
+47,
+47,
+42,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,13 +242,22 @@
 }
 ],
 "timing": 1783375107
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1786148704
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Chiu-Hung",
-"lastName": "Chen"
+"firstName": "Jing",
+"lastName": "Li"
 }
 ],
 "isCancelled": false,
@@ -172,13 +283,46 @@
 12,
 12,
 22,
-21
+21,
+25,
+28,
+31,
+31,
+31,
+36,
+41,
+40,
+40,
+37,
+35,
+37,
+37,
+42,
+42,
+42,
+30,
+30
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
+"timing": 1786148704
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jing",
+"lastName": "Li"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0501"
 }
@@ -195,7 +339,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Chinese for Academic Purposes I"
 }

@@ -22,13 +22,46 @@
 96,
 943,
 999,
-1011
+1011,
+1033,
+1069,
+1080,
+1080,
+1094,
+1107,
+1110,
+1109,
+1077,
+1083,
+1089,
+1092,
+1089,
+1082,
+1082,
+1015,
+1013,
+1013
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +85,46 @@
 86,
 434,
 430,
-430
+430,
+434,
+469,
+472,
+472,
+477,
+486,
+492,
+488,
+451,
+456,
+458,
+462,
+461,
+458,
+458,
+400,
+397,
+397
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Kenneth",
+"lastName": "Yip"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -75,7 +141,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "From Genes to Organisms"
 }

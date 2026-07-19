@@ -5,9 +5,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 340,
+"time": 1786729205
+},
+{
+"newCapacity": 350,
+"time": 1788466516
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -22,22 +31,64 @@
 48,
 49,
 394,
-370
+370,
+320,
+315,
+316,
+316,
+335,
+346,
+340,
+340,
+348,
+334,
+330,
+327,
+325,
+309,
+309,
+300,
+296,
+296
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 340,
+"time": 1786729205
+},
+{
+"newCapacity": 350,
+"time": 1788466516
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -52,13 +103,46 @@
 68,
 70,
 401,
-378
+378,
+319,
+318,
+316,
+316,
+334,
+339,
+341,
+341,
+348,
+335,
+342,
+350,
+349,
+349,
+349,
+351,
+348,
+348
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0102"
 },
@@ -82,22 +166,64 @@
 59,
 59,
 367,
-355
+355,
+309,
+308,
+304,
+304,
+346,
+364,
+352,
+351,
+350,
+329,
+323,
+324,
+319,
+324,
+324,
+314,
+300,
+300
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 350,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 340,
+"time": 1786729205
+},
+{
+"newCapacity": 350,
+"time": 1788466516
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
@@ -112,13 +238,46 @@
 3,
 3,
 10,
-81
+81,
+262,
+277,
+296,
+296,
+319,
+331,
+311,
+340,
+345,
+318,
+313,
+303,
+314,
+302,
+302,
+303,
+304,
+304
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "W Lee",
+"lastName": "Bailey"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0202"
 },
@@ -142,25 +301,81 @@
 34,
 34,
 355,
-343
+343,
+310,
+309,
+307,
+307,
+345,
+361,
+354,
+353,
+352,
+326,
+323,
+322,
+319,
+325,
+325,
+314,
+300,
+300
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
+"timing": 1785689566
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Aaron",
+"lastName": "Weisbrod"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0203"
 },
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 300,
+"enrollmentCap": 0,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 0,
+"time": 1789179152
+}
+],
 "initialCap": 300
 },
 "enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0,
 0,
 0,
@@ -179,7 +394,7 @@
 "instructorChanges": []
 },
 "instructors": [],
-"isCancelled": false,
+"isCancelled": true,
 "meetingNumber": "LEC0301"
 }
 ],
@@ -195,7 +410,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Principles of Microeconomics"
 }

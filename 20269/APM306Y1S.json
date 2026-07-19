@@ -1,0 +1,33 @@
+{
+"code": "APM306Y1S",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1790202095,
+"delivery": "INPER",
+"enrollmentCap": 50,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 50
+},
+"enrollmentLogs": [
+0,
+3,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1790202094,
+1790202095,
+1790256194
+],
+"title": "Mathematics and Law"
+}

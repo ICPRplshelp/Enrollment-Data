@@ -22,7 +22,25 @@
 2,
 19,
 20,
-17
+17,
+17,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+19,
+22,
+25,
+28,
+28,
+27,
+27,
+28,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +68,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -67,7 +90,25 @@
 1,
 38,
 41,
-41
+41,
+40,
+41,
+42,
+42,
+42,
+42,
+44,
+44,
+40,
+48,
+50,
+52,
+52,
+52,
+52,
+46,
+46,
+46
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +136,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1789179152
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -112,7 +158,25 @@
 1,
 23,
 25,
-26
+26,
+26,
+28,
+28,
+28,
+29,
+31,
+30,
+30,
+33,
+34,
+35,
+35,
+36,
+35,
+35,
+36,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +204,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -157,6 +226,24 @@
 10,
 77,
 77,
+79,
+82,
+80,
+80,
+80,
+80,
+80,
+81,
+81,
+81,
+81,
+82,
+82,
+82,
+79,
+79,
+80,
+79,
 79
 ],
 "instructorLog": {
@@ -195,7 +282,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Management Accounting I"
 }

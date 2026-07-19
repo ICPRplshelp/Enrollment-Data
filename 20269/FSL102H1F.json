@@ -22,13 +22,46 @@
 10,
 16,
 20,
-21
+21,
+24,
+29,
+25,
+25,
+24,
+25,
+29,
+28,
+27,
+28,
+31,
+32,
+39,
+46,
+46,
+40,
+38,
+38
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
+"timing": 1788466516
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Marie-theres",
+"lastName": "Ballin"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 },
@@ -52,13 +85,46 @@
 11,
 22,
 27,
-26
+26,
+25,
+28,
+31,
+31,
+32,
+36,
+38,
+38,
+41,
+42,
+42,
+41,
+45,
+45,
+45,
+40,
+39,
+39
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Fan",
+"lastName": "Xu"
+}
+],
+"timing": 1787374227
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Fan",
+"lastName": "Xu"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0201"
 }
@@ -75,7 +141,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Elementary French II"
 }

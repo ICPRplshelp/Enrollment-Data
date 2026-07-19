@@ -22,13 +22,46 @@
 3,
 3,
 8,
-8
+8,
+9,
+8,
+6,
+6,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+6,
+6,
+6,
+6,
+4,
+5,
+5
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 },
@@ -52,7 +85,25 @@
 9,
 9,
 11,
-15
+15,
+14,
+14,
+14,
+14,
+14,
+15,
+16,
+15,
+15,
+16,
+15,
+16,
+17,
+18,
+18,
+19,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -65,13 +116,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Marina",
-"lastName": "Dinkha"
+"firstName": "Christopher John",
+"lastName": "Flores"
 }
 ],
 "isCancelled": false,
@@ -97,6 +157,24 @@
 0,
 0,
 0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
 0
 ],
 "instructorLog": {
@@ -110,13 +188,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Christopher John",
+"lastName": "Flores"
+}
+],
+"timing": 1788312168
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Rachael",
-"lastName": "Miller"
+"firstName": "Christopher John",
+"lastName": "Flores"
 }
 ],
 "isCancelled": false,
@@ -135,7 +222,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Integrating Your Work Term Experience II"
 }

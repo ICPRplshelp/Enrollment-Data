@@ -1,0 +1,54 @@
+{
+"code": "HIS496H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1789179152,
+"delivery": "INPER",
+"enrollmentCap": 11,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 11
+},
+"enrollmentLogs": [
+0,
+2,
+2,
+4,
+5,
+5
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Russell",
+"lastName": "Kazal"
+}
+],
+"timing": 1789179152
+}
+]
+},
+"instructors": [
+{
+"firstName": "Russell",
+"lastName": "Kazal"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
+}
+],
+"timeIntervals": [
+1789179151,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Advanced Topics in History"
+}

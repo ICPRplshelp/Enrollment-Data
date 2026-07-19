@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 335,
+"enrollmentCap": 340,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 340,
+"time": 1789843675
+}
+],
 "initialCap": 335
 },
 "enrollmentLogs": [
@@ -22,13 +27,46 @@
 115,
 116,
 160,
-163
+163,
+166,
+167,
+170,
+170,
+173,
+194,
+199,
+218,
+234,
+240,
+244,
+256,
+261,
+304,
+304,
+340,
+339,
+339
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Jovan",
+"lastName": "Stefanovic"
+}
+],
+"timing": 1784439518
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Jovan",
+"lastName": "Stefanovic"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -45,7 +83,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Water"
 }

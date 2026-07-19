@@ -5,9 +5,14 @@
 {
 "createdAt": 1783375107,
 "delivery": "INPER",
-"enrollmentCap": 40,
+"enrollmentCap": 42,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 42,
+"time": 1788312168
+}
+],
 "initialCap": 40
 },
 "enrollmentLogs": [
@@ -20,13 +25,46 @@
 33,
 33,
 42,
-41
+41,
+42,
+43,
+42,
+42,
+43,
+45,
+44,
+44,
+45,
+43,
+45,
+47,
+46,
+45,
+45,
+42,
+42,
+42
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mary",
+"lastName": "Chaktsiris"
+}
+],
+"timing": 1788900897
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Mary",
+"lastName": "Chaktsiris"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC01"
 }
@@ -41,7 +79,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Making of Modern Canada"
 }

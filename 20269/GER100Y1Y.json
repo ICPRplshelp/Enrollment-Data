@@ -22,7 +22,25 @@
 4,
 8,
 12,
-12
+12,
+10,
+10,
+11,
+11,
+15,
+18,
+18,
+18,
+17,
+17,
+15,
+17,
+20,
+19,
+19,
+19,
+19,
+19
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,6 +53,19 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Stefana",
+"lastName": "Gargova"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1786729205
 }
 ]
 },
@@ -42,6 +73,10 @@
 {
 "firstName": "Stefana",
 "lastName": "Gargova"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
 }
 ],
 "isCancelled": false,
@@ -67,7 +102,25 @@
 2,
 8,
 15,
-15
+15,
+16,
+18,
+18,
+18,
+22,
+23,
+24,
+22,
+22,
+22,
+21,
+21,
+24,
+20,
+20,
+18,
+18,
+18
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -129,7 +182,25 @@
 3,
 4,
 11,
-11
+11,
+11,
+12,
+12,
+12,
+13,
+13,
+13,
+14,
+15,
+17,
+17,
+16,
+16,
+16,
+16,
+16,
+15,
+15
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -155,6 +226,19 @@
 }
 ],
 "timing": 1783566943
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Somaia",
+"lastName": "Mostafa"
+},
+{
+"firstName": "Eliza",
+"lastName": "Auten"
+}
+],
+"timing": 1788312168
 }
 ]
 },
@@ -164,8 +248,8 @@
 "lastName": "Mostafa"
 },
 {
-"firstName": "EVA",
-"lastName": "SCHEICER"
+"firstName": "Eliza",
+"lastName": "Auten"
 }
 ],
 "isCancelled": false,
@@ -174,9 +258,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 30,
+"enrollmentCap": 19,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 19,
+"time": 1790202095
+}
+],
 "initialCap": 30
 },
 "enrollmentLogs": [
@@ -191,7 +280,25 @@
 3,
 4,
 7,
-7
+7,
+8,
+8,
+9,
+9,
+15,
+16,
+15,
+14,
+16,
+16,
+18,
+16,
+15,
+14,
+14,
+13,
+13,
+13
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -208,17 +315,30 @@
 }
 ],
 "timing": 1783566943
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Lisa",
+"lastName": "Lackner"
+},
+{
+"firstName": "Rudy",
+"lastName": "Yuan"
+}
+],
+"timing": 1789179152
 }
 ]
 },
 "instructors": [
 {
-"firstName": "RUDY",
-"lastName": "YUAN"
-},
-{
 "firstName": "Lisa",
 "lastName": "Lackner"
+},
+{
+"firstName": "Rudy",
+"lastName": "Yuan"
 }
 ],
 "isCancelled": false,
@@ -227,9 +347,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 27,
+"enrollmentCap": 15,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 21,
+"time": 1784439518
+},
+{
+"newCapacity": 15,
+"time": 1789843675
+}
+],
 "initialCap": 27
 },
 "enrollmentLogs": [
@@ -244,7 +373,25 @@
 0,
 2,
 1,
-1
+1,
+0,
+2,
+2,
+2,
+5,
+7,
+7,
+7,
+6,
+6,
+6,
+5,
+5,
+6,
+6,
+6,
+6,
+6
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -261,17 +408,43 @@
 }
 ],
 "timing": 1782150373
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Robinson"
+},
+{
+"firstName": "EVA",
+"lastName": "SCHEICHER"
+}
+],
+"timing": 1788312168
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Hannah",
+"lastName": "Robinson"
+},
+{
+"firstName": "Eva",
+"lastName": "Scheicher"
+}
+],
+"timing": 1789179152
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Eliza",
-"lastName": "Auten"
-},
-{
 "firstName": "Hannah",
 "lastName": "Robinson"
+},
+{
+"firstName": "Eva",
+"lastName": "Scheicher"
 }
 ],
 "isCancelled": false,
@@ -297,7 +470,25 @@
 6,
 9,
 17,
-17
+17,
+17,
+19,
+19,
+19,
+20,
+22,
+24,
+23,
+23,
+24,
+23,
+24,
+23,
+23,
+23,
+20,
+20,
+20
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -310,6 +501,19 @@
 }
 ],
 "timing": 1783566943
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Antonio",
+"lastName": "Vivone"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
+}
+],
+"timing": 1786729205
 }
 ]
 },
@@ -317,6 +521,10 @@
 {
 "firstName": "Antonio",
 "lastName": "Vivone"
+},
+{
+"firstName": "Andre",
+"lastName": "Flicker"
 }
 ],
 "isCancelled": false,
@@ -342,7 +550,25 @@
 6,
 15,
 22,
-22
+22,
+22,
+22,
+22,
+22,
+28,
+33,
+31,
+30,
+31,
+32,
+31,
+30,
+30,
+29,
+29,
+26,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -380,7 +606,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Introduction to German"
 }

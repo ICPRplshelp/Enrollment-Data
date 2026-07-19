@@ -22,13 +22,70 @@
 36,
 35,
 35,
-35
+35,
+34,
+48,
+48,
+48,
+49,
+52,
+51,
+50,
+51,
+50,
+51,
+51,
+51,
+52,
+52,
+53,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
 },
-"instructors": [],
+{
+"firstName": "Anne",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Vijay",
+"lastName": "Ramaswamy"
+},
+{
+"firstName": "Anne Marie",
+"lastName": "Guerguerian"
+}
+],
+"timing": 1790202095
+}
+]
+},
+"instructors": [
+{
+"firstName": "Chirag",
+"lastName": "Vaswani"
+},
+{
+"firstName": "Anne",
+"lastName": "Wheeler"
+},
+{
+"firstName": "Vijay",
+"lastName": "Ramaswamy"
+},
+{
+"firstName": "Anne Marie",
+"lastName": "Guerguerian"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC5101"
 }
@@ -45,7 +102,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Neural Disorders"
 }

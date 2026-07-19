@@ -22,6 +22,24 @@
 112,
 112,
 113,
+112,
+112,
+111,
+112,
+112,
+111,
+110,
+110,
+112,
+113,
+110,
+111,
+111,
+110,
+113,
+113,
+114,
+112,
 112
 ],
 "instructorLog": {
@@ -50,9 +68,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -65,6 +88,24 @@
 108,
 108,
 108,
+108,
+108,
+108,
+108,
+108,
+108,
+108,
+108,
+108,
+109,
+110,
+109,
+109,
+109,
+109,
+109,
+109,
+109,
 108,
 108,
 108
@@ -95,9 +136,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -112,7 +158,25 @@
 113,
 113,
 113,
-113
+113,
+113,
+113,
+112,
+112,
+112,
+112,
+115,
+114,
+113,
+112,
+112,
+112,
+112,
+112,
+112,
+112,
+111,
+111
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -125,13 +189,22 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Violet Wanlin",
+"lastName": "Jiang"
+}
+],
+"timing": 1786148704
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Aleksandar",
-"lastName": "Prodic"
+"firstName": "Violet Wanlin",
+"lastName": "Jiang"
 }
 ],
 "isCancelled": false,
@@ -140,9 +213,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 130,
+"enrollmentCap": 129,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 129,
+"time": 1784439518
+}
+],
 "initialCap": 130
 },
 "enrollmentLogs": [
@@ -157,7 +235,25 @@
 107,
 107,
 107,
-108
+108,
+113,
+112,
+112,
+112,
+112,
+111,
+111,
+111,
+111,
+109,
+108,
+108,
+108,
+110,
+110,
+110,
+110,
+110
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +291,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Introductory Electronics"
 }

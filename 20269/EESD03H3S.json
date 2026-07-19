@@ -1,0 +1,50 @@
+{
+"code": "EESD03H3S",
+"faculty": "SCAR",
+"meetings": [
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 20,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 20
+},
+"enrollmentLogs": [
+0,
+0,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Mathew",
+"lastName": "Wells"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Mathew",
+"lastName": "Wells"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC01"
+}
+],
+"timeIntervals": [
+1789843674,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Physical Limnology"
+}

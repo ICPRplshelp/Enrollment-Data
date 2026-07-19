@@ -1,0 +1,50 @@
+{
+"code": "IMM299H1F",
+"faculty": "ARTSC",
+"meetings": [
+{
+"createdAt": 1789843675,
+"delivery": "INPER",
+"enrollmentCap": 9999,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 9999
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rupert",
+"lastName": "Kaul"
+}
+],
+"timing": 1789843675
+}
+]
+},
+"instructors": [
+{
+"firstName": "Rupert",
+"lastName": "Kaul"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1789843674,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Research Opportunity Program"
+}

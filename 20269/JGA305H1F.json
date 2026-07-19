@@ -5,12 +5,24 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 27,
+"enrollmentCap": 46,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 27,
 "time": 1783375107
+},
+{
+"newCapacity": 51,
+"time": 1784439518
+},
+{
+"newCapacity": 49,
+"time": 1785689566
+},
+{
+"newCapacity": 46,
+"time": 1789179152
 }
 ],
 "initialCap": 32
@@ -27,7 +39,25 @@
 35,
 38,
 38,
-38
+38,
+37,
+37,
+37,
+37,
+37,
+38,
+37,
+38,
+37,
+37,
+37,
+37,
+37,
+37,
+37,
+35,
+36,
+36
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -55,9 +85,18 @@
 {
 "createdAt": 1783375107,
 "delivery": "INPER",
-"enrollmentCap": 5,
+"enrollmentCap": 10,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 7,
+"time": 1785689566
+},
+{
+"newCapacity": 10,
+"time": 1789179152
+}
+],
 "initialCap": 5
 },
 "enrollmentLogs": [
@@ -72,13 +111,46 @@
 5,
 5,
 5,
-5
+5,
+5,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+7,
+8,
+9,
+9,
+9,
+9,
+9,
+9,
+9
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
+"timing": 1788312168
+}
+]
 },
-"instructors": [],
+"instructors": [
+{
+"firstName": "Rodrigo",
+"lastName": "Correa Rangel"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC2001"
 }
@@ -95,7 +167,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Environmental and Archaeological Geophysics"
 }

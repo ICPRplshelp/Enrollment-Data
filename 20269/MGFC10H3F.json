@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 101,
 100,
 103,
-101
+101,
+97,
+97,
+97,
+97,
+95,
+93,
+88,
+87,
+84,
+83,
+82,
+81,
+82,
+82,
+82,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +73,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -67,7 +95,25 @@
 57,
 60,
 65,
-65
+65,
+69,
+68,
+69,
+69,
+69,
+76,
+78,
+78,
+76,
+75,
+75,
+75,
+77,
+75,
+75,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +141,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -112,7 +163,25 @@
 84,
 83,
 88,
-89
+89,
+92,
+91,
+91,
+91,
+90,
+88,
+83,
+84,
+83,
+80,
+79,
+78,
+79,
+79,
+79,
+62,
+62,
+62
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,9 +209,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 60,
+"enrollmentCap": 63,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 63,
+"time": 1786729205
+}
+],
 "initialCap": 60
 },
 "enrollmentLogs": [
@@ -157,7 +231,25 @@
 66,
 65,
 66,
-67
+67,
+69,
+69,
+70,
+70,
+69,
+77,
+78,
+78,
+79,
+76,
+75,
+75,
+76,
+76,
+76,
+63,
+63,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +287,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Intermediate Finance"
 }

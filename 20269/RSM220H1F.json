@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1789843675
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 6,
 48,
 49,
-49
+49,
+49,
+52,
+52,
+52,
+52,
+53,
+53,
+54,
+52,
+55,
+55,
+55,
+55,
+53,
+53,
+54,
+53,
+53
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +73,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1789843675
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -67,7 +95,25 @@
 2,
 56,
 57,
-57
+57,
+57,
+57,
+57,
+57,
+57,
+56,
+56,
+56,
+54,
+57,
+57,
+57,
+54,
+55,
+55,
+52,
+54,
+54
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +141,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1789843675
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -112,7 +163,25 @@
 11,
 58,
 58,
-58
+58,
+58,
+59,
+60,
+60,
+60,
+60,
+60,
+60,
+57,
+60,
+60,
+58,
+57,
+57,
+57,
+57,
+57,
+57
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -157,7 +226,25 @@
 1,
 4,
 4,
-4
+4,
+5,
+7,
+7,
+7,
+7,
+8,
+8,
+8,
+11,
+14,
+20,
+23,
+26,
+29,
+29,
+29,
+29,
+29
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -195,7 +282,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Intermediate Financial Accounting I"
 }

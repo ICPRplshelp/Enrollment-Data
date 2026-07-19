@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 54,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 54,
+"time": 1786729205
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 43,
 43,
 44,
-44
+44,
+47,
+47,
+46,
+46,
+47,
+47,
+46,
+47,
+48,
+46,
+46,
+49,
+51,
+49,
+49,
+47,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +73,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 62,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 62,
+"time": 1786729205
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -67,7 +95,25 @@
 60,
 61,
 61,
-60
+60,
+60,
+60,
+59,
+59,
+54,
+53,
+55,
+57,
+60,
+59,
+59,
+59,
+61,
+62,
+62,
+58,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -80,12 +126,21 @@
 }
 ],
 "timing": 1781442026
+},
+{
+"instructorsAfter": [
+{
+"firstName": "Steven",
+"lastName": "Chuang"
+}
+],
+"timing": 1784439518
 }
 ]
 },
 "instructors": [
 {
-"firstName": "Steven Chuang",
+"firstName": "Steven",
 "lastName": "Chuang"
 }
 ],
@@ -95,9 +150,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 72,
+"enrollmentCap": 52,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 52,
+"time": 1786729205
+}
+],
 "initialCap": 72
 },
 "enrollmentLogs": [
@@ -111,6 +171,24 @@
 43,
 44,
 44,
+44,
+44,
+46,
+46,
+46,
+46,
+43,
+43,
+42,
+41,
+38,
+38,
+39,
+38,
+41,
+47,
+47,
+46,
 44,
 44
 ],
@@ -150,7 +228,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Markets and Competitive Strategy"
 }

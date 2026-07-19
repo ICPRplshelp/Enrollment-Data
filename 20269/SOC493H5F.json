@@ -1,0 +1,87 @@
+{
+"code": "SOC493H5F",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1789179152,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+},
+{
+"createdAt": 1789179152,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0201"
+},
+{
+"createdAt": 1789179152,
+"delivery": "INPER",
+"enrollmentCap": 2,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 2
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": []
+},
+"instructors": [],
+"isCancelled": false,
+"meetingNumber": "LEC0301"
+}
+],
+"timeIntervals": [
+1789179151,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Independent Research in Criminology, Law and Society"
+}

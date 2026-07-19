@@ -1,0 +1,64 @@
+{
+"code": "ITA394H5S",
+"faculty": "ERIN",
+"meetings": [
+{
+"createdAt": 1788312168,
+"delivery": "INPER",
+"enrollmentCap": 30,
+"enrollmentCapComplex": {
+"capChanges": [],
+"initialCap": 30
+},
+"enrollmentLogs": [
+0,
+1,
+1,
+1,
+1,
+1,
+1,
+1,
+0,
+0,
+0
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Paola",
+"lastName": "Bernardini"
+}
+],
+"timing": 1788312168
+}
+]
+},
+"instructors": [
+{
+"firstName": "Paola",
+"lastName": "Bernardini"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC0101"
+}
+],
+"timeIntervals": [
+1788312167,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
+],
+"title": "Black Voices in Italian Culture"
+}

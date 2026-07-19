@@ -22,13 +22,70 @@
 30,
 30,
 31,
-31
+31,
+32,
+57,
+61,
+61,
+65,
+68,
+69,
+70,
+70,
+70,
+71,
+72,
+72,
+68,
+68,
+65,
+64,
+63
 ],
 "instructorLog": {
 "initialInstructors": [],
-"instructorChanges": []
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Michelle",
+"lastName": "French"
 },
-"instructors": [],
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+},
+{
+"firstName": "Nigel",
+"lastName": "Pereira"
+},
+{
+"firstName": "Lubna",
+"lastName": "Nadeem"
+}
+],
+"timing": 1789179152
+}
+]
+},
+"instructors": [
+{
+"firstName": "Michelle",
+"lastName": "French"
+},
+{
+"firstName": "Andrea",
+"lastName": "Jurisicova"
+},
+{
+"firstName": "Nigel",
+"lastName": "Pereira"
+},
+{
+"firstName": "Lubna",
+"lastName": "Nadeem"
+}
+],
 "isCancelled": false,
 "meetingNumber": "LEC0101"
 }
@@ -45,7 +102,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Reproduction: Development and Function"
 }

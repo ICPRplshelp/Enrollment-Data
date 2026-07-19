@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 53,
+"enrollmentCap": 56,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 56,
+"time": 1789179152
+}
+],
 "initialCap": 53
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 1,
 23,
 26,
-26
+26,
+28,
+32,
+32,
+32,
+33,
+35,
+36,
+36,
+37,
+47,
+53,
+55,
+53,
+54,
+54,
+56,
+56,
+56
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -50,9 +73,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1789179152
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -67,7 +95,25 @@
 3,
 59,
 61,
-60
+60,
+60,
+59,
+60,
+60,
+60,
+59,
+59,
+58,
+57,
+60,
+60,
+60,
+60,
+60,
+60,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -95,9 +141,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 58,
+"time": 1789179152
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -112,7 +163,25 @@
 1,
 7,
 8,
-8
+8,
+8,
+9,
+11,
+11,
+11,
+11,
+12,
+14,
+14,
+19,
+22,
+24,
+30,
+37,
+37,
+44,
+45,
+45
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -140,12 +209,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1789179152
 }
 ],
 "initialCap": 50
@@ -162,7 +235,25 @@
 4,
 56,
 57,
-56
+56,
+55,
+57,
+56,
+56,
+56,
+56,
+56,
+56,
+60,
+62,
+60,
+59,
+58,
+60,
+60,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -190,9 +281,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 52,
+"enrollmentCap": 55,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1789179152
+}
+],
 "initialCap": 52
 },
 "enrollmentLogs": [
@@ -207,7 +303,25 @@
 27,
 96,
 94,
-89
+89,
+85,
+84,
+82,
+82,
+82,
+78,
+76,
+76,
+72,
+73,
+69,
+68,
+65,
+64,
+64,
+55,
+55,
+55
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -235,9 +349,18 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 50,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 55,
+"time": 1784439518
+},
+{
+"newCapacity": 58,
+"time": 1789179152
+}
+],
 "initialCap": 50
 },
 "enrollmentLogs": [
@@ -252,7 +375,25 @@
 0,
 53,
 53,
-53
+53,
+55,
+55,
+56,
+56,
+54,
+57,
+56,
+58,
+60,
+63,
+57,
+58,
+57,
+60,
+60,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -280,9 +421,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -297,7 +443,25 @@
 1,
 8,
 9,
-9
+9,
+10,
+11,
+10,
+10,
+10,
+10,
+10,
+10,
+10,
+12,
+13,
+17,
+16,
+19,
+19,
+25,
+24,
+24
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -325,9 +489,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -342,7 +511,25 @@
 0,
 24,
 29,
-30
+30,
+31,
+31,
+32,
+32,
+32,
+33,
+32,
+32,
+36,
+45,
+56,
+59,
+58,
+58,
+58,
+59,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -370,9 +557,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -387,7 +579,25 @@
 3,
 80,
 80,
-78
+78,
+79,
+80,
+80,
+80,
+80,
+77,
+73,
+71,
+71,
+75,
+71,
+70,
+68,
+65,
+65,
+59,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -415,9 +625,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 56,
+"enrollmentCap": 59,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
 "initialCap": 56
 },
 "enrollmentLogs": [
@@ -432,7 +647,25 @@
 10,
 73,
 74,
-72
+72,
+70,
+71,
+71,
+71,
+71,
+69,
+71,
+71,
+72,
+72,
+67,
+67,
+66,
+62,
+62,
+59,
+59,
+59
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -460,12 +693,16 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 58,
 "enrollmentCapComplex": {
 "capChanges": [
 {
 "newCapacity": 55,
 "time": 1784431933
+},
+{
+"newCapacity": 58,
+"time": 1789179152
 }
 ],
 "initialCap": 47
@@ -482,7 +719,25 @@
 5,
 58,
 59,
-59
+59,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+61,
+60,
+61,
+60,
+62,
+61,
+60,
+60,
+58,
+58,
+58
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -510,9 +765,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "INPER",
-"enrollmentCap": 55,
+"enrollmentCap": 60,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 60,
+"time": 1789179152
+}
+],
 "initialCap": 55
 },
 "enrollmentLogs": [
@@ -527,7 +787,25 @@
 7,
 80,
 81,
-79
+79,
+76,
+77,
+77,
+77,
+76,
+70,
+70,
+69,
+68,
+68,
+64,
+65,
+64,
+62,
+62,
+60,
+60,
+60
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -551,6 +829,74 @@
 ],
 "isCancelled": false,
 "meetingNumber": "LEC1201"
+},
+{
+"createdAt": 1784439518,
+"delivery": "INPER",
+"enrollmentCap": 59,
+"enrollmentCapComplex": {
+"capChanges": [
+{
+"newCapacity": 59,
+"time": 1789179152
+}
+],
+"initialCap": 55
+},
+"enrollmentLogs": [
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+3,
+4,
+4,
+6,
+10,
+10,
+13,
+17,
+22,
+27,
+26,
+33,
+34,
+34,
+39,
+39,
+39
+],
+"instructorLog": {
+"initialInstructors": [],
+"instructorChanges": [
+{
+"instructorsAfter": [
+{
+"firstName": "Amy",
+"lastName": "Kwan"
+}
+],
+"timing": 1784695665
+}
+]
+},
+"instructors": [
+{
+"firstName": "Amy",
+"lastName": "Kwan"
+}
+],
+"isCancelled": false,
+"meetingNumber": "LEC5101"
 }
 ],
 "timeIntervals": [
@@ -565,7 +911,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "Management Accounting I"
 }

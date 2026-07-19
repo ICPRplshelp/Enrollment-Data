@@ -5,9 +5,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1786729205
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -22,7 +27,25 @@
 86,
 101,
 117,
-117
+117,
+111,
+103,
+103,
+103,
+123,
+132,
+135,
+140,
+138,
+139,
+137,
+136,
+131,
+133,
+133,
+140,
+143,
+144
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -35,9 +58,14 @@
 {
 "createdAt": 1781442026,
 "delivery": "ASYNC",
-"enrollmentCap": 35,
+"enrollmentCap": 40,
 "enrollmentCapComplex": {
-"capChanges": [],
+"capChanges": [
+{
+"newCapacity": 40,
+"time": 1786729205
+}
+],
 "initialCap": 35
 },
 "enrollmentLogs": [
@@ -52,7 +80,25 @@
 79,
 100,
 114,
-112
+112,
+108,
+100,
+101,
+101,
+119,
+129,
+129,
+131,
+131,
+132,
+130,
+126,
+126,
+131,
+131,
+137,
+141,
+141
 ],
 "instructorLog": {
 "initialInstructors": [],
@@ -75,7 +121,25 @@
 1783952570,
 1783994610,
 1784234377,
-1784431933
+1784431933,
+1784439518,
+1784695665,
+1785194573,
+1785238576,
+1785689566,
+1786148704,
+1786729205,
+1787374227,
+1788312168,
+1788466516,
+1788626451,
+1788806912,
+1788900897,
+1789179152,
+1789313770,
+1789843675,
+1790202095,
+1790256194
 ],
 "title": "American Sign Language 1"
 }
